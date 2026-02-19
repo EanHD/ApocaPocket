@@ -1,0 +1,28 @@
+TITLE: Wood Joinery for Low-Tech Construction
+CAT: L4
+SUB: tool_making
+TAGS: joinery,woodworking,structure
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Durable non-metal and mixed joinery patterns for repairs and simple structures.
+
+[STEPS]
+1. Choose joint type based on load direction.
+2. Cut clean mating surfaces.
+3. Use pegs/lashings where metal fasteners unavailable.
+4. Test load progressively before use.
+
+[WARNINGS]
+! Improper joint orientation can fail catastrophically.
+! Moisture cycling weakens loose fits.
+
+[RELATED]
+> l3-wood-hardwood-vs-softwood
+> l5-structural-load-paths
+
+[SOURCES]
+@ usfs-wood-handbook-2021
+@ openstax-engineering-statics

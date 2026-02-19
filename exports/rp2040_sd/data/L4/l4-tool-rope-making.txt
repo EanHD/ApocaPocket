@@ -1,0 +1,31 @@
+TITLE: Rope and Cordage from Plant Fibers
+CAT: L4
+SUB: tool_making
+TAGS: rope,cordage,fiber,twisting,plant-fiber
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Making strong rope and cordage from natural plant fibers using twisting and plying techniques.
+
+[STEPS]
+1. Harvest fiber sources: inner bark (linden, elm), leaf fibers (yucca, cattail), bast fibers (nettle, hemp, flax).
+2. Ret (soak) fibers in water for days to separate from plant material, then dry.
+3. Twist individual fibers into yarn by rolling on thigh or between palms.
+4. Reverse-wrap (ply) two yarns together: twist each strand clockwise, wrap them counterclockwise around each other.
+5. Splice in new fibers by overlapping 5–10cm before old fiber runs out.
+6. Three-ply rope: braid or ply three two-ply cords together for greater strength.
+7. Test cordage strength before relying on it for critical loads.
+
+[WARNINGS]
+! Some fiber plants cause skin irritation (nettles)—wear gloves during harvest.
+! Natural cordage degrades when wet—dry thoroughly after use.
+
+[RELATED]
+> l4-tool-weaving-basics
+> l4-tool-bow-and-drill
+
+[SOURCES]
+@ nols-wilderness-guide
+@ bsa-handbook

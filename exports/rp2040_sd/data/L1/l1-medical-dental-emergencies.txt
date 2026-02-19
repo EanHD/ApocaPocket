@@ -1,0 +1,31 @@
+TITLE: Emergency Dental Care
+CAT: L1
+SUB: medical_first_aid
+TAGS: dental,toothache,extraction,oral
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Managing dental emergencies including toothache, lost fillings, and knocked-out teeth.
+
+[STEPS]
+1. For toothache: rinse with warm saltwater; apply clove oil (eugenol) if available.
+2. For lost filling: pack cavity with temporary dental cement, sugar-free gum, or candle wax.
+3. For knocked-out tooth: handle by crown only, rinse gently, reinsert in socket or store in milk/saliva.
+4. For abscess: rinse with warm saltwater frequently; antibiotics if available.
+5. Control pain with ibuprofen or acetaminophen.
+6. Avoid extraction unless tooth is severely infected and no antibiotics available.
+
+[WARNINGS]
+! Dental infections can spread to throat/brain and become life-threatening.
+! Field extraction carries high risk of jaw fracture and hemorrhage.
+! Never place aspirin directly on gums — causes chemical burns.
+
+[RELATED]
+> l1-medical-basic-pharmacology
+> l1-medical-infection-prevention
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ us-army-fm-4-25-11

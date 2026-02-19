@@ -1,0 +1,29 @@
+TITLE: Broadleaf Plantain (Plantago major)
+CAT: L2
+SUB: edible_plants
+TAGS: plantain,wound-herb,greens,global
+REGION: global,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Common lawn and trailside plant with edible leaves and medicinal wound-care tradition. Young leaves eaten raw or cooked; older leaves are fibrous but still nutritious.
+
+[STEPS]
+1. Identify by basal rosette of broad oval leaves with prominent parallel veins and a central flower spike.
+2. Harvest young leaves for salads; older leaves are better cooked.
+3. Seeds can be collected and ground as a fiber supplement (related to psyllium).
+4. Poultice of crushed leaves traditionally applied to insect stings and minor wounds.
+
+[WARNINGS]
+! Not the same as banana-family plantain.
+! Avoid harvesting from treated lawns.
+
+[RELATED]
+> l2-plants-dandelion
+> l2-plants-clover
+> l2-plants-identification-protocol
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database

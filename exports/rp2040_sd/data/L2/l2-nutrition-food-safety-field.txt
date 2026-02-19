@@ -1,0 +1,32 @@
+TITLE: Preventing Foodborne Illness in Field Conditions
+CAT: L2
+SUB: nutrition
+TAGS: food-safety,contamination,cooking,storage
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Field food safety principles to prevent the GI illness that can be deadly when medical care is unavailable. Cook thoroughly, eat promptly, store carefully.
+
+[STEPS]
+1. Cook all meat, fish, and eggs to internal temps that kill pathogens (boiling/thorough cooking if no thermometer).
+2. Eat cooked food within 2 hours or keep below 5°C / above 60°C.
+3. Clean hands and tools before food preparation.
+4. Separate raw meat from other foods.
+5. When in doubt about freshness: smell, visual check, discard if any doubt.
+
+[WARNINGS]
+! Diarrheal illness causes rapid dehydration — potentially fatal without treatment.
+! Botulism risk in improperly preserved/canned foods.
+! Do not rely on smell alone for meat safety.
+
+[RELATED]
+> l2-meat-preservation
+> l2-nutrition-macros-basics
+> l1-medical-dehydration
+
+[SOURCES]
+@ usda-meat-preservation
+@ who-basic-emergency-care-2018
+@ cdc-water-emergency

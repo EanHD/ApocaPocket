@@ -1,0 +1,29 @@
+TITLE: Lamb's Quarters (Chenopodium album)
+CAT: L2
+SUB: edible_plants
+TAGS: lambs-quarters,spinach-substitute,greens,seeds
+REGION: global,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+One of the best wild spinach substitutes. Extremely common garden weed with diamond-shaped leaves coated in white mealy powder. More nutritious than cultivated spinach.
+
+[STEPS]
+1. Identify by diamond/goosefoot-shaped leaves with white powdery coating, especially on new growth.
+2. Harvest young leaves and tender tops.
+3. Cook like spinach — sauté, steam, or add to soups.
+4. Seeds are edible and can be ground to flour (related to quinoa).
+
+[WARNINGS]
+! Contains oxalic acid — cook to reduce; avoid if prone to kidney stones.
+! Can accumulate nitrates from fertilized soil.
+
+[RELATED]
+> l2-plants-amaranth
+> l2-plants-chickweed
+> l2-plants-stinging-nettle
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database

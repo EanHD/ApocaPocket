@@ -1,0 +1,30 @@
+TITLE: Chicken of the Woods (Laetiporus sulphureus)
+CAT: L2
+SUB: mushrooms
+TAGS: chicken-of-the-woods,bracket,summer-fall
+REGION: temperate,global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Large bright orange-and-yellow bracket fungus growing on hardwood trees. Meaty texture when young. One of the easier mushrooms to identify safely.
+
+[STEPS]
+1. Identify by large overlapping shelves, bright orange top and yellow pore surface (no gills), growing on standing/fallen hardwood.
+2. Harvest young tender edges only — older portions become tough and chalky.
+3. Spore print: white.
+4. Cook thoroughly — slice and sauté, bread and fry, or add to soups.
+
+[WARNINGS]
+! Some people have GI reactions — try a small amount first.
+! Avoid specimens growing on conifers, eucalyptus, or locust — higher reaction rates.
+! Do not eat raw.
+
+[RELATED]
+> l2-mushrooms-hen-of-the-woods
+> l2-mushrooms-safety
+> l2-mushrooms-oyster
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides

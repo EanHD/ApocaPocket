@@ -1,0 +1,29 @@
+TITLE: Dead Reckoning: Pace Counting and Direction Tracking
+CAT: L5
+SUB: navigation
+TAGS: navigation,dead_reckoning,pace_count,tracking
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Navigating by tracking direction and distance traveled from a known starting point.
+
+[STEPS]
+1. Calibrate your pace count: walk 100m on flat ground, count double-steps.
+2. Use a compass bearing and walk a set number of paces to travel known distances.
+3. Record each leg: bearing, pace count, and terrain notes.
+4. Adjust pace count for slope (uphill = shorter paces) and terrain (brush = more paces).
+5. Cross-check position with terrain features whenever possible.
+
+[WARNINGS]
+! Errors accumulate with distance—verify position frequently.
+! Detours around obstacles must be carefully tracked to avoid drift.
+
+[RELATED]
+> l5-map-reading-basics
+> l5-nav-compass-construction
+> l5-math-measurement-systems
+
+[SOURCES]
+@ army-land-navigation-fm-3-25-26

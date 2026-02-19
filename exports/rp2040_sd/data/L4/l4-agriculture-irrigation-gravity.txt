@@ -1,0 +1,31 @@
+TITLE: Gravity-Fed Irrigation Design
+CAT: L4
+SUB: agriculture
+TAGS: irrigation,gravity,water,drip,furrow
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Designing gravity-fed irrigation systems using elevation differences to deliver water to crops.
+
+[STEPS]
+1. Water source must be higher than the garden—even 1–2m of elevation creates usable pressure.
+2. Calculate: 1m of height = ~0.1 bar (1.4 psi) of water pressure.
+3. Furrow irrigation: dig shallow channels between crop rows, flood periodically from a main canal.
+4. Drip irrigation: run a hose/pipe from an elevated tank, punch small holes near each plant.
+5. Regulate flow: use a valve or pinch clamp at the tank to control delivery rate.
+6. Mulch around plants to reduce evaporation—irrigation is only as good as moisture retention.
+7. Water in early morning or evening to minimize evaporation losses.
+
+[WARNINGS]
+! Standing water breeds mosquitoes—use drip methods when possible.
+! Over-irrigation causes root rot and nutrient leaching.
+
+[RELATED]
+> l4-agriculture-soil-basics
+> l4-agriculture-greenhouse-simple
+
+[SOURCES]
+@ fao-soils-portal
+@ usda-nrcs-soil-health

@@ -1,0 +1,31 @@
+TITLE: Limestone and Calcium Carbonate Applications
+CAT: L3
+SUB: rock_mineral_id
+TAGS: limestone,calcium-carbonate,lime,mortar,agriculture
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Identifying limestone and its wide applications from mortar to soil amendment to water treatment.
+
+[STEPS]
+1. Identify limestone: reacts with acid (vinegar fizzes on surface), usually gray/white, soft (hardness 3).
+2. Agricultural use: crushed limestone raises soil pH for acid soils.
+3. Burn limestone at 900°C+ to produce quicklime (calcium oxide) for mortar and plaster.
+4. Slake quicklime with water to produce calcium hydroxide for whitewash and mortar.
+5. Limestone gravel serves as construction aggregate and drainage material.
+6. Powdered limestone can clarify water by precipitating impurities.
+
+[WARNINGS]
+! Quicklime reacts violently with water—generates extreme heat and can cause burns.
+! Calcium hydroxide (slaked lime) is caustic—avoid skin and eye contact.
+
+[RELATED]
+> l3-chemistry-lime-production
+> l3-minerals-hardness-and-streak
+> l3-chemistry-ph-basics
+
+[SOURCES]
+@ usgs-mineral-education
+@ openstax-chemistry-2e

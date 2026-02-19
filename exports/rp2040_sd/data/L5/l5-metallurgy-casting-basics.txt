@@ -1,0 +1,30 @@
+TITLE: Metal Casting: Sand Casting and Mold Making
+CAT: L5
+SUB: metallurgy
+TAGS: metallurgy,casting,molds,foundry
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Sand casting technique for reproducing metal parts using reusable patterns and sand molds.
+
+[STEPS]
+1. Create a pattern of the desired part from wood or existing object.
+2. Pack greensand (sand + clay + water) around the pattern in a two-part flask (cope and drag).
+3. Remove the pattern, cut gates and risers for metal flow and air escape.
+4. Melt metal in a crucible furnace and pour into the mold cavity.
+5. Allow to cool, break out casting, and finish by filing and grinding.
+
+[WARNINGS]
+! Molten metal is extremely dangerous—wear full protective gear.
+! Moisture in the mold causes steam explosions—dry sand thoroughly.
+
+[RELATED]
+> l5-metallurgy-basics
+> l5-metallurgy-copper-working
+> l5-metallurgy-iron-smelting
+
+[SOURCES]
+@ usgs-mineral-education
+@ mit-ocw-mechanical-engineering

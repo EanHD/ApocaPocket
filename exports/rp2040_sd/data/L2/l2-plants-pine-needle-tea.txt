@@ -1,0 +1,30 @@
+TITLE: Pine Needle Tea (Pinus spp.)
+CAT: L2
+SUB: edible_plants
+TAGS: pine,tea,vitamin-c,conifer,winter
+REGION: global,temperate,boreal,alpine
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Emergency vitamin C source available year-round in conifer forests. Fresh pine needles steeped in hot water produce a mildly resinous, citrusy tea.
+
+[STEPS]
+1. Identify true pines by needles in bundled clusters (fascicles of 2, 3, or 5).
+2. Harvest fresh green needles; chop or bruise to release oils.
+3. Steep in hot (not boiling) water for 10-20 minutes.
+4. Strain and drink. Add sweetener if available.
+
+[WARNINGS]
+! AVOID yew (Taxus), Norfolk Island pine, and Ponderosa pine — toxic.
+! Pregnant women should avoid pine needle tea (potential abortifacient).
+! Some cypress-family trees look similar — confirm true Pinus by fascicle bundles.
+
+[RELATED]
+> l2-plants-rose-hips
+> l2-plants-identification-protocol
+> l2-nutrition-deficiency-signs
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ extension-edible-plants

@@ -1,0 +1,30 @@
+TITLE: Jerusalem Artichoke / Sunchoke (Helianthus tuberosus)
+CAT: L2
+SUB: edible_plants
+TAGS: sunchoke,tuber,inulin,perennial
+REGION: temperate,global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Perennial sunflower relative producing starchy tubers rich in inulin. Extremely productive and spreads aggressively. Good survival crop.
+
+[STEPS]
+1. Identify by tall sunflower-like plant (2-3m) with small yellow flowers and rough opposite leaves.
+2. Dig tubers after first frost (sweeter) through winter.
+3. Eat raw (crunchy, nutty) or cooked (roast, boil, sauté).
+4. Replant small tubers for next season — very low maintenance.
+
+[WARNINGS]
+! High inulin content causes significant gas/bloating in many people — introduce gradually.
+! Can become invasive — plant with containment plan.
+
+[RELATED]
+> l2-plants-burdock
+> l2-plants-cattail
+> l4-agriculture-soil-basics
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database
+@ extension-edible-plants

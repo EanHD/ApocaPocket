@@ -1,0 +1,28 @@
+TITLE: CPR Fundamentals
+CAT: L1
+SUB: medical_first_aid
+TAGS: cpr,resuscitation,airway
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Core CPR sequence for lay responders based on Red Cross and WHO frameworks.
+
+[STEPS]
+1. Confirm scene safety and check responsiveness.
+2. Call emergency services and request AED.
+3. Begin chest compressions with correct depth/rate.
+4. Use AED as soon as available and follow prompts.
+
+[WARNINGS]
+! CPR technique varies by patient age and training level.
+! Do not delay emergency services activation.
+
+[RELATED]
+> l1-medical-severe-bleeding
+> l1-medical-heat-stroke
+
+[SOURCES]
+@ red-cross-first-aid-cpr-aed
+@ who-basic-emergency-care-2018

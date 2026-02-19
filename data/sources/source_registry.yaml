@@ -1,0 +1,620 @@
+sources:
+  - source_id: who-basic-emergency-care-2018
+    title: "Basic Emergency Care: Approach to the Acutely Ill and Injured"
+    publisher: World Health Organization (WHO)
+    type: official_manual
+    url: https://iris.who.int/bitstream/handle/10665/275635/9789241513081-eng.pdf
+    publication_date: "2018"
+    version: "1"
+    license: WHO open access
+    local_snapshot_path: data/sources/snapshots/who-basic-emergency-care-2018.pdf
+    sha256: ""
+
+  - source_id: red-cross-first-aid-cpr-aed
+    title: First Aid/CPR/AED Participant's Manual
+    publisher: American Red Cross
+    type: official_manual
+    url: https://www.redcross.org/take-a-class/participant-materials
+    publication_date: "2021+"
+    version: current
+    license: Red Cross terms
+    local_snapshot_path: data/sources/snapshots/red-cross-first-aid-cpr-aed.pdf
+    sha256: ""
+
+  - source_id: us-army-fm-4-25-11
+    title: FM 4-25.11 First Aid
+    publisher: U.S. Army
+    type: official_manual
+    url: https://armypubs.army.mil
+    publication_date: "2002"
+    version: FM 4-25.11
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/fm-4-25-11-first-aid.pdf
+    sha256: ""
+
+  - source_id: cdc-water-emergency
+    title: CDC Water Emergency and Outbreak Guidance
+    publisher: U.S. Centers for Disease Control and Prevention
+    type: gov
+    url: https://www.cdc.gov/water-emergency/about/index.html
+    publication_date: "2025"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/cdc-water-emergency.html
+    sha256: ""
+
+  - source_id: who-household-water-treatment
+    title: Household Water Treatment and Safe Storage
+    publisher: World Health Organization
+    type: gov
+    url: https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/publications
+    publication_date: "varies"
+    version: collection
+    license: WHO open access
+    local_snapshot_path: data/sources/snapshots/who-household-water-treatment.pdf
+    sha256: ""
+
+  - source_id: fema-water-storage
+    title: FEMA Emergency Water Supply Guidance
+    publisher: Federal Emergency Management Agency
+    type: gov
+    url: https://www.ready.gov/water
+    publication_date: "2024+"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/fema-water-storage.html
+    sha256: ""
+
+  - source_id: usfs-fire-and-safety
+    title: U.S. Forest Service Fire and Field Safety Publications
+    publisher: U.S. Forest Service
+    type: gov
+    url: https://www.fs.usda.gov/managing-land/fire
+    publication_date: "varies"
+    version: collection
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/usfs-fire-and-safety.html
+    sha256: ""
+
+  - source_id: bsa-handbook
+    title: Scouts BSA Handbook
+    publisher: Boy Scouts of America
+    type: official_manual
+    url: https://www.scouting.org/programs/scouts-bsa/resources/handbooks/
+    publication_date: "latest"
+    version: current
+    license: BSA terms
+    local_snapshot_path: data/sources/snapshots/scouts-bsa-handbook.pdf
+    sha256: ""
+
+  - source_id: nols-wilderness-guide
+    title: NOLS Wilderness Medicine and Field Survival Curriculum
+    publisher: National Outdoor Leadership School
+    type: official_manual
+    url: https://www.nols.edu
+    publication_date: "varies"
+    version: collection
+    license: NOLS terms
+    local_snapshot_path: data/sources/snapshots/nols-curriculum.pdf
+    sha256: ""
+
+  - source_id: peterson-field-guides-edible-wild-plants
+    title: Peterson Field Guide to Edible Wild Plants
+    publisher: Houghton Mifflin Harcourt
+    type: official_manual
+    url: https://www.hmhbooks.com
+    publication_date: "latest"
+    version: current
+    license: publisher terms
+    local_snapshot_path: data/sources/snapshots/peterson-edible-wild-plants.pdf
+    sha256: ""
+
+  - source_id: usda-plants-database
+    title: USDA PLANTS Database
+    publisher: U.S. Department of Agriculture
+    type: gov
+    url: https://plants.usda.gov/
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/usda-plants-database.json
+    sha256: ""
+
+  - source_id: extension-edible-plants
+    title: University Extension Edible Plants Publications
+    publisher: U.S. Land-Grant University Extension Services
+    type: academic
+    url: https://extension.oregonstate.edu/
+    publication_date: "varies"
+    version: collection
+    license: university terms
+    local_snapshot_path: data/sources/snapshots/extension-edible-plants.pdf
+    sha256: ""
+
+  - source_id: nama-mushroom-id
+    title: Mushroom Identification and Safety Resources
+    publisher: North American Mycological Association
+    type: official_manual
+    url: https://namyco.org/
+    publication_date: "ongoing"
+    version: web
+    license: NAMA terms
+    local_snapshot_path: data/sources/snapshots/nama-mushroom-id.html
+    sha256: ""
+
+  - source_id: extension-mushroom-guides
+    title: University Extension Mushroom and Fungi Guidance
+    publisher: U.S. University Extension Offices
+    type: academic
+    url: https://extension.psu.edu/
+    publication_date: "varies"
+    version: collection
+    license: university terms
+    local_snapshot_path: data/sources/snapshots/extension-mushroom-guides.pdf
+    sha256: ""
+
+  - source_id: state-wildlife-hunter-ed
+    title: State Hunter Education Manuals
+    publisher: U.S. State Wildlife Agencies
+    type: gov
+    url: https://www.nasbla.org/hunter-education
+    publication_date: "ongoing"
+    version: collection
+    license: state government publications
+    local_snapshot_path: data/sources/snapshots/state-hunter-ed-manuals.pdf
+    sha256: ""
+
+  - source_id: usda-meat-preservation
+    title: USDA Meat and Poultry Safety and Preservation Guidance
+    publisher: U.S. Department of Agriculture
+    type: gov
+    url: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/usda-meat-preservation.html
+    sha256: ""
+
+  - source_id: usfs-wood-handbook-2021
+    title: Wood Handbook—Wood as an Engineering Material (2021)
+    publisher: USDA Forest Products Laboratory / U.S. Forest Service
+    type: gov
+    url: https://www.fpl.fs.usda.gov/documnts/fplgtr/fpl_gtr190.pdf
+    publication_date: "2021"
+    version: FPL-GTR-190
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/usfs-wood-handbook-2021.pdf
+    sha256: ""
+
+  - source_id: usgs-mineral-education
+    title: USGS Mineral Resources Educational Products
+    publisher: U.S. Geological Survey
+    type: gov
+    url: https://www.usgs.gov/programs/mineral-resources-program/minerals-related-educational-products
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/usgs-mineral-education.html
+    sha256: ""
+
+  - source_id: usgs-mrds
+    title: Mineral Resources Data System (MRDS)
+    publisher: U.S. Geological Survey
+    type: gov
+    url: https://mrdata.usgs.gov/mrds/
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/usgs-mrds.html
+    sha256: ""
+
+  - source_id: openstax-chemistry-2e
+    title: OpenStax Chemistry 2e
+    publisher: OpenStax (Rice University)
+    type: academic
+    url: https://openstax.org/details/books/chemistry-2e
+    publication_date: "2019+"
+    version: 2e
+    license: CC BY 4.0
+    local_snapshot_path: data/sources/snapshots/openstax-chemistry-2e.pdf
+    sha256: ""
+
+  - source_id: openstax-college-physics
+    title: OpenStax College Physics
+    publisher: OpenStax (Rice University)
+    type: academic
+    url: https://openstax.org/subjects/science
+    publication_date: "ongoing"
+    version: latest
+    license: CC BY 4.0
+    local_snapshot_path: data/sources/snapshots/openstax-college-physics.pdf
+    sha256: ""
+
+  - source_id: mit-ocw-chemistry
+    title: MIT OpenCourseWare Chemistry Resources
+    publisher: Massachusetts Institute of Technology
+    type: academic
+    url: https://ocw.mit.edu/search/?d=Chemistry
+    publication_date: "ongoing"
+    version: collection
+    license: CC BY-NC-SA
+    local_snapshot_path: data/sources/snapshots/mit-ocw-chemistry.html
+    sha256: ""
+
+  - source_id: mit-ocw-mechanical-engineering
+    title: MIT OpenCourseWare Mechanical Engineering
+    publisher: Massachusetts Institute of Technology
+    type: academic
+    url: https://ocw.mit.edu/search/?d=Mechanical%20Engineering
+    publication_date: "ongoing"
+    version: collection
+    license: CC BY-NC-SA
+    local_snapshot_path: data/sources/snapshots/mit-ocw-mech-eng.html
+    sha256: ""
+
+  - source_id: openstax-precalculus
+    title: OpenStax Precalculus
+    publisher: OpenStax (Rice University)
+    type: academic
+    url: https://openstax.org/details/books/precalculus-2e
+    publication_date: "2022"
+    version: 2e
+    license: CC BY 4.0
+    local_snapshot_path: data/sources/snapshots/openstax-precalculus-2e.pdf
+    sha256: ""
+
+  - source_id: openstax-calculus-volume-1
+    title: OpenStax Calculus Volume 1
+    publisher: OpenStax (Rice University)
+    type: academic
+    url: https://openstax.org/details/books/calculus-volume-1
+    publication_date: "2016+"
+    version: latest
+    license: CC BY 4.0
+    local_snapshot_path: data/sources/snapshots/openstax-calculus-vol1.pdf
+    sha256: ""
+
+  - source_id: fao-soils-portal
+    title: FAO Soils Portal and Soil Management Guidance
+    publisher: Food and Agriculture Organization of the United Nations
+    type: gov
+    url: https://www.fao.org/soils-portal/en/
+    publication_date: "ongoing"
+    version: web
+    license: FAO terms
+    local_snapshot_path: data/sources/snapshots/fao-soils-portal.html
+    sha256: ""
+
+  - source_id: usda-nrcs-soil-health
+    title: USDA NRCS Soil Health Guides
+    publisher: USDA Natural Resources Conservation Service
+    type: gov
+    url: https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils/soil-health
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/usda-nrcs-soil-health.html
+    sha256: ""
+
+  - source_id: usda-extension-seed-saving
+    title: Cooperative Extension Seed Saving and Crop Rotation Publications
+    publisher: U.S. Cooperative Extension System
+    type: academic
+    url: https://extension.umn.edu/planting-and-growing-guides/saving-vegetable-seeds
+    publication_date: "ongoing"
+    version: collection
+    license: university terms
+    local_snapshot_path: data/sources/snapshots/extension-seed-saving.pdf
+    sha256: ""
+
+  - source_id: army-land-navigation-fm-3-25-26
+    title: U.S. Army Map Reading and Land Navigation (FM 3-25.26)
+    publisher: U.S. Army
+    type: official_manual
+    url: https://armypubs.army.mil
+    publication_date: "2006"
+    version: FM 3-25.26
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/fm-3-25-26-land-navigation.pdf
+    sha256: ""
+
+  - source_id: noaa-celestial-navigation
+    title: NOAA Celestial Navigation Resources
+    publisher: National Oceanic and Atmospheric Administration
+    type: gov
+    url: https://www.nauticalcharts.noaa.gov/
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/noaa-celestial-navigation.html
+    sha256: ""
+
+  - source_id: openstax-intro-business-governance
+    title: OpenStax Intro to Business and Governance Basics
+    publisher: OpenStax (Rice University)
+    type: academic
+    url: https://openstax.org/subjects/business
+    publication_date: "ongoing"
+    version: latest
+    license: CC BY 4.0
+    local_snapshot_path: data/sources/snapshots/openstax-business-governance.pdf
+    sha256: ""
+
+  - source_id: openstax-engineering-statics
+    title: Open Engineering/Statics OER Textbooks
+    publisher: Open Textbook Network / Academic Institutions
+    type: academic
+    url: https://open.umn.edu/opentextbooks/
+    publication_date: "ongoing"
+    version: collection
+    license: varies (mostly CC)
+    local_snapshot_path: data/sources/snapshots/open-statics-texts.pdf
+    sha256: ""
+
+  - source_id: who-hypothermia-heat-guidance
+    title: WHO Climate and Health Guidance (Heat Illness/Hypothermia References)
+    publisher: World Health Organization
+    type: gov
+    url: https://www.who.int/health-topics/climate-change
+    publication_date: "ongoing"
+    version: web
+    license: WHO open access
+    local_snapshot_path: data/sources/snapshots/who-climate-health.html
+    sha256: ""
+
+  - source_id: cdc-extreme-heat
+    title: CDC Extreme Heat and Heat-Related Illness Guidance
+    publisher: U.S. Centers for Disease Control and Prevention
+    type: gov
+    url: https://www.cdc.gov/extreme-heat/
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/cdc-extreme-heat.html
+    sha256: ""
+
+  - source_id: cdc-hypothermia-frostbite
+    title: CDC Cold Stress / Hypothermia Guidance
+    publisher: U.S. Centers for Disease Control and Prevention (NIOSH)
+    type: gov
+    url: https://www.cdc.gov/niosh/topics/coldstress/
+    publication_date: "ongoing"
+    version: web
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/cdc-hypothermia-coldstress.html
+    sha256: ""
+
+  - source_id: openstax-biology-2e
+    title: OpenStax Biology 2e
+    publisher: OpenStax (Rice University)
+    type: academic
+    url: https://openstax.org/details/books/biology-2e
+    publication_date: "2019+"
+    version: 2e
+    license: CC BY 4.0
+    local_snapshot_path: data/sources/snapshots/openstax-biology-2e.pdf
+    sha256: ""
+
+  - source_id: openstax-microbiology
+    title: OpenStax Microbiology
+    publisher: OpenStax (Rice University)
+    type: academic
+    url: https://openstax.org/details/books/microbiology
+    publication_date: "2022"
+    version: latest
+    license: CC BY 4.0
+    local_snapshot_path: data/sources/snapshots/openstax-microbiology.pdf
+    sha256: ""
+
+  - source_id: army-tm-electrical-basics
+    title: Army Technical Manuals - Electrical Fundamentals
+    publisher: U.S. Army
+    type: official_manual
+    url: https://armypubs.army.mil
+    publication_date: "varies"
+    version: collection
+    license: U.S. Government work
+    local_snapshot_path: data/sources/snapshots/army-electrical-fundamentals.pdf
+    sha256: ""
+
+  - source_id: fm-21-76-survival
+    title: "FM 21-76 Survival"
+    publisher: U.S. Army
+    type: official_manual
+    url: https://armypubs.army.mil
+    publication_date: "1992"
+    version: FM 21-76
+    license: public domain (US government)
+    local_snapshot_path: data/sources/snapshots/fm-21-76-survival.pdf
+    sha256: ""
+
+  - source_id: mears-bushcraft-survival-skills
+    title: "Bushcraft and Survival Skills"
+    publisher: Ray Mears / Bloomsbury
+    type: peer_reviewed
+    url: https://www.raymears.com
+    publication_date: "2003"
+    version: "1"
+    license: commercial publication
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: usda-complete-guide-home-canning
+    title: "Complete Guide to Home Canning"
+    publisher: USDA
+    type: official_manual
+    url: https://nchfp.uga.edu/publications/publications_usda.html
+    publication_date: "2015"
+    version: revised 2015
+    license: public domain (US government)
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: engineering-village-technology
+    title: "Engineering Village Technology Reference"
+    publisher: Elsevier / Appropriate Technology Library
+    type: peer_reviewed
+    url: https://www.engineeringvillage.com
+    publication_date: "2020"
+    version: current
+    license: academic license
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: foxfire-book-series
+    title: "The Foxfire Book Series"
+    publisher: Foxfire Fund / Anchor Books
+    type: peer_reviewed
+    url: https://www.foxfire.org
+    publication_date: "1972"
+    version: volumes 1-12
+    license: commercial publication
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: fao-emergency-food-production
+    title: "Emergency Food Production"
+    publisher: Food and Agriculture Organization (FAO)
+    type: official_manual
+    url: https://www.fao.org/publications
+    publication_date: "2018"
+    version: current
+    license: FAO open access
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: epa-emergency-disinfection
+    title: "Emergency Disinfection of Drinking Water"
+    publisher: U.S. Environmental Protection Agency
+    type: official_manual
+    url: https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water
+    publication_date: "2023"
+    version: current
+    license: public domain (US government)
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: who-household-water-2011
+    title: "Evaluating Household Water Treatment Options"
+    publisher: World Health Organization
+    type: official_manual
+    url: https://www.who.int/publications/i/item/9789241548229
+    publication_date: "2011"
+    version: "1"
+    license: WHO open access
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: pdr-herbal-medicines
+    title: "PDR for Herbal Medicines"
+    publisher: Thomson Healthcare / PDR Network
+    type: peer_reviewed
+    url: https://www.pdr.net
+    publication_date: "2007"
+    version: "4th edition"
+    license: commercial
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: bowditch-navigation
+    title: "The American Practical Navigator (Bowditch)"
+    publisher: National Geospatial-Intelligence Agency
+    type: official_manual
+    url: https://msi.nga.mil/Publications/APN
+    publication_date: "2019"
+    version: "2019 edition"
+    license: public domain (US government)
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: arrl-ham-radio-license-manual
+    title: "The ARRL Ham Radio License Manual"
+    publisher: American Radio Relay League
+    type: peer_reviewed
+    url: https://www.arrl.org/shop/Ham-Radio-License-Manual
+    publication_date: "2022"
+    version: "5th edition"
+    license: commercial
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: ussartf-field-ops-guide
+    title: "Field Operations Guide"
+    publisher: US Search and Rescue Task Force
+    type: official_manual
+    url: https://www.ussartf.org
+    publication_date: "2018"
+    version: current
+    license: public access
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: cdc-food-safety
+    title: CDC Food Safety Guidelines
+    publisher: Centers for Disease Control and Prevention (CDC)
+    type: peer_reviewed
+    url: https://www.cdc.gov/foodsafety/
+    publication_date: "2024"
+    license: US Government public domain
+
+  - source_id: usda-food-safety
+    title: USDA Food Safety and Inspection Service Guidelines
+    publisher: United States Department of Agriculture (USDA)
+    type: official_manual
+    url: https://www.fsis.usda.gov/food-safety
+    publication_date: "2024"
+    license: US Government public domain
+
+  - source_id: peterson-field-guides-medicinal-plants
+    title: "Peterson Field Guide to Medicinal Plants and Herbs"
+    publisher: Houghton Mifflin Harcourt
+    type: peer_reviewed
+    url: https://www.hmhco.com
+    publication_date: "2014"
+    license: Commercial publication
+
+  - source_id: cdc-pandemic-preparedness
+    title: CDC Pandemic Preparedness and Response
+    publisher: Centers for Disease Control and Prevention (CDC)
+    type: official_manual
+    url: https://www.cdc.gov/flu/pandemic-resources/
+    publication_date: "2024"
+    license: US Government public domain
+
+  - source_id: us-dhs-infrastructure-protection
+    title: DHS Critical Infrastructure Protection Guidelines
+    publisher: US Department of Homeland Security
+    type: official_manual
+    url: https://www.cisa.gov/
+    publication_date: "2024"
+    license: US Government public domain
+
+  - source_id: us-dhs-active-shooter-response
+    title: DHS Active Shooter Response Guide
+    publisher: US Department of Homeland Security
+    type: official_manual
+    url: https://www.cisa.gov/active-shooter-preparedness
+    publication_date: "2024"
+    license: US Government public domain
+
+  - source_id: cdc-radiation-emergencies
+    title: CDC Radiation Emergencies Guidelines
+    publisher: Centers for Disease Control and Prevention (CDC)
+    type: official_manual
+    url: https://www.cdc.gov/radiation-emergencies/
+    publication_date: "2024"
+    version: current
+    license: US Government public domain
+    local_snapshot_path: ""
+    sha256: ""
+
+  - source_id: cdc-water-treatment
+    title: CDC Water Treatment and Storage Guidelines
+    publisher: Centers for Disease Control and Prevention (CDC)
+    type: official_manual
+    url: https://www.cdc.gov/healthywater/drinking/
+    publication_date: "2024"
+    version: current
+    license: US Government public domain
+    local_snapshot_path: ""
+    sha256: ""

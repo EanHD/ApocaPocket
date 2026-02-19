@@ -1,0 +1,29 @@
+TITLE: Writing Systems: Preserving Written Language
+CAT: L5
+SUB: communication
+TAGS: communication,writing,literacy,preservation
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Maintaining and teaching writing for record-keeping and knowledge preservation.
+
+[STEPS]
+1. Prioritize literacy education for all community members.
+2. Produce ink from charcoal/soot mixed with water and a binder (gum arabic, egg).
+3. Make pens from reeds, quills, or sharpened sticks.
+4. Produce paper from plant fiber pulp, or use birch bark, clay tablets, or slate.
+5. Standardize spelling and abbreviations for official records.
+
+[WARNINGS]
+! Ink fades over time—use carbon-based inks for permanence.
+! Damp storage destroys paper—keep records dry and ventilated.
+
+[RELATED]
+> l5-communication-systems-basics
+> l5-governance-record-keeping
+> l5-edu-library-preservation
+
+[SOURCES]
+@ openstax-intro-business-governance

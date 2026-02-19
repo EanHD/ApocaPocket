@@ -1,0 +1,38 @@
+TITLE: Improvised Splinting and Immobilization
+CAT: L1
+SUB: medical_first_aid
+TAGS: splint,fracture,immobilization,bones,improvised
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Immobilize fractures and dislocations to prevent further injury, reduce pain, and enable transport. The rule: splint above and below the injury, immobilizing the joints on either side of the break.
+
+[STEPS]
+1. Rigid splint materials: straight sticks (wrist-thick), trekking poles, tent poles, rolled newspaper/magazine, corrugated cardboard, bark slabs, split bamboo, rifle/shotgun barrel.
+2. Padding: place cloth, moss, leaves, or clothing between splint and skin. Padding prevents pressure sores and improves immobilization.
+3. Forearm fracture: place one rigid splint on top (dorsal) and one on bottom (palmar) of forearm. Extend from mid-upper-arm past fingertips. Bind at 4 points above and below fracture. Sling arm across chest.
+4. Lower leg fracture: place splints on inside and outside of leg. Extend from mid-thigh to past the foot. Bind at 5-6 points. Include the foot in a natural position. A buddy's leg can serve as splint (tie injured leg to uninjured leg).
+5. Improvised traction splint (femur fracture): critical for thigh fractures which can bleed 1-2 liters internally. Use two long sticks — one from armpit to past foot, one from groin to past foot. Pad groin and armpit. Apply gentle traction by pulling foot and securing with cravat to lower splint end.
+6. Sling-and-swath for shoulder/collarbone: fold triangular bandage (or large cloth cut diagonally). Place forearm in sling at 90° angle. Tie at neck. Wrap a 'swath' (belt or cloth strip) around torso and arm to prevent swinging.
+7. Finger splint: tape injured finger to adjacent finger (buddy splint) with small padding between. Or use a popsicle stick/twig as rigid splint with tape.
+8. Ankle/foot: wrap in pillow or thick clothing and bind. Or use figure-8 wrap with elastic/cloth bandage. Leave toes exposed to monitor circulation.
+9. After splinting: elevate injured limb above heart level when possible. Apply cold (wet cloth, creek water, snow in cloth) for 20 minutes on, 20 minutes off to reduce swelling.
+10. Check circulation every 30 minutes: pulse below fracture, skin color, temperature, sensation, and ability to move fingers/toes.
+
+[WARNINGS]
+! Never attempt to straighten or realign a deformed limb unless circulation is absent below the fracture (no pulse, blue/white fingers or toes)
+! Check circulation BEFORE and AFTER splinting — if fingers/toes become blue, numb, or cold, the splint is too tight
+! Open fractures (bone visible or puncture wound at fracture site) require wound coverage BEFORE splinting — do not push bone back in
+! Spinal injury: DO NOT MOVE the patient unless in immediate danger. Immobilize head and neck in position found.
+! Swelling will increase for 24-48 hours — check and loosen bindings regularly
+
+[RELATED]
+> l1-medical-fracture-stabilization
+> l1-medical-shock-recognition
+
+[SOURCES]
+@ red-cross-first-aid-cpr-aed
+@ us-army-fm-4-25-11
+@ who-basic-emergency-care-2018

@@ -1,0 +1,32 @@
+TITLE: Crystal Radio and AM Reception
+CAT: L4
+SUB: electricity_basics
+TAGS: radio,crystal-radio,AM,communication,receiver
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Building a simple crystal radio receiver for AM broadcast reception without external power.
+
+[STEPS]
+1. Crystal radios require NO batteries or external power—they run on received radio wave energy.
+2. Wind a coil: ~100 turns of insulated wire around a cardboard tube (~5cm diameter).
+3. Make a tuning slider or tap points along the coil to select different stations.
+4. Detector: a germanium diode (or galena crystal with cat-whisker wire contact).
+5. Connect a high-impedance earpiece (piezoelectric works best).
+6. Antenna: run a long wire (10–30m) as high as possible outdoors.
+7. Ground: connect to a metal rod in earth or a cold water pipe.
+8. Circuit: antenna → coil → diode → earpiece → ground.
+
+[WARNINGS]
+! Long wire antennas attract lightning—disconnect during storms.
+! Crystal radios only receive strong nearby AM stations—range is limited.
+
+[RELATED]
+> l4-electricity-ohms-law
+> l4-electricity-wiring-safety
+
+[SOURCES]
+@ openstax-college-physics
+@ army-tm-electrical-basics

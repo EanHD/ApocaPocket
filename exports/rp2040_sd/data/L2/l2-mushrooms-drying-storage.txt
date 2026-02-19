@@ -1,0 +1,37 @@
+TITLE: Mushroom Preservation — Drying and Storage
+CAT: L2
+SUB: mushrooms
+TAGS: mushroom-preservation,drying,storage,food-preservation
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Mushrooms are 90% water and spoil within days of harvest. Drying is the simplest and most effective preservation method — properly dried mushrooms retain nutritional value and flavor for 1-2 years. No equipment needed beyond sun, air, and a surface.
+
+[STEPS]
+1. CLEANING: brush off dirt with a dry brush or cloth. Do NOT wash mushrooms before drying — added water dramatically extends drying time and promotes bacterial growth. Cut away any insect-damaged sections.
+2. SLICING: slice mushrooms 1/4 inch (6mm) thick for even drying. Small mushrooms (chanterelles) can be halved. Very large caps can be scored on the gill side to improve airflow. Consistent thickness ensures even drying.
+3. SUN DRYING: lay slices on a clean elevated surface (screen, bamboo mat, clean cloth over a rack) in direct sunlight with good airflow. Flip every few hours. Takes 1-3 days depending on humidity and sun intensity. Bring inside at night to prevent dew re-moistening.
+4. FIRE/HEAT DRYING: place slices on a rack 2-3 feet above a low fire or near a wood stove. Temperature should be 45-55°C (113-131°F) — hot enough to evaporate moisture, not hot enough to cook. Takes 6-12 hours. Better than sun drying in humid or cloudy conditions.
+5. DEHYDRATOR: if available, set to 50°C (125°F). Single layer on trays. Takes 4-8 hours. Most reliable method.
+6. TESTING DRYNESS: properly dried mushrooms should SNAP cleanly when bent, not bend. They should feel papery and lightweight. If they bend or feel leathery, continue drying. Moisture content target: below 10%.
+7. STORAGE: pack dried mushrooms in airtight containers — glass jars, sealed plastic bags with air squeezed out, or vacuum-sealed bags. Add a small packet of rice or silica gel as desiccant. Store in cool, dark, dry location.
+8. SHELF LIFE: properly dried and stored mushrooms last 1-2 years. Check periodically for moisture or mold. If any mold appears, discard the entire batch.
+9. REHYDRATION: soak in warm water for 20-30 minutes. The soaking liquid is intensely flavored — use it in cooking (strain through cloth to remove grit). Rehydrated mushrooms have a more concentrated flavor than fresh.
+10. MUSHROOM POWDER: grind fully dried mushrooms in a mortar and pestle or crush in a bag. Powder is a versatile seasoning and thickener for soups and stews. Stores even longer than sliced — 2-3 years in sealed container.
+
+[WARNINGS]
+! Mushrooms must be positively identified BEFORE preservation — drying does NOT destroy mushroom toxins (amatoxin in death caps survives all processing)
+! Improperly dried mushrooms (still flexible/leathery) will mold in storage — they must be crisp/snap when bent
+! Store away from moisture — even brief exposure to humidity can restart mold growth
+! Rehydrated mushrooms should be used immediately — do not re-dry and re-store
+
+[RELATED]
+> l2-mushrooms-cultivation-log
+> l4-agriculture-food-preservation
+> l2-hunting-smoking-detailed
+
+[SOURCES]
+@ usda-meat-preservation
+@ extension-mushroom-guides

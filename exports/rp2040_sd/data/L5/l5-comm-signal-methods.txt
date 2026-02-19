@@ -1,0 +1,30 @@
+TITLE: Signal Methods: Visual and Audio Signaling
+CAT: L5
+SUB: communication
+TAGS: communication,signals,flags,mirrors
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Using flags, mirrors, smoke, horns, and drums for long-distance communication without electronics.
+
+[STEPS]
+1. Establish a shared signal code (e.g., flag positions, drum patterns).
+2. Use mirror signals (heliograph) for daytime line-of-sight communication up to 50+ km.
+3. Use smoke signals with wet fuel for visible plumes; pre-agreed patterns.
+4. Sound signals: horns, bells, drums carry 1-5 km depending on terrain.
+5. Set up relay stations on hilltops for extended range communication chains.
+
+[WARNINGS]
+! Signals are visible to everyone—assume hostile observers.
+! Weather (fog, wind) degrades both visual and audio signals.
+
+[RELATED]
+> l5-communication-systems-basics
+> l5-comm-messenger-networks
+> l5-comm-encryption-basics
+
+[SOURCES]
+@ army-land-navigation-fm-3-25-26
+@ bsa-handbook

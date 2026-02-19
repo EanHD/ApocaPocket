@@ -1,0 +1,30 @@
+TITLE: Bridge Basics: Beam, Arch, and Suspension Principles
+CAT: L5
+SUB: structural_engineering
+TAGS: structural_engineering,bridge,arch,suspension
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Fundamental bridge types, their load-carrying principles, and when to use each.
+
+[STEPS]
+1. Beam bridges: simplest type; span limited by material strength and depth.
+2. Arch bridges: convert vertical loads to compression along the curve into abutments.
+3. Suspension bridges: cables in tension carry the deck via hangers; requires strong anchorages.
+4. Select bridge type based on span, materials available, and load requirements.
+5. Always include safety railings, approach grading, and drainage.
+
+[WARNINGS]
+! Dynamic loads (marching, wind) can cause resonance—break step on bridges.
+! Abutments must be anchored in solid ground or rock.
+
+[RELATED]
+> l5-structural-load-paths
+> l5-structural-truss-design
+> l5-structural-foundation-types
+
+[SOURCES]
+@ openstax-engineering-statics
+@ mit-ocw-mechanical-engineering

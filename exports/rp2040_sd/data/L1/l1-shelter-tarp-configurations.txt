@@ -1,0 +1,38 @@
+TITLE: Tarp Shelter Configurations — 8 Setups
+CAT: L1
+SUB: shelter
+TAGS: tarp,shelter,rain-protection,wind,configurations
+REGION: global,temperate,tropical,boreal
+CONFIDENCE: high
+---
+
+[SUMMARY]
+A tarp is the most versatile shelter tool — a single 8×10 or 10×10 tarp can create 8+ distinct shelter configurations depending on weather, terrain, and number of occupants. Weight: 1-2 lbs. Setup time: 5-15 minutes.
+
+[STEPS]
+1. A-FRAME: ridgeline between two trees at chest height. Drape tarp over line, stake both sides at 45° angle. PROS: best rain protection, sheds wind, fast setup. CONS: low headroom, enclosed feeling. BEST FOR: steady rain, cold nights.
+2. LEAN-TO: tie one edge to a ridgeline at shoulder height, stake opposite edge to ground. PROS: open front for fire reflection, good headroom on one side, easy. CONS: no protection from wind reversal or diagonal rain. BEST FOR: calm conditions with a fire in front.
+3. C-FLY / DIAMOND FLY: hang tarp from center point like a diamond (corner-to-corner). One corner staked high to a tree, opposite corner staked to ground. Side corners staked out. PROS: excellent rain runoff, 360° visibility, great ventilation. CONS: less rain coverage at sides. BEST FOR: warm rainy conditions, tropical.
+4. PLOUGH POINT: one corner tied high to a tree, opposite two corners staked wide at ground level, remaining corner staked close to ground behind you. Creates a pointed windbreak. PROS: excellent wind protection from one direction, good headroom. CONS: open sides. BEST FOR: strong directional wind.
+5. HALF PYRAMID: one edge tied to ridgeline at hip height, opposite edge staked to ground. But fold the ground-edge under and stake it to create a floor/groundsheet on one half. PROS: built-in ground protection for gear, decent rain shed. CONS: small sleeping area.
+6. CORNET / BURRITO: wrap tarp completely around you like a tube. Fold one end under as ground sheet, gather and tie the other end. PROS: full weather protection, warmest option, requires no poles or trees. CONS: claustrophobic, condensation, no ventilation. BEST FOR: emergency bivouac, extreme cold.
+7. ADIRONDACK: like a lean-to but with the back portion folded under as a ground sheet and the front angled at 45°. Side edges can be folded in and staked to create wind walls. Requires a larger tarp (10×10+). PROS: rain protection + ground sheet + wind walls from one tarp. CONS: complex setup. BEST FOR: multi-day camps.
+8. HAMMOCK TARP (RIDGELINE): if sleeping in a hammock, set ridgeline 12 inches above hammock. Drape tarp in A-frame configuration with 6-12 inch drip lines hanging below the tarp edges (prevents water from running down tie-outs to hammock). Stake sides at 30° for maximum coverage. PROS: off-ground sleeping + rain protection. CONS: requires trees at correct spacing (10-14 feet).
+9. KNOTS NEEDED: taught-line hitch (adjustable ridgeline tension), bowline (non-slip loop at tie points), clove hitch (attaching to trees/poles), trucker's hitch (mechanical advantage for tight lines).
+10. GENERAL RULES: ridgeline should be TAUT (use trucker's hitch for tension). All guy lines should angle at 45° from tarp. Dig a shallow trench around the uphill perimeter if rain is heavy. Door faces away from wind. Add a space blanket under the tarp for radiant heat reflection.
+
+[WARNINGS]
+! ALWAYS orient the low/closed side toward prevailing wind — wind under a tarp creates sail effect and collapses it
+! Tarp shelters provide NO insulation — you need ground insulation (see ground insulation entry) or you will lose body heat to the ground faster than the air
+! Grommets are the weakest point — reinforce with small round stones wrapped in the tarp corner (button method) for additional tie points
+! In lightning-prone areas, avoid tall ridgepoles or metal trekking poles as uprights
+
+[RELATED]
+> l1-shelter-site-selection
+> l1-shelter-rain-and-ventilation
+> l1-shelter-knots-and-lashing
+> l1-shelter-insulation-principles
+
+[SOURCES]
+@ us-army-fm-4-25-11
+@ nols-wilderness-guide

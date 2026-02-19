@@ -1,0 +1,28 @@
+TITLE: Mineral ID: Hardness, Streak, Cleavage
+CAT: L3
+SUB: rock_mineral_id
+TAGS: mineral,mohs,streak,cleavage
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Primary non-destructive tests for field mineral identification.
+
+[STEPS]
+1. Record color/luster and host rock context.
+2. Test Mohs hardness against reference points.
+3. Perform streak test on unglazed ceramic.
+4. Check fracture/cleavage patterns.
+
+[WARNINGS]
+! Weathering can obscure true surface traits.
+! Field ID is probabilistic without lab confirmation.
+
+[RELATED]
+> l3-rock-cycle-basics
+> l3-clay-identification
+
+[SOURCES]
+@ usgs-mineral-education
+@ usgs-mrds

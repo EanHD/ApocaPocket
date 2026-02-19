@@ -1,0 +1,38 @@
+TITLE: Water Disinfection with Bleach — Exact Dosing
+CAT: L1
+SUB: water
+TAGS: water-treatment,bleach,chlorine,disinfection,dosing
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Household bleach (sodium hypochlorite) is the most widely available chemical water disinfectant. Correct dosing depends on bleach concentration and water turbidity. Too little fails to kill pathogens; too much is toxic.
+
+[STEPS]
+1. Standard household bleach is 5-6% sodium hypochlorite. Some newer products are 8.25%. Check the label — dosing changes with concentration.
+2. CLEAR WATER dosing (5-6% bleach): 2 drops per liter (8 drops per gallon). For 8.25% bleach: 2 drops per liter (6 drops per gallon).
+3. CLOUDY/TURBID WATER dosing (5-6% bleach): 4 drops per liter (16 drops per gallon). For 8.25% bleach: 4 drops per liter (12 drops per gallon). Pre-filter turbid water through cloth first.
+4. 1 drop ≈ 0.05ml. If using a cap: a standard bleach cap holds about 1 teaspoon (5ml) ≈ 100 drops. So 1/50th of a cap per liter for clear water.
+5. After adding bleach, MIX thoroughly by stirring or shaking. Let stand for 30 MINUTES minimum before drinking.
+6. After 30 minutes, water should have a slight chlorine smell. If no smell: add same dose again and wait another 15 minutes. If still no smell, the water may be too contaminated — boil instead.
+7. Bulk treatment: for 5-gallon (19L) container of clear water, use ¼ teaspoon (about 40 drops) of 5-6% bleach.
+8. Pool shock (calcium hypochlorite, 68%) for long-term storage: dissolve 1 heaping teaspoon in 2 gallons water to make stock solution (~500ppm). Then treat drinking water with this stock solution at same rate as bleach.
+9. Temperature matters: at 25°C, 30 minutes contact time is sufficient. Below 10°C, use 60 minutes. Below 5°C, use 120 minutes or switch to boiling.
+10. Record your dosing and source water location for future reference. Some sources need consistent treatment; others may indicate upstream contamination.
+
+[WARNINGS]
+! ONLY use unscented regular bleach (sodium hypochlorite). Never use color-safe, splashless, or scented bleach — these contain toxic additives
+! Bleach loses potency over time — after 1 year at room temperature, concentration drops ~20%. After 2 years, consider it unreliable. Rotate stock.
+! Bleach does NOT remove chemical contaminants, heavy metals, or radioactive particles — only biological pathogens
+! Bleach is less effective in cold water (<10°C) — double the contact time
+! If water has no slight chlorine smell after 30 minutes, repeat the dose — the organic matter consumed the chlorine
+
+[RELATED]
+> l1-water-chemical-disinfection
+> l1-water-filtration-basics
+> l1-water-boiling-disinfection
+
+[SOURCES]
+@ cdc-water-emergency
+@ who-household-water-treatment

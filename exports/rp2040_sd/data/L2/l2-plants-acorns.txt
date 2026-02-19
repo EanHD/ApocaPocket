@@ -1,0 +1,32 @@
+TITLE: Acorns (Quercus spp.)
+CAT: L2
+SUB: edible_plants
+TAGS: acorns,oak,starch,leaching,fall
+REGION: temperate,global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Abundant fall nut crop requiring tannin leaching before consumption. Once processed, acorns provide excellent starch and fat. White oak group has less tannin than red oak.
+
+[STEPS]
+1. Collect mature fallen acorns; discard any with holes (weevil damage).
+2. Shell and chop or grind nutmeat.
+3. Leach tannins by soaking in multiple changes of water (cold water: days; hot water: hours).
+4. Test by tasting — should have no bitterness remaining.
+5. Dry and grind into flour, or use wet paste directly in recipes.
+
+[WARNINGS]
+! Unleached acorns are very bitter and can cause nausea/kidney stress.
+! Red oak acorns require more leaching than white oak.
+! Proper leaching is non-negotiable.
+
+[RELATED]
+> l2-plants-amaranth
+> l2-plants-cattail
+> l2-nutrition-macros-basics
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database
+@ extension-edible-plants

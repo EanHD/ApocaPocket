@@ -1,0 +1,28 @@
+TITLE: Animal Tracking and Seasonal Behavior
+CAT: L2
+SUB: fishing_hunting_knowledge
+TAGS: tracking,ecology,seasonal-behavior
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Tracking fundamentals tied to habitat, weather, and seasonal movement patterns.
+
+[STEPS]
+1. Identify track shape, gait, and freshness.
+2. Correlate sign with feeding/water/cover patterns.
+3. Use dawn/dusk movement windows.
+4. Record observations for local pattern memory.
+
+[WARNINGS]
+! Respect legal protections and species restrictions.
+! Avoid disease exposure from carcasses.
+
+[RELATED]
+> l2-field-dressing-overview
+> l2-meat-preservation
+
+[SOURCES]
+@ state-wildlife-hunter-ed
+@ openstax-biology-2e

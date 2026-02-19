@@ -1,0 +1,28 @@
+TITLE: Edible Plant Identification Protocol
+CAT: L2
+SUB: edible_plants
+TAGS: plants,identification,lookalikes
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Conservative identification protocol requiring multiple confirming features and lookalike exclusion.
+
+[STEPS]
+1. Determine region and season before candidate list.
+2. Verify morphology across leaf/stem/flower/fruit traits.
+3. Cross-check toxic lookalikes in two independent references.
+4. Use safe preparation method from authoritative guide.
+
+[WARNINGS]
+! Never consume a plant with uncertain identification.
+! Some toxins persist after cooking.
+
+[RELATED]
+> l2-plants-seasonality
+> l2-mushrooms-safety
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database

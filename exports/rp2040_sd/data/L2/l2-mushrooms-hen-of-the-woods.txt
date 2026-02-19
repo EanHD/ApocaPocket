@@ -1,0 +1,30 @@
+TITLE: Hen of the Woods / Maitake (Grifola frondosa)
+CAT: L2
+SUB: mushrooms
+TAGS: maitake,hen-of-the-woods,fall,oak
+REGION: temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Large polypore fruiting at the base of oaks in fall. Overlapping gray-brown fan-shaped caps. Excellent flavor and can produce massive fruitings (5-25kg).
+
+[STEPS]
+1. Identify by cluster of overlapping gray-brown fan-shaped caps with white pore surface underneath, growing at base of living/dead oaks.
+2. Spore print: white.
+3. Harvest with knife; can return to same tree annually.
+4. Clean well (harbors debris). Cook thoroughly — roast, sauté, or dry.
+
+[WARNINGS]
+! Berkeley's polypore (Bondarzewia berkeleyi) is a larger, tougher lookalike — has thicker flesh and bitter taste.
+! Black-staining polypore (Meripilus sumstinei) bruises black.
+! Both lookalikes are not deadly but are poor eating.
+
+[RELATED]
+> l2-mushrooms-chicken-of-the-woods
+> l2-mushrooms-chanterelle
+> l2-mushrooms-safety
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides

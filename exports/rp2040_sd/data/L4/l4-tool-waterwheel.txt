@@ -1,0 +1,31 @@
+TITLE: Basic Waterwheel for Power
+CAT: L4
+SUB: tool_making
+TAGS: waterwheel,water-power,mechanical,energy,mill
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Designing and building simple waterwheels to convert flowing water into mechanical power.
+
+[STEPS]
+1. Assess water source: measure flow rate and available head (height drop).
+2. Overshot wheel (most efficient): water pours into buckets at top, weight turns wheel. Needs 2m+ head.
+3. Undershot wheel (simplest): paddles dip into flowing stream. Works with low head but lower efficiency.
+4. Build wheel from wood: hub, spokes, rim, and paddles/buckets.
+5. Mount on a strong axle supported by bearings (hardwood or greased stone).
+6. Transfer power via the axle to grinding stones, bellows, hammers, or generators.
+7. Build a millrace (channel) to direct water to the wheel and control flow with a gate.
+
+[WARNINGS]
+! Moving machinery causes crush and entanglement injuries—guard exposed gears and belts.
+! Water structures can fail in floods—build with flood contingency.
+
+[RELATED]
+> l4-tool-levers-and-pulleys
+> l4-electricity-simple-generators
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering
+@ openstax-engineering-statics

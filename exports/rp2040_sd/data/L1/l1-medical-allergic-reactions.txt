@@ -1,0 +1,32 @@
+TITLE: Anaphylaxis and Allergic Reactions
+CAT: L1
+SUB: medical_first_aid
+TAGS: allergy,anaphylaxis,epinephrine,emergency
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Recognizing and managing allergic reactions from mild hives to life-threatening anaphylaxis.
+
+[STEPS]
+1. Remove/stop exposure to allergen if possible.
+2. Mild reactions: antihistamine (diphenhydramine 25-50mg oral).
+3. Anaphylaxis signs: throat swelling, difficulty breathing, widespread hives, drop in blood pressure.
+4. Use epinephrine auto-injector (EpiPen) in outer thigh immediately for anaphylaxis.
+5. Position patient: sitting up if breathing difficulty, lying flat if low blood pressure.
+6. Be prepared for second wave (biphasic reaction) — monitor for at least 4 hours.
+
+[WARNINGS]
+! Anaphylaxis kills in minutes without epinephrine — do not delay.
+! Antihistamines alone do NOT treat anaphylaxis.
+! Common triggers: bee stings, nuts, shellfish, medications — know group members' allergies.
+
+[RELATED]
+> l1-medical-shock-recognition
+> l1-medical-insect-stings
+> l1-medical-basic-pharmacology
+
+[SOURCES]
+@ red-cross-first-aid-cpr-aed
+@ who-basic-emergency-care-2018

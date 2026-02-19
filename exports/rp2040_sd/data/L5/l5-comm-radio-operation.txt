@@ -1,0 +1,29 @@
+TITLE: Radio Operation: Basic Protocols and Frequencies
+CAT: L5
+SUB: communication
+TAGS: communication,radio,electronics,frequencies
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Operating and maintaining radio equipment for reliable long-distance electronic communication.
+
+[STEPS]
+1. Learn standard radio protocols: call signs, phonetic alphabet, brevity codes.
+2. Understand frequency bands: HF (3-30 MHz) for long range, VHF/UHF for local.
+3. Establish scheduled contact times (skeds) to conserve battery power.
+4. Build simple antennas: dipole for HF, ground-plane for VHF.
+5. Maintain equipment: protect from moisture, check connections, conserve batteries.
+
+[WARNINGS]
+! Radio transmissions reveal your location—use sparingly in hostile situations.
+! Atmospheric conditions affect HF propagation—have backup communication plans.
+
+[RELATED]
+> l5-communication-systems-basics
+> l5-comm-encryption-basics
+> l5-comm-signal-methods
+
+[SOURCES]
+@ army-tm-electrical-basics

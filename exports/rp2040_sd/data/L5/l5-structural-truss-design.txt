@@ -1,0 +1,30 @@
+TITLE: Truss Design: Triangulated Load Distribution
+CAT: L5
+SUB: structural_engineering
+TAGS: structural_engineering,truss,roof,bridge
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Using triangulated frameworks to span distances efficiently with minimal material.
+
+[STEPS]
+1. Understand that triangles are inherently rigid—the basis of all trusses.
+2. Design common truss types: king post (simplest), queen post, Howe, Pratt.
+3. Calculate member forces using method of joints or method of sections.
+4. Size members: tension members can be thinner; compression members must resist buckling.
+5. Connect joints with gusset plates, pegs, bolts, or lashed connections.
+
+[WARNINGS]
+! A single failed member can cause progressive truss collapse.
+! Compression members must be braced against lateral buckling.
+
+[RELATED]
+> l5-structural-load-paths
+> l5-structural-bridge-basics
+> l5-structural-timber-framing
+
+[SOURCES]
+@ openstax-engineering-statics
+@ mit-ocw-mechanical-engineering

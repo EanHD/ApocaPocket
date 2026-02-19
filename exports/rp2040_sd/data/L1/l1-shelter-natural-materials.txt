@@ -1,0 +1,33 @@
+TITLE: Debris Hut and Lean-To Construction
+CAT: L1
+SUB: shelter
+TAGS: debris-hut,lean-to,natural-shelter,wilderness
+REGION: temperate,tropical,global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Building emergency shelters from natural materials found in the environment.
+
+[STEPS]
+1. Lean-to: prop ridgepole against tree/rock, lean branches at 45°, layer with leaves/debris.
+2. Debris hut: create A-frame ridgepole at body height, layer ribs, pile debris 2-3 feet thick.
+3. Smaller is warmer — size shelter just large enough to fit inside.
+4. Layer roofing material from bottom up (like shingles) for water runoff.
+5. Fill interior floor with dry leaves, grass, or pine needles for insulation.
+6. Block entrance with stuffed pack or debris door.
+
+[WARNINGS]
+! Check overhead for dead branches ('widow makers') before building under trees.
+! Debris shelters are not waterproof unless materials are very thick and layered correctly.
+! Insects and small animals inhabit debris piles — shake materials before use.
+
+[RELATED]
+> l1-shelter-insulation-principles
+> l1-shelter-rain-and-ventilation
+> l1-shelter-site-selection
+
+[SOURCES]
+@ bsa-handbook
+@ nols-wilderness-guide
+@ us-army-fm-4-25-11

@@ -1,0 +1,33 @@
+TITLE: Charcoal Production Methods
+CAT: L3
+SUB: wood_science
+TAGS: charcoal,pyrolysis,fuel,kiln
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Pit and kiln methods for converting wood to charcoal through oxygen-limited pyrolysis.
+
+[STEPS]
+1. Select dense hardwood; cut into uniform pieces 5–15 cm diameter.
+2. Pit method: dig a pit ~1m deep, load wood, light top, cover with earth leaving small vents.
+3. Mound method: stack wood in a dome, cover with leaves then earth, light from top center.
+4. Control airflow through vents—smoke should transition from white (steam) to blue (pyrolysis).
+5. When blue smoke stops, seal all vents completely and let cool 24–48 hours.
+6. Break open carefully; good charcoal is black throughout, rings when struck, and is very light.
+
+[WARNINGS]
+! Carbon monoxide is produced—never operate in enclosed spaces.
+! Hot charcoal can reignite when exposed to air during opening.
+! Fire spread risk—clear surrounding vegetation and have water/dirt available.
+
+[RELATED]
+> l3-chemistry-combustion
+> l3-wood-burn-quality
+> l3-chemistry-charcoal-activated
+> l4-tool-basic-forge
+
+[SOURCES]
+@ usfs-wood-handbook-2021
+@ usfs-fire-and-safety

@@ -1,0 +1,32 @@
+TITLE: Aerobic Composting Methods
+CAT: L4
+SUB: agriculture
+TAGS: composting,soil,organic,fertilizer,decomposition
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Building and managing compost piles to convert organic waste into nutrient-rich soil amendment.
+
+[STEPS]
+1. Balance 'greens' (nitrogen-rich: food scraps, fresh grass) with 'browns' (carbon-rich: dry leaves, straw, cardboard).
+2. Target ratio: roughly 3 parts brown to 1 part green by volume.
+3. Chop materials into smaller pieces to speed decomposition.
+4. Build pile at least 1m × 1m × 1m for adequate heat retention.
+5. Keep moist like a wrung-out sponge—too wet goes anaerobic, too dry stops decomposition.
+6. Turn pile every 1–2 weeks to introduce oxygen and distribute heat.
+7. Hot composting (55–65°C internal) kills weed seeds and pathogens in 4–8 weeks.
+8. Finished compost is dark, crumbly, earthy-smelling, with no recognizable materials.
+
+[WARNINGS]
+! Do not compost meat, dairy, or human waste in basic piles—attracts pests and pathogens.
+! Anaerobic piles produce methane and hydrogen sulfide—foul smell indicates poor aeration.
+
+[RELATED]
+> l4-agriculture-soil-basics
+> l4-agriculture-crop-rotation
+
+[SOURCES]
+@ usda-nrcs-soil-health
+@ fao-soils-portal

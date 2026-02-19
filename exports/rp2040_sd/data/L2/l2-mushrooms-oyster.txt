@@ -1,0 +1,29 @@
+TITLE: Oyster Mushroom (Pleurotus ostreatus)
+CAT: L2
+SUB: mushrooms
+TAGS: oyster,wood-decay,year-round,cultivatable
+REGION: global,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Common wood-decay mushroom growing in shelf-like clusters on dead/dying hardwoods. Mild flavor, good texture. Can fruit year-round in mild climates. Also easy to cultivate.
+
+[STEPS]
+1. Identify by fan/oyster-shaped caps, white to gray-brown color, decurrent gills running down a short offset stem, growing on wood.
+2. Spore print: white to pale lilac.
+3. Harvest by twisting or cutting cluster from wood.
+4. Cook before eating — good sautéed, in soups, or dried.
+
+[WARNINGS]
+! Angel wing (Pleurocybella porrigens) is a thin white lookalike on conifers — avoid white species on conifer wood.
+! Some people sensitive — try small amounts first.
+
+[RELATED]
+> l2-mushrooms-chicken-of-the-woods
+> l2-mushrooms-lions-mane
+> l4-agriculture-mushroom-cultivation
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides

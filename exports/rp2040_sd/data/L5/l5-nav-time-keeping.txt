@@ -1,0 +1,30 @@
+TITLE: Time Keeping: Sundials and Simple Clocks
+CAT: L5
+SUB: navigation
+TAGS: navigation,time,sundial,clocks
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Measuring and tracking time using shadow sticks, sundials, and simple mechanical clocks.
+
+[STEPS]
+1. Shadow stick method: plant vertical stick, mark shadow tip at intervals to find east-west line and solar noon.
+2. Build a simple sundial: angle the gnomon to your latitude, mark hour lines.
+3. Use water clocks (clepsydra) for consistent timing regardless of weather.
+4. Construct candle clocks with marked intervals for nighttime timing.
+5. Synchronize community time using solar noon (shortest shadow) as daily reference.
+
+[WARNINGS]
+! Sundials show solar time, which varies from clock time seasonally.
+! Water clocks need consistent water temperature for accuracy.
+
+[RELATED]
+> l5-celestial-navigation-basics
+> l5-nav-compass-construction
+> l5-math-trigonometry
+
+[SOURCES]
+@ noaa-celestial-navigation
+@ openstax-college-physics

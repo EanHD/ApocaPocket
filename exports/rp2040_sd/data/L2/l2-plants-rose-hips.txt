@@ -1,0 +1,30 @@
+TITLE: Rose Hips (Rosa spp.)
+CAT: L2
+SUB: edible_plants
+TAGS: rose-hips,vitamin-c,fall,winter,tea
+REGION: global,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Fruit of wild roses; extremely high in vitamin C (up to 50x more than oranges). Available fall through winter. Excellent dried for tea or processed into jam.
+
+[STEPS]
+1. Identify by thorny stems, compound leaves with serrated leaflets, and red/orange fruit (hip) after flowering.
+2. Harvest after first frost for best sweetness.
+3. Split hips, remove seeds and irritating hairs inside.
+4. Dry for tea, or cook into syrup/jam.
+5. Avoid boiling — heat degrades vitamin C. Use warm water for tea.
+
+[WARNINGS]
+! Interior hairs are an irritant — strain well and remove seeds.
+! Do not harvest from ornamental roses that may be sprayed.
+
+[RELATED]
+> l2-plants-pine-needle-tea
+> l2-plants-elderberry
+> l2-nutrition-deficiency-signs
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database

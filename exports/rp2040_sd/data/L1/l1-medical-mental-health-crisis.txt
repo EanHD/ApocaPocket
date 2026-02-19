@@ -1,0 +1,32 @@
+TITLE: Psychological First Aid
+CAT: L1
+SUB: medical_first_aid
+TAGS: mental-health,psychological,trauma,crisis,PFA
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Providing psychological first aid during and after crisis situations.
+
+[STEPS]
+1. Ensure physical safety first — psychological care follows physical stabilization.
+2. Approach calmly, introduce yourself, ask how you can help.
+3. Listen actively without judgment — do not force people to talk about trauma.
+4. Help with immediate practical needs (water, food, shelter, family contact).
+5. Provide accurate information about the situation — uncertainty increases distress.
+6. Watch for danger signs: suicidal statements, complete withdrawal, inability to care for self.
+
+[WARNINGS]
+! Do not say 'everything will be fine' or minimize the crisis.
+! Critical incident stress debriefing (forced retelling) can worsen trauma — avoid it.
+! Suicidal individuals need constant supervision — remove access to means of self-harm.
+! Caregiver burnout is real — responders need support too.
+
+[RELATED]
+> l1-medical-shock-recognition
+> l1-medical-dehydration
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ red-cross-first-aid-cpr-aed

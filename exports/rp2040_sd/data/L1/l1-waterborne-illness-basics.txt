@@ -1,0 +1,34 @@
+TITLE: Waterborne Disease Recognition
+CAT: L1
+SUB: water
+TAGS: waterborne,disease,diarrhea,cholera,giardia
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Recognizing and responding to common waterborne illnesses in survival situations.
+
+[STEPS]
+1. Common symptoms: diarrhea, vomiting, abdominal cramps, fever.
+2. Begin oral rehydration immediately at first sign of diarrhea.
+3. Isolate patient's waste — do not allow contamination of water sources.
+4. Cholera signs: profuse watery 'rice water' diarrhea — life-threatening dehydration within hours.
+5. Giardia: onset 1-2 weeks after exposure, foul-smelling diarrhea, bloating.
+6. Maintain strict water treatment protocols for entire group.
+
+[WARNINGS]
+! Cholera and dysentery can kill through dehydration within hours — aggressive rehydration critical.
+! Bloody diarrhea (dysentery) indicates invasive infection — antibiotics if available.
+! Cryptosporidium resists chlorine — boiling or fine filtration required.
+! One untreated case can contaminate water for entire group.
+
+[RELATED]
+> l1-medical-dehydration
+> l1-water-boiling-disinfection
+> l1-water-chemical-disinfection
+
+[SOURCES]
+@ cdc-water-emergency
+@ who-basic-emergency-care-2018
+@ who-household-water-treatment

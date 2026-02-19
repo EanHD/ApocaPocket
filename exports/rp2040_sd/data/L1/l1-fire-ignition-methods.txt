@@ -1,0 +1,28 @@
+TITLE: Field Fire Ignition Methods
+CAT: L1
+SUB: fire
+TAGS: fire,ignition,spark,friction
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Comparative ignition options under varying moisture and wind conditions.
+
+[STEPS]
+1. Prepare tinder and kindling before ignition attempt.
+2. Start with most reliable method available (spark/flame source).
+3. Use progressively larger fuel sizes to build coal bed.
+4. Maintain safe clearance and extinguish completely.
+
+[WARNINGS]
+! Wildfire risk increases with wind and dry fuels.
+! Use ventilation and carbon monoxide controls in shelters.
+
+[RELATED]
+> l1-shelter-rain-and-ventilation
+> l3-chemistry-combustion
+
+[SOURCES]
+@ usfs-fire-and-safety
+@ bsa-handbook

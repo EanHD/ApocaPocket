@@ -1,0 +1,54 @@
+---
+id: l3-chemistry-cement-basics
+title: Lime Cement and Basic Concrete
+category: L3_materials_elements
+subtopic: basic_chemistry
+tags:
+- cement
+- concrete
+- lime
+- mortar
+- construction
+region_relevance:
+- global
+confidence: high
+sources:
+- engineering-village-technology
+related_entries:
+- l3-chemistry-lime-production
+- l3-minerals-limestone-uses
+- l5-structural-masonry-basics
+summary: Lime cement (hydraulic lime) was used for millennia before Portland cement. Made by burning limestone, slaking with water, mixing with sand and optional pozzolans (volcanic ash, brick dust, or
+  wood ash). Creates durable mortar and concrete for structures, cisterns, and foundations.
+warnings:
+- Quickite (calcium oxide) reacts violently with water — generates extreme heat, causes severe burns. Handle with heavy gloves and eye protection.
+- Limestone must be heated to 900°C (1650°F) — requires a sustained kiln fire for 24-72 hours
+- Lime dust is a severe lung irritant — work upwind and cover mouth/nose
+- Lime mortar takes weeks to fully cure (carbonation process) — protect from rain and frost during curing
+steps:
+- 'SOURCE LIMESTONE: identify limestone — reacts with acid (vinegar fizzes on it), gray-white, relatively soft (scratches with steel knife). Chalk, seashells, coral, and marble also work. Collect fist-sized
+  pieces.'
+- 'BURN TO QUICKITE: build a kiln — stack limestone chunks over a fire pit, alternating layers of limestone and firewood. Or build a simple shaft kiln from clay bricks. Burn at high heat (900°C+) for 24-72
+  hours. Wood consumption: approximately equal weight to limestone. Done when stone has lost ~40% of its weight and crumbles easily.'
+- 'SLAKE THE QUICKITE: CAREFULLY add quicklime to water (NOT water to quicklime). Ratio: 1 part quicklime to 3 parts water. It will boil and steam violently. Stir with a long stick. The result is ''lime
+  putty'' or ''slaked lime'' (calcium hydroxide). Let it sit for at least 24 hours — longer is better (aged lime putty is smoother).'
+- 'BASIC LIME MORTAR: mix 1 part lime putty to 2.5-3 parts clean sharp sand (river sand, not beach sand — salt weakens mortar). Add water to achieve a workable consistency (like thick peanut butter). Use
+  within 2-3 hours of mixing.'
+- 'HYDRAULIC LIME (sets underwater): add a POZZOLAN — volcanic ash (if available), crushed fired clay/brick dust, or wood ash — at 1 part pozzolan to 2 parts lime. Pozzolans cause the lime to set by chemical
+  reaction rather than just drying, making it water-resistant. This is essentially Roman concrete.'
+- 'BASIC CONCRETE: lime mortar + aggregate. Mix: 1 part lime putty, 2 parts sand, 3 parts gravel or crushed stone. Add water to achieve a thick but pourable consistency. Pour into forms, tamp to remove
+  air bubbles. Stronger than mortar alone.'
+- 'CURING: lime mortar/concrete cures by absorbing CO2 from air (carbonation). Keep moist but not wet for the first 7 days (cover with damp cloth). Full strength takes 4-12 weeks. Protect from freezing
+  during first 2 weeks — ice destroys uncured lime products.'
+- 'APPLICATIONS: mortar between stone/brick walls, plastering walls (inside and out), cistern lining (use hydraulic lime), foundation construction, floor surfaces, chimney/fireplace construction, waterproofing
+  roofs.'
+- 'STRENGTH: lime mortar is weaker than Portland cement but more flexible — it moves with buildings rather than cracking. Compressive strength: 200-600 PSI after full cure. Adequate for buildings up to
+  3-4 stories. Roman lime concrete structures have lasted 2000+ years.'
+- 'WHITEWASH: thin lime putty with water to paint consistency. Apply to walls with a brush. Whitewash is antibacterial, reflects heat, waterproofs surfaces, and was used for centuries as building paint.
+  Reapply annually.'
+last_verified: '2026-02-18'
+---
+
+# Lime Cement and Basic Concrete
+
+Lime cement (hydraulic lime) was used for millennia before Portland cement. Made by burning limestone, slaking with water, mixing with sand and optional pozzolans (volcanic ash, brick dust, or wood ash). Creates durable mortar and concrete for structures, cisterns, and foundations.

@@ -1,0 +1,28 @@
+TITLE: Stone Tool Edge and Platform Basics
+CAT: L4
+SUB: tool_making
+TAGS: stone-tools,knapping,edge-geometry
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Core stone reduction concepts for simple cutting/scraping tools.
+
+[STEPS]
+1. Select cryptocrystalline or fine-grain stone where available.
+2. Prepare platform angle and strike direction.
+3. Remove flakes progressively to shape edge.
+4. Retouch edge for intended task.
+
+[WARNINGS]
+! Eye and hand protection required.
+! Sharp flakes cause severe lacerations.
+
+[RELATED]
+> l3-rock-cycle-basics
+> l4-tool-wood-joinery
+
+[SOURCES]
+@ openstax-engineering-statics
+@ usgs-mineral-education

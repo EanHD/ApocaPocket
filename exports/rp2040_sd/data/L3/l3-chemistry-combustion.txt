@@ -1,0 +1,28 @@
+TITLE: Combustion Principles
+CAT: L3
+SUB: basic_chemistry
+TAGS: combustion,oxidation,heat
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Foundational combustion chemistry for fire control, fuel efficiency, and hazard reduction.
+
+[STEPS]
+1. Model fire triangle: fuel, oxygen, heat.
+2. Adjust airflow and fuel geometry to control burn.
+3. Track incomplete combustion indicators.
+4. Apply extinguishing strategy by removing one fire-triangle element.
+
+[WARNINGS]
+! Combustion byproducts include toxic gases.
+! Confined spaces dramatically increase risk.
+
+[RELATED]
+> l1-fire-ignition-methods
+> l3-wood-burn-quality
+
+[SOURCES]
+@ openstax-chemistry-2e
+@ usfs-fire-and-safety

@@ -1,0 +1,29 @@
+TITLE: Messenger Networks: Relay and Courier Systems
+CAT: L5
+SUB: communication
+TAGS: communication,messenger,courier,relay
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Organizing reliable human messenger and relay networks for communication across distances.
+
+[STEPS]
+1. Establish relay stations at intervals matching a runner's/rider's sustainable range.
+2. Use sealed, tamper-evident message containers.
+3. Implement authentication tokens so recipients can verify messenger identity.
+4. Maintain backup routes in case primary paths are compromised.
+5. Log all messages sent and received for accountability.
+
+[WARNINGS]
+! Messengers can be intercepted—use encryption for sensitive content.
+! Single points of failure in relay chains disable the whole network.
+
+[RELATED]
+> l5-communication-systems-basics
+> l5-comm-encryption-basics
+> l5-comm-signal-methods
+
+[SOURCES]
+@ army-land-navigation-fm-3-25-26

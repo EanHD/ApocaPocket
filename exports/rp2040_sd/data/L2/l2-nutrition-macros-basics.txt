@@ -1,0 +1,32 @@
+TITLE: Macronutrient Requirements Under Survival Conditions
+CAT: L2
+SUB: nutrition
+TAGS: nutrition,protein,fat,carbs,calories
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Minimum macronutrient needs shift under survival stress. Caloric needs increase with cold, exertion, and injury. Fat is the most calorie-dense macronutrient and critical for long-term survival.
+
+[STEPS]
+1. Baseline adult needs: ~2000-2500 kcal/day sedentary; 3000-4500+ under heavy exertion or cold.
+2. Protein: 0.8-1.2g/kg body weight minimum. Critical for wound healing and muscle maintenance.
+3. Fat: 9 kcal/g (vs 4 for protein/carbs). Prioritize fat sources for caloric efficiency.
+4. Carbohydrates: primary quick energy. Grains, tubers, fruits, honey.
+5. Prioritize calories over nutritional balance in acute survival — starvation kills faster than deficiency.
+
+[WARNINGS]
+! Protein-only diet without fat/carbs causes 'rabbit starvation' — potentially fatal.
+! Caloric deficit compounds rapidly under cold exposure.
+! Dehydration mimics hunger — hydrate first.
+
+[RELATED]
+> l2-nutrition-caloric-needs
+> l2-nutrition-deficiency-signs
+> l2-plants-amaranth
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ openstax-biology-2e
+@ red-cross-first-aid-cpr-aed

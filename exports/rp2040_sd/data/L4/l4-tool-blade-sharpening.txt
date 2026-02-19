@@ -1,0 +1,31 @@
+TITLE: Blade Sharpening and Edge Geometry
+CAT: L4
+SUB: tool_making
+TAGS: sharpening,blade,edge,honing,whetstone
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Principles of edge geometry, sharpening angles, and honing techniques for knives and tools.
+
+[STEPS]
+1. Understand edge angles: 15° per side for fine cutting, 20–25° for general use, 30°+ for chopping/splitting.
+2. Find natural whetstones: fine-grained sandstone, slate, or river-smoothed stones.
+3. Coarse sharpening: establish the bevel angle by grinding on coarse stone with water.
+4. Fine honing: switch to smooth stone, maintain consistent angle, alternating sides.
+5. Strop on smooth leather or cardboard to remove wire edge and polish.
+6. Test sharpness: blade should catch on thumbnail or shave arm hair.
+7. Maintain edges regularly—frequent light honing prevents need for major resharpening.
+
+[WARNINGS]
+! Always cut away from your body when sharpening.
+! Secure the stone—it should not slip during use.
+
+[RELATED]
+> l4-tool-stone-basics
+> l4-tool-basic-forge
+
+[SOURCES]
+@ nols-wilderness-guide
+@ bsa-handbook

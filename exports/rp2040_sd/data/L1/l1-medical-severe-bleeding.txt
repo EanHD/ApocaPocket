@@ -1,0 +1,28 @@
+TITLE: Severe Bleeding Control
+CAT: L1
+SUB: medical_first_aid
+TAGS: hemorrhage,tourniquet,pressure
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Initial hemorrhage control prioritizing direct pressure and appropriate tourniquet use.
+
+[STEPS]
+1. Apply firm direct pressure with clean cloth/dressing.
+2. If life-threatening extremity bleed continues, apply tourniquet proximal to wound.
+3. Record time of tourniquet application.
+4. Monitor for shock and expedite evacuation.
+
+[WARNINGS]
+! Improper tourniquet placement can worsen injury.
+! Internal bleeding requires urgent advanced care.
+
+[RELATED]
+> l1-medical-shock-recognition
+> l1-medical-wound-cleaning
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ us-army-fm-4-25-11

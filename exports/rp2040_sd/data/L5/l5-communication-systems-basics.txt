@@ -1,0 +1,28 @@
+TITLE: Communication Systems Basics
+CAT: L5
+SUB: communication
+TAGS: communication,signals,protocols
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Core concepts for reliable message passing under degraded infrastructure.
+
+[STEPS]
+1. Standardize message formats and priority levels.
+2. Use redundancy and acknowledgment loops.
+3. Set fallback channels and schedules.
+4. Maintain logs for auditing and continuity.
+
+[WARNINGS]
+! Unverified messages can trigger dangerous responses.
+! Encrypt sensitive info when feasible.
+
+[RELATED]
+> l4-electricity-ohms-law
+> l5-governance-principles
+
+[SOURCES]
+@ openstax-college-physics
+@ army-tm-electrical-basics

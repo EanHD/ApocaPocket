@@ -1,0 +1,30 @@
+TITLE: Scientific Method: Observation, Hypothesis, and Testing
+CAT: L5
+SUB: education
+TAGS: education,science,method,experimentation
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Applying systematic observation and experimentation to solve problems and improve techniques.
+
+[STEPS]
+1. Observe a phenomenon or problem carefully; record detailed notes.
+2. Form a hypothesis: a testable explanation for what you observed.
+3. Design a simple experiment: change one variable, keep others constant.
+4. Record results honestly, including failures and unexpected outcomes.
+5. Share findings with the community; repeat experiments to verify.
+
+[WARNINGS]
+! Confirmation bias: don't ignore results that contradict your hypothesis.
+! Anecdotes are not evidence—require repeatable results.
+
+[RELATED]
+> l5-edu-teaching-methods
+> l5-math-statistics-basics
+> l5-governance-record-keeping
+
+[SOURCES]
+@ openstax-biology-2e
+@ openstax-college-physics

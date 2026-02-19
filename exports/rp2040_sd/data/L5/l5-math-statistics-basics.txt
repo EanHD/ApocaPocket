@@ -1,0 +1,29 @@
+TITLE: Basic Statistics for Decision-Making
+CAT: L5
+SUB: math
+TAGS: math,statistics,probability,decision-making
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Mean, median, mode, and basic probability concepts for resource planning and risk assessment.
+
+[STEPS]
+1. Calculate mean (average) for resource consumption estimates.
+2. Use median to find the middle value when outliers skew data.
+3. Track mode to identify the most common outcome in repeated observations.
+4. Estimate simple probability as favorable outcomes / total outcomes.
+5. Apply expected value (probability × outcome) to compare risky decisions.
+
+[WARNINGS]
+! Small sample sizes produce unreliable statistics.
+! Correlation does not imply causation—verify with controlled observation.
+
+[RELATED]
+> l5-math-foundations
+> l5-governance-resource-allocation
+> l5-edu-scientific-method
+
+[SOURCES]
+@ openstax-precalculus

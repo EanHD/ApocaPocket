@@ -1,0 +1,30 @@
+TITLE: Thermodynamics Basics: Heat Engines and Energy Conversion
+CAT: L5
+SUB: mechanical_engineering
+TAGS: mechanical_engineering,thermodynamics,heat,energy
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Fundamental principles of heat transfer and energy conversion for building simple engines and heating systems.
+
+[STEPS]
+1. Understand the three modes of heat transfer: conduction, convection, radiation.
+2. Learn the concept of work from expanding gases (piston principle).
+3. Grasp thermal efficiency: no engine converts all heat to work (second law).
+4. Apply insulation principles to reduce unwanted heat loss.
+5. Design simple steam or hot-air engines using pressure differentials.
+
+[WARNINGS]
+! Pressurized vessels can explode—always include pressure relief.
+! Burns from steam are more severe than from dry heat at the same temperature.
+
+[RELATED]
+> l5-mechanical-engineering-basics
+> l5-mech-fluid-mechanics-basics
+> l5-metallurgy-iron-smelting
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering
+@ openstax-college-physics

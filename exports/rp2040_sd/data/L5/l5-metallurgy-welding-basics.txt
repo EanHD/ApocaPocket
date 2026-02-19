@@ -1,0 +1,30 @@
+TITLE: Forge Welding Fundamentals
+CAT: L5
+SUB: metallurgy
+TAGS: metallurgy,welding,forge,joining
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Joining iron and steel pieces by heating to welding temperature and hammering together.
+
+[STEPS]
+1. Prepare joint surfaces: scarf (overlap) or butt joint, clean of scale and dirt.
+2. Apply flux (borax or fine sand) to prevent oxidation at the joint.
+3. Heat both pieces to bright yellow/white heat (~1300°C for mild steel).
+4. Quickly bring pieces together and strike with firm, rapid hammer blows.
+5. Reheat and re-strike as needed; inspect by bending—a good weld won't separate.
+
+[WARNINGS]
+! Welding temperature steel throws sparks—clear flammable materials.
+! Flux spatters on contact—wear eye protection and leather apron.
+
+[RELATED]
+> l5-metallurgy-basics
+> l5-metallurgy-iron-smelting
+> l5-metallurgy-tempering-hardening
+
+[SOURCES]
+@ usgs-mineral-education
+@ mit-ocw-mechanical-engineering

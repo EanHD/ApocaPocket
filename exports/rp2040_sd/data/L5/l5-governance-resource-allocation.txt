@@ -1,0 +1,29 @@
+TITLE: Resource Allocation: Fair Distribution Systems
+CAT: L5
+SUB: governance
+TAGS: governance,resources,distribution,rationing
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Methods for fair and transparent allocation of scarce resources in a community.
+
+[STEPS]
+1. Inventory all available resources and estimate consumption rates.
+2. Establish priority categories: survival needs first, then comfort, then luxury.
+3. Use per-capita rationing for essentials (food, water, medicine).
+4. Create transparent tracking systems visible to the community.
+5. Review and adjust allocations regularly based on changing conditions.
+
+[WARNINGS]
+! Perceived unfairness causes social breakdown faster than actual scarcity.
+! Secret stockpiles destroy trust—maintain transparency.
+
+[RELATED]
+> l5-governance-principles
+> l5-governance-conflict-resolution
+> l5-governance-record-keeping
+
+[SOURCES]
+@ openstax-intro-business-governance

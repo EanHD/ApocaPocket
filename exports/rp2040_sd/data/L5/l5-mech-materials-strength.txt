@@ -1,0 +1,30 @@
+TITLE: Materials Strength: Stress, Strain, and Safety Factors
+CAT: L5
+SUB: mechanical_engineering
+TAGS: mechanical_engineering,materials,stress,safety
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Understanding how materials respond to loads, and how to apply safety factors to prevent failure.
+
+[STEPS]
+1. Define stress (force/area) and strain (deformation/original length).
+2. Identify yield strength (permanent deformation begins) vs. ultimate strength (failure).
+3. Apply safety factors: design load = ultimate strength / safety factor (typically 2-4 for critical structures).
+4. Recognize failure modes: tension, compression, shear, buckling, fatigue.
+5. Test materials empirically when data is unavailable—load incrementally and observe.
+
+[WARNINGS]
+! Fatigue failure occurs below yield strength after many load cycles.
+! Notches and holes concentrate stress—round all corners.
+
+[RELATED]
+> l5-mechanical-engineering-basics
+> l5-structural-load-paths
+> l5-metallurgy-tempering-hardening
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering
+@ openstax-engineering-statics

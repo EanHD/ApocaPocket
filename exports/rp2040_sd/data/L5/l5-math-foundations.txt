@@ -1,0 +1,28 @@
+TITLE: Mathematics Foundations for Engineering
+CAT: L5
+SUB: math
+TAGS: math,algebra,geometry
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Core numeracy and algebra/geometry concepts required for technical rebuilding tasks.
+
+[STEPS]
+1. Maintain arithmetic and ratio fluency.
+2. Use algebra for unknown variable solving.
+3. Apply geometry for area/volume/angle tasks.
+4. Practice estimation and error checking.
+
+[WARNINGS]
+! Calculation errors compound in structural/electrical work.
+! Always include unit checks.
+
+[RELATED]
+> l5-structural-load-paths
+> l4-electricity-ohms-law
+
+[SOURCES]
+@ openstax-precalculus
+@ openstax-calculus-volume-1

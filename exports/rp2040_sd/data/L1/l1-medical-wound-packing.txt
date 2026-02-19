@@ -1,0 +1,38 @@
+TITLE: Hemostatic Wound Packing for Severe Bleeding
+CAT: L1
+SUB: medical_first_aid
+TAGS: bleeding,hemorrhage,wound-packing,hemostatic,trauma
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Wound packing is the primary technique for controlling life-threatening bleeding from junctional wounds (groin, armpit, neck) and deep lacerations where tourniquets cannot be applied. Pack within 3 minutes — blood loss kills fast.
+
+[STEPS]
+1. Expose the wound completely — cut or tear away clothing. You must see the source of bleeding.
+2. If available, use hemostatic gauze (QuikClot, Celox). If not, use the cleanest cloth available — torn cotton shirts, gauze, sanitary pads, even a clean sock.
+3. Using your fingers, push packing material DIRECTLY into the wound cavity, pressing firmly against the bleeding source. Start at the deepest point of the wound.
+4. Continue feeding material into the wound in a zigzag pattern, maintaining firm pressure with your fingers as you pack. Fill the ENTIRE wound cavity tightly.
+5. A deep groin or armpit wound may require 3-5 feet of gauze or equivalent cloth strips. Keep packing until the wound is completely filled and firm.
+6. Once packed, apply direct pressure with both hands on top of the packing for a MINIMUM of 3 minutes (5+ minutes is better). Do not peek.
+7. After holding pressure, apply a pressure dressing over the packing — wrap tightly with elastic bandage, belt, or torn cloth strips. It should be tight enough to maintain pressure but not cut off circulation below.
+8. Monitor patient for shock: pale skin, rapid weak pulse, confusion, rapid breathing. Lay patient flat, elevate legs 12 inches if no spinal injury suspected.
+9. Document time of packing — this information is critical for medical personnel who will eventually treat the wound.
+
+[WARNINGS]
+! This is for LIFE-THREATENING bleeding only — spurting blood, blood pooling on ground, or blood-soaked clothing
+! Do not remove packing once placed — this dislodges forming clots and restarts hemorrhage
+! Wound packing is extremely painful — warn the patient and do it anyway. Pain is survivable; blood loss is not
+! Abdominal evisceration (organs visible): do NOT pack. Cover with moist clean cloth and evacuate.
+! If blood soaks through, pack MORE material on top — never remove the first layer
+
+[RELATED]
+> l1-medical-severe-bleeding
+> l1-medical-shock-recognition
+> l1-medical-wound-cleaning
+
+[SOURCES]
+@ red-cross-first-aid-cpr-aed
+@ who-basic-emergency-care-2018
+@ red-cross-first-aid-cpr-aed

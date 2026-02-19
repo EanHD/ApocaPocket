@@ -1,0 +1,30 @@
+TITLE: Animal Seasonal Behavior and Migration Patterns
+CAT: L2
+SUB: fishing_hunting_knowledge
+TAGS: migration,breeding,seasons,ecology,behavior
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Understanding seasonal animal behavior cycles improves foraging success and safety. Animals are most active and predictable during feeding, breeding, and migration periods.
+
+[STEPS]
+1. Spring: breeding season — males territorial and visible. Nesting birds aggressive. Fish spawning in shallows.
+2. Summer: dispersed feeding. Dawn/dusk activity peaks. Water sources become gathering points.
+3. Fall: migration and fat-building. Best hunting season — animals are heaviest. Salmon runs. Nut/fruit competition.
+4. Winter: reduced activity, concentrated near food/shelter. Tracking easiest in snow. Hibernators unavailable.
+
+[WARNINGS]
+! Breeding animals (especially bears, moose, elk) are more aggressive.
+! Avoid disturbing nesting sites.
+! Predator activity increases near concentrated prey.
+
+[RELATED]
+> l2-tracking-basics
+> l2-game-bird-basics
+> l2-plants-seasonality
+
+[SOURCES]
+@ state-wildlife-hunter-ed
+@ openstax-biology-2e

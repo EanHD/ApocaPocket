@@ -1,0 +1,28 @@
+TITLE: Field Dressing Hygiene Overview
+CAT: L2
+SUB: fishing_hunting_knowledge
+TAGS: field-dressing,hygiene,food-safety
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Basic carcass handling to reduce contamination and spoilage risk.
+
+[STEPS]
+1. Use clean tools and avoid GI tract puncture.
+2. Remove viscera promptly and cool carcass.
+3. Isolate suspect tissue and signs of disease.
+4. Store and transport meat at safe temperatures.
+
+[WARNINGS]
+! Wild game can carry pathogens and parasites.
+! Discard meat with abnormal odor/discoloration.
+
+[RELATED]
+> l2-meat-preservation
+> l1-water-contamination-risk
+
+[SOURCES]
+@ state-wildlife-hunter-ed
+@ usda-meat-preservation

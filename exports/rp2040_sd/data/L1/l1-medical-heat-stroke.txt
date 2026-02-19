@@ -1,0 +1,28 @@
+TITLE: Heat Stroke and Heat Exhaustion
+CAT: L1
+SUB: medical_first_aid
+TAGS: heat,hyperthermia,cooling
+REGION: arid,tropical,urban
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Differentiation and immediate treatment priorities for heat illness.
+
+[STEPS]
+1. Move to shade and remove excess clothing.
+2. Actively cool using water and airflow.
+3. Hydrate if conscious and not vomiting.
+4. Escalate rapidly if altered mental status.
+
+[WARNINGS]
+! Heat stroke is life-threatening and time-critical.
+! Do not give oral fluids to unconscious patients.
+
+[RELATED]
+> l1-water-dehydration-risk
+> l1-shelter-rain-and-ventilation
+
+[SOURCES]
+@ cdc-extreme-heat
+@ who-hypothermia-heat-guidance

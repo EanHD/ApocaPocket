@@ -1,0 +1,28 @@
+TITLE: Field Clay Identification for Ceramic and Sealing Use
+CAT: L3
+SUB: rock_mineral_id
+TAGS: clay,plasticity,ceramic
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Basic field tests for identifying workable clay deposits.
+
+[STEPS]
+1. Collect subsoil sample away from organic top layer.
+2. Perform ribbon/plasticity tests with water.
+3. Settle slurry to estimate silt/sand proportion.
+4. Test small fired sample for shrinkage/cracking.
+
+[WARNINGS]
+! Natural clays may contain contaminants.
+! Firing requires controlled ventilation and heat management.
+
+[RELATED]
+> l4-tool-kiln-principles
+> l3-chemistry-lime-production
+
+[SOURCES]
+@ usgs-mineral-education
+@ mit-ocw-chemistry

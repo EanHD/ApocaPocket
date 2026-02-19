@@ -1,0 +1,32 @@
+TITLE: Stinging Nettle (Urtica dioica)
+CAT: L2
+SUB: edible_plants
+TAGS: nettle,nutritious,cooking-required,spring
+REGION: global,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Extremely nutritious green high in iron, calcium, and protein — but must be cooked or dried to neutralize stinging hairs. One of the most nutrient-dense wild foods.
+
+[STEPS]
+1. Identify by opposite toothed leaves, square stem, and visible stinging hairs.
+2. Harvest with gloves — top 4-6 leaves of young spring plants.
+3. Cook by boiling, steaming, or sautéing (2+ minutes destroys sting).
+4. Dried nettle also loses sting and makes excellent tea.
+5. Cooking water can be drunk as nutritious broth.
+
+[WARNINGS]
+! Handle ONLY with gloves until cooked — stinging hairs inject formic acid.
+! Do not eat raw.
+! Older plants develop cystoliths that may irritate kidneys — harvest young.
+
+[RELATED]
+> l2-plants-lambs-quarters
+> l2-plants-amaranth
+> l2-nutrition-deficiency-signs
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database
+@ extension-edible-plants

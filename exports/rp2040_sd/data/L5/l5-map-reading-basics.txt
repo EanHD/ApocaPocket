@@ -1,0 +1,27 @@
+TITLE: Topographic Map Reading and Route Planning
+CAT: L5
+SUB: navigation
+TAGS: maps,topography,route-planning
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Map interpretation and terrain-based planning for movement and logistics.
+
+[STEPS]
+1. Read contour intervals and terrain features.
+2. Convert map scale to real distance.
+3. Plan routes by grade, water, and hazard constraints.
+4. Use handrails/backstops and checkpointing.
+
+[WARNINGS]
+! Magnetic declination errors accumulate over distance.
+! Route plans need weather and daylight contingencies.
+
+[RELATED]
+> l5-celestial-navigation-basics
+> l1-water-contamination-risk
+
+[SOURCES]
+@ army-land-navigation-fm-3-25-26

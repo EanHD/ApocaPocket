@@ -1,0 +1,33 @@
+TITLE: Friction Fire Methods
+CAT: L1
+SUB: fire
+TAGS: bow-drill,hand-drill,fire-plough,friction
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Starting fire using friction-based methods: bow drill, hand drill, and fire plough.
+
+[STEPS]
+1. Bow drill: carve fireboard, spindle, handhold, and bow from dry wood.
+2. Cut V-notch in fireboard; place tinder bundle beneath notch.
+3. Wrap bow string around spindle; press handhold on top, saw bow back and forth.
+4. Hand drill: roll straight, dry spindle between palms on fireboard — requires sustained effort.
+5. Fire plough: rub hardwood shaft along groove in softer wood baseboard.
+6. Once ember forms in tinder bundle, gently blow into flame.
+
+[WARNINGS]
+! Friction fire requires completely dry materials — nearly impossible in wet conditions.
+! Hand drill method causes palm blisters — protect hands.
+! Practice these techniques before a survival situation — failure rate is high for beginners.
+
+[RELATED]
+> l1-fire-ignition-methods
+> l1-fire-tinder-identification
+> l1-fire-wood-selection
+
+[SOURCES]
+@ bsa-handbook
+@ nols-wilderness-guide
+@ us-army-fm-4-25-11

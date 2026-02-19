@@ -1,0 +1,29 @@
+TITLE: Record Keeping: Documentation and Archives
+CAT: L5
+SUB: governance
+TAGS: governance,records,archives,documentation
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Systems for maintaining community records, inventories, and institutional knowledge.
+
+[STEPS]
+1. Designate a record keeper and establish standard formats.
+2. Record vital statistics: births, deaths, marriages, population counts.
+3. Maintain resource inventories with regular audits.
+4. Document decisions, agreements, and the reasoning behind them.
+5. Store records in multiple locations to protect against loss.
+
+[WARNINGS]
+! Records on paper require protection from water, fire, and insects.
+! Undocumented decisions lead to disputes—write it down.
+
+[RELATED]
+> l5-governance-principles
+> l5-governance-resource-allocation
+> l5-edu-library-preservation
+
+[SOURCES]
+@ openstax-intro-business-governance

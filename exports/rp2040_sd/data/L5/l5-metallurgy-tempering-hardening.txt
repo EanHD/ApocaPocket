@@ -1,0 +1,30 @@
+TITLE: Heat Treatment: Tempering and Hardening for Tools
+CAT: L5
+SUB: metallurgy
+TAGS: metallurgy,heat_treatment,tempering,hardening
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+How to harden and temper steel tools for optimal edge retention and toughness.
+
+[STEPS]
+1. Heat steel to critical temperature (cherry red, ~800°C) uniformly.
+2. Quench in water or oil for maximum hardness (martinsite formation).
+3. Clean the surface bright to observe temper colors.
+4. Reheat slowly and watch oxide colors: straw (220°C) for cutting edges, blue (300°C) for springs.
+5. Quench again when desired color reaches the working edge.
+
+[WARNINGS]
+! Over-hardened steel is brittle and shatters—always temper after hardening.
+! Quenching hot metal in water produces steam—keep face clear.
+
+[RELATED]
+> l5-metallurgy-basics
+> l5-metallurgy-iron-smelting
+> l5-mech-materials-strength
+
+[SOURCES]
+@ usgs-mineral-education
+@ openstax-chemistry-2e

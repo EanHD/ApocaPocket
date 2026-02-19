@@ -1,0 +1,28 @@
+TITLE: Metallurgy Fundamentals
+CAT: L5
+SUB: metallurgy
+TAGS: metallurgy,alloys,heat-treatment
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Introductory metallurgy for material selection and basic heat-treatment awareness.
+
+[STEPS]
+1. Identify ferrous vs non-ferrous classes.
+2. Understand microstructure and heat effects.
+3. Use hardness/ductility tradeoff in tool selection.
+4. Record process temperatures and cooling rates.
+
+[WARNINGS]
+! High-temperature work requires fire and fume controls.
+! Unknown alloys can release toxic fumes when heated.
+
+[RELATED]
+> l4-tool-wood-joinery
+> l3-chemistry-combustion
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering
+@ openstax-chemistry-2e

@@ -1,0 +1,30 @@
+TITLE: Compass Construction: Making a Magnetic Compass
+CAT: L5
+SUB: navigation
+TAGS: navigation,compass,magnetic,direction
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Building a functional magnetic compass from salvaged materials for direction finding.
+
+[STEPS]
+1. Find a magnetizable needle, pin, or thin steel wire.
+2. Magnetize by stroking repeatedly in one direction with a magnet or by induction.
+3. Float the needle on a small leaf or cork in still water.
+4. The needle aligns north-south; mark the north-seeking end.
+5. Calibrate against known landmarks or celestial observations.
+
+[WARNINGS]
+! Metal objects and electronics near the compass cause deviation.
+! Magnetic north differs from true north—learn local declination.
+
+[RELATED]
+> l5-map-reading-basics
+> l5-celestial-navigation-basics
+> l5-nav-dead-reckoning
+
+[SOURCES]
+@ army-land-navigation-fm-3-25-26
+@ bsa-handbook

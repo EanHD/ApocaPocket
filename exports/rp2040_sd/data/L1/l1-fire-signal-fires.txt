@@ -1,0 +1,33 @@
+TITLE: Signal Fire Construction
+CAT: L1
+SUB: fire
+TAGS: signal,rescue,smoke,visibility
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Building signal fires for rescue visibility in day and night conditions.
+
+[STEPS]
+1. Build three fires in a triangle (international distress signal), spaced ~100 feet apart.
+2. Prepare fires in advance — have them ready to light quickly when aircraft/rescuers spotted.
+3. For daytime: add green branches, wet leaves, or rubber to create thick white smoke.
+4. For nighttime: use dry wood for bright, visible flame.
+5. Build on high, open ground with maximum visibility to sky and horizon.
+6. Maintain fuel supply to keep signals burning for extended period.
+
+[WARNINGS]
+! Signal fires can cause wildfires — clear area around fire to bare earth.
+! Smoke from burning plastics/rubber is toxic — stand upwind.
+! Do not signal until rescue is plausible — conserve resources.
+
+[RELATED]
+> l1-fire-ignition-methods
+> l1-fire-tinder-identification
+> l1-fire-wood-selection
+
+[SOURCES]
+@ us-army-fm-4-25-11
+@ bsa-handbook
+@ usfs-fire-and-safety

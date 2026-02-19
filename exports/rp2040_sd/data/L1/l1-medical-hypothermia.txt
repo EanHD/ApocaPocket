@@ -1,0 +1,28 @@
+TITLE: Hypothermia Recognition and Rewarming
+CAT: L1
+SUB: medical_first_aid
+TAGS: cold,hypothermia,rewarming
+REGION: temperate,alpine,polar
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Field hypothermia triage and safe rewarming priorities.
+
+[STEPS]
+1. Move patient out of wind/wet exposure.
+2. Replace wet clothing and insulate head/torso.
+3. Apply gradual external warming to trunk.
+4. Monitor mental status and shivering response.
+
+[WARNINGS]
+! Rapid peripheral rewarming may worsen instability.
+! Severe hypothermia needs advanced medical care.
+
+[RELATED]
+> l1-shelter-insulation-principles
+> l1-medical-dehydration
+
+[SOURCES]
+@ cdc-hypothermia-frostbite
+@ who-hypothermia-heat-guidance

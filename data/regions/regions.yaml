@@ -1,0 +1,23 @@
+regions:
+  - id: global
+    label: Global baseline
+    notes: Universally applicable principles; local legal/ecological constraints still apply.
+
+  - id: temperate
+    label: Temperate
+  - id: tropical
+    label: Tropical
+  - id: arid
+    label: Arid / desert
+  - id: alpine
+    label: Alpine / high elevation
+  - id: polar
+    label: Polar / subpolar
+  - id: boreal
+    label: Boreal / taiga
+  - id: urban
+    label: Urban / peri-urban
+  - id: marine
+    label: Marine / coastal navigation
+  - id: open-terrain
+    label: Open terrain / grassland

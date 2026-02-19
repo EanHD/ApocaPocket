@@ -1,0 +1,36 @@
+TITLE: Tension Pneumothorax and Improvised Chest Seal
+CAT: L1
+SUB: medical_first_aid
+TAGS: pneumothorax,chest-seal,trauma,lung,sucking-wound
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+A penetrating chest wound that bubbles or hisses is a sucking chest wound — air enters the chest cavity and collapses the lung. Without a chest seal, tension pneumothorax develops and is fatal within minutes.
+
+[STEPS]
+1. IDENTIFY: look for a chest wound that bubbles, hisses, or sucks air on breathing. Blood froth at the wound. Patient will have severe difficulty breathing, anxiety, may be cyanotic (blue lips/fingertips).
+2. SEAL IMMEDIATELY: use any airtight material — plastic packaging, credit card, duct tape, petroleum-jelly-soaked gauze, latex glove, plastic bag. The goal is an airtight seal over the wound.
+3. THREE-SIDED SEAL (preferred): tape the plastic on three sides only, leaving the bottom edge open. This creates a flutter valve — air can escape on exhalation but cannot enter on inhalation. This prevents tension buildup.
+4. If using commercial chest seal (Hyfin, Asherman): peel and stick directly over the wound. These have built-in one-way valves.
+5. Have patient exhale forcefully as you apply the seal — this pushes air out of the chest cavity before sealing.
+6. Position patient sitting upright (improves breathing mechanics) or on the injured side if they cannot sit.
+7. Monitor continuously: if breathing worsens, neck veins distend, or patient becomes more confused — tension pneumothorax is developing. Briefly lift one corner of the seal to release trapped air (you'll hear/feel it escape), then reseal.
+8. If two chest wounds (entry and exit), seal both. The larger wound is priority.
+9. THIS IS A TEMPORARY MEASURE — patient needs definitive surgical care. Evacuate immediately.
+
+[WARNINGS]
+! Tension pneumothorax is IMMEDIATELY LIFE-THREATENING — act within seconds, not minutes
+! If patient deteriorates after sealing (worsening breathing, distended neck veins, trachea shifting), you have tension buildup — lift one corner of the seal to release pressure ('burp' the seal), then reseal
+! Check for EXIT wound — a bullet/object may have passed through. BOTH holes need sealing.
+! Do not remove impaled objects from the chest — stabilize in place
+
+[RELATED]
+> l1-medical-severe-bleeding
+> l1-medical-wound-packing
+> l1-medical-shock-recognition
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ red-cross-first-aid-cpr-aed

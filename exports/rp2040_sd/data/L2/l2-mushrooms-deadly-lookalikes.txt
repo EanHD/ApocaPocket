@@ -1,0 +1,34 @@
+TITLE: Deadly Mushroom Lookalikes Reference
+CAT: L2
+SUB: mushrooms
+TAGS: deadly,amanita,death-cap,destroying-angel,false-morel,toxicology
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Critical reference for the most dangerous mushroom species that mimic edible ones. Know these BEFORE foraging. When in doubt, throw it out.
+
+[STEPS]
+1. DEATH CAP (Amanita phalloides): Greenish-yellow cap, white gills, skirt ring on stem, bulbous volva at base. Often mistaken for paddy straw mushroom. Fatal liver/kidney failure in 6-12 hours.
+2. DESTROYING ANGEL (Amanita bisporigera/virosa): Pure white, elegant. White gills, ring, and volva. Can be mistaken for button mushroom, puffball (when young), or field mushroom.
+3. FALSE MOREL (Gyromitra esculenta): Brain-like wrinkled cap (not honeycomb). Interior is NOT hollow — has chambers/cottony tissue. Contains gyromitrin (metabolizes to monomethylhydrazine).
+4. JACK-O-LANTERN (Omphalotus olearius): Orange, grows in clusters ON wood. True blade gills. Mimics chanterelle. Severe GI distress but rarely fatal.
+5. AUTUMN SKULLCAP (Galerina marginata): Small brown mushroom on wood with ring. Mimics honey mushroom. Contains same toxins as death cap.
+
+[WARNINGS]
+! Amanita toxins have a delayed onset (6-24 hours) — victim may feel fine initially then develop fatal organ failure.
+! No folk test (silver spoon, garlic color, animal testing) is reliable.
+! When in doubt, ALWAYS discard.
+! Single death cap can kill an adult.
+
+[RELATED]
+> l2-mushrooms-safety
+> l2-mushrooms-morel
+> l2-mushrooms-chanterelle
+> l2-mushrooms-puffball
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides
+@ openstax-biology-2e

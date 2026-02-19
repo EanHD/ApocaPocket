@@ -1,0 +1,58 @@
+---
+id: l2-plants-flour-from-wild
+title: Making Flour from Wild Plants — Acorns, Cattail, Amaranth
+category: L2_food_biology
+subtopic: edible_plants
+tags:
+- flour
+- acorns
+- cattail
+- amaranth
+- processing
+- grinding
+region_relevance:
+- global
+- temperate
+confidence: high
+sources:
+- usda-complete-guide-home-canning
+- fm-21-76-survival
+related_entries:
+- l2-plants-acorns
+- l2-plants-cattail
+- l2-plants-amaranth
+- l2-nutrition-caloric-needs
+summary: Wild flour sources provide critical carbohydrates for long-term survival. Acorns are the highest-yield wild food in temperate forests (one tree produces 70-150 lbs/year). All require processing
+  to remove toxins or improve digestibility.
+warnings:
+- RAW ACORNS ARE TOXIC — tannins cause kidney damage, nausea, and severe GI distress. They MUST be leached before eating
+- Do not use acorns from red oak group without EXTENSIVE leaching (2-3x more than white oak group)
+- Grinding with rocks produces grit that wears down teeth — use the finest grinding surface available and sift thoroughly
+- Moldy acorns (black spots, mushy texture, ammonia smell) must be discarded — aflatoxin is carcinogenic
+steps:
+- 'ACORN FLOUR — Collection: gather in fall when they drop. Prefer white oak group (round-tipped leaves): white oak, chestnut oak, bur oak. These have less tannin than red oak group. Shell by cracking with
+  a rock on a flat stone. Discard any with worm holes or mold.'
+- 'ACORN FLOUR — Cold water leaching: crush shelled acorns coarsely. Place in a mesh bag or cloth in a flowing stream for 3-7 days, or change water in a container every 12 hours for 5-10 days. Taste test:
+  should be mild/nutty with NO bitterness.'
+- 'ACORN FLOUR — Hot water leaching (faster): boil crushed acorns in water. When water turns brown, drain and replace with FRESH boiling water. Repeat 5-10 times until water stays clear and taste is mild.
+  IMPORTANT: always replace with boiling water — adding cold water locks in tannins.'
+- 'ACORN FLOUR — Drying and grinding: spread leached acorn meal on flat rocks or cloth in sun. Dry completely (2-3 days sun, or near fire). Grind dried meal between stones using circular motion. Sift through
+  cloth to remove large pieces. Regrind. Yield: ~1 lb flour per 2 lbs shelled acorns.'
+- 'CATTAIL FLOUR — Rhizome: harvest cattail roots (rhizomes) year-round but best in fall/winter. Wash, peel outer layer. Crush in water — starch settles to bottom. Pour off water and fiber. Dry the white
+  starch. Yield: ~100g starch per kg of rhizome. Bland, excellent thickener.'
+- 'CATTAIL FLOUR — Pollen: in early summer, shake male flower heads into a bag. Bright yellow pollen is 50% carbohydrate. Mix 1:1 with other flour or use as nutritional supplement. ~1 tablespoon per flower
+  head.'
+- 'AMARANTH FLOUR: harvest seed heads when they turn brown/dry (late summer). Shake/rub seeds out onto cloth. Winnow by pouring between containers in a breeze to remove chaff. Parch seeds in dry pan until
+  they pop (like tiny popcorn). Grind parched seeds. High protein (14-16%), complete amino acid profile.'
+- 'GRASS SEED FLOUR: many common grasses produce edible seeds. Collect mature seed heads, thresh by rubbing between hands, winnow, and grind. Low yield per plant but grasses are everywhere. Best species:
+  wild rice, foxtail, panic grass.'
+- 'STORAGE: wild flour spoils faster than commercial flour due to higher oil content (especially acorn). Store in airtight container in coolest location available. Acorn flour: 2-4 weeks at room temp, months
+  if kept cold and dry. Cattail starch: months if fully dry.'
+- 'USING WILD FLOUR: acorn flour makes dense, nutty flatbread. Mix with water to thick paste, cook on hot stone near fire. Cattail starch thickens soups and stews. Amaranth makes porridge or flatbread.
+  All can be mixed 50/50 with wheat flour if available.'
+last_verified: '2026-02-18'
+---
+
+# Making Flour from Wild Plants — Acorns, Cattail, Amaranth
+
+Wild flour sources provide critical carbohydrates for long-term survival. Acorns are the highest-yield wild food in temperate forests (one tree produces 70-150 lbs/year). All require processing to remove toxins or improve digestibility.

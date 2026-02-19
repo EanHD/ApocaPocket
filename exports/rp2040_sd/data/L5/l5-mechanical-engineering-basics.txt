@@ -1,0 +1,28 @@
+TITLE: Mechanical Engineering Core Concepts
+CAT: L5
+SUB: mechanical_engineering
+TAGS: mechanics,energy,machines
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Minimum conceptual set for machine function, force transfer, and thermal systems.
+
+[STEPS]
+1. Map system boundaries and energy flow.
+2. Analyze loads and constraints.
+3. Design for maintainability and standardization.
+4. Validate with simple test rigs before deployment.
+
+[WARNINGS]
+! Ignoring fatigue and stress concentration causes failures.
+! Prototype safety controls before full-scale use.
+
+[RELATED]
+> l4-tool-levers-and-pulleys
+> l5-structural-load-paths
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering
+@ openstax-college-physics

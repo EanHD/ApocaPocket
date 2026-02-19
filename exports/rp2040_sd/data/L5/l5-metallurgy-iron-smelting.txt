@@ -1,0 +1,30 @@
+TITLE: Iron Smelting: Bloomery Iron from Ore
+CAT: L5
+SUB: metallurgy
+TAGS: metallurgy,iron,smelting,bloomery
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+How to produce usable iron from ore using a bloomery furnace with charcoal fuel.
+
+[STEPS]
+1. Identify iron ore: look for heavy, reddish-brown rocks (hematite, magnetite, bog iron).
+2. Build a bloomery furnace from clay/stone, ~1m tall with tuyere (air inlet) near base.
+3. Produce charcoal by slow-burning hardwood in a covered pit.
+4. Charge furnace with alternating layers of charcoal and crushed ore.
+5. Maintain forced air (bellows) for 6-10 hours to reach ~1200°C; extract bloom and hammer out slag.
+
+[WARNINGS]
+! Extreme heat and carbon monoxide—work outdoors with ventilation.
+! Molten slag causes severe burns; wear protection and keep water away from furnace.
+
+[RELATED]
+> l5-metallurgy-basics
+> l5-metallurgy-tempering-hardening
+> l5-metallurgy-welding-basics
+
+[SOURCES]
+@ usgs-mineral-education
+@ openstax-chemistry-2e

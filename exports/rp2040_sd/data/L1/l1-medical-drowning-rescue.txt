@@ -1,0 +1,33 @@
+TITLE: Near-Drowning Response
+CAT: L1
+SUB: medical_first_aid
+TAGS: drowning,water-rescue,resuscitation
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Rescue and resuscitation techniques for near-drowning victims.
+
+[STEPS]
+1. Reach, throw, row — do NOT swim to victim unless trained (drowning people pull rescuers under).
+2. Once out of water, check responsiveness and breathing.
+3. If not breathing, begin rescue breaths first (5 initial breaths), then standard CPR.
+4. Do not attempt to drain water from lungs (Heimlich on drowning is ineffective/harmful).
+5. Treat for hypothermia — remove wet clothing, insulate, warm gradually.
+6. All near-drowning victims need medical evaluation — delayed pulmonary edema can occur.
+
+[WARNINGS]
+! Drowning victims can pull rescuers underwater — use reaching/throwing aids first.
+! Secondary drowning (delayed pulmonary edema) can occur hours after rescue.
+! Assume spinal injury if diving or high-impact water entry was involved.
+! Cold water drowning victims may survive longer — continue CPR for extended period.
+
+[RELATED]
+> l1-medical-cpr-basics
+> l1-medical-hypothermia
+> l1-medical-spinal-precautions
+
+[SOURCES]
+@ red-cross-first-aid-cpr-aed
+@ who-basic-emergency-care-2018

@@ -1,0 +1,28 @@
+TITLE: Shelter Insulation and Wind Control
+CAT: L1
+SUB: shelter
+TAGS: shelter,insulation,wind
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Thermal survival depends more on moisture/wind control than shelter size.
+
+[STEPS]
+1. Select site above runoff paths and away from widowmakers.
+2. Build windbreak and ground insulation first.
+3. Minimize internal volume while preserving ventilation.
+4. Layer dry insulating materials and maintain them.
+
+[WARNINGS]
+! Poor ventilation can cause CO buildup if heating inside.
+! Wet insulation rapidly loses effectiveness.
+
+[RELATED]
+> l1-medical-hypothermia
+> l1-fire-ignition-methods
+
+[SOURCES]
+@ nols-wilderness-guide
+@ bsa-handbook

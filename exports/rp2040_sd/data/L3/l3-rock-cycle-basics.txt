@@ -1,0 +1,27 @@
+TITLE: Igneous, Sedimentary, Metamorphic Rock Basics
+CAT: L3
+SUB: rock_mineral_id
+TAGS: rock-cycle,geology
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Rock classification framework for practical material use and terrain interpretation.
+
+[STEPS]
+1. Assess grain size, layering, and crystal structure.
+2. Classify by formation process indicators.
+3. Infer durability and weathering tendency.
+4. Map local availability for construction/tool use.
+
+[WARNINGS]
+! Mixed or altered samples may blur class boundaries.
+! Avoid unstable slopes and fresh fracture zones.
+
+[RELATED]
+> l3-minerals-hardness-and-streak
+> l4-tool-stone-basics
+
+[SOURCES]
+@ usgs-mineral-education

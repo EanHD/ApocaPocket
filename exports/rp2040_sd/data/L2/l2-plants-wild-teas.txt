@@ -1,0 +1,45 @@
+TITLE: Wild Tea Guide — 20 Species
+CAT: L2
+SUB: edible_plants
+TAGS: tea,herbal-tea,medicinal,foraging,beverages
+REGION: global,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Wild teas provide hydration, vitamins, medicinal benefits, and psychological comfort. Most require only hot water and 5-10 minutes steeping. This guide covers 20 common wild tea plants, their preparation, and uses.
+
+[STEPS]
+1. PINE NEEDLE TEA: any Pinus species except Ponderosa. Chop fresh green needles, steep in hot (not boiling) water 10 min. Rich in vitamin C (5× more than oranges by weight). Mild, pleasant, slightly citrusy.
+2. NETTLE TEA: steep dried or fresh young leaves (use gloves to harvest) in boiling water 10 min. Stinging compounds destroyed by heat. High in iron, calcium, vitamin A. Earthy, spinach-like flavor.
+3. DANDELION ROOT TEA: roast dug roots at medium heat until dark brown and brittle (30-40 min). Grind or crush. Steep 1 tbsp per cup, 10 min. Coffee substitute — nutty, slightly bitter.
+4. CHAMOMILE: dry flower heads. Steep 1 tablespoon per cup for 5-10 min. Calming, aids sleep, anti-inflammatory. Mild apple-like flavor.
+5. ROSE HIP TEA: crush dried rose hips (remove seeds). Steep 1 tbsp per cup, 15 min. Very high vitamin C. Tart, fruity flavor. Best after first frost when sugars concentrate.
+6. MINT (wild): any Mentha species. Steep fresh or dried leaves 5-7 min. Digestive aid, relieves nausea, pleasant flavor. Grows near water. Easily identified by square stems and opposite leaves.
+7. YARROW: steep dried flowering tops 10 min. Fever reducer, anti-inflammatory, bitter tonic. Strong medicinal taste — mix with mint.
+8. CLOVER (red): steep dried flower heads 10 min. Mild, slightly sweet. Traditional blood purifier. Very common in fields and lawns.
+9. ELDERFLOWER: steep dried flowers 10 min. Delicate floral flavor. Traditional cold/flu remedy. Do NOT use leaves or unripe berries — toxic.
+10. LINDEN/BASSWOOD: steep dried flowers and bracts 10 min. Honey-like flavor. Mild sedative, cold remedy. Common street and forest tree.
+11. BIRCH LEAF: steep young fresh leaves 10 min. Mild wintergreen flavor. Diuretic, anti-inflammatory. Use spring leaves for best flavor.
+12. WILD GINGER: simmer sliced rhizome 15 min. Spicy, warming. Digestive aid, anti-nausea. Found in eastern North American forests.
+13. SUMAC (staghorn sumac — NOT poison sumac): soak red berry clusters in cold water for 2-4 hours, strain through cloth. Pink lemonade substitute — tart, vitamin C rich. Poison sumac has white berries and grows in swamps — completely different plant.
+14. SASSAFRAS: steep root bark 15 min. Root beer flavor. Traditional spring tonic. Note: safrole in sassafras is a possible carcinogen in large doses — occasional use only.
+15. BLACKBERRY/RASPBERRY LEAF: steep dried leaves 10 min. Mild, pleasant. High in tannins — good for diarrhea. Safe in pregnancy (traditionally used to prepare for childbirth).
+16. PLANTAIN LEAF (Plantago): steep fresh or dried leaves 10 min. Mild flavor. Soothes sore throats and coughs. The lawn weed, not the banana.
+17. PREPARATION NOTES: use water just below boiling (95°C) for delicate flowers and leaves. Use full boiling for roots and bark. Steep in covered container to retain volatile oils. Most teas can be re-steeped 2-3 times.
+18. DRYING FOR STORAGE: harvest in morning after dew dries. Hang in bundles in shade with good airflow for 3-7 days. Store in sealed containers out of light. Properly dried herbs maintain potency for 6-12 months.
+
+[WARNINGS]
+! Positive plant identification is ESSENTIAL — several poisonous plants resemble tea-worthy species
+! Pregnant women should avoid most herbal teas — many stimulate uterine contractions
+! Pine needle tea from Ponderosa, Yew, and Norfolk Island pine is TOXIC — know your conifers
+! Start with small amounts of any new tea to test for allergic reactions
+
+[RELATED]
+> l2-plants-pine-needle-tea
+> l2-plants-stinging-nettle
+> l5-health-herbal-medicine-reference
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ extension-edible-plants

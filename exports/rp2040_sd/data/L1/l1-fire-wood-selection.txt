@@ -1,0 +1,33 @@
+TITLE: Fuel Wood Selection
+CAT: L1
+SUB: fire
+TAGS: firewood,fuel,hardwood,softwood
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Selecting appropriate fuel wood by type, moisture content, and intended use.
+
+[STEPS]
+1. Gather wood in stages: tinder → kindling (pencil-thin) → fuel (wrist-thick) → large logs.
+2. Use standing dead wood — driest available. Avoid wood from the ground (absorbs moisture).
+3. Softwoods (pine, cedar) ignite easily but burn fast with more smoke — good for starting.
+4. Hardwoods (oak, maple, hickory) burn longer and hotter — best for sustained fire.
+5. Test dryness: dry wood snaps cleanly, feels light, sounds hollow when knocked together.
+6. Split larger pieces to expose dry interior wood in wet conditions.
+
+[WARNINGS]
+! Green/live wood produces excessive smoke and poor heat.
+! Driftwood and treated/painted wood release toxic chemicals when burned.
+! Softwood sparks and pops — dangerous near shelters or dry conditions.
+
+[RELATED]
+> l1-fire-tinder-identification
+> l1-fire-ignition-methods
+> l1-fire-safety-ventilation
+
+[SOURCES]
+@ usfs-fire-and-safety
+@ bsa-handbook
+@ usfs-wood-handbook-2021

@@ -1,0 +1,29 @@
+TITLE: Trade and Barter: Exchange Systems Without Currency
+CAT: L5
+SUB: governance
+TAGS: governance,trade,barter,economics
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Establishing fair exchange systems for goods and services when currency is unavailable.
+
+[STEPS]
+1. Identify community surpluses and deficits to find trade opportunities.
+2. Establish common value benchmarks (e.g., labor-hours, grain weight) for comparison.
+3. Use direct barter for simple two-party exchanges.
+4. Create credit/debt tracking for deferred exchanges (IOUs with witnesses).
+5. Designate market days and neutral trading locations for inter-community exchange.
+
+[WARNINGS]
+! Barter is inefficient for complex economies—develop commodity money when stable.
+! Disputes over value require pre-agreed arbitration.
+
+[RELATED]
+> l5-governance-principles
+> l5-governance-resource-allocation
+> l5-governance-record-keeping
+
+[SOURCES]
+@ openstax-intro-business-governance

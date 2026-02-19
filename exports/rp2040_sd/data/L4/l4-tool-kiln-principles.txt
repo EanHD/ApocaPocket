@@ -1,0 +1,33 @@
+TITLE: Kiln Design: Pit and Updraft
+CAT: L4
+SUB: tool_making
+TAGS: kiln,pottery,firing,ceramics,lime
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Designing and operating pit kilns and simple updraft kilns for pottery and lime production.
+
+[STEPS]
+1. Pit kiln: dig a pit, place dried pots on a bed of fuel, cover with more fuel and potsherds/earth.
+2. Light from top or windward side; fire burns down through fuel over 4–8 hours.
+3. Updraft kiln: build a chamber with fire box below, ware chamber above, and chimney opening at top.
+4. Construct from clay bricks, stone, or earth—walls must withstand 800–1000°C.
+5. Load kiln loosely for air circulation; heat slowly (hours) to avoid thermal shock.
+6. Peak temperature for earthenware: ~800–1000°C; for lime burning: 900°C+.
+7. Cool slowly—opening too early causes cracking from thermal shock.
+
+[WARNINGS]
+! Kilns reach extreme temperatures—maintain safe distance during firing.
+! Fire risk from sparks and radiant heat—clear area around kiln.
+! Carbon monoxide produced during firing—only operate outdoors.
+
+[RELATED]
+> l4-tool-pottery-basics
+> l3-chemistry-lime-production
+> l3-clay-identification
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering
+@ openstax-chemistry-2e

@@ -1,0 +1,31 @@
+TITLE: Bellows for Metalwork Air Supply
+CAT: L4
+SUB: tool_making
+TAGS: bellows,air-supply,forge,metalwork
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Constructing bellows to provide forced air for forge fires and metalworking.
+
+[STEPS]
+1. Bag bellows (simplest): a leather or hide bag with a nozzle—squeeze to force air out.
+2. Double-chamber bellows: two bags with valves, alternating to provide continuous airflow.
+3. Box bellows: a piston in a wooden box with flap valves—East Asian design, very effective.
+4. Nozzle (tuyere) should be narrow to increase air velocity into the fire.
+5. Position tuyere to blow into the center of the charcoal bed.
+6. Sustained airflow of ~100 L/min needed to reach forging temperatures.
+7. Protect bellows materials from radiant heat—use a clay or stone shield between bellows and fire.
+
+[WARNINGS]
+! Bellows near forge fires—keep combustible parts away from heat.
+! Tuyere can clog with slag—maintain and clear regularly.
+
+[RELATED]
+> l4-tool-basic-forge
+> l3-wood-charcoal-production
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering
+@ nols-wilderness-guide

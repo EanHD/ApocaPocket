@@ -1,0 +1,28 @@
+TITLE: Boiling for Water Disinfection
+CAT: L1
+SUB: water
+TAGS: water,boiling,pathogens
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Boiling is an accessible method for microbiological risk reduction in emergency water treatment.
+
+[STEPS]
+1. Pre-filter turbid water using cloth or settling.
+2. Bring water to rolling boil.
+3. Cool in covered sanitized container.
+4. Prevent post-treatment contamination during storage.
+
+[WARNINGS]
+! Boiling does not remove heavy metals or industrial chemicals.
+! Storage container hygiene is critical.
+
+[RELATED]
+> l1-water-filtration-basics
+> l1-water-contamination-risk
+
+[SOURCES]
+@ cdc-water-emergency
+@ who-household-water-treatment

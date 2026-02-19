@@ -1,0 +1,28 @@
+TITLE: pH, Acids, and Bases in Field Systems
+CAT: L3
+SUB: basic_chemistry
+TAGS: ph,acids,bases,water
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Practical pH understanding for sanitation, soil management, and process control.
+
+[STEPS]
+1. Use pH strips/meters with calibration checks.
+2. Interpret pH scale logarithmically.
+3. Adjust systems gradually and re-test.
+4. Record pH with temperature and medium context.
+
+[WARNINGS]
+! Strong acids/bases cause severe injury.
+! Do not mix unknown chemicals.
+
+[RELATED]
+> l4-agriculture-soil-basics
+> l3-chemistry-soap-making
+
+[SOURCES]
+@ openstax-chemistry-2e
+@ fao-soils-portal

@@ -1,0 +1,32 @@
+TITLE: Elevated Shelter Systems
+CAT: L1
+SUB: shelter
+TAGS: hammock,elevated,jungle,insects
+REGION: tropical,jungle,wet-environments
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Setting up hammock and elevated shelter systems for wet or insect-heavy environments.
+
+[STEPS]
+1. Select two strong, living trees 10-15 feet apart.
+2. Hang hammock with tree-friendly straps — not thin cord that damages bark.
+3. Add tarp/rainfly above in catenary curve — ridge line slightly above hammock.
+4. Add underquilt or pad beneath hammock — bottom insulation critical (compressed insulation = none).
+5. Bug net is essential in tropical/wet environments — tuck fully around hammock.
+6. Test height and strength before full weight — hang low enough that falls are safe.
+
+[WARNINGS]
+! Dead trees and dead branches can fall on elevated sleepers.
+! Bottom insulation is essential — cold air circulates under hammock, causing hypothermia.
+! Hammock failure drops you to ground — always check attachment points.
+
+[RELATED]
+> l1-shelter-knots-and-lashing
+> l1-shelter-rain-and-ventilation
+> l1-shelter-site-selection
+
+[SOURCES]
+@ nols-wilderness-guide
+@ bsa-handbook

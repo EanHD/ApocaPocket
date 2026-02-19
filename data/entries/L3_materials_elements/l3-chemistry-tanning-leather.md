@@ -1,0 +1,57 @@
+---
+id: l3-chemistry-tanning-leather
+title: 'Leather Tanning: Hide Preservation'
+category: L3_materials_elements
+subtopic: basic_chemistry
+tags:
+- tanning
+- leather
+- hide
+- preservation
+- brain-tanning
+region_relevance:
+- global
+summary: Basic methods for tanning animal hides into durable leather using natural
+  tannins or brain tanning.
+steps:
+- 'Flesh the hide: scrape all meat and fat from the skin side using a dull blade.'
+- 'Remove hair: soak in wood ash lye solution for 3–7 days, then scrape hair off.'
+- Rinse thoroughly to remove all lye.
+- 'Bark tanning: soak in solution of crushed oak/hemlock bark and water for weeks
+  to months.'
+- 'Brain tanning: mash animal brain with warm water, work into hide, stretch and smoke
+  over fire.'
+- 'Smoking: hang brain-tanned hide over smoky fire (punk wood) for hours—makes it
+  water-resistant.'
+- Work the hide while drying—pull and stretch repeatedly for soft, supple leather.
+warnings:
+- Lye solution for dehairing causes chemical burns—handle with protection.
+- Rotting hides produce extremely foul odors and attract pests—work downwind of camp.
+- Brain-tanning requires patience; rushing produces stiff, unusable leather.
+related_entries:
+- l3-chemistry-soap-making
+- l3-chemistry-ph-basics
+sources:
+- openstax-chemistry-2e
+- nols-wilderness-guide
+last_verified: '2026-02-18'
+confidence: medium
+offline_assets: []
+---
+
+## Overview
+Basic methods for tanning animal hides into durable leather using natural tannins or brain tanning.
+
+## Step-by-step
+1. Flesh the hide: scrape all meat and fat from the skin side using a dull blade.
+2. Remove hair: soak in wood ash lye solution for 3–7 days, then scrape hair off.
+3. Rinse thoroughly to remove all lye.
+4. Bark tanning: soak in solution of crushed oak/hemlock bark and water for weeks to months.
+5. Brain tanning: mash animal brain with warm water, work into hide, stretch and smoke over fire.
+6. Smoking: hang brain-tanned hide over smoky fire (punk wood) for hours—makes it water-resistant.
+7. Work the hide while drying—pull and stretch repeatedly for soft, supple leather.
+
+## Warnings
+- Lye solution for dehairing causes chemical burns—handle with protection.
+- Rotting hides produce extremely foul odors and attract pests—work downwind of camp.
+- Brain-tanning requires patience; rushing produces stiff, unusable leather.

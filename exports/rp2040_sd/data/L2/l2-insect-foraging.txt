@@ -1,0 +1,32 @@
+TITLE: Edible Insect Identification and Preparation
+CAT: L2
+SUB: fishing_hunting_knowledge
+TAGS: insects,protein,foraging,entomophagy
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Insects are the most abundant and accessible animal protein source. Crickets, grasshoppers, grubs, and ants are widely eaten worldwide. Key rule: cook all insects before eating.
+
+[STEPS]
+1. Crickets and grasshoppers: collect in early morning when cold/sluggish. Remove legs (spiny). Roast or fry.
+2. Grubs (beetle larvae): found in rotting logs. White, C-shaped. Roast until crispy.
+3. Ants: collect workers (avoid fire ants). Roast to neutralize formic acid.
+4. Termites: high in fat and protein. Collect from mounds. Roast.
+5. General rule: avoid brightly colored insects (warning coloration), hairy caterpillars, and strong-smelling bugs.
+
+[WARNINGS]
+! ALWAYS cook insects — raw insects may carry parasites.
+! Avoid brightly colored, hairy, or pungent species.
+! People with shellfish allergies may react to insects (similar chitin proteins).
+
+[RELATED]
+> l2-nutrition-macros-basics
+> l2-fishing-improvised-methods
+> l2-nutrition-caloric-needs
+
+[SOURCES]
+@ state-wildlife-hunter-ed
+@ openstax-biology-2e
+@ extension-edible-plants

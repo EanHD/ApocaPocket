@@ -1,0 +1,27 @@
+TITLE: Governance Principles for Small Communities
+CAT: L5
+SUB: governance
+TAGS: governance,institutions,coordination
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Operational governance concepts for legitimacy, accountability, and conflict reduction.
+
+[STEPS]
+1. Define clear roles and limited authority.
+2. Use transparent rule-making and records.
+3. Create fair dispute-resolution process.
+4. Review outcomes and adapt rules periodically.
+
+[WARNINGS]
+! Power concentration without accountability increases abuse risk.
+! Opaque decisions degrade trust and compliance.
+
+[RELATED]
+> l5-communication-systems-basics
+> l5-math-foundations
+
+[SOURCES]
+@ openstax-intro-business-governance

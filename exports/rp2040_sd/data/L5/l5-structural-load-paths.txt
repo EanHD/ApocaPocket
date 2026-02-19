@@ -1,0 +1,28 @@
+TITLE: Structural Engineering Load Paths
+CAT: L5
+SUB: structural_engineering
+TAGS: structures,load-path,stability
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+How loads move through components to foundations, and how failures cascade.
+
+[STEPS]
+1. Define dead/live/environmental loads.
+2. Trace continuous load path to ground.
+3. Add redundancy and bracing in key spans.
+4. Inspect joints and supports regularly.
+
+[WARNINGS]
+! Small connection failures can trigger progressive collapse.
+! Wind and water loads are often underestimated.
+
+[RELATED]
+> l4-tool-wood-joinery
+> l5-map-reading-basics
+
+[SOURCES]
+@ openstax-engineering-statics
+@ usfs-wood-handbook-2021

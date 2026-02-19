@@ -1,0 +1,33 @@
+TITLE: Body Heat Retention Strategies
+CAT: L1
+SUB: shelter
+TAGS: warmth,insulation,hypothermia-prevention,body-heat
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Strategies for retaining body heat in cold conditions without external heat sources.
+
+[STEPS]
+1. Insulate from ground first — ground steals heat 25x faster than air.
+2. Layer clothing: wicking base, insulating middle, wind/waterproof outer.
+3. Keep dry — wet insulation loses up to 90% of insulating value.
+4. Minimize shelter volume — smaller space retains body heat better.
+5. Huddle with others — shared body heat significantly increases warmth.
+6. Heat rocks near fire, wrap in cloth, place in shelter or sleeping bag (not hot enough to burn).
+
+[WARNINGS]
+! Cotton kills — wet cotton provides zero insulation and accelerates heat loss.
+! Do not sleep directly on cold ground — hypothermia risk even in above-freezing temperatures.
+! Tight clothing restricts circulation and reduces warmth — layers should be loose.
+
+[RELATED]
+> l1-shelter-insulation-principles
+> l1-medical-hypothermia
+> l1-shelter-snow-construction
+
+[SOURCES]
+@ nols-wilderness-guide
+@ us-army-fm-4-25-11
+@ bsa-handbook

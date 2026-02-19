@@ -1,0 +1,28 @@
+TITLE: Levers, Pulleys, and Mechanical Advantage
+CAT: L4
+SUB: tool_making
+TAGS: mechanics,levers,pulleys
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Mechanical advantage basics for lifting, extraction, and transport tasks.
+
+[STEPS]
+1. Determine load, fulcrum, and effort placement.
+2. Calculate ideal mechanical advantage.
+3. Minimize friction and rope angle losses.
+4. Use controlled lifting and backup restraints.
+
+[WARNINGS]
+! Dynamic loading can exceed static assumptions.
+! Rope or anchor failure can be lethal.
+
+[RELATED]
+> l4-electricity-ohms-law
+> l5-mechanical-engineering-basics
+
+[SOURCES]
+@ openstax-college-physics
+@ mit-ocw-mechanical-engineering

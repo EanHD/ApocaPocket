@@ -1,0 +1,30 @@
+TITLE: Sanitation Systems: Latrine Design and Waste Management
+CAT: L5
+SUB: public_health
+TAGS: public_health,sanitation,latrine,waste
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Designing and building sanitation systems to prevent disease from human waste.
+
+[STEPS]
+1. Site latrines 30+ meters from water sources and downhill from wells.
+2. Dig pit latrines at least 2 meters deep with stable, lined walls.
+3. Build a slab cover with a hole and a lid to reduce flies and odor.
+4. Add ash, lime, or soil after each use to accelerate decomposition.
+5. When pits are 0.5m from full, cap with soil and dig a new pit.
+
+[WARNINGS]
+! Fecal contamination of water is the #1 killer in post-collapse scenarios.
+! Never use fresh human waste as fertilizer—compost for 1+ year first.
+
+[RELATED]
+> l5-health-disease-prevention
+> l5-health-water-infrastructure
+> l5-governance-principles
+
+[SOURCES]
+@ who-household-water-treatment
+@ cdc-water-emergency

@@ -1,0 +1,28 @@
+TITLE: Fracture Stabilization Basics
+CAT: L1
+SUB: medical_first_aid
+TAGS: fracture,splint,immobilization
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Temporary immobilization principles for suspected fractures.
+
+[STEPS]
+1. Check distal circulation/sensation before splinting.
+2. Immobilize joint above and below injury.
+3. Pad splint and secure without excessive constriction.
+4. Reassess distal perfusion after securing.
+
+[WARNINGS]
+! Do not force realignment unless no pulse and trained to do so.
+! Open fractures have high infection risk.
+
+[RELATED]
+> l1-medical-wound-cleaning
+> l1-medical-hypothermia
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ us-army-fm-4-25-11

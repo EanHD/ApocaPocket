@@ -1,0 +1,28 @@
+TITLE: Seed Saving and Pollination Control
+CAT: L4
+SUB: agriculture
+TAGS: seeds,pollination,genetics
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Seed preservation workflow for varietal stability and seasonal planning.
+
+[STEPS]
+1. Select healthy true-to-type parent plants.
+2. Control cross-pollination where needed.
+3. Dry and clean seed to safe moisture levels.
+4. Store cool, dark, and low humidity with labeling.
+
+[WARNINGS]
+! Hybrid seeds may not breed true.
+! Moisture and heat rapidly reduce viability.
+
+[RELATED]
+> l4-agriculture-soil-basics
+> l2-plants-seasonality
+
+[SOURCES]
+@ usda-extension-seed-saving
+@ fao-soils-portal

@@ -1,0 +1,30 @@
+TITLE: Wood Seasoning and Drying
+CAT: L3
+SUB: wood_science
+TAGS: wood,seasoning,drying,curing
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Methods for drying and curing wood to reduce moisture content for construction and fuel use.
+
+[STEPS]
+1. Assess green wood moisture content by weight or cracking indicators.
+2. Split wood to increase surface area for faster drying.
+3. Stack in criss-cross pattern (stickered) with airflow gaps, elevated off ground.
+4. Cover top to shed rain while leaving sides open for ventilation.
+5. Air-dry hardwoods 6–12 months, softwoods 3–6 months depending on thickness.
+6. Test readiness: seasoned wood is lighter, sounds hollow when struck, has end-grain cracks.
+
+[WARNINGS]
+! Unseasoned wood burns inefficiently and produces excessive creosote.
+! Kiln drying in improvised setups risks fire—monitor temperature carefully.
+
+[RELATED]
+> l3-wood-hardwood-vs-softwood
+> l3-wood-burn-quality
+> l3-wood-charcoal-production
+
+[SOURCES]
+@ usfs-wood-handbook-2021

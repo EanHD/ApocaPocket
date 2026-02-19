@@ -1,0 +1,34 @@
+TITLE: Chlorine and Iodine Water Treatment
+CAT: L1
+SUB: water
+TAGS: chlorine,iodine,disinfection,purification
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Using chemical agents to disinfect water when boiling is not possible.
+
+[STEPS]
+1. Pre-filter cloudy water through cloth or improvised filter.
+2. Household bleach (5-8% sodium hypochlorite): add 2 drops per liter of clear water.
+3. For cloudy water: use 4 drops per liter.
+4. Mix and wait 30 minutes. Water should have slight chlorine smell.
+5. Iodine tablets: follow manufacturer instructions (typically 1-2 tablets per liter, wait 30 min).
+6. Iodine tincture (2%): 5 drops per liter of clear water, wait 30 minutes.
+
+[WARNINGS]
+! Chemical treatment does NOT remove chemical pollutants, heavy metals, or some parasites (Cryptosporidium).
+! Iodine should not be used long-term or by pregnant women/those with thyroid conditions.
+! Bleach must be unscented and contain only sodium hypochlorite.
+! Cold or turbid water requires double dose and longer wait time.
+
+[RELATED]
+> l1-water-boiling-disinfection
+> l1-water-filtration-basics
+> l1-water-storage-safety
+
+[SOURCES]
+@ cdc-water-emergency
+@ who-household-water-treatment
+@ fema-water-storage

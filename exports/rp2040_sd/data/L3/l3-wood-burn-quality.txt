@@ -1,0 +1,28 @@
+TITLE: Wood Burn Quality and Heat Management
+CAT: L3
+SUB: wood_science
+TAGS: fuel,burn-rate,btu
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Fuel selection by moisture, density, and desired heat curve.
+
+[STEPS]
+1. Separate tinder/kindling/fuel logs by diameter.
+2. Prefer seasoned wood for stable combustion.
+3. Blend fast and slow-burning species.
+4. Ventilate combustion area to reduce smoke/CO.
+
+[WARNINGS]
+! Green wood increases smoke and creosote.
+! Indoor combustion without ventilation is dangerous.
+
+[RELATED]
+> l1-fire-ignition-methods
+> l3-chemistry-combustion
+
+[SOURCES]
+@ usfs-wood-handbook-2021
+@ usfs-fire-and-safety

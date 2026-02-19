@@ -1,0 +1,33 @@
+TITLE: Essential Knots for Shelter Building
+CAT: L1
+SUB: shelter
+TAGS: knots,lashing,cordage,rope
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Key knots and lashing techniques needed for constructing field shelters.
+
+[STEPS]
+1. Bowline: creates fixed loop that won't slip — use for ridgeline anchors.
+2. Clove hitch: quick attachment to poles/trees — use for starting lashings.
+3. Taut-line hitch: adjustable tension knot — use for guy lines on tarps.
+4. Square lashing: binding two poles at right angles — use for frame construction.
+5. Diagonal lashing: binding two poles crossing at angles — use for bracing.
+6. Natural cordage: twist plant fibers (inner bark, grass, roots) into usable rope.
+
+[WARNINGS]
+! Wet rope/cordage shrinks and tightens — account for this in shelters.
+! Paracord inner strands can be extracted for lighter cordage needs.
+! Natural cordage is weaker than manufactured — use thicker bundles for load-bearing.
+
+[RELATED]
+> l1-shelter-natural-materials
+> l1-shelter-hammock-systems
+> l1-shelter-rain-and-ventilation
+
+[SOURCES]
+@ bsa-handbook
+@ nols-wilderness-guide
+@ us-army-fm-4-25-11

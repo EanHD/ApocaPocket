@@ -1,0 +1,28 @@
+TITLE: Emergency Filtration Systems
+CAT: L1
+SUB: water
+TAGS: filtration,particulates,protozoa
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Mechanical filtration for particulates and some pathogens, with treatment-chain integration.
+
+[STEPS]
+1. Assess source quality and turbidity.
+2. Use rated filter with known pore size and maintenance schedule.
+3. Follow with disinfection when required.
+4. Track filter lifespan and clean per manufacturer guidance.
+
+[WARNINGS]
+! Most field filters do not remove dissolved chemicals.
+! Virus removal often requires additional disinfection.
+
+[RELATED]
+> l1-water-boiling-disinfection
+> l1-waterborne-illness-basics
+
+[SOURCES]
+@ cdc-water-emergency
+@ who-household-water-treatment

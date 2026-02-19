@@ -1,0 +1,57 @@
+---
+id: l4-agriculture-beekeeping-basics
+title: Beekeeping — Top-Bar Hive Construction and Management
+category: L4_tools_rebuilding
+subtopic: agriculture
+tags:
+- bees
+- honey
+- pollination
+- hive
+- top-bar
+region_relevance:
+- global
+- temperate
+- tropical
+confidence: high
+sources:
+- fao-emergency-food-production
+- foxfire-book-series
+related_entries:
+- l4-agriculture-pollination-manual
+- l4-agriculture-crop-rotation
+- l3-chemistry-fermentation
+summary: Bees provide honey (long-term calorie storage), beeswax (candles, waterproofing, lubricant), and pollination (increases crop yields 30-70%). A top-bar hive requires no special equipment — just
+  a wooden box with angled bars. Bees can be captured from wild colonies.
+warnings:
+- Bee stings can cause anaphylaxis in allergic individuals — have a plan before opening a hive. Diphenhydramine (Benadryl) on hand as minimum.
+- African/Africanized bees (tropical regions) are significantly more aggressive — approach hives in full protective gear only
+- Never harvest all honey — leave minimum 30-40 lbs for the colony to survive winter (temperate climates). Taking too much kills the colony.
+- Smoke calms bees but excessive smoke drives them to abandon the hive permanently
+steps:
+- 'TOP-BAR HIVE CONSTRUCTION: box approximately 40 inches long, 12 inches deep, sides angled inward at ~120° (trapezoidal cross-section). This angle matches natural comb. Use any available wood — 3/4 inch
+  thick minimum. Entrance: 3/8 inch holes (pencil-diameter) at one end, or a slot along the bottom.'
+- 'TOP BARS: flat bars (sticks) 1.25 inches wide (32mm) — this matches natural bee spacing. Lay bars across the top of the box touching edge-to-edge. Bees build comb hanging from each bar. Apply a thin
+  line of beeswax down the center of each bar as a guide (melt wax and drip a line).'
+- 'CATCHING A SWARM: spring (April-June in temperate zones) is swarming season. A swarm is a cluster of bees on a branch — they''re docile (gorged with honey, have no hive to defend). Shake or brush swarm
+  into a box. Place near the hive. At dusk, transfer into hive. Or: set a bait hive (empty hive with lemongrass oil or old comb inside) in a tree — scouts will find it.'
+- 'BEE TREE TRANSFER: find a wild colony in a hollow tree. Cut section containing the colony (evening is safest — all bees are home). Secure comb into hive frames/bars with string or rubber bands. Transfer
+  bees by shaking them in. Feed sugar water (1:1 ratio) for 2 weeks while they adjust.'
+- 'SMOKER: roll dried grass, burlap, or punk wood into a tin can with holes. Light and let it smolder. Puff smoke gently at hive entrance and under bars before inspecting. Smoke triggers bees to gorge on
+  honey (preparing to flee) which makes them docile. 2-3 gentle puffs is enough — don''t overdo it.'
+- 'INSPECTIONS: check hive every 2-3 weeks during active season. Look for: queen cells (peanut-shaped, means they''re preparing to swarm — split the hive), brood pattern (should be solid, not spotty), food
+  stores (honey in top bars), pests (small hive beetles, wax moths, varroa mites).'
+- 'HONEY HARVEST: lift bars with capped (wax-sealed) honey comb. Cut comb from bar, crush into a container, and strain through cloth. Honey flows out, wax stays in cloth. Return empty bar to hive — bees
+  will rebuild comb. Harvest surplus only — never take from the brood area.'
+- 'BEESWAX PROCESSING: melt wax cappings and crushed comb in a double boiler (pot inside a pot of water). Strain through cloth into a mold. Beeswax is used for: candles, waterproofing cloth/leather, lubricant,
+  sewing thread coating, wood finish, and fire starting (wax-soaked fabric = excellent tinder).'
+- 'WINTER MANAGEMENT (temperate): reduce entrance to 1 inch width (block with grass/wood). Insulate hive top with straw or burlap. Do NOT wrap sides — bees need ventilation to prevent condensation (wet
+  bees die). Leave 40+ lbs honey (8-10 full bars). If light on stores, feed thick sugar syrup (2:1 sugar:water).'
+- 'COLONY MULTIPLICATION: when hive is strong (15+ bars of comb, lots of bees), split it. Move half the bars (including bars with eggs/young larvae) into a new hive. The half without a queen will raise
+  a new queen from young larvae within 16 days. Feed both halves sugar water for 2 weeks after splitting.'
+last_verified: '2026-02-18'
+---
+
+# Beekeeping — Top-Bar Hive Construction and Management
+
+Bees provide honey (long-term calorie storage), beeswax (candles, waterproofing, lubricant), and pollination (increases crop yields 30-70%). A top-bar hive requires no special equipment — just a wooden box with angled bars. Bees can be captured from wild colonies.

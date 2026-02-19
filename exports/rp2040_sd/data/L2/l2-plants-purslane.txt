@@ -1,0 +1,29 @@
+TITLE: Purslane (Portulaca oleracea)
+CAT: L2
+SUB: edible_plants
+TAGS: purslane,omega-3,succulent,summer
+REGION: global,temperate,arid
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Succulent garden weed and one of the richest plant sources of omega-3 fatty acids. Crunchy, slightly sour. Thrives in heat and poor soil.
+
+[STEPS]
+1. Identify by thick succulent stems (often reddish), small paddle-shaped leaves, tiny yellow flowers.
+2. Harvest stems and leaves; entire above-ground plant is edible.
+3. Eat raw in salads or cook briefly (thickens soups like okra).
+4. Seeds are tiny but edible and nutritious.
+
+[WARNINGS]
+! Spurge (Euphorbia) is a toxic lookalike — check for milky sap (purslane has clear sap) and round vs paddle leaves.
+! Contains oxalates — moderate consumption if kidney stone prone.
+
+[RELATED]
+> l2-plants-chickweed
+> l2-plants-lambs-quarters
+> l2-plants-amaranth
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database

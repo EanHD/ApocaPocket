@@ -1,0 +1,33 @@
+TITLE: Safe Water Storage Methods
+CAT: L1
+SUB: water
+TAGS: storage,containers,contamination-prevention
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Proper methods for storing treated water to prevent recontamination.
+
+[STEPS]
+1. Use food-grade containers with tight-fitting lids.
+2. Clean containers with dilute bleach solution before first use.
+3. Store in cool, dark location — light promotes algae growth.
+4. Use containers with narrow openings or spigots to prevent hand contact with water.
+5. Label containers with treatment date.
+6. Rotate stored water every 6 months; re-treat if stored longer.
+
+[WARNINGS]
+! Never use containers that held chemicals, fuel, or non-food substances.
+! Dipping cups/hands into stored water recontaminates it.
+! Plastic containers degrade in sunlight — store in shade.
+
+[RELATED]
+> l1-water-boiling-disinfection
+> l1-water-chemical-disinfection
+> l1-water-rainwater-collection
+
+[SOURCES]
+@ fema-water-storage
+@ cdc-water-emergency
+@ who-household-water-treatment

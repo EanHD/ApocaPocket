@@ -1,0 +1,29 @@
+TITLE: Chanterelle (Cantharellus cibarius)
+CAT: L2
+SUB: mushrooms
+TAGS: chanterelle,golden,mycorrhizal,summer-fall
+REGION: temperate,boreal
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Prized golden funnel-shaped mushroom with false gills (ridges). Fruity apricot aroma. Mycorrhizal — found near hardwoods and conifers in summer/fall.
+
+[STEPS]
+1. Identify by golden-orange color, vase/funnel shape, false gills (blunt forked ridges, not blade-like), white interior flesh.
+2. Spore print: pale yellow to white.
+3. Found on forest floor near oaks, beech, conifers. Never on wood.
+4. Cook thoroughly — do not eat raw. Excellent sautéed.
+
+[WARNINGS]
+! LOOKALIKE: Jack-o-lantern (Omphalotus olearius) — grows in clusters ON wood, has true blade gills, and glows faintly green. Causes severe GI distress.
+! False chanterelle (Hygrophoropsis) has true gills and orange-brown color.
+
+[RELATED]
+> l2-mushrooms-safety
+> l2-mushrooms-deadly-lookalikes
+> l2-mushrooms-hen-of-the-woods
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides

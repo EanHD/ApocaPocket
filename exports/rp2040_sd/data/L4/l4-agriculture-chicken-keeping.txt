@@ -1,0 +1,37 @@
+TITLE: Chicken Keeping for Eggs and Meat
+CAT: L4
+SUB: agriculture
+TAGS: chickens,eggs,poultry,livestock,protein
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Chickens are the easiest livestock to keep. They convert kitchen scraps, insects, and forage into eggs (250-300/year per hen) and meat. Require minimal space, simple shelter, and basic predator protection. A flock of 6 hens feeds a family's protein needs.
+
+[STEPS]
+1. COOP DESIGN: minimum 4 sq ft per bird inside, 10 sq ft per bird in outdoor run. Coop needs: roosting bars (2 inches wide, 1 foot per bird, 2-4 feet off floor), nest boxes (one per 3-4 hens, 12×12×12 inches, filled with straw), ventilation near roofline, predator-proof wire (½-inch hardware cloth, NOT chicken wire — predators tear through chicken wire).
+2. Buried hardware cloth apron: bury wire 12 inches outward around the coop perimeter to prevent digging predators (foxes, dogs). This is the single most important predator defense.
+3. FEED: chickens eat almost anything — kitchen scraps, garden waste, insects, grass, grain, seeds. In survival context: let them free-range for insects and seeds during day, supplement with grain or food scraps. Need ~¼ lb feed per bird per day. Always provide clean water — a chicken dies within 48 hours without water.
+4. CALCIUM: laying hens need calcium for eggshells. Save and crush eggshells, dry, and feed back. Crushed oyster shells or limestone chips also work. Without calcium, hens lay soft-shelled eggs and eventually stop laying.
+5. EGG PRODUCTION: hens start laying at 18-24 weeks. Peak production: 5-6 eggs per week per hen for first 2 years, declining after. Hens lay without a rooster (eggs are unfertilized). 14+ hours of light triggers laying — production drops in winter (supplement with a lamp if available).
+6. BREEDING: keep 1 rooster per 8-12 hens for fertilized eggs. Collect eggs daily except ones you want to hatch. A broody hen will sit on eggs for 21 days to hatch. Alternatively, build a simple incubator: insulated box with 100W light bulb, maintaining 37.5°C (99.5°F), turning eggs 3× daily for 21 days.
+7. PROCESSING (meat): at 16-20 weeks (or when hens stop laying at 2-3 years). Dispatch: quick cone kill (hang upside down in funnel/cone, cut jugular veins both sides, bleed out 2 minutes). Scald in 65°C (150°F) water for 30-60 seconds. Pluck feathers. Eviscerate. Cool immediately in cold water.
+8. FLOCK HEALTH: healthy chickens have bright red combs, clear eyes, active behavior. Signs of illness: lethargy, discharge from eyes/nose, ruffled feathers, cessation of laying. Quarantine sick birds immediately. Common treatments: apple cider vinegar in water (1 tbsp per gallon) as general tonic, diatomaceous earth in dust bath area for external parasites.
+9. COMPOSTING: chicken manure is too 'hot' (high nitrogen) to use directly on plants — it burns them. Compost for 3-6 months before use. Mixed with coop bedding (straw, wood shavings), it produces excellent garden fertilizer.
+10. ECONOMICS: 6 hens produce ~30 eggs per week (1,500/year). One egg = ~70 calories + 6g protein. Annual production per hen: ~18,000 calories of food from a bird that eats scraps and bugs. Chickens are the most efficient small-livestock protein source.
+
+[WARNINGS]
+! Raw chicken and eggs carry Salmonella — cook eggs to 71°C (160°F) and meat to 74°C (165°F) internal temperature
+! Chickens attract predators (foxes, hawks, raccoons, dogs, rats) — secure housing is essential or you will lose the entire flock overnight
+! Avian influenza can spread between poultry and wild birds — isolate flock from wild waterfowl if possible
+! Chickens need grit (small stones) to digest food — provide crushed eggshells or small gravel if free-ranging on soft ground
+
+[RELATED]
+> l4-agriculture-animal-husbandry-basics
+> l4-agriculture-composting
+> l4-agriculture-pest-management
+
+[SOURCES]
+@ usda-extension-seed-saving
+@ fao-soils-portal

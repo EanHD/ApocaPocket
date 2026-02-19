@@ -1,0 +1,29 @@
+TITLE: Clover (Trifolium spp.)
+CAT: L2
+SUB: edible_plants
+TAGS: clover,flowers,tea,nitrogen-fixer
+REGION: global,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Extremely common legume; flowers and young leaves are edible raw or cooked. Dried flower heads make a mild tea. Also a nitrogen-fixing cover crop.
+
+[STEPS]
+1. Identify by trifoliate leaves with light chevron markings and round flower heads (white or red).
+2. Eat young leaves raw in salads or cooked.
+3. Dry flower heads for tea (steep 10-15 minutes).
+4. Avoid large quantities raw — contains isoflavones and can cause bloating.
+
+[WARNINGS]
+! Large quantities may cause digestive discomfort.
+! Avoid clover from sprayed fields.
+
+[RELATED]
+> l2-plants-dandelion
+> l2-plants-chickweed
+> l2-plants-wood-sorrel
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database

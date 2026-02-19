@@ -1,0 +1,32 @@
+TITLE: Recognizing Vitamin and Mineral Deficiencies
+CAT: L2
+SUB: nutrition
+TAGS: deficiency,vitamins,minerals,scurvy,diagnosis
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Field recognition of common nutritional deficiencies that develop over weeks to months of restricted diet. Early detection enables targeted foraging.
+
+[STEPS]
+1. Vitamin C (scurvy): bleeding gums, loose teeth, slow wound healing, fatigue. Onset 1-3 months. Sources: rose hips, pine needles, greens, berries.
+2. Vitamin A: night blindness, dry skin. Sources: orange/yellow plants, liver, dark greens.
+3. Iron: fatigue, pallor, weakness, rapid heartbeat. Sources: nettle, meat, dark greens.
+4. B vitamins: cracked lips, confusion, dermatitis. Sources: whole grains, meat, legumes.
+5. Iodine: goiter (neck swelling), fatigue. Sources: seaweed, fish, iodized salt.
+
+[WARNINGS]
+! Scurvy can become fatal if untreated.
+! Night blindness from vitamin A deficiency impairs safety.
+! Iron deficiency severely reduces work capacity.
+
+[RELATED]
+> l2-nutrition-macros-basics
+> l2-plants-rose-hips
+> l2-plants-pine-needle-tea
+> l2-plants-stinging-nettle
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ openstax-biology-2e

@@ -1,0 +1,29 @@
+TITLE: Law Basics: Establishing Rules and Enforcement
+CAT: L5
+SUB: governance
+TAGS: governance,law,rules,justice
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Creating a basic legal framework with clear rules, due process, and proportional enforcement.
+
+[STEPS]
+1. Establish core rules by community consensus focusing on safety and cooperation.
+2. Write rules in plain language; post publicly for all to see.
+3. Create due process: accused must be heard before judgment.
+4. Apply proportional consequences—punishment fits the offense.
+5. Establish an appeals process to prevent abuse of authority.
+
+[WARNINGS]
+! Arbitrary enforcement destroys rule of law—apply rules consistently.
+! Overly harsh penalties breed resentment and rebellion.
+
+[RELATED]
+> l5-governance-principles
+> l5-governance-conflict-resolution
+> l5-governance-record-keeping
+
+[SOURCES]
+@ openstax-intro-business-governance

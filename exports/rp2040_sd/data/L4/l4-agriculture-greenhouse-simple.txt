@@ -1,0 +1,31 @@
+TITLE: Cold Frames and Hoop Houses
+CAT: L4
+SUB: agriculture
+TAGS: greenhouse,cold-frame,hoop-house,season-extension
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Building simple season-extending structures from salvaged or natural materials.
+
+[STEPS]
+1. Cold frame: a bottomless box (wood, cinder block) with a transparent lid (glass, clear plastic) angled south.
+2. Size: ~1m × 2m is manageable; lid must open for ventilation.
+3. Hoop house: bend flexible rods (PVC, willow, metal) into arches, cover with clear plastic sheeting.
+4. Anchor hoops firmly—wind is the primary threat to lightweight structures.
+5. Ventilation is critical: open ends/sides on warm days to prevent overheating and disease.
+6. Thermal mass: fill dark containers with water inside the structure—absorbs heat by day, releases at night.
+7. These structures extend growing season 4–8 weeks on each end and protect from frost.
+
+[WARNINGS]
+! Overheating kills plants faster than cold—always provide ventilation options.
+! Plastic degrades in UV—replace or protect sheeting annually.
+
+[RELATED]
+> l4-agriculture-soil-basics
+> l4-agriculture-irrigation-gravity
+
+[SOURCES]
+@ usda-extension-seed-saving
+@ usda-nrcs-soil-health

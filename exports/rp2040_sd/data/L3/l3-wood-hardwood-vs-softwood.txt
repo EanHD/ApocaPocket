@@ -1,0 +1,27 @@
+TITLE: Hardwood vs Softwood Fundamentals
+CAT: L3
+SUB: wood_science
+TAGS: wood,density,grain,structure
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Mechanical and practical distinctions between hardwood and softwood families.
+
+[STEPS]
+1. Identify species group and growth characteristics.
+2. Compare density and moisture behavior.
+3. Match wood type to load/tool/fire use.
+4. Track seasoning and storage effects.
+
+[WARNINGS]
+! Species-level properties vary widely within each class.
+! Wet wood performance and burn quality degrade sharply.
+
+[RELATED]
+> l3-wood-burn-quality
+> l4-tool-wood-joinery
+
+[SOURCES]
+@ usfs-wood-handbook-2021

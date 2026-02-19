@@ -1,0 +1,28 @@
+TITLE: Mushroom Safety and Spore Print Workflow
+CAT: L2
+SUB: mushrooms
+TAGS: mushroom,spore-print,toxicology
+REGION: temperate,boreal
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Mushroom identification workflow emphasizing exclusion of deadly lookalikes.
+
+[STEPS]
+1. Photograph and document habitat/substrate.
+2. Take spore print and record color/time.
+3. Use cap, gill, stem, bruising traits with key references.
+4. Reject specimen if any trait conflicts or remains unknown.
+
+[WARNINGS]
+! Mushroom poisoning can be fatal with delayed symptoms.
+! Do not rely on folklore tests for edibility.
+
+[RELATED]
+> l2-plants-identification-protocol
+> l1-medical-infection-prevention
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides

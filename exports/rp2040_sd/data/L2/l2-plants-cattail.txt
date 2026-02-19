@@ -1,0 +1,31 @@
+TITLE: Cattail (Typha latifolia)
+CAT: L2
+SUB: edible_plants
+TAGS: cattail,wetland,starch,pollen
+REGION: global,temperate,tropical
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Wetland staple plant; nearly every part is edible across seasons. Rhizomes provide starch, shoots are eaten like asparagus, pollen is a protein-rich flour supplement.
+
+[STEPS]
+1. Identify by tall linear leaves, distinctive brown cylindrical seed head, and wetland habitat.
+2. Spring: harvest young shoots when under 60cm — peel and eat raw or cooked.
+3. Early summer: collect green flower spikes, boil like corn.
+4. Mid-summer: shake pollen from male spike into bag for flour.
+5. Fall/winter: dig rhizomes, wash, crush in water, settle starch.
+
+[WARNINGS]
+! Confirm wetland is not contaminated with industrial runoff or sewage.
+! Wild iris (toxic) grows in similar habitats — iris leaves have a distinct midrib and fan arrangement vs cattail's linear wrap.
+
+[RELATED]
+> l2-plants-identification-protocol
+> l2-plants-watercress
+> l2-plants-burdock
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database
+@ extension-edible-plants

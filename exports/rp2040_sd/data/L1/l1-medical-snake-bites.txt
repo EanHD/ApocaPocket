@@ -1,0 +1,34 @@
+TITLE: Snakebite Field Management
+CAT: L1
+SUB: medical_first_aid
+TAGS: snakebite,venom,envenomation
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Emergency management of venomous and non-venomous snakebites in field conditions.
+
+[STEPS]
+1. Move away from the snake; do not attempt to capture or kill it.
+2. Keep patient calm and still — movement increases venom spread.
+3. Remove rings, watches, tight clothing near the bite (swelling will occur).
+4. Immobilize the bitten limb at or below heart level.
+5. Mark the edge of swelling with pen and time to track progression.
+6. Evacuate to medical facility for antivenom as soon as possible.
+
+[WARNINGS]
+! Do NOT cut the wound, suck venom, apply tourniquet, or use ice.
+! Pressure immobilization bandage only for neurotoxic snakes (e.g., coral snakes, cobras).
+! Even 'dry bites' (no venom) can become infected — monitor all bites.
+! Identification of snake species helps treatment — photograph if safely possible.
+
+[RELATED]
+> l1-medical-shock-recognition
+> l1-medical-wound-cleaning
+> l1-medical-allergic-reactions
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ nols-wilderness-guide
+@ us-army-fm-4-25-11

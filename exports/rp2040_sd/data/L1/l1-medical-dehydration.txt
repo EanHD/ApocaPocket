@@ -1,0 +1,32 @@
+TITLE: Dehydration Recognition and Oral Rehydration
+CAT: L1
+SUB: medical_first_aid
+TAGS: dehydration,rehydration,electrolytes,ORS
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Identifying dehydration and preparing oral rehydration solutions in the field.
+
+[STEPS]
+1. Recognize signs: thirst, dark urine, dry mouth, dizziness, sunken eyes, skin tenting.
+2. Prepare ORS: 1 liter clean water + 6 teaspoons sugar + 1/2 teaspoon salt.
+3. Administer small frequent sips — do not gulp large amounts.
+4. For children: 50-100 mL per episode of vomiting/diarrhea.
+5. Continue normal food intake when tolerated.
+6. Monitor urine output — goal is clear to light yellow urine.
+
+[WARNINGS]
+! Severe dehydration (unconscious, unable to drink) requires IV fluids — oral alone insufficient.
+! Incorrect ORS ratios can worsen condition — measure carefully.
+! Vomiting and diarrhea combined cause rapid dehydration, especially in children.
+
+[RELATED]
+> l1-water-boiling-disinfection
+> l1-waterborne-illness-basics
+> l1-water-storage-safety
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ red-cross-first-aid-cpr-aed

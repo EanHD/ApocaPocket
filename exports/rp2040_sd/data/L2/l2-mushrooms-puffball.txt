@@ -1,0 +1,30 @@
+TITLE: Giant Puffball (Calvatia gigantea)
+CAT: L2
+SUB: mushrooms
+TAGS: puffball,beginner,fall
+REGION: temperate,global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Large white ball-shaped mushroom found in fields and meadows. Safe when interior is uniformly white. One of the safest beginner mushrooms with a critical safety check.
+
+[STEPS]
+1. Identify by large (10-50cm+) round white form with no visible stem, cap, or gills externally.
+2. CRITICAL: Slice in half from top to bottom.
+3. Interior MUST be uniformly pure white with no outline of a developing mushroom inside.
+4. If uniformly white: safe to eat. Slice and cook like tofu — fry, bread, or grill.
+
+[WARNINGS]
+! If interior shows ANY discoloration (yellow/brown/green): too old, discard.
+! If interior shows outline of cap/gills: it is a young Amanita (potentially deadly) — DISCARD IMMEDIATELY.
+! Always slice and inspect interior before eating.
+
+[RELATED]
+> l2-mushrooms-safety
+> l2-mushrooms-deadly-lookalikes
+> l2-mushrooms-chicken-of-the-woods
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides

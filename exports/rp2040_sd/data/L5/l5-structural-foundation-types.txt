@@ -1,0 +1,30 @@
+TITLE: Foundation Types: Footings, Piers, and Slabs
+CAT: L5
+SUB: structural_engineering
+TAGS: structural_engineering,foundations,construction
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Choosing and building appropriate foundations based on soil conditions and structure type.
+
+[STEPS]
+1. Assess soil: dig test pits to check bearing capacity—clay, sand, rock, or fill.
+2. Use spread footings for walls: widen the base to distribute load over soft soil.
+3. Use pier/post foundations on slopes or in wet areas to elevate the structure.
+4. Build slab-on-grade for simple structures on stable, level ground.
+5. Ensure foundations extend below frost line to prevent heaving.
+
+[WARNINGS]
+! Poor foundations cause total structural failure—never skip soil assessment.
+! Wet or expansive clay soils require special drainage and wider footings.
+
+[RELATED]
+> l5-structural-load-paths
+> l5-structural-masonry-basics
+> l5-math-geometry-construction
+
+[SOURCES]
+@ openstax-engineering-statics
+@ mit-ocw-mechanical-engineering

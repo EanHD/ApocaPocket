@@ -1,0 +1,32 @@
+TITLE: Evidence-Based Natural Antimicrobials
+CAT: L3
+SUB: basic_chemistry
+TAGS: antibiotics,antimicrobial,honey,garlic,colloidal-silver
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Natural compounds with documented antimicrobial activity. NOT substitutes for antibiotics when available, but useful when pharmaceutical antibiotics are unavailable.
+
+[STEPS]
+1. HONEY (topical only): manuka honey (MGO 400+) or raw local honey applied to wounds. Change dressing daily. Effective against staph, strep, E.coli.
+2. RAW GARLIC: crush 2-3 cloves, let sit 10 min (activates allicin), consume raw. Repeat 3× daily. Broad-spectrum but destroyed by cooking.
+3. OREGANO OIL: 2-3 drops under tongue 2× daily OR dilute in carrier oil for topical. Contains carvacrol (antimicrobial compound).
+4. COLLOIDAL SILVER (controversial): 10-20 ppm solution, 1 tsp 3× daily. ONLY short-term use (<2 weeks). Overuse causes permanent discoloration.
+5. TEA TREE OIL: topical only (toxic if ingested). 5-10% dilution for wound treatment.
+6. These are adjuncts — always combine with proper wound care, drainage, and clean dressing changes
+
+[WARNINGS]
+! These are NOT equivalent to pharmaceutical antibiotics
+! Serious infections (sepsis, meningitis, pneumonia) require evacuation even when using natural antimicrobials
+! Colloidal silver overuse causes argyria (permanent blue-gray skin discoloration)
+! None of these are effective against all bacteria
+
+[RELATED]
+> l5-health-herbal-medicine-reference
+> l1-medical-infection-prevention
+
+[SOURCES]
+@ openstax-microbiology
+@ who-basic-emergency-care-2018

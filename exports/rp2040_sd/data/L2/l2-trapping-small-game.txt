@@ -1,0 +1,31 @@
+TITLE: Passive Small Game Trapping Principles
+CAT: L2
+SUB: fishing_hunting_knowledge
+TAGS: trapping,snare,deadfall,small-game
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Passive trapping methods that work while you do other tasks. Focuses on principles of funnel, trigger, and restraint mechanisms.
+
+[STEPS]
+1. Identify game trails, runs, and feeding areas through tracks and sign.
+2. Simple snare: running noose of wire/cord at head height of target animal on a known trail.
+3. Deadfall: figure-4 trigger with weighted rock/log over bait platform.
+4. Funnel trap: guide fences narrowing to a box or enclosure.
+5. Set multiple traps (10+) — success rate per trap is low. Check twice daily.
+
+[WARNINGS]
+! Trapping may be illegal where law enforcement exists.
+! Check traps frequently to prevent suffering.
+! Disease risk from handling wild animals — use gloves.
+
+[RELATED]
+> l2-tracking-basics
+> l2-field-dressing-overview
+> l2-fishing-improvised-methods
+
+[SOURCES]
+@ state-wildlife-hunter-ed
+@ bsa-handbook

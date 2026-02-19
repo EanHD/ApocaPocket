@@ -1,0 +1,33 @@
+TITLE: Biodiesel from Vegetable Oil
+CAT: L3
+SUB: basic_chemistry
+TAGS: biodiesel,fuel,transesterification,renewable
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Transesterification converts vegetable oil into biodiesel that runs in diesel engines. Requires methanol, lye, and a settling period. 10 gallons of oil yields ~9 gallons of biodiesel plus glycerin byproduct.
+
+[STEPS]
+1. Heat oil to 55°C
+2. Mix methanol (20% by volume) with lye (0.3-0.5% by weight)
+3. Combine and stir vigorously for 60 minutes
+4. Let settle 8-12 hours — glycerin sinks, biodiesel floats
+5. Drain glycerin from bottom
+6. Wash biodiesel with water to remove residual impurities
+7. Dry and filter
+8. Use in any diesel engine without modification (B100) or blend with petroleum diesel
+
+[WARNINGS]
+! Methanol is toxic and flammable
+! Lye causes severe chemical burns
+! Biodiesel damages rubber — replace rubber fuel lines
+! Glycerin byproduct is useful (soap making) but must be handled properly
+
+[RELATED]
+> l3-chemistry-ethanol-distillation
+> l4-electricity-simple-generators
+
+[SOURCES]
+@ openstax-chemistry-2e

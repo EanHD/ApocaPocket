@@ -1,0 +1,34 @@
+TITLE: Urban Emergency Shelter Options
+CAT: L1
+SUB: shelter
+TAGS: urban,emergency,improvised,buildings
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Finding and creating emergency shelter in urban and suburban environments.
+
+[STEPS]
+1. Prioritize intact structures: parking garages, stairwells, basements, shipping containers.
+2. Avoid damaged structures — aftershocks and structural collapse risk.
+3. Use vehicles as temporary shelter — good wind protection but poor insulation.
+4. Create insulation from cardboard, newspaper, carpet, curtains — layer everything.
+5. Seal windows/doors with plastic sheeting and tape for wind protection.
+6. For chemical/nuclear threats: go to interior room, upper floors; seal all openings.
+
+[WARNINGS]
+! Structurally damaged buildings can collapse without warning.
+! Underground shelters may flood or accumulate toxic gases.
+! Running vehicles in enclosed spaces causes carbon monoxide poisoning.
+! Urban areas may have looters/hostile individuals — security awareness essential.
+
+[RELATED]
+> l1-shelter-thermal-management
+> l1-fire-safety-ventilation
+> l1-shelter-insulation-principles
+
+[SOURCES]
+@ fema-water-storage
+@ red-cross-first-aid-cpr-aed
+@ us-army-fm-4-25-11

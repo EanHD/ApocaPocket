@@ -1,0 +1,29 @@
+TITLE: Library Preservation: Book and Document Conservation
+CAT: L5
+SUB: education
+TAGS: education,library,preservation,books
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Protecting and preserving written knowledge for long-term community access.
+
+[STEPS]
+1. Store books in cool, dry, ventilated spaces away from sunlight.
+2. Control pests with cedar, lavender, or diatomaceous earth—never chemicals near paper.
+3. Repair torn pages with rice paste adhesive and thin tissue.
+4. Copy deteriorating texts by hand before they become illegible.
+5. Prioritize preservation: technical manuals and reference works first.
+
+[WARNINGS]
+! Mold destroys books rapidly—isolate and dry affected items immediately.
+! Fire is the greatest threat—maintain separation and fire suppression near archives.
+
+[RELATED]
+> l5-comm-writing-systems
+> l5-governance-record-keeping
+> l5-edu-teaching-methods
+
+[SOURCES]
+@ openstax-intro-business-governance

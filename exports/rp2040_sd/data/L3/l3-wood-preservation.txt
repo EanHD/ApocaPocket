@@ -1,0 +1,29 @@
+TITLE: Wood Preservation and Rot Prevention
+CAT: L3
+SUB: wood_science
+TAGS: wood,preservation,rot,treatment
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Natural and improvised methods to prevent wood rot, insect damage, and decay.
+
+[STEPS]
+1. Keep wood dry—moisture below 20% prevents most fungal rot.
+2. Elevate wood structures off ground contact using stone or concrete footings.
+3. Char the surface of ground-contact posts (shou sugi ban / yakisugi technique).
+4. Apply natural oils (linseed, tung) to seal surfaces against moisture.
+5. Use naturally rot-resistant species: cedar, black locust, white oak, osage orange.
+6. Ensure good ventilation around wood structures to prevent moisture accumulation.
+
+[WARNINGS]
+! Chemical wood preservatives (CCA, creosote) are toxic—avoid for food contact surfaces.
+! Burning surfaces requires careful fire control.
+
+[RELATED]
+> l3-wood-seasoning
+> l3-wood-hardwood-vs-softwood
+
+[SOURCES]
+@ usfs-wood-handbook-2021

@@ -1,0 +1,28 @@
+TITLE: Ohm's Law and Basic Circuit Diagnostics
+CAT: L4
+SUB: electricity_basics
+TAGS: electricity,ohms-law,circuits
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Circuit reasoning framework for basic repairs and safe troubleshooting.
+
+[STEPS]
+1. Identify voltage source, load, and continuity path.
+2. Apply Ohm's law to estimate current and resistance.
+3. Isolate fault by section testing.
+4. Verify polarity and connection quality before energizing.
+
+[WARNINGS]
+! Electrical shock and fire risks are severe.
+! Disconnect power before repairs whenever possible.
+
+[RELATED]
+> l4-electricity-battery-chemistry
+> l4-tool-levers-and-pulleys
+
+[SOURCES]
+@ openstax-college-physics
+@ army-tm-electrical-basics

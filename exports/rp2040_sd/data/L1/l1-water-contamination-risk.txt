@@ -1,0 +1,28 @@
+TITLE: Water Contamination Risk Screening
+CAT: L1
+SUB: water
+TAGS: contamination,risk,source-selection
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Simple field risk matrix for choosing safer water sources under constraints.
+
+[STEPS]
+1. Prioritize protected springs/deep wells over surface runoff.
+2. Avoid sources downstream from settlements/agriculture.
+3. Assess signs of algal blooms, odor, discoloration.
+4. Treat all suspect sources before consumption.
+
+[WARNINGS]
+! Clear water may still be biologically unsafe.
+! Chemical contamination is often invisible without testing.
+
+[RELATED]
+> l1-water-boiling-disinfection
+> l1-water-filtration-basics
+
+[SOURCES]
+@ cdc-water-emergency
+@ fema-water-storage

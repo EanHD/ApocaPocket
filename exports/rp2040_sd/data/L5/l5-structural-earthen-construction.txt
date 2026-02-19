@@ -1,0 +1,29 @@
+TITLE: Earthen Construction: Adobe, Rammed Earth, and Cob
+CAT: L5
+SUB: structural_engineering
+TAGS: structural_engineering,earthen,adobe,rammed_earth,cob
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Building durable structures from earth-based materials available almost anywhere.
+
+[STEPS]
+1. Test soil: ideal mix is ~70% sand, 30% clay; adjust with additives.
+2. Adobe: form wet earth-straw mix into bricks, dry in sun for 2-4 weeks.
+3. Rammed earth: compact damp soil in formwork layers of 10-15 cm.
+4. Cob: hand-mix earth, sand, straw, and water; build in lifts without forms.
+5. Protect all earthen walls with roof overhangs and waterproof foundation courses.
+
+[WARNINGS]
+! Earthen walls dissolve in prolonged rain without protection.
+! Thick walls are needed for structural strength—minimum 30 cm.
+
+[RELATED]
+> l5-structural-load-paths
+> l5-structural-masonry-basics
+> l5-structural-foundation-types
+
+[SOURCES]
+@ openstax-engineering-statics

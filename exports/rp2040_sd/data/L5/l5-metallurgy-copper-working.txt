@@ -1,0 +1,30 @@
+TITLE: Copper Working: Native Copper and Simple Smelting
+CAT: L5
+SUB: metallurgy
+TAGS: metallurgy,copper,smelting,bronze
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Working native copper and smelting copper ore for tools, vessels, and eventually bronze alloys.
+
+[STEPS]
+1. Find native copper nuggets in streambeds or green-stained rocks (malachite, azurite) for ore.
+2. Cold-work native copper by hammering; anneal (heat to red and quench) to restore malleability.
+3. Smelt copper ore in a charcoal furnace with bellows at ~1100°C.
+4. Cast copper into molds for axes, vessels, and fittings.
+5. Alloy with tin (5-12%) to create bronze—harder and better for tools.
+
+[WARNINGS]
+! Copper smelting produces toxic fumes—smelt only outdoors.
+! Molten copper splashes violently if it contacts moisture.
+
+[RELATED]
+> l5-metallurgy-basics
+> l5-metallurgy-casting-basics
+> l5-mech-bearings-and-lubrication
+
+[SOURCES]
+@ usgs-mineral-education
+@ openstax-chemistry-2e

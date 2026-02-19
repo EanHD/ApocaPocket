@@ -1,0 +1,28 @@
+TITLE: Burn Assessment and Initial Care
+CAT: L1
+SUB: medical_first_aid
+TAGS: burn,thermal injury,cooling
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Immediate burn response emphasizing cooling, contamination control, and escalation triggers.
+
+[STEPS]
+1. Remove from heat source and stop burning process.
+2. Cool with clean running water; avoid ice.
+3. Cover with clean non-adherent dressing.
+4. Monitor for airway involvement and shock.
+
+[WARNINGS]
+! Chemical/electrical burns need specialized management.
+! Large burns require urgent evacuation.
+
+[RELATED]
+> l1-medical-infection-prevention
+> l1-shelter-thermal-management
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ red-cross-first-aid-cpr-aed

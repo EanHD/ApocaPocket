@@ -1,0 +1,28 @@
+TITLE: Celestial Navigation Basics
+CAT: L5
+SUB: navigation
+TAGS: celestial,navigation,astronomy
+REGION: marine,desert,open-terrain
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Foundational celestial fixes using sun/stars and time references.
+
+[STEPS]
+1. Establish accurate time reference.
+2. Measure altitude of known celestial body.
+3. Apply reduction tables or precomputed methods.
+4. Cross-check with dead reckoning and terrain cues.
+
+[WARNINGS]
+! Time errors create major positional errors.
+! Cloud cover and refraction limit practical use.
+
+[RELATED]
+> l5-map-reading-basics
+> l5-math-foundations
+
+[SOURCES]
+@ noaa-celestial-navigation
+@ army-land-navigation-fm-3-25-26

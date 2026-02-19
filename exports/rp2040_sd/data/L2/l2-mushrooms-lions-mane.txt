@@ -1,0 +1,29 @@
+TITLE: Lion's Mane (Hericium erinaceus)
+CAT: L2
+SUB: mushrooms
+TAGS: lions-mane,teeth,hardwood,medicinal
+REGION: temperate,boreal
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Distinctive white globe of cascading teeth/spines growing on dead or dying hardwoods. No dangerous lookalikes among Hericium species — all are edible.
+
+[STEPS]
+1. Identify by white globe shape with long dangling spines/teeth (no cap, no gills).
+2. Found on dead or wounded hardwoods (oak, beech, maple), often high up.
+3. Harvest when white and firm — yellowing indicates age.
+4. Tear into pieces and sauté in butter — has a seafood/lobster-like flavor.
+
+[WARNINGS]
+! All Hericium species are edible, making this a very safe genus.
+! Old specimens (yellow/brown) may cause GI upset — harvest fresh.
+
+[RELATED]
+> l2-mushrooms-oyster
+> l2-mushrooms-hen-of-the-woods
+> l2-mushrooms-safety
+
+[SOURCES]
+@ nama-mushroom-id
+@ extension-mushroom-guides

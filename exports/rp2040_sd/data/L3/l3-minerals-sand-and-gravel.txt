@@ -1,0 +1,28 @@
+TITLE: Sand and Gravel Assessment for Construction
+CAT: L3
+SUB: rock_mineral_id
+TAGS: sand,gravel,aggregate,construction,concrete
+REGION: global
+CONFIDENCE: medium
+---
+
+[SUMMARY]
+Evaluating sand and gravel deposits for suitability in construction, mortar, and filtration.
+
+[STEPS]
+1. Source from river beds, glacial deposits, and eroded hillsides.
+2. Good construction sand is angular (sharp), not rounded—angular grains interlock better.
+3. Avoid sand with high clay or organic content—rub between fingers, it should feel gritty not slippery.
+4. Wash sand: stir in water, let settle, pour off muddy water. Repeat until water runs clear.
+5. Grade gravel by size: pass through improvised screens for uniform aggregate.
+6. Mix ratios for basic mortar: roughly 1 part lime/cement to 3 parts sand by volume.
+
+[WARNINGS]
+
+[RELATED]
+> l3-minerals-limestone-uses
+> l3-chemistry-lime-production
+
+[SOURCES]
+@ usgs-mineral-education
+@ openstax-engineering-statics

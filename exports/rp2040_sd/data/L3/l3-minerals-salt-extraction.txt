@@ -1,0 +1,28 @@
+TITLE: Salt Extraction from Deposits and Seawater
+CAT: L3
+SUB: rock_mineral_id
+TAGS: salt,mineral,extraction,evaporation
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Methods for locating and extracting salt from natural deposits, seawater, and brine springs.
+
+[STEPS]
+1. Coastal: collect seawater in shallow pans, allow solar evaporation over days.
+2. Inland: locate salt licks (areas where animals gather), brine springs, or surface salt deposits.
+3. Boil brine in wide, shallow containers to accelerate evaporation.
+4. Scrape crystallized salt and re-dissolve in clean water to purify, then re-evaporate.
+5. Plant indicator: salt-tolerant plants (glasswort, sea lavender) indicate saline soils.
+6. Store salt dry in sealed containers—salt absorbs moisture readily.
+
+[WARNINGS]
+
+[RELATED]
+> l3-chemistry-salt-production
+> l3-chemistry-water-distillation
+
+[SOURCES]
+@ usgs-mineral-education
+@ openstax-chemistry-2e

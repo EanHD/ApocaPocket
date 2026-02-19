@@ -1,0 +1,29 @@
+TITLE: Teaching Methods: Effective Knowledge Transfer Techniques
+CAT: L5
+SUB: education
+TAGS: education,teaching,learning,pedagogy
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Practical teaching techniques for transferring knowledge and skills in resource-limited settings.
+
+[STEPS]
+1. Explain concepts verbally, then demonstrate physically (tell-show-do).
+2. Have learners practice immediately with guided feedback.
+3. Use analogies connecting new concepts to familiar experiences.
+4. Teach in small groups (5-8) for optimal engagement.
+5. Test retention through practical application, not just recitation.
+
+[WARNINGS]
+! Skipping practice leads to poor retention—always include hands-on work.
+! Adjust pace to slowest critical learner—lives may depend on their competence.
+
+[RELATED]
+> l5-edu-apprenticeship-systems
+> l5-edu-scientific-method
+> l5-governance-principles
+
+[SOURCES]
+@ openstax-intro-business-governance

@@ -1,0 +1,38 @@
+TITLE: Oral Rehydration Solution (ORS) — WHO Recipe
+CAT: L1
+SUB: medical_first_aid
+TAGS: dehydration,ors,diarrhea,electrolytes,who-formula
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+The WHO Oral Rehydration Solution is the single most effective treatment for dehydration from diarrhea, vomiting, or heat illness. It has saved millions of lives. The exact recipe matters — wrong ratios can worsen dehydration.
+
+[STEPS]
+1. WHO formula: 1 liter clean water + 6 level teaspoons sugar (30g) + ½ level teaspoon salt (2.5g). This is the EXACT ratio — do not estimate.
+2. If no measuring spoons: use the 'pinch and scoop' method — one fistful of sugar, one three-finger pinch of salt per liter.
+3. Water must be boiled and cooled (or otherwise disinfected) before mixing. Mix until fully dissolved — no granules should remain.
+4. Taste test: solution should taste like tears (slightly salty). If saltier than tears, add more water. If sweet, add tiny pinch of salt.
+5. Dosing for adults: 200-400ml after each loose stool, sipped slowly over 15-20 minutes. Do NOT gulp — this triggers vomiting.
+6. Dosing for children: 50-100ml per kg body weight over 4 hours. A 10kg child needs 500-1000ml over 4 hours, given by teaspoon every 1-2 minutes.
+7. If patient vomits, wait 10 minutes then resume with smaller, more frequent sips (1 teaspoon every 1-2 minutes).
+8. Continue ORS until diarrhea stops plus 24 hours. Minimum 3 liters/day for adults with active diarrhea.
+9. Enhanced version: add ½ cup orange juice or mashed banana for potassium if available. Zinc supplements (20mg/day) reduce diarrhea duration by 25% in children.
+10. Signs ORS is working: urine output increases, mouth becomes moist, skin turgor improves (pinched skin snaps back quickly).
+
+[WARNINGS]
+! Too much sugar pulls water INTO the gut and worsens diarrhea — measure carefully
+! Too much salt can cause hypernatremia (seizures, brain damage) especially in children
+! ORS does not treat the underlying cause — bloody diarrhea, persistent vomiting, or fever >39°C need additional treatment
+! Use CLEAN water — ORS made with contaminated water adds infection to dehydration
+! Discard unused solution after 24 hours — bacteria multiply rapidly in sugar-salt water
+
+[RELATED]
+> l1-medical-dehydration
+> l1-waterborne-illness-basics
+> l1-water-boiling-disinfection
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ red-cross-first-aid-cpr-aed

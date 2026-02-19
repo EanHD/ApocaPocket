@@ -1,0 +1,33 @@
+TITLE: Basic Electrical Wiring and Grounding
+CAT: L4
+SUB: electricity_basics
+TAGS: wiring,safety,grounding,electrical,circuits
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Safe practices for basic electrical wiring, connections, and grounding in improvised systems.
+
+[STEPS]
+1. Always disconnect power before working on wiring.
+2. Use appropriate wire gauge for current load—thinner wire overheats with too much current.
+3. Rule of thumb: 14 AWG for ≤15A, 12 AWG for ≤20A in copper wire.
+4. Make secure connections: twist wires together, solder if possible, insulate with tape or heat shrink.
+5. Ground metal enclosures: connect to a metal rod driven into moist earth.
+6. Install fuses or breakers—a simple fuse is a thin wire that melts before the main wire overheats.
+7. Keep wiring away from water, heat sources, and areas where it can be damaged.
+
+[WARNINGS]
+! Electrical shock can be fatal—never work on live circuits.
+! Poor connections cause arcing and fire—ensure all joints are tight and insulated.
+! Battery banks can deliver hundreds of amps in a short circuit—treat with same respect as mains power.
+
+[RELATED]
+> l4-electricity-ohms-law
+> l4-electricity-solar-principles
+> l4-electricity-led-lighting
+
+[SOURCES]
+@ army-tm-electrical-basics
+@ openstax-college-physics

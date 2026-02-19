@@ -1,0 +1,32 @@
+TITLE: Quicklime and Slaked Lime from Limestone
+CAT: L3
+SUB: basic_chemistry
+TAGS: lime,quicklime,calcium-oxide,mortar,plaster
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Producing quicklime (CaO) and slaked lime (Ca(OH)₂) from limestone for mortar, plaster, and sanitation.
+
+[STEPS]
+1. Gather limestone or seashells (both are calcium carbonate).
+2. Build a lime kiln: stack limestone over a fire chamber that can sustain 900°C+ for hours.
+3. Burn for 12–24 hours until stones become white, lighter, and crumbly—this is quicklime (CaO).
+4. Slaking: carefully add water to quicklime—it heats violently and produces calcium hydroxide paste.
+5. Lime putty (aged slaked lime) makes superior mortar and plaster.
+6. Mix with sand (~1:3 ratio) for mortar; use thin coats for plaster/whitewash.
+
+[WARNINGS]
+! Quicklime reacts violently with water—extreme heat, steam, and caustic splashing.
+! Both quicklime and slaked lime cause severe burns—full skin and eye protection required.
+! Lime kiln operation requires sustained high temperatures—significant fire risk.
+
+[RELATED]
+> l3-minerals-limestone-uses
+> l3-chemistry-ph-basics
+> l4-tool-kiln-principles
+
+[SOURCES]
+@ openstax-chemistry-2e
+@ usgs-mineral-education

@@ -1,0 +1,33 @@
+TITLE: Field Infection Prevention
+CAT: L1
+SUB: medical_first_aid
+TAGS: infection,antiseptic,wound-care
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Preventing wound infections in austere environments without access to hospitals.
+
+[STEPS]
+1. Clean all wounds thoroughly as soon as possible (see wound cleaning entry).
+2. Apply antiseptic (dilute iodine, honey, or boiled saltwater if nothing else available).
+3. Keep wounds covered with clean, dry dressings; change daily.
+4. Watch for infection signs: increasing redness, swelling, warmth, pus, red streaks, fever.
+5. Elevate injured extremities when possible to reduce swelling.
+6. If antibiotics are available and infection develops, begin appropriate course.
+
+[WARNINGS]
+! Untreated wound infections can become sepsis — a life-threatening emergency.
+! Do not close contaminated or bite wounds — leave open to drain.
+! Tetanus risk increases with dirty/puncture wounds — prior vaccination critical.
+
+[RELATED]
+> l1-medical-wound-cleaning
+> l1-medical-burns
+> l1-medical-basic-pharmacology
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ us-army-fm-4-25-11
+@ nols-wilderness-guide

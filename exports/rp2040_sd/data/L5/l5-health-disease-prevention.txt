@@ -1,0 +1,30 @@
+TITLE: Disease Prevention: Quarantine and Hygiene Principles
+CAT: L5
+SUB: public_health
+TAGS: public_health,disease,quarantine,hygiene
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Basic epidemiological principles for preventing disease outbreaks in community settings.
+
+[STEPS]
+1. Enforce handwashing with soap or ash before eating and after latrine use.
+2. Isolate sick individuals promptly; designate a quarantine area.
+3. Boil or treat all drinking water from uncertain sources.
+4. Bury or burn animal carcasses and medical waste away from living areas.
+5. Track illness patterns to identify outbreaks early.
+
+[WARNINGS]
+! Diarrheal disease kills through dehydration—treat with oral rehydration solution immediately.
+! Airborne diseases require physical separation, not just hygiene.
+
+[RELATED]
+> l5-health-sanitation-systems
+> l5-health-water-infrastructure
+> l5-governance-record-keeping
+
+[SOURCES]
+@ who-basic-emergency-care-2018
+@ cdc-water-emergency

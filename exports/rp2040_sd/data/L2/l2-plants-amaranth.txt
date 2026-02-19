@@ -1,0 +1,31 @@
+TITLE: Amaranth (Amaranthus spp.)
+CAT: L2
+SUB: edible_plants
+TAGS: amaranth,grain,greens,protein,warm-season
+REGION: global,tropical,temperate
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Dual-purpose plant providing both nutritious greens and protein-rich grain. Thrives in poor soils and heat. One of the most calorie-dense wild foods.
+
+[STEPS]
+1. Identify by alternate simple leaves, dense flower spikes (often red/purple), tiny seeds.
+2. Harvest leaves when young for cooking like spinach.
+3. Collect seed heads when dry; thresh and winnow seeds.
+4. Seeds: toast lightly or grind into flour. High in lysine (rare in grains).
+5. Boil greens briefly to reduce oxalates.
+
+[WARNINGS]
+! High oxalate content — cook before eating in quantity.
+! Pigweed species can accumulate nitrates from fertilized soil.
+
+[RELATED]
+> l2-plants-lambs-quarters
+> l2-plants-purslane
+> l2-nutrition-macros-basics
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database
+@ extension-edible-plants

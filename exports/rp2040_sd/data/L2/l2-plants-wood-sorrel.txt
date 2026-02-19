@@ -1,0 +1,29 @@
+TITLE: Wood Sorrel (Oxalis spp.)
+CAT: L2
+SUB: edible_plants
+TAGS: wood-sorrel,oxalis,lemony,salad
+REGION: global,temperate,tropical
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Small clover-lookalike with heart-shaped leaflets and pleasant lemony flavor from oxalic acid. Excellent trail snack and salad addition in small quantities.
+
+[STEPS]
+1. Identify by three heart-shaped (notched) leaflets — NOT round like clover. Five-petaled flowers (yellow, white, or pink).
+2. Eat leaves, flowers, and seed pods raw.
+3. Use as lemon substitute in cooking and drinks.
+4. Leaves fold down at night and in strong sun.
+
+[WARNINGS]
+! Contains oxalic acid — eat in moderation, not as a staple.
+! Avoid large quantities if kidney stone prone.
+
+[RELATED]
+> l2-plants-clover
+> l2-plants-chickweed
+> l2-plants-dandelion
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database

@@ -1,0 +1,32 @@
+TITLE: Elderberry (Sambucus nigra / canadensis)
+CAT: L2
+SUB: edible_plants
+TAGS: elderberry,berries,cooking-required,immune
+REGION: temperate,global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Shrub/small tree producing clusters of small dark berries. Berries MUST be cooked — raw berries, leaves, bark, and stems contain cyanogenic glycosides.
+
+[STEPS]
+1. Identify by compound leaves with 5-7 serrated leaflets, flat-topped white flower clusters, and dark purple-black berry clusters.
+2. Harvest fully ripe dark berries only.
+3. Cook berries before eating — boil into syrup, jam, or wine.
+4. Flowers can be used raw for tea or fritters (elderflower).
+
+[WARNINGS]
+! RAW berries cause nausea, vomiting, diarrhea.
+! Leaves, bark, stems, roots, and unripe berries are TOXIC.
+! Water elderberry (Sambucus racemosa — red berries) is more toxic.
+! Pokeweed berry clusters look similar — check leaf shape (simple vs compound).
+
+[RELATED]
+> l2-plants-rose-hips
+> l2-plants-identification-protocol
+> l2-nutrition-deficiency-signs
+
+[SOURCES]
+@ peterson-field-guides-edible-wild-plants
+@ usda-plants-database
+@ extension-edible-plants

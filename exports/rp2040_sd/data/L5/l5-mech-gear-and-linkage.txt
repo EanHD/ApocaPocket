@@ -1,0 +1,29 @@
+TITLE: Gears and Linkages: Power Transmission Mechanisms
+CAT: L5
+SUB: mechanical_engineering
+TAGS: mechanical_engineering,gears,linkage,power_transmission
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+How to transmit and transform rotary and linear motion using gears, pulleys, levers, and linkages.
+
+[STEPS]
+1. Apply lever classes: first (fulcrum between), second (load between), third (effort between).
+2. Use gear ratios to trade speed for torque: large driving small = faster, less torque.
+3. Build simple pulley systems: each additional pulley halves the required force.
+4. Create linkages (four-bar, crank-slider) to convert rotary to linear motion.
+5. Fabricate wooden or cast-metal gears for low-speed, high-torque applications.
+
+[WARNINGS]
+! Gear teeth must mesh properly or they strip under load.
+! Keep fingers and loose clothing away from moving mechanisms.
+
+[RELATED]
+> l5-mechanical-engineering-basics
+> l5-mech-bearings-and-lubrication
+> l5-mech-materials-strength
+
+[SOURCES]
+@ mit-ocw-mechanical-engineering

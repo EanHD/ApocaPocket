@@ -1,0 +1,28 @@
+TITLE: Battery Chemistry and Lifecycle Basics
+CAT: L4
+SUB: electricity_basics
+TAGS: battery,electrochemistry,storage
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Comparison of common battery chemistries and maintenance constraints.
+
+[STEPS]
+1. Choose chemistry by energy density, cycle life, and temperature tolerance.
+2. Use safe charging profiles for chemistry type.
+3. Monitor voltage and temperature trends.
+4. Store cells at recommended state-of-charge.
+
+[WARNINGS]
+! Improper charging can cause fire/explosion.
+! Damaged lithium cells require strict handling.
+
+[RELATED]
+> l4-electricity-ohms-law
+> l4-electricity-solar-principles
+
+[SOURCES]
+@ openstax-chemistry-2e
+@ openstax-college-physics

@@ -1,0 +1,28 @@
+TITLE: Plant Seasonality and Region Mapping
+CAT: L2
+SUB: edible_plants
+TAGS: phenology,season,region
+REGION: global
+CONFIDENCE: high
+---
+
+[SUMMARY]
+Map edible species by biome and seasonal availability for collection planning.
+
+[STEPS]
+1. Tag each species by biome and latitude band.
+2. Add growth-stage cues for safe harvest windows.
+3. Track nutrient density by stage when known.
+4. Prioritize resilient high-yield species lists.
+
+[WARNINGS]
+! Mis-timed harvest can increase toxicity in some species.
+! Urban/roadside plants may accumulate contaminants.
+
+[RELATED]
+> l2-plants-identification-protocol
+> l4-agriculture-soil-basics
+
+[SOURCES]
+@ usda-plants-database
+@ extension-edible-plants
