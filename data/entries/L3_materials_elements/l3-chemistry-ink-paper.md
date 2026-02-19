@@ -18,7 +18,8 @@ sources:
 related_entries:
 - l5-edu-library-preservation
 - l5-comm-writing-systems
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Writing materials made from local plants and minerals. Oak-gall ink (iron gall ink) is permanent and water-resistant. Paper from plant fiber pulp takes 1-2 days including drying.
 warnings:
 - Oak-gall ink is mildly corrosive to metal nibs — use quill or reed pens

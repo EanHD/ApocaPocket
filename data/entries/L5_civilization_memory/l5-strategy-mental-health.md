@@ -19,7 +19,8 @@ related_entries:
 - l5-strategy-progression-milestones
 - l5-strategy-group-survival
 - l1-strategy-first-24-hours
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Your body can be fine while your mind collapses. Depression, anxiety, PTSD, grief, and hopelessness kill survivors. This entry covers: recognizing mental health crises, self-care practices, group
   support, and creating meaning in survival. Survival is not just physical — it''s existential.'
 warnings:

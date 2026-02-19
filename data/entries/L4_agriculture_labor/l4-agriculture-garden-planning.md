@@ -16,7 +16,8 @@ sources:
 related_entries:
 - l4-agriculture-season-planning
 - l4-agriculture-seed-saving
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Plan garden for continuous harvest and soil health. Crop rotation prevents disease. Succession planting (plant every 2 weeks) provides steady supply. Prioritize high-calorie, storable crops (potatoes,
   beans, squash). Consider climate and season length.
 warnings:

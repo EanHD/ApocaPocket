@@ -45,6 +45,7 @@ steps:
 - 'NUTRITIONAL VALUE: fermentation INCREASES nutritional value — B vitamins increase 3-10x, vitamin C is preserved (unlike cooking which destroys it), and Lactobacillus probiotics improve gut health and
   nutrient absorption. In historical sieges, sauerkraut prevented scurvy.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Lacto-Fermentation — Preserving Food Without Refrigeration

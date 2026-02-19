@@ -15,7 +15,8 @@ sources:
 - us-army-fm-4-25-11
 related_entries:
 - l3-materials-clay-identification
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Pottery provides waterproof containers for cooking, storage, and transport. Hand-building techniques (pinch, coil, slab) require no wheel. Pit firing (campfire or earth kiln) achieves temps needed
   to harden clay. Primitive pottery is porous but functional.
 warnings:

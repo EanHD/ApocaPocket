@@ -44,6 +44,7 @@ steps:
 - 'FIELD VARIATION — ASH CAKES: if no oven available, mix flour and water into thick dough, wrap around a stick, and cook over coals. Not as long-lasting as true hardtack but works in a pinch.'
 - 'SHELF LIFE: properly made and stored hardtack lasts 5-50+ years. Signs of spoilage: mold (colored spots), rancid smell (indicates fat contamination), crumbles instead of snapping (absorbed moisture).'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Hardtack — Indefinite Shelf-Life Survival Bread

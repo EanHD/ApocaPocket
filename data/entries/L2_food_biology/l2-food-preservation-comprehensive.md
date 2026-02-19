@@ -19,6 +19,7 @@ related_entries:
 - l2-food-meat-jerky
 - l2-food-fermentation
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Without refrigeration, food spoils rapidly. Preservation methods remove water or alter chemistry to prevent bacterial growth. Drying, smoking, salting, fermenting, and cold storage (root cellar)
   allow long-term food storage.
 warnings:

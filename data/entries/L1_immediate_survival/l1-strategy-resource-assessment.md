@@ -19,14 +19,18 @@ related_entries:
 - l1-strategy-first-24-hours
 - l1-strategy-seasonal-planning
 - l4-tool-stone-basics
-last_verified: '2026-02-18'
+- l1-strategy-common-fatal-mistakes
+last_verified: '2026-02-19'
+audit_status: verified
+diagram: diagrams/resource-assessment-matrix.svg
 summary: You have rocks, sticks, and plant material. What can you actually build? This matrix maps available resources to achievable projects, prioritized by survival value. Prevents wasting time on low-value
-  or impossible projects.
+  or impossible projects. Tool progression unlocks capabilities geometrically.
 warnings:
 - Attempting advanced projects without basic tools wastes energy — stone knives come before log cabins
-- Resource depletion is real — don't clear-cut all nearby deadwood in the first week
-- Biodiversity = resilience — if one resource fails, you have alternatives. Don't rely on a single material.
+- Resource depletion is real — don't clear-cut all nearby deadwood in the first week (you'll need it for months)
+- Biodiversity = resilience — if one resource fails, you have alternatives. Don't rely on single material.
 - Quality > quantity in tool-making — one good knife beats five mediocre ones
+- Energy ROI: Only build projects where output > input (making a basket you'll use daily = yes, decorative carving = no)
 steps:
 - 'ASSESSMENT PHASE (first 2-3 days): Walk your area systematically. Note: water sources, rock types, tree species, plant materials, animal signs, terrain features. Draw a mental or physical map. Radius:
   15-30 minute walk from camp.'
@@ -55,3 +59,61 @@ steps:
 # Resource Assessment Matrix — What Can I Make?
 
 You have rocks, sticks, and plant material. What can you actually build? This matrix maps available resources to achievable projects, prioritized by survival value. Prevents wasting time on low-value or impossible projects.
+
+## COMMON FATAL MISTAKES
+
+### 1. SKIPPING TOOL PROGRESSION (Attempting Advanced Projects Too Soon)
+- **Mistake:** Trying to build log cabin without axe, or pottery without fire, or bow without knife
+- **Result:** Wasted days of effort, failed project, energy deficit, demoralization
+- **Avoid:** Follow tier progression. Master Tier 1-2 before attempting Tier 3-4.
+
+### 2. RESOURCE HOARDING (Gathering But Not Using)
+- **Mistake:** Collecting massive piles of materials "for later" but never building anything
+- **Result:** Rotting materials, wasted time gathering, no actual survival capability gained
+- **Avoid:** Build as you gather. Small functional project > large material pile.
+
+### 3. OVER-ENGINEERING (Perfectionism in Crisis)
+- **Mistake:** Spending 3 days on "perfect" shelter when 3-hour functional shelter would suffice
+- **Result:** Exposure deaths, energy wasted, other survival needs neglected
+- **Avoid:** Minimum Viable Product first. Improve later if time permits.
+
+### 4. IGNORING ENERGY ROI (Building Low-Value Projects)
+- **Mistake:** Making decorations, elaborate carvings, or unnecessary items before core needs met
+- **Result:** Caloric deficit, core survival tasks incomplete (no fire, inadequate shelter)
+- **Avoid:** Every project must answer: "Does this directly help me survive?" If no, defer.
+
+### 5. DEPLETING NEARBY RESOURCES (Clear-Cutting)
+- **Mistake:** Cutting all nearby firewood in Week 1, or stripping all bark from accessible trees
+- **Result:** Month 2-6, you're walking farther and farther for basic materials, exhausting yourself
+- **Avoid:** Sustainable harvesting. Take deadwood first, leave live trees. Rotate areas.
+
+### 6. SINGLE-RESOURCE DEPENDENCE (No Backup)
+- **Mistake:** "I only need pine bark for cordage" → pine trees get disease → no cordage
+- **Result:** Critical capability lost when single resource fails
+- **Avoid:** Learn 2-3 alternatives for each critical material (cordage, tinder, cutting tools).
+
+### 7. POOR QUALITY TOOLS (Many Bad Tools Instead of One Good One)
+- **Mistake:** Making 5 mediocre stone knives instead of 1 excellent hafted blade
+- **Result:** All 5 break quickly, inefficient cutting, frustration, more wasted time making replacements
+- **Avoid:** Quality > quantity. Take time to make durable, effective tools.
+
+### 8. NO PROTOTYPE TESTING (Building at Full Scale Immediately)
+- **Mistake:** Building full-size canoe without testing smaller version, or kiln-firing 20 pots without testing clay
+- **Result:** Catastrophic failure after massive time investment (canoe sinks, all pots explode)
+- **Avoid:** Prototype small first. Test material. Learn failure modes cheaply.
+
+### 9. IGNORING SEASONAL CONSTRAINTS (Wrong Time for Project)
+- **Mistake:** Starting agriculture in fall (no growing season), or hide tanning in freezing winter
+- **Result:** Project fails due to weather/season, or you freeze while working on non-urgent task
+- **Avoid:** See [l1-strategy-seasonal-planning] — align projects with seasons.
+
+### 10. SOLO COMPLEX PROJECTS (No Help When Needed)
+- **Mistake:** Attempting to lift/move large logs alone, or build shelter without assistance
+- **Result:** Injury (crushed by log), hernias, exhaustion, or incomplete project
+- **Avoid:** Know when to ask for help. Some projects require multiple people.
+
+---
+
+**See diagram:** `diagrams/resource-assessment-matrix.svg`
+
+**Tool progression is exponential:** Hands → Sharp rock (10x capability) → Knife (10x again) → Axe (10x again) → Fire (10x everything). Focus on unlocking the next tier, not perfecting current tier.

@@ -20,6 +20,7 @@ related_entries:
 - l1-medical-hypothermia
 - l1-strategy-environment-profiles
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Above 8,000 feet (2,400m), thin air causes altitude sickness (AMS). Symptoms: headache, nausea, fatigue. HACE (brain swelling) and HAPE (lung fluid) are life-threatening. The only cure is DESCENT.
   Prevent by ascending slowly (no more than 1,000 ft/day above 8,000 ft).'
 warnings:

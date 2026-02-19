@@ -15,7 +15,8 @@ sources:
 - us-army-fm-4-25-11
 related_entries:
 - l3-materials-wood-properties-guide
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Blacksmithing shapes iron and steel by heating and hammering. Essential for making durable tools (knives, axes, nails, hinges). Requires forge (high-temp fire), anvil (striking surface), hammer,
   tongs. Learning curve but invaluable long-term skill.
 warnings:

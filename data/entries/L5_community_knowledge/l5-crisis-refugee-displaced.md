@@ -18,7 +18,8 @@ sources:
 related_entries:
 - l5-crisis-civil-unrest-survival
 - l1-strategy-first-24-hours
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Forced displacement (war, persecution, disaster) requires survival skills for travel, hiding, border crossing, and evading threats. Based on military evasion tactics and refugee experiences. Priorities:
   stay hidden, move at night, avoid official checkpoints, find safe passage.'
 warnings:

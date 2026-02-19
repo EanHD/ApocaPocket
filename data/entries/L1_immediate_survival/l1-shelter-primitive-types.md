@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l1-shelter-tarp-configurations
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Emergency shelters from natural materials. Debris hut (insulated cocoon), lean-to (rain protection), A-frame (simple roof). Prioritize insulation and wind/rain protection. Takes 2-6 hours to build
   depending on type.
 warnings:

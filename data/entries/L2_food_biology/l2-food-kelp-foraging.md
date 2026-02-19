@@ -18,6 +18,7 @@ sources:
 related_entries:
 - l2-food-nori-seaweed
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Kelp (Laminaria and Macrocystis species) is a large brown seaweed found in cold coastal waters. Edible, nutritious, high in iodine and minerals. Can be eaten fresh, dried, or cooked. Important
   food source in coastal survival.
 warnings:

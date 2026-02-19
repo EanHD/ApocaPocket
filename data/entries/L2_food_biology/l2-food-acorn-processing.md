@@ -18,6 +18,7 @@ sources:
 related_entries:
 - l2-plants-southwest-pinyon-pine
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Acorns from oak trees are one of the most abundant wild foods in temperate regions. High in carbs and fat. BUT raw acorns contain bitter tannins (toxic in large amounts). Must be leached before
   eating. Two methods: cold water leaching (days) or hot water leaching (hours).'
 warnings:

@@ -15,7 +15,8 @@ sources:
 - us-army-fm-4-25-11
 related_entries:
 - l3-materials-natural-fibers
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Rope is essential for shelter, traps, tools, climbing, hauling. Natural cordage can be made from plant fibers, bark, roots, sinew, rawhide. Quick field methods for emergency cordage. Techniques:
   simple twist, reverse-wrap, braiding.'
 warnings:

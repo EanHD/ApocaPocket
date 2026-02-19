@@ -1,0 +1,77 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="15" text-anchor="middle" fill="cyan" font-size="14" font-family="monospace">BOW DRILL SETUP</text>
+  
+  <!-- Bow (curved stick with string) -->
+  <path d="M 30,80 Q 40,60 50,50" stroke="white" stroke-width="3" fill="none"/>
+  <line x1="30" y1="80" x2="50" y2="50" stroke="cyan" stroke-width="1.5"/>
+  <text x="15" y="70" fill="white" font-size="9" font-family="monospace">Bow</text>
+  
+  <!-- Spindle (vertical stick) -->
+  <line x1="120" y1="60" x2="120" y2="130" stroke="white" stroke-width="4"/>
+  <text x="130" y="90" fill="white" font-size="9" font-family="monospace">Spindle</text>
+  <text x="130" y="100" fill="gray" font-size="8" font-family="monospace">3/4" dia</text>
+  
+  <!-- Handhold (top piece) -->
+  <ellipse cx="120" cy="55" rx="12" ry="6" fill="gray" stroke="white" stroke-width="1"/>
+  <text x="75" y="45" fill="cyan" font-size="9" font-family="monospace">Handhold</text>
+  <text x="75" y="55" fill="cyan" font-size="8" font-family="monospace">(lubed)</text>
+  
+  <!-- Fireboard (bottom piece) -->
+  <rect x="85" y="130" width="70" height="12" fill="#333" stroke="white" stroke-width="1.5"/>
+  <text x="85" y="155" fill="white" font-size="9" font-family="monospace">Fireboard</text>
+  
+  <!-- V-notch detail -->
+  <circle cx="120" cy="136" r="4" stroke="orange" stroke-width="1.5" fill="none"/>
+  <line x1="120" y1="136" x2="120" y2="145" stroke="orange" stroke-width="2"/>
+  <path d="M 120,136 L 115,140 M 120,136 L 125,140" stroke="orange" stroke-width="1.5"/>
+  <text x="130" y="140" fill="orange" font-size="8" font-family="monospace">V-notch</text>
+  
+  <!-- String wrapped around spindle -->
+  <line x1="40" y1="65" x2="120" y2="95" stroke="cyan" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <text x="60" y="75" fill="cyan" font-size="8" font-family="monospace">String wrap</text>
+  
+  <!-- Ember dust collection -->
+  <ellipse cx="120" cy="150" rx="8" ry="3" fill="orange" opacity="0.6"/>
+  <text x="130" y="152" fill="orange" font-size="8" font-family="monospace">Dust</text>
+  
+  <!-- Pressure arrow -->
+  <line x1="120" y1="30" x2="120" y2="45" stroke="yellow" stroke-width="2"/>
+  <polygon points="120,45 117,40 123,40" fill="yellow"/>
+  <text x="125" y="38" fill="yellow" font-size="9" font-family="monospace">Pressure</text>
+  <text x="125" y="48" fill="yellow" font-size="8" font-family="monospace">20-30 lbs</text>
+  
+  <!-- Motion arrows -->
+  <line x1="20" y1="100" x2="10" y2="100" stroke="cyan" stroke-width="2"/>
+  <polygon points="10,100 14,97 14,103" fill="cyan"/>
+  <line x1="60" y1="100" x2="70" y2="100" stroke="cyan" stroke-width="2"/>
+  <polygon points="70,100 66,97 66,103" fill="cyan"/>
+  <text x="15" y="113" fill="cyan" font-size="9" font-family="monospace">Bow motion</text>
+  <text x="15" y="123" fill="cyan" font-size="8" font-family="monospace">60-80/min</text>
+  
+  <!-- Side view diagram -->
+  <text x="165" y="30" fill="cyan" font-size="10" font-family="monospace">SIDE VIEW</text>
+  
+  <!-- Body position simplified -->
+  <circle cx="190" cy="60" r="8" stroke="white" stroke-width="1" fill="none"/>
+  <line x1="190" y1="68" x2="190" y2="90" stroke="white" stroke-width="2"/>
+  <line x1="190" y1="75" x2="175" y2="85" stroke="white" stroke-width="2"/>
+  <line x1="190" y1="75" x2="205" y2="65" stroke="white" stroke-width="2"/>
+  <line x1="190" y1="90" x2="175" y2="110" stroke="white" stroke-width="2"/>
+  <line x1="190" y1="90" x2="205" y2="110" stroke="white" stroke-width="2"/>
+  <text x="165" y="125" fill="white" font-size="8" font-family="monospace">Kneeling</text>
+  <text x="165" y="135" fill="white" font-size="8" font-family="monospace">position</text>
+  
+  <!-- Key dimensions -->
+  <text x="10" y="180" fill="white" font-size="9" font-family="monospace">CRITICAL POINTS:</text>
+  <text x="10" y="195" fill="cyan" font-size="8" font-family="monospace">• Vertical spindle</text>
+  <text x="10" y="207" fill="cyan" font-size="8" font-family="monospace">• Full bow strokes</text>
+  <text x="10" y="219" fill="cyan" font-size="8" font-family="monospace">• Speed + pressure</text>
+  <text x="10" y="231" fill="cyan" font-size="8" font-family="monospace">• Bone-dry wood</text>
+  
+  <text x="130" y="195" fill="orange" font-size="8" font-family="monospace">Ember forms in</text>
+  <text x="130" y="207" fill="orange" font-size="8" font-family="monospace">V-notch dust</text>
+  <text x="130" y="219" fill="orange" font-size="8" font-family="monospace">(30-45 sec)</text>
+</svg>

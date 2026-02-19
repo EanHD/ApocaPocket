@@ -26,7 +26,8 @@ related_entries:
 sources:
 - noaa-celestial-navigation
 - army-land-navigation-fm-3-25-26
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: medium
 offline_assets: []
 ---

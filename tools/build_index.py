@@ -81,54 +81,68 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     init_db(conn)
 
+    errors = []
     for f in sorted(ENTRY_ROOT.rglob("*.md")):
-        text = f.read_text(encoding="utf-8")
-        meta, body = parse_front_matter(text)
-        if not isinstance(meta, dict):
+        try:
+            text = f.read_text(encoding="utf-8")
+            meta, body = parse_front_matter(text)
+            if not isinstance(meta, dict):
+                continue
+
+            tags = ",".join(meta.get("tags", []))
+            regions = ",".join(meta.get("region_relevance", []))
+            steps = "\n".join(str(s) for s in meta.get("steps", []))
+            warnings = "\n".join(str(w) for w in meta.get("warnings", []))
+
+            conn.execute(
+                """
+                INSERT INTO entries (id,title,category,subtopic,tags,region_relevance,summary,steps,warnings,last_verified,confidence,body,path)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
+                """,
+                (
+                    meta.get("id"),
+                    meta.get("title"),
+                    meta.get("category"),
+                    meta.get("subtopic"),
+                    tags,
+                    regions,
+                    meta.get("summary"),
+                    steps,
+                    warnings,
+                    meta.get("last_verified"),
+                    meta.get("confidence"),
+                    body,
+                    str(f.relative_to(ROOT)),
+                ),
+            )
+
+            conn.execute(
+                "INSERT INTO entries_fts (id,title,summary,steps,warnings,tags,body) VALUES (?,?,?,?,?,?,?)",
+                (meta.get("id"), meta.get("title"), meta.get("summary"), steps, warnings, tags, body),
+            )
+
+            for rid in meta.get("related_entries", []):
+                conn.execute("INSERT INTO relations (entry_id, related_id, relation_type) VALUES (?,?,?)", (meta.get("id"), rid, "related"))
+
+            for sid in meta.get("sources", []):
+                conn.execute("INSERT INTO entry_sources (entry_id, source_id) VALUES (?,?)", (meta.get("id"), sid))
+        
+        except Exception as e:
+            errors.append(f"{f.relative_to(ROOT)}: {e}")
             continue
-
-        tags = ",".join(meta.get("tags", []))
-        regions = ",".join(meta.get("region_relevance", []))
-        steps = "\n".join(meta.get("steps", []))
-        warnings = "\n".join(meta.get("warnings", []))
-
-        conn.execute(
-            """
-            INSERT INTO entries (id,title,category,subtopic,tags,region_relevance,summary,steps,warnings,last_verified,confidence,body,path)
-            VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
-            """,
-            (
-                meta.get("id"),
-                meta.get("title"),
-                meta.get("category"),
-                meta.get("subtopic"),
-                tags,
-                regions,
-                meta.get("summary"),
-                steps,
-                warnings,
-                meta.get("last_verified"),
-                meta.get("confidence"),
-                body,
-                str(f.relative_to(ROOT)),
-            ),
-        )
-
-        conn.execute(
-            "INSERT INTO entries_fts (id,title,summary,steps,warnings,tags,body) VALUES (?,?,?,?,?,?,?)",
-            (meta.get("id"), meta.get("title"), meta.get("summary"), steps, warnings, tags, body),
-        )
-
-        for rid in meta.get("related_entries", []):
-            conn.execute("INSERT INTO relations (entry_id, related_id, relation_type) VALUES (?,?,?)", (meta.get("id"), rid, "related"))
-
-        for sid in meta.get("sources", []):
-            conn.execute("INSERT INTO entry_sources (entry_id, source_id) VALUES (?,?)", (meta.get("id"), sid))
 
     conn.commit()
 
     n_entries = conn.execute("SELECT COUNT(*) FROM entries").fetchone()[0]
     print(f"Built index at {DB_PATH} with {n_entries} entries.")
+    
+    if errors:
+        print(f"\n⚠️  {len(errors)} entries had errors and were skipped:")
+        for err in errors[:10]:  # Show first 10
+            print(f"  - {err}")
+        if len(errors) > 10:
+            print(f"  ... and {len(errors) - 10} more")
+    
     conn.close()
 
 

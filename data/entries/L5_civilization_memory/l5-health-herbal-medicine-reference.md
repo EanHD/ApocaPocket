@@ -59,7 +59,8 @@ steps:
   or root applied to affected area. NEVER TAKE INTERNALLY — contains pyrrolizidine alkaloids that cause liver failure. EVIDENCE: Strong for topical musculoskeletal use.'
 - 'TEA TREE (Melaleuca alternifolia) — Antiseptic. USE: wound disinfection, fungal infections, insect repellent. DOSE: dilute essential oil (if available) with carrier oil; or steep fresh leaves for antimicrobial
   wash. EVIDENCE: Strong — antimicrobial and antifungal properties well-established. NOT for internal use.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Evidence-Based Herbal Medicine — 15 Key Plants

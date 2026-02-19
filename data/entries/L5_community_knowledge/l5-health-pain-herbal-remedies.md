@@ -16,7 +16,8 @@ sources:
 - peterson-field-guides-medicinal-plants
 related_entries:
 - l1-medical-fracture-splinting
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Several wild plants contain compounds that reduce pain and inflammation. Not as effective as modern painkillers but can provide relief for headaches, muscle pain, minor injuries when pharmaceuticals
   are unavailable.
 warnings:

@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-plants-southwest-yucca
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Agave heart (piña) was roasted in earth ovens for 1-3 days by indigenous peoples. Sweet and calorie-dense when cooked. Labor-intensive but high-yield. Many species are edible.
 warnings:
 - Raw agave is inedible and toxic

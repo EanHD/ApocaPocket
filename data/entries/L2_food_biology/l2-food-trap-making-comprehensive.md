@@ -16,6 +16,7 @@ sources:
 related_entries:
 - l2-food-rabbit-squirrel-processing
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Traps catch game while you sleep or work. Snares (wire loops that tighten), deadfalls (weight crushes animal), pit traps. Set multiple traps (increase odds). Check daily. Illegal in most areas
   except survival.
 warnings:

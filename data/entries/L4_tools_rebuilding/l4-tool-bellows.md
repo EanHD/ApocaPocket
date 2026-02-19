@@ -32,7 +32,8 @@ related_entries:
 sources:
 - mit-ocw-mechanical-engineering
 - nols-wilderness-guide
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: medium
 offline_assets: []
 ---

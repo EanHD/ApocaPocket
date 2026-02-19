@@ -23,6 +23,7 @@ related_entries:
 - l1-fire-wood-selection
 - l1-fire-bow-drill-detailed
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Rain and snow make fire starting dramatically harder. Success requires finding dry fuel sources, creating a dry platform, using a top-down fire lay, and protecting the fire from wind and precipitation
   during the critical ignition phase.
 warnings:

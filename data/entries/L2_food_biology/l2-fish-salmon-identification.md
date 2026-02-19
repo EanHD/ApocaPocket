@@ -20,6 +20,7 @@ related_entries:
 - l2-fish-trout-identification
 - l2-food-fish-smoking
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Salmon (Oncorhynchus and Salmo species) are anadromous fish (spawn in freshwater, live in ocean). Return to rivers in huge runs (seasonal). Extremely high in fat and calories - one of the best
   survival fish. Pacific salmon die after spawning.
 warnings:

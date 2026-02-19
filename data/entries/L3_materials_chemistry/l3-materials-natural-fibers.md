@@ -17,7 +17,8 @@ sources:
 related_entries:
 - l3-materials-rope-making
 - l2-plants-identification-protocol
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Many plants produce strong fibers suitable for cordage (rope, string), textiles (cloth, baskets), and other uses. Best fibers: flax, hemp, nettle, yucca, cattail, milkweed, dogbane, inner bark
   of trees. Processing: harvest, ret (rot away non-fiber material), dry, twist into cordage.'
 warnings:

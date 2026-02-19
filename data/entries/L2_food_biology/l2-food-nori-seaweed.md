@@ -18,6 +18,7 @@ sources:
 related_entries:
 - l2-food-kelp-foraging
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Nori (Porphyra species), also called laver, is a red/purple seaweed that grows on rocks in intertidal zones. Edible raw or dried. High in protein compared to other seaweeds. Familiar as sushi wrapper.
 warnings:
 - Harvest from clean water only

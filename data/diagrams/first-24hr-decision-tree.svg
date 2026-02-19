@@ -1,0 +1,63 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="15" fill="#FFFF00" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">FIRST 24 HOURS</text>
+  
+  <!-- Timeline labels -->
+  <text x="10" y="35" fill="#FFFF00" font-family="monospace" font-size="7">0-5min</text>
+  <text x="10" y="60" fill="#FFFF00" font-family="monospace" font-size="7">5-15min</text>
+  <text x="10" y="85" fill="#FFFF00" font-family="monospace" font-size="7">1-3hr</text>
+  <text x="10" y="110" fill="#FFFF00" font-family="monospace" font-size="7">3-6hr</text>
+  <text x="10" y="135" fill="#FFFF00" font-family="monospace" font-size="7">6-12hr</text>
+  <text x="10" y="160" fill="#FFFF00" font-family="monospace" font-size="7">12-24hr</text>
+  <text x="10" y="185" fill="#FFFF00" font-family="monospace" font-size="7">24hr+</text>
+  
+  <!-- Decision boxes -->
+  <rect x="80" y="25" width="80" height="18" fill="none" stroke="#00FFFF" stroke-width="1"/>
+  <text x="120" y="37" fill="#00FFFF" font-family="monospace" font-size="9" text-anchor="middle">INJURED?</text>
+  <text x="215" y="37" fill="#FFFF00" font-family="monospace" font-size="7" text-anchor="end">YES→TREAT</text>
+  
+  <line x1="120" y1="43" x2="120" y2="50" stroke="#00FFFF" stroke-width="1"/>
+  <polygon points="120,50 117,47 123,47" fill="#00FFFF"/>
+  
+  <rect x="70" y="50" width="100" height="18" fill="none" stroke="#00FFFF" stroke-width="1"/>
+  <text x="120" y="62" fill="#00FFFF" font-family="monospace" font-size="9" text-anchor="middle">SHELTER THREAT?</text>
+  <text x="215" y="62" fill="#FFFF00" font-family="monospace" font-size="7" text-anchor="end">YES→URGENT</text>
+  
+  <line x1="120" y1="68" x2="120" y2="75" stroke="#00FFFF" stroke-width="1"/>
+  <polygon points="120,75 117,72 123,72" fill="#00FFFF"/>
+  
+  <!-- Action boxes -->
+  <rect x="75" y="75" width="90" height="16" fill="#00FFFF" fill-opacity="0.2"/>
+  <text x="120" y="87" fill="#FFFFFF" font-family="monospace" font-size="8" text-anchor="middle">BUILD SHELTER</text>
+  
+  <line x1="120" y1="91" x2="120" y2="100" stroke="#00FFFF" stroke-width="1"/>
+  <polygon points="120,100 117,97 123,97" fill="#00FFFF"/>
+  
+  <rect x="75" y="100" width="90" height="16" fill="#00FFFF" fill-opacity="0.2"/>
+  <text x="120" y="112" fill="#FFFFFF" font-family="monospace" font-size="8" text-anchor="middle">LOCATE WATER</text>
+  
+  <line x1="120" y1="116" x2="120" y2="125" stroke="#00FFFF" stroke-width="1"/>
+  <polygon points="120,125 117,122 123,122" fill="#00FFFF"/>
+  
+  <rect x="75" y="125" width="90" height="16" fill="#00FFFF" fill-opacity="0.2"/>
+  <text x="120" y="137" fill="#FFFFFF" font-family="monospace" font-size="8" text-anchor="middle">START FIRE</text>
+  
+  <line x1="120" y1="141" x2="120" y2="150" stroke="#00FFFF" stroke-width="1"/>
+  <polygon points="120,150 117,147 123,147" fill="#00FFFF"/>
+  
+  <rect x="75" y="150" width="90" height="16" fill="#00FFFF" fill-opacity="0.2"/>
+  <text x="120" y="162" fill="#FFFFFF" font-family="monospace" font-size="8" text-anchor="middle">SIGNALING</text>
+  
+  <line x1="120" y1="166" x2="120" y2="175" stroke="#00FFFF" stroke-width="1"/>
+  <polygon points="120,175 117,172 123,172" fill="#00FFFF"/>
+  
+  <rect x="75" y="175" width="90" height="16" fill="#00FFFF" fill-opacity="0.2"/>
+  <text x="120" y="187" fill="#FFFFFF" font-family="monospace" font-size="8" text-anchor="middle">FOOD PLANNING</text>
+  
+  <!-- Legend -->
+  <text x="120" y="205" fill="#FFFF00" font-family="monospace" font-size="7" text-anchor="middle">RULE OF 3s:</text>
+  <text x="120" y="215" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">3min air | 3hr shelter</text>
+  <text x="120" y="225" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">3day water | 3wk food</text>
+</svg>

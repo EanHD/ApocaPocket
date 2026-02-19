@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <defs>
+    <style>
+      .title { font: bold 14px monospace; fill: #fff; }
+      .label { font: 10px monospace; fill: #fff; }
+      .safe { fill: #00dddd; }
+      .danger { fill: #ff4444; }
+      .bg-safe { fill: #003333; }
+      .bg-danger { fill: #330000; }
+      .leaf-cattail { fill: #6b9b6e; stroke: #4a7c4e; stroke-width: 1.5; }
+      .leaf-iris { fill: #7090b0; stroke: #506080; stroke-width: 1.5; }
+      .midrib { stroke: #ffffff; stroke-width: 2; stroke-dasharray: 3,2; }
+    </style>
+  </defs>
+  
+  <!-- CATTAIL (LEFT - SAFE) -->
+  <rect x="0" y="0" width="240" height="240" class="bg-safe"/>
+  <text x="120" y="20" text-anchor="middle" class="title safe">✓ CATTAIL (SAFE) ✓</text>
+  <text x="120" y="35" text-anchor="middle" class="label">(Typha latifolia)</text>
+  
+  <!-- Cattail leaves (parallel, no midrib) -->
+  <path d="M 100,60 Q 95,120 90,180" class="leaf-cattail"/>
+  <path d="M 110,60 Q 108,120 105,180" class="leaf-cattail"/>
+  <path d="M 120,60 Q 120,120 120,180" class="leaf-cattail"/>
+  <path d="M 130,60 Q 132,120 135,180" class="leaf-cattail"/>
+  <path d="M 140,60 Q 145,120 150,180" class="leaf-cattail"/>
+  
+  <!-- Parallel vein lines (no midrib) -->
+  <line x1="115" y1="90" x2="114" y2="150" stroke="#4a7c4e" stroke-width="0.5" opacity="0.6"/>
+  <line x1="118" y1="90" x2="118" y2="150" stroke="#4a7c4e" stroke-width="0.5" opacity="0.6"/>
+  <line x1="121" y1="90" x2="121" y2="150" stroke="#4a7c4e" stroke-width="0.5" opacity="0.6"/>
+  <line x1="124" y1="90" x2="124" y2="150" stroke="#4a7c4e" stroke-width="0.5" opacity="0.6"/>
+  
+  <text x="160" y="120" class="label safe">Parallel veins</text>
+  <text x="160" y="132" class="label safe">NO midrib</text>
+  
+  <!-- Leaf cross-section -->
+  <rect x="30" y="100" width="60" height="40" fill="#003333" stroke="#00dddd" stroke-width="2"/>
+  <text x="60" y="95" text-anchor="middle" class="label safe">Cross-section:</text>
+  <path d="M 45,120 Q 60,115 75,120" fill="none" class="leaf-cattail" stroke-width="3"/>
+  <text x="35" y="150" class="label safe">Slightly</text>
+  <text x="35" y="162" class="label safe">curved,</text>
+  <text x="35" y="174" class="label safe">flat</text>
+  
+  <!-- Leaves emerge from base -->
+  <ellipse cx="120" cy="185" rx="30" ry="8" fill="#6b9b6e" stroke="#4a7c4e" stroke-width="1"/>
+  <text x="80" y="210" class="label safe">Leaves wrap</text>
+  <text x="80" y="222" class="label safe">around each</text>
+  <text x="80" y="234" class="label safe">other at base</text>
+  
+  <!-- POISON IRIS (RIGHT - DANGER) -->
+  <rect x="240" y="0" width="240" height="240" class="bg-danger"/>
+  <text x="360" y="20" text-anchor="middle" class="title danger">⚠ POISON IRIS ⚠</text>
+  <text x="360" y="35" text-anchor="middle" class="label">(Iris species - TOXIC)</text>
+  
+  <!-- Iris leaves (fan arrangement) -->
+  <path d="M 360,180 Q 340,120 320,60" class="leaf-iris"/>
+  <path d="M 360,180 Q 345,120 335,60" class="leaf-iris"/>
+  <path d="M 360,180 Q 355,120 352,60" class="leaf-iris"/>
+  <path d="M 360,180 Q 365,120 368,60" class="leaf-iris"/>
+  <path d="M 360,180 Q 375,120 385,60" class="leaf-iris"/>
+  <path d="M 360,180 Q 380,120 400,60" class="leaf-iris"/>
+  
+  <!-- Prominent MIDRIB on one leaf -->
+  <line x1="358" y1="65" x2="360" y2="175" class="midrib"/>
+  <text x="250" y="110" class="label danger">MIDRIB down</text>
+  <text x="250" y="122" class="label danger">center of</text>
+  <text x="250" y="134" class="label danger">each leaf!</text>
+  
+  <line x1="290" y1="115" x2="350" y2="120" stroke="#ff4444" stroke-width="2"/>
+  
+  <!-- Leaf cross-section -->
+  <rect x="390" y="100" width="60" height="40" fill="#330000" stroke="#ff4444" stroke-width="2"/>
+  <text x="420" y="95" text-anchor="middle" class="label danger">Cross-section:</text>
+  <path d="M 405,120 Q 420,110 435,120" fill="none" class="leaf-iris" stroke-width="3"/>
+  <line x1="420" y1="110" x2="420" y2="125" class="midrib"/>
+  <text x="395" y="150" class="label danger">V-shaped</text>
+  <text x="395" y="162" class="label danger">with</text>
+  <text x="395" y="174" class="label danger">MIDRIB</text>
+  
+  <!-- Fan arrangement at base -->
+  <ellipse cx="360" cy="185" rx="35" ry="10" fill="#7090b0" stroke="#506080" stroke-width="1"/>
+  <text x="300" y="210" class="label danger">Leaves FAN out</text>
+  <text x="300" y="222" class="label danger">from center</text>
+  <text x="300" y="234" class="label danger">(like a hand)</text>
+  
+  <!-- Bottom critical note -->
+  <rect x="0" y="225" width="480" height="15" fill="#000" opacity="0.7"/>
+  <text x="240" y="237" text-anchor="middle" style="font: bold 11px monospace; fill: #ffff00;">If you see a MIDRIB or FAN arrangement → IRIS (TOXIC) → DO NOT EAT!</text>
+</svg>

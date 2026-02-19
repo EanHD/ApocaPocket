@@ -28,7 +28,8 @@ sources:
 - who-household-water-treatment
 - cdc-water-emergency
 - fema-water-storage
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

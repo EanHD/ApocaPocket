@@ -49,7 +49,8 @@ steps:
 - 'HEAT TREATMENT — TEMPERING: immediately after hardening, polish one flat surface with sandstone until shiny. Heat gently (near coals, not in them) and watch oxide colors appear on the polished surface:
   Pale yellow (220°C) = razors, engraving tools. Straw yellow (240°C) = knives, chisels. Brown (260°C) = axes, scissors. Blue (300°C) = springs, saws. When desired color reaches the cutting edge, quench
   immediately.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Blacksmithing Fundamentals — Forge, Anvil, Techniques

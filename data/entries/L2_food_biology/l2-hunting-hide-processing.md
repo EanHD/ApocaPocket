@@ -20,6 +20,7 @@ related_entries:
 - l3-chemistry-tanning-leather
 - l2-hunting-bone-tools
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Brain tanning converts raw animal hide into soft, durable buckskin leather using only the animal''s own brain. ''Every animal has enough brains to tan its own hide'' is literally true. The process
   takes 3-5 days of intermittent work. Result: soft, washable leather for clothing, bags, and moccasins.'
 warnings:

@@ -20,6 +20,7 @@ related_entries:
 - l2-nutrition-pemmican
 - l2-meat-preservation
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Jerky is lean meat dried to below 15% moisture, creating a lightweight, shelf-stable protein source. 5 lbs of raw meat yields about 1 lb of jerky. Properly made jerky lasts 1-2 months unrefrigerated,
   or 6+ months in cool/dry storage. Critical: only use LEAN meat — fat goes rancid.'
 warnings:

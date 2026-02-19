@@ -9,6 +9,7 @@ confidence: high
 sources: [peterson-field-guides-edible-wild-plants, usda-plants-database]
 related_entries: [l2-plants-huckleberry, l2-plants-spring-foraging-calendar]
 last_verified: 2026-02-18
+audit_status: verified
 summary: Salal (Gaultheria shallon) is the most abundant edible shrub in the Pacific Northwest coastal forests. Dark purple berries, similar to blueberries but mealier. Harvest August-October. Highly productive. Indigenous peoples made pemmican and fruit leather from salal.
 warnings: [Salal berries are edible raw but somewhat bland and mealy, Heavy consumption can cause mild constipation (high tannin content), Salal leaves are tough and evergreen — do not eat leaves]
 steps:

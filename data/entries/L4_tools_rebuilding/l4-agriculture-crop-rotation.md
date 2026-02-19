@@ -31,7 +31,8 @@ sources:
 - usda-extension-seed-saving
 - fao-soils-portal
 - usda-nrcs-soil-health
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

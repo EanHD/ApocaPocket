@@ -19,6 +19,7 @@ related_entries:
 - l1-medical-splint-types
 - l1-medical-fracture-stabilization
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Dislocations occur when a bone is forced out of its joint socket. Shoulders and fingers are most common. Field reduction (putting the joint back) should only be attempted when medical care is unavailable
   — improper technique can cause nerve and blood vessel damage.
 warnings:

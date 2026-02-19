@@ -19,7 +19,8 @@ related_entries:
 - l4-electricity-solar-principles
 - l4-electricity-battery-chemistry
 - l4-electricity-ohms-law
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'A basic solar system for survival: panel → charge controller → battery → loads. Even a single 20W panel can charge radios, flashlights, phones (communication), and medical devices. Understanding
   the math prevents wasted panels and dead batteries.'
 warnings:

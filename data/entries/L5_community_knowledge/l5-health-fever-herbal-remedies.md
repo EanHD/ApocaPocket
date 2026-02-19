@@ -17,7 +17,8 @@ sources:
 related_entries:
 - l1-medical-hypothermia
 - l1-medical-dehydration-ors
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Fever is the body fighting infection. Mild fever (under 102F) helps immune response. High fever (over 103F) is dangerous. Some herbs reduce fever by promoting sweating (diaphoretics) or contain
   aspirin-like compounds. Hydration is most important.
 warnings:

@@ -20,6 +20,7 @@ related_entries:
 - l1-fire-tinder-identification
 - l1-fire-bow-drill-detailed
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Char cloth is cotton fabric converted to carbon through pyrolysis (heating without oxygen). It catches the smallest sparks from flint-and-steel, ferro rods, or even bow drill embers. One batch
   lasts months. Essential for primitive and traditional fire starting.
 warnings:

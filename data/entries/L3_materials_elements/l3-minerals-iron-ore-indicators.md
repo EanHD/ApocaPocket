@@ -18,7 +18,8 @@ sources:
 related_entries:
 - l3-minerals-ore-recognition
 - l5-metallurgy-iron-smelting
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Recognizing iron deposits in the field. Magnetite and hematite are the primary ores. Limonite and bog iron are easier to smelt but lower grade. Surface indicators help locate workable deposits
   for primitive iron production.
 warnings:

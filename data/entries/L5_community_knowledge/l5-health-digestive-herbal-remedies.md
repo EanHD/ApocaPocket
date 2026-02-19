@@ -17,7 +17,8 @@ sources:
 related_entries:
 - l2-plants-identification-protocol
 - l1-medical-dehydration-ors
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Many wild plants have traditional use for digestive issues (diarrhea, nausea, stomach cramps). Not replacements for modern medicine but can provide relief when medical care is unavailable. Learn
   identification carefully.
 warnings:

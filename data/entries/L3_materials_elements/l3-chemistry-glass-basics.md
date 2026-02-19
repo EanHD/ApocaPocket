@@ -19,7 +19,8 @@ related_entries:
 - l3-chemistry-cement-basics
 - l3-chemistry-lime-production
 - l4-tool-kiln-principles
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Glass is melted silica (sand) + flux (soda ash or potash) + stabilizer (lime). Requires 1400-1600°C sustained temperature. Primitive glass (bottle green, full of bubbles) is achievable with a forced-air
   furnace and local materials.
 warnings:

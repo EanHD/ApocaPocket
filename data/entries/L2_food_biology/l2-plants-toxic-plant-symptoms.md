@@ -49,6 +49,7 @@ steps:
 - 'PREVENTION: learn to identify the 10 most dangerous plants in your region. Avoid: white/yellow berries, umbrella-shaped flower clusters, plants with milky sap (except dandelion/milkweed), three-leaf
   patterns near ground level, anything with an almond scent when crushed.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Toxic Plant Poisoning — Symptom Recognition by Toxin Class

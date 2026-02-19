@@ -21,6 +21,7 @@ related_entries:
 - l2-plants-stinging-nettle
 - l5-health-herbal-medicine-reference
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Wild teas provide hydration, vitamins, medicinal benefits, and psychological comfort. Most require only hot water and 5-10 minutes steeping. This guide covers 20 common wild tea plants, their preparation,
   and uses.
 warnings:

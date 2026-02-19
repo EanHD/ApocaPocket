@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-fish-bass-identification
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Catfish (Ictalurus and related species) are bottom-dwelling fish with whisker-like barbels. Easy to catch (scavengers, eat almost anything). No scales but have tough skin. Excellent eating when
   cleaned properly.
 warnings:

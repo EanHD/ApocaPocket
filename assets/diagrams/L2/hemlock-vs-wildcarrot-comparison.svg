@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <defs>
+    <style>
+      .title { font: bold 14px monospace; fill: #fff; }
+      .label { font: 11px monospace; fill: #fff; }
+      .danger { fill: #ff4444; }
+      .safe { fill: #00dddd; }
+      .bg-danger { fill: #330000; }
+      .bg-safe { fill: #003333; }
+      .stem { stroke-width: 3; fill: none; }
+      .leaf { fill: #4a7c4e; stroke: #2d5a2f; stroke-width: 0.5; }
+      .flower { fill: #fff; stroke: #ccc; stroke-width: 0.5; }
+      .root { fill: #d4c5a0; stroke: #8b7355; stroke-width: 1; }
+    </style>
+  </defs>
+  
+  <!-- POISON HEMLOCK (LEFT - DANGER) -->
+  <rect x="0" y="0" width="240" height="240" class="bg-danger"/>
+  <text x="120" y="20" text-anchor="middle" class="title danger">⚠ POISON HEMLOCK ⚠</text>
+  <text x="120" y="35" text-anchor="middle" class="label">(Conium maculatum)</text>
+  
+  <!-- Purple-blotched stem -->
+  <line x1="120" y1="220" x2="120" y2="100" stroke="#6b9b6e" class="stem"/>
+  <rect x="115" y="180" width="10" height="15" fill="#8b4789" opacity="0.7"/>
+  <rect x="115" y="150" width="10" height="12" fill="#6d3a6b" opacity="0.7"/>
+  <rect x="115" y="120" width="10" height="10" fill="#8b4789" opacity="0.7"/>
+  <text x="150" y="155" class="label danger">← Purple blotches</text>
+  <text x="150" y="168" class="label danger">on SMOOTH stem</text>
+  
+  <!-- Fern-like leaves -->
+  <path d="M 120,140 Q 90,130 75,125 M 120,140 Q 95,135 85,132 M 120,140 Q 98,138 90,136" stroke="#4a7c4e" stroke-width="1.5" fill="none"/>
+  <path d="M 120,140 Q 150,130 165,125 M 120,140 Q 145,135 155,132 M 120,140 Q 142,138 150,136" stroke="#4a7c4e" stroke-width="1.5" fill="none"/>
+  <circle cx="75" cy="125" r="3" class="leaf"/>
+  <circle cx="85" cy="132" r="3" class="leaf"/>
+  <circle cx="90" cy="136" r="3" class="leaf"/>
+  <circle cx="165" cy="125" r="3" class="leaf"/>
+  <circle cx="155" cy="132" r="3" class="leaf"/>
+  <circle cx="150" cy="136" r="3" class="leaf"/>
+  <text x="30" y="128" class="label danger">Fern-like</text>
+  <text x="30" y="140" class="label danger">divided</text>
+  
+  <!-- White umbel flowers -->
+  <circle cx="110" cy="85" r="4" class="flower"/>
+  <circle cx="120" cy="80" r="4" class="flower"/>
+  <circle cx="130" cy="85" r="4" class="flower"/>
+  <circle cx="115" cy="90" r="4" class="flower"/>
+  <circle cx="125" cy="90" r="4" class="flower"/>
+  <text x="140" y="88" class="label danger">White umbel</text>
+  <text x="140" y="100" class="label danger">(no purple center)</text>
+  
+  <!-- Root -->
+  <ellipse cx="120" cy="228" rx="8" ry="12" class="root"/>
+  <text x="50" y="233" class="label danger">White taproot</text>
+  
+  <!-- Smell indicator -->
+  <text x="10" y="60" class="label danger">SMELL:</text>
+  <text x="10" y="72" class="label danger">Mousy/musty</text>
+  <text x="10" y="84" class="label danger">urine odor</text>
+  
+  <!-- Height -->
+  <text x="200" y="220" class="label danger">4-10 ft tall</text>
+  
+  <!-- WILD CARROT (RIGHT - SAFE) -->
+  <rect x="240" y="0" width="240" height="240" class="bg-safe"/>
+  <text x="360" y="20" text-anchor="middle" class="title safe">✓ WILD CARROT (SAFE) ✓</text>
+  <text x="360" y="35" text-anchor="middle" class="label">(Daucus carota)</text>
+  
+  <!-- Hairy green stem -->
+  <line x1="360" y1="220" x2="360" y2="100" stroke="#6b9b6e" class="stem"/>
+  <!-- Hairs on stem -->
+  <line x1="357" y1="180" x2="353" y2="178" stroke="#8b9b8e" stroke-width="0.5"/>
+  <line x1="363" y1="180" x2="367" y2="178" stroke="#8b9b8e" stroke-width="0.5"/>
+  <line x1="357" y1="150" x2="353" y2="148" stroke="#8b9b8e" stroke-width="0.5"/>
+  <line x1="363" y1="150" x2="367" y2="148" stroke="#8b9b8e" stroke-width="0.5"/>
+  <line x1="357" y1="120" x2="353" y2="118" stroke="#8b9b8e" stroke-width="0.5"/>
+  <line x1="363" y1="120" x2="367" y2="118" stroke="#8b9b8e" stroke-width="0.5"/>
+  <text x="390" y="155" class="label safe">← HAIRY stem</text>
+  <text x="390" y="168" class="label safe">(NO purple)</text>
+  
+  <!-- Compound leaves -->
+  <path d="M 360,140 Q 330,130 315,125 M 360,140 Q 335,135 325,132 M 360,140 Q 338,138 330,136" stroke="#4a7c4e" stroke-width="1.5" fill="none"/>
+  <path d="M 360,140 Q 390,130 405,125 M 360,140 Q 385,135 395,132 M 360,140 Q 382,138 390,136" stroke="#4a7c4e" stroke-width="1.5" fill="none"/>
+  <circle cx="315" cy="125" r="3" class="leaf"/>
+  <circle cx="325" cy="132" r="3" class="leaf"/>
+  <circle cx="330" cy="136" r="3" class="leaf"/>
+  <circle cx="405" cy="125" r="3" class="leaf"/>
+  <circle cx="395" cy="132" r="3" class="leaf"/>
+  <circle cx="390" cy="136" r="3" class="leaf"/>
+  <text x="270" y="128" class="label safe">Lacy</text>
+  <text x="270" y="140" class="label safe">divided</text>
+  
+  <!-- White umbel with PURPLE CENTER -->
+  <circle cx="350" cy="85" r="4" class="flower"/>
+  <circle cx="360" cy="80" r="4" class="flower"/>
+  <circle cx="370" cy="85" r="4" class="flower"/>
+  <circle cx="355" cy="90" r="4" class="flower"/>
+  <circle cx="365" cy="90" r="4" class="flower"/>
+  <circle cx="360" cy="85" r="2" fill="#8b4789"/>
+  <text x="380" y="83" class="label safe">Purple/dark</text>
+  <text x="380" y="95" class="label safe">CENTER flower!</text>
+  
+  <!-- Carrot root -->
+  <path d="M 360,220 L 360,235 L 355,238 L 360,240 L 365,238 Z" class="root"/>
+  <text x="290" y="233" class="label safe">Carrot-like root</text>
+  
+  <!-- Smell indicator -->
+  <text x="250" y="60" class="label safe">SMELL:</text>
+  <text x="250" y="72" class="label safe">CARROT</text>
+  <text x="250" y="84" class="label safe">scent!</text>
+  
+  <!-- Height -->
+  <text x="440" y="220" class="label safe">2-4 ft</text>
+  
+  <!-- Bottom comparison -->
+  <rect x="0" y="240" width="240" height="0" class="bg-danger"/>
+  <rect x="240" y="240" width="240" height="0" class="bg-safe"/>
+</svg>

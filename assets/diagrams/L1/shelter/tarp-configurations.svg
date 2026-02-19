@@ -1,0 +1,82 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="12" text-anchor="middle" fill="cyan" font-size="13" font-family="monospace">TARP CONFIGURATIONS</text>
+  
+  <!-- A-FRAME (top left) -->
+  <text x="60" y="30" text-anchor="middle" fill="cyan" font-size="9" font-family="monospace">A-FRAME</text>
+  <!-- Ridgeline -->
+  <line x1="20" y1="45" x2="100" y2="45" stroke="white" stroke-width="1"/>
+  <!-- Tarp slopes -->
+  <polygon points="20,45 10,60 110,60 100,45" fill="none" stroke="cyan" stroke-width="2"/>
+  <line x1="20" y1="45" x2="10" y2="60" stroke="cyan" stroke-width="2"/>
+  <line x1="100" y1="45" x2="110" y2="60" stroke="cyan" stroke-width="2"/>
+  <!-- Stakes -->
+  <line x1="10" y1="60" x2="5" y2="68" stroke="white" stroke-width="1"/>
+  <line x1="110" y1="60" x2="115" y2="68" stroke="white" stroke-width="1"/>
+  <text x="60" y="75" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">Best rain shed</text>
+  
+  <!-- LEAN-TO (top right) -->
+  <text x="180" y="30" text-anchor="middle" fill="cyan" font-size="9" font-family="monospace">LEAN-TO</text>
+  <!-- Ridgeline -->
+  <line x1="140" y1="40" x2="220" y2="40" stroke="white" stroke-width="1"/>
+  <!-- Tarp angled -->
+  <polygon points="140,40 220,40 220,65 140,65" fill="none" stroke="cyan" stroke-width="2"/>
+  <line x1="220" y1="40" x2="220" y2="65" stroke="cyan" stroke-width="2"/>
+  <!-- Stake -->
+  <line x1="220" y1="65" x2="225" y2="72" stroke="white" stroke-width="1"/>
+  <!-- Fire symbol -->
+  <text x="230" y="60" fill="orange" font-size="12">🔥</text>
+  <text x="180" y="75" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">Open fire front</text>
+  
+  <!-- DIAMOND FLY (middle left) -->
+  <text x="60" y="95" text-anchor="middle" fill="cyan" font-size="9" font-family="monospace">DIAMOND FLY</text>
+  <!-- Center point -->
+  <circle cx="60" cy="105" r="2" fill="white"/>
+  <!-- Tarp diamond -->
+  <polygon points="60,100 30,115 60,130 90,115" fill="none" stroke="cyan" stroke-width="2"/>
+  <!-- Support lines -->
+  <line x1="60" y1="100" x2="60" y2="95" stroke="white" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="60" y1="130" x2="60" y2="140" stroke="white" stroke-width="1"/>
+  <line x1="60" y1="140" x2="55" y2="147" stroke="white" stroke-width="1"/>
+  <text x="60" y="155" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">360° view</text>
+  
+  <!-- PLOUGH POINT (middle right) -->
+  <text x="180" y="95" text-anchor="middle" fill="cyan" font-size="9" font-family="monospace">PLOUGH POINT</text>
+  <!-- High corner -->
+  <line x1="165" y1="100" x2="165" y2="95" stroke="white" stroke-width="1"/>
+  <!-- Tarp shape -->
+  <polygon points="165,100 145,130 195,130 180,120" fill="none" stroke="cyan" stroke-width="2"/>
+  <!-- Stakes -->
+  <line x1="145" y1="130" x2="140" y2="137" stroke="white" stroke-width="1"/>
+  <line x1="195" y1="130" x2="200" y2="137" stroke="white" stroke-width="1"/>
+  <!-- Wind arrow -->
+  <line x1="210" y1="115" x2="195" y2="115" stroke="yellow" stroke-width="2"/>
+  <polygon points="195,115 199,112 199,118" fill="yellow"/>
+  <text x="180" y="155" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">Wind shield</text>
+  
+  <!-- CORNET (bottom left) -->
+  <text x="60" y="175" text-anchor="middle" fill="cyan" font-size="9" font-family="monospace">CORNET</text>
+  <!-- Rolled tarp -->
+  <ellipse cx="60" cy="195" rx="30" ry="12" fill="none" stroke="cyan" stroke-width="2"/>
+  <line x1="35" y1="195" x2="35" y2="205" stroke="cyan" stroke-width="2"/>
+  <line x1="85" y1="195" x2="85" y2="205" stroke="cyan" stroke-width="2"/>
+  <!-- Closure -->
+  <line x1="35" y1="205" x2="40" y2="210" stroke="cyan" stroke-width="1.5"/>
+  <line x1="85" y1="205" x2="80" y2="210" stroke="cyan" stroke-width="1.5"/>
+  <text x="60" y="225" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">Emergency wrap</text>
+  
+  <!-- HAMMOCK TARP (bottom right) -->
+  <text x="180" y="175" text-anchor="middle" fill="cyan" font-size="9" font-family="monospace">HAMMOCK</text>
+  <!-- Ridgeline -->
+  <line x1="145" y1="185" x2="215" y2="185" stroke="white" stroke-width="1"/>
+  <!-- Tarp A-frame -->
+  <polygon points="145,185 140,197 220,197 215,185" fill="none" stroke="cyan" stroke-width="2"/>
+  <!-- Hammock below -->
+  <path d="M 150,200 Q 180,205 210,200" stroke="gray" stroke-width="2" fill="none"/>
+  <text x="180" y="225" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">Off-ground</text>
+  
+  <!-- Bottom info -->
+  <text x="120" y="235" text-anchor="middle" fill="white" font-size="8" font-family="monospace">Cyan=tarp • White=support/stakes</text>
+</svg>

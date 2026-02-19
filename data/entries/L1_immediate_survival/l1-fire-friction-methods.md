@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l1-fire-ferro-rod
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Creating fire by friction - spinning wood against wood generates heat (ember). Methods: bow drill (easiest), hand drill (hardest), fire plow. Requires dry softwoods, proper technique, patience.
   Success rate low for beginners but achievable with practice.'
 warnings:

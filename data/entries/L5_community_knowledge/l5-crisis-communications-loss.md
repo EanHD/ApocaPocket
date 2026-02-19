@@ -17,7 +17,8 @@ sources:
 related_entries:
 - l5-crisis-emp-grid-down
 - l5-crisis-community-defense
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Grid-down or disaster scenarios eliminate phones, internet, and radio infrastructure. Communication methods: foot/bike messengers, visual signals, sound signals, ham radio (if equipment survives).
   Establishing communication networks is critical for survival coordination.'
 warnings:

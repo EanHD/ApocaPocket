@@ -54,6 +54,7 @@ steps:
 - 'CORDAGE SNARES: if no wire, use the strongest cordage available. Best natural options: rawhide strips (strongest), inner bark of basswood/cedar twisted into rope, paracord inner strands, fishing line
   (for small game). Cordage snares need to be checked MORE frequently as animals can chew through them.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Five Essential Snare and Trap Designs

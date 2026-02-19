@@ -18,7 +18,8 @@ sources:
 related_entries:
 - l5-crisis-emp-grid-down
 - l1-strategy-first-24-hours
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Nuclear detonation produces blast, heat, EMP, and fallout (radioactive particles that rain down for hours to days). Immediate survival: shelter in place for 24-72 hours in a thick-walled structure.
   Minimize radiation exposure. Based on CDC and FEMA nuclear emergency guidelines.'
 warnings:

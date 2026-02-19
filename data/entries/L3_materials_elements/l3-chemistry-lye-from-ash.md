@@ -46,7 +46,8 @@ steps:
 - 'USES: soap making (lye + animal fat/oil), nixtamalization (soaking corn in lye water makes niacin bioavailable — prevents pellagra), glass making (potash + sand), fertilizer (potash is potassium — essential
   plant nutrient), leather tanning (dehairing hides).'
 - 'STORAGE: lye water stores for months in sealed non-aluminum containers. Dry potash stores indefinitely if kept bone-dry. Label clearly as POISON/CAUSTIC.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Making Lye from Hardwood Ash

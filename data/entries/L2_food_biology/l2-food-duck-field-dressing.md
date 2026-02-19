@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-food-wild-turkey-processing
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Wild ducks (mallard, teal, wood duck, etc.) are common waterfowl. Dark, rich meat (high in fat compared to turkey). Pluck or skin, gut, cook thoroughly. Excellent roasted or smoked.
 warnings:
 - Ducks must be cooked to 165F - dark meat looks rare even when fully cooked

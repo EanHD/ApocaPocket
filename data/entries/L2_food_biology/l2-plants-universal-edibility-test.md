@@ -43,6 +43,7 @@ steps:
 - 'SHORTCUT PLANTS (skip test — globally recognized as safe): dandelion (all parts), cattail (all parts), clover, wood sorrel, plantain broadleaf, chickweed. Learning to identify these 6 plants is more
   valuable than the edibility test.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Universal Edibility Test Protocol

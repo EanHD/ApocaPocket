@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-plants-southwest-prickly-pear
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Cholla cactus (Cylindropuntia species) produces edible flower buds (spring) and fruit (summer). Buds are high in calcium and traditionally harvested by indigenous peoples. Segments (joints) are
   NOT edible but can be used as fuel when dried.
 warnings:

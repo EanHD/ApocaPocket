@@ -1,0 +1,73 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="12" fill="#FFFF00" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">EMP / GRID DOWN</text>
+  
+  <!-- Timeline -->
+  <line x1="20" y1="30" x2="220" y2="30" stroke="#00FFFF" stroke-width="2"/>
+  
+  <!-- Hour 1 -->
+  <circle cx="30" cy="30" r="4" fill="#FF0000"/>
+  <text x="30" y="45" fill="#FF0000" font-family="monospace" font-size="7" text-anchor="middle">HOUR 1</text>
+  <rect x="8" y="50" width="44" height="40" fill="#FF0000" fill-opacity="0.15"/>
+  <text x="30" y="59" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">STAY HOME</text>
+  <text x="30" y="67" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Fill water</text>
+  <text x="30" y="75" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Inventory</text>
+  <text x="30" y="83" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Secure home</text>
+  
+  <!-- Day 1 -->
+  <circle cx="75" cy="30" r="4" fill="#FFFF00"/>
+  <text x="75" y="45" fill="#FFFF00" font-family="monospace" font-size="7" text-anchor="middle">DAY 1</text>
+  <rect x="53" y="50" width="44" height="40" fill="#FFFF00" fill-opacity="0.15"/>
+  <text x="75" y="59" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Water</text>
+  <text x="75" y="67" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Security</text>
+  <text x="75" y="75" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Neighbors</text>
+  <text x="75" y="83" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Intel</text>
+  
+  <!-- Week 1 -->
+  <circle cx="120" cy="30" r="4" fill="#00FFFF"/>
+  <text x="120" y="45" fill="#00FFFF" font-family="monospace" font-size="7" text-anchor="middle">WEEK 1</text>
+  <rect x="98" y="50" width="44" height="40" fill="#00FFFF" fill-opacity="0.15"/>
+  <text x="120" y="59" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Food</text>
+  <text x="120" y="67" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Alt power</text>
+  <text x="120" y="75" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Community</text>
+  <text x="120" y="83" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Comms</text>
+  
+  <!-- Month 1 -->
+  <circle cx="165" cy="30" r="4" fill="#FFFFFF"/>
+  <text x="165" y="45" fill="#FFFFFF" font-family="monospace" font-size="7" text-anchor="middle">MONTH 1</text>
+  <rect x="143" y="50" width="44" height="40" fill="#FFFFFF" fill-opacity="0.15"/>
+  <text x="165" y="59" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Gardens</text>
+  <text x="165" y="67" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Trade</text>
+  <text x="165" y="75" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Skills</text>
+  <text x="165" y="83" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Defense</text>
+  
+  <!-- Year 1 -->
+  <circle cx="210" cy="30" r="4" fill="#00FF00"/>
+  <text x="210" y="45" fill="#00FF00" font-family="monospace" font-size="7" text-anchor="middle">YEAR 1</text>
+  <rect x="188" y="50" width="44" height="40" fill="#00FF00" fill-opacity="0.15"/>
+  <text x="210" y="59" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Rebuild</text>
+  <text x="210" y="67" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Specialize</text>
+  <text x="210" y="75" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Govern</text>
+  <text x="210" y="83" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Hope</text>
+  
+  <!-- What Stops Working -->
+  <text x="120" y="105" fill="#FFFF00" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">WHAT STOPS WORKING</text>
+  <rect x="5" y="110" width="230" height="55" fill="none" stroke="#FF0000" stroke-width="1"/>
+  <text x="10" y="120" fill="#FF0000" font-family="monospace" font-size="6">× Electricity   × Phones/Internet</text>
+  <text x="10" y="128" fill="#FF0000" font-family="monospace" font-size="6">× Water pumps   × Gas stations</text>
+  <text x="10" y="136" fill="#FF0000" font-family="monospace" font-size="6">× Refrigeration × Banking</text>
+  <text x="10" y="144" fill="#FF0000" font-family="monospace" font-size="6">× Most vehicles × Supply chains</text>
+  <text x="10" y="152" fill="#FF0000" font-family="monospace" font-size="6">× Medical devices × Sewage treatment</text>
+  <text x="10" y="160" fill="#FF0000" font-family="monospace" font-size="6">× 90% of modern life</text>
+  
+  <!-- What Keeps Working -->
+  <text x="120" y="180" fill="#FFFF00" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">WHAT KEEPS WORKING</text>
+  <rect x="5" y="185" width="230" height="48" fill="none" stroke="#00FF00" stroke-width="1"/>
+  <text x="10" y="195" fill="#00FF00" font-family="monospace" font-size="6">✓ Bicycles      ✓ Hand tools</text>
+  <text x="10" y="203" fill="#00FF00" font-family="monospace" font-size="6">✓ Firearms      ✓ Manual wells</text>
+  <text x="10" y="211" fill="#00FF00" font-family="monospace" font-size="6">✓ Wood stoves   ✓ Books</text>
+  <text x="10" y="219" fill="#00FF00" font-family="monospace" font-size="6">✓ Battery lights ✓ Skills</text>
+  <text x="10" y="227" fill="#00FF00" font-family="monospace" font-size="6">✓ Human knowledge & cooperation</text>
+</svg>

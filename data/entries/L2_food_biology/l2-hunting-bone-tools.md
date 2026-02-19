@@ -20,6 +20,7 @@ related_entries:
 - l2-hunting-hide-processing
 - l4-tool-stone-basics
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Animal bones, antler, and shell are excellent tool materials — harder than wood, workable without metal tools, and abundantly available after processing game. Bone needles, awls, fishhooks, scrapers,
   and pressure flakers are among the most useful tools in a survival toolkit.
 warnings:

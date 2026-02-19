@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l1-water-purification-boiling
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Store water for emergencies or when municipal supply is unreliable. Clean food-grade containers, treat water before storage (bleach or boil), rotate every 6-12 months. Minimum 1 gallon per person
   per day for 3 days (emergency kit). Long-term: 30+ gallons per person.'
 warnings:

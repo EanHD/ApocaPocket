@@ -21,7 +21,8 @@ related_entries:
 - l3-wood-hardwood-vs-softwood
 - l3-wood-identification-field
 - l3-wood-seasoning
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'A properly made wooden bow is an effective hunting and defense tool. Best woods: yew, osage orange, black locust, hickory, elm, ash, maple. A simple flatbow can be made in 1-2 days from a seasoned
   stave.'
 warnings:

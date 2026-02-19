@@ -22,7 +22,8 @@ related_entries:
 - l4-tool-stone-basics
 sources:
 - usgs-mineral-education
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

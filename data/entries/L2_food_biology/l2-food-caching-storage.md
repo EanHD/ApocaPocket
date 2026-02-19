@@ -16,6 +16,7 @@ sources:
 related_entries:
 - l2-food-preservation-comprehensive
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Without refrigeration, use cool dry storage, underground caches, hanging (air circulation), and separation by type. Root cellars (underground, 0-10C) store root vegetables, apples months. Grain
   in sealed containers protects from rodents, moisture.
 warnings:

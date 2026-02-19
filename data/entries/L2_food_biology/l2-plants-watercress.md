@@ -32,6 +32,7 @@ sources:
 - peterson-field-guides-edible-wild-plants
 - usda-plants-database
 last_verified: '2026-02-18'
+audit_status: verified
 confidence: high
 offline_assets: []
 ---

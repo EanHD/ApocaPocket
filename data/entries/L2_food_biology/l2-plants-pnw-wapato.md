@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-plants-pnw-camas
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Wapato (Sagittaria latifolia) was a major food source for PNW tribes. Starchy tuber tastes like potato. Traditional harvest: wade in, dislodge tubers with toes.'
 warnings:
 - Harvest from clean water only

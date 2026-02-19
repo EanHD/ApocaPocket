@@ -47,7 +47,8 @@ steps:
   per side. Finish on fine stone (1000+ grit or smooth river stone) for a razor edge. Strop on smooth leather with compound if available.'
 - 'SHEATH: fold thick leather around the blade, wet it, stitch along the spine side with heavy thread or sinew. Let dry on the blade (it will form to the shape). Add a belt loop. Or: make a friction-fit
   wooden sheath from two carved halves glued/lashed together.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Making a Knife — Forging and Stock Removal

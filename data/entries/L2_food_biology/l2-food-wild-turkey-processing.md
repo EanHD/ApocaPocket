@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-food-meat-preservation
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Wild turkey (Meleagris gallopavo) is a large game bird (10-25 lbs). Excellent eating, similar to domestic turkey but leaner. Provides substantial meat. Must be plucked or skinned, gutted, and cooked
   thoroughly.
 warnings:

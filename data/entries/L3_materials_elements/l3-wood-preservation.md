@@ -26,7 +26,8 @@ related_entries:
 - l3-wood-hardwood-vs-softwood
 sources:
 - usfs-wood-handbook-2021
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

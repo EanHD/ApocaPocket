@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <defs>
+    <style>
+      .title { font: bold 13px monospace; fill: #003333; }
+      .label { font: 10px monospace; fill: #003333; }
+      .season { font: bold 11px monospace; }
+      .bg { fill: #f0f8f0; }
+      .leaf { fill: #6b9b6e; stroke: #4a7c4e; stroke-width: 1; }
+      .stem { fill: #8ba88e; stroke: #5a7a5e; stroke-width: 1; }
+      .seed-head { fill: #8b6844; stroke: #5b3824; stroke-width: 1; }
+      .rhizome { fill: #d4c5a0; stroke: #8b7355; stroke-width: 1.5; }
+      .flower-green { fill: #90b090; stroke: #6a8a6a; stroke-width: 1; }
+      .pollen { fill: #ffd700; stroke: #cc9900; stroke-width: 0.5; }
+      .water { fill: #a0c0ff; opacity: 0.3; }
+      .spring { fill: #90ee90; }
+      .summer { fill: #ffff90; }
+      .fall { fill: #ffb870; }
+    </style>
+  </defs>
+  
+  <rect x="0" y="0" width="480" height="240" class="bg"/>
+  <text x="240" y="18" text-anchor="middle" class="title">CATTAIL - YEAR-ROUND EDIBLE PARTS</text>
+  <text x="240" y="32" text-anchor="middle" style="font: 10px monospace; fill: #555;">(Typha latifolia - "Supermarket of the Swamp")</text>
+  
+  <!-- SPRING (left) -->
+  <rect x="10" y="45" width="110" height="15" class="spring" opacity="0.5"/>
+  <text x="65" y="56" text-anchor="middle" class="season spring">SPRING</text>
+  
+  <!-- Young shoots -->
+  <rect x="55" y="140" width="8" height="60" rx="4" class="stem"/>
+  <rect x="48" y="145" width="8" height="50" rx="4" class="stem"/>
+  <rect x="62" y="148" width="8" height="45" rx="4" class="stem"/>
+  <line x1="30" y1="165" x2="45" y2="165" stroke="#ff0000" stroke-width="2"/>
+  <text x="10" y="150" class="label" style="fill: #006600;">Young</text>
+  <text x="10" y="162" class="label" style="fill: #006600;">shoots</text>
+  <text x="10" y="174" class="label" style="fill: #006600;">(peel &amp;</text>
+  <text x="10" y="186" class="label" style="fill: #006600;">eat raw/</text>
+  <text x="10" y="198" class="label" style="fill: #006600;">cooked)</text>
+  
+  <!-- Water line -->
+  <rect x="10" y="200" width="110" height="35" class="water"/>
+  <line x1="10" y1="200" x2="120" y2="200" stroke="#4080ff" stroke-width="2"/>
+  
+  <!-- Rhizomes -->
+  <ellipse cx="65" cy="218" rx="30" ry="8" class="rhizome"/>
+  <line x1="65" y1="210" x2="50" y2="218" class="rhizome"/>
+  <line x1="65" y1="210" x2="80" y2="218" class="rhizome"/>
+  
+  <!-- EARLY SUMMER (center-left) -->
+  <rect x="130" y="45" width="110" height="15" class="summer" opacity="0.5"/>
+  <text x="185" y="56" text-anchor="middle" class="season" style="fill: #cc9900;">EARLY SUMMER</text>
+  
+  <!-- Immature flower spike -->
+  <rect x="175" y="120" width="10" height="80" rx="2" class="stem"/>
+  <ellipse cx="180" cy="100" rx="6" ry="20" class="flower-green"/>
+  <line x1="145" y1="110" x2="168" y2="110" stroke="#ff0000" stroke-width="2"/>
+  <text x="130" y="95" class="label" style="fill: #006600;">Green</text>
+  <text x="130" y="107" class="label" style="fill: #006600;">flower</text>
+  <text x="130" y="119" class="label" style="fill: #006600;">spike</text>
+  <text x="130" y="131" class="label" style="fill: #006600;">(boil like</text>
+  <text x="130" y="143" class="label" style="fill: #006600;">corn)</text>
+  
+  <!-- Water -->
+  <rect x="130" y="200" width="110" height="35" class="water"/>
+  <line x1="130" y1="200" x2="240" y2="200" stroke="#4080ff" stroke-width="2"/>
+  
+  <!-- MID SUMMER (center-right) -->
+  <rect x="250" y="45" width="110" height="15" class="summer" opacity="0.5"/>
+  <text x="305" y="56" text-anchor="middle" class="season" style="fill: #cc9900;">MID SUMMER</text>
+  
+  <!-- Pollen spike -->
+  <rect x="295" y="120" width="10" height="80" rx="2" class="stem"/>
+  <ellipse cx="300" cy="90" rx="8" ry="15" class="seed-head"/>
+  <ellipse cx="300" cy="70" rx="8" ry="12" class="pollen"/>
+  <circle cx="295" cy="65" r="1.5" class="pollen"/>
+  <circle cx="305" cy="67" r="1.5" class="pollen"/>
+  <circle cx="298" cy="60" r="1" class="pollen"/>
+  <line x1="265" y1="75" x2="287" y2="75" stroke="#ff0000" stroke-width="2"/>
+  <text x="250" y="70" class="label" style="fill: #cc9900;">Pollen</text>
+  <text x="250" y="82" class="label" style="fill: #cc9900;">(shake</text>
+  <text x="250" y="94" class="label" style="fill: #cc9900;">into bag</text>
+  <text x="250" y="106" class="label" style="fill: #cc9900;">for flour)</text>
+  
+  <!-- Water -->
+  <rect x="250" y="200" width="110" height="35" class="water"/>
+  <line x1="250" y1="200" x2="360" y2="200" stroke="#4080ff" stroke-width="2"/>
+  
+  <!-- FALL/WINTER (right) -->
+  <rect x="370" y="45" width="100" height="15" class="fall" opacity="0.5"/>
+  <text x="420" y="56" text-anchor="middle" class="season fall">FALL/WINTER</text>
+  
+  <!-- Mature plant with brown seed head -->
+  <path d="M 410,200 L 410,100" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <ellipse cx="410" cy="80" rx="10" ry="25" class="seed-head"/>
+  <text x="425" y="85" class="label" style="fill: #8b6844;">Seed</text>
+  <text x="425" y="97" class="label" style="fill: #8b6844;">head</text>
+  
+  <!-- Water -->
+  <rect x="370" y="200" width="100" height="35" class="water"/>
+  <line x1="370" y1="200" x2="470" y2="200" stroke="#4080ff" stroke-width="2"/>
+  
+  <!-- Rhizomes (best in fall/winter) -->
+  <ellipse cx="420" cy="218" rx="35" ry="10" class="rhizome"/>
+  <ellipse cx="400" cy="225" rx="25" ry="8" class="rhizome"/>
+  <ellipse cx="440" cy="223" rx="20" ry="7" class="rhizome"/>
+  <line x1="385" y1="210" x2="375" y2="220" stroke="#ff0000" stroke-width="2"/>
+  <text x="375" y="175" class="label" style="fill: #8b6844;">Rhizomes</text>
+  <text x="375" y="187" class="label" style="fill: #8b6844;">(dig from</text>
+  <text x="375" y="199" class="label" style="fill: #8b6844;">mud, peel</text>
+  <text x="375" y="211" class="label" style="fill: #8b6844;">or extract</text>
+  <text x="375" y="223" class="label" style="fill: #8b6844;">starch)</text>
+</svg>

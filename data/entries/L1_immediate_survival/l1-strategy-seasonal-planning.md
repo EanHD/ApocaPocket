@@ -20,7 +20,8 @@ related_entries:
 - l1-strategy-progression-milestones
 - l2-plants-seasonality
 - l4-agriculture-season-planning
-last_verified: '2026-02-18'
+last_verified: '2026-02-19'
+audit_status: verified
 summary: 'Nature has a calendar. Ignore it and winter kills you. This entry provides season-by-season priorities for temperate regions: what to gather, build, prepare, and when. The rule: prepare for the
   next season during the current one.'
 warnings:

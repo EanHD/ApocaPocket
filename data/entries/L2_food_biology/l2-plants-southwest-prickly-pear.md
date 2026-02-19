@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l1-water-desert-sources
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Prickly pear (Opuntia) is one of the most important desert plants. Both pads (nopales) and fruit (tunas) are edible. Pads provide emergency hydration.
 warnings:
 - GLOCHIDS (tiny barbed spines) embed in skin and cause intense irritation

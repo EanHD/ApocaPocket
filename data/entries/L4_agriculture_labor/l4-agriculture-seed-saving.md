@@ -15,7 +15,8 @@ sources:
 - usda-plants-database
 related_entries:
 - l4-agriculture-garden-planning
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Save seeds from harvest to plant next year (self-sufficiency). Heirloom varieties (open-pollinated) produce true-to-type seeds. Hybrid seeds do not. Dry seeds thoroughly, store cool and dry. Test
   germination before spring.
 warnings:

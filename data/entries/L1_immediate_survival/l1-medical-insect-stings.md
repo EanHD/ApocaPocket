@@ -1,32 +1,13 @@
 ---
-id: l1-medical-insect-stings
-title: Dangerous Insect Stings and Bites
+audit_status: audited
 category: L1_immediate_survival
-subtopic: medical_first_aid
-tags:
-- insects
-- stings
-- bites
-- spider
-- scorpion
-- tick
+confidence: high
+id: l1-medical-insect-stings
+last_audit: '2026-02-18T23:03:14.858657'
+last_verified: '2026-02-18'
+offline_assets: []
 region_relevance:
 - global
-summary: Managing dangerous insect stings and bites including bees, spiders, scorpions,
-  and ticks.
-steps:
-- Remove stinger by scraping sideways (do not squeeze with tweezers).
-- Clean bite/sting site with soap and water.
-- Apply cold compress to reduce swelling and pain.
-- 'For ticks: grasp close to skin with fine tweezers, pull straight out steadily.'
-- Monitor for systemic reactions (spreading rash, fever, difficulty breathing).
-- Administer antihistamine for local reactions; epinephrine for anaphylaxis.
-warnings:
-- Watch for anaphylaxis signs with ANY sting — can occur even without prior reaction
-  history.
-- Black widow and brown recluse spider bites require medical attention.
-- Tick bites can transmit Lyme disease and other infections — save tick for identification.
-- Multiple stings can cause systemic toxicity even without allergy.
 related_entries:
 - l1-medical-allergic-reactions
 - l1-medical-wound-cleaning
@@ -35,9 +16,30 @@ sources:
 - red-cross-first-aid-cpr-aed
 - nols-wilderness-guide
 - who-basic-emergency-care-2018
-last_verified: '2026-02-18'
-confidence: high
-offline_assets: []
+steps:
+- Remove stinger by scraping sideways (do not squeeze with tweezers).
+- Clean bite/sting site with soap and water.
+- Apply cold compress to reduce swelling and pain.
+- 'For ticks: grasp close to skin with fine tweezers, pull straight out steadily.'
+- Monitor for systemic reactions (spreading rash, fever, difficulty breathing).
+- Administer antihistamine for local reactions; epinephrine for anaphylaxis.
+subtopic: medical_first_aid
+summary: Managing dangerous insect stings and bites including bees, spiders, scorpions,
+  and ticks.
+tags:
+- insects
+- stings
+- bites
+- spider
+- scorpion
+- tick
+title: Dangerous Insect Stings and Bites
+warnings:
+- Watch for anaphylaxis signs with ANY sting — can occur even without prior reaction
+  history.
+- Black widow and brown recluse spider bites require medical attention.
+- Tick bites can transmit Lyme disease and other infections — save tick for identification.
+- Multiple stings can cause systemic toxicity even without allergy.
 ---
 
 ## Overview

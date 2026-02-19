@@ -17,7 +17,8 @@ sources:
 related_entries:
 - l3-construction-earth-building
 - l4-construction-log-cabin
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Lime (calcium oxide) and cement are binders for mortar and concrete. Lime made by heating limestone (calcium carbonate) to 900C+. Mix lime with sand and water = mortar (binds bricks, stones). Portland
   cement is complex but lime mortar is achievable with primitive kiln.
 warnings:

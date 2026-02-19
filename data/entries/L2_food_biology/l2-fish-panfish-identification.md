@@ -18,6 +18,7 @@ sources:
 related_entries:
 - l2-fish-trout-identification
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Panfish (bluegill, sunfish, crappie) are small fish (4-10 inches) that are easy to catch in ponds and lakes. Abundant, bite readily, good eating. Small but numerous - catch dozens for a meal.
 warnings:
 - Small size means more work per pound of meat - but easy to catch in quantity

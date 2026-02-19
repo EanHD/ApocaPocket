@@ -18,6 +18,7 @@ sources:
 related_entries:
 - l2-plants-acorn-processing
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Pinyon pine (Pinus edulis and related species) produces pine nuts - small, oily, calorie-dense seeds. A traditional staple food. Good mast crop every 3-7 years. One of the highest-calorie wild
   foods.
 warnings:

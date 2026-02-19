@@ -18,6 +18,7 @@ related_entries:
 - l2-plants-pnw-salal
 - l5-health-herbal-medicine-reference
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Oregon grape (Mahonia aquifolium) is the state flower of Oregon. Blue-purple berries are VERY tart but edible and high in vitamin C. Yellow root contains berberine (antimicrobial compound). Both
   berries and roots have traditional medicinal uses.
 warnings:

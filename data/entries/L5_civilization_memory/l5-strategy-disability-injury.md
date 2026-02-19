@@ -19,7 +19,8 @@ related_entries:
 - l1-medical-fracture-stabilization
 - l5-strategy-group-survival
 - l1-strategy-common-fatal-mistakes
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'You broke your leg, lost vision, or have a group member with disability. How do you survive? This entry covers: adapting tasks, mobility aids, psychological adaptation, and group support systems.
   Disability doesn''t mean death — it means different strategies.'
 warnings:

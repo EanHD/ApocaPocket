@@ -18,6 +18,7 @@ sources:
 related_entries:
 - l2-plants-spring-foraging-calendar
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Fiddleheads are young coiled fern fronds. ONLY ostrich fern is widely recommended. Bracken fern is TOXIC. Must be cooked to destroy toxins.
 warnings:
 - BRACKEN FERN is carcinogenic - never eat

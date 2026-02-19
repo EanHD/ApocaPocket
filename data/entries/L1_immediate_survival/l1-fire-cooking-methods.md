@@ -20,6 +20,7 @@ related_entries:
 - l1-fire-safety-ventilation
 - l2-nutrition-food-safety-field
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Cooking food increases caloric availability by 30-50%, kills pathogens, and improves digestibility. These methods work without pots, pans, or utensils — using only fire, rocks, sticks, leaves,
   and clay found in nature.
 warnings:

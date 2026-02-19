@@ -1,0 +1,64 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="15" text-anchor="middle" fill="cyan" font-size="13" font-family="monospace">WATER BOILING</text>
+  
+  <!-- Container with water -->
+  <rect x="85" y="90" width="70" height="50" fill="#1a4d80" stroke="white" stroke-width="2"/>
+  <path d="M 85,90 L 90,80 L 150,80 L 155,90" stroke="white" stroke-width="2" fill="none"/>
+  
+  <!-- Water level -->
+  <line x1="88" y1="100" x2="152" y2="100" stroke="cyan" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="160" y="103" fill="cyan" font-size="8" font-family="monospace">Water</text>
+  
+  <!-- Bubbles (boiling) -->
+  <circle cx="100" cy="120" r="3" fill="white" opacity="0.7"/>
+  <circle cx="115" cy="115" r="4" fill="white" opacity="0.7"/>
+  <circle cx="130" cy="125" r="3" fill="white" opacity="0.7"/>
+  <circle cx="110" cy="130" r="2" fill="white" opacity="0.8"/>
+  <circle cx="140" cy="118" r="3" fill="white" opacity="0.7"/>
+  
+  <!-- Steam -->
+  <path d="M 95,85 Q 90,70 95,55" stroke="white" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M 110,85 Q 105,65 110,45" stroke="white" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M 125,85 Q 130,70 125,55" stroke="white" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M 140,85 Q 145,65 140,50" stroke="white" stroke-width="1.5" fill="none" opacity="0.6"/>
+  
+  <!-- Fire underneath -->
+  <path d="M 100,145 Q 95,155 100,165" fill="orange" stroke="orange" stroke-width="1"/>
+  <path d="M 110,145 Q 115,160 110,170" fill="red" stroke="red" stroke-width="1"/>
+  <path d="M 120,145 Q 115,155 120,165" fill="yellow" stroke="yellow" stroke-width="1"/>
+  <path d="M 130,145 Q 135,160 130,170" fill="orange" stroke="orange" stroke-width="1"/>
+  <path d="M 140,145 Q 135,155 140,165" fill="red" stroke="red" stroke-width="1"/>
+  
+  <!-- Wood/fuel -->
+  <rect x="75" y="170" width="90" height="8" fill="#4a3020" stroke="#2a1810" stroke-width="1"/>
+  <rect x="80" y="176" width="80" height="6" fill="#4a3020" stroke="#2a1810" stroke-width="1"/>
+  
+  <!-- Temperature indicator -->
+  <text x="180" y="120" fill="orange" font-size="10" font-family="monospace">212°F</text>
+  <text x="180" y="132" fill="orange" font-size="8" font-family="monospace">100°C</text>
+  
+  <!-- Time boxes -->
+  <rect x="10" y="40" width="70" height="30" fill="#1a1a1a" stroke="cyan" stroke-width="1"/>
+  <text x="45" y="52" text-anchor="middle" fill="cyan" font-size="8" font-family="monospace">SEA LEVEL</text>
+  <text x="45" y="63" text-anchor="middle" fill="white" font-size="10" font-family="monospace">1 MINUTE</text>
+  
+  <rect x="160" y="40" width="70" height="30" fill="#1a1a1a" stroke="yellow" stroke-width="1"/>
+  <text x="195" y="52" text-anchor="middle" fill="yellow" font-size="8" font-family="monospace">HIGH ALT</text>
+  <text x="195" y="63" text-anchor="middle" fill="white" font-size="10" font-family="monospace">3-5 MIN</text>
+  
+  <!-- Process steps -->
+  <text x="120" y="195" text-anchor="middle" fill="white" font-size="9" font-family="monospace">PROCESS:</text>
+  <text x="10" y="208" fill="cyan" font-size="8" font-family="monospace">1. Pre-filter (cloth)</text>
+  <text x="10" y="219" fill="cyan" font-size="8" font-family="monospace">2. Rolling boil (bubbles)</text>
+  <text x="10" y="230" fill="cyan" font-size="8" font-family="monospace">3. Time based on altitude</text>
+  
+  <!-- Kill effectiveness -->
+  <rect x="130" y="200" width="105" height="35" fill="#0a0a0a" stroke="green" stroke-width="1"/>
+  <text x="182" y="210" text-anchor="middle" fill="green" font-size="8" font-family="monospace">KILLS:</text>
+  <text x="182" y="220" text-anchor="middle" fill="white" font-size="7" font-family="monospace">✓ Bacteria 99.99%</text>
+  <text x="182" y="229" text-anchor="middle" fill="white" font-size="7" font-family="monospace">✓ Viruses 99.99%</text>
+  <text x="182" y="238" text-anchor="middle" fill="white" font-size="7" font-family="monospace">✓ Protozoa 99.99%</text>
+</svg>

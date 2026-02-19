@@ -48,6 +48,7 @@ steps:
   cause GI upset if you eat too much initially.'
 - 'YIELD: 5 lbs fresh lean meat → ~1 lb jerky. 1 lb jerky + 1 lb rendered fat = ~2 lbs pemmican. One deer (60 lbs lean meat) = ~24 lbs pemmican = 40+ days of full caloric needs for one person.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Pemmican — Ultimate Survival Food

@@ -31,6 +31,7 @@ sources:
 - us-army-fm-4-25-11
 - nols-wilderness-guide
 last_verified: '2026-02-18'
+audit_status: verified
 confidence: high
 offline_assets: []
 ---

@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-food-acorn-processing
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Hickory nuts (Carya species) are rich, oily nuts similar to pecans (pecan is a hickory species). Shagbark and shellbark hickory are best. Sweet, high in fat and calories. No processing needed (no
   tannins). Hard to crack but worth the effort.
 warnings:

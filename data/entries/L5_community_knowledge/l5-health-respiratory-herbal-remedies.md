@@ -16,7 +16,8 @@ sources:
 - peterson-field-guides-medicinal-plants
 related_entries:
 - l1-medical-hypothermia
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Wild plants with traditional use for coughs, congestion, sore throat. Steam inhalation and expectorant teas can provide symptomatic relief. Not a replacement for antibiotics if infection is bacterial.
 warnings:
 - Respiratory infections can be life-threatening - herbal remedies are supportive care only

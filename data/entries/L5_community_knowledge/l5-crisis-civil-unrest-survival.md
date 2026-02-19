@@ -19,7 +19,8 @@ sources:
 related_entries:
 - l5-crisis-refugee-displaced
 - l5-community-security
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Civil unrest (protests, riots, looting, violence) can erupt suddenly due to political, economic, or social triggers. Survival priorities: avoid danger zones, secure home, escape if necessary.
   Based on DHS active threat response and historical unrest patterns.'
 warnings:

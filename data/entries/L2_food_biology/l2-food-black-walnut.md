@@ -16,6 +16,7 @@ sources:
 related_entries:
 - l2-food-hickory-nuts
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Black walnut (Juglans nigra) produces edible nuts with strong flavor. Outer husk must be removed (stains hands dark brown). Inner shell is very hard to crack. Nut meat is oily and intensely flavored.
   Labor-intensive but rewarding.
 warnings:

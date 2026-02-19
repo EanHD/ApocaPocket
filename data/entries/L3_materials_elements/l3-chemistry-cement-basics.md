@@ -46,7 +46,8 @@ steps:
   3-4 stories. Roman lime concrete structures have lasted 2000+ years.'
 - 'WHITEWASH: thin lime putty with water to paint consistency. Apply to walls with a brush. Whitewash is antibacterial, reflects heat, waterproofs surfaces, and was used for centuries as building paint.
   Reapply annually.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Lime Cement and Basic Concrete

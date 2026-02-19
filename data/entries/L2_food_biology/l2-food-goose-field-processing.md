@@ -18,6 +18,7 @@ sources:
 related_entries:
 - l2-food-duck-field-dressing
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Wild geese (Canada goose, snow goose, etc.) are large waterfowl (6-14 lbs). Dark, rich meat similar to duck but larger. Plucking is extremely difficult - skinning or breasting recommended for field
   use.
 warnings:

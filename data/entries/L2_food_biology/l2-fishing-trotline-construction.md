@@ -46,6 +46,7 @@ steps:
 - 'PROCESSING CATCH: kill fish immediately with a blow to the head. Gut by slitting belly from vent to gills, remove all organs. In hot weather, cook or smoke immediately. In cool weather, keep in cool
   water (on a stringer) until ready to process. Save fish heads and guts as bait for next set.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Trotline — Passive Multi-Hook Fishing System

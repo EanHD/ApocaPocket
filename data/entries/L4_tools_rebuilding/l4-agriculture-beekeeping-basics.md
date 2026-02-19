@@ -49,7 +49,8 @@ steps:
   bees die). Leave 40+ lbs honey (8-10 full bars). If light on stores, feed thick sugar syrup (2:1 sugar:water).'
 - 'COLONY MULTIPLICATION: when hive is strong (15+ bars of comb, lots of bees), split it. Move half the bars (including bars with eggs/young larvae) into a new hive. The half without a queen will raise
   a new queen from young larvae within 16 days. Feed both halves sugar water for 2 weeks after splitting.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Beekeeping — Top-Bar Hive Construction and Management

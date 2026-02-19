@@ -29,7 +29,8 @@ related_entries:
 sources:
 - mit-ocw-mechanical-engineering
 - openstax-engineering-statics
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

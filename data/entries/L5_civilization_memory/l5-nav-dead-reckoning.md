@@ -27,7 +27,8 @@ related_entries:
 - l5-math-measurement-systems
 sources:
 - army-land-navigation-fm-3-25-26
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

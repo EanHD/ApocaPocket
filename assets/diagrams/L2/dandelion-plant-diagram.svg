@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <defs>
+    <style>
+      .title { font: bold 12px monospace; fill: #003333; }
+      .label { font: 10px monospace; fill: #003333; }
+      .bg { fill: #f0f8f0; }
+      .leaf { fill: #4a7c4e; stroke: #2d5a2f; stroke-width: 1; }
+      .stem { stroke: #6b9b6e; stroke-width: 2; fill: none; }
+      .flower { fill: #ffd700; stroke: #cc9900; stroke-width: 1; }
+      .root { fill: #d4c5a0; stroke: #8b7355; stroke-width: 1; }
+      .latex { fill: #ffffff; stroke: #cccccc; stroke-width: 0.5; }
+    </style>
+  </defs>
+  
+  <rect x="0" y="0" width="240" height="240" class="bg"/>
+  <text x="120" y="15" text-anchor="middle" class="title">DANDELION</text>
+  <text x="120" y="28" text-anchor="middle" style="font: 10px monospace; fill: #555;">(Taraxacum officinale)</text>
+  
+  <!-- Root system -->
+  <path d="M 120,150 L 120,220 L 118,235 L 122,235 Z" class="root"/>
+  <text x="130" y="200" class="label">Deep taproot</text>
+  <text x="130" y="211" class="label">(6-18 inches)</text>
+  
+  <!-- Rosette of leaves -->
+  <path d="M 120,150 Q 80,140 65,135 L 60,138 L 70,145 Q 85,148 120,150" class="leaf"/>
+  <path d="M 60,138 L 55,130 L 58,127 L 63,133" class="leaf"/>
+  <path d="M 63,133 L 60,125 L 63,122 L 67,128" class="leaf"/>
+  
+  <path d="M 120,150 Q 85,145 70,142 L 68,146 L 78,150 Q 90,152 120,150" class="leaf"/>
+  
+  <path d="M 120,150 Q 160,140 175,135 L 180,138 L 170,145 Q 155,148 120,150" class="leaf"/>
+  <path d="M 180,138 L 185,130 L 182,127 L 177,133" class="leaf"/>
+  <path d="M 177,133 L 180,125 L 177,122 L 173,128" class="leaf"/>
+  
+  <path d="M 120,150 Q 155,145 170,142 L 172,146 L 162,150 Q 150,152 120,150" class="leaf"/>
+  
+  <text x="10" y="145" class="label">Toothed</text>
+  <text x="10" y="156" class="label">leaves</text>
+  <text x="10" y="167" class="label">(lobes point</text>
+  <text x="10" y="178" class="label">backward)</text>
+  
+  <!-- Hollow stem -->
+  <line x1="120" y1="150" x2="105" y2="60" class="stem"/>
+  <circle cx="105" cy="100" r="2" class="latex"/>
+  <circle cx="104" cy="105" r="1.5" class="latex"/>
+  <circle cx="106" cy="103" r="1" class="latex"/>
+  <text x="115" y="105" class="label">Milky white</text>
+  <text x="115" y="116" class="label">latex sap</text>
+  
+  <text x="60" y="90" class="label">Hollow stem</text>
+  <text x="60" y="101" class="label">(no leaves)</text>
+  
+  <!-- Yellow flower -->
+  <circle cx="105" cy="50" r="12" class="flower"/>
+  <circle cx="105" cy="50" r="9" fill="#ffed00" stroke="#cc9900" stroke-width="0.5"/>
+  <circle cx="105" cy="50" r="6" fill="#ffe000" stroke="#cc9900" stroke-width="0.3"/>
+  
+  <text x="125" y="45" class="label">Single yellow</text>
+  <text x="125" y="56" class="label">flower (1-2")</text>
+  
+  <!-- Seed head (second stem) -->
+  <line x1="120" y1="150" x2="165" y2="70" class="stem"/>
+  <circle cx="165" cy="60" r="10" fill="#ffffff" stroke="#cccccc" stroke-width="1" opacity="0.7"/>
+  <!-- Seed radiating lines -->
+  <line x1="165" y1="60" x2="160" y2="52" stroke="#999" stroke-width="0.5"/>
+  <line x1="165" y1="60" x2="170" y2="52" stroke="#999" stroke-width="0.5"/>
+  <line x1="165" y1="60" x2="158" y2="58" stroke="#999" stroke-width="0.5"/>
+  <line x1="165" y1="60" x2="172" y2="58" stroke="#999" stroke-width="0.5"/>
+  <line x1="165" y1="60" x2="157" y2="63" stroke="#999" stroke-width="0.5"/>
+  <line x1="165" y1="60" x2="173" y2="63" stroke="#999" stroke-width="0.5"/>
+  <line x1="165" y1="60" x2="160" y2="68" stroke="#999" stroke-width="0.5"/>
+  <line x1="165" y1="60" x2="170" y2="68" stroke="#999" stroke-width="0.5"/>
+  
+  <text x="180" y="63" class="label">Seed head</text>
+  <text x="180" y="74" class="label">(puffball)</text>
+  
+  <!-- Size indicator -->
+  <line x1="200" y1="150" x2="200" y2="60" stroke="#666" stroke-width="1"/>
+  <line x1="197" y1="150" x2="203" y2="150" stroke="#666" stroke-width="1"/>
+  <line x1="197" y1="60" x2="203" y2="60" stroke="#666" stroke-width="1"/>
+  <text x="205" y="110" class="label">6-18"</text>
+  <text x="205" y="121" class="label">tall</text>
+</svg>

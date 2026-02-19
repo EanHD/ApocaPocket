@@ -21,6 +21,7 @@ related_entries:
 - l4-agriculture-mushroom-cultivation
 - l2-mushrooms-drying-storage
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Growing mushrooms on logs requires only fresh-cut hardwood logs, mushroom spawn (or wild spawn transfer), a drill, and patience. A single inoculated log produces mushrooms for 3-6 years. Oyster
   mushrooms are easiest; shiitake produce the highest yields.
 warnings:

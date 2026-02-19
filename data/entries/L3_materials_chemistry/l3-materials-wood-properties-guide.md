@@ -17,7 +17,8 @@ sources:
 related_entries:
 - l3-woodworking-joinery
 - l4-construction-log-cabin
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Different wood species have different properties (hardness, flexibility, rot resistance, workability). Selecting the right wood for each application improves durability and reduces labor. Field
   guide to common wood types and their best uses.
 warnings:

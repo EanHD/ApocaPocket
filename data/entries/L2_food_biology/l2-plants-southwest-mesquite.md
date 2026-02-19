@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l4-agriculture-season-planning
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Mesquite (Prosopis) produces sweet nutritious bean pods. Indigenous peoples ground pods into flour (high protein, naturally sweet). A staple food in the Southwest for thousands of years.
 warnings:
 - Only eat fully ripe pods (tan/brown, hard, sweet)

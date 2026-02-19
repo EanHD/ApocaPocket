@@ -18,6 +18,7 @@ related_entries:
 - l2-plants-pnw-salal
 - l2-plants-blackberry
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Thimbleberry (Rubus parviflorus) produces delicate, sweet red berries that fall apart when picked. Delicious raw, but too fragile to store. Leaves are edible cooked. Common in PNW forests and clearings.
 warnings:
 - Berries are extremely delicate — eat immediately or make into jam

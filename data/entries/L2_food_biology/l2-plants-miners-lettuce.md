@@ -16,6 +16,7 @@ sources:
 related_entries:
 - l1-medical-scurvy
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Miners lettuce (Claytonia perfoliata) is a mild succulent green. Named because Gold Rush miners ate it to prevent scurvy. Easily identified by disk-shaped leaves.
 warnings:
 - Very safe

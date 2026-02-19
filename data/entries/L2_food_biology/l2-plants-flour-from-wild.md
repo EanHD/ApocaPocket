@@ -51,6 +51,7 @@ steps:
 - 'USING WILD FLOUR: acorn flour makes dense, nutty flatbread. Mix with water to thick paste, cook on hot stone near fire. Cattail starch thickens soups and stews. Amaranth makes porridge or flatbread.
   All can be mixed 50/50 with wheat flour if available.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Making Flour from Wild Plants — Acorns, Cattail, Amaranth

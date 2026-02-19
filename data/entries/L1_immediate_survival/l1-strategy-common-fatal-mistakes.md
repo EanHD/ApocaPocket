@@ -19,7 +19,8 @@ related_entries:
 - l1-strategy-first-24-hours
 - l1-medical-infection-prevention
 - l1-fire-safety-ventilation
-last_verified: '2026-02-18'
+last_verified: '2026-02-19'
+audit_status: verified
 summary: Beginners die from exposure and panic. Experienced people die from complacency, overconfidence, and small mistakes that compound. This entry catalogs the most common preventable causes of death
   in long-term survival situations, learned from historical accounts and wilderness medicine data.
 warnings:

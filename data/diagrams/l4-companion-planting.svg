@@ -1,0 +1,66 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  <text x="120" y="12" fill="#00FFFF" text-anchor="middle" font-size="11" font-weight="bold">COMPANION PLANTING GUIDE</text>
+  
+  <!-- Three Sisters (Native American) -->
+  <text x="5" y="28" fill="white" font-size="9" font-weight="bold">THREE SISTERS</text>
+  <circle cx="30" cy="50" r="15" fill="none" stroke="#00FFFF" stroke-width="1.5"/>
+  <text x="30" y="54" fill="#00FFFF" text-anchor="middle" font-size="8">CORN</text>
+  <circle cx="22" cy="65" r="8" fill="none" stroke="white" stroke-width="1"/>
+  <text x="22" y="68" fill="white" text-anchor="middle" font-size="6">BEAN</text>
+  <circle cx="38" cy="65" r="8" fill="none" stroke="white" stroke-width="1"/>
+  <text x="38" y="68" fill="white" text-anchor="middle" font-size="6">BEAN</text>
+  <circle cx="30" cy="78" r="10" fill="none" stroke="cyan" stroke-width="1"/>
+  <text x="30" y="81" fill="cyan" text-anchor="middle" font-size="6">SQUASH</text>
+  <text x="70" y="45" fill="white" font-size="6">Corn = pole</text>
+  <text x="70" y="52" fill="white" font-size="6">Beans = nitrogen</text>
+  <text x="70" y="59" fill="white" font-size="6">Squash = shade</text>
+  <text x="70" y="66" fill="cyan" font-size="6">Spacing: 90cm</text>
+  
+  <!-- Tomato companions -->
+  <text x="5" y="95" fill="white" font-size="9" font-weight="bold">TOMATO BENEFITS</text>
+  <circle cx="30" cy="115" r="12" fill="none" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="30" y="118" fill="#FF4444" text-anchor="middle" font-size="7">TOMATO</text>
+  <line x1="30" y1="103" x2="30" y2="90" stroke="white" stroke-width="1"/>
+  <circle cx="30" cy="88" r="5" fill="none" stroke="white" stroke-width="1"/>
+  <text x="30" y="91" fill="white" text-anchor="middle" font-size="5">BASIL</text>
+  <line x1="18" y1="115" x2="8" y2="115" stroke="cyan" stroke-width="1"/>
+  <circle cx="5" cy="115" r="4" fill="none" stroke="cyan" stroke-width="1"/>
+  <text x="5" y="117" fill="cyan" text-anchor="middle" font-size="5">MAR</text>
+  <line x1="42" y1="115" x2="52" y2="115" stroke="cyan" stroke-width="1"/>
+  <circle cx="55" cy="115" r="4" fill="none" stroke="cyan" stroke-width="1"/>
+  <text x="55" y="117" fill="cyan" text-anchor="middle" font-size="5">MAR</text>
+  <text x="70" y="108" fill="white" font-size="6">Basil: pest</text>
+  <text x="70" y="115" fill="white" font-size="6">repellent</text>
+  <text x="70" y="122" fill="cyan" font-size="6">Marigold: nematodes</text>
+  
+  <!-- Avoid combinations -->
+  <text x="5" y="138" fill="#FF4444" font-size="9" font-weight="bold">AVOID TOGETHER</text>
+  <rect x="5" y="142" width="110" height="48" fill="none" stroke="#FF4444" stroke-width="0.5"/>
+  <text x="10" y="150" fill="white" font-size="6">❌ Tomato + Potato (blight)</text>
+  <text x="10" y="158" fill="white" font-size="6">❌ Onion + Beans (inhibit)</text>
+  <text x="10" y="166" fill="white" font-size="6">❌ Fennel + Most (allelopathy)</text>
+  <text x="10" y="174" fill="white" font-size="6">❌ Cabbage + Tomato (compete)</text>
+  <text x="10" y="182" fill="white" font-size="6">❌ Cucumber + Sage (wilt)</text>
+  
+  <!-- Good combinations -->
+  <text x="125" y="138" fill="#00FF00" font-size="9" font-weight="bold">GOOD PAIRS</text>
+  <rect x="125" y="142" width="110" height="90" fill="none" stroke="#00FF00" stroke-width="0.5"/>
+  <text x="130" y="150" fill="white" font-size="6">✓ Carrot + Onion (fly repel)</text>
+  <text x="130" y="158" fill="white" font-size="6">✓ Lettuce + Radish (fast/slow)</text>
+  <text x="130" y="166" fill="white" font-size="6">✓ Cabbage + Dill (pest control)</text>
+  <text x="130" y="174" fill="white" font-size="6">✓ Corn + Cucumber (compatible)</text>
+  <text x="130" y="182" fill="white" font-size="6">✓ Garlic + Rose (aphid control)</text>
+  <text x="130" y="190" fill="white" font-size="6">✓ Peas + Carrot (N-fix + root)</text>
+  <text x="130" y="198" fill="white" font-size="6">✓ Bean + Potato (N-fix benefit)</text>
+  <text x="130" y="206" fill="white" font-size="6">✓ Basil + Pepper (growth boost)</text>
+  <text x="130" y="214" fill="white" font-size="6">✓ Spinach + Strawberry (shade)</text>
+  <text x="130" y="222" fill="white" font-size="6">✓ Nasturtium + Squash (trap)</text>
+  
+  <!-- Bottom notes -->
+  <text x="5" y="202" fill="#00FFFF" font-size="7">SPACING: 30-45cm between</text>
+  <text x="5" y="210" fill="#00FFFF" font-size="7">compatible plants</text>
+  <text x="5" y="218" fill="white" font-size="7">ROTATE: Change positions yearly</text>
+  <text x="5" y="226" fill="white" font-size="7">DIVERSITY: 5-7 species per bed</text>
+  <text x="5" y="234" fill="cyan" font-size="7">OBSERVE: Track what works!</text>
+</svg>

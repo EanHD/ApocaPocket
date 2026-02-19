@@ -32,6 +32,7 @@ sources:
 - us-army-fm-4-25-11
 - red-cross-first-aid-cpr-aed
 last_verified: '2026-02-18'
+audit_status: verified
 confidence: medium
 offline_assets: []
 ---

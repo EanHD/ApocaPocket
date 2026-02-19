@@ -42,7 +42,8 @@ steps:
 - CASSIOPEIA — W-shaped constellation opposite the Big Dipper from Polaris. When the Big Dipper is low/below horizon, Cassiopeia is high and points to Polaris. Visible year-round above 35°N.
 - 'DIRECTION FROM ANY STAR: drive two sticks into the ground 2-3 feet apart, aligned with any bright star. Wait 15-20 minutes. If the star moved: LEFT = you''re facing roughly south. RIGHT = you''re facing
   roughly north. UP = you''re facing roughly east. DOWN = you''re facing roughly west. This works for any star except Polaris.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # 15 Navigation Stars — Identification and Use

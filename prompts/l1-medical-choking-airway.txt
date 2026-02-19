@@ -1,0 +1,9 @@
+Technical survival diagram: Choking and Airway Obstruction
+
+Style: Clean minimal line art, cyan and white on black background, medical illustration
+Focus: Anatomical precision, safety clarity, emergency readability
+Layout: Square, 240x240px optimized
+Avoid: Realistic shading, gradients, complex backgrounds, small text
+
+Elements: Numbered sequence showing each step clearly
+Requirements: High contrast, emergency-readable, precise positioning

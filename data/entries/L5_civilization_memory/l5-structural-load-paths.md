@@ -24,7 +24,8 @@ related_entries:
 sources:
 - openstax-engineering-statics
 - usfs-wood-handbook-2021
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

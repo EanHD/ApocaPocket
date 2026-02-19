@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-fish-trout-identification
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Multiple fishing methods increase success. Pole fishing (most common), nets (efficient for small fish), traps (passive), spears (requires skill). Use local bait (worms, insects, small fish).
 warnings:
 - Regulations vary - fishing may require license even in survival

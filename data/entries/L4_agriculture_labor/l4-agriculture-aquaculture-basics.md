@@ -16,7 +16,8 @@ sources:
 - usda-food-safety
 related_entries:
 - l2-fish-catfish-identification
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Raise fish in ponds for food. Tilapia (warm water, easy), catfish (hardy, fast-growing), trout (cold water). Requires pond (natural or dig), feeding, water quality management. Harvest fish as needed.
   High protein yield from small space.
 warnings:

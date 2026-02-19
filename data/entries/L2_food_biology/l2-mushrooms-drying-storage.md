@@ -19,6 +19,7 @@ related_entries:
 - l4-agriculture-food-preservation
 - l2-hunting-smoking-detailed
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Mushrooms are 90% water and spoil within days of harvest. Drying is the simplest and most effective preservation method — properly dried mushrooms retain nutritional value and flavor for 1-2 years.
   No equipment needed beyond sun, air, and a surface.
 warnings:

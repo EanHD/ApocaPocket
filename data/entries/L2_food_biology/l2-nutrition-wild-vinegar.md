@@ -21,6 +21,7 @@ related_entries:
 - l3-chemistry-fermentation
 - l3-chemistry-ethanol-distillation
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Vinegar (acetic acid) is essential for food preservation (pickling), wound cleaning, and cooking. It''s made in two stages: fruit → alcohol (yeast fermentation), then alcohol → vinegar (acetobacter
   fermentation). Takes 3-8 weeks total. Any fruit with sugar works.'
 warnings:

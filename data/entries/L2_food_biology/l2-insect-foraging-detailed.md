@@ -20,6 +20,7 @@ related_entries:
 - l2-nutrition-caloric-needs
 - l2-nutrition-macros-basics
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Insects are the most abundant and accessible animal protein source on Earth. Gram for gram, many insects contain more protein than beef. Over 2 billion people eat insects regularly. In a survival
   situation, overcoming squeamishness could mean the difference between adequate and inadequate protein intake.
 warnings:

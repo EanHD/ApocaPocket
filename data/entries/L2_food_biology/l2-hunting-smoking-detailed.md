@@ -49,6 +49,7 @@ steps:
 - 'STORAGE: hot-smoked meat/fish keeps 1-2 weeks at room temperature, 1-2 months in cool conditions. Cold-smoked and salt-cured products keep 2-6 months in cool, dry, ventilated storage. Wrap in cloth (not
   plastic — needs airflow). Hang in a cool, dry, breezy location. Discard if slimy, foul-smelling, or moldy.'
 last_verified: '2026-02-18'
+audit_status: verified
 ---
 
 # Smoking Meat and Fish — Hot Smoke vs Cold Smoke

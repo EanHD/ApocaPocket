@@ -21,6 +21,7 @@ related_entries:
 - l1-medical-hypothermia
 - l1-shelter-river-crossing
 last_verified: 2026-02-18
+audit_status: verified
 summary: Cold water (below 15C/60F) kills fast. The 1-10-1 rule - 1 minute of cold shock (gasping, panic), 10 minutes of meaningful movement (swim to safety), 1 hour until unconsciousness. Most cold-water drowning victims die in the first minute from panic and gasping, NOT hypothermia. Knowing this saves lives.
 warnings:
 - Cold water shock causes an involuntary gasp — if you go under during this, you aspirate water and drown immediately

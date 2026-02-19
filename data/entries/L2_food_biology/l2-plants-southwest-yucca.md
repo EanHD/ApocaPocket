@@ -16,6 +16,7 @@ sources:
 related_entries:
 - l2-plants-southwest-agave
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Yucca species have edible flowers, fruit, and stalks. Roots provide soap (saponin). Leaves yield strong fiber for cordage and baskets. Important multi-use desert plant.
 warnings:
 - Some yucca species have toxic roots (Joshua tree) - only use roots for soap, not food

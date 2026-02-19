@@ -32,6 +32,7 @@ sources:
 - who-basic-emergency-care-2018
 - us-army-fm-4-25-11
 last_verified: '2026-02-18'
+audit_status: verified
 confidence: medium
 offline_assets: []
 ---

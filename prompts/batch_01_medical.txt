@@ -1,0 +1,245 @@
+--- DIAGRAM: assets/diagrams/L1/medical/cpr-hand-position.png
+Technical survival diagram: CPR hand position (top view)
+
+Style: Clean minimal line art, cyan and white on black background, medical illustration
+Layout: Square, 240x240px optimized
+Elements: 
+- Top-down view of human torso showing sternum and ribcage outline
+- Two hands overlapped at center of chest (sternum)
+- Fingers interlaced, heel of hand on sternum
+- Numbered label "1" showing hand placement
+- Clear anatomical landmark: center of chest between nipples
+- Bold cyan outline for hands, white for torso outline
+Focus: Precise hand position, sternum landmark
+Avoid: Realistic shading, facial details, complex anatomy, gradients
+
+Specific requirements:
+- Show both hands clearly overlapped
+- Fingers interlaced and pointing up
+- Heel of bottom hand on sternum centerline
+- Simple ribcage outline for reference
+- Large bold "1" label with arrow pointing to hand position
+- High contrast (cyan hands on black background)
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/cpr-compression-depth.png
+Technical survival diagram: CPR compression depth (side view)
+
+Style: Clean minimal line art, cyan and white on black background, medical illustration
+Layout: Square, 240x240px optimized
+Elements:
+- Side view of torso with spine and sternum
+- Hands compressing chest downward
+- Measurement showing 2 inches (5 cm) compression depth
+- Large arrow pointing downward showing force direction
+- Scale bar with measurements
+- Numbered label "2"
+Focus: Compression depth precision, proper force direction
+Avoid: Realistic anatomy, complex backgrounds, shading
+
+Specific requirements:
+- Clear 2 inch / 5 cm measurement with scale bar
+- Bold downward arrow showing compression force
+- Sternum bending inward (compressed position)
+- Hands locked, arms straight from shoulder
+- Large "2 IN / 5 CM" text label
+- High contrast visualization
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/bleeding-pressure-points.png
+Technical survival diagram: Major arterial pressure points (full body)
+
+Style: Clean minimal line art, RED for arteries and pressure points, white body outline on black background, medical illustration
+Layout: Portrait, 240x240px optimized
+Elements:
+- Full body outline (simple human figure)
+- Major pressure points marked with RED circles
+- Labels: Carotid, Brachial, Radial, Femoral, Popliteal, Pedal
+- Small arrows showing where to press
+- Numbered 1-6 for each pressure point
+Focus: Easy identification of pressure point locations in emergency
+Avoid: Detailed anatomy, realistic rendering, small text
+
+Specific requirements:
+- RED dots for each pressure point (highly visible)
+- Large clear labels for each point
+- White simplified body outline
+- Arrows pointing to exact press location
+- Numbers 1-6 for quick reference
+- High contrast for field visibility in poor light
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/tourniquet-placement.png
+Technical survival diagram: Tourniquet application technique
+
+Style: Clean minimal line art, cyan and red on black background, medical illustration
+Layout: Landscape, 240x240px optimized
+Elements:
+- Arm or leg with wound below
+- Tourniquet placed 2-3 inches ABOVE wound
+- Windlass stick for tightening
+- Measurement showing "2-3 in above wound"
+- RED X over wound site (do not place tourniquet ON wound)
+- Numbered steps (1: position, 2: tighten, 3: secure)
+Focus: Correct placement HIGH AND TIGHT above wound, tightening mechanism
+Avoid: Realistic blood, complex anatomy, unnecessary detail
+
+Specific requirements:
+- Show limb with wound (red area) below tourniquet
+- Tourniquet band clearly 2-3 inches ABOVE wound
+- Windlass stick threaded through and twisted
+- Large arrow showing twist direction
+- "HIGH & TIGHT" text label
+- RED X on incorrect placement (at wound)
+- Bold numbered steps
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/hypothermia-rewarming-zones.png
+Technical survival diagram: Hypothermia core rewarming zones
+
+Style: Clean minimal line art, CYAN for warming zones, white body outline, red X for don'ts, on black background
+Layout: Portrait, 240x240px optimized
+Elements:
+- Simple body outline (front view)
+- Three CYAN highlighted warming zones: neck, armpits, groin
+- Heat source symbols (hot water bottle icons)
+- RED X over hands/feet (do not warm extremities first)
+- Arrows showing heat application to core
+- Text: "CORE FIRST"
+Focus: Core warming priority, avoid extremity warming
+Avoid: Realistic anatomy, detailed organs, gradients
+
+Specific requirements:
+- Three CYAN circles highlighting: neck, both armpits, groin
+- Small hot water bottle icons at each zone
+- Large RED X marks over hands and feet
+- Bold text "WARM CORE FIRST"
+- Arrows pointing inward (toward core)
+- Simple, clear body outline (gender-neutral)
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/fracture-forearm-splint.png
+Technical survival diagram: Forearm fracture splinting technique
+
+Style: Clean minimal line art, cyan and white on black background, medical illustration
+Layout: Landscape, 240x240px optimized
+Elements:
+- Forearm with improvised splint (sticks or rigid material)
+- Padding at wrist and elbow
+- Wrap securing splint (bandage or cloth)
+- Sling supporting arm
+- Numbered steps (1: pad, 2: splint, 3: wrap, 4: sling)
+Focus: Immobilize above and below fracture, padding at joints
+Avoid: Realistic injury, complex anatomy, blood
+
+Specific requirements:
+- Show two rigid objects (sticks) on either side of forearm
+- Padding visible at wrist and elbow (white rectangles)
+- Wrap wound around in spiral pattern
+- Arm bent at 90° and supported in sling
+- Large numbered steps (1-4)
+- Clear "IMMOBILIZE ABOVE & BELOW" text
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/heimlich-maneuver.png
+Technical survival diagram: Heimlich maneuver (adult)
+
+Style: Clean minimal line art, cyan and white on black background, medical illustration
+Layout: Portrait, 240x240px optimized
+Elements:
+- Side view of two people (rescuer behind victim)
+- Fist placement: below ribcage, above navel
+- Upward thrusting arrow (large and bold)
+- Numbered label showing hand position
+- "INWARD & UPWARD" text with arrows
+Focus: Fist position precision, thrust direction (in and up, not just in)
+Avoid: Facial details, realistic anatomy, complex backgrounds
+
+Specific requirements:
+- Simple stick-figure style (two people)
+- Rescuer's arms around victim from behind
+- Fist clearly shown just below ribcage
+- Other hand grasping fist
+- Large UPWARD arrow showing thrust direction
+- "BELOW RIBS" and "ABOVE NAVEL" labels
+- Bold text: "INWARD & UPWARD THRUSTS"
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/snake-bite-dos-donts.png
+Technical survival diagram: Snake bite treatment (DO vs DON'T)
+
+Style: Clean minimal line art, RED for don'ts, GREEN for dos, white on black background
+Layout: Landscape split-screen, 240x240px optimized
+Elements:
+- LEFT SIDE (RED): What NOT to do (large X marks)
+  - Cutting wound (X)
+  - Tourniquet (X)
+  - Ice pack (X)
+  - Suction device (X)
+- RIGHT SIDE (GREEN): What TO do (checkmarks)
+  - Immobilize limb (✓)
+  - Mark swelling progression with pen (✓)
+  - Keep calm, get help (✓)
+Focus: Debunk dangerous myths, show correct response
+Avoid: Realistic snake, blood, complex scenes
+
+Specific requirements:
+- Split screen: RED side (don'ts) | GREEN side (dos)
+- Large RED X symbols on left (4 items)
+- Large GREEN ✓ checkmarks on right (3 items)
+- Simple icons for each action
+- Bold text labels under each icon
+- "DANGEROUS" on left, "SAFE" on right
+- High contrast for emergency readability
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/burn-depth-layers.png
+Technical survival diagram: Burn depth classification (cross-section)
+
+Style: Clean minimal line art, color-coded by burn depth, white labels on black background
+Layout: Square, 240x240px optimized
+Elements:
+- Skin cross-section showing three layers: epidermis, dermis, subcutaneous
+- Three burn types side-by-side:
+  - 1st degree: RED, epidermis only (sunburn)
+  - 2nd degree: ORANGE, into dermis (blistering)
+  - 3rd degree: WHITE/GRAY, through all layers (charred)
+- Labels for each degree
+- Depth indicators showing how deep burn penetrates
+Focus: Visual comparison of burn severity, layer damage
+Avoid: Realistic injury photos, blood, complex medical terms
+
+Specific requirements:
+- Three side-by-side cross-sections
+- Color coding: RED (1st), ORANGE (2nd), WHITE (3rd)
+- Layer labels: "EPIDERMIS", "DERMIS", "SUBCUTANEOUS"
+- Burn depth shown with shaded area
+- Large text: "1ST", "2ND", "3RD" above each
+- Simple arrows showing penetration depth
+--- END
+
+--- DIAGRAM: assets/diagrams/L1/medical/chest-seal-application.png
+Technical survival diagram: Chest seal (3-sided occlusive dressing)
+
+Style: Clean minimal line art, cyan and red on black background, medical illustration
+Layout: Square, 240x240px optimized
+Elements:
+- Torso (side view) with wound on chest
+- Occlusive seal (plastic square) taped on 3 sides
+- Bottom side OPEN (flutter valve)
+- Arrows showing air OUT (not in)
+- Numbered steps (1: seal wound, 2: tape 3 sides, 3: leave bottom open)
+- "FLUTTER VALVE" label
+Focus: 3-sided seal concept, one-way valve action
+Avoid: Realistic injury, blood, complex anatomy
+
+Specific requirements:
+- Show wound on chest (red area)
+- Plastic seal over wound (cyan square)
+- Tape on TOP and BOTH SIDES (white lines)
+- BOTTOM EDGE OPEN (gap visible)
+- Arrow showing air escaping out bottom
+- X arrow showing air NOT entering
+- Large "3-SIDED SEAL" text
+- Bold numbered steps 1-2-3
+--- END

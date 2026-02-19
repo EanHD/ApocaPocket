@@ -17,7 +17,8 @@ sources:
 related_entries:
 - l1-medical-wound-care
 - l1-medical-infection-control
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Certain wild plants have antimicrobial properties and can be used as poultices for wound care when modern first aid is unavailable. Not a replacement for proper wound cleaning and antibiotics but
   better than nothing.
 warnings:

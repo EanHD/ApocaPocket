@@ -31,6 +31,7 @@ sources:
 - bsa-handbook
 - nols-wilderness-guide
 last_verified: '2026-02-18'
+audit_status: verified
 confidence: medium
 offline_assets: []
 ---

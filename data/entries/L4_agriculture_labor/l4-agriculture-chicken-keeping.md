@@ -15,7 +15,8 @@ sources:
 - usda-food-safety
 related_entries:
 - l2-food-wild-turkey-processing
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Chickens are the easiest livestock. Produce eggs daily, meat when butchered. Require shelter, feed (grain or forage), water. Hens lay without rooster (unfertilized eggs). 3-6 hens provide eggs
   for small family.
 warnings:

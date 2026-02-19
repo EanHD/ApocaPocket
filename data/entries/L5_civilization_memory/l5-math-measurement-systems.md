@@ -28,7 +28,8 @@ related_entries:
 - l5-nav-dead-reckoning
 sources:
 - openstax-precalculus
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
 ---

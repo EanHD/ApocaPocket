@@ -19,7 +19,8 @@ related_entries:
 - l1-strategy-first-24-hours
 - l1-shelter-site-selection
 - l2-plants-seasonality
-last_verified: '2026-02-18'
+last_verified: '2026-02-19'
+audit_status: verified
 summary: 'Each environment kills you differently. Temperate forests are forgiving; deserts and arctic are brutal. This entry profiles major biomes: primary threats, water sources, shelter priorities, food
   availability, and common mistakes. Know your environment to prioritize correctly.'
 warnings:

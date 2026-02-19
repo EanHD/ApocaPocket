@@ -16,7 +16,8 @@ sources:
 - us-army-fm-4-25-11
 related_entries:
 - l3-materials-natural-fibers
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Many plants produce natural dyes for coloring fabric, leather, cordage, and baskets. Common sources: onion skins (yellow/orange), walnut hulls (brown), indigo (blue), madder root (red), lichens
   (various). Process: extract dye by boiling plant material, mordant fabric (fixes dye), dye bath, rinse.'
 warnings:

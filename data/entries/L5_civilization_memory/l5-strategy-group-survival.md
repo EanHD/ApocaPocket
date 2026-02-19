@@ -18,7 +18,8 @@ related_entries:
 - l5-strategy-progression-milestones
 - l5-gov-conflict-resolution
 - l5-edu-skill-preservation
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Solo survival is hard. Group survival is harder in different ways. 2-3 people = force multiplier. 10+ people = community with governance needs. 50+ people = civilization with specialization and
   politics. This entry covers group dynamics, decision-making, conflict resolution, and leadership at each scale.
 warnings:

@@ -18,7 +18,8 @@ sources:
 related_entries:
 - l5-crisis-civil-unrest-survival
 - l5-crisis-refugee-displaced
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Checkpoints appear during unrest, martial law, war, or border crossings. May be official (military, police) or unofficial (militias, gangs, bandits). Survival priorities: assess threat level,
   comply or evade based on risk, negotiate if possible. Based on military survival training.'
 warnings:

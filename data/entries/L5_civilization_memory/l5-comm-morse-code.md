@@ -44,7 +44,8 @@ steps:
   and longitude in degrees and minutes.'
 - 'EMERGENCY: SOS can be signaled by any means — tapping on a pipe, flashing a light, honking a horn, stamping feet. Three short, three long, three short. Repeat. It is understood worldwide regardless of
   language.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Morse Code — Complete Reference and Training

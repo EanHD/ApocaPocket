@@ -16,7 +16,8 @@ sources:
 related_entries:
 - l3-chemistry-ethanol-distillation
 - l4-electricity-simple-generators
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Transesterification converts vegetable oil into biodiesel that runs in diesel engines. Requires methanol, lye, and a settling period. 10 gallons of oil yields ~9 gallons of biodiesel plus glycerin
   byproduct.
 warnings:

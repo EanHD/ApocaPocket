@@ -15,7 +15,8 @@ sources:
 - usda-plants-database
 related_entries:
 - l4-agriculture-garden-planning
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Compost turns organic waste (kitchen scraps, leaves, manure) into rich soil amendment. Improves soil structure, adds nutrients, feeds soil life. Hot composting (fast, 2-3 months) vs cold composting
   (slow, 6-12 months). Balance green (nitrogen) and brown (carbon) materials.
 warnings:

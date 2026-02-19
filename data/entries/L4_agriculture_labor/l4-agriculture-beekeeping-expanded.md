@@ -15,7 +15,8 @@ sources:
 - usda-plants-database
 related_entries:
 - l4-agriculture-season-planning
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Beyond basic beekeeping - managing hive health, preventing swarming, capturing wild swarms, extracting honey without equipment. Bees provide honey, wax, pollination. One hive produces 30-60 lbs
   honey per year. Requires weekly inspections during active season.
 warnings:

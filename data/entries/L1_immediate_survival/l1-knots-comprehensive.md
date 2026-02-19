@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l3-materials-rope-making
 last_verified: '2026-02-18'
+audit_status: verified
 summary: A dozen knots cover 90 percent of needs. Bowline (fixed loop), clove hitch (attach to pole), taut-line hitch (adjustable loop), figure-8 (stopper knot), square knot (join ropes). Practice until
   you can tie in dark.
 warnings:

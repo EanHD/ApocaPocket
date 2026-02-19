@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <defs>
+    <style>
+      .title { font: bold 14px monospace; fill: #fff; }
+      .label { font: 10px monospace; fill: #fff; }
+      .danger { fill: #ff4444; }
+      .safe { fill: #00dddd; }
+      .bg-danger { fill: #330000; }
+      .bg-safe { fill: #003333; }
+      .cap-false { fill: #8b6844; stroke: #5b3824; stroke-width: 1; }
+      .cap-true { fill: #9a8866; stroke: #6a5836; stroke-width: 1; }
+      .stem { fill: #e8e8d0; stroke: #a8a890; stroke-width: 1; }
+      .interior { fill: #d8c8b0; stroke: #887858; stroke-width: 1; }
+    </style>
+  </defs>
+  
+  <!-- FALSE MOREL (LEFT - DANGER) -->
+  <rect x="0" y="0" width="240" height="240" class="bg-danger"/>
+  <text x="120" y="20" text-anchor="middle" class="title danger">⚠ FALSE MOREL ⚠</text>
+  <text x="120" y="35" text-anchor="middle" class="label">(Gyromitra esculenta)</text>
+  
+  <!-- Brain-like cap -->
+  <ellipse cx="120" cy="75" rx="35" ry="30" class="cap-false"/>
+  <!-- Brain wrinkles (irregular) -->
+  <path d="M 95,65 Q 100,70 105,65 Q 110,60 115,65 Q 120,70 125,65" stroke="#5b3824" stroke-width="2" fill="none"/>
+  <path d="M 90,75 Q 95,80 100,75 Q 105,70 110,75 Q 115,80 120,75" stroke="#5b3824" stroke-width="2" fill="none"/>
+  <path d="M 95,85 Q 100,90 105,85 Q 110,80 115,85 Q 120,90 125,85" stroke="#5b3824" stroke-width="2" fill="none"/>
+  <path d="M 125,70 Q 130,75 135,70 Q 140,65 145,70" stroke="#5b3824" stroke-width="2" fill="none"/>
+  <path d="M 120,80 Q 125,85 130,80 Q 135,75 140,80" stroke="#5b3824" stroke-width="2" fill="none"/>
+  
+  <text x="10" y="70" class="label danger">BRAIN-LIKE</text>
+  <text x="10" y="82" class="label danger">wrinkled</text>
+  <text x="10" y="94" class="label danger">irregular</text>
+  <text x="10" y="106" class="label danger">folds</text>
+  
+  <!-- Stem -->
+  <rect x="110" y="105" width="20" height="60" rx="3" class="stem"/>
+  
+  <!-- Cross-section showing chambers -->
+  <rect x="25" y="130" width="60" height="80" rx="3" fill="#d8c8b0" stroke="#887858" stroke-width="2"/>
+  <text x="55" y="125" text-anchor="middle" class="label danger">Cross-section:</text>
+  <!-- Internal chambers/cottony -->
+  <rect x="35" y="140" width="40" height="15" fill="#a89878" stroke="#887858" stroke-width="1"/>
+  <rect x="35" y="160" width="40" height="15" fill="#c8b8a8" stroke="#887858" stroke-width="1"/>
+  <rect x="35" y="180" width="40" height="15" fill="#a89878" stroke="#887858" stroke-width="1"/>
+  <text x="30" y="220" class="label danger">NOT hollow!</text>
+  <text x="30" y="232" class="label danger">Chambered/</text>
+  <text x="30" y="240" class="label danger">cottony</text>
+  
+  <!-- Attachment -->
+  <text x="160" y="130" class="label danger">Cap attaches</text>
+  <text x="160" y="142" class="label danger">to stem at</text>
+  <text x="160" y="154" class="label danger">MULTIPLE</text>
+  <text x="160" y="166" class="label danger">points</text>
+  
+  <!-- TRUE MOREL (RIGHT - SAFE) -->
+  <rect x="240" y="0" width="240" height="240" class="bg-safe"/>
+  <text x="360" y="20" text-anchor="middle" class="title safe">✓ TRUE MOREL ✓</text>
+  <text x="360" y="35" text-anchor="middle" class="label">(Morchella species)</text>
+  
+  <!-- Honeycomb cap -->
+  <ellipse cx="360" cy="75" rx="30" ry="35" class="cap-true"/>
+  <!-- Honeycomb pattern (regular pits) -->
+  <ellipse cx="350" cy="60" rx="8" ry="10" fill="none" stroke="#5b3824" stroke-width="1.5"/>
+  <ellipse cx="370" cy="60" rx="8" ry="10" fill="none" stroke="#5b3824" stroke-width="1.5"/>
+  <ellipse cx="345" cy="75" rx="8" ry="10" fill="none" stroke="#5b3824" stroke-width="1.5"/>
+  <ellipse cx="360" cy="75" rx="8" ry="10" fill="none" stroke="#5b3824" stroke-width="1.5"/>
+  <ellipse cx="375" cy="75" rx="8" ry="10" fill="none" stroke="#5b3824" stroke-width="1.5"/>
+  <ellipse cx="350" cy="90" rx="8" ry="10" fill="none" stroke="#5b3824" stroke-width="1.5"/>
+  <ellipse cx="370" cy="90" rx="8" ry="10" fill="none" stroke="#5b3824" stroke-width="1.5"/>
+  
+  <text x="250" y="70" class="label safe">HONEYCOMB</text>
+  <text x="250" y="82" class="label safe">regular</text>
+  <text x="250" y="94" class="label safe">pits & ridges</text>
+  
+  <!-- Stem -->
+  <rect x="350" y="110" width="20" height="60" rx="3" class="stem"/>
+  
+  <!-- Cross-section showing hollow -->
+  <rect x="395" y="130" width="60" height="80" rx="3" fill="#d8c8b0" stroke="#887858" stroke-width="2"/>
+  <rect x="405" y="140" width="40" height="60" rx="2" fill="#ffffff" stroke="#887858" stroke-width="1"/>
+  <text x="425" y="125" text-anchor="middle" class="label safe">Cross-section:</text>
+  <text x="410" y="220" class="label safe">Completely</text>
+  <text x="410" y="232" class="label safe">HOLLOW</text>
+  <text x="410" y="240" class="label safe">inside!</text>
+  
+  <!-- Attachment -->
+  <text x="265" y="125" class="label safe">Cap attaches</text>
+  <text x="265" y="137" class="label safe">to stem at</text>
+  <text x="265" y="149" class="label safe">BASE ONLY</text>
+  <text x="265" y="161" class="label safe">(fused at</text>
+  <text x="265" y="173" class="label safe">bottom)</text>
+  
+  <!-- Bottom critical note -->
+  <rect x="0" y="215" width="480" height="25" fill="#000" opacity="0.7"/>
+  <text x="240" y="227" text-anchor="middle" style="font: bold 11px monospace; fill: #ffff00;">RULE: If it's not HOLLOW, it's not a true morel!</text>
+  <text x="240" y="238" text-anchor="middle" style="font: 10px monospace; fill: #ffff00;">Always cut in half lengthwise to check interior.</text>
+</svg>

@@ -20,6 +20,7 @@ related_entries:
 - l1-fire-wood-selection
 - l5-comm-signal-methods
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Three fires in a triangle is the international distress signal. A signal fire must produce maximum contrast against the environment — dark smoke against a light sky, bright flame at night. Preparation
   before the rescue aircraft arrives is critical — you may only have seconds to light.
 warnings:

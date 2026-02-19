@@ -19,6 +19,7 @@ related_entries:
 - l2-plants-identification-protocol
 - l4-agriculture-season-planning
 last_verified: '2026-02-18'
+audit_status: verified
 summary: 'Camas (Camassia quamash) was a dietary staple for Pacific Northwest tribes. The bulb is sweet and nutritious when cooked (pit-roasted for 1-3 days). CRITICAL: Death camas is a deadly look-alike.
   Only harvest camas when flowers are present for positive ID.'
 warnings:

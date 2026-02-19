@@ -1,48 +1,53 @@
 ---
 id: l5-structural-truss-design
-title: 'Truss Design: Triangulated Load Distribution'
+title: "Truss Design: Triangulated Load Distribution"
 category: L5_civilization_memory
-subtopic: structural_engineering
-tags:
+subtopic:
+- "structural_engineering tags:"
 - structural_engineering
 - truss
 - roof
-- bridge
-region_relevance:
+- "bridge region_relevance:"
 - global
-summary: Using triangulated frameworks to span distances efficiently with minimal
-  material.
-steps:
-- Understand that triangles are inherently rigid—the basis of all trusses.
-- 'Design common truss types: king post (simplest), queen post, Howe, Pratt.'
-- Calculate member forces using method of joints or method of sections.
-- 'Size members: tension members can be thinner; compression members must resist buckling.'
-- Connect joints with gusset plates, pegs, bolts, or lashed connections.
-warnings:
-- A single failed member can cause progressive truss collapse.
-- Compression members must be braced against lateral buckling.
-related_entries:
+summary: "Using triangulated frameworks to span distances efficiently with minimal material. Trusses use triangles (geometrically rigid) to distribute loads through tension and compression members. ADVANTAGE: Can span 10-30m with members only 50-150mm thick (solid beam would need 300-600mm). Weight savings 50-75%. Common applications - roof trusses (residential 6-12m span), bridges (pedestrian 10-30m, vehicle 20-100m), towers."
+audit_status: verified
+last_verified: 2026-02-19
+- 'TRIANGLE RIGIDITY PRINCIPLE: "Triangles are inherently rigid (cannot deform without changing member lengths). Square/rectangle can be \"racked\" (parallelogram deformation). Truss converts rectangle into triangles using diagonal members. THREE MEMBER MINIMUM per joint for stability. MECHANICS: Load applied at joint distributes through connected members as TENSION (pulling) or COMPRESSION (pushing). NO BENDING in ideal truss (all forces axial—along member centerline). Real trusses have small bending (connections not perfectly pinned), but primarily axial loading."
+- 'COMMON TRUSS TYPES & APPLICATIONS: "KING POST (simplest): Triangle shape. Bottom chord (horizontal), two top chords (angled), one vertical center post. SPAN: 3-8m. Use: Small sheds, simple roofs. MEMBERS: 5 total (2 top, 1 bottom, 1 vertical, 1 horizontal tie). QUEEN POST: Bottom chord, two top chords, two vertical posts, horizontal strut between posts. SPAN: 6-12m. More complex than king post. MEMBERS: 9. HOWE TRUSS: Parallel top and bottom chords, vertical members in compression, diagonal members in tension. Diagonals slope toward center from bottom. SPAN: 10-30m. Use: Bridges, large roofs. Easy to build with wood (vertical compression members are short—resist buckling). PRATT TRUSS: Parallel chords, vertical members in tension, diagonal members in compression. Diagonals slope toward ends from bottom. SPAN: 10-30m. Use: Metal bridges (compression diagonals can be larger than verticals). WARREN TRUSS: No vertical members (except end posts). Alternating equilateral triangles. Diagonals alternate tension/compression. SPAN: 10-40m. Use: Long bridges. EFFICIENT but more complex joints. FINK TRUSS (W-truss): Common roof truss. W-shaped web members. SPAN: 6-15m. Use: Residential roofs. Multiple variations exist. SCISSOR TRUSS: Bottom chord follows top chord angle (creates cathedral ceiling). SPAN: 6-12m. Use: Open ceiling residential. Less efficient (bottom chord in compression). BOWSTRING TRUSS: Curved top chord, straight bottom chord. SPAN: 15-50m. Use: Aircraft hangars, large clear-span buildings. Very efficient for heavy snow loads."
+- 'FORCE ANALYSIS (simplified): "METHOD OF JOINTS: (1) Start at joint with maximum 2 unknown forces (usually supports). (2) Apply equilibrium: Sum of horizontal forces = 0, Sum of vertical forces = 0. (3) Solve for unknown member forces. (4) Move to adjacent joint, repeat. (5) Work through entire truss. TENSION = positive (member pulls away from joint). COMPRESSION = negative (member pushes into joint). ZERO-FORCE MEMBERS: Members with no load (geometric stability only). Recognize: joint with 2 members in line and 1 at angle—if no external load, angle member has zero force. METHOD OF SECTIONS: (1) \"Cut\" truss through 2-3 members. (2) Treat one side as free body. (3) Sum moments about convenient point. (4) Solve for unknown forces. FASTER than joints for specific members. EXAMPLE (SIMPLE KING POST TRUSS, 6m span, 2m height, 1000kg center load): Top chords = 1500kg tension (pulling apart). Bottom chord = 1200kg compression (pushing together). Center post = 1000kg compression (pushing down on bottom chord). ACTUAL CALCULATION requires trigonometry (force resolution into components). RULE OF THUMB: Top chords under uniform load ≈ (span² × load per meter) / (8 × height). Bottom chord ≈ same. Diagonals ≈ sqrt(2) × vertical force."
+- 'MEMBER SIZING: "TENSION MEMBERS: Size by cross-sectional area. Force / Area = Stress. Keep stress < allowable. WOOD: Allowable tension 6-12 MPa (species dependent). STEEL: Allowable tension 140-250 MPa. EXAMPLE: 10,000N tension force, wood at 8 MPa allowable. Area needed = 10,000N / (8 × 10⁶ Pa) = 0.00125 m² = 1250 mm². Use 40mm × 40mm member (1600 mm², adequate safety). COMPRESSION MEMBERS: Must resist BUCKLING (sideways bending failure). Critical load = (π² × E × I) / L² (Euler buckling formula). E = elastic modulus (wood 8,000-15,000 MPa, steel 200,000 MPa). I = moment of inertia (depends on cross-section—larger for same area if distributed away from center). L = unsupported length. TO INCREASE BUCKLING RESISTANCE: (1) Use larger cross-section (increases I). (2) Use stiffer material (increases E). (3) Reduce unsupported length (brace at midpoint—halves L, quadruples capacity). (4) Use optimal shape: Round/square better than thin rectangular. SLENDERNESS RATIO = L / r (r = radius of gyration, typically 0.25-0.3 of member dimension). Keep < 200 for wood, < 150 for steel. RULE OF THUMB COMPRESSION SIZING: Compression members need 2-4× the cross-section of equivalent tension members (buckling governs). Long compression members (L > 20× width) need lateral bracing at midpoint or 1/3 points."
+- 'JOINT CONNECTIONS: "Critical failure point. Joint must transfer forces without slipping or crushing. WOOD CONNECTIONS: GUSSET PLATES: Plywood or steel plates, 10-20mm thick, nail/bolt/screw on both sides of joint. Overlap members 200-400mm. Nails spaced 40-60mm, minimum 10 nails per member. BOLTS: Through-bolts with washers, diameter 12-20mm, 2-4 bolts per member. Holes 1-2mm oversize for tolerance. Washers 50-75mm diameter (prevent bolt from pulling through wood). MORTISE AND TENON: Traditional, labor-intensive. Tenon (protruding end) fits into mortise (hole). Pin or peg to secure. Strong if well-made. SPLIT RING CONNECTORS: Metal rings embedded in wood, bolt through center. Very strong for heavy loads. LASHED CONNECTIONS (primitive): Rope/cordage binding. Weak (1/10 strength of bolted), but usable for temporary structures. Use multiple wraps (20-40 turns), wet lashing, tighten as it dries. METAL CONNECTIONS: WELDED: Strongest. Weld gusset plates or directly weld members (steel). BOLTED: Bolt through flanges with gusset plates. High-strength bolts grade 8.8 or better. RIVETED: Historical (old bridges). Hammered hot rivets. Strong but obsolete. DESIGN RULE: Joint strength ≥ weakest connected member strength. Joint failure often catastrophic. Err on side of over-strength."
+- 'TRUSS DESIGN PROCESS: "(1) DEFINE REQUIREMENTS: Span length, load type (roof snow, bridge vehicles, dead weight), clearance height, material available. (2) SELECT TRUSS TYPE: Based on span, load, materials. Pratt/Howe for long spans. King post for short. Warren for efficiency. (3) DETERMINE GEOMETRY: Height typically span / 6 to span / 4 (steeper = more efficient but taller). Panel length (distance between joints) typically span / 6 to span / 10 (more panels = more joints but smaller members). EXAMPLE: 12m span, use height 2m (span / 6). 6 panels = 2m per panel. (4) CALCULATE LOADS: Dead load (self-weight of truss + covering). Live load (snow, people, vehicles). Wind load (uplift on roof, lateral on bridge). LOAD FACTORS: Dead × 1.2 + Live × 1.6 (safety factors). (5) ANALYZE FORCES: Use method of joints or software (many free truss calculators online—input geometry and loads, outputs member forces). (6) SIZE MEMBERS: Tension members by stress. Compression by buckling. Add 20-30% safety margin. (7) DESIGN JOINTS: Choose connection method. Size gussets, count fasteners. (8) CHECK DEFLECTION: Truss sags under load. Maximum deflection typically span / 240 for roofs (50mm for 12m span), span / 500 for bridges (24mm for 12m span). If excessive, increase member sizes or add more triangulation. (9) BUILD: Assemble on flat surface (ground or floor). Check all angles and lengths. Install fasteners. Lift into position (crane, multiple people, temporary bracing)."
+- 'CONSTRUCTION TIPS: "BUILD FLAT: Assemble truss on ground or large flat surface before raising (easier to check alignment, square, and join). JIG: For multiple identical trusses, build jig (template on flat surface with stops for member positions). Speeds production and ensures consistency. TEMPORARY BRACING: During raising, truss is unstable (can tip sideways). Use temporary diagonal braces until permanent roof sheathing or lateral bracing installed. SPACING: Roof trusses typically 0.4-0.6m on center (close spacing reduces roof decking thickness). Bridge trusses wider (1-2m spacing with lateral floor beams). CAMBER: Pre-bow truss upward 10-20mm (opposite of expected deflection under load). When loaded, truss flattens to level. Prevents sagging appearance. QUALITY CONTROL: Check all connections before raising. Missing bolt or inadequate nailing can cause sudden collapse under load. LOAD TEST: For critical structures (bridges), proof-test with 1.5× design load before opening to public use. Monitor deflections.' warnings:"
+- A single failed member or connection can cause PROGRESSIVE COLLAPSE (initial failure overloads adjacent members, causing cascading failures—entire truss collapses in seconds). Examples:
+- I-35W bridge collapse (Minneapolis 2007, 13 dead, gusset plate failure). Silver Bridge collapse (1967, 46 dead, single eyebar fracture). BUILD with adequate safety factors. INSPECT regularly (annually for critical structures)—look for cracks, loose connections, rust, rot, insect damage
+- "Compression members must be braced against LATERAL BUCKLING (sideways bending perpendicular to truss plane). Long unsupported compression members (especially top chord in roof trusses before sheathing installed) can buckle sideways even if strong in truss plane. INSTALL: Lateral bracing (diagonal wood braces connecting multiple trusses), or roof sheathing/decking (prevents lateral movement). SPACING: Bracing every 1-2m along compression members"
+- "OVERLOADING during construction is common cause of failure. Truss designed for distributed load (snow, vehicles), but during construction, concentrated loads (workers, material piles, equipment) may exceed design. EXAMPLE: 4 workers (400kg) standing at one panel point = 4000N concentrated vs designed for 500N distributed. NEVER exceed design loads. Stage materials. Limit workers per truss"
+- WOOD TRUSSES:
+- "Rot and insect damage (termites, carpenter ants, powder-post beetles) weaken members over years. PREVENT: Keep wood dry (roof waterproofing critical), treat with borate preservative (disodium octaborate tetrahydrate—low toxicity, prevents insects/fungi), elevate truss bearing points above ground moisture (minimum 150mm), inspect annually. FAILED TRUSSES can collapse suddenly with no warning"
+- SNOW LOADS can exceed design if drifting occurs (valleys, wind shadows). Design for 1.5-2× flat snow load in drift-prone areas. UNBALANCED LOADS (snow melts on sunny side, remains on shaded side) create torsion (twisting). Design for unbalanced snow (full load on half of truss). ICE is denser than snow (ice 900 kg/m³, snow 100-500 kg/m³)—ice storm can triple roof load
+- FIRE weakens steel trusses rapidly (steel loses 50% strength at 550°C, 90% at 750°C). Unprotected steel trusses collapse in 15-30 minutes under fire. PROTECT: Spray-on fireproofing, gypsum board enclosure, or use wood (chars slowly, retains strength longer). Wood trusses char at 0.6-0.8mm per minute—100mm member lasts 60-90 minutes
+- JOINT ECCENTRICITY (members don't align at true centerpoint) creates bending moments (reduces member capacity 10-30%). DESIGN:
+- Ensure member centerlines intersect at single point per joint. Offset <5mm acceptable. Larger offsets require bending analysis
+- "VIBRATION in bridge trusses (rhythmic loading from vehicles, people walking in sync) can cause resonance (destructive oscillations). Millennium Bridge (London) closed days after opening—pedestrian resonance. DESIGN: Add damping (friction connections, tuned mass dampers), avoid natural frequencies 1-3 Hz (walking pace), limit deflections related_entries:"
 - l5-structural-load-paths
 - l5-structural-bridge-basics
 - l5-structural-timber-framing
-sources:
+- l5-math-geometry-construction
+- "l5-math-trigonometry sources:"
 - openstax-engineering-statics
 - mit-ocw-mechanical-engineering
-last_verified: '2026-02-18'
+- aisc-steel-construction-manual
+- timber-construction-manual
 confidence: high
 offline_assets: []
 ---
 
 ## Overview
-Using triangulated frameworks to span distances efficiently with minimal material.
+Using triangulated frameworks to span distances efficiently with minimal material. Trusses use triangles (geometrically rigid) to distribute loads through tension and compression members.
 
 ## Step-by-step
-1. Understand that triangles are inherently rigid—the basis of all trusses.
-2. Design common truss types: king post (simplest), queen post, Howe, Pratt.
-3. Calculate member forces using method of joints or method of sections.
-4. Size members: tension members can be thinner; compression members must resist buckling.
-5. Connect joints with gusset plates, pegs, bolts, or lashed connections.
+[Detailed steps in frontmatter above]
 
 ## Warnings
-- A single failed member can cause progressive truss collapse.
-- Compression members must be braced against lateral buckling.
+[Detailed warnings in frontmatter above]

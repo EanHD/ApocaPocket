@@ -18,7 +18,8 @@ sources:
 related_entries:
 - l5-health-herbal-medicine-reference
 - l1-medical-infection-prevention
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: Natural compounds with documented antimicrobial activity. NOT substitutes for antibiotics when available, but useful when pharmaceutical antibiotics are unavailable.
 warnings:
 - These are NOT equivalent to pharmaceutical antibiotics

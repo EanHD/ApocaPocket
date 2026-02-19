@@ -47,7 +47,8 @@ steps:
   than grain mashes.'
 - 'IMPROVISED STILL FROM SCAVENGED MATERIALS: pressure cooker (pot), copper brake line from a vehicle (condenser coil), automotive hose (connections), bucket of cold water (condenser bath). Seal joints
   with flour-water paste or clay. Replace condenser water frequently to keep it cold.'
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 ---
 
 # Ethanol Distillation — Fuel and Antiseptic

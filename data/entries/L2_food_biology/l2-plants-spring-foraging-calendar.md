@@ -22,6 +22,7 @@ related_entries:
 - l2-plants-cattail
 - l2-plants-seasonality
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Month-by-month guide to spring foraging in temperate North America (USDA zones 4-7). Spring is the most abundant foraging season — young greens are tender, nutritious, and easy to identify. Adjust
   timing by 2-3 weeks per zone.
 warnings:

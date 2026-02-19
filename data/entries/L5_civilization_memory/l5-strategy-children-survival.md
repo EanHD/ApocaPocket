@@ -19,7 +19,8 @@ related_entries:
 - l5-strategy-group-survival
 - l1-medical-hypothermia
 - l5-edu-skill-preservation
-last_verified: '2026-02-18'
+audit_status: verified
+last_verified: '2026-02-19'
 summary: 'Children change everything. They can''t forage, can''t work long hours, need more food per body weight, and are more vulnerable to exposure. But they''re also the future. This entry covers: keeping
   kids safe, age-appropriate tasks, education in survival, and psychological needs.'
 warnings:

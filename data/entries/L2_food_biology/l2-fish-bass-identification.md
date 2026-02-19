@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-fish-trout-identification
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Bass (Micropterus species) are common predatory fish in lakes, ponds, and rivers. Largemouth and smallmouth bass are both edible and fight hard on the line. Good eating but bony.
 warnings:
 - Bass from warm/stagnant water can taste muddy - cold, flowing water produces better flavor

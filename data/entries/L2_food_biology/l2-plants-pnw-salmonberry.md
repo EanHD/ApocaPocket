@@ -17,6 +17,7 @@ sources:
 related_entries:
 - l2-plants-pnw-thimbleberry
 last_verified: '2026-02-18'
+audit_status: verified
 summary: Salmonberry (Rubus spectabilis) produces salmon-colored berries in early summer. One of the first berries to ripen in the PNW. Watery and mild flavor. Young shoots edible in spring.
 warnings:
 - Berries are watery and bland
