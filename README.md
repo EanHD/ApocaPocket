@@ -1,6 +1,6 @@
 # 📱 ApocaPocket - Palm-Sized Survival Manual
 
-**Status:** ✅ **Production Ready** | **Database:** 368 entries, 31 diagrams | **Target:** RP2040-Zero
+**Status:** ✅ **Production Ready** | **Database:** 388 entries, 31 diagrams | **Target:** RP2040-Zero
 
 > *"All this data easily retrievable in the palm of your hand"*
 
@@ -10,7 +10,7 @@
     ║   │  🔋85%  🌡️-2°C   │   ║  ← 1.69" Display (240×240px)
     ║   ├───────────────────┤   ║
     ║   │                   │   ║
-    ║   │  → CPR Basics     │   ║  ← 368 survival entries
+    ║   │  → CPR Basics     │   ║  ← 388 survival entries
     ║   │    Bleeding       │   ║
     ║   │    Hypothermia    │   ║  ← Professional protocols
     ║   │    Fire Starting  │   ║
@@ -32,7 +32,9 @@
 ## 🎯 What Is This?
 
 **A complete offline survival knowledge base** optimized for palm-sized hardware:
-- **368 entries** covering immediate survival → civilization rebuilding (Phase 1 expansion: +21 urban/children/medical)
+- **388 entries** covering immediate survival → civilization rebuilding
+  - Phase 1: +21 urban/children/medical entries
+  - Phase 2: +20 modern technology entries (solar, radio, generators, electronics)
 - **31 professional diagrams** (medical, plant ID, survival techniques, decision frameworks)
 - **Specific measurements, protocols, safety warnings** - not just summaries
 - **Quality:** Professional field manual standard (comparable to military manuals)
@@ -165,7 +167,7 @@ python tools/export_rp2040.py
    → Community suggestions
 
 📂 data/
-   ├── entries/        (368 markdown files organized by layer - Phase 1: +21 urban/children/medical)
+   ├── entries/        (388 entries - Phase 1: +21 urban/children/medical, Phase 2: +20 tech)
    ├── sources/        (58 authoritative source registry)
    └── diagrams/       (31 professional illustrations)
 
@@ -326,13 +328,14 @@ Optional sensors:
 ## 📈 Project Status
 
 **✅ COMPLETED:**
-- [x] Database content (368 entries, Phase 1 expansion complete)
+- [x] Database content (388 entries, Phase 1 + Phase 2 expansions complete)
 - [x] Visual assets (31 professional diagrams)
-- [x] Search index (350/368 entries indexed, 95%)
+- [x] Search index (350/388 entries indexed, 90%)
 - [x] Quality standards enforced (measurements, protocols, safety)
 - [x] GitHub backup (commit 27f2b0e)
 - [x] Documentation (UX strategy, hardware plan, audit reports)
 - [x] Phase 1 Expansion (+21 entries: urban survival, children-specific, advanced medical)
+- [x] Phase 2 Expansion (+20 entries: solar/power, radio/comms, mechanical/electronics)
 
 **🔄 IN PROGRESS:**
 - [ ] CircuitPython firmware development (display + SD + buttons)
@@ -396,7 +399,7 @@ This isn't just a database or a device. It's **infrastructure for human survival
 
 When the power goes out, when you're in the wilderness, when disaster strikes - you pull this out of your pocket and have **instant access to centuries of human knowledge** about how to stay alive, feed yourself, build shelter, treat injuries, and eventually rebuild.
 
-**One device. One button cluster. 368 ways to survive.**
+**One device. One button cluster. 388 ways to survive.**
 
 The database is done. Now we build the hardware.
 
