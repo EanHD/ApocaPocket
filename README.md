@@ -35,7 +35,7 @@
 - **388 entries** covering immediate survival → civilization rebuilding
   - Phase 1: +21 urban/children/medical entries
   - Phase 2: +20 modern technology entries (solar, radio, generators, electronics)
-- **31 professional diagrams** (medical, plant ID, survival techniques, decision frameworks)
+- **66 professional diagrams** (medical, plant ID, survival techniques, decision frameworks)
 - **Specific measurements, protocols, safety warnings** - not just summaries
 - **Quality:** Professional field manual standard (comparable to military manuals)
 - **Fully offline** - no network, no cloud, no dependencies
