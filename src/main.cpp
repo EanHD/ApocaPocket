@@ -145,20 +145,32 @@ void loop() {
 
     if (c == 0) {
         // Browse: Categories -> Subfolders -> Entries -> View
-        const char* catPtrs[NUM_CATS];
-        for (int i = 0; i < NUM_CATS; i++) catPtrs[i] = CAT_NAMES[i];
-        int cat = menu("Categories", catPtrs, NUM_CATS);
+        // Show category names with entry counts
+        for (int i = 0; i < NUM_CATS; i++) {
+            int cnt = 0;
+            for (uint16_t j = 0; j < gIndex.count(); j++) {
+                if (gIndex.category(j) == i) cnt++;
+            }
+            snprintf(menuBuf[i], 28, "%s (%d)", CAT_NAMES[i], cnt);
+            menuBuf[i][27] = '\0';
+            menuPtrs[i] = menuBuf[i];
+        }
+        int cat = menu("Categories", menuPtrs, NUM_CATS);
         if (cat < 0 || gEmergency) return;
 
         uint8_t subs[16];
         uint8_t subCount;
         gIndex.getSubfolders(cat, subs, subCount, 16);
         for (int i = 0; i < subCount; i++) {
+            // Count entries in this subfolder
+            uint16_t tmpIdx[MAX_MENU_ITEMS];
+            uint16_t tmpCnt;
+            gIndex.getBySubfolder(cat, subs[i], tmpIdx, tmpCnt, MAX_MENU_ITEMS);
             const char* sname = subfolderName(subs[i]);
             if (sname) {
-                strncpy(menuBuf[i], sname, 27);
+                snprintf(menuBuf[i], 28, "%s (%d)", sname, tmpCnt);
             } else {
-                snprintf(menuBuf[i], 28, "Folder %d", subs[i]);
+                snprintf(menuBuf[i], 28, "Folder %d (%d)", subs[i], tmpCnt);
             }
             menuBuf[i][27] = '\0';
             menuPtrs[i] = menuBuf[i];

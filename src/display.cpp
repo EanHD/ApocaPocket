@@ -25,7 +25,7 @@ void Screen::init() {
 
     _tft.init(DISP_W, DISP_H);
     _tft.setRotation(0);
-    _tft.setSPISpeed(62500000);
+    _tft.setSPISpeed(40000000); // 40MHz — stable for breadboard wiring
 
     // Black out entire display (corners stay black = invisible on round bezel)
     _tft.fillScreen(COL_BG);
