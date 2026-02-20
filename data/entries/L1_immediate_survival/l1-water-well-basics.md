@@ -1,0 +1,53 @@
+---
+id: l1-water-well-basics
+title: Hand-Dug Well Fundamentals
+category: L1_immediate_survival
+subtopic: water
+tags:
+- well
+- groundwater
+- digging
+region_relevance:
+- global
+summary: Basic principles of locating and digging a hand well for groundwater access.
+steps:
+- 'Look for indicators of shallow water table: green vegetation, low-lying areas,
+  existing seeps.'
+- Dig at least 50 meters from any latrine, animal area, or contamination source.
+- Dig a hole 3-4 feet in diameter; line walls with rocks or wood to prevent collapse.
+- Continue digging until water seeps in and collects.
+- Allow well to fill, then bail out muddy water — repeat until water runs clearer.
+- Always treat well water before drinking — groundwater is not guaranteed safe.
+warnings:
+- Cave-in is the primary danger — never dig without shoring walls.
+- Well digging in sandy soil is extremely dangerous without proper lining.
+- Groundwater can still contain bacteria, parasites, and chemicals — always treat.
+- Locate well uphill from latrines and waste disposal areas.
+related_entries:
+- l1-water-boiling-disinfection
+- l1-water-contamination-risk
+- l1-water-storage-safety
+sources:
+- who-household-water-treatment
+- fema-water-storage
+last_verified: '2026-02-18'
+confidence: medium
+offline_assets: []
+---
+
+## Overview
+Basic principles of locating and digging a hand well for groundwater access.
+
+## Step-by-step
+1. Look for indicators of shallow water table: green vegetation, low-lying areas, existing seeps.
+2. Dig at least 50 meters from any latrine, animal area, or contamination source.
+3. Dig a hole 3-4 feet in diameter; line walls with rocks or wood to prevent collapse.
+4. Continue digging until water seeps in and collects.
+5. Allow well to fill, then bail out muddy water — repeat until water runs clearer.
+6. Always treat well water before drinking — groundwater is not guaranteed safe.
+
+## Warnings
+- Cave-in is the primary danger — never dig without shoring walls.
+- Well digging in sandy soil is extremely dangerous without proper lining.
+- Groundwater can still contain bacteria, parasites, and chemicals — always treat.
+- Locate well uphill from latrines and waste disposal areas.

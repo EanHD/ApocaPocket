@@ -1,0 +1,79 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="12" fill="#FFFF00" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">RESOURCE MATRIX</text>
+  
+  <!-- Headers -->
+  <text x="40" y="30" fill="#00FFFF" font-family="monospace" font-size="7" font-weight="bold">HAVE</text>
+  <text x="140" y="30" fill="#00FFFF" font-family="monospace" font-size="7" font-weight="bold">→ CAN MAKE</text>
+  
+  <!-- Tier 0: Nothing -->
+  <rect x="5" y="35" width="70" height="18" fill="#FF0000" fill-opacity="0.2"/>
+  <text x="10" y="46" fill="#FFFFFF" font-family="monospace" font-size="6">HANDS ONLY</text>
+  <line x1="75" y1="44" x2="95" y2="44" stroke="#FFFF00" stroke-width="1"/>
+  <polygon points="95,44 92,42 92,46" fill="#FFFF00"/>
+  <text x="100" y="40" fill="#FFFFFF" font-family="monospace" font-size="5">Tinder gather</text>
+  <text x="100" y="47" fill="#FFFFFF" font-family="monospace" font-size="5">Debris shelter</text>
+  
+  <!-- Tier 1: Sharp rock -->
+  <rect x="5" y="58" width="70" height="18" fill="#FFFF00" fill-opacity="0.2"/>
+  <text x="10" y="69" fill="#FFFFFF" font-family="monospace" font-size="6">SHARP ROCK</text>
+  <line x1="75" y1="67" x2="95" y2="67" stroke="#FFFF00" stroke-width="1"/>
+  <polygon points="95,67 92,65 92,69" fill="#FFFF00"/>
+  <text x="100" y="63" fill="#FFFFFF" font-family="monospace" font-size="5">Feather sticks</text>
+  <text x="100" y="70" fill="#FFFFFF" font-family="monospace" font-size="5">Cut saplings</text>
+  
+  <!-- Tier 2: Knife -->
+  <rect x="5" y="81" width="70" height="18" fill="#00FFFF" fill-opacity="0.2"/>
+  <text x="10" y="92" fill="#FFFFFF" font-family="monospace" font-size="6">KNIFE/BLADE</text>
+  <line x1="75" y1="90" x2="95" y2="90" stroke="#00FFFF" stroke-width="1"/>
+  <polygon points="95,90 92,88 92,92" fill="#00FFFF"/>
+  <text x="100" y="86" fill="#FFFFFF" font-family="monospace" font-size="5">Bow drill</text>
+  <text x="100" y="93" fill="#FFFFFF" font-family="monospace" font-size="5">Traps, snares</text>
+  
+  <!-- Tier 3: Axe -->
+  <rect x="5" y="104" width="70" height="18" fill="#00FF00" fill-opacity="0.2"/>
+  <text x="10" y="115" fill="#FFFFFF" font-family="monospace" font-size="6">AXE</text>
+  <line x1="75" y1="113" x2="95" y2="113" stroke="#00FF00" stroke-width="1"/>
+  <polygon points="95,113 92,111 92,115" fill="#00FF00"/>
+  <text x="100" y="109" fill="#FFFFFF" font-family="monospace" font-size="5">Log shelter</text>
+  <text x="100" y="116" fill="#FFFFFF" font-family="monospace" font-size="5">Firewood mass</text>
+  
+  <!-- Tier 4: Fire -->
+  <rect x="5" y="127" width="70" height="18" fill="#FF8800" fill-opacity="0.2"/>
+  <text x="10" y="138" fill="#FFFFFF" font-family="monospace" font-size="6">FIRE</text>
+  <line x1="75" y1="136" x2="95" y2="136" stroke="#FF8800" stroke-width="1"/>
+  <polygon points="95,136 92,134 92,138" fill="#FF8800"/>
+  <text x="100" y="132" fill="#FFFFFF" font-family="monospace" font-size="5">Boil water</text>
+  <text x="100" y="139" fill="#FFFFFF" font-family="monospace" font-size="5">Pottery, metal</text>
+  
+  <!-- Material to Project -->
+  <text x="120" y="160" fill="#FFFF00" font-family="monospace" font-size="7" font-weight="bold" text-anchor="middle">MATERIAL → PROJECT</text>
+  
+  <rect x="5" y="165" width="230" height="70" fill="none" stroke="#00FFFF" stroke-width="1"/>
+  
+  <!-- Column 1 -->
+  <text x="10" y="175" fill="#00FFFF" font-family="monospace" font-size="6">ROCKS:</text>
+  <text x="10" y="183" fill="#FFFFFF" font-family="monospace" font-size="5">• Tools, fire starter</text>
+  <text x="10" y="190" fill="#FFFFFF" font-family="monospace" font-size="5">• Pot boilers, weights</text>
+  
+  <text x="10" y="202" fill="#00FFFF" font-family="monospace" font-size="6">STICKS:</text>
+  <text x="10" y="210" fill="#FFFFFF" font-family="monospace" font-size="5">• Shelter, fuel, tools</text>
+  <text x="10" y="217" fill="#FFFFFF" font-family="monospace" font-size="5">• Weapons, traps</text>
+  
+  <text x="10" y="229" fill="#00FFFF" font-family="monospace" font-size="6">BARK:</text>
+  <text x="10" y="237" fill="#FFFFFF" font-family="monospace" font-size="5">• Cordage, containers</text>
+  
+  <!-- Column 2 -->
+  <text x="125" y="175" fill="#00FFFF" font-family="monospace" font-size="6">FIBER:</text>
+  <text x="125" y="183" fill="#FFFFFF" font-family="monospace" font-size="5">• Rope, baskets, nets</text>
+  <text x="125" y="190" fill="#FFFFFF" font-family="monospace" font-size="5">• Clothing, cordage</text>
+  
+  <text x="125" y="202" fill="#00FFFF" font-family="monospace" font-size="6">BONE/HIDE:</text>
+  <text x="125" y="210" fill="#FFFFFF" font-family="monospace" font-size="5">• Needles, clothing</text>
+  <text x="125" y="217" fill="#FFFFFF" font-family="monospace" font-size="5">• Glue, containers</text>
+  
+  <text x="125" y="229" fill="#00FFFF" font-family="monospace" font-size="6">CLAY:</text>
+  <text x="125" y="237" fill="#FFFFFF" font-family="monospace" font-size="5">• Pottery, bricks</text>
+</svg>

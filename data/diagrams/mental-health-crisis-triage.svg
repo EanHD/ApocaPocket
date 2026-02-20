@@ -1,0 +1,75 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="12" fill="#FFFF00" font-family="monospace" font-size="9" font-weight="bold" text-anchor="middle">MENTAL HEALTH TRIAGE</text>
+  
+  <!-- Start -->
+  <rect x="85" y="20" width="70" height="18" fill="#FFFFFF" fill-opacity="0.2" stroke="#FFFFFF"/>
+  <text x="120" y="32" fill="#FFFFFF" font-family="monospace" font-size="8" text-anchor="middle">PERSON IN CRISIS</text>
+  
+  <line x1="120" y1="38" x2="120" y2="48" stroke="#00FFFF" stroke-width="2"/>
+  <polygon points="120,48 117,45 123,45" fill="#00FFFF"/>
+  
+  <!-- Danger to self/others? -->
+  <rect x="75" y="48" width="90" height="18" fill="#FF0000" fill-opacity="0.2" stroke="#FF0000"/>
+  <text x="120" y="60" fill="#FF0000" font-family="monospace" font-size="7" text-anchor="middle">DANGER TO SELF/OTHERS?</text>
+  
+  <!-- YES branch - Emergency -->
+  <line x1="165" y1="57" x2="200" y2="57" stroke="#FF0000" stroke-width="2"/>
+  <text x="180" y="53" fill="#FFFF00" font-family="monospace" font-size="6">YES</text>
+  <rect x="180" y="48" width="55" height="52" fill="#FF0000" fill-opacity="0.3" stroke="#FF0000" stroke-width="2"/>
+  <text x="207" y="68" fill="#FFFFFF" font-family="monospace" font-size="7" font-weight="bold" text-anchor="middle">EMERGENCY</text>
+  <text x="207" y="78" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Remove means</text>
+  <text x="207" y="85" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• 24/7 watch</text>
+  <text x="207" y="92" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Safety contract</text>
+  <text x="207" y="99" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Never alone</text>
+  
+  <!-- NO branch -->
+  <line x1="120" y1="66" x2="120" y2="78" stroke="#00FFFF" stroke-width="2"/>
+  <polygon points="120,78 117,75 123,75" fill="#00FFFF"/>
+  <text x="130" y="73" fill="#FFFF00" font-family="monospace" font-size="6">NO</text>
+  
+  <!-- Symptom type -->
+  <rect x="70" y="78" width="100" height="18" fill="#00FFFF" fill-opacity="0.2" stroke="#00FFFF"/>
+  <text x="120" y="90" fill="#00FFFF" font-family="monospace" font-size="7" text-anchor="middle">PRIMARY SYMPTOM?</text>
+  
+  <!-- PANIC branch -->
+  <line x1="70" y1="87" x2="30" y2="87" stroke="#FFFF00" stroke-width="1"/>
+  <line x1="30" y1="87" x2="30" y2="110" stroke="#FFFF00" stroke-width="1"/>
+  <rect x="5" y="110" width="50" height="38" fill="#FFFF00" fill-opacity="0.2"/>
+  <text x="30" y="120" fill="#FFFF00" font-family="monospace" font-size="7" font-weight="bold" text-anchor="middle">PANIC</text>
+  <text x="30" y="128" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Quiet space</text>
+  <text x="30" y="135" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Box breathing</text>
+  <text x="30" y="142" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Grounding</text>
+  
+  <!-- PSYCHOSIS branch -->
+  <line x1="120" y1="96" x2="120" y2="110" stroke="#FF00FF" stroke-width="1"/>
+  <rect x="60" y="110" width="60" height="38" fill="#FF00FF" fill-opacity="0.2"/>
+  <text x="90" y="120" fill="#FF00FF" font-family="monospace" font-size="7" font-weight="bold" text-anchor="middle">PSYCHOSIS</text>
+  <text x="90" y="128" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Calm voice</text>
+  <text x="90" y="135" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Don't argue</text>
+  <text x="90" y="142" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Low stimulation</text>
+  
+  <!-- DEPRESSION branch -->
+  <line x1="170" y1="87" x2="210" y2="87" stroke="#0088FF" stroke-width="1"/>
+  <line x1="210" y1="87" x2="210" y2="110" stroke="#0088FF" stroke-width="1"/>
+  <rect x="185" y="110" width="50" height="38" fill="#0088FF" fill-opacity="0.2"/>
+  <text x="210" y="120" fill="#0088FF" font-family="monospace" font-size="7" font-weight="bold" text-anchor="middle">SHUTDOWN</text>
+  <text x="210" y="128" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Basic care</text>
+  <text x="210" y="135" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Silent presence</text>
+  <text x="210" y="142" fill="#FFFFFF" font-family="monospace" font-size="5" text-anchor="middle">• Tiny goals</text>
+  
+  <!-- Post-crisis care -->
+  <text x="120" y="165" fill="#FFFF00" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">POST-CRISIS (24-72hr)</text>
+  <rect x="10" y="170" width="220" height="28" fill="#00FF00" fill-opacity="0.15" stroke="#00FF00"/>
+  <text x="120" y="180" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">• Physical needs (food, water, sleep)</text>
+  <text x="120" y="188" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">• Supervision (never alone for 1-3 days)</text>
+  <text x="120" y="196" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">• Return to routine quickly</text>
+  
+  <!-- Warning signs -->
+  <text x="120" y="210" fill="#FF0000" font-family="monospace" font-size="7" font-weight="bold" text-anchor="middle">DANGER SIGNS - ACT NOW:</text>
+  <text x="120" y="219" fill="#FF0000" font-family="monospace" font-size="5" text-anchor="middle">Suicidal talk | Giving away items | Sudden calm after crisis</text>
+  <text x="120" y="227" fill="#FF0000" font-family="monospace" font-size="5" text-anchor="middle">Weapons access | Saying goodbye | Self-harm attempts</text>
+  <text x="120" y="235" fill="#FF0000" font-family="monospace" font-size="5" text-anchor="middle">Violence threats | Hallucinations | Complete withdrawal</text>
+</svg>

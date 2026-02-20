@@ -1,0 +1,51 @@
+---
+id: l2-nutrition-jerky
+title: Meat Jerky — Drying Techniques and Safety
+category: L2_food_biology
+subtopic: nutrition
+tags:
+- jerky
+- meat-preservation
+- drying
+- food-safety
+- protein
+region_relevance:
+- global
+confidence: high
+sources:
+- usda-meat-preservation
+- state-wildlife-hunter-ed
+related_entries:
+- l2-hunting-smoking-detailed
+- l2-nutrition-pemmican
+- l2-meat-preservation
+last_verified: '2026-02-18'
+audit_status: verified
+summary: 'Jerky is lean meat dried to below 15% moisture, creating a lightweight, shelf-stable protein source. 5 lbs of raw meat yields about 1 lb of jerky. Properly made jerky lasts 1-2 months unrefrigerated,
+  or 6+ months in cool/dry storage. Critical: only use LEAN meat — fat goes rancid.'
+warnings:
+- Fat is the enemy of jerky — trim ALL visible fat before drying. Fat does not dry; it goes rancid and spoils the meat.
+- Ground meat jerky has higher bacteria risk than whole-muscle due to surface bacteria being mixed throughout. Dry at higher temperatures or pre-cook.
+- Wild game may contain parasites (Trichinella in bear/boar, tapeworms in deer) — freeze meat for 30 days at -18°C or pre-heat to 71°C before drying to kill parasites
+- If jerky bends without cracking, it's not dry enough and will mold. It should crack (but not snap in half) when bent.
+steps:
+- 'MEAT SELECTION: use the leanest cuts — deer/elk backstrap, moose round, beef eye of round, rabbit, fish (salmon, trout). Trim every trace of fat, silverskin, and connective tissue.'
+- 'SLICING: partially freeze meat for easier slicing. Cut into strips 1/4 inch thick (6mm), 1 inch wide, and as long as possible. Cut WITH the grain for chewy jerky, AGAINST the grain for tender/brittle.
+  Uniform thickness ensures even drying.'
+- 'OPTIONAL CURE: soak strips in brine (1/4 cup salt per quart water) for 1-2 hours. Salt inhibits bacteria during drying. Can add seasonings: pepper, garlic, wild herbs. Traditional pemmican cultures used
+  no cure — but thorough drying is then critical.'
+- 'SUN DRYING: hang strips on a rack or line in direct sunlight and wind. Protect from flies with a cheesecloth/mesh covering. Takes 1-3 days depending on conditions. Bring inside at night. This is the
+  oldest method but highest contamination risk.'
+- 'FIRE/SMOKE DRYING: hang strips on a rack 2-4 feet above a low, smoky fire. Temperature at meat level should be 50-70°C (120-160°F). Smoking adds antimicrobial compounds and flavor. Takes 4-12 hours.
+  This is the most reliable field method.'
+- 'OVEN/DEHYDRATOR: if available, dry at 63-68°C (145-155°F) for 4-8 hours. Most consistent results.'
+- 'TESTING DRYNESS: properly dried jerky should crack and show fibers when bent at 90°, but not snap in half. It should feel dry to touch, not tacky or oily. When cooled, it should be firm and leathery.'
+- 'STORAGE: cool completely before storing (condensation inside a sealed container causes mold). Store in: sealed containers with air removed, paper bags (allows remaining moisture to escape but shorter
+  shelf life), or vacuum-sealed bags (longest life). Keep in coolest, driest, darkest location available.'
+- 'YIELD AND NUTRITION: 1 lb of jerky ≈ 1,600 calories and 130g protein. Weight reduction is 4:1 to 5:1 (5 lbs fresh meat → 1 lb jerky). This is one of the highest calorie-per-weight survival foods after
+  pemmican and rendered fat.'
+---
+
+# Meat Jerky — Drying Techniques and Safety
+
+Jerky is lean meat dried to below 15% moisture, creating a lightweight, shelf-stable protein source. 5 lbs of raw meat yields about 1 lb of jerky. Properly made jerky lasts 1-2 months unrefrigerated, or 6+ months in cool/dry storage. Critical: only use LEAN meat — fat goes rancid.

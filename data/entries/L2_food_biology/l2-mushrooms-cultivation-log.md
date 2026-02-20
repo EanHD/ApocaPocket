@@ -1,0 +1,55 @@
+---
+id: l2-mushrooms-cultivation-log
+title: Log Cultivation — Shiitake and Oyster Mushrooms
+category: L2_food_biology
+subtopic: mushrooms
+tags:
+- mushroom-cultivation
+- shiitake
+- oyster
+- log-growing
+- inoculation
+region_relevance:
+- global
+- temperate
+confidence: high
+sources:
+- extension-mushroom-guides
+- openstax-biology-2e
+related_entries:
+- l2-mushrooms-oyster
+- l4-agriculture-mushroom-cultivation
+- l2-mushrooms-drying-storage
+last_verified: '2026-02-18'
+audit_status: verified
+summary: Growing mushrooms on logs requires only fresh-cut hardwood logs, mushroom spawn (or wild spawn transfer), a drill, and patience. A single inoculated log produces mushrooms for 3-6 years. Oyster
+  mushrooms are easiest; shiitake produce the highest yields.
+warnings:
+- Use ONLY freshly cut logs (2-6 weeks old) — older logs may already be colonized by competing fungi
+- Never use softwood (pine, spruce, cedar) — mushroom mycelium cannot digest conifer wood effectively
+- Contamination by green mold (Trichoderma) is the main failure mode — keep spawn clean and inoculate quickly
+- Wild-transferred spawn may carry parasites or competing organisms — commercial spawn is more reliable when available
+steps:
+- 'LOG SELECTION: hardwoods with intact bark. Best for shiitake: oak, sweet gum, ironwood (3-8 inch diameter, 3-4 feet long). Best for oyster: poplar, willow, alder, birch (softer hardwoods colonize faster).
+  Cut during dormancy (late fall/winter) for highest sugar content in wood.'
+- Wait 2-4 weeks after cutting before inoculating — this lets the tree's natural anti-fungal compounds dissipate. But don't wait more than 6 weeks or competing fungi colonize first.
+- 'SPAWN TYPES: plug spawn (wooden dowels colonized with mycelium — easiest), sawdust spawn (packed into drilled holes — fastest colonization), or wild transfer (cut a piece of log with wild mycelium and
+  place against new log — unreliable but free).'
+- 'DRILLING: drill holes in a diamond pattern — rows 6 inches apart along the log, holes 4 inches apart within rows, staggered between rows. Hole size matches spawn type: 5/16 inch for plug spawn, 7/16
+  inch for sawdust spawn. Depth: 1-1.25 inches. A 4-foot log gets 30-50 holes.'
+- 'INOCULATION: insert plug spawn with a hammer (tap flush with bark) or pack sawdust spawn with a brass inoculation tool or thumb. Seal each hole with melted cheese wax, beeswax, or food-grade wax to prevent
+  contamination and drying. Cover the entire hole opening.'
+- 'INCUBATION: stack logs in a shaded area (70-80% shade) with good airflow. Off the ground on rails or pallets. Crisscross (log-cabin) stack or lean-to configuration. Keep moist — soak logs or spray with
+  water during dry periods. Target 35-45% moisture content in wood.'
+- 'COLONIZATION TIME: oyster mushrooms — 6-12 months. Shiitake — 8-18 months. You''ll see white mycelium visible on the log ends when colonization is progressing. Full colonization means the log is lighter
+  in weight and the bark may be slightly loose.'
+- 'FRUITING: naturally triggered by rain and temperature changes. To force fruiting: soak colonized logs in cold water (stream, pond, or barrel) for 24 hours, then stand upright in shade. Mushrooms appear
+  in 5-14 days. Can force-fruit every 8 weeks during growing season.'
+- 'HARVEST: pick mushrooms when caps are fully expanded but edges still slightly curved under. Twist and pull (don''t cut — stump can rot). A well-managed shiitake log produces 1-2 lbs of mushrooms per
+  year for 3-6 years. One cord of inoculated logs can produce 100+ lbs total.'
+- 'DRYING: slice mushrooms 1/4 inch thick and dry in sun, near a fire, or in a dehydrator at 45-55°C until crispy. Store in sealed containers. Dried mushrooms rehydrate in 30 minutes and last 1-2 years.'
+---
+
+# Log Cultivation — Shiitake and Oyster Mushrooms
+
+Growing mushrooms on logs requires only fresh-cut hardwood logs, mushroom spawn (or wild spawn transfer), a drill, and patience. A single inoculated log produces mushrooms for 3-6 years. Oyster mushrooms are easiest; shiitake produce the highest yields.
