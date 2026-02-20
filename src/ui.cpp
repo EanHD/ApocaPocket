@@ -349,12 +349,30 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
                 break;
             }
             if (btnOk.held()) {
-                bookmarked = toggleBookmark(eid);
+                // Context menu
+                const char* ctxItems[3];
+                ctxItems[0] = bookmarked ? "Remove Bookmark" : "Add Bookmark";
+                ctxItems[1] = "Entry Info";
+                ctxItems[2] = "Close";
+                int ctx = menu("Options", ctxItems, 3);
+                if (ctx == 0) {
+                    bookmarked = toggleBookmark(eid);
+                } else if (ctx == 1) {
+                    // Show entry info overlay
+                    screen.begin();
+                    screen.header("Entry Info", false);
+                    char infoBuf[31];
+                    snprintf(infoBuf, sizeof(infoBuf), "ID: %.24s", eid);
+                    screen.text(infoBuf, CX + 8, TOP_Y + 10, COL_SEC);
+                    snprintf(infoBuf, sizeof(infoBuf), "Lines: %d", total);
+                    screen.text(infoBuf, CX + 8, TOP_Y + 28, COL_SEC);
+                    snprintf(infoBuf, sizeof(infoBuf), "Bookmarked: %s",
+                             bookmarked ? "Yes" : "No");
+                    screen.text(infoBuf, CX + 8, TOP_Y + 46, COL_SEC);
+                    screen.centerText("press any button", TOP_Y + 80, COL_TER);
+                    waitAny();
+                }
                 prevScroll = -1; // force full redraw
-                screen.begin();
-                screen.centerText(bookmarked ? "Bookmarked" : "Removed",
-                                  DISP_H / 2, COL_ACCENT);
-                delay(800);
                 break;
             }
         }
@@ -363,37 +381,61 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
 
 // -- Text input (character picker) --
 void textInput(const char* title, char* output, int maxLen) {
-    static const char chars[] = "abcdefghijklmnopqrstuvwxyz 0123456789";
+    static const char chars[] = "abcdefghijklmnopqrstuvwxyz 0123456789.-_";
     static const int nchars = sizeof(chars) - 1;
     int ci = 0;
     int len = 0;
     output[0] = '\0';
 
     char dispBuf[25];
+    char charRow[13]; // show chars around current selection
 
     while (true) {
         screen.begin();
         screen.header(title);
 
-        // Build display: current text + cursor char + _
+        // Show current text with blinking cursor
         int dLen = 0;
         for (int i = 0; i < len && i < 22; i++)
             dispBuf[dLen++] = output[i];
-        dispBuf[dLen++] = chars[ci];
-        dispBuf[dLen++] = '_';
         dispBuf[dLen] = '\0';
-        screen.text(dispBuf, CX + 4, TOP_Y + 24, COL_PRI);
-        screen.centerText("UP/DN char  OK add  BK go",
-                          TOP_Y + 56, COL_TER);
+        screen.text(dispBuf, CX + 8, TOP_Y + 16, COL_PRI);
+
+        // Show character wheel: 5 chars centered on current
+        for (int j = -5; j <= 5; j++) {
+            int idx = (ci + j + nchars) % nchars;
+            charRow[j + 5] = chars[idx];
+        }
+        charRow[11] = '\0';
+        screen.centerText(charRow, TOP_Y + 40, COL_TER);
+        // Highlight current char
+        char cur[2] = { chars[ci], '\0' };
+        screen.centerText(cur, TOP_Y + 40, COL_ACCENT);
+
+        // Instructions
+        screen.text("UP/DN", CX + 8, TOP_Y + 68, COL_SEC);
+        screen.text("char", CX + 44, TOP_Y + 68, COL_TER);
+        screen.text("OK", CX + 8, TOP_Y + 82, COL_SEC);
+        screen.text("add", CX + 32, TOP_Y + 82, COL_TER);
+        screen.text("RIGHT", CX + 8, TOP_Y + 96, COL_SEC);
+        screen.text("delete", CX + 50, TOP_Y + 96, COL_TER);
+        screen.text("BACK", CX + 8, TOP_Y + 110, COL_SEC);
+        screen.text("done/cancel", CX + 44, TOP_Y + 110, COL_TER);
 
         poll();
         if (gEmergency || gGoHome) { output[0] = '\0'; return; }
-        if (btnUp.tapped()) ci = (ci + 1) % nchars;
-        else if (btnDn.tapped()) ci = (ci - 1 + nchars) % nchars;
+        if (btnUp.tapped() || btnUp.repeating())
+            ci = (ci + 1) % nchars;
+        else if (btnDn.tapped() || btnDn.repeating())
+            ci = (ci - 1 + nchars) % nchars;
         else if (btnOk.tapped() && len < maxLen - 1) {
             output[len++] = chars[ci];
             output[len] = '\0';
             ci = 0;
+        }
+        else if (btnRt.tapped() && len > 0) {
+            // Delete last char
+            output[--len] = '\0';
         }
         else if (btnBk.tapped()) {
             if (len == 0) { output[0] = '\0'; return; }
