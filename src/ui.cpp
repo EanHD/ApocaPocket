@@ -96,6 +96,7 @@ void addHistory(const char* eid, uint8_t fi, const char* title) {
     strncpy(gHistory[0].title, title, TITLE_DISPLAY_LEN);
     gHistory[0].title[TITLE_DISPLAY_LEN] = '\0';
     gHistory[0].folderIdx = fi;
+    gHistory[0].scrollPos = 0;
 }
 
 // -- Poll (buttons + power + sleep/wake + combo) --
@@ -250,10 +251,12 @@ static int findHeading(char lines[][LINE_LEN], int total, int pos, int dir) {
 // Static buffer so it's allocated once, not on stack each call
 static char entryLines[MAX_LINES][LINE_LEN];
 
-void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
+void showEntry(const char* eid, uint8_t folderIdx, const char* title,
+               int* scrollPos) {
     int total = readEntry(eid, folderIdx, entryLines, MAX_LINES);
-    int scroll = 0;
+    int scroll = (scrollPos && *scrollPos > 0) ? *scrollPos : 0;
     int maxScroll = max(0, total - LPP);
+    if (scroll > maxScroll) scroll = maxScroll;
     bool bookmarked = isBookmarked(eid);
     int prevScroll = -1; // force full draw on first render
 
@@ -328,9 +331,18 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
 
         while (true) {
             poll();
-            if (gEmergency || gGoHome) return;
-            if (btnBk.held()) { gGoHome = true; return; }
-            if (btnBk.tapped()) return;
+            if (gEmergency || gGoHome) {
+                if (scrollPos) *scrollPos = scroll;
+                return;
+            }
+            if (btnBk.held()) {
+                if (scrollPos) *scrollPos = scroll;
+                gGoHome = true; return;
+            }
+            if (btnBk.tapped()) {
+                if (scrollPos) *scrollPos = scroll;
+                return;
+            }
 
             if (btnUp.tapped()) { scroll = max(0, scroll - 1); break; }
             if (btnDn.tapped()) { scroll = min(maxScroll, scroll + 1); break; }

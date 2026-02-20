@@ -22,6 +22,7 @@ struct HistEntry {
     char eid[MAX_EID + 1];
     char title[TITLE_DISPLAY_LEN + 1];
     uint8_t folderIdx;
+    int scrollPos; // remember scroll position
 };
 extern HistEntry gHistory[MAX_HISTORY];
 extern uint8_t gHistoryCount;
@@ -30,7 +31,8 @@ void addHistory(const char* eid, uint8_t fi, const char* title);
 // Core UI functions - return selected index or -1 for back
 void splash();
 int menu(const char* title, const char** items, int count);
-void showEntry(const char* eid, uint8_t folderIdx, const char* title);
+void showEntry(const char* eid, uint8_t folderIdx, const char* title,
+               int* scrollPos = nullptr);
 void textInput(const char* title, char* output, int maxLen);
 
 // Poll: updates buttons, power, sleep/wake, combos

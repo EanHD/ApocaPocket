@@ -240,7 +240,7 @@ void loop() {
         int s = menu("History", menuPtrs, gHistoryCount);
         if (s >= 0 && !gGoHome && !gEmergency) {
             showEntry(gHistory[s].eid, gHistory[s].folderIdx,
-                      gHistory[s].title);
+                      gHistory[s].title, &gHistory[s].scrollPos);
         }
     }
 }
