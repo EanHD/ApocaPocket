@@ -17,6 +17,12 @@ int Screen::batteryPct() {
 }
 
 void Screen::init() {
+    // Ensure both CS pins are HIGH (deselected) before any SPI traffic
+    pinMode(PIN_DISP_CS, OUTPUT);
+    pinMode(PIN_SD_CS, OUTPUT);
+    digitalWrite(PIN_DISP_CS, HIGH);
+    digitalWrite(PIN_SD_CS, HIGH);
+
     // Configure SPI1 pins for shared bus (display + SD)
     SPI1.setRX(PIN_SPI_MISO);
     SPI1.setTX(PIN_SPI_MOSI);
@@ -25,10 +31,13 @@ void Screen::init() {
 
     _tft.init(DISP_W, DISP_H);
     _tft.setRotation(0);
-    _tft.setSPISpeed(40000000); // 40MHz — stable for breadboard wiring
+    _tft.setSPISpeed(40000000);
 
     // Black out entire display (corners stay black = invisible on round bezel)
     _tft.fillScreen(COL_BG);
+
+    // Ensure display CS is deselected after init so SD can use bus
+    digitalWrite(PIN_DISP_CS, HIGH);
 }
 
 void Screen::begin() {

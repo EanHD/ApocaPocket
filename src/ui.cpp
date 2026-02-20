@@ -43,13 +43,17 @@ bool toggleBookmark(const char* eid) {
 
 void loadBookmarks() {
     gBookmarkCount = 0;
-    FsFile f = gSd.open("/index/bookmarks.txt", O_RDONLY);
+    File f = SDFS.open("/index/bookmarks.txt", "r");
     if (!f) return;
     char buf[40];
-    while (gBookmarkCount < MAX_BOOKMARKS && f.fgets(buf, sizeof(buf)) > 0) {
-        int len = strlen(buf);
-        while (len > 0 && (buf[len-1] == '\n' || buf[len-1] == '\r'))
-            buf[--len] = '\0';
+    while (gBookmarkCount < MAX_BOOKMARKS && f.available()) {
+        int len = 0;
+        while (len < 39 && f.available()) {
+            char c = (char)f.read();
+            if (c == '\n') break;
+            if (c != '\r') buf[len++] = c;
+        }
+        buf[len] = '\0';
         if (len > 0 && len <= MAX_EID) {
             strncpy(gBookmarks[gBookmarkCount], buf, MAX_EID);
             gBookmarks[gBookmarkCount][MAX_EID] = '\0';
@@ -62,8 +66,8 @@ void loadBookmarks() {
 }
 
 void saveBookmarks() {
-    gSd.remove("/index/bookmarks.txt");
-    FsFile f = gSd.open("/index/bookmarks.txt", O_WRONLY | O_CREAT);
+    SDFS.remove("/index/bookmarks.txt");
+    File f = SDFS.open("/index/bookmarks.txt", "w");
     if (!f) { Serial.println("[WARN] Can't save bookmarks"); return; }
     for (uint8_t i = 0; i < gBookmarkCount; i++) {
         f.println(gBookmarks[i]);

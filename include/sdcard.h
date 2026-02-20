@@ -1,6 +1,6 @@
 #pragma once
 #include "config.h"
-#include <SdFat.h>
+#include <SDFS.h>
 
 // Index entry stored in RAM (compact)
 struct IndexEntry {
@@ -46,4 +46,3 @@ const char* subfolderName(uint8_t idx);
 bool loadMetadata();
 
 extern Index gIndex;
-extern SdFat gSd;

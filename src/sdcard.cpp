@@ -2,7 +2,6 @@
 #include <SPI.h>
 
 Index gIndex;
-SdFat gSd;
 
 // Subfolder names from metadata.json (simple fixed storage)
 #define MAX_SUBS 16
@@ -23,13 +22,31 @@ static const char* const FOLDERS[] = {
 #define NUM_FOLDERS 9
 
 bool sdInit() {
-    // SD shares SPI1 bus with display (GP10/11/8), separate CS (GP15)
-    return gSd.begin(SdSpiConfig(PIN_SD_CS, SHARED_SPI, SD_SCK_MHZ(25), &SPI1));
+    // Ensure display CS is deselected before SD init
+    digitalWrite(PIN_DISP_CS, HIGH);
+
+    // Use SDFS (earlephilhower core's native SD library) with SPI1
+    SDFSConfig cfg(PIN_SD_CS, SD_SCK_MHZ(10), SPI1);
+    SDFS.setConfig(cfg);
+
+    // Try multiple times — SD cards can be finicky on shared SPI
+    for (int attempt = 0; attempt < 3; attempt++) {
+        if (SDFS.begin()) {
+            Serial.print("[OK] SD init (SDFS) on attempt ");
+            Serial.println(attempt + 1);
+            return true;
+        }
+        Serial.print("[WARN] SD attempt ");
+        Serial.print(attempt + 1);
+        Serial.println(" failed, retrying...");
+        delay(500);
+    }
+    return false;
 }
 
 // -- Index loading --
 bool Index::load() {
-    FsFile f = gSd.open("/index/entries.idx", O_RDONLY);
+    File f = SDFS.open("/index/entries.idx", "r");
     if (!f) return false;
 
     uint8_t hdr[2];
@@ -77,7 +94,7 @@ uint8_t Index::folderIdx(uint16_t i) const {
 bool Index::readEid(uint16_t i, char* eidOut, size_t eidSize) {
     if (i >= _count) return false;
 
-    FsFile f = gSd.open("/index/entries.idx", O_RDONLY);
+    File f = SDFS.open("/index/entries.idx", "r");
     if (!f) return false;
 
     // Seek to record: 2 byte header + i * record_size
@@ -104,14 +121,12 @@ void Index::getSubfolders(uint8_t cat, uint8_t* subs, uint8_t& outCount,
     for (uint16_t i = 0; i < _count && outCount < maxSubs; i++) {
         if (_entries[i].category != cat) continue;
         uint8_t fi = _entries[i].folderIdx;
-        // Check if already in list
         bool found = false;
         for (uint8_t j = 0; j < outCount; j++) {
             if (subs[j] == fi) { found = true; break; }
         }
         if (!found) subs[outCount++] = fi;
     }
-    // Simple insertion sort
     for (uint8_t i = 1; i < outCount; i++) {
         uint8_t key = subs[i];
         int j = i - 1;
@@ -135,7 +150,7 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
                      int& count, int maxLines) {
     int len = strlen(line);
     if (len == 0 && count < maxLines) {
-        out[count][0] = '\0'; // blank line
+        out[count][0] = '\0';
         count++;
         return;
     }
@@ -144,23 +159,32 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
         int chunk = len - pos;
         if (chunk > WRAP_WIDTH) {
             chunk = WRAP_WIDTH;
-            // Try to break at a space (word wrap)
             int lastSpace = -1;
             for (int j = chunk - 1; j > chunk / 2; j--) {
                 if (line[pos + j] == ' ') { lastSpace = j; break; }
             }
-            if (lastSpace > 0) chunk = lastSpace + 1; // include the space
+            if (lastSpace > 0) chunk = lastSpace + 1;
         }
-        // Trim trailing spaces
         int copyLen = chunk;
         while (copyLen > 0 && line[pos + copyLen - 1] == ' ') copyLen--;
         memcpy(out[count], line + pos, copyLen);
         out[count][copyLen] = '\0';
         count++;
         pos += chunk;
-        // Skip leading spaces on next line
         while (pos < len && line[pos] == ' ') pos++;
     }
+}
+
+// Read one line from File into buf (like fgets). Returns chars read.
+static int readLine(File& f, char* buf, int bufSize) {
+    int i = 0;
+    while (i < bufSize - 1 && f.available()) {
+        char c = (char)f.read();
+        if (c == '\n') break;
+        buf[i++] = c;
+    }
+    buf[i] = '\0';
+    return i;
 }
 
 int readEntry(const char* eid, uint8_t folderIdx,
@@ -170,7 +194,7 @@ int readEntry(const char* eid, uint8_t folderIdx,
     char path[128];
     snprintf(path, sizeof(path), "%s/%s.md", FOLDERS[folderIdx], eid);
 
-    FsFile f = gSd.open(path, O_RDONLY);
+    File f = SDFS.open(path, "r");
     if (!f) {
         Serial.print("[WARN] Entry not found: ");
         Serial.println(path);
@@ -183,10 +207,11 @@ int readEntry(const char* eid, uint8_t folderIdx,
     bool inFrontmatter = false;
     bool frontmatterDone = false;
 
-    while (count < maxLines && f.fgets(buf, sizeof(buf)) > 0) {
-        // Strip trailing newline/CR
-        int blen = strlen(buf);
-        while (blen > 0 && (buf[blen-1] == '\n' || buf[blen-1] == '\r'))
+    while (count < maxLines && f.available()) {
+        int blen = readLine(f, buf, sizeof(buf));
+
+        // Strip trailing CR
+        while (blen > 0 && buf[blen-1] == '\r')
             buf[--blen] = '\0';
 
         // Skip YAML frontmatter (between --- markers)
@@ -196,7 +221,7 @@ int readEntry(const char* eid, uint8_t folderIdx,
                 else { inFrontmatter = false; frontmatterDone = true; continue; }
             }
             if (inFrontmatter) continue;
-            frontmatterDone = true; // no frontmatter found, process normally
+            frontmatterDone = true;
         }
 
         // Filter to printable ASCII
@@ -245,18 +270,16 @@ int searchTitles(const Index& idx, const char* query,
 }
 
 // -- Metadata (subfolder names) --
-// Simple parser: look for key-value pairs in JSON
 bool loadMetadata() {
-    FsFile f = gSd.open("/index/metadata.json", O_RDONLY);
+    File f = SDFS.open("/index/metadata.json", "r");
     if (!f) return false;
 
     char buf[512];
-    int len = f.read(buf, sizeof(buf) - 1);
+    int len = f.read((uint8_t*)buf, sizeof(buf) - 1);
     f.close();
     if (len <= 0) return false;
     buf[len] = '\0';
 
-    // Find "subtopics" section and extract "N": "Name" pairs
     char* p = strstr(buf, "subtopics");
     if (!p) return false;
     p = strchr(p, '{');
@@ -265,13 +288,10 @@ bool loadMetadata() {
 
     subNameCount = 0;
     while (*p && *p != '}' && subNameCount < MAX_SUBS) {
-        // Find key (number)
         char* q = strchr(p, '"');
         if (!q) break;
         q++;
         int key = atoi(q);
-
-        // Find value
         q = strchr(q, ':');
         if (!q) break;
         q = strchr(q, '"');
@@ -279,7 +299,6 @@ bool loadMetadata() {
         q++;
         char* end = strchr(q, '"');
         if (!end) break;
-
         if (key < MAX_SUBS) {
             int vlen = end - q;
             if (vlen > 23) vlen = 23;
