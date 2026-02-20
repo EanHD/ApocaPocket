@@ -41,6 +41,9 @@ int searchTitles(const Index& idx, const char* query,
 
 bool sdInit();
 
+// Call BEFORE display init — configures SPI1 pins and CS for shared bus
+void sdSetupPins();
+
 // Subfolder name lookup from metadata.json
 const char* subfolderName(uint8_t idx);
 bool loadMetadata();

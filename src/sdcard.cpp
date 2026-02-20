@@ -21,26 +21,191 @@ static const char* const FOLDERS[] = {
 };
 #define NUM_FOLDERS 9
 
+// Bit-bang SD CMD0 test — bypasses SPI hardware entirely to test raw wiring
+static uint8_t bitBangByte(uint8_t txByte) {
+    uint8_t rxByte = 0;
+    for (int bit = 7; bit >= 0; bit--) {
+        digitalWrite(PIN_SPI_MOSI, (txByte >> bit) & 1);
+        delayMicroseconds(5);
+        digitalWrite(PIN_SPI_CLK, HIGH);
+        delayMicroseconds(10);
+        rxByte |= (digitalRead(PIN_SPI_MISO) << bit);
+        digitalWrite(PIN_SPI_CLK, LOW);
+        delayMicroseconds(5);
+    }
+    return rxByte;
+}
+
+static void bitBangDiagnostic() {
+    Serial.println("\n[DIAG] === Bit-Bang Hardware Test ===");
+    Serial.println("[DIAG] Bypasses SPI hardware, tests raw GPIO wiring");
+
+    // Reconfigure ALL SPI pins as plain GPIO
+    pinMode(PIN_SPI_CLK, OUTPUT);     // GP10
+    pinMode(PIN_SPI_MOSI, OUTPUT);    // GP11
+    pinMode(PIN_SPI_MISO, INPUT_PULLUP); // GP8
+    pinMode(PIN_SD_CS, OUTPUT);       // GP15
+    digitalWrite(PIN_SPI_CLK, LOW);
+    digitalWrite(PIN_SPI_MOSI, HIGH);
+    digitalWrite(PIN_SD_CS, HIGH);
+
+    // Test 1: Read MISO with CS HIGH (should be HIGH with pull-up)
+    int misoIdle = digitalRead(PIN_SPI_MISO);
+    Serial.print("[DIAG] MISO idle (CS HIGH): ");
+    Serial.println(misoIdle ? "HIGH" : "LOW");
+
+    // Test 2: Pull CS LOW and check MISO
+    digitalWrite(PIN_SD_CS, LOW);
+    delay(1);
+    int misoSelected = digitalRead(PIN_SPI_MISO);
+    Serial.print("[DIAG] MISO with CS LOW: ");
+    Serial.println(misoSelected ? "HIGH" : "LOW");
+    digitalWrite(PIN_SD_CS, HIGH);
+
+    // Test 3: Send 80+ clock pulses with CS HIGH, MOSI HIGH
+    Serial.println("[DIAG] Sending 80 clocks (CS HIGH)...");
+    for (int i = 0; i < 80; i++) {
+        digitalWrite(PIN_SPI_CLK, HIGH);
+        delayMicroseconds(10);
+        digitalWrite(PIN_SPI_CLK, LOW);
+        delayMicroseconds(10);
+    }
+    delay(10);
+
+    // Test 4: Send CMD0 (GO_IDLE_STATE) via bit-bang
+    Serial.println("[DIAG] Sending CMD0 via bit-bang...");
+    digitalWrite(PIN_SD_CS, LOW);
+    delayMicroseconds(100);
+
+    // CMD0: 0x40, 0x00, 0x00, 0x00, 0x00, 0x95
+    bitBangByte(0x40);
+    bitBangByte(0x00);
+    bitBangByte(0x00);
+    bitBangByte(0x00);
+    bitBangByte(0x00);
+    bitBangByte(0x95);
+
+    // Read response — wait for non-0xFF, up to 64 bytes
+    uint8_t response = 0xFF;
+    int bytesRead = 0;
+    for (int i = 0; i < 64; i++) {
+        uint8_t b = bitBangByte(0xFF);
+        bytesRead++;
+        if (b != 0xFF) {
+            response = b;
+            break;
+        }
+    }
+
+    digitalWrite(PIN_SD_CS, HIGH);
+    // 8 extra clocks
+    for (int i = 0; i < 8; i++) {
+        digitalWrite(PIN_SPI_CLK, HIGH);
+        delayMicroseconds(10);
+        digitalWrite(PIN_SPI_CLK, LOW);
+        delayMicroseconds(10);
+    }
+
+    Serial.print("[DIAG] CMD0 response: 0x");
+    Serial.print(response, HEX);
+    Serial.print(" (after ");
+    Serial.print(bytesRead);
+    Serial.println(" bytes)");
+
+    if (response == 0x01) {
+        Serial.println("[DIAG] *** CARD RESPONDS! Wiring is OK. ***");
+    } else if (response == 0xFF) {
+        Serial.println("[DIAG] *** NO RESPONSE. Possible causes:");
+        Serial.println("  - SD card not inserted");
+        Serial.println("  - No power to SD module (check VCC/GND)");
+        Serial.println("  - MISO (GP8) not connected");
+        Serial.println("  - CS (GP15) not connected");
+        Serial.println("  - MOSI (GP11) or CLK (GP10) not connected");
+    } else {
+        Serial.println("[DIAG] Unexpected response - card partially responding");
+    }
+    Serial.println("[DIAG] === End Hardware Test ===\n");
+}
+
+void sdSetupPins() {
+    // Configure SPI1 pins for shared bus (display + SD card)
+    bool rxOk  = SPI1.setRX(PIN_SPI_MISO);   // GP8
+    bool txOk  = SPI1.setTX(PIN_SPI_MOSI);   // GP11
+    bool sckOk = SPI1.setSCK(PIN_SPI_CLK);    // GP10
+
+    // Both CS pins HIGH (deselect) before any SPI activity
+    pinMode(PIN_DISP_CS, OUTPUT);
+    pinMode(PIN_SD_CS, OUTPUT);
+    digitalWrite(PIN_DISP_CS, HIGH);
+    digitalWrite(PIN_SD_CS, HIGH);
+
+    Serial.print("[SPI] setRX(GP8)=");  Serial.println(rxOk ? "OK" : "FAIL");
+    Serial.print("[SPI] setTX(GP11)="); Serial.println(txOk ? "OK" : "FAIL");
+    Serial.print("[SPI] setSCK(GP10)="); Serial.println(sckOk ? "OK" : "FAIL");
+    Serial.print("[SPI] CS: Display=GP");
+    Serial.print(PIN_DISP_CS);
+    Serial.print(" SD=GP");
+    Serial.println(PIN_SD_CS);
+}
+
 bool sdInit() {
-    // Ensure display CS is deselected before SD init
+    // Ensure display CS is deselected
     digitalWrite(PIN_DISP_CS, HIGH);
 
-    // Use SDFS (earlephilhower core's native SD library) with SPI1
-    SDFSConfig cfg(PIN_SD_CS, SD_SCK_MHZ(10), SPI1);
-    SDFS.setConfig(cfg);
+    // Give SD card time to power up after boot
+    delay(500);
 
-    // Try multiple times — SD cards can be finicky on shared SPI
-    for (int attempt = 0; attempt < 3; attempt++) {
+    Serial.println("[SD] Starting SD card init...");
+
+    // STEP 1: Run bit-bang diagnostic to test raw wiring
+    bitBangDiagnostic();
+
+    // STEP 2: Re-setup SPI1 pins (bit-bang switched them to GPIO)
+    SPI1.setRX(PIN_SPI_MISO);
+    SPI1.setTX(PIN_SPI_MOSI);
+    SPI1.setSCK(PIN_SPI_CLK);
+    SPI1.begin();
+    Serial.println("[SD] SPI1 re-initialized after bit-bang test");
+
+    // Deselect both
+    digitalWrite(PIN_DISP_CS, HIGH);
+    digitalWrite(PIN_SD_CS, HIGH);
+    delay(250);
+
+    // STEP 3: Try SDFS init at multiple speeds
+    static const uint32_t speeds[] = {
+        SD_SCK_MHZ(4),     // SPI_HALF_SPEED (official default)
+        SD_SCK_MHZ(2),     // SPI_QUARTER_SPEED
+        SD_SCK_MHZ(1),     // SPI_EIGHTH_SPEED
+        SD_SCK_HZ(250000), // 250kHz
+    };
+    static const char* speedNames[] = {
+        "4MHz", "2MHz", "1MHz", "250kHz"
+    };
+
+    for (int s = 0; s < 4; s++) {
+        Serial.print("[SD] Trying SDFS at ");
+        Serial.print(speedNames[s]);
+        Serial.print("... ");
+
+        digitalWrite(PIN_DISP_CS, HIGH);
+        digitalWrite(PIN_SD_CS, HIGH);
+        delay(100);
+
+        SDFSConfig cfg(PIN_SD_CS, speeds[s], SPI1);
+        SDFS.setConfig(cfg);
+
         if (SDFS.begin()) {
-            Serial.print("[OK] SD init (SDFS) on attempt ");
-            Serial.println(attempt + 1);
+            Serial.println("OK!");
             return true;
         }
-        Serial.print("[WARN] SD attempt ");
-        Serial.print(attempt + 1);
-        Serial.println(" failed, retrying...");
-        delay(500);
+
+        Serial.println("FAILED");
+        SDFS.end();
+        delay(200);
     }
+
+    Serial.println("[SD] All attempts failed!");
     return false;
 }
 

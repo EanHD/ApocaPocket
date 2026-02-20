@@ -53,20 +53,34 @@ void setup() {
     powerInit();
     Serial.println("[OK] Power management");
 
+    // CRITICAL: Configure SPI1 pins and CS BEFORE any SPI device init
+    sdSetupPins();
+    Serial.println("[OK] SPI1 pins configured");
+
+    // Init SD card FIRST (before display) to avoid SPI bus contention
+    // This follows the official earlephilhower SD example pattern
+    if (!sdInit()) {
+        Serial.println("[FAIL] SD card not found!");
+        Serial.println(">>> Connect serial monitor (115200) for diagnostics <<<");
+        // Init display to show error message
+        screen.init();
+        ledBlink(255, 0, 0, 3);
+        screen.begin();
+        screen.header("SD ERROR", false);
+        screen.centerText("SD card error!", DISP_H / 2 - 20, COL_WARN);
+        screen.centerText("Check serial output", DISP_H / 2, COL_SEC);
+        screen.centerText("for diagnostics", DISP_H / 2 + 12, COL_SEC);
+        screen.centerText("(115200 baud)", DISP_H / 2 + 30, COL_TER);
+        while (true) { ledBlink(255, 0, 0, 1, 500); delay(1000); }
+    }
+    Serial.println("[OK] SD card");
+
+    // Now init display — SPI1 is already running from SD init
     screen.init();
     Serial.println("[OK] Display (240x280 ST7789)");
 
     // Show loading indicator
     screen.centerText("Loading...", DISP_H / 2, COL_SEC);
-
-    if (!sdInit()) {
-        Serial.println("[FAIL] SD card not found!");
-        ledBlink(255, 0, 0, 3); // 3 red blinks = SD error
-        screen.begin();
-        screen.centerText("SD card error!", DISP_H / 2, COL_WARN);
-        while (true) { ledBlink(255, 0, 0, 1, 500); delay(1000); }
-    }
-    Serial.println("[OK] SD card");
 
     if (!gIndex.load()) {
         Serial.println("[FAIL] Index load failed!");

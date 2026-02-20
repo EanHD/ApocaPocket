@@ -17,16 +17,13 @@ int Screen::batteryPct() {
 }
 
 void Screen::init() {
-    // Ensure both CS pins are HIGH (deselected) before any SPI traffic
-    pinMode(PIN_DISP_CS, OUTPUT);
-    pinMode(PIN_SD_CS, OUTPUT);
+    // SPI1 pins and CS pins are already configured by sdSetupPins()
+    // Just ensure display CS is deselected
     digitalWrite(PIN_DISP_CS, HIGH);
     digitalWrite(PIN_SD_CS, HIGH);
 
-    // Configure SPI1 pins for shared bus (display + SD)
-    SPI1.setRX(PIN_SPI_MISO);
-    SPI1.setTX(PIN_SPI_MOSI);
-    SPI1.setSCK(PIN_SPI_CLK);
+    // SPI1.begin() may have already been called by SD init.
+    // Calling again is safe — just reconfigures the same pins.
     SPI1.begin();
 
     _tft.init(DISP_W, DISP_H);
