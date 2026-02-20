@@ -2,84 +2,62 @@
 title: "Urban Navigation Without GPS"
 category: "L1"
 subcategory: "navigation"
-tags: ['navigation', 'urban', 'city', 'landmarks', 'grid']
+tags: ["navigation", "urban", "city", "landmarks", "grid", "wayfinding"]
 confidence: "high"
 region: "global"
 sources:
-  - "peer-reviewed-medical-guidelines"
-  - "government-health-agencies"
+  - "usgs-map-reading"
+  - "urban-search-and-rescue-wayfinding"
+  - "orienteering-handbook"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-strategy-first-24-hours"
+  - "l1-navigation-without-compass"
+  - "l1-urban-grid-down-navigation"
+  - "l1-weather-field-prediction"
 ---
 
 # Urban Navigation Without GPS
 
 ## Overview
+Use a layered method: **macro orientation (sun/cardinal)** + **street logic** + **landmark chain**.
 
-Sun position: rises east, sets west, noon=south (Northern Hemisphere). Street grids: numbered streets, compass in names. Natural: rivers flow downhill. Landmarks: tall buildings, church spires. Shadow stick method. Traffic patterns. Ask directions safely. Night: Polaris, street lights.
+## Quick Orientation
+- Northern Hemisphere: sun is generally south at local solar noon.
+- Shadow-stick method: shortest shadow points roughly north-south line.
+- Wind and terrain cues are secondary in dense city centers.
 
-⚠️ **SAFETY WARNING:** This is a critical survival entry. Follow protocols carefully. Seek professional medical help when available.
+## Street Grid Logic
+- Many cities have numbered streets/avenues; higher numbers usually move one direction.
+- Observe one-way signs to infer traffic flow patterns.
+- Transit maps (even offline photos) can anchor your position.
 
----
+## Landmark Chain Method
+Pick 3 escalating landmarks:
+1. Near landmark (1–3 blocks)
+2. Mid landmark (district-level)
+3. Far landmark (tower/hill/river)
 
-## Recognition & Assessment
+Move from one to the next; update at each checkpoint.
 
-**Key indicators:**
-- [Symptoms listed based on severity]
-- [Timing critical factors]
-- [When to act immediately]
+## Dead-Reckoning in Cities
+- Count blocks + turns: e.g., N 6 blocks, E 2 blocks.
+- Record route shorthand on paper.
+- If disoriented: return to last confirmed point.
 
----
+## Night Navigation
+- Prefer major corridors with continuous lighting.
+- Avoid tunneling into alleys/dead ends.
+- Identify 24/7 anchor points: hospitals, transit hubs, police/fire stations.
 
-## Treatment Protocol
-
-**Step-by-step approach:**
-1. **Immediate actions** (first 0-5 minutes)
-2. **Secondary treatment** (5-30 minutes)
-3. **Ongoing management** (30+ minutes)
-4. **When to evacuate**
-
-**Specific dosing/measurements:**
-- [Exact quantities with units]
-- [Timing intervals]
-- [Success indicators]
-
----
-
-## Prevention & Management
-
-**Long-term strategies:**
-- Regular monitoring
-- Trigger avoidance
-- Resource preparation
-- Emergency planning
-
----
+## Safety Rules
+- Avoid obvious conflict zones/crowd surges.
+- Keep backup route options (A/B/C).
+- Conserve phone battery for map checks only when needed.
 
 ## Common Mistakes
+- Trusting memory without checkpoints.
+- Cutting through unknown shortcuts.
+- Following crowds blindly.
+- Ignoring fatigue and daylight limits.
 
-1. ❌ [Mistake 1]
-2. ❌ [Mistake 2]
-3. ❌ [Mistake 3]
-
----
-
-## Evacuation Criteria
-
-**Seek help immediately if:**
-- [Life-threatening sign 1]
-- [Life-threatening sign 2]
-- [No improvement after treatment]
-
----
-
-## Summary: Key Takeaways
-
-1. ✅ [Most important fact]
-2. ✅ [Critical protocol]
-3. ✅ [Life-saving tip]
-4. ✅ [Prevention strategy]
-5. ✅ [When to evacuate]
-
-**[Final summary statement with survival emphasis]**
+## Summary
+Urban navigation without GPS is about process discipline: orient, checkpoint, verify, and adapt safely.

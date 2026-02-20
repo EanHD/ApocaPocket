@@ -2,84 +2,60 @@
 title: "Vitamin C Sources & Scurvy Prevention"
 category: "L2"
 subcategory: "nutrition"
-tags: ['vitamin-c', 'scurvy', 'nutrition', 'deficiency', 'foraging']
+tags: ["vitamin-c", "scurvy", "deficiency", "foraging", "nutrition"]
 confidence: "high"
 region: "global"
 sources:
-  - "peer-reviewed-medical-guidelines"
-  - "government-health-agencies"
+  - "usda-fooddata-central"
+  - "who-micronutrient-guidelines"
+  - "maritime-scurvy-history-reviews"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-strategy-first-24-hours"
+  - "l2-nutrition-deficiency-signs"
+  - "l2-food-preservation-fermentation"
+  - "l2-foraging-seasonal-strategy"
 ---
 
 # Vitamin C Sources & Scurvy Prevention
 
 ## Overview
+Vitamin C deficiency (scurvy) can appear after prolonged low intake. Prevention is straightforward with planning.
 
-Scurvy: bleeding gums, tooth loss, fatigue, wounds won't heal. Daily: 90mg men, 75mg women. Symptoms after 1-3mo deficiency. Wild sources: rose hips (1700mg/100g), pine needle tea (200-300mg/cup year-round), spruce tips, dandelion greens (35mg/100g). Preserved: sauerkraut (15mg/100g). Heat destroys 30-50%. Symptoms reverse in days with 100-200mg daily.
+## Daily Intake Targets
+- Adult men: ~90 mg/day
+- Adult women: ~75 mg/day
+- Smokers often need additional intake.
 
-⚠️ **SAFETY WARNING:** This is a critical survival entry. Follow protocols carefully. Seek professional medical help when available.
+## Deficiency Timeline (Approximate)
+- 4–8 weeks: fatigue, irritability.
+- 8–12 weeks: gum bleeding, easy bruising.
+- Later: poor wound healing, joint pain, tooth issues.
 
----
+## High-Value Sources (Examples)
+- Rose hips (very high seasonal source)
+- Citrus fruits
+- Bell peppers
+- Brassicas (broccoli, cabbage)
+- Wild greens (varies by species)
 
-## Recognition & Assessment
+## Field Strategy
+1. Build daily mixed-source intake rather than single-source dependence.
+2. Favor fresh/raw where safe (heat degrades vitamin C).
+3. Rotate preserved options (fermented vegetables can contribute).
 
-**Key indicators:**
-- [Symptoms listed based on severity]
-- [Timing critical factors]
-- [When to act immediately]
+## Heat/Storage Considerations
+- Vitamin C is heat-sensitive and oxidation-sensitive.
+- Minimize long boiling times.
+- Cut produce just before use.
 
----
-
-## Treatment Protocol
-
-**Step-by-step approach:**
-1. **Immediate actions** (first 0-5 minutes)
-2. **Secondary treatment** (5-30 minutes)
-3. **Ongoing management** (30+ minutes)
-4. **When to evacuate**
-
-**Specific dosing/measurements:**
-- [Exact quantities with units]
-- [Timing intervals]
-- [Success indicators]
-
----
-
-## Prevention & Management
-
-**Long-term strategies:**
-- Regular monitoring
-- Trigger avoidance
-- Resource preparation
-- Emergency planning
-
----
+## Emergency Correction
+If early scurvy signs appear:
+- Increase intake quickly with reliable C-rich foods.
+- Maintain daily replenishment for several weeks.
 
 ## Common Mistakes
+- Assuming calorie sufficiency means micronutrient sufficiency.
+- Overcooking all greens/vegetables.
+- Relying on one seasonal source only.
 
-1. ❌ [Mistake 1]
-2. ❌ [Mistake 2]
-3. ❌ [Mistake 3]
-
----
-
-## Evacuation Criteria
-
-**Seek help immediately if:**
-- [Life-threatening sign 1]
-- [Life-threatening sign 2]
-- [No improvement after treatment]
-
----
-
-## Summary: Key Takeaways
-
-1. ✅ [Most important fact]
-2. ✅ [Critical protocol]
-3. ✅ [Life-saving tip]
-4. ✅ [Prevention strategy]
-5. ✅ [When to evacuate]
-
-**[Final summary statement with survival emphasis]**
+## Summary
+Scurvy is preventable with routine vitamin C planning, diversified sources, and low-loss preparation.

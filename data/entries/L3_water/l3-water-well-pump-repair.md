@@ -2,84 +2,59 @@
 title: "Well Pump Repair & Troubleshooting"
 category: "L3"
 subcategory: "water"
-tags: ['well', 'pump', 'water', 'repair', 'hand-pump']
-confidence: "high"
+tags: ["well", "pump", "repair", "water-systems", "maintenance"]
+confidence: "medium-high"
 region: "global"
 sources:
-  - "peer-reviewed-medical-guidelines"
-  - "government-health-agencies"
+  - "rural-water-systems-manual"
+  - "hand-pump-maintenance-guides"
+  - "usaid-water-point-ops"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-strategy-first-24-hours"
+  - "l1-water-sources-and-collection"
+  - "l3-tools-maintenance"
+  - "l4-community-water-governance"
 ---
 
 # Well Pump Repair & Troubleshooting
 
 ## Overview
+Reliable pumping depends on seals, valves, priming, and routine maintenance.
 
-Hand pump types: lift, force, piston, diaphragm. Common failures: leather/rubber seals dried/torn, valves stuck, piston broken, not primed. Seal replacement: cut leather from boots, soak in oil, fit to piston. Valve cleaning. Priming: pour water down pipe, pump vigorously. Suction limits: theoretical 34ft, practical 25ft. Improvised pump: PVC, check valves. Maintenance: oil seals monthly, replace yearly.
+## Common Failure Modes
+- No suction (air leaks, dry prime, failed foot/check valve)
+- Weak flow (worn seals, clogged intake, partial blockage)
+- Intermittent flow (loose fittings, damaged rod linkage)
 
-⚠️ **SAFETY WARNING:** This is a critical survival entry. Follow protocols carefully. Seek professional medical help when available.
+## Basic Diagnostic Sequence
+1. Confirm water level is within pump capability.
+2. Check all fittings for air leaks.
+3. Prime system properly.
+4. Inspect valve function.
+5. Inspect piston cup/seal wear.
 
----
+## Priming Protocol
+- Fill pump body with clean water.
+- Operate strokes steadily for 1–3 minutes.
+- Re-prime if suction fails.
 
-## Recognition & Assessment
+## Seal and Valve Maintenance
+- Replace cracked leather/rubber cups.
+- Clean debris from check valves.
+- Ensure directional valve seating is correct.
 
-**Key indicators:**
-- [Symptoms listed based on severity]
-- [Timing critical factors]
-- [When to act immediately]
+## Practical Limits
+- Suction-only systems have depth limits; deep wells require different designs.
+- Keep spare seals, gaskets, and valve elements in stock.
 
----
-
-## Treatment Protocol
-
-**Step-by-step approach:**
-1. **Immediate actions** (first 0-5 minutes)
-2. **Secondary treatment** (5-30 minutes)
-3. **Ongoing management** (30+ minutes)
-4. **When to evacuate**
-
-**Specific dosing/measurements:**
-- [Exact quantities with units]
-- [Timing intervals]
-- [Success indicators]
-
----
-
-## Prevention & Management
-
-**Long-term strategies:**
-- Regular monitoring
-- Trigger avoidance
-- Resource preparation
-- Emergency planning
-
----
+## Preventive Maintenance Schedule
+- Weekly: visual inspection, unusual noise/leaks.
+- Monthly: fastener tightening, lubrication where appropriate.
+- Quarterly: performance test (flow rate/time).
 
 ## Common Mistakes
+- Running dry repeatedly.
+- Ignoring minor leaks (air leak = no lift).
+- Improvised parts without fit testing.
 
-1. ❌ [Mistake 1]
-2. ❌ [Mistake 2]
-3. ❌ [Mistake 3]
-
----
-
-## Evacuation Criteria
-
-**Seek help immediately if:**
-- [Life-threatening sign 1]
-- [Life-threatening sign 2]
-- [No improvement after treatment]
-
----
-
-## Summary: Key Takeaways
-
-1. ✅ [Most important fact]
-2. ✅ [Critical protocol]
-3. ✅ [Life-saving tip]
-4. ✅ [Prevention strategy]
-5. ✅ [When to evacuate]
-
-**[Final summary statement with survival emphasis]**
+## Summary
+Most pump failures are serviceable with methodical diagnostics, proper priming, and spare seal/valve parts.

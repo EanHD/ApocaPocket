@@ -2,84 +2,55 @@
 title: "Tornado Survival Protocols"
 category: "L1"
 subcategory: "disaster"
-tags: ['tornado', 'storm', 'shelter', 'warning', 'severe-weather']
+tags: ["tornado", "severe-weather", "shelter", "evacuation", "storm"]
 confidence: "high"
 region: "global"
 sources:
-  - "peer-reviewed-medical-guidelines"
-  - "government-health-agencies"
+  - "noaa-tornado-safety"
+  - "fema-tornado-guidance"
+  - "nws-warning-protocols"
 related:
-  - "l1-medical-cpr-basics"
+  - "l1-shelter-lightning-safety"
   - "l1-strategy-first-24-hours"
+  - "l1-medical-trauma-basics"
 ---
 
 # Tornado Survival Protocols
 
 ## Overview
+Tornadoes can destroy structures in seconds. Survival depends on **immediate shelter positioning**.
 
-Warning signs: green/dark sky, large hail, loud roar. Best shelter: basement corner, under stairs, interior bathroom. School: interior hallways. Vehicle: get out, lie in ditch. Mobile home: evacuate to sturdy shelter/ditch (50% of deaths). Protective position: crouch low, hands over head/neck. EF-Scale ratings, 13min avg warning lead time.
+## Watch vs Warning
+- **Watch**: conditions possible; prepare now.
+- **Warning**: tornado indicated/observed; shelter immediately.
 
-⚠️ **SAFETY WARNING:** This is a critical survival entry. Follow protocols carefully. Seek professional medical help when available.
+## Best Shelter Hierarchy
+1. Purpose-built storm shelter/safe room.
+2. Basement interior corner, away from windows.
+3. Small interior room on lowest floor (bathroom/closet).
+4. Last resort: low ditch (if no sturdy structure).
 
----
+## Mobile Homes
+Mobile homes are high-risk in tornadoes. Relocate to sturdy shelter when watch is issued.
 
-## Recognition & Assessment
+## In Vehicle
+- Do not try to outrun a nearby tornado in congested/uncertain routes.
+- If no sturdy shelter: abandon vehicle and seek low ground, protect head/neck.
 
-**Key indicators:**
-- [Symptoms listed based on severity]
-- [Timing critical factors]
-- [When to act immediately]
+## Protective Position
+- Crouch low.
+- Cover head/neck with arms, mattress, helmet, or sturdy padding.
+- Keep shoes on (post-event debris hazards).
 
----
-
-## Treatment Protocol
-
-**Step-by-step approach:**
-1. **Immediate actions** (first 0-5 minutes)
-2. **Secondary treatment** (5-30 minutes)
-3. **Ongoing management** (30+ minutes)
-4. **When to evacuate**
-
-**Specific dosing/measurements:**
-- [Exact quantities with units]
-- [Timing intervals]
-- [Success indicators]
-
----
-
-## Prevention & Management
-
-**Long-term strategies:**
-- Regular monitoring
-- Trigger avoidance
-- Resource preparation
-- Emergency planning
-
----
+## After Passage
+- Watch for secondary hazards: gas leaks, downed lines, unstable debris.
+- Triage injuries and control severe bleeding first.
+- Use text-based comms if networks are congested.
 
 ## Common Mistakes
+- Waiting to visually confirm tornado.
+- Taking shelter near windows.
+- Seeking overpass shelter (wind tunnel effect risk).
 
-1. ❌ [Mistake 1]
-2. ❌ [Mistake 2]
-3. ❌ [Mistake 3]
-
----
-
-## Evacuation Criteria
-
-**Seek help immediately if:**
-- [Life-threatening sign 1]
-- [Life-threatening sign 2]
-- [No improvement after treatment]
-
----
-
-## Summary: Key Takeaways
-
-1. ✅ [Most important fact]
-2. ✅ [Critical protocol]
-3. ✅ [Life-saving tip]
-4. ✅ [Prevention strategy]
-5. ✅ [When to evacuate]
-
-**[Final summary statement with survival emphasis]**
+## Summary
+Tornado survival is mostly a shelter positioning problem. Move early, go low, protect head/neck.

@@ -2,84 +2,67 @@
 title: "Vehicle Breakdown in Remote Area"
 category: "L1"
 subcategory: "strategy"
-tags: ['vehicle', 'breakdown', 'remote', 'stranded', 'signaling']
+tags: ["vehicle", "breakdown", "remote", "stranded", "signaling", "survival"]
 confidence: "high"
 region: "global"
 sources:
-  - "peer-reviewed-medical-guidelines"
-  - "government-health-agencies"
+  - "aaa-roadside-emergency-guidelines"
+  - "sar-vehicle-recovery-protocols"
+  - "nps-desert-survival"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-strategy-first-24-hours"
+  - "l1-vehicle-winter-survival"
+  - "l1-shelter-site-selection"
+  - "l1-water-sources-and-collection"
 ---
 
 # Vehicle Breakdown in Remote Area
 
 ## Overview
+Stay with the vehicle unless there is **known, nearby, safe shelter**. A vehicle is easier for rescuers to spot than a person.
 
-Stay with vehicle unless certain help <1mi or vehicle unsafe. Basic repairs: flat tire, dead battery, overheating. Signaling: hood up, SOS with rocks, mirror signals (10+ miles). Vehicle as resource: battery, mirrors, fluids, seat foam. Water/food rationing. SAR search patterns.
+## First 10 Minutes (STOP Protocol)
+1. **S**ecure scene (off road, hazards on if battery allows).
+2. **T**ake inventory (fuel, water, food, clothing, tools, battery, phone signal).
+3. **O**rient and assess (weather, daylight left, distance to known help).
+4. **P**lan and commit (avoid changing plans repeatedly).
 
-⚠️ **SAFETY WARNING:** This is a critical survival entry. Follow protocols carefully. Seek professional medical help when available.
+## Stay vs Go Decision Matrix
+- **Stay** if: unknown distance to help, bad weather, night, injury, weak group member.
+- **Go** only if: help is confirmed within ~1 mile (1.6 km), weather stable, route obvious, you can return.
 
----
+## Immediate Vehicle Checks
+- Flat tire: replace if safe and tools available.
+- Battery: check terminals, try jump-start.
+- Overheating: wait 30–60 min before opening cap.
+- Fuel leak: do not run engine; move away from vapors.
 
-## Recognition & Assessment
+## Water and Food Rationing
+- Target hydration in heat: **2–4 L/day** per adult minimum.
+- Cold weather: **2–3 L/day** still required.
+- Eat small frequent portions; avoid high-salt meals if water is limited.
 
-**Key indicators:**
-- [Symptoms listed based on severity]
-- [Timing critical factors]
-- [When to act immediately]
+## Signaling Priorities
+1. Bright cloth on antenna/mirror.
+2. Large ground signal: SOS or X (letters >3 m / 10 ft).
+3. Mirror flashes in daylight.
+4. Light signals at night (conserve battery).
 
----
-
-## Treatment Protocol
-
-**Step-by-step approach:**
-1. **Immediate actions** (first 0-5 minutes)
-2. **Secondary treatment** (5-30 minutes)
-3. **Ongoing management** (30+ minutes)
-4. **When to evacuate**
-
-**Specific dosing/measurements:**
-- [Exact quantities with units]
-- [Timing intervals]
-- [Success indicators]
-
----
-
-## Prevention & Management
-
-**Long-term strategies:**
-- Regular monitoring
-- Trigger avoidance
-- Resource preparation
-- Emergency planning
-
----
-
-## Common Mistakes
-
-1. ❌ [Mistake 1]
-2. ❌ [Mistake 2]
-3. ❌ [Mistake 3]
-
----
+## Safety Risks
+- Heat stroke: shade, reduce activity midday.
+- Hypothermia: insulate from ground, layer clothing.
+- CO poisoning: never sleep with running engine in enclosed/snow-blocked exhaust conditions.
 
 ## Evacuation Criteria
+Evacuate immediately if:
+- Medical emergency (chest pain, severe bleeding, altered mental status).
+- Active wildfire/flood/landslide threat.
+- Vehicle unsafe (fire/fuel leak) and no way to mitigate.
 
-**Seek help immediately if:**
-- [Life-threatening sign 1]
-- [Life-threatening sign 2]
-- [No improvement after treatment]
+## Common Mistakes
+- Leaving vehicle without a clear destination.
+- Wasting battery by running hazards continuously.
+- Overexerting in daytime heat.
+- Underestimating dehydration.
 
----
-
-## Summary: Key Takeaways
-
-1. ✅ [Most important fact]
-2. ✅ [Critical protocol]
-3. ✅ [Life-saving tip]
-4. ✅ [Prevention strategy]
-5. ✅ [When to evacuate]
-
-**[Final summary statement with survival emphasis]**
+## Summary
+Vehicle = shelter + signal platform + supply cache. Preserve energy, signal consistently, and avoid unnecessary movement.

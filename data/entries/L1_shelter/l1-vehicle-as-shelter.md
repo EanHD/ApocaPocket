@@ -2,84 +2,62 @@
 title: "Using Vehicle as Shelter"
 category: "L1"
 subcategory: "shelter"
-tags: ['vehicle', 'shelter', 'sleeping', 'ventilation', 'safety']
+tags: ["vehicle", "shelter", "sleeping", "ventilation", "condensation", "security"]
 confidence: "high"
 region: "global"
 sources:
-  - "peer-reviewed-medical-guidelines"
-  - "government-health-agencies"
+  - "vehicle-dwelling-safety-guides"
+  - "cold-weather-camping-standards"
+  - "co-poisoning-prevention"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-strategy-first-24-hours"
+  - "l1-vehicle-winter-survival"
+  - "l1-shelter-thermal-management"
+  - "l1-medical-hypothermia"
 ---
 
 # Using Vehicle as Shelter
 
 ## Overview
+A vehicle can be an effective short-term shelter if you manage ventilation, insulation, and security.
 
-Ventilation: crack window 1-2" (CO prevention). Insulation: window covers, floor/ceiling insulation. Sleeping positions: reclined seats, flat cargo, van hammock. Temperature management: shade/Reflectix hot, insulation cold. Condensation prevention. Security: safe parking, lock doors. Battery conservation.
+## Site Selection
+- Park on stable ground, away from flood channels.
+- Avoid overhead hazards (dead limbs, unstable slopes).
+- In cities: choose visible but low-conflict locations.
 
-⚠️ **SAFETY WARNING:** This is a critical survival entry. Follow protocols carefully. Seek professional medical help when available.
+## Ventilation (Critical)
+- Crack two windows slightly (crossflow) to reduce condensation and CO risk.
+- Never fully seal the cabin overnight.
 
----
+## Thermal Setup
+- Insulate windows (reflective panels/cloth/cardboard).
+- Insulate floor contact points.
+- Use layered sleeping system (base + insulation + outer wind layer).
 
-## Recognition & Assessment
+## Moisture Control
+- Wipe condensation each morning.
+- Dry wet clothing outside cabin when possible.
+- Separate cooking from sleeping space when feasible.
 
-**Key indicators:**
-- [Symptoms listed based on severity]
-- [Timing critical factors]
-- [When to act immediately]
+## Security Protocol
+- Keep keys, light, whistle, and phone within reach.
+- Maintain one clear emergency exit path.
+- Avoid displaying supplies from windows.
 
----
+## Hygiene and Waste
+- Designate toilet plan (sealed container + absorbent medium).
+- Keep hand sanitation routine strict.
+- Remove trash daily to reduce pests.
 
-## Treatment Protocol
-
-**Step-by-step approach:**
-1. **Immediate actions** (first 0-5 minutes)
-2. **Secondary treatment** (5-30 minutes)
-3. **Ongoing management** (30+ minutes)
-4. **When to evacuate**
-
-**Specific dosing/measurements:**
-- [Exact quantities with units]
-- [Timing intervals]
-- [Success indicators]
-
----
-
-## Prevention & Management
-
-**Long-term strategies:**
-- Regular monitoring
-- Trigger avoidance
-- Resource preparation
-- Emergency planning
-
----
+## Power Management
+- Avoid deep-draining starter battery.
+- Use engine charging in short cycles when needed.
+- Prioritize critical devices only.
 
 ## Common Mistakes
+- No ventilation (condensation + CO hazard).
+- Sleeping in wet clothes.
+- Poor site choice near runoff/flood paths.
 
-1. ❌ [Mistake 1]
-2. ❌ [Mistake 2]
-3. ❌ [Mistake 3]
-
----
-
-## Evacuation Criteria
-
-**Seek help immediately if:**
-- [Life-threatening sign 1]
-- [Life-threatening sign 2]
-- [No improvement after treatment]
-
----
-
-## Summary: Key Takeaways
-
-1. ✅ [Most important fact]
-2. ✅ [Critical protocol]
-3. ✅ [Life-saving tip]
-4. ✅ [Prevention strategy]
-5. ✅ [When to evacuate]
-
-**[Final summary statement with survival emphasis]**
+## Summary
+Vehicle shelter works best with disciplined ventilation, moisture control, and low-profile security habits.
