@@ -134,14 +134,32 @@ void Index::getBySubfolder(uint8_t cat, uint8_t sub, uint16_t* indices,
 static void wrapLine(const char* line, char out[][LINE_LEN],
                      int& count, int maxLines) {
     int len = strlen(line);
+    if (len == 0 && count < maxLines) {
+        out[count][0] = '\0'; // blank line
+        count++;
+        return;
+    }
     int pos = 0;
     while (pos < len && count < maxLines) {
         int chunk = len - pos;
-        if (chunk > WRAP_WIDTH) chunk = WRAP_WIDTH;
-        memcpy(out[count], line + pos, chunk);
-        out[count][chunk] = '\0';
+        if (chunk > WRAP_WIDTH) {
+            chunk = WRAP_WIDTH;
+            // Try to break at a space (word wrap)
+            int lastSpace = -1;
+            for (int j = chunk - 1; j > chunk / 2; j--) {
+                if (line[pos + j] == ' ') { lastSpace = j; break; }
+            }
+            if (lastSpace > 0) chunk = lastSpace + 1; // include the space
+        }
+        // Trim trailing spaces
+        int copyLen = chunk;
+        while (copyLen > 0 && line[pos + copyLen - 1] == ' ') copyLen--;
+        memcpy(out[count], line + pos, copyLen);
+        out[count][copyLen] = '\0';
         count++;
         pos += chunk;
+        // Skip leading spaces on next line
+        while (pos < len && line[pos] == ' ') pos++;
     }
 }
 

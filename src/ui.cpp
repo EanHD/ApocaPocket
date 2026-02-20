@@ -99,6 +99,8 @@ void addHistory(const char* eid, uint8_t fi, const char* title) {
 }
 
 // -- Poll (buttons + power + sleep/wake + combo) --
+static uint32_t lastBatWarn = 0;
+
 void poll() {
     powerTick();
 
@@ -129,6 +131,21 @@ void poll() {
         btnBk.tapped() || btnBk.held() || btnRt.tapped() || btnRt.held() ||
         btnOk.tapped() || btnOk.held()) {
         powerTouch();
+    }
+
+    // Low battery warning (check every 60s)
+    uint32_t now = millis();
+    if (now - lastBatWarn > 60000) {
+        int batt = screen.getBatteryPct();
+        if (batt <= 10 && batt > 0) {
+            // Brief overlay warning
+            screen.fillArea(CX + 20, DISP_H / 2 - 16, CW - 40, 32, COL_WARN);
+            char buf[20];
+            snprintf(buf, sizeof(buf), "LOW BATTERY %d%%", batt);
+            screen.centerText(buf, DISP_H / 2 - 4, COL_PRI);
+            delay(1500);
+        }
+        lastBatWarn = now;
     }
 
     delay(25);
@@ -201,14 +218,14 @@ int menu(const char* title, const char** items, int count) {
             if (btnBk.held()) { gGoHome = true; return -1; }
             if (btnBk.tapped()) return -1;
 
-            if (btnUp.tapped()) {
+            if (btnUp.tapped() || btnUp.repeating()) {
                 sel = (sel - 1 + count) % count;
                 if (sel < offset) offset = sel;
                 else if (offset > 0 && sel == count - 1)
                     offset = max(0, count - vis);
                 break;
             }
-            if (btnDn.tapped()) {
+            if (btnDn.tapped() || btnDn.repeating()) {
                 sel = (sel + 1) % count;
                 if (sel >= offset + vis) offset = sel - vis + 1;
                 else if (sel == 0) offset = 0;
@@ -317,11 +334,12 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
 
             if (btnUp.tapped()) { scroll = max(0, scroll - 1); break; }
             if (btnDn.tapped()) { scroll = min(maxScroll, scroll + 1); break; }
-            if (btnUp.held()) {
+            // Hold = jump to heading, repeat while held
+            if (btnUp.held() || btnUp.repeating()) {
                 scroll = max(0, findHeading(entryLines, total, scroll, -1));
                 break;
             }
-            if (btnDn.held()) {
+            if (btnDn.held() || btnDn.repeating()) {
                 scroll = min(maxScroll,
                              findHeading(entryLines, total, scroll, 1));
                 break;

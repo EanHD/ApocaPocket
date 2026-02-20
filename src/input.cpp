@@ -20,16 +20,24 @@ void Button::update() {
     uint32_t now = millis();
     _tap = false;
     _held = false;
+    _repeat = false;
 
     // Just pressed
     if (v && !_prev) {
         _downAt = now;
         _heldFired = false;
+        _lastRepeat = 0;
     }
-    // Held long enough
+    // Held long enough (fires once at 500ms)
     if (v && _downAt > 0 && !_heldFired && (now - _downAt) > 500) {
         _held = true;
         _heldFired = true;
+        _lastRepeat = now;
+    }
+    // Auto-repeat while held (every 120ms after initial held)
+    if (v && _heldFired && _lastRepeat > 0 && (now - _lastRepeat) > 120) {
+        _repeat = true;
+        _lastRepeat = now;
     }
     // Just released
     if (!v && _prev && _downAt > 0) {
@@ -46,8 +54,10 @@ void Button::reset() {
     _prev = true;
     _tap = false;
     _held = false;
+    _repeat = false;
     _heldFired = false;
     _downAt = 0;
+    _lastRepeat = 0;
 }
 
 void inputInit() {

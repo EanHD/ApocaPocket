@@ -39,5 +39,6 @@ void powerSleep() {
 }
 
 void powerWake() {
+    Serial.println("[PWR] Wake");
     powerTouch();
 }

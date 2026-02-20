@@ -7,6 +7,7 @@ public:
     void update();
     bool tapped() const { return _tap; }
     bool held() const   { return _held; }
+    bool repeating() const { return _repeat; } // fires every 120ms after held
     bool down() const   { return !digitalRead(_pin); }
     void reset();
 
@@ -15,9 +16,11 @@ private:
     bool     _prev = true;
     bool     _tap = false;
     bool     _held = false;
+    bool     _repeat = false;
     bool     _heldFired = false;
     uint32_t _downAt = 0;
     uint32_t _lastTap = 0;
+    uint32_t _lastRepeat = 0;
 };
 
 // Global button instances
