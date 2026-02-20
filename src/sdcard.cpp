@@ -19,7 +19,7 @@ static const char* const FOLDERS[] = {
     "/data/data/entries/L5_civilization_memory",
     "/data/data/entries/L5_community_knowledge"
 };
-#define NUM_FOLDERS 9
+// NUM_FOLDERS now defined in config.h
 
 // Bit-bang SD CMD0 test — bypasses SPI hardware entirely to test raw wiring
 static uint8_t bitBangByte(uint8_t txByte) {
@@ -262,13 +262,20 @@ bool Index::readEid(uint16_t i, char* eidOut, size_t eidSize) {
     File f = SDFS.open("/index/entries.idx", "r");
     if (!f) return false;
 
-    // Seek to record: 2 byte header + i * record_size
+    // FIX #3: Ensure file is closed on ALL exit paths
     uint32_t offset = 2 + (uint32_t)i * INDEX_RECORD_SIZE;
-    f.seek(offset);
+    if (!f.seek(offset)) { 
+        f.close(); 
+        return false; 
+    }
 
     uint8_t eidRaw[EID_FIELD_SIZE];
-    f.read(eidRaw, EID_FIELD_SIZE);
-    f.close();
+    size_t bytesRead = f.read(eidRaw, EID_FIELD_SIZE);
+    f.close();  // Always close immediately after read
+    
+    if (bytesRead != EID_FIELD_SIZE) {
+        return false;
+    }
 
     int ei = 0;
     for (int j = 0; j < EID_FIELD_SIZE && ei < (int)eidSize - 1; j++) {
@@ -354,10 +361,22 @@ static int readLine(File& f, char* buf, int bufSize) {
 
 int readEntry(const char* eid, uint8_t folderIdx,
               char lines[][LINE_LEN], int maxLines) {
-    if (folderIdx >= NUM_FOLDERS) return 0;
+    // FIX #8: Bounds check on folderIdx
+    if (folderIdx >= NUM_FOLDERS) {
+        Serial.print("[ERROR] Invalid folder index: ");
+        Serial.println(folderIdx);
+        snprintf(lines[0], LINE_LEN, "Invalid folder");
+        return 1;
+    }
 
-    char path[128];
-    snprintf(path, sizeof(path), "%s/%s.md", FOLDERS[folderIdx], eid);
+    // FIX #7: Larger path buffer with overflow check
+    char path[160];
+    int pathLen = snprintf(path, sizeof(path), "%s/%s.md", FOLDERS[folderIdx], eid);
+    if (pathLen >= (int)sizeof(path)) {
+        Serial.println("[ERROR] Path too long!");
+        snprintf(lines[0], LINE_LEN, "Path too long");
+        return 1;
+    }
 
     File f = SDFS.open(path, "r");
     if (!f) {

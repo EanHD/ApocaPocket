@@ -28,14 +28,14 @@ void Button::update() {
         _heldFired = false;
         _lastRepeat = 0;
     }
-    // Held long enough (fires once at 500ms)
-    if (v && _downAt > 0 && !_heldFired && (now - _downAt) > 500) {
+    // Held long enough (fires once at BUTTON_HOLD_MS)
+    if (v && _downAt > 0 && !_heldFired && (now - _downAt) > BUTTON_HOLD_MS) {
         _held = true;
         _heldFired = true;
         _lastRepeat = now;
     }
-    // Auto-repeat while held (every 120ms after initial held)
-    if (v && _heldFired && _lastRepeat > 0 && (now - _lastRepeat) > 120) {
+    // Auto-repeat while held (every BUTTON_REPEAT_MS after initial held)
+    if (v && _heldFired && _lastRepeat > 0 && (now - _lastRepeat) > BUTTON_REPEAT_MS) {
         _repeat = true;
         _lastRepeat = now;
     }
@@ -79,7 +79,7 @@ void inputUpdate() {
 bool emergencyCombo() {
     if (btnUp.down() && btnDn.down()) {
         if (comboStart == 0) comboStart = millis();
-        else if (!comboFired && (millis() - comboStart) > 400) {
+        else if (!comboFired && (millis() - comboStart) > EMERGENCY_COMBO_MS) {
             comboFired = true;
             return true;
         }

@@ -29,6 +29,19 @@ static void openEntry(uint16_t indexId) {
         return;
     }
     uint8_t fi = gIndex.folderIdx(indexId);
+    
+    // FIX #6: Validate folder index before use
+    if (fi >= NUM_FOLDERS) {
+        Serial.print("[ERROR] Invalid folder index ");
+        Serial.print(fi);
+        Serial.print(" for entry ");
+        Serial.println(eid);
+        screen.begin();
+        screen.centerText("Database error!", DISP_H / 2, COL_WARN);
+        delay(2000);
+        return;
+    }
+    
     const char* title = gIndex.title(indexId);
     Serial.print("Opening: ");
     Serial.println(title);

@@ -9,8 +9,9 @@ static const int CHAR_H = 8;
 
 int Screen::batteryPct() {
     int raw = analogRead(PIN_VBAT);
-    float v = (raw / 4095.0f) * 6.6f;
-    int pct = (int)((v - 3.0f) / 1.2f * 100.0f);
+    // FIX #5: Use configurable voltage divider
+    float v = (raw / 4095.0f) * VBAT_MULTIPLIER;
+    int pct = (int)((v - VBAT_MIN) / (VBAT_MAX - VBAT_MIN) * 100.0f);
     if (pct < 0) pct = 0;
     if (pct > 100) pct = 100;
     return pct;

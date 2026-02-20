@@ -66,13 +66,29 @@ void loadBookmarks() {
 }
 
 void saveBookmarks() {
-    SDFS.remove("/index/bookmarks.txt");
-    File f = SDFS.open("/index/bookmarks.txt", "w");
-    if (!f) { Serial.println("[WARN] Can't save bookmarks"); return; }
+    // FIX #9: Atomic write pattern (write to temp, then rename)
+    const char* tempPath = "/index/bookmarks.tmp";
+    const char* finalPath = "/index/bookmarks.txt";
+    
+    SDFS.remove(tempPath);
+    File f = SDFS.open(tempPath, "w");
+    if (!f) { 
+        Serial.println("[ERROR] Can't save bookmarks (temp file)"); 
+        return; 
+    }
+    
     for (uint8_t i = 0; i < gBookmarkCount; i++) {
         f.println(gBookmarks[i]);
     }
     f.close();
+    
+    // Atomic rename (if rename fails, at least .tmp exists)
+    if (SDFS.exists(tempPath)) {
+        SDFS.remove(finalPath);
+        if (!SDFS.rename(tempPath, finalPath)) {
+            Serial.println("[WARN] Bookmark rename failed, .tmp file preserved");
+        }
+    }
 }
 
 // -- History --
@@ -252,11 +268,22 @@ static int findHeading(char lines[][LINE_LEN], int total, int pos, int dir) {
 }
 
 // -- Entry viewer --
-// Static buffer so it's allocated once, not on stack each call
-static char entryLines[MAX_LINES][LINE_LEN];
-
+// FIX #2: Move large buffer to heap to prevent stack overflow
+// (was: static char entryLines[MAX_LINES][LINE_LEN]; = 4,650 bytes on stack)
 void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos) {
+    // Allocate entry buffer on heap
+    char (*entryLines)[LINE_LEN] = new char[MAX_LINES][LINE_LEN];
+    if (!entryLines) {
+        Serial.println("[ERROR] Out of memory for entry buffer!");
+        screen.begin();
+        screen.header("Error", false);
+        screen.centerText("Out of memory!", DISP_H / 2 - 10, COL_WARN);
+        screen.centerText("Entry too large", DISP_H / 2 + 10, COL_SEC);
+        delay(2000);
+        return;
+    }
+
     int total = readEntry(eid, folderIdx, entryLines, MAX_LINES);
     int scroll = (scrollPos && *scrollPos > 0) ? *scrollPos : 0;
     int maxScroll = max(0, total - LPP);
@@ -337,14 +364,18 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
             poll();
             if (gEmergency || gGoHome) {
                 if (scrollPos) *scrollPos = scroll;
+                delete[] entryLines;  // Free heap memory before returning
                 return;
             }
             if (btnBk.held()) {
                 if (scrollPos) *scrollPos = scroll;
-                gGoHome = true; return;
+                delete[] entryLines;  // Free heap memory before returning
+                gGoHome = true; 
+                return;
             }
             if (btnBk.tapped()) {
                 if (scrollPos) *scrollPos = scroll;
+                delete[] entryLines;  // Free heap memory before returning
                 return;
             }
 
@@ -393,6 +424,7 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
             }
         }
     }
+    // Note: delete[] is called on all return paths above
 }
 
 // -- Text input (character picker) --

@@ -70,3 +70,23 @@
 #define EID_FIELD_SIZE     32
 #define TITLE_FIELD_SIZE   64
 #define TITLE_DISPLAY_LEN  26
+#define NUM_FOLDERS        9  // Number of entry folders in database
+
+// -- Battery monitoring (FIX #5) --
+// Set to true if you have a 2:1 voltage divider on VBAT
+// (R1=R2, reads 0-6.6V range)
+// Set to false if VBAT is directly connected to ADC
+// (reads 0-3.3V range)
+#define BATTERY_HAS_DIVIDER  true
+#if BATTERY_HAS_DIVIDER
+  #define VBAT_MULTIPLIER  6.6f  // 2:1 divider
+#else
+  #define VBAT_MULTIPLIER  3.3f  // Direct connection
+#endif
+#define VBAT_MIN  3.0f   // Empty battery voltage
+#define VBAT_MAX  4.2f   // Full battery voltage
+
+// -- Input timing --
+#define EMERGENCY_COMBO_MS  400  // Hold UP+DN for 400ms to trigger emergency
+#define BUTTON_HOLD_MS      500  // Hold button for section jump
+#define BUTTON_REPEAT_MS    120  // Auto-repeat interval

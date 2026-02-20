@@ -26,6 +26,14 @@ public:
     void getBySubfolder(uint8_t cat, uint8_t sub, uint16_t* indices,
                         uint16_t& count, uint16_t maxResults);
 
+    // FIX #1: Add destructor to free allocated memory
+    ~Index() { 
+        if (_entries) {
+            delete[] _entries;
+            _entries = nullptr;
+        }
+    }
+
 private:
     uint16_t _count = 0;
     IndexEntry* _entries = nullptr; // dynamically allocated once
@@ -43,6 +51,29 @@ bool sdInit();
 
 // Call BEFORE display init — configures SPI1 pins and CS for shared bus
 void sdSetupPins();
+
+// FIX #4: SPI CS control helpers (prevent bus contention)
+inline void sdSelect() {
+    digitalWrite(PIN_DISP_CS, HIGH);
+    delayMicroseconds(1);
+    digitalWrite(PIN_SD_CS, LOW);
+}
+
+inline void sdDeselect() {
+    digitalWrite(PIN_SD_CS, HIGH);
+    delayMicroseconds(1);
+}
+
+inline void dispSelect() {
+    digitalWrite(PIN_SD_CS, HIGH);
+    delayMicroseconds(1);
+    digitalWrite(PIN_DISP_CS, LOW);
+}
+
+inline void dispDeselect() {
+    digitalWrite(PIN_DISP_CS, HIGH);
+    delayMicroseconds(1);
+}
 
 // Subfolder name lookup from metadata.json
 const char* subfolderName(uint8_t idx);
