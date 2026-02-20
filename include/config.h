@@ -17,6 +17,7 @@
 #define PIN_BTN_RT    5
 #define PIN_BTN_OK    6
 #define PIN_VBAT      28
+#define PIN_NEOPIXEL  16  // Onboard WS2812B LED
 
 // -- Display geometry --
 #define DISP_W        240
@@ -39,15 +40,15 @@
 
 // -- iOS Dark Mode palette (RGB565) --
 #define COL_BG        0x0000  // #000000
-#define COL_HDR       0x18C3  // #1C1C1E
-#define COL_SEL       0x2945  // #2C2C2E
+#define COL_HDR       0x18E3  // #1C1C1E
+#define COL_SEL       0x2965  // #2C2C2E
 #define COL_ACCENT    0x0C3F  // #0A84FF
 #define COL_PRI       0xFFFF  // #FFFFFF
-#define COL_SEC       0x8C71  // #8E8E93
+#define COL_SEC       0x8C72  // #8E8E93
 #define COL_TER       0x4A49  // #48484A
 #define COL_WARN      0xFA27  // #FF453A
-#define COL_OK        0x36AC  // #30D158
-#define COL_YELLOW    0xFF40  // #FFD60A
+#define COL_OK        0x368B  // #30D158
+#define COL_YELLOW    0xFEA1  // #FFD60A
 #define COL_BODY      0xD69A  // #D1D1D6
 
 // -- Power management --

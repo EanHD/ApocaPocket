@@ -27,6 +27,7 @@ bool toggleBookmark(const char* eid) {
             for (uint8_t j = i; j < gBookmarkCount - 1; j++)
                 memcpy(gBookmarks[j], gBookmarks[j+1], MAX_EID + 1);
             gBookmarkCount--;
+            saveBookmarks();
             return false; // removed
         }
     }
@@ -35,8 +36,39 @@ bool toggleBookmark(const char* eid) {
         strncpy(gBookmarks[gBookmarkCount], eid, MAX_EID);
         gBookmarks[gBookmarkCount][MAX_EID] = '\0';
         gBookmarkCount++;
+        saveBookmarks();
     }
     return true; // added
+}
+
+void loadBookmarks() {
+    gBookmarkCount = 0;
+    FsFile f = gSd.open("/index/bookmarks.txt", O_RDONLY);
+    if (!f) return;
+    char buf[40];
+    while (gBookmarkCount < MAX_BOOKMARKS && f.fgets(buf, sizeof(buf)) > 0) {
+        int len = strlen(buf);
+        while (len > 0 && (buf[len-1] == '\n' || buf[len-1] == '\r'))
+            buf[--len] = '\0';
+        if (len > 0 && len <= MAX_EID) {
+            strncpy(gBookmarks[gBookmarkCount], buf, MAX_EID);
+            gBookmarks[gBookmarkCount][MAX_EID] = '\0';
+            gBookmarkCount++;
+        }
+    }
+    f.close();
+    Serial.print("[OK] Bookmarks: ");
+    Serial.println(gBookmarkCount);
+}
+
+void saveBookmarks() {
+    gSd.remove("/index/bookmarks.txt");
+    FsFile f = gSd.open("/index/bookmarks.txt", O_WRONLY | O_CREAT);
+    if (!f) { Serial.println("[WARN] Can't save bookmarks"); return; }
+    for (uint8_t i = 0; i < gBookmarkCount; i++) {
+        f.println(gBookmarks[i]);
+    }
+    f.close();
 }
 
 // -- History --
@@ -113,12 +145,32 @@ void waitAny() {
 // -- Splash screen --
 void splash() {
     screen.begin();
+    // Title
+    screen.centerText("FIELD NODE", CY + 44, COL_PRI);
+    screen.centerText("Pocket Edition", CY + 62, COL_ACCENT);
+
+    // Divider line
+    screen.fillArea(CX + 40, CY + 80, CW - 80, 1, COL_TER);
+
+    // Entry count
     char buf[24];
-    screen.centerText("FIELD NODE", CY + 50, COL_PRI);
-    screen.centerText("Pocket Edition", CY + 76, COL_ACCENT);
-    snprintf(buf, sizeof(buf), "%d entries", gIndex.count());
-    screen.centerText(buf, CY + 104, COL_TER);
-    screen.centerText("press any button", CY + 148, COL_SEC);
+    snprintf(buf, sizeof(buf), "%d entries loaded", gIndex.count());
+    screen.centerText(buf, CY + 92, COL_SEC);
+
+    // Battery
+    int b = screen.getBatteryPct();
+    uint16_t bc = (b > 30) ? COL_OK : (b > 10) ? COL_YELLOW : COL_WARN;
+    snprintf(buf, sizeof(buf), "Battery: %d%%", b);
+    screen.centerText(buf, CY + 112, bc);
+
+    // Bookmarks count
+    if (gBookmarkCount > 0) {
+        snprintf(buf, sizeof(buf), "%d bookmarks", gBookmarkCount);
+        screen.centerText(buf, CY + 132, COL_TER);
+    }
+
+    // Prompt
+    screen.centerText("press any button", CY + 168, COL_TER);
     waitAny();
 }
 
@@ -186,6 +238,7 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
     int scroll = 0;
     int maxScroll = max(0, total - LPP);
     bool bookmarked = isBookmarked(eid);
+    int prevScroll = -1; // force full draw on first render
 
     char hdr[25];
     if (title && title[0]) {
@@ -198,8 +251,11 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
     char statBuf[12];
 
     while (true) {
-        screen.begin();
-        screen.header(hdr);
+        // Only do full clear + header on first draw or drastic changes
+        if (prevScroll < 0) {
+            screen.begin();
+            screen.header(hdr);
+        }
 
         int pct = min(100, (int)((long)(scroll + LPP) * 100 / max(total, 1)));
         snprintf(statBuf, sizeof(statBuf), "%d%%%s", pct,
@@ -207,11 +263,16 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
         screen.statusBar(statBuf);
         screen.scrollBar(scroll, total);
 
-        for (int i = 0; i < LPP && (scroll + i) < total; i++) {
+        for (int i = 0; i < LPP; i++) {
+            int16_t y = TOP_Y + 2 + i * LINE_H;
+            if ((scroll + i) >= total) {
+                // Clear line area (blank line)
+                screen.fillArea(CX, y, CW - 4, LINE_H, COL_BG);
+                continue;
+            }
             const char* ln = entryLines[scroll + i];
             uint16_t color = COL_BODY;
             const char* display = ln;
-            // Simple buffer for stripping markdown prefixes
             static char stripped[LINE_LEN];
 
             if (strncmp(ln, "# ", 2) == 0) {
@@ -225,7 +286,6 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
                 display = ln + 4;
             } else if (strncmp(ln, "**", 2) == 0) {
                 color = COL_ACCENT;
-                // Strip ** from both ends
                 int slen = strlen(ln);
                 int si = 2;
                 int ei = slen;
@@ -236,15 +296,18 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
                 stripped[copyLen] = '\0';
                 display = stripped;
             } else if (strncmp(ln, "- ", 2) == 0) {
-                // Bullet point
-                stripped[0] = ' ';
+                stripped[0] = '\xf9'; // bullet dot char
                 strncpy(stripped + 1, ln + 1, LINE_LEN - 2);
                 stripped[LINE_LEN - 1] = '\0';
                 display = stripped;
             }
 
-            screen.text(display, CX + 4, TOP_Y + 2 + i * LINE_H, color);
+            // Clear line then draw (prevents ghost text)
+            screen.fillArea(CX, y, CW - 4, LINE_H, COL_BG);
+            screen.text(display, CX + 4, y, color);
         }
+
+        prevScroll = scroll;
 
         while (true) {
             poll();
@@ -269,6 +332,7 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title) {
             }
             if (btnOk.held()) {
                 bookmarked = toggleBookmark(eid);
+                prevScroll = -1; // force full redraw
                 screen.begin();
                 screen.centerText(bookmarked ? "Bookmarked" : "Removed",
                                   DISP_H / 2, COL_ACCENT);

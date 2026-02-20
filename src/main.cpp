@@ -5,6 +5,7 @@
 #include "display.h"
 #include "sdcard.h"
 #include "ui.h"
+#include "led.h"
 
 static const char* CAT_NAMES[] = {
     "Immediate Survival",
@@ -22,43 +23,80 @@ static char menuBuf[MAX_MENU_ITEMS][28]; // for dynamically built labels
 
 static void openEntry(uint16_t indexId) {
     char eid[MAX_EID + 1];
-    if (!gIndex.readEid(indexId, eid, sizeof(eid))) return;
+    if (!gIndex.readEid(indexId, eid, sizeof(eid))) {
+        Serial.print("[WARN] Failed to read EID for index ");
+        Serial.println(indexId);
+        return;
+    }
     uint8_t fi = gIndex.folderIdx(indexId);
     const char* title = gIndex.title(indexId);
+    Serial.print("Opening: ");
+    Serial.println(title);
     addHistory(eid, fi, title);
     showEntry(eid, fi, title);
 }
 
 void setup() {
     Serial.begin(115200);
-    delay(100);
+    delay(500);
+    Serial.println("\n=== Apocalypse Field Node ===");
+    Serial.println("Initializing...");
+
+    analogReadResolution(12); // 12-bit ADC for battery readings
+
+    ledInit();
+    ledSet(0, 0, 30); // dim blue = booting
 
     inputInit();
+    Serial.println("[OK] Buttons");
+
     powerInit();
+    Serial.println("[OK] Power management");
+
     screen.init();
+    Serial.println("[OK] Display (240x280 ST7789)");
 
     // Show loading indicator
     screen.centerText("Loading...", DISP_H / 2, COL_SEC);
 
     if (!sdInit()) {
+        Serial.println("[FAIL] SD card not found!");
+        ledBlink(255, 0, 0, 3); // 3 red blinks = SD error
         screen.begin();
         screen.centerText("SD card error!", DISP_H / 2, COL_WARN);
-        while (true) delay(1000);
+        while (true) { ledBlink(255, 0, 0, 1, 500); delay(1000); }
     }
+    Serial.println("[OK] SD card");
 
     if (!gIndex.load()) {
+        Serial.println("[FAIL] Index load failed!");
+        ledBlink(255, 0, 0, 5); // 5 red blinks = index error
         screen.begin();
         screen.centerText("Index error!", DISP_H / 2, COL_WARN);
-        while (true) delay(1000);
+        while (true) { ledBlink(255, 0, 0, 2, 500); delay(1000); }
     }
-
-    loadMetadata();
-
-    Serial.print("Loaded ");
+    Serial.print("[OK] Index: ");
     Serial.print(gIndex.count());
     Serial.println(" entries");
 
+    loadMetadata();
+    Serial.println("[OK] Metadata");
+
+    loadBookmarks();
+
+    // Report free memory
+    Serial.print("Free RAM: ");
+    Serial.print(rp2040.getFreeHeap());
+    Serial.println(" bytes");
+
+    uint32_t bootMs = millis();
+    Serial.print("Boot time: ");
+    Serial.print(bootMs);
+    Serial.println("ms");
+
+    ledSet(0, 30, 0); // green = ready
     splash();
+    ledOff(); // turn off after user dismisses splash
 }
 
 void loop() {

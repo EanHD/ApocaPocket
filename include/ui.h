@@ -7,12 +7,14 @@
 extern bool gGoHome;
 extern bool gEmergency;
 
-// Bookmarks (session-only, max 20)
+// Bookmarks (persisted to SD, max 20)
 #define MAX_BOOKMARKS 20
 extern char gBookmarks[MAX_BOOKMARKS][MAX_EID + 1];
 extern uint8_t gBookmarkCount;
 bool isBookmarked(const char* eid);
 bool toggleBookmark(const char* eid);
+void loadBookmarks();
+void saveBookmarks();
 
 // History (ring buffer, last 10)
 #define MAX_HISTORY 10

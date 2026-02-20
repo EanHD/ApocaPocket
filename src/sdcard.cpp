@@ -154,19 +154,34 @@ int readEntry(const char* eid, uint8_t folderIdx,
 
     FsFile f = gSd.open(path, O_RDONLY);
     if (!f) {
+        Serial.print("[WARN] Entry not found: ");
+        Serial.println(path);
         snprintf(lines[0], LINE_LEN, "Not found: %s", eid);
         return 1;
     }
 
     int count = 0;
     char buf[82];
+    bool inFrontmatter = false;
+    bool frontmatterDone = false;
+
     while (count < maxLines && f.fgets(buf, sizeof(buf)) > 0) {
         // Strip trailing newline/CR
         int blen = strlen(buf);
         while (blen > 0 && (buf[blen-1] == '\n' || buf[blen-1] == '\r'))
             buf[--blen] = '\0';
 
-        // Filter to ASCII
+        // Skip YAML frontmatter (between --- markers)
+        if (!frontmatterDone) {
+            if (blen >= 3 && buf[0] == '-' && buf[1] == '-' && buf[2] == '-') {
+                if (!inFrontmatter) { inFrontmatter = true; continue; }
+                else { inFrontmatter = false; frontmatterDone = true; continue; }
+            }
+            if (inFrontmatter) continue;
+            frontmatterDone = true; // no frontmatter found, process normally
+        }
+
+        // Filter to printable ASCII
         for (int i = 0; i < blen; i++) {
             if ((uint8_t)buf[i] < 32 || (uint8_t)buf[i] > 126)
                 buf[i] = ' ';
