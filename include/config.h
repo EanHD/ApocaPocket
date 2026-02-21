@@ -17,7 +17,9 @@
 #define PIN_BTN_RT    5
 #define PIN_BTN_OK    6
 #define PIN_VBAT      28
+#ifndef PIN_NEOPIXEL
 #define PIN_NEOPIXEL  16  // Onboard WS2812B LED
+#endif
 
 // -- Display geometry --
 #define DISP_W        240

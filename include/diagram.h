@@ -1,13 +1,17 @@
 #pragma once
 #include "config.h"
 
-// Diagram viewer: checks for {eid}.bmp in /data/diagrams/ on SD card
-// Supports 24-bit uncompressed BMP (Windows BMP3 format), any size
-// Streams row-by-row from SD → display (only 480 bytes RAM needed)
+// Diagram viewer: checks for {eid}.bmp in /data/data/diagrams/ on SD card
+// Supports 24-bit uncompressed BMP (Windows BMP3 format), any size ≤ display
+// Streams row-by-row from SD → display (only ~1KB RAM needed per row)
 //
-// To prepare diagrams for the device:
-//   convert diagram.png -resize 200x200 -type TrueColor BMP3:diagram.bmp
-//   Place on SD at: /data/diagrams/{eid}.bmp
+// SD card path: /data/data/diagrams/{eid}.bmp
+//   (matches workspace: data/diagrams/{eid}.bmp → SD: /data/data/diagrams/)
+//
+// Convert workspace SVGs to BMP for the device:
+//   rsvg-convert -w 200 -h 200 foo.svg | convert - BMP3:foo.bmp
+// Or from PNG:
+//   convert foo.png -resize 200x200 -type TrueColor BMP3:foo.bmp
 
 // Returns true if a diagram file exists for this entry ID
 bool hasDiagram(const char* eid);

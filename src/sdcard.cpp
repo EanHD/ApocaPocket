@@ -458,7 +458,9 @@ bool loadMetadata() {
     File f = SDFS.open("/index/metadata.json", "r");
     if (!f) return false;
 
-    char buf[512];
+    // 2KB buffer: metadata.json holds ~9 subfolder names, each ~40 chars
+    // 512 was too small for full subtopics map; 2048 handles up to ~50 entries
+    char buf[2048];
     int len = f.read((uint8_t*)buf, sizeof(buf) - 1);
     f.close();
     if (len <= 0) return false;

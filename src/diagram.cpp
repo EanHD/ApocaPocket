@@ -5,10 +5,17 @@
 #include "power.h"
 #include <Arduino.h>
 
-// BMP path: /data/diagrams/{eid}.bmp
-// Compact helper to build path safely
+// BMP path: /data/data/diagrams/{eid}.bmp
+// Matches SD card layout: workspace data/ mirrors to /data/data/ on SD
+// (i.e. workspace: data/diagrams/foo.bmp → SD: /data/data/diagrams/foo.bmp)
+//
+// SVGs cannot be displayed directly — convert first:
+//   rsvg-convert -w 200 -h 200 input.svg | convert - BMP3:output.bmp
+// or:
+//   inkscape input.svg --export-width=200 --export-png=tmp.png
+//   convert tmp.png -resize 200x200 -type TrueColor BMP3:output.bmp
 static void buildDiagPath(const char* eid, char* buf, int bufLen) {
-    snprintf(buf, bufLen, "/data/diagrams/%.28s.bmp", eid);
+    snprintf(buf, bufLen, "/data/data/diagrams/%.24s.bmp", eid);
 }
 
 bool hasDiagram(const char* eid) {
