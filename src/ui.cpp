@@ -3,10 +3,14 @@
 #include "power.h"
 #include "display.h"
 #include "sdcard.h"
+#include "diagram.h"
 #include <Arduino.h>
 
 bool gGoHome = false;
 bool gEmergency = false;
+
+// Smooth scroll animation state (global, reset between entries)
+ScrollAnim gScrollAnim = {0, 0, 0};
 
 // -- Bookmarks --
 char gBookmarks[MAX_BOOKMARKS][MAX_EID + 1];
@@ -267,15 +271,78 @@ static int findHeading(char lines[][LINE_LEN], int total, int pos, int dir) {
     return pos;
 }
 
-// -- Entry viewer --
-// FIX #2: Move large buffer to heap to prevent stack overflow
-// (was: static char entryLines[MAX_LINES][LINE_LEN]; = 4,650 bytes on stack)
+// ─────────────────────────────────────────────────────────────
+//  SMOOTH SCROLL helpers
+// ─────────────────────────────────────────────────────────────
+
+// Render a single line at pixel y using markdown-aware colors.
+// Clips to content area. Does NOT call fillArea (caller is responsible).
+static void drawEntryLine(const char* ln, int16_t y) {
+    uint16_t color = COL_BODY;
+    const char* display = ln;
+    static char stripped[LINE_LEN]; // safe: called from single thread
+
+    if (strncmp(ln, "# ", 2) == 0) {
+        color = COL_ACCENT; display = ln + 2;
+    } else if (strncmp(ln, "## ", 3) == 0) {
+        color = COL_PRI;    display = ln + 3;
+    } else if (strncmp(ln, "### ", 4) == 0) {
+        color = COL_SEC;    display = ln + 4;
+    } else if (strncmp(ln, "**", 2) == 0) {
+        color = COL_ACCENT;
+        int slen = strlen(ln), si = 2, ei = slen;
+        while (ei > si && ln[ei-1] == '*') ei--;
+        int copyLen = ei - si;
+        if (copyLen > LINE_LEN - 1) copyLen = LINE_LEN - 1;
+        memcpy(stripped, ln + si, copyLen);
+        stripped[copyLen] = '\0';
+        display = stripped;
+    } else if (strncmp(ln, "- ", 2) == 0) {
+        stripped[0] = '\xf9'; // bullet dot
+        strncpy(stripped + 1, ln + 1, LINE_LEN - 2);
+        stripped[LINE_LEN - 1] = '\0';
+        display = stripped;
+    }
+
+    screen.text(display, CX + 4, y, color);
+}
+
+// Render the content area with optional pixel offset (smooth scroll).
+//   animOff > 0 → content shifted DOWN (start of scroll-up animation)
+//   animOff < 0 → content shifted UP   (start of scroll-down animation)
+//   animOff = 0 → stable (normal draw)
+// Draws one extra line in the direction of incoming content so there
+// is no gap at the edge during animation.
+static void renderEntryContent(char (*lines)[LINE_LEN], int total,
+                                int scroll, int animOff) {
+    // Clear entire content area once (avoids ghost pixels from shifted text)
+    screen.fillArea(CX, TOP_Y, CW - 4, BOT_Y - TOP_Y, COL_BG);
+
+    // Draw LPP lines + one extra on each side if animating
+    int iStart = (animOff > 0) ? -1 : 0;
+    int iEnd   = (animOff < 0) ? LPP : LPP - 1;
+
+    for (int i = iStart; i <= iEnd; i++) {
+        int lineIdx = scroll + i;
+        int16_t y   = (int16_t)(TOP_Y + 2 + i * LINE_H + animOff);
+
+        // Skip lines completely outside the content window
+        if (y + LINE_H <= TOP_Y || y >= BOT_Y) continue;
+        if (lineIdx < 0 || lineIdx >= total)    continue;
+
+        drawEntryLine(lines[lineIdx], y);
+    }
+}
+
+// ─────────────────────────────────────────────────────────────
+//  ENTRY VIEWER  (with smooth scroll + diagram viewer)
+// ─────────────────────────────────────────────────────────────
+// FIX #2: Large line buffer lives on heap (was 4.6 KB on stack).
 void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos) {
-    // Allocate entry buffer on heap
     char (*entryLines)[LINE_LEN] = new char[MAX_LINES][LINE_LEN];
     if (!entryLines) {
-        Serial.println("[ERROR] Out of memory for entry buffer!");
+        Serial.println("[ERROR] OOM for entry buffer");
         screen.begin();
         screen.header("Error", false);
         screen.centerText("Out of memory!", DISP_H / 2 - 10, COL_WARN);
@@ -284,147 +351,195 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
         return;
     }
 
-    int total = readEntry(eid, folderIdx, entryLines, MAX_LINES);
-    int scroll = (scrollPos && *scrollPos > 0) ? *scrollPos : 0;
+    int total     = readEntry(eid, folderIdx, entryLines, MAX_LINES);
+    int scroll    = (scrollPos && *scrollPos > 0) ? *scrollPos : 0;
     int maxScroll = max(0, total - LPP);
     if (scroll > maxScroll) scroll = maxScroll;
     bool bookmarked = isBookmarked(eid);
-    int prevScroll = -1; // force full draw on first render
+    bool diagramAvail = hasDiagram(eid);
 
     char hdr[25];
-    if (title && title[0]) {
-        strncpy(hdr, title, 24);
-    } else {
-        strncpy(hdr, eid, 24);
-    }
+    strncpy(hdr, (title && title[0]) ? title : eid, 24);
     hdr[24] = '\0';
 
+    // Reset scroll animation when entering a new entry
+    gScrollAnim.reset();
+
+    // -1 forces full header + content draw on first iteration
+    int  prevScroll  = -1;
     char statBuf[12];
 
+    // ── Main render / input loop ──
     while (true) {
-        // Only do full clear + header on first draw or drastic changes
+        bool animating = gScrollAnim.active();
+
+        // Rebuild status string
+        int pct = min(100, (int)((long)(scroll + LPP) * 100 / max(total, 1)));
+        snprintf(statBuf, sizeof(statBuf), "%d%%%s%s",
+                 pct,
+                 bookmarked   ? "*" : "",
+                 diagramAvail ? " [D]" : "");
+
+        // ── Full frame: header + content ──
         if (prevScroll < 0) {
+            // First render: draw the full chrome (header, dividers, status bar)
             screen.begin();
             screen.header(hdr);
         }
 
-        int pct = min(100, (int)((long)(scroll + LPP) * 100 / max(total, 1)));
-        snprintf(statBuf, sizeof(statBuf), "%d%%%s", pct,
-                 bookmarked ? "*" : "");
+        // Content: redraw when scroll changed or animation in progress
+        if (prevScroll < 0 || animating || prevScroll != scroll) {
+            renderEntryContent(entryLines, total, scroll, gScrollAnim.current);
+        }
+
+        // Status bar + scroll indicator (cheap, always refresh)
         screen.statusBar(statBuf);
         screen.scrollBar(scroll, total);
 
-        for (int i = 0; i < LPP; i++) {
-            int16_t y = TOP_Y + 2 + i * LINE_H;
-            if ((scroll + i) >= total) {
-                // Clear line area (blank line)
-                screen.fillArea(CX, y, CW - 4, LINE_H, COL_BG);
-                continue;
-            }
-            const char* ln = entryLines[scroll + i];
-            uint16_t color = COL_BODY;
-            const char* display = ln;
-            static char stripped[LINE_LEN];
-
-            if (strncmp(ln, "# ", 2) == 0) {
-                color = COL_ACCENT;
-                display = ln + 2;
-            } else if (strncmp(ln, "## ", 3) == 0) {
-                color = COL_PRI;
-                display = ln + 3;
-            } else if (strncmp(ln, "### ", 4) == 0) {
-                color = COL_SEC;
-                display = ln + 4;
-            } else if (strncmp(ln, "**", 2) == 0) {
-                color = COL_ACCENT;
-                int slen = strlen(ln);
-                int si = 2;
-                int ei = slen;
-                while (ei > si && ln[ei-1] == '*') ei--;
-                int copyLen = ei - si;
-                if (copyLen > LINE_LEN - 1) copyLen = LINE_LEN - 1;
-                memcpy(stripped, ln + si, copyLen);
-                stripped[copyLen] = '\0';
-                display = stripped;
-            } else if (strncmp(ln, "- ", 2) == 0) {
-                stripped[0] = '\xf9'; // bullet dot char
-                strncpy(stripped + 1, ln + 1, LINE_LEN - 2);
-                stripped[LINE_LEN - 1] = '\0';
-                display = stripped;
-            }
-
-            // Clear line then draw (prevents ghost text)
-            screen.fillArea(CX, y, CW - 4, LINE_H, COL_BG);
-            screen.text(display, CX + 4, y, color);
-        }
-
         prevScroll = scroll;
 
-        while (true) {
-            poll();
+        // ── Step animation ──
+        if (animating) {
+            gScrollAnim.tick();
+            // Don't wait for button — loop immediately to render next frame
+            inputUpdate();
+            powerTick();
+            // Still check emergency + back during animation
             if (gEmergency || gGoHome) {
                 if (scrollPos) *scrollPos = scroll;
-                delete[] entryLines;  // Free heap memory before returning
-                return;
-            }
-            if (btnBk.held()) {
-                if (scrollPos) *scrollPos = scroll;
-                delete[] entryLines;  // Free heap memory before returning
-                gGoHome = true; 
+                delete[] entryLines;
                 return;
             }
             if (btnBk.tapped()) {
                 if (scrollPos) *scrollPos = scroll;
-                delete[] entryLines;  // Free heap memory before returning
+                delete[] entryLines;
+                return;
+            }
+            continue; // next animation frame
+        }
+
+        // ── Input: wait for button ──
+        while (true) {
+            poll();
+
+            if (gEmergency || gGoHome) {
+                if (scrollPos) *scrollPos = scroll;
+                delete[] entryLines;
+                return;
+            }
+            if (btnBk.held()) {
+                if (scrollPos) *scrollPos = scroll;
+                delete[] entryLines;
+                gGoHome = true;
+                return;
+            }
+            if (btnBk.tapped()) {
+                if (scrollPos) *scrollPos = scroll;
+                delete[] entryLines;
                 return;
             }
 
-            if (btnUp.tapped()) { scroll = max(0, scroll - 1); break; }
-            if (btnDn.tapped()) { scroll = min(maxScroll, scroll + 1); break; }
-            // Hold = jump to heading, repeat while held
+            // ── UP / DOWN: line scroll (with smooth animation) ──
+            if (btnUp.tapped()) {
+                if (scroll > 0) {
+                    gScrollAnim.trigger(-1); // content slides down
+                    scroll--;
+                }
+                break;
+            }
+            if (btnDn.tapped()) {
+                if (scroll < maxScroll) {
+                    gScrollAnim.trigger(+1); // content slides up
+                    scroll++;
+                }
+                break;
+            }
+
+            // ── Hold UP/DOWN: jump to prev/next heading ──
             if (btnUp.held() || btnUp.repeating()) {
-                scroll = max(0, findHeading(entryLines, total, scroll, -1));
+                int newScroll = max(0, findHeading(entryLines, total, scroll, -1));
+                if (newScroll != scroll) {
+                    gScrollAnim.trigger(-1);
+                    scroll = newScroll;
+                }
                 break;
             }
             if (btnDn.held() || btnDn.repeating()) {
-                scroll = min(maxScroll,
-                             findHeading(entryLines, total, scroll, 1));
+                int newScroll = min(maxScroll, findHeading(entryLines, total, scroll, 1));
+                if (newScroll != scroll) {
+                    gScrollAnim.trigger(+1);
+                    scroll = newScroll;
+                }
                 break;
             }
+
+            // ── RIGHT: page down (no animation, too large a jump) ──
             if (btnRt.tapped()) {
-                scroll = min(maxScroll, scroll + LPP);
+                int newScroll = min(maxScroll, scroll + LPP);
+                if (newScroll != scroll) {
+                    gScrollAnim.trigger(+1);
+                    scroll = newScroll;
+                }
                 break;
             }
+
+            // ── OK long-press: context menu ──
             if (btnOk.held()) {
-                // Context menu
-                const char* ctxItems[3];
-                ctxItems[0] = bookmarked ? "Remove Bookmark" : "Add Bookmark";
-                ctxItems[1] = "Entry Info";
-                ctxItems[2] = "Close";
-                int ctx = menu("Options", ctxItems, 3);
-                if (ctx == 0) {
+                // Build context menu — diagram option only if file present
+                const char* ctxItems[5];
+                int ctxCount = 0;
+                int idxBookmark  = -1, idxDiagram = -1,
+                    idxInfo = -1,    idxClose   = -1;
+
+                idxBookmark = ctxCount++;
+                ctxItems[idxBookmark] = bookmarked ? "Remove Bookmark"
+                                                    : "Add Bookmark";
+                if (diagramAvail) {
+                    idxDiagram = ctxCount++;
+                    ctxItems[idxDiagram] = "View Diagram";
+                }
+                idxInfo = ctxCount++;
+                ctxItems[idxInfo] = "Entry Info";
+                idxClose = ctxCount++;
+                ctxItems[idxClose] = "Close";
+
+                int ctx = menu("Options", ctxItems, ctxCount);
+
+                if (ctx == idxBookmark) {
                     bookmarked = toggleBookmark(eid);
-                } else if (ctx == 1) {
-                    // Show entry info overlay
+
+                } else if (diagramAvail && ctx == idxDiagram) {
+                    // Show diagram fullscreen — returns when user presses back
+                    showDiagram(eid, title);
+                    // Restore entry view after diagram
+                    prevScroll = -1;
+
+                } else if (ctx == idxInfo) {
                     screen.begin();
                     screen.header("Entry Info", false);
-                    char infoBuf[31];
+                    char infoBuf[32];
                     snprintf(infoBuf, sizeof(infoBuf), "ID: %.24s", eid);
                     screen.text(infoBuf, CX + 8, TOP_Y + 10, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Lines: %d", total);
                     screen.text(infoBuf, CX + 8, TOP_Y + 28, COL_SEC);
+                    snprintf(infoBuf, sizeof(infoBuf), "Diagram: %s",
+                             diagramAvail ? "Yes" : "No");
+                    screen.text(infoBuf, CX + 8, TOP_Y + 46, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Bookmarked: %s",
                              bookmarked ? "Yes" : "No");
-                    screen.text(infoBuf, CX + 8, TOP_Y + 46, COL_SEC);
-                    screen.centerText("press any button", TOP_Y + 80, COL_TER);
+                    screen.text(infoBuf, CX + 8, TOP_Y + 64, COL_SEC);
+                    screen.centerText("press any button", TOP_Y + 90, COL_TER);
                     waitAny();
+                    prevScroll = -1;
                 }
-                prevScroll = -1; // force full redraw
+                // Force full redraw after any context menu action
+                prevScroll = -1;
+                gScrollAnim.reset();
                 break;
             }
         }
     }
-    // Note: delete[] is called on all return paths above
+    // delete[] is called on every return path above
 }
 
 // -- Text input (character picker) --

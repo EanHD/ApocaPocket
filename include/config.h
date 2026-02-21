@@ -90,3 +90,8 @@
 #define EMERGENCY_COMBO_MS  400  // Hold UP+DN for 400ms to trigger emergency
 #define BUTTON_HOLD_MS      500  // Hold button for section jump
 #define BUTTON_REPEAT_MS    120  // Auto-repeat interval
+
+// -- Smooth scroll animation --
+// Each ease-out step fires at most every SCROLL_FRAME_MS ms (~40fps)
+// Starts at ±LINE_H (18px) and halves each frame → 6 frames ~150ms total
+#define SCROLL_FRAME_MS     25   // ms between animation steps (40fps max)
