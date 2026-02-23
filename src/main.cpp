@@ -17,7 +17,7 @@ static const char* CAT_NAMES[] = {
 #define NUM_CATS 5
 
 // Reusable buffers for menu item pointers
-#define MAX_MENU_ITEMS 100
+#define MAX_MENU_ITEMS 200
 static const char* menuPtrs[MAX_MENU_ITEMS];
 static char menuBuf[MAX_MENU_ITEMS][28]; // for dynamically built labels
 

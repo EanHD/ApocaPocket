@@ -61,7 +61,7 @@
 #define BL_OFF           0
 
 // -- Entry reader limits --
-#define MAX_LINES     150
+#define MAX_LINES     300
 #define LINE_LEN      31   // 30 visible chars + null
 #define WRAP_WIDTH    30
 #define MAX_TITLE     26
