@@ -16,10 +16,20 @@ static const char* CAT_NAMES[] = {
 };
 #define NUM_CATS 5
 
+// Category badge colors (one per category, matches CAT_NAMES order)
+static const uint16_t CAT_COLORS[NUM_CATS] = {
+    COL_WARN,    // Immediate Survival — red (urgent)
+    COL_OK,      // Food & Biology — green
+    COL_YELLOW,  // Materials — yellow
+    COL_ACCENT,  // Tools & Rebuild — blue
+    COL_SEC,     // Civilization — gray
+};
+
 // Reusable buffers for menu item pointers
 #define MAX_MENU_ITEMS 200
 static const char* menuPtrs[MAX_MENU_ITEMS];
-static char menuBuf[MAX_MENU_ITEMS][28]; // for dynamically built labels
+static char menuBuf[MAX_MENU_ITEMS][32]; // for dynamically built labels
+static uint16_t menuColors[MAX_MENU_ITEMS]; // badge colors (0 = none)
 
 static void openEntry(uint16_t indexId) {
     char eid[MAX_EID + 1];
@@ -170,7 +180,6 @@ void loop() {
     // Emergency combo: jump to L1 immediate survival
     if (gEmergency) {
         gEmergency = false;
-        // Wait for buttons to release
         while (btnUp.down() || btnDn.down()) delay(20);
 
         uint8_t subs[16];
@@ -179,8 +188,7 @@ void loop() {
         if (subCount > 0) {
             uint16_t indices[MAX_MENU_ITEMS];
             uint16_t entCount;
-            gIndex.getBySubfolder(0, subs[0], indices, entCount,
-                                  MAX_MENU_ITEMS);
+            gIndex.getBySubfolder(0, subs[0], indices, entCount, MAX_MENU_ITEMS);
             int n = min((int)entCount, MAX_MENU_ITEMS);
             for (int i = 0; i < n; i++)
                 menuPtrs[i] = gIndex.title(indices[i]);
@@ -191,72 +199,89 @@ void loop() {
         return;
     }
 
-    // Build main menu
-    char batLabel[20];
-    snprintf(batLabel, sizeof(batLabel), "Bookmarks");
-    if (gBookmarkCount > 0) {
-        snprintf(batLabel, sizeof(batLabel), "Bookmarks (%d)",
-                 gBookmarkCount);
-    }
-    char histLabel[20];
-    snprintf(histLabel, sizeof(histLabel), "History");
-    if (gHistoryCount > 0) {
-        snprintf(histLabel, sizeof(histLabel), "History (%d)",
-                 gHistoryCount);
-    }
-    const char* mainItems[] = {"Browse", "Search", batLabel, histLabel};
-    int c = menu("ApocaPocket", mainItems, 4);
-    if (gEmergency) return;
-
-    if (c == 0) {
-        // Browse: Categories -> Subfolders -> Entries -> View
-        // Show category names with entry counts
-        for (int i = 0; i < NUM_CATS; i++) {
-            int cnt = 0;
-            for (uint16_t j = 0; j < gIndex.count(); j++) {
-                if (gIndex.category(j) == i) cnt++;
-            }
-            snprintf(menuBuf[i], 28, "%s (%d)", CAT_NAMES[i], cnt);
-            menuBuf[i][27] = '\0';
-            menuPtrs[i] = menuBuf[i];
+    // ── Main menu: categories (with colored badges) + utilities ──
+    // Build per-category entry counts
+    for (int i = 0; i < NUM_CATS; i++) {
+        int cnt = 0;
+        for (uint16_t j = 0; j < gIndex.count(); j++) {
+            if (gIndex.category(j) == i) cnt++;
         }
-        int cat = menu("Categories", menuPtrs, NUM_CATS);
-        if (cat < 0 || gEmergency) return;
+        snprintf(menuBuf[i], 32, "%s (%d)", CAT_NAMES[i], cnt);
+        menuBuf[i][31] = '\0';
+        menuPtrs[i]    = menuBuf[i];
+        menuColors[i]  = CAT_COLORS[i];
+    }
+
+    // Utility items after categories
+    int searchIdx = NUM_CATS;
+    int bmIdx     = NUM_CATS + 1;
+    int histIdx   = NUM_CATS + 2;
+
+    menuPtrs[searchIdx] = "Search";
+    menuColors[searchIdx] = 0;
+
+    if (gBookmarkCount > 0)
+        snprintf(menuBuf[bmIdx], 32, "Bookmarks (%d)", gBookmarkCount);
+    else
+        snprintf(menuBuf[bmIdx], 32, "Bookmarks");
+    menuBuf[bmIdx][31]   = '\0';
+    menuPtrs[bmIdx]      = menuBuf[bmIdx];
+    menuColors[bmIdx]    = 0;
+
+    if (gHistoryCount > 0)
+        snprintf(menuBuf[histIdx], 32, "History (%d)", gHistoryCount);
+    else
+        snprintf(menuBuf[histIdx], 32, "History");
+    menuBuf[histIdx][31] = '\0';
+    menuPtrs[histIdx]    = menuBuf[histIdx];
+    menuColors[histIdx]  = 0;
+
+    int c = menu("ApocaPocket", menuPtrs, NUM_CATS + 3, menuColors);
+    if (gEmergency) return;
+    if (c < 0) return;
+
+    if (c < NUM_CATS) {
+        // ── Browse: Category → Subfolder → Entry List → View ──
+        int cat = c;
 
         uint8_t subs[16];
         uint8_t subCount;
         gIndex.getSubfolders(cat, subs, subCount, 16);
-        for (int i = 0; i < subCount; i++) {
-            // Count entries in this subfolder
-            uint16_t tmpIdx[MAX_MENU_ITEMS];
-            uint16_t tmpCnt;
-            gIndex.getBySubfolder(cat, subs[i], tmpIdx, tmpCnt, MAX_MENU_ITEMS);
-            const char* sname = subfolderName(subs[i]);
-            if (sname) {
-                snprintf(menuBuf[i], 28, "%s (%d)", sname, tmpCnt);
-            } else {
-                snprintf(menuBuf[i], 28, "Folder %d (%d)", subs[i], tmpCnt);
+
+        int ss = 0; // default if only 1 subfolder
+        if (subCount > 1) {
+            // Build subfolder menu (no badges)
+            for (int i = 0; i < subCount; i++) {
+                uint16_t tmpIdx[MAX_MENU_ITEMS];
+                uint16_t tmpCnt;
+                gIndex.getBySubfolder(cat, subs[i], tmpIdx, tmpCnt, MAX_MENU_ITEMS);
+                const char* sname = subfolderName(subs[i]);
+                if (sname)
+                    snprintf(menuBuf[i], 32, "%s (%d)", sname, tmpCnt);
+                else
+                    snprintf(menuBuf[i], 32, "Folder %d (%d)", subs[i], tmpCnt);
+                menuBuf[i][31] = '\0';
+                menuPtrs[i] = menuBuf[i];
             }
-            menuBuf[i][27] = '\0';
-            menuPtrs[i] = menuBuf[i];
+            ss = menu(CAT_NAMES[cat], menuPtrs, subCount);
+            if (ss < 0 || gGoHome || gEmergency) return;
         }
-        int ss = menu(CAT_NAMES[cat], menuPtrs, subCount);
-        if (ss < 0 || gEmergency) return;
 
         uint16_t indices[MAX_MENU_ITEMS];
         uint16_t entCount;
-        gIndex.getBySubfolder(cat, subs[ss], indices, entCount,
-                              MAX_MENU_ITEMS);
+        gIndex.getBySubfolder(cat, subs[ss], indices, entCount, MAX_MENU_ITEMS);
         int n = min((int)entCount, MAX_MENU_ITEMS);
         for (int i = 0; i < n; i++)
             menuPtrs[i] = gIndex.title(indices[i]);
 
-        int es = menu(menuBuf[ss], menuPtrs, n);
+        // Use subfolder label as entry list header
+        const char* listHdr = (subCount > 1) ? menuBuf[ss] : CAT_NAMES[cat];
+        int es = menu(listHdr, menuPtrs, n);
         if (es >= 0 && !gGoHome && !gEmergency)
             openEntry(indices[es]);
 
-    } else if (c == 1) {
-        // Search
+    } else if (c == searchIdx) {
+        // ── Search ──
         char query[24];
         textInput("Search", query, sizeof(query));
         if (query[0] == '\0' || gGoHome || gEmergency) return;
@@ -274,21 +299,20 @@ void loop() {
         for (int i = 0; i < rcount; i++)
             menuPtrs[i] = gIndex.title(results[i]);
 
-        char rTitle[24];
+        char rTitle[28];
         snprintf(rTitle, sizeof(rTitle), "Results (%d)", rcount);
         int s = menu(rTitle, menuPtrs, rcount);
         if (s >= 0 && !gGoHome && !gEmergency)
             openEntry(results[s]);
 
-    } else if (c == 2) {
-        // Bookmarks
+    } else if (c == bmIdx) {
+        // ── Bookmarks ──
         if (gBookmarkCount == 0) {
             screen.begin();
             screen.centerText("No bookmarks yet", DISP_H / 2, COL_SEC);
             delay(1500);
             return;
         }
-        // Find index entries matching bookmarks
         uint16_t bmIndices[MAX_BOOKMARKS];
         int bmCount = 0;
         for (uint16_t i = 0; i < gIndex.count() && bmCount < MAX_BOOKMARKS; i++) {
@@ -304,8 +328,8 @@ void loop() {
         if (s >= 0 && !gGoHome && !gEmergency)
             openEntry(bmIndices[s]);
 
-    } else if (c == 3) {
-        // History
+    } else if (c == histIdx) {
+        // ── History ──
         if (gHistoryCount == 0) {
             screen.begin();
             screen.centerText("No history yet", DISP_H / 2, COL_SEC);

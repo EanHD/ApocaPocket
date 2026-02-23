@@ -8,13 +8,13 @@ class Screen {
 public:
     void init();
     void begin();  // start a new frame (clear content area)
-    void text(const char* s, int16_t x, int16_t y, uint16_t color = COL_PRI);
-    void centerText(const char* s, int16_t y, uint16_t color = COL_PRI);
+    void text(const char* s, int16_t x, int16_t y, uint16_t color = COL_PRI, uint16_t bg = COL_BG);
+    void centerText(const char* s, int16_t y, uint16_t color = COL_PRI, uint16_t bg = COL_BG);
     void header(const char* title, bool showBack = true);
     void statusBar(const char* right = nullptr);
     void selectionAt(int16_t y);
     void scrollBar(int pos, int total);
-    void menuItem(const char* text, int16_t y, bool selected);
+    void menuItem(const char* text, int16_t y, bool selected, uint16_t badgeColor = 0);
     void fillArea(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color);
     void refresh(); // no-op for direct draw, placeholder
 

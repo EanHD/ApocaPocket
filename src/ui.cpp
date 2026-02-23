@@ -163,11 +163,11 @@ void poll() {
     if (now - lastBatWarn > 60000) {
         int batt = screen.getBatteryPct();
         if (batt <= 10 && batt > 0) {
-            // Brief overlay warning
+            // Brief overlay warning — text bg must match the warning box color
             screen.fillArea(CX + 20, DISP_H / 2 - 16, CW - 40, 32, COL_WARN);
             char buf[20];
             snprintf(buf, sizeof(buf), "LOW BATTERY %d%%", batt);
-            screen.centerText(buf, DISP_H / 2 - 4, COL_PRI);
+            screen.centerText(buf, DISP_H / 2 - 4, COL_PRI, COL_WARN);
             delay(1500);
         }
         lastBatWarn = now;
@@ -217,7 +217,8 @@ void splash() {
 }
 
 // -- Menu --
-int menu(const char* title, const char** items, int count) {
+int menu(const char* title, const char** items, int count,
+         uint16_t* badgeColors) {
     int sel = 0;
     int offset = 0;
     int vis = (count < MENU_VIS) ? count : MENU_VIS;
@@ -232,7 +233,8 @@ int menu(const char* title, const char** items, int count) {
         for (int i = 0; i < vis; i++) {
             int ii = i + offset;
             int16_t y = TOP_Y + 12 + i * MENU_LINE_H;
-            screen.menuItem(items[ii], y, ii == sel);
+            screen.menuItem(items[ii], y, ii == sel,
+                            badgeColors ? badgeColors[ii] : 0);
         }
         if (count > vis) screen.scrollBar(sel, count);
 
@@ -358,9 +360,9 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
     bool bookmarked = isBookmarked(eid);
     bool diagramAvail = hasDiagram(eid);
 
-    char hdr[25];
-    strncpy(hdr, (title && title[0]) ? title : eid, 24);
-    hdr[24] = '\0';
+    char hdr[TITLE_DISPLAY_LEN + 1];
+    strncpy(hdr, (title && title[0]) ? title : eid, TITLE_DISPLAY_LEN);
+    hdr[TITLE_DISPLAY_LEN] = '\0';
 
     // Reset scroll animation when entering a new entry
     gScrollAnim.reset();
@@ -373,12 +375,12 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
     while (true) {
         bool animating = gScrollAnim.active();
 
-        // Rebuild status string
-        int pct = min(100, (int)((long)(scroll + LPP) * 100 / max(total, 1)));
-        snprintf(statBuf, sizeof(statBuf), "%d%%%s%s",
-                 pct,
-                 bookmarked   ? "*" : "",
-                 diagramAvail ? " [D]" : "");
+        // Status: "line/total bookmark diagram" — clear and human-readable
+        int visEnd = min(scroll + LPP, total);
+        snprintf(statBuf, sizeof(statBuf), "%d/%d%s%s",
+                 visEnd, total,
+                 bookmarked   ? "*"   : "",
+                 diagramAvail ? "[D]" : "");
 
         // ── Full frame: header + content ──
         if (prevScroll < 0) {
@@ -518,17 +520,17 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                     screen.begin();
                     screen.header("Entry Info", false);
                     char infoBuf[32];
-                    snprintf(infoBuf, sizeof(infoBuf), "ID: %.24s", eid);
+                    snprintf(infoBuf, sizeof(infoBuf), "ID: %.26s", eid);
                     screen.text(infoBuf, CX + 8, TOP_Y + 10, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Lines: %d", total);
-                    screen.text(infoBuf, CX + 8, TOP_Y + 28, COL_SEC);
+                    screen.text(infoBuf, CX + 8, TOP_Y + 32, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Diagram: %s",
                              diagramAvail ? "Yes" : "No");
-                    screen.text(infoBuf, CX + 8, TOP_Y + 46, COL_SEC);
+                    screen.text(infoBuf, CX + 8, TOP_Y + 54, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Bookmarked: %s",
                              bookmarked ? "Yes" : "No");
-                    screen.text(infoBuf, CX + 8, TOP_Y + 64, COL_SEC);
-                    screen.centerText("press any button", TOP_Y + 90, COL_TER);
+                    screen.text(infoBuf, CX + 8, TOP_Y + 76, COL_SEC);
+                    screen.centerText("press any button", TOP_Y + 104, COL_TER);
                     waitAny();
                     prevScroll = -1;
                 }
@@ -575,15 +577,15 @@ void textInput(const char* title, char* output, int maxLen) {
         char cur[2] = { chars[ci], '\0' };
         screen.centerText(cur, TOP_Y + 40, COL_ACCENT);
 
-        // Instructions
-        screen.text("UP/DN", CX + 8, TOP_Y + 68, COL_SEC);
-        screen.text("char", CX + 44, TOP_Y + 68, COL_TER);
-        screen.text("OK", CX + 8, TOP_Y + 82, COL_SEC);
-        screen.text("add", CX + 32, TOP_Y + 82, COL_TER);
-        screen.text("RIGHT", CX + 8, TOP_Y + 96, COL_SEC);
-        screen.text("delete", CX + 50, TOP_Y + 96, COL_TER);
-        screen.text("BACK", CX + 8, TOP_Y + 110, COL_SEC);
-        screen.text("done/cancel", CX + 44, TOP_Y + 110, COL_TER);
+        // Instructions (rendered once at top of loop, 20px row spacing)
+        screen.text("UP/DN", CX + 8,  TOP_Y + 68, COL_SEC);
+        screen.text("char",  CX + 52, TOP_Y + 68, COL_TER);
+        screen.text("OK",    CX + 8,  TOP_Y + 88, COL_SEC);
+        screen.text("add",   CX + 36, TOP_Y + 88, COL_TER);
+        screen.text("RIGHT", CX + 8,  TOP_Y + 108, COL_SEC);
+        screen.text("delete",CX + 52, TOP_Y + 108, COL_TER);
+        screen.text("BACK",  CX + 8,  TOP_Y + 128, COL_SEC);
+        screen.text("done",  CX + 52, TOP_Y + 128, COL_TER);
 
         poll();
         if (gEmergency || gGoHome) { output[0] = '\0'; return; }

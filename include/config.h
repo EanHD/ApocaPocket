@@ -65,10 +65,10 @@
 #define BL_OFF           0
 
 // -- Entry reader limits --
-#define MAX_LINES     300
-#define LINE_LEN      27   // 26 visible chars + null (FreeSans9pt7b ~26ch @ 200px)
-#define WRAP_WIDTH    26
-#define MAX_TITLE     26
+#define MAX_LINES     500
+#define LINE_LEN      29   // 28 visible chars + null (FreeSans9pt7b ~28ch @ 200px)
+#define WRAP_WIDTH    28
+#define MAX_TITLE     28
 #define MAX_EID       48
 
 // -- Index --
@@ -76,7 +76,7 @@
 #define INDEX_RECORD_SIZE  128
 #define EID_FIELD_SIZE     48
 #define TITLE_FIELD_SIZE   64
-#define TITLE_DISPLAY_LEN  26
+#define TITLE_DISPLAY_LEN  28
 #define NUM_FOLDERS        21 // Number of entry folders in database
 
 // -- Battery monitoring (FIX #5) --

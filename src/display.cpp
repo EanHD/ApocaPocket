@@ -40,22 +40,22 @@ void Screen::begin() {
 }
 
 // text(): draw string with text TOP at pixel y (baseline = y + FONT_CAP_H)
-void Screen::text(const char* s, int16_t x, int16_t y, uint16_t color) {
+void Screen::text(const char* s, int16_t x, int16_t y, uint16_t color, uint16_t bg) {
     _setFont(_tft);
-    _tft.setTextColor(color, COL_BG);
+    _tft.setTextColor(color, bg);
     _tft.setCursor(x, y + FONT_CAP_H);
     _tft.print(s);
 }
 
 // centerText(): horizontally center within CX..CX+CW, text top at y
-void Screen::centerText(const char* s, int16_t y, uint16_t color) {
+void Screen::centerText(const char* s, int16_t y, uint16_t color, uint16_t bg) {
     _setFont(_tft);
     int16_t x1, y1;
     uint16_t w, h;
     _tft.getTextBounds(s, 0, y + FONT_CAP_H, &x1, &y1, &w, &h);
     int16_t x = CX + ((int16_t)CW - (int16_t)w) / 2;
     if (x < CX) x = CX;
-    _tft.setTextColor(color, COL_BG);
+    _tft.setTextColor(color, bg);
     _tft.setCursor(x, y + FONT_CAP_H);
     _tft.print(s);
 }
@@ -127,29 +127,39 @@ void Screen::scrollBar(int pos, int total) {
     _tft.fillRect(DISP_W - CX - 2, thumbY, 2, thumbH, COL_SEC);
 }
 
-void Screen::menuItem(const char* txt, int16_t y, bool selected) {
+void Screen::menuItem(const char* txt, int16_t y, bool selected, uint16_t badgeColor) {
     _setFont(_tft);
     int16_t baseline = y + FONT_CAP_H;
-    // Pill: MENU_LINE_H-2 tall, centered on text (half MENU_LINE_H above text top)
     int16_t pillY = y - (MENU_LINE_H / 2 - 2);
+    // Shift text right if a badge will be drawn
+    int16_t textX = (badgeColor != 0) ? CX + 24 : CX + 12;
+
+    // Truncate with ".." if title is at the display limit
+    char buf[TITLE_DISPLAY_LEN + 3];
+    strncpy(buf, txt, TITLE_DISPLAY_LEN + 2);
+    buf[TITLE_DISPLAY_LEN + 2] = '\0';
+    int tlen = strlen(buf);
+    if (tlen >= TITLE_DISPLAY_LEN) {
+        buf[TITLE_DISPLAY_LEN - 2] = '.';
+        buf[TITLE_DISPLAY_LEN - 1] = '.';
+        buf[TITLE_DISPLAY_LEN]     = '\0';
+    }
 
     if (selected) {
         selectionAt(pillY);
-        char buf[27];
-        strncpy(buf, txt, 26);
-        buf[26] = '\0';
+        if (badgeColor != 0)
+            _tft.fillRect(CX + 13, y, 5, FONT_CAP_H, badgeColor);
         _tft.setTextColor(COL_ACCENT, COL_SEL);
-        _tft.setCursor(CX + 12, baseline);
+        _tft.setCursor(textX, baseline);
         _tft.print(buf);
         _tft.setTextColor(COL_SEC, COL_SEL);
         _tft.setCursor(DISP_W - CX - 14, baseline);
         _tft.print(">");
     } else {
-        char buf[29];
-        strncpy(buf, txt, 28);
-        buf[28] = '\0';
+        if (badgeColor != 0)
+            _tft.fillRect(CX + 13, y, 5, FONT_CAP_H, badgeColor);
         _tft.setTextColor(COL_PRI, COL_BG);
-        _tft.setCursor(CX + 12, baseline);
+        _tft.setCursor(textX, baseline);
         _tft.print(buf);
         _tft.setTextColor(COL_TER, COL_BG);
         _tft.setCursor(DISP_W - CX - 14, baseline);

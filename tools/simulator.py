@@ -33,15 +33,16 @@ DW, DH  = 240, 280          # device pixels
 WW, WH  = DW * SCALE, DH * SCALE
 CX, CY  = 20, 20
 CW, CH  = 200, 240
-HDR_H   = 24
-BAR_H   = 18
-TOP_Y   = CY + HDR_H + 4    # 48
-BOT_Y   = DH - CY - BAR_H - 2  # 240
+HDR_H   = 28
+BAR_H   = 20
+TOP_Y   = CY + HDR_H + 4    # 52
+BOT_Y   = DH - CY - BAR_H - 2  # 238
 LINE_H  = 18
-MENU_LH = 20
+MENU_LH = 24
 LPP     = (BOT_Y - TOP_Y) // LINE_H    # 10
-MENU_VIS= (BOT_Y - TOP_Y - 12) // MENU_LH  # 9
-WRAP_W  = 30
+MENU_VIS= (BOT_Y - TOP_Y - 12) // MENU_LH  # 7
+WRAP_W  = 28
+FONT_SIZE = 14  # approximate px height of FreeSans9pt7b at 1x
 
 # ── iOS Dark palette (from config.h comments) ────────────────────────────────
 BG      = (0,   0,   0)
@@ -161,8 +162,11 @@ class Sim:
         pygame.init()
         self.screen = pygame.display.set_mode((WW, WH))
         pygame.display.set_caption("ApocaPocket Simulator  [arrows=nav  Enter=OK  Backspace=Back  Q=quit]")
-        # Choose font — try to find a small monospace
-        self.font = pygame.font.SysFont("monospace", 13, bold=False)
+        # FreeSans9pt7b is ~14px cap height — use a proportional sans-serif
+        try:
+            self.font = pygame.font.SysFont("freesans,liberation sans,arial,sans", 16, bold=False)
+        except Exception:
+            self.font = pygame.font.SysFont("monospace", 14, bold=False)
         # Verify character size
         self.char_w = self.font.size("A")[0]
         self.char_h = self.font.get_linesize()
@@ -172,7 +176,7 @@ class Sim:
         print(f"[SIM] Loaded {len(self.entries)} entries")
         # Navigation state
         self.mode = "menu"   # menu | subfolder | entry_list | entry
-        self.cat_sel  = 0
+        self.main_sel = 0    # combined main menu selection (0-7)
         self.sub_sels = [0] * NUM_CATS   # per-category subfolder selection
         self.ent_sels = {}               # (cat,fi) -> entry selection
         self.scroll   = 0
@@ -244,23 +248,33 @@ class Sim:
         self.rect(TER,    bar_x, TOP_Y,   4, bar_h)
         self.rect(ACCENT, bar_x, thumb_y, 4, thumb_h)
 
-    def render_menu_items(self, items, sel, highlight_color=ACCENT):
+    def render_menu_items(self, items, sel, highlight_color=ACCENT, badges=None):
         """Render a scrollable list of menu items. Returns visible range."""
         n = len(items)
         # Scroll so selected item is visible
         offset = max(0, min(sel - MENU_VIS + 1, n - MENU_VIS))
-        y = TOP_Y + 6
+        y = TOP_Y + 12
         for i in range(offset, min(offset + MENU_VIS, n)):
             is_sel = (i == sel)
             bg = SEL if is_sel else BG
-            self.rect(bg, CX + 4, y - 1, CW - 10, MENU_LH)
-            color = highlight_color if is_sel else BODY
-            label = items[i][:WRAP_W]
-            self.text(label, CX + 10, y + 1, color, bg=bg)
+            self.rect(bg, CX + 4, y - (MENU_LH // 2 - 2), CW - 8, MENU_LH - 2)
             if is_sel:
-                self.text(">", CX + 4, y + 1, ACCENT, bg=SEL)
+                self.rect(ACCENT, CX + 4, y - (MENU_LH // 2 - 2), 3, MENU_LH - 2)
+            color = highlight_color if is_sel else PRI
+            # Badge dot (category color)
+            badge_color = badges[i] if (badges and i < len(badges)) else None
+            text_x = CX + (24 if badge_color else 12)
+            if badge_color:
+                self.rect(badge_color, CX + 13, y, 5, 11)
+            label = items[i][:WRAP_W]
+            # Truncate with ".." if at limit
+            if len(items[i]) >= 28:
+                label = items[i][:26] + ".."
+            self.text(label, text_x, y, color, bg=bg)
+            # Chevron
+            self.text(">", CX + CW - 18, y, TER if not is_sel else SEC, bg=bg)
             y += MENU_LH
-        # Scroll dots
+        # Position indicator
         if n > MENU_VIS:
             self.status_bar(f"{sel+1}/{n}")
 
@@ -273,10 +287,14 @@ class Sim:
     # ── Screens ────────────────────────────────────────────────────────────
     def draw_main_menu(self):
         self.chrome("ApocaPocket", show_back=False)
-        # Battery/title hint
-        self.text("[ SURVIVAL GUIDE ]", CX + 28, TOP_Y - 14, TER)
-        self.render_menu_items(CAT_NAMES, self.cat_sel)
-        self.status_bar("OK=select  Hold-Back=home")
+        # Build combined menu: 5 categories + Search + Bookmarks + History
+        cat_counts = [sum(1 for _,_,c,_ in self.entries if c==i) for i in range(NUM_CATS)]
+        CAT_BADGE_COLORS = [WARN, OK_C, YELLOW, ACCENT, SEC]
+        labels = [f"{CAT_NAMES[i]} ({cat_counts[i]})" for i in range(NUM_CATS)]
+        labels += ["Search", "Bookmarks", "History"]
+        badges = list(CAT_BADGE_COLORS) + [None, None, None]
+        self.render_menu_items(labels, self.main_sel, badges=badges)
+        self.status_bar("OK=select  Back=home")
         self.flip()
 
     def get_subfolders(self, cat):
@@ -328,9 +346,9 @@ class Sim:
         if scroll > max_scroll: scroll = max_scroll
         self.scroll = scroll
 
-        self.chrome(self._entry_title[:24])
-        pct = min(100, (scroll + LPP) * 100 // max(total, 1))
-        self.status_bar(f"{pct}%  Back=return")
+        self.chrome(self._entry_title[:WRAP_W])
+        vis_end = min(scroll + LPP, total)
+        self.status_bar(f"{vis_end}/{total}  Back=return")
 
         # Render visible lines
         y = TOP_Y + 2
@@ -360,11 +378,12 @@ class Sim:
             if self.mode == "menu":
                 self.draw_main_menu()
             elif self.mode == "subfolder":
-                self.draw_subfolder_menu(self.cat_sel)
+                self.draw_subfolder_menu(self.main_sel)
             elif self.mode == "entry_list":
-                subs = self.get_subfolders(self.cat_sel)
-                fi   = subs[self.sub_sels[self.cat_sel]][0]
-                self.draw_entry_list(self.cat_sel, fi)
+                cat = self.main_sel
+                subs = self.get_subfolders(cat)
+                fi   = subs[self.sub_sels[cat]][0]
+                self.draw_entry_list(cat, fi)
             elif self.mode == "entry":
                 self.draw_entry()
 
@@ -379,23 +398,34 @@ class Sim:
             pygame.quit(); sys.exit()
 
         if self.mode == "menu":
-            n = NUM_CATS
+            n = NUM_CATS + 3  # 5 cats + Search + Bookmarks + History
             if key == pygame.K_UP:
-                self.cat_sel = (self.cat_sel - 1) % n
+                self.main_sel = (self.main_sel - 1) % n
             elif key == pygame.K_DOWN:
-                self.cat_sel = (self.cat_sel + 1) % n
+                self.main_sel = (self.main_sel + 1) % n
             elif key in (pygame.K_RETURN, pygame.K_KP_ENTER, pygame.K_RIGHT):
-                self.mode = "subfolder"
-                self.scroll = 0
+                if self.main_sel < NUM_CATS:
+                    # Category selected — go to subfolder or entry list
+                    cat = self.main_sel
+                    subs = self.get_subfolders(cat)
+                    if len(subs) <= 1:
+                        # Skip subfolder level
+                        self.mode = "entry_list"
+                    else:
+                        self.mode = "subfolder"
+                    self.scroll = 0
+                # else: Search/Bookmarks/History — show placeholder
+                # (simulator only implements browse flow)
 
         elif self.mode == "subfolder":
-            subs = self.get_subfolders(self.cat_sel)
+            cat = self.main_sel
+            subs = self.get_subfolders(cat)
             n = len(subs)
-            sel = self.sub_sels[self.cat_sel]
+            sel = self.sub_sels[cat]
             if key == pygame.K_UP:
-                self.sub_sels[self.cat_sel] = (sel - 1) % n
+                self.sub_sels[cat] = (sel - 1) % n
             elif key == pygame.K_DOWN:
-                self.sub_sels[self.cat_sel] = (sel + 1) % n
+                self.sub_sels[cat] = (sel + 1) % n
             elif key in (pygame.K_RETURN, pygame.K_KP_ENTER, pygame.K_RIGHT):
                 self.mode = "entry_list"
                 self.scroll = 0
@@ -403,10 +433,11 @@ class Sim:
                 self.mode = "menu"
 
         elif self.mode == "entry_list":
-            subs = self.get_subfolders(self.cat_sel)
-            fi   = subs[self.sub_sels[self.cat_sel]][0]
-            ents = self.get_entries_in(self.cat_sel, fi)
-            key_c = (self.cat_sel, fi)
+            cat = self.main_sel
+            subs = self.get_subfolders(cat)
+            fi   = subs[self.sub_sels[cat]][0]
+            ents = self.get_entries_in(cat, fi)
+            key_c = (cat, fi)
             sel  = self.ent_sels.get(key_c, 0)
             n = len(ents)
             if key == pygame.K_UP:

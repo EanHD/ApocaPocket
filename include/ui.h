@@ -70,7 +70,8 @@ extern ScrollAnim gScrollAnim;
 
 // Core UI functions - return selected index or -1 for back
 void splash();
-int  menu(const char* title, const char** items, int count);
+int  menu(const char* title, const char** items, int count,
+          uint16_t* badgeColors = nullptr);
 void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos = nullptr);
 void textInput(const char* title, char* output, int maxLen);
