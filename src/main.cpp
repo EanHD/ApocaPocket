@@ -47,6 +47,7 @@ static void openEntry(uint16_t indexId) {
         Serial.print(" for entry ");
         Serial.println(eid);
         screen.begin();
+        screen.clearContent();
         screen.centerText("Database error!", DISP_H / 2, COL_WARN);
         delay(2000);
         return;
@@ -117,6 +118,7 @@ void setup() {
                  gDiagMisoIdle ? "HIGH (ok)" : "LOW (bad!)");
 
         screen.begin();
+        screen.clearContent();
         screen.header("SD CARD ERROR", false);
         screen.centerText("SD init failed!", DISP_H / 2 - 48, COL_WARN);
         screen.centerText(cmd0Buf,          DISP_H / 2 - 28, COL_YELLOW);
@@ -147,6 +149,7 @@ void setup() {
         Serial.println("[FAIL] Index load failed!");
         ledBlink(255, 0, 0, 5); // 5 red blinks = index error
         screen.begin();
+        screen.clearContent();
         screen.centerText("Index error!", DISP_H / 2, COL_WARN);
         while (true) { ledBlink(255, 0, 0, 2, 500); delay(1000); }
     }
@@ -291,6 +294,7 @@ void loop() {
 
         if (rcount == 0) {
             screen.begin();
+            screen.clearContent();
             screen.centerText("No results", DISP_H / 2, COL_SEC);
             delay(1500);
             return;
@@ -309,6 +313,7 @@ void loop() {
         // ── Bookmarks ──
         if (gBookmarkCount == 0) {
             screen.begin();
+            screen.clearContent();
             screen.centerText("No bookmarks yet", DISP_H / 2, COL_SEC);
             delay(1500);
             return;
@@ -332,6 +337,7 @@ void loop() {
         // ── History ──
         if (gHistoryCount == 0) {
             screen.begin();
+            screen.clearContent();
             screen.centerText("No history yet", DISP_H / 2, COL_SEC);
             delay(1500);
             return;
