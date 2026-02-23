@@ -16,12 +16,12 @@ Then copy to SD card:
 
 Index binary format:
     [2 bytes] entry count (little-endian uint16)
-    [N x 117 bytes] records:
-        [ 0-31]  EID string, null-padded     (32 bytes)
-        [32-95]  Title string, null-padded   (64 bytes)
-        [96]     Category (0-4)              ( 1 byte)
-        [97]     FolderIdx (0-20)            ( 1 byte)
-        [98-116] Padding, zeroed             (19 bytes)
+    [N x 128 bytes] records:
+        [ 0-47]  EID string, null-padded     (48 bytes)
+        [48-111] Title string, null-padded   (64 bytes)
+        [112]    Category (0-4)              ( 1 byte)
+        [113]    FolderIdx (0-20)            ( 1 byte)
+        [114-127] Padding, zeroed            (14 bytes)
 """
 
 import os
@@ -86,8 +86,8 @@ SUBFOLDER_NAMES = {
     20: "Sanitation",
 }
 
-RECORD_SIZE    = 117
-EID_SIZE       = 32
+RECORD_SIZE    = 128  # EID[48] + Title[64] + Cat[1] + FolderIdx[1] + Padding[14]
+EID_SIZE       = 48
 TITLE_SIZE     = 64
 TITLE_DISP_LEN = 26  # Must match TITLE_DISPLAY_LEN in config.h
 
@@ -190,17 +190,17 @@ def build_index(entries_dir, output_dir):
 
         for r in records:
             rec = bytearray(RECORD_SIZE)
-            # [0-31] EID
+            # [0-47] EID (48 bytes)
             eid_bytes = r["eid"].encode("ascii")[:EID_SIZE - 1]
             rec[0:len(eid_bytes)] = eid_bytes
-            # [32-95] Title (full, 64 bytes)
+            # [48-111] Title (64 bytes)
             title_bytes = r["title"].encode("ascii")[:TITLE_SIZE - 1]
-            rec[32:32 + len(title_bytes)] = title_bytes
-            # [96] Category
-            rec[96] = r["category"]
-            # [97] FolderIdx
-            rec[97] = r["folder_idx"]
-            # [98-116] Padding — already zero from bytearray init
+            rec[EID_SIZE:EID_SIZE + len(title_bytes)] = title_bytes
+            # [112] Category
+            rec[EID_SIZE + TITLE_SIZE] = r["category"]
+            # [113] FolderIdx
+            rec[EID_SIZE + TITLE_SIZE + 1] = r["folder_idx"]
+            # [114-127] Padding — already zero from bytearray init
             f.write(rec)
 
     print(f"  Written: {idx_path}  ({idx_path.stat().st_size} bytes)")

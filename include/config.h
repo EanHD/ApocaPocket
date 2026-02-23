@@ -65,11 +65,12 @@
 #define LINE_LEN      31   // 30 visible chars + null
 #define WRAP_WIDTH    30
 #define MAX_TITLE     26
-#define MAX_EID       32
+#define MAX_EID       48
 
 // -- Index --
-#define INDEX_RECORD_SIZE  117
-#define EID_FIELD_SIZE     32
+// Record layout: EID[48] + Title[64] + Cat[1] + FolderIdx[1] + Padding[14] = 128
+#define INDEX_RECORD_SIZE  128
+#define EID_FIELD_SIZE     48
 #define TITLE_FIELD_SIZE   64
 #define TITLE_DISPLAY_LEN  26
 #define NUM_FOLDERS        21 // Number of entry folders in database

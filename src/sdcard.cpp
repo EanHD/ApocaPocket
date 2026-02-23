@@ -259,17 +259,17 @@ bool Index::load() {
     for (uint16_t i = 0; i < _count; i++) {
         if (f.read(rec, INDEX_RECORD_SIZE) != INDEX_RECORD_SIZE) break;
 
-        // Extract title (bytes 32-57, ASCII only)
+        // Extract title (bytes 48-73, 26 chars for display)
         int ti = 0;
-        for (int j = 32; j < 58 && ti < TITLE_DISPLAY_LEN; j++) {
+        for (int j = EID_FIELD_SIZE; j < EID_FIELD_SIZE + TITLE_DISPLAY_LEN && ti < TITLE_DISPLAY_LEN; j++) {
             uint8_t c = rec[j];
             if (c == 0) break;
             if (c >= 32 && c < 128) _entries[i].title[ti++] = (char)c;
         }
         _entries[i].title[ti] = '\0';
 
-        _entries[i].category = rec[96];
-        _entries[i].folderIdx = rec[97];
+        _entries[i].category  = rec[EID_FIELD_SIZE + TITLE_FIELD_SIZE];     // byte 112
+        _entries[i].folderIdx = rec[EID_FIELD_SIZE + TITLE_FIELD_SIZE + 1]; // byte 113
     }
     f.close();
     return true;
