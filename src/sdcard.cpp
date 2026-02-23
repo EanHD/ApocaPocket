@@ -4,20 +4,33 @@
 Index gIndex;
 
 // Subfolder names from metadata.json (simple fixed storage)
-#define MAX_SUBS 16
+#define MAX_SUBS 22
 static char subNames[MAX_SUBS][24];
 static uint8_t subNameCount = 0;
 
+// Sorted alphabetically — MUST match the order used by tools/build_index.py
 static const char* const FOLDERS[] = {
-    "/data/data/entries/L1_immediate_survival",
-    "/data/data/entries/L2_food_biology",
-    "/data/data/entries/L3_materials_chemistry",
-    "/data/data/entries/L3_materials_elements",
-    "/data/data/entries/L3_materials_technology",
-    "/data/data/entries/L4_agriculture_labor",
-    "/data/data/entries/L4_tools_rebuilding",
-    "/data/data/entries/L5_civilization_memory",
-    "/data/data/entries/L5_community_knowledge"
+    "/data/data/entries/L1_disaster",            // 0
+    "/data/data/entries/L1_immediate_survival",  // 1
+    "/data/data/entries/L1_medical",             // 2
+    "/data/data/entries/L1_navigation",          // 3
+    "/data/data/entries/L1_shelter",             // 4
+    "/data/data/entries/L1_strategy",            // 5
+    "/data/data/entries/L1_urban",               // 6
+    "/data/data/entries/L1_water",               // 7
+    "/data/data/entries/L1_wilderness",          // 8
+    "/data/data/entries/L2_food_biology",        // 9
+    "/data/data/entries/L2_nutrition",           // 10
+    "/data/data/entries/L3_materials_chemistry", // 11
+    "/data/data/entries/L3_materials_elements",  // 12
+    "/data/data/entries/L3_materials_technology",// 13
+    "/data/data/entries/L3_water",               // 14
+    "/data/data/entries/L4_agriculture",         // 15
+    "/data/data/entries/L4_agriculture_labor",   // 16
+    "/data/data/entries/L4_tools_rebuilding",    // 17
+    "/data/data/entries/L5_civilization_memory", // 18
+    "/data/data/entries/L5_community_knowledge", // 19
+    "/data/data/entries/L5_sanitation"           // 20
 };
 // NUM_FOLDERS now defined in config.h
 
@@ -151,46 +164,43 @@ void sdSetupPins() {
 bool sdInit() {
     // Ensure display CS is deselected
     digitalWrite(PIN_DISP_CS, HIGH);
+    digitalWrite(PIN_SD_CS, HIGH);
 
-    // Give SD card time to power up after boot
-    delay(500);
+    // Give SD card 2 seconds to power up fully.
+    // Many SD modules have an onboard LDO that takes ~1s to stabilize.
+    // CircuitPython takes longer to boot so this was never an issue there.
+    Serial.println("[SD] Waiting 2s for SD module power-up...");
+    delay(2000);
 
     Serial.println("[SD] Starting SD card init...");
 
-    // STEP 1: Run bit-bang diagnostic to test raw wiring
-    bitBangDiagnostic();
-
-    // STEP 2: Re-setup SPI1 pins (bit-bang switched them to GPIO)
-    SPI1.setRX(PIN_SPI_MISO);
-    SPI1.setTX(PIN_SPI_MOSI);
-    SPI1.setSCK(PIN_SPI_CLK);
-    SPI1.begin();
-    Serial.println("[SD] SPI1 re-initialized after bit-bang test");
-
-    // Deselect both
-    digitalWrite(PIN_DISP_CS, HIGH);
-    digitalWrite(PIN_SD_CS, HIGH);
-    delay(250);
-
-    // STEP 3: Try SDFS init at multiple speeds
+    // Try SDFS init at multiple speeds (fast → slow)
     static const uint32_t speeds[] = {
-        SD_SCK_MHZ(4),     // SPI_HALF_SPEED (official default)
-        SD_SCK_MHZ(2),     // SPI_QUARTER_SPEED
-        SD_SCK_MHZ(1),     // SPI_EIGHTH_SPEED
-        SD_SCK_HZ(250000), // 250kHz
+        SD_SCK_MHZ(4),      // official default
+        SD_SCK_MHZ(2),
+        SD_SCK_MHZ(1),
+        SD_SCK_HZ(400000),  // spec minimum for init phase
+        SD_SCK_HZ(250000),
     };
     static const char* speedNames[] = {
-        "4MHz", "2MHz", "1MHz", "250kHz"
+        "4MHz", "2MHz", "1MHz", "400kHz", "250kHz"
     };
 
-    for (int s = 0; s < 4; s++) {
+    for (int s = 0; s < 5; s++) {
         Serial.print("[SD] Trying SDFS at ");
         Serial.print(speedNames[s]);
         Serial.print("... ");
 
+        // Reset CS state before each attempt
         digitalWrite(PIN_DISP_CS, HIGH);
         digitalWrite(PIN_SD_CS, HIGH);
-        delay(100);
+        delay(150);
+
+        // Re-assert SPI1 pin assignments in case anything disturbed them
+        SPI1.setRX(PIN_SPI_MISO);
+        SPI1.setTX(PIN_SPI_MOSI);
+        SPI1.setSCK(PIN_SPI_CLK);
+        SPI1.begin();
 
         SDFSConfig cfg(PIN_SD_CS, speeds[s], SPI1);
         SDFS.setConfig(cfg);
@@ -202,10 +212,32 @@ bool sdInit() {
 
         Serial.println("FAILED");
         SDFS.end();
-        delay(200);
+        delay(300);
     }
 
-    Serial.println("[SD] All attempts failed!");
+    // All SDFS attempts failed — run bit-bang diagnostic to check wiring
+    Serial.println("[SD] All SDFS attempts failed. Running hardware diagnostic...");
+    bitBangDiagnostic();
+
+    // Re-init SPI1 after bit-bang switched pins to GPIO
+    SPI1.setRX(PIN_SPI_MISO);
+    SPI1.setTX(PIN_SPI_MOSI);
+    SPI1.setSCK(PIN_SPI_CLK);
+    SPI1.begin();
+    digitalWrite(PIN_DISP_CS, HIGH);
+    digitalWrite(PIN_SD_CS, HIGH);
+
+    Serial.println("[SD] === HARDWARE CHECKLIST ===");
+    Serial.println("  1. Is SD card fully inserted?");
+    Serial.println("  2. SD VCC → 3.3V (or 5V if module has regulator)");
+    Serial.println("  3. SD GND → GND");
+    Serial.println("  4. SD MISO → GP8");
+    Serial.println("  5. SD MOSI → GP11 (shared with display)");
+    Serial.println("  6. SD SCK  → GP10 (shared with display)");
+    Serial.println("  7. SD CS   → GP15");
+    Serial.println("  8. Is SD card FAT32 formatted?");
+    Serial.println("  9. Try a different SD card");
+
     return false;
 }
 

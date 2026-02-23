@@ -1,0 +1,253 @@
+#!/usr/bin/env python3
+"""
+ApocaPocket Index Builder
+Generates entries.idx and metadata.json from the database markdown files.
+
+Usage:
+    python tools/build_index.py
+
+Output files (in exports/):
+    entries.idx    -- binary index for firmware
+    metadata.json  -- subfolder display name map for firmware
+
+Then copy to SD card:
+    cp exports/entries.idx  /your/sd/card/index/
+    cp exports/metadata.json /your/sd/card/index/
+
+Index binary format:
+    [2 bytes] entry count (little-endian uint16)
+    [N x 117 bytes] records:
+        [ 0-31]  EID string, null-padded     (32 bytes)
+        [32-95]  Title string, null-padded   (64 bytes)
+        [96]     Category (0-4)              ( 1 byte)
+        [97]     FolderIdx (0-20)            ( 1 byte)
+        [98-116] Padding, zeroed             (19 bytes)
+"""
+
+import os
+import re
+import json
+import struct
+import sys
+from pathlib import Path
+
+# ── Folder list: MUST be sorted alphabetically, MUST match FOLDERS[] in sdcard.cpp ──
+FOLDERS = [
+    "L1_disaster",              # 0
+    "L1_immediate_survival",    # 1
+    "L1_medical",               # 2
+    "L1_navigation",            # 3
+    "L1_shelter",               # 4
+    "L1_strategy",              # 5
+    "L1_urban",                 # 6
+    "L1_water",                 # 7
+    "L1_wilderness",            # 8
+    "L2_food_biology",          # 9
+    "L2_nutrition",             # 10
+    "L3_materials_chemistry",   # 11
+    "L3_materials_elements",    # 12
+    "L3_materials_technology",  # 13
+    "L3_water",                 # 14
+    "L4_agriculture",           # 15
+    "L4_agriculture_labor",     # 16
+    "L4_tools_rebuilding",      # 17
+    "L5_civilization_memory",   # 18
+    "L5_community_knowledge",   # 19
+    "L5_sanitation",            # 20
+]
+
+# Category: determined by folder prefix (L1=0, L2=1, L3=2, L4=3, L5=4)
+def folder_category(folder_name):
+    tier = folder_name[1]  # '1'..'5'
+    return int(tier) - 1
+
+# Human-readable display names for each folder (shown in browse menu)
+SUBFOLDER_NAMES = {
+    0:  "Disaster Response",
+    1:  "Immediate Survival",
+    2:  "Medical",
+    3:  "Navigation",
+    4:  "Shelter",
+    5:  "Strategy",
+    6:  "Urban Survival",
+    7:  "Water",
+    8:  "Wilderness",
+    9:  "Food Biology",
+    10: "Nutrition",
+    11: "Chemistry",
+    12: "Elements",
+    13: "Technology",
+    14: "Water Treatment",
+    15: "Agriculture",
+    16: "Agri. Labor",
+    17: "Tools & Rebuild",
+    18: "Civilization",
+    19: "Community",
+    20: "Sanitation",
+}
+
+RECORD_SIZE    = 117
+EID_SIZE       = 32
+TITLE_SIZE     = 64
+TITLE_DISP_LEN = 26  # Must match TITLE_DISPLAY_LEN in config.h
+
+
+def extract_title(md_path, eid):
+    """Extract display title from a markdown file.
+    Priority: YAML frontmatter 'title:', then first '# heading', then EID."""
+    try:
+        with open(md_path, encoding="utf-8", errors="replace") as f:
+            in_front = False
+            front_done = False
+            for i, line in enumerate(f):
+                line = line.rstrip("\r\n")
+                if i == 0 and line == "---":
+                    in_front = True
+                    continue
+                if in_front:
+                    if line == "---":
+                        in_front = False
+                        front_done = True
+                        continue
+                    m = re.match(r'^title:\s*["\']?(.*?)["\']?\s*$', line)
+                    if m:
+                        return m.group(1).strip()
+                    continue
+                # Outside frontmatter — look for first # heading
+                if line.startswith("# "):
+                    return line[2:].strip()
+                # Skip blank lines but stop after a few non-blank lines
+                if i > 20:
+                    break
+    except OSError:
+        pass
+    # Fallback: format the EID as a title
+    return eid.replace("-", " ").replace("_", " ").title()
+
+
+def to_ascii(s, maxlen):
+    """Truncate to maxlen and strip non-ASCII printable characters."""
+    out = ""
+    for c in s:
+        if 32 <= ord(c) <= 126:
+            out += c
+        if len(out) >= maxlen:
+            break
+    return out
+
+
+def build_index(entries_dir, output_dir):
+    entries_dir = Path(entries_dir)
+    output_dir  = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    records = []
+    missing_folders = []
+
+    for folder_idx, folder_name in enumerate(FOLDERS):
+        folder_path = entries_dir / folder_name
+        if not folder_path.exists():
+            missing_folders.append(folder_name)
+            print(f"  ⚠️  Folder not found: {folder_path}")
+            continue
+
+        cat = folder_category(folder_name)
+        md_files = sorted(folder_path.glob("*.md"))
+
+        for md_path in md_files:
+            eid = md_path.stem  # filename without .md
+
+            # Sanitize EID to ASCII printable, max EID_SIZE-1 chars
+            eid_clean = to_ascii(eid, EID_SIZE - 1)
+            if not eid_clean:
+                print(f"  ⚠️  Skipping bad EID: {md_path}")
+                continue
+
+            raw_title = extract_title(md_path, eid)
+            title_full = to_ascii(raw_title, TITLE_SIZE - 1)
+            title_disp = to_ascii(raw_title, TITLE_DISP_LEN)
+
+            records.append({
+                "eid":       eid_clean,
+                "title":     title_full,
+                "title_disp": title_disp,
+                "category":  cat,
+                "folder_idx": folder_idx,
+            })
+
+    total = len(records)
+    print(f"\n  Total entries: {total}")
+
+    if total > 65535:
+        print("ERROR: Too many entries (max 65535)")
+        sys.exit(1)
+
+    # Write entries.idx
+    idx_path = output_dir / "entries.idx"
+    with open(idx_path, "wb") as f:
+        # 2-byte header: entry count (little-endian)
+        f.write(struct.pack("<H", total))
+
+        for r in records:
+            rec = bytearray(RECORD_SIZE)
+            # [0-31] EID
+            eid_bytes = r["eid"].encode("ascii")[:EID_SIZE - 1]
+            rec[0:len(eid_bytes)] = eid_bytes
+            # [32-95] Title (full, 64 bytes)
+            title_bytes = r["title"].encode("ascii")[:TITLE_SIZE - 1]
+            rec[32:32 + len(title_bytes)] = title_bytes
+            # [96] Category
+            rec[96] = r["category"]
+            # [97] FolderIdx
+            rec[97] = r["folder_idx"]
+            # [98-116] Padding — already zero from bytearray init
+            f.write(rec)
+
+    print(f"  Written: {idx_path}  ({idx_path.stat().st_size} bytes)")
+
+    # Write metadata.json
+    meta_path = output_dir / "metadata.json"
+    subtopics = {str(k): v for k, v in SUBFOLDER_NAMES.items()}
+    with open(meta_path, "w", encoding="utf-8") as f:
+        json.dump({"subtopics": subtopics}, f, indent=2)
+    print(f"  Written: {meta_path}")
+
+    if missing_folders:
+        print(f"\n  ⚠️  {len(missing_folders)} folders missing — "
+              f"index will not contain their entries")
+        for m in missing_folders:
+            print(f"     - {m}")
+
+    # Stats by category
+    cats = ["Immediate Survival", "Food & Biology", "Materials & Water",
+            "Tools & Rebuild", "Civilization"]
+    print("\n  Entries by category:")
+    for ci, cname in enumerate(cats):
+        count = sum(1 for r in records if r["category"] == ci)
+        print(f"    [{ci}] {cname}: {count}")
+
+    return total
+
+
+if __name__ == "__main__":
+    script_dir  = Path(__file__).parent
+    project_dir = script_dir.parent
+    entries_dir = project_dir / "data" / "entries"
+    output_dir  = project_dir / "exports"
+
+    print("=== ApocaPocket Index Builder ===")
+    print(f"Entries dir: {entries_dir}")
+    print(f"Output dir:  {output_dir}")
+    print()
+
+    if not entries_dir.exists():
+        print(f"ERROR: entries dir not found: {entries_dir}")
+        sys.exit(1)
+
+    total = build_index(entries_dir, output_dir)
+
+    print(f"\n✅ Done — {total} entries indexed")
+    print("\nNext steps:")
+    print("  1. Copy exports/entries.idx  → /your/sd/index/entries.idx")
+    print("  2. Copy exports/metadata.json → /your/sd/index/metadata.json")
+    print("  3. Flash firmware and boot the device")
