@@ -326,6 +326,10 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
         display = stripped;
         xOff = TEXT_PAD_X + 6;  // bullet text indented past the dot
         isBullet = true;
+    } else if (ln[0] == BUL_CONT) {
+        // Bullet continuation: same indent as bullet text, no dot
+        display = ln + 1;
+        xOff = TEXT_PAD_X + 6;
     } else if (strncmp(ln, "    ", 4) == 0) {
         // 4-space code indent: strip indent, render dimmed
         color = COL_TER;

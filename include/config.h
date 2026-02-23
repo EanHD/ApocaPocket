@@ -28,16 +28,16 @@
 
 // -- Layout --
 // Full-bleed: backgrounds/bars fill edge-to-edge. TEXT_PAD_X provides a
-// 12px left/right inset for all text — this safely clears the ~20px corner
-// radius zone (at y=28/y=252, the corner inset math gives 0px required).
-// Only the header bar (y=0–28) and footer bar (y=260–280) overlap the
-// physical corner zone; text within those bars uses TEXT_PAD_X for safety.
+// 16px inset for all text — safely clears an R≈30px corner radius at the
+// header/footer baselines (y≈20 and y≈275). Content area text (y=30–258)
+// is well outside the corner zone so 16px is generous but consistent.
+#define TEXT_PAD_X    16                  // left/right text inset for all UI text
 #define CX            0
 #define CY            0
 #define CW            DISP_W              // 240 — full width for fills/chrome
 #define CH            DISP_H              // 280 — full height
 #define CORNER_R      20                  // approx. physical corner radius (px)
-#define TEXT_PAD_X    12                  // left text inset (corner-safe + readable)
+#define TEXT_PAD_X    16                  // left/right text inset for all UI text
 #define HDR_H         28
 #define BAR_H         20
 #define TOP_Y         (HDR_H + 2)         // 30  — content area start
@@ -73,12 +73,14 @@
 
 // -- Entry reader limits --
 #define MAX_LINES     500
-// FreeSans9pt7b actual metrics: avg 8.43px/char, max 18px ('@').
 // Pixel-accurate wrapping ensures no line exceeds WRAP_PX pixels.
-// Budget: CANVAS_W(236) - TEXT_PAD_X(12) - 6px right margin = 218px.
-// LINE_LEN sized for worst case: floor(218/4)=54 narrow-glyph chars + null.
-#define LINE_LEN      56   // max 55 visible chars + null (pixel-budget safe)
-#define WRAP_PX       218  // pixel budget per body line
+// Budget: CANVAS_W(236) - TEXT_PAD_X(16) - 6px right margin = 214px.
+// BUL_CONT: bullet continuation lines are prefixed with this marker byte
+// so drawEntryLine can indent them to match the original bullet line.
+// LINE_LEN: worst case floor(214/4)=53 + 1 BUL_CONT marker + null → 56 ✓
+#define LINE_LEN      56
+#define WRAP_PX       214  // pixel budget per body line
+#define BUL_CONT      '\x01'  // continuation-line marker for wrapped bullets
 #define MAX_TITLE     28
 #define MAX_EID       48
 

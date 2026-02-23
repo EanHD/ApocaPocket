@@ -373,6 +373,8 @@ static inline uint8_t charAdv(char c) {
 
 // Pixel-accurate word wrap. Breaks lines at the last space that keeps the
 // pixel width within WRAP_PX. Hard-breaks only for words longer than budget.
+// Bullet lines (starting with "- "): continuation chunks are prefixed with
+// BUL_CONT (\x01) so drawEntryLine can indent them consistently.
 static void wrapLine(const char* line, char out[][LINE_LEN],
                      int& count, int maxLines) {
     int len = strlen(line);
@@ -380,6 +382,10 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
         if (count < maxLines) { out[count][0] = '\0'; count++; }
         return;
     }
+    // Detect bullet so continuation lines can be marked
+    bool isBullet = (line[0] == '-' && len > 1 && line[1] == ' ');
+    bool firstChunk = true;
+
     int pos = 0;
     while (pos < len && count < maxLines) {
         // Scan forward accumulating pixel widths
@@ -395,9 +401,9 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
         // Decide where to break
         int breakAt;
         if (end == len) {
-            breakAt = len;                     // rest of line fits
+            breakAt = len;                         // rest of line fits
         } else if (lastSpace > pos) {
-            breakAt = lastSpace;               // break before last space
+            breakAt = lastSpace;                   // break before last space
         } else {
             breakAt = (end > pos) ? end : pos + 1; // hard break (long word)
         }
@@ -405,10 +411,20 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
         // Copy, trimming trailing spaces
         int copyLen = breakAt - pos;
         while (copyLen > 0 && line[pos + copyLen - 1] == ' ') copyLen--;
-        int actual = (copyLen < LINE_LEN - 1) ? copyLen : LINE_LEN - 1;
-        memcpy(out[count], line + pos, actual);
-        out[count][actual] = '\0';
+
+        if (isBullet && !firstChunk) {
+            // Prefix continuation with BUL_CONT marker so renderer indents it
+            int actual = (copyLen < LINE_LEN - 2) ? copyLen : LINE_LEN - 2;
+            out[count][0] = BUL_CONT;
+            memcpy(out[count] + 1, line + pos, actual);
+            out[count][actual + 1] = '\0';
+        } else {
+            int actual = (copyLen < LINE_LEN - 1) ? copyLen : LINE_LEN - 1;
+            memcpy(out[count], line + pos, actual);
+            out[count][actual] = '\0';
+        }
         count++;
+        firstChunk = false;
 
         // Advance past break point and skip leading spaces of next chunk
         pos = breakAt;
