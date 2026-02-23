@@ -353,31 +353,65 @@ void Index::getBySubfolder(uint8_t cat, uint8_t sub, uint16_t* indices,
 }
 
 // -- Entry reader --
+
+// FreeSans9pt7b xAdvance per printable ASCII char (index = char - 32).
+// Extracted directly from FreeSans9pt7b.h glyph table. Used for pixel-accurate
+// word wrapping so lines never overflow the canvas regardless of char mix.
+static const uint8_t FSANS9_ADV[95] = {
+    5,  6,  6, 10, 10, 16, 12,  4,  6,  6,  7, 11,  5,  6,  5,  5,  //  !"#$%&'()*+,-./
+   10, 10, 10, 10, 10, 10, 10, 10, 10, 10,  5,  5, 11, 11, 11, 10,  // 0123456789:;<=>?
+   18, 12, 12, 13, 13, 11, 11, 14, 13,  5, 10, 12, 10, 15, 13, 14,  // @ABCDEFGHIJKLMNO
+   12, 14, 13, 12, 11, 13, 12, 17, 12, 12, 11,  5,  5,  5,  8, 10,  // PQRSTUVWXYZ[\]^_
+    5, 10, 10,  9, 10, 10,  5, 10, 10,  4,  4,  9,  4, 15, 10, 10,  // `abcdefghijklmno
+   10, 10,  6,  9,  5, 10,  9, 13,  9,  9,  9,  6,  4,  6,  9       // pqrstuvwxyz{|}~
+};
+
+static inline uint8_t charAdv(char c) {
+    uint8_t u = (uint8_t)c;
+    return (u >= 32 && u <= 126) ? FSANS9_ADV[u - 32] : 8;
+}
+
+// Pixel-accurate word wrap. Breaks lines at the last space that keeps the
+// pixel width within WRAP_PX. Hard-breaks only for words longer than budget.
 static void wrapLine(const char* line, char out[][LINE_LEN],
                      int& count, int maxLines) {
     int len = strlen(line);
-    if (len == 0 && count < maxLines) {
-        out[count][0] = '\0';
-        count++;
+    if (len == 0) {
+        if (count < maxLines) { out[count][0] = '\0'; count++; }
         return;
     }
     int pos = 0;
     while (pos < len && count < maxLines) {
-        int chunk = len - pos;
-        if (chunk > WRAP_WIDTH) {
-            chunk = WRAP_WIDTH;
-            int lastSpace = -1;
-            for (int j = chunk - 1; j > chunk / 2; j--) {
-                if (line[pos + j] == ' ') { lastSpace = j; break; }
-            }
-            if (lastSpace > 0) chunk = lastSpace + 1;
+        // Scan forward accumulating pixel widths
+        int px = 0, end = pos, lastSpace = -1;
+        while (end < len) {
+            uint8_t adv = charAdv(line[end]);
+            if (px + adv > WRAP_PX) break;  // next char would overflow
+            px += adv;
+            if (line[end] == ' ') lastSpace = end;
+            end++;
         }
-        int copyLen = chunk;
+
+        // Decide where to break
+        int breakAt;
+        if (end == len) {
+            breakAt = len;                     // rest of line fits
+        } else if (lastSpace > pos) {
+            breakAt = lastSpace;               // break before last space
+        } else {
+            breakAt = (end > pos) ? end : pos + 1; // hard break (long word)
+        }
+
+        // Copy, trimming trailing spaces
+        int copyLen = breakAt - pos;
         while (copyLen > 0 && line[pos + copyLen - 1] == ' ') copyLen--;
-        memcpy(out[count], line + pos, copyLen);
-        out[count][copyLen] = '\0';
+        int actual = (copyLen < LINE_LEN - 1) ? copyLen : LINE_LEN - 1;
+        memcpy(out[count], line + pos, actual);
+        out[count][actual] = '\0';
         count++;
-        pos += chunk;
+
+        // Advance past break point and skip leading spaces of next chunk
+        pos = breakAt;
         while (pos < len && line[pos] == ' ') pos++;
     }
 }
@@ -421,7 +455,7 @@ int readEntry(const char* eid, uint8_t folderIdx,
         int n = 0;
         snprintf(lines[n++], LINE_LEN, "## File Not Found");
         lines[n][0] = '\0'; n++;
-        snprintf(lines[n++], LINE_LEN, "%.23s", eid);
+        snprintf(lines[n++], LINE_LEN, "%.46s", eid);
         lines[n][0] = '\0'; n++;
         snprintf(lines[n++], LINE_LEN, "SD card is missing");
         snprintf(lines[n++], LINE_LEN, "the .md entry files.");

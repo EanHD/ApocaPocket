@@ -33,8 +33,10 @@ public:
     void clearCanvas();
     void pushCanvas();
     void canvasText(const char* s, int16_t x_scr, int16_t y_scr, uint16_t color);
+    void canvasTextBold(const char* s, int16_t x_scr, int16_t y_scr, uint16_t color);
     void canvasCenterText(const char* s, int16_t y_scr, uint16_t color);
     void canvasFill(int16_t x_scr, int16_t y_scr, int16_t w, int16_t h, uint16_t color);
+    void canvasFillCircle(int16_t x_scr, int16_t y_scr, int16_t r, uint16_t color);
     void canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
                         uint16_t badgeColor = 0);
 

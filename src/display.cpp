@@ -1,5 +1,6 @@
 #include "display.h"
 #include <Fonts/FreeSans9pt7b.h>
+#include <Fonts/FreeSansBold9pt7b.h>
 
 Screen screen;
 
@@ -10,6 +11,12 @@ Screen screen;
 // box. Always pre-clear the target area before drawing text.
 static inline void _setFont(Adafruit_GFX& gfx) {
     gfx.setFont(&FreeSans9pt7b);
+    gfx.setTextSize(1);
+    gfx.setTextWrap(false);
+}
+
+static inline void _setBoldFont(Adafruit_GFX& gfx) {
+    gfx.setFont(&FreeSansBold9pt7b);
     gfx.setTextSize(1);
     gfx.setTextWrap(false);
 }
@@ -145,11 +152,14 @@ void Screen::statusBar(const char* right) {
 void Screen::scrollBar(int pos, int total) {
     if (total <= LPP) return;
     int trackH = BOT_Y - TOP_Y;
-    _tft.fillRect(DISP_W - CX - 2, TOP_Y, 2, trackH, COL_TER);
+    int trackX = DISP_W - CX - 3;
+    // Track: thin dim line
+    _tft.drawFastVLine(trackX + 1, TOP_Y, trackH, COL_TER);
+    // Thumb: rounded rect for iOS-style indicator
     int thumbH = max(8, (int)((long)LPP * trackH / total));
     int thumbY = TOP_Y + (int)((long)pos * (trackH - thumbH) / max(1, total - LPP));
     if (thumbY + thumbH > TOP_Y + trackH) thumbY = TOP_Y + trackH - thumbH;
-    _tft.fillRect(DISP_W - CX - 2, thumbY, 2, thumbH, COL_SEC);
+    _tft.fillRoundRect(trackX, thumbY, 3, thumbH, 1, COL_SEC);
 }
 
 void Screen::fillArea(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color) {
@@ -179,6 +189,16 @@ void Screen::canvasText(const char* s, int16_t x_scr, int16_t y_scr, uint16_t co
     _canvas->print(s);
 }
 
+// Same as canvasText but uses FreeSansBold9pt7b — for H1 section headings.
+void Screen::canvasTextBold(const char* s, int16_t x_scr, int16_t y_scr, uint16_t color) {
+    if (!_canvas) return;
+    _setBoldFont(*_canvas);
+    _canvas->setTextColor(color);
+    _canvas->setCursor(x_scr - CX, (y_scr - TOP_Y) + FONT_CAP_H);
+    _canvas->print(s);
+    _setFont(*_canvas);  // restore regular font
+}
+
 // Horizontally center text within the content area on the canvas.
 void Screen::canvasCenterText(const char* s, int16_t y_scr, uint16_t color) {
     if (!_canvas) return;
@@ -201,6 +221,12 @@ void Screen::canvasFill(int16_t x_scr, int16_t y_scr, int16_t w, int16_t h,
     _canvas->fillRect(x_scr - CX, y_scr - TOP_Y, w, h, color);
 }
 
+// Fill a circle on the canvas. x_scr/y_scr are screen-space centre coordinates.
+void Screen::canvasFillCircle(int16_t x_scr, int16_t y_scr, int16_t r, uint16_t color) {
+    if (!_canvas) return;
+    _canvas->fillCircle(x_scr - CX, y_scr - TOP_Y, r, color);
+}
+
 // Draw a menu item into the canvas. y_scr = text-centre y in screen space.
 // Canvas must be cleared before calling this (clearCanvas()).
 void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
@@ -220,9 +246,9 @@ void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
     int16_t chevX    = CANVAS_W - 10;                 // near right edge of canvas
 
     if (selected) {
-        // Selection pill
-        _canvas->fillRect(4, pillY, CANVAS_W - 8, MENU_LINE_H - 2, COL_SEL);
-        _canvas->fillRect(4, pillY, 3, MENU_LINE_H - 2, COL_ACCENT);
+        // iOS-style rounded selection pill
+        _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, MENU_LINE_H - 2, 4, COL_SEL);
+        _canvas->fillRoundRect(4, pillY, 3, MENU_LINE_H - 2, 1, COL_ACCENT);
         if (badgeColor) _canvas->fillRect(13, yc, 5, FONT_CAP_H, badgeColor);
         _canvas->setTextColor(COL_ACCENT);
         _canvas->setCursor(textX, baseline);

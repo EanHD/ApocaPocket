@@ -305,8 +305,10 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
     const char* display = ln;
     static char stripped[LINE_LEN];
     int16_t xOff = 4;  // canvas-space left offset (screen x = CX + xOff)
+    bool bold = false;
+    bool isBullet = false;
 
-    if      (strncmp(ln, "# ",  2) == 0) { color = COL_ACCENT; display = ln + 2; }
+    if      (strncmp(ln, "# ",  2) == 0) { color = COL_ACCENT; display = ln + 2; bold = true; }
     else if (strncmp(ln, "## ", 3) == 0) { color = COL_PRI;    display = ln + 3; }
     else if (strncmp(ln, "### ",4) == 0) { color = COL_SEC;    display = ln + 4; }
     else if (strncmp(ln, "**",  2) == 0) {
@@ -318,11 +320,12 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
         stripped[copyLen] = '\0';
         display = stripped;
     } else if (strncmp(ln, "- ", 2) == 0) {
-        stripped[0] = '\xb7';  // middle dot bullet
-        strncpy(stripped + 1, ln + 1, LINE_LEN - 2);
+        color = COL_BODY;
+        strncpy(stripped, ln + 2, LINE_LEN - 1);
         stripped[LINE_LEN - 1] = '\0';
         display = stripped;
-        xOff = 8;  // indent bullets past normal text margin
+        xOff = 12;  // indent text past the bullet dot
+        isBullet = true;
     } else if (strncmp(ln, "    ", 4) == 0) {
         // 4-space code indent: strip indent, render dimmed
         color = COL_TER;
@@ -333,8 +336,19 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
         return;
     }
 
-    // Draw into canvas (transparent text on pre-cleared canvas)
-    screen.canvasText(display, CX + xOff, y_scr, color);
+    if (isBullet) {
+        // Draw a filled circle as Apple-style bullet dot, vertically centred
+        int16_t dotX = CX + 6;
+        int16_t dotY = y_scr + (LINE_H / 2) - 1;
+        screen.canvasFillCircle(dotX, dotY, 2, COL_SEC);
+    }
+
+    // Draw text — bold for H1, regular for everything else
+    if (bold) {
+        screen.canvasTextBold(display, CX + xOff, y_scr, color);
+    } else {
+        screen.canvasText(display, CX + xOff, y_scr, color);
+    }
 }
 
 // Render the visible window of entry lines into the canvas and push atomically.

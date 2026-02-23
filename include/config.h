@@ -66,11 +66,11 @@
 
 // -- Entry reader limits --
 #define MAX_LINES     500
-// FreeSans9pt7b: canvas is 196px wide, text inset 4px left → 192px usable.
-// At avg 7px/glyph, 24 chars = 168px + 4px offset = 172px (20px right margin).
-// Was 28 chars which caused overflow (28×7+4=200 > 196px canvas).
-#define LINE_LEN      25   // 24 visible chars + null
-#define WRAP_WIDTH    24
+// FreeSans9pt7b actual metrics: avg 8.43px/char, max 18px ('@').
+// Pixel-accurate wrapping ensures no line exceeds WRAP_PX pixels.
+// LINE_LEN sized for worst case: floor(185/4)=46 narrow-glyph chars + null.
+#define LINE_LEN      48   // max 47 visible chars + null (pixel-budget safe)
+#define WRAP_PX       185  // pixel budget per body line (canvas 196 - 4px left - 7px margin)
 #define MAX_TITLE     28
 #define MAX_EID       48
 
