@@ -66,8 +66,11 @@
 
 // -- Entry reader limits --
 #define MAX_LINES     500
-#define LINE_LEN      29   // 28 visible chars + null (FreeSans9pt7b ~28ch @ 200px)
-#define WRAP_WIDTH    28
+// FreeSans9pt7b: canvas is 196px wide, text inset 4px left → 192px usable.
+// At avg 7px/glyph, 24 chars = 168px + 4px offset = 172px (20px right margin).
+// Was 28 chars which caused overflow (28×7+4=200 > 196px canvas).
+#define LINE_LEN      25   // 24 visible chars + null
+#define WRAP_WIDTH    24
 #define MAX_TITLE     28
 #define MAX_EID       48
 

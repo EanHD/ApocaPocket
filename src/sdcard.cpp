@@ -421,7 +421,7 @@ int readEntry(const char* eid, uint8_t folderIdx,
         int n = 0;
         snprintf(lines[n++], LINE_LEN, "## File Not Found");
         lines[n][0] = '\0'; n++;
-        snprintf(lines[n++], LINE_LEN, "%.28s", eid);
+        snprintf(lines[n++], LINE_LEN, "%.23s", eid);
         lines[n][0] = '\0'; n++;
         snprintf(lines[n++], LINE_LEN, "SD card is missing");
         snprintf(lines[n++], LINE_LEN, "the .md entry files.");
@@ -460,6 +460,13 @@ int readEntry(const char* eid, uint8_t folderIdx,
         for (int i = 0; i < blen; i++) {
             if ((uint8_t)buf[i] < 32 || (uint8_t)buf[i] > 126)
                 buf[i] = ' ';
+        }
+
+        // Insert blank line before headings for visual block separation
+        if (buf[0] == '#' && count > 0 && lines[count-1][0] != '\0'
+                && count < maxLines) {
+            lines[count][0] = '\0';
+            count++;
         }
 
         wrapLine(buf, lines, count, maxLines);

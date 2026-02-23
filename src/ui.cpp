@@ -304,6 +304,7 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
     uint16_t color  = COL_BODY;
     const char* display = ln;
     static char stripped[LINE_LEN];
+    int16_t xOff = 4;  // canvas-space left offset (screen x = CX + xOff)
 
     if      (strncmp(ln, "# ",  2) == 0) { color = COL_ACCENT; display = ln + 2; }
     else if (strncmp(ln, "## ", 3) == 0) { color = COL_PRI;    display = ln + 3; }
@@ -321,10 +322,19 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
         strncpy(stripped + 1, ln + 1, LINE_LEN - 2);
         stripped[LINE_LEN - 1] = '\0';
         display = stripped;
+        xOff = 8;  // indent bullets past normal text margin
+    } else if (strncmp(ln, "    ", 4) == 0) {
+        // 4-space code indent: strip indent, render dimmed
+        color = COL_TER;
+        display = ln + 4;
+    } else if (strcmp(ln, "---") == 0) {
+        // Horizontal rule: draw a thin divider line across content
+        screen.canvasFill(CX + 4, y_scr + LINE_H / 2, CANVAS_W - 8, 1, COL_TER);
+        return;
     }
 
     // Draw into canvas (transparent text on pre-cleared canvas)
-    screen.canvasText(display, CX + 4, y_scr, color);
+    screen.canvasText(display, CX + xOff, y_scr, color);
 }
 
 // Render the visible window of entry lines into the canvas and push atomically.
