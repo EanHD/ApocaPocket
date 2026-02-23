@@ -417,8 +417,21 @@ int readEntry(const char* eid, uint8_t folderIdx,
     if (!f) {
         Serial.print("[WARN] Entry not found: ");
         Serial.println(path);
-        snprintf(lines[0], LINE_LEN, "Not found: %s", eid);
-        return 1;
+        // Show helpful multi-line error so user knows .md files are missing
+        int n = 0;
+        snprintf(lines[n++], LINE_LEN, "## File Not Found");
+        lines[n][0] = '\0'; n++;
+        snprintf(lines[n++], LINE_LEN, "%.28s", eid);
+        lines[n][0] = '\0'; n++;
+        snprintf(lines[n++], LINE_LEN, "SD card is missing");
+        snprintf(lines[n++], LINE_LEN, "the .md entry files.");
+        lines[n][0] = '\0'; n++;
+        snprintf(lines[n++], LINE_LEN, "Copy data/entries/");
+        snprintf(lines[n++], LINE_LEN, "to SD: /data/data/");
+        snprintf(lines[n++], LINE_LEN, "entries/<folder>/");
+        lines[n][0] = '\0'; n++;
+        snprintf(lines[n++], LINE_LEN, "See README.md");
+        return n;
     }
 
     int count = 0;
