@@ -205,7 +205,7 @@ void loop() {
                  gHistoryCount);
     }
     const char* mainItems[] = {"Browse", "Search", batLabel, histLabel};
-    int c = menu("Field Node", mainItems, 4);
+    int c = menu("ApocaPocket", mainItems, 4);
     if (gEmergency) return;
 
     if (c == 0) {

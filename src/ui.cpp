@@ -187,28 +187,28 @@ void waitAny() {
 // -- Splash screen --
 void splash() {
     screen.begin();
-    // Title
-    screen.centerText("FIELD NODE", CY + 44, COL_PRI);
-    screen.centerText("Pocket Edition", CY + 62, COL_ACCENT);
+    // App name + tagline
+    screen.centerText("ApocaPocket", CY + 46, COL_PRI);
+    screen.centerText("Survival Knowledge", CY + 68, COL_ACCENT);
 
     // Divider line
-    screen.fillArea(CX + 40, CY + 80, CW - 80, 1, COL_TER);
+    screen.fillArea(CX + 40, CY + 84, CW - 80, 1, COL_TER);
 
     // Entry count
-    char buf[24];
+    char buf[28];
     snprintf(buf, sizeof(buf), "%d entries loaded", gIndex.count());
-    screen.centerText(buf, CY + 92, COL_SEC);
+    screen.centerText(buf, CY + 96, COL_SEC);
 
     // Battery
     int b = screen.getBatteryPct();
     uint16_t bc = (b > 30) ? COL_OK : (b > 10) ? COL_YELLOW : COL_WARN;
     snprintf(buf, sizeof(buf), "Battery: %d%%", b);
-    screen.centerText(buf, CY + 112, bc);
+    screen.centerText(buf, CY + 118, bc);
 
     // Bookmarks count
     if (gBookmarkCount > 0) {
         snprintf(buf, sizeof(buf), "%d bookmarks", gBookmarkCount);
-        screen.centerText(buf, CY + 132, COL_TER);
+        screen.centerText(buf, CY + 140, COL_TER);
     }
 
     // Prompt

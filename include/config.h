@@ -31,14 +31,18 @@
 #define CY            20
 #define CW            (DISP_W - CX * 2)  // 200
 #define CH            (DISP_H - CY * 2)  // 240
-#define HDR_H         24
-#define BAR_H         18
-#define TOP_Y         (CY + HDR_H + 4)   // 48
-#define BOT_Y         (DISP_H - CY - BAR_H - 2) // 240
+#define HDR_H         28
+#define BAR_H         20
+#define TOP_Y         (CY + HDR_H + 4)   // 52
+#define BOT_Y         (DISP_H - CY - BAR_H - 2) // 238
 #define LINE_H        18
-#define MENU_LINE_H   20
+#define MENU_LINE_H   24
 #define LPP           ((BOT_Y - TOP_Y) / LINE_H)      // 10
-#define MENU_VIS      ((BOT_Y - TOP_Y - 12) / MENU_LINE_H) // 9
+#define MENU_VIS      ((BOT_Y - TOP_Y - 12) / MENU_LINE_H) // 7
+
+// -- Font metrics (FreeSans9pt7b) --
+// cursor y is at BASELINE; add FONT_CAP_H to convert text-top → baseline
+#define FONT_CAP_H    11
 
 // -- iOS Dark Mode palette (RGB565) --
 #define COL_BG        0x0000  // #000000
@@ -62,8 +66,8 @@
 
 // -- Entry reader limits --
 #define MAX_LINES     300
-#define LINE_LEN      31   // 30 visible chars + null
-#define WRAP_WIDTH    30
+#define LINE_LEN      27   // 26 visible chars + null (FreeSans9pt7b ~26ch @ 200px)
+#define WRAP_WIDTH    26
 #define MAX_TITLE     26
 #define MAX_EID       48
 
