@@ -32,7 +32,7 @@ void Button::update() {
     if (v && _downAt > 0 && !_heldFired && (now - _downAt) > BUTTON_HOLD_MS) {
         _held = true;
         _heldFired = true;
-        _lastRepeat = now;
+        _lastRepeat = now + BUTTON_REPEAT_MS;  // delay first repeat so held action registers first
     }
     // Auto-repeat while held (every BUTTON_REPEAT_MS after initial held)
     if (v && _heldFired && _lastRepeat > 0 && (now - _lastRepeat) > BUTTON_REPEAT_MS) {

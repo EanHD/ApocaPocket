@@ -269,7 +269,7 @@ int menu(const char* title, const char** items, int count,
             if (btnUp.tapped() || btnUp.repeating()) {
                 sel = (sel - 1 + count) % count;
                 if (sel < offset) offset = sel;
-                else if (offset > 0 && sel == count - 1)
+                else if (sel == count - 1)
                     offset = max(0, count - vis);
                 break;
             }
@@ -360,9 +360,9 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
     bool bookmarked   = isBookmarked(eid);
     bool diagramAvail = hasDiagram(eid);
 
-    char hdr[TITLE_DISPLAY_LEN + 1];
-    strncpy(hdr, (title && title[0]) ? title : eid, TITLE_DISPLAY_LEN);
-    hdr[TITLE_DISPLAY_LEN] = '\0';
+    char hdr[25];
+    strncpy(hdr, (title && title[0]) ? title : eid, 24);
+    hdr[24] = '\0';
 
     int  prevScroll = -1;  // -1 forces chrome + content draw on first pass
     char statBuf[12];
@@ -373,9 +373,9 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
 
         // ── Render ──
         if (prevScroll < 0 || prevScroll != scroll) {
-            int visEnd = min(scroll + LPP, total);
-            snprintf(statBuf, sizeof(statBuf), "%d/%d%s%s",
-                     visEnd, total,
+            snprintf(statBuf, sizeof(statBuf), "p%d/%d%s%s",
+                     scroll / LPP + 1,
+                     (total + LPP - 1) / LPP,
                      bookmarked   ? "*"   : "",
                      diagramAvail ? "[D]" : "");
 
@@ -469,7 +469,6 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                 }
                 // Force full redraw after context menu
                 prevScroll = -1;
-                gScrollAnim.reset();
                 break;
             }
         }
@@ -484,60 +483,74 @@ void textInput(const char* title, char* output, int maxLen) {
     int len = 0;
     output[0] = '\0';
 
-    char dispBuf[25];
-    char charRow[13]; // show chars around current selection
+    // Chrome drawn ONCE — canvas handles all content redraws
+    screen.begin();
+    screen.header(title);
+    screen.statusBar();
+
+    bool changed = true;  // force first canvas draw
 
     while (true) {
-        screen.begin();
-        screen.clearContent();  // non-canvas: must explicitly clear
-        screen.header(title);
+        if (changed) {
+            screen.clearCanvas();
 
-        // Show current text with blinking cursor
-        int dLen = 0;
-        for (int i = 0; i < len && i < 22; i++)
-            dispBuf[dLen++] = output[i];
-        dispBuf[dLen] = '\0';
-        screen.text(dispBuf, CX + 8, TOP_Y + 16, COL_PRI);
+            // Input buffer with underscore cursor
+            char dispBuf[26];
+            int dLen = 0;
+            for (int i = 0; i < len && i < 22; i++)
+                dispBuf[dLen++] = output[i];
+            dispBuf[dLen++] = '_';
+            dispBuf[dLen] = '\0';
+            screen.canvasText(dispBuf, CX + 8, TOP_Y + 16, COL_PRI);
 
-        // Show character wheel: 5 chars centered on current
-        for (int j = -5; j <= 5; j++) {
-            int idx = (ci + j + nchars) % nchars;
-            charRow[j + 5] = chars[idx];
+            // Character wheel: 11 chars centred on current selection
+            char charRow[13];
+            for (int j = -5; j <= 5; j++)
+                charRow[j + 5] = chars[(ci + j + nchars) % nchars];
+            charRow[11] = '\0';
+            screen.canvasCenterText(charRow, TOP_Y + 40, COL_TER);
+
+            // Overlay current char in accent — transparent mode overwrites glyph pixels only
+            char cur[2] = { chars[ci], '\0' };
+            screen.canvasCenterText(cur, TOP_Y + 40, COL_ACCENT);
+
+            // Instructions (static — same every frame)
+            screen.canvasText("UP/DN",  CX + 8,  TOP_Y + 68,  COL_SEC);
+            screen.canvasText("char",   CX + 52, TOP_Y + 68,  COL_TER);
+            screen.canvasText("OK",     CX + 8,  TOP_Y + 88,  COL_SEC);
+            screen.canvasText("add",    CX + 36, TOP_Y + 88,  COL_TER);
+            screen.canvasText("RIGHT",  CX + 8,  TOP_Y + 108, COL_SEC);
+            screen.canvasText("delete", CX + 52, TOP_Y + 108, COL_TER);
+            screen.canvasText("BACK",   CX + 8,  TOP_Y + 128, COL_SEC);
+            screen.canvasText("done",   CX + 52, TOP_Y + 128, COL_TER);
+
+            screen.pushCanvas();
+            changed = false;
         }
-        charRow[11] = '\0';
-        screen.centerText(charRow, TOP_Y + 40, COL_TER);
-        // Highlight current char
-        char cur[2] = { chars[ci], '\0' };
-        screen.centerText(cur, TOP_Y + 40, COL_ACCENT);
-
-        // Instructions (rendered once at top of loop, 20px row spacing)
-        screen.text("UP/DN", CX + 8,  TOP_Y + 68, COL_SEC);
-        screen.text("char",  CX + 52, TOP_Y + 68, COL_TER);
-        screen.text("OK",    CX + 8,  TOP_Y + 88, COL_SEC);
-        screen.text("add",   CX + 36, TOP_Y + 88, COL_TER);
-        screen.text("RIGHT", CX + 8,  TOP_Y + 108, COL_SEC);
-        screen.text("delete",CX + 52, TOP_Y + 108, COL_TER);
-        screen.text("BACK",  CX + 8,  TOP_Y + 128, COL_SEC);
-        screen.text("done",  CX + 52, TOP_Y + 128, COL_TER);
 
         poll();
         if (gEmergency || gGoHome) { output[0] = '\0'; return; }
-        if (btnUp.tapped() || btnUp.repeating())
-            ci = (ci + 1) % nchars;
-        else if (btnDn.tapped() || btnDn.repeating())
-            ci = (ci - 1 + nchars) % nchars;
-        else if (btnOk.tapped() && len < maxLen - 1) {
-            output[len++] = chars[ci];
-            output[len] = '\0';
-            ci = 0;
+
+        // Battery warning redrew on top of us — restore chrome then canvas
+        if (gNeedsRedraw) {
+            screen.begin(); screen.header(title); screen.statusBar();
+            gNeedsRedraw = false;
+            changed = true;
+            continue;
         }
-        else if (btnRt.tapped() && len > 0) {
-            // Delete last char
-            output[--len] = '\0';
-        }
-        else if (btnBk.tapped()) {
+
+        if (btnUp.tapped() || btnUp.repeating()) {
+            ci = (ci + 1) % nchars; changed = true;
+        } else if (btnDn.tapped() || btnDn.repeating()) {
+            ci = (ci - 1 + nchars) % nchars; changed = true;
+        } else if (btnOk.tapped() && len < maxLen - 1) {
+            output[len++] = chars[ci]; output[len] = '\0';
+            ci = 0; changed = true;
+        } else if (btnRt.tapped() && len > 0) {
+            output[--len] = '\0'; changed = true;
+        } else if (btnBk.tapped()) {
             if (len == 0) { output[0] = '\0'; return; }
-            return; // return with current text
+            return;
         }
     }
 }

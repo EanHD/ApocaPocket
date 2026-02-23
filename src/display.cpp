@@ -18,7 +18,7 @@ static inline void _setFont(Adafruit_GFX& gfx) {
 static void _truncate(char* dst, const char* src, int maxLen) {
     strncpy(dst, src, maxLen + 2);
     dst[maxLen + 2] = '\0';
-    if ((int)strlen(dst) >= maxLen) {
+    if ((int)strlen(dst) > maxLen) {
         dst[maxLen - 2] = '.';
         dst[maxLen - 1] = '.';
         dst[maxLen]     = '\0';
