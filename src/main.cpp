@@ -50,6 +50,16 @@ static void openEntry(uint16_t indexId) {
 }
 
 void setup() {
+    // CRITICAL: Assert CS pins HIGH as the VERY FIRST action.
+    // RP2040 GPIOs default to INPUT (floating) after reset.
+    // If SD CS floats LOW during module LDO power-up, the card
+    // latches into native SDIO mode and will NOT respond to SPI CMD0.
+    // This must happen before Serial.begin(), delay(), or any other init.
+    pinMode(PIN_SD_CS, OUTPUT);
+    digitalWrite(PIN_SD_CS, HIGH);
+    pinMode(PIN_DISP_CS, OUTPUT);
+    digitalWrite(PIN_DISP_CS, HIGH);
+
     Serial.begin(115200);
     delay(500);
     Serial.println("\n=== Apocalypse Field Node ===");
@@ -66,7 +76,7 @@ void setup() {
     powerInit();
     Serial.println("[OK] Power management");
 
-    // CRITICAL: Configure SPI1 pins and CS BEFORE any SPI device init
+    // Configure SPI1 pins and CS (also sets CS HIGH, reinforcing boot state)
     sdSetupPins();
     Serial.println("[OK] SPI1 pins configured");
 
@@ -86,7 +96,7 @@ void setup() {
             verdict = "Driver issue";  // card responds, but SDFS can't init
         } else if (gDiagCmd0Response == 0xFF) {
             snprintf(cmd0Buf, sizeof(cmd0Buf), "CMD0=0xFF No resp");
-            verdict = "Check wiring!"; // no hardware response at all
+            verdict = "CS native mode?"; // likely CS floated low at boot
         } else {
             snprintf(cmd0Buf, sizeof(cmd0Buf), "CMD0=0x%02X Partial", gDiagCmd0Response);
             verdict = "Loose wire?";
@@ -102,8 +112,8 @@ void setup() {
         screen.centerText(cmd0Buf,          DISP_H / 2 - 28, COL_YELLOW);
         screen.centerText(misoBuf,          DISP_H / 2 - 10, COL_YELLOW);
         screen.centerText(verdict,          DISP_H / 2 + 10, COL_WARN);
-        screen.centerText("FAT32? Inserted?",DISP_H / 2 + 28, COL_SEC);
-        screen.centerText("See README wiring",DISP_H / 2 + 44, COL_TER);
+        screen.centerText("FAT32? Not exFAT!", DISP_H / 2 + 28, COL_SEC);
+        screen.centerText("Reinsert+Reset",  DISP_H / 2 + 44, COL_TER);
 
         // Keep printing to serial so user can connect any time and see result
         while (true) {

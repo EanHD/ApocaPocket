@@ -80,20 +80,21 @@ static void bitBangDiagnostic() {
     Serial.println(misoSelected ? "HIGH" : "LOW");
     digitalWrite(PIN_SD_CS, HIGH);
 
-    // Test 3: Send 80+ clock pulses with CS HIGH, MOSI HIGH
-    Serial.println("[DIAG] Sending 80 clocks (CS HIGH)...");
-    for (int i = 0; i < 80; i++) {
+    // Test 3: Send 160 clock pulses with CS HIGH, MOSI HIGH
+    // SD spec requires ≥74 clocks; 160 gives extra margin for sluggish cards
+    Serial.println("[DIAG] Sending 160 clocks (CS HIGH, card mode reset)...");
+    for (int i = 0; i < 160; i++) {
         digitalWrite(PIN_SPI_CLK, HIGH);
         delayMicroseconds(10);
         digitalWrite(PIN_SPI_CLK, LOW);
         delayMicroseconds(10);
     }
-    delay(10);
+    delay(50); // extra settle time
 
     // Test 4: Send CMD0 (GO_IDLE_STATE) via bit-bang
     Serial.println("[DIAG] Sending CMD0 via bit-bang...");
     digitalWrite(PIN_SD_CS, LOW);
-    delayMicroseconds(100);
+    delay(1); // give card time to see CS assertion
 
     // CMD0: 0x40, 0x00, 0x00, 0x00, 0x00, 0x95
     bitBangByte(0x40);
@@ -103,10 +104,10 @@ static void bitBangDiagnostic() {
     bitBangByte(0x00);
     bitBangByte(0x95);
 
-    // Read response — wait for non-0xFF, up to 64 bytes
+    // Read response — wait for non-0xFF, up to 255 bytes
     uint8_t response = 0xFF;
     int bytesRead = 0;
-    for (int i = 0; i < 64; i++) {
+    for (int i = 0; i < 255; i++) {
         uint8_t b = bitBangByte(0xFF);
         bytesRead++;
         if (b != 0xFF) {
