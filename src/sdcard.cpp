@@ -49,21 +49,26 @@ static uint8_t bitBangByte(uint8_t txByte) {
     return rxByte;
 }
 
+// Results from bit-bang diagnostic — read by main.cpp for on-screen display
+uint8_t gDiagCmd0Response = 0xFF;  // 0x01=card OK, 0xFF=no response
+bool    gDiagMisoIdle     = false; // MISO idle state (HIGH = pull-up present)
+
 static void bitBangDiagnostic() {
     Serial.println("\n[DIAG] === Bit-Bang Hardware Test ===");
     Serial.println("[DIAG] Bypasses SPI hardware, tests raw GPIO wiring");
 
     // Reconfigure ALL SPI pins as plain GPIO
-    pinMode(PIN_SPI_CLK, OUTPUT);     // GP10
-    pinMode(PIN_SPI_MOSI, OUTPUT);    // GP11
+    pinMode(PIN_SPI_CLK, OUTPUT);        // GP10
+    pinMode(PIN_SPI_MOSI, OUTPUT);       // GP11
     pinMode(PIN_SPI_MISO, INPUT_PULLUP); // GP8
-    pinMode(PIN_SD_CS, OUTPUT);       // GP15
+    pinMode(PIN_SD_CS, OUTPUT);          // GP15
     digitalWrite(PIN_SPI_CLK, LOW);
     digitalWrite(PIN_SPI_MOSI, HIGH);
     digitalWrite(PIN_SD_CS, HIGH);
 
     // Test 1: Read MISO with CS HIGH (should be HIGH with pull-up)
     int misoIdle = digitalRead(PIN_SPI_MISO);
+    gDiagMisoIdle = (misoIdle == HIGH);
     Serial.print("[DIAG] MISO idle (CS HIGH): ");
     Serial.println(misoIdle ? "HIGH" : "LOW");
 
@@ -119,6 +124,8 @@ static void bitBangDiagnostic() {
         delayMicroseconds(10);
     }
 
+    gDiagCmd0Response = response;
+
     Serial.print("[DIAG] CMD0 response: 0x");
     Serial.print(response, HEX);
     Serial.print(" (after ");
@@ -126,16 +133,11 @@ static void bitBangDiagnostic() {
     Serial.println(" bytes)");
 
     if (response == 0x01) {
-        Serial.println("[DIAG] *** CARD RESPONDS! Wiring is OK. ***");
+        Serial.println("[DIAG] *** CARD RESPONDS! Wiring OK - software issue ***");
     } else if (response == 0xFF) {
-        Serial.println("[DIAG] *** NO RESPONSE. Possible causes:");
-        Serial.println("  - SD card not inserted");
-        Serial.println("  - No power to SD module (check VCC/GND)");
-        Serial.println("  - MISO (GP8) not connected");
-        Serial.println("  - CS (GP15) not connected");
-        Serial.println("  - MOSI (GP11) or CLK (GP10) not connected");
+        Serial.println("[DIAG] *** NO RESPONSE - check wiring/power/card ***");
     } else {
-        Serial.println("[DIAG] Unexpected response - card partially responding");
+        Serial.println("[DIAG] *** PARTIAL RESPONSE - loose connection? ***");
     }
     Serial.println("[DIAG] === End Hardware Test ===\n");
 }

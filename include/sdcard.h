@@ -2,6 +2,10 @@
 #include "config.h"
 #include <SDFS.h>
 
+// Diagnostic results from bit-bang test — populated by sdInit() on failure
+extern uint8_t gDiagCmd0Response; // 0x01=card OK, 0xFF=no response
+extern bool    gDiagMisoIdle;     // MISO idle HIGH = pull-up present
+
 // Index entry stored in RAM (compact)
 struct IndexEntry {
     char title[TITLE_DISPLAY_LEN + 1]; // 27 bytes

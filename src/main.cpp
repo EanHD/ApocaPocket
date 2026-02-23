@@ -74,17 +74,45 @@ void setup() {
     // This follows the official earlephilhower SD example pattern
     if (!sdInit()) {
         Serial.println("[FAIL] SD card not found!");
-        Serial.println(">>> Connect serial monitor (115200) for diagnostics <<<");
-        // Init display to show error message
+        // Init display to show diagnostic results on screen
         screen.init();
         ledBlink(255, 0, 0, 3);
+
+        // Build on-screen diagnostic message from bit-bang results
+        char cmd0Buf[22];
+        const char* verdict;
+        if (gDiagCmd0Response == 0x01) {
+            snprintf(cmd0Buf, sizeof(cmd0Buf), "CMD0=0x01 Card OK");
+            verdict = "Driver issue";  // card responds, but SDFS can't init
+        } else if (gDiagCmd0Response == 0xFF) {
+            snprintf(cmd0Buf, sizeof(cmd0Buf), "CMD0=0xFF No resp");
+            verdict = "Check wiring!"; // no hardware response at all
+        } else {
+            snprintf(cmd0Buf, sizeof(cmd0Buf), "CMD0=0x%02X Partial", gDiagCmd0Response);
+            verdict = "Loose wire?";
+        }
+
+        char misoBuf[22];
+        snprintf(misoBuf, sizeof(misoBuf), "MISO idle: %s",
+                 gDiagMisoIdle ? "HIGH (ok)" : "LOW (bad!)");
+
         screen.begin();
-        screen.header("SD ERROR", false);
-        screen.centerText("SD card error!", DISP_H / 2 - 20, COL_WARN);
-        screen.centerText("Check serial output", DISP_H / 2, COL_SEC);
-        screen.centerText("for diagnostics", DISP_H / 2 + 12, COL_SEC);
-        screen.centerText("(115200 baud)", DISP_H / 2 + 30, COL_TER);
-        while (true) { ledBlink(255, 0, 0, 1, 500); delay(1000); }
+        screen.header("SD CARD ERROR", false);
+        screen.centerText("SD init failed!", DISP_H / 2 - 48, COL_WARN);
+        screen.centerText(cmd0Buf,          DISP_H / 2 - 28, COL_YELLOW);
+        screen.centerText(misoBuf,          DISP_H / 2 - 10, COL_YELLOW);
+        screen.centerText(verdict,          DISP_H / 2 + 10, COL_WARN);
+        screen.centerText("FAT32? Inserted?",DISP_H / 2 + 28, COL_SEC);
+        screen.centerText("See README wiring",DISP_H / 2 + 44, COL_TER);
+
+        // Keep printing to serial so user can connect any time and see result
+        while (true) {
+            ledBlink(255, 0, 0, 1, 500);
+            delay(1000);
+            Serial.println("[SD ERROR] CMD0=0x" + String(gDiagCmd0Response, HEX)
+                + " MISO=" + (gDiagMisoIdle ? "HIGH" : "LOW")
+                + " | " + verdict);
+        }
     }
     Serial.println("[OK] SD card");
 
