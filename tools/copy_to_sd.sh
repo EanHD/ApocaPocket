@@ -19,8 +19,18 @@ DRIVE=$(echo "$1" | tr '[:upper:]' '[:lower:]')
 SD="/mnt/$DRIVE"
 
 if [ ! -d "$SD" ]; then
-    echo "ERROR: Drive $SD not found. Insert SD card and try again."
-    exit 1
+    echo "Drive $SD not found. Attempting to mount..."
+    sudo mkdir -p "$SD"
+    if sudo mount -t drvfs "${1^^}:" "$SD" 2>/dev/null; then
+        echo "  [OK] Mounted ${1^^}: at $SD"
+    else
+        echo ""
+        echo "ERROR: Could not mount ${1^^}: drive."
+        echo "Make sure the SD card is inserted, then run:"
+        echo "  sudo mkdir -p $SD && sudo mount -t drvfs ${1^^}: $SD"
+        echo "Then run this script again."
+        exit 1
+    fi
 fi
 
 echo "=== ApocaPocket SD Card Setup ==="
