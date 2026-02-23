@@ -110,7 +110,8 @@ void Screen::header(const char* title, bool showBack) {
     uint16_t w, h;
     _tft.getTextBounds(buf, 0, baseline, &x1, &y1, &w, &h);
     int16_t x = CX + ((int16_t)CW - (int16_t)w) / 2;
-    int16_t minX = showBack ? CX + 18 : CX + 4;
+    // Minimum x: leave room for back arrow (TEXT_PAD_X+6) or corner-safe margin
+    int16_t minX = showBack ? TEXT_PAD_X + 6 : TEXT_PAD_X;
     if (x < minX) x = minX;
 
     _tft.setTextColor(COL_PRI);
@@ -119,7 +120,7 @@ void Screen::header(const char* title, bool showBack) {
 
     if (showBack) {
         _tft.setTextColor(COL_ACCENT);
-        _tft.setCursor(CX + 4, baseline);
+        _tft.setCursor(TEXT_PAD_X - 4, baseline);  // back chevron just left of pad
         _tft.print("<");
     }
 }
@@ -136,7 +137,7 @@ void Screen::statusBar(const char* right) {
     int16_t barBaseline = DISP_H - CY - BAR_H + 15;
 
     _tft.setTextColor(bc);
-    _tft.setCursor(CX + 4, barBaseline);
+    _tft.setCursor(TEXT_PAD_X, barBaseline);
     _tft.print(_batBuf);
 
     if (right && right[0]) {
@@ -144,7 +145,7 @@ void Screen::statusBar(const char* right) {
         uint16_t w, h;
         _tft.getTextBounds(right, 0, barBaseline, &x1, &y1, &w, &h);
         _tft.setTextColor(COL_TER);
-        _tft.setCursor(DISP_W - CX - (int16_t)w - 4, barBaseline);
+        _tft.setCursor(DISP_W - (int16_t)w - TEXT_PAD_X, barBaseline);
         _tft.print(right);
     }
 }

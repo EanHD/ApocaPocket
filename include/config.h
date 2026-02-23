@@ -26,19 +26,26 @@
 #define DISP_H        280
 #define DISP_ROWSTART 20
 
-// -- Layout (iOS-style with round-corner safe area) --
-#define CX            20
-#define CY            20
-#define CW            (DISP_W - CX * 2)  // 200
-#define CH            (DISP_H - CY * 2)  // 240
+// -- Layout --
+// Full-bleed: backgrounds/bars fill edge-to-edge. TEXT_PAD_X provides a
+// 12px left/right inset for all text — this safely clears the ~20px corner
+// radius zone (at y=28/y=252, the corner inset math gives 0px required).
+// Only the header bar (y=0–28) and footer bar (y=260–280) overlap the
+// physical corner zone; text within those bars uses TEXT_PAD_X for safety.
+#define CX            0
+#define CY            0
+#define CW            DISP_W              // 240 — full width for fills/chrome
+#define CH            DISP_H              // 280 — full height
+#define CORNER_R      20                  // approx. physical corner radius (px)
+#define TEXT_PAD_X    12                  // left text inset (corner-safe + readable)
 #define HDR_H         28
 #define BAR_H         20
-#define TOP_Y         (CY + HDR_H + 4)   // 52
-#define BOT_Y         (DISP_H - CY - BAR_H - 2) // 238
+#define TOP_Y         (HDR_H + 2)         // 30  — content area start
+#define BOT_Y         (DISP_H - BAR_H - 2)// 258 — content area end
 #define LINE_H        18
 #define MENU_LINE_H   24
-#define LPP           ((BOT_Y - TOP_Y) / LINE_H)      // 10
-#define MENU_VIS      ((BOT_Y - TOP_Y - 12) / MENU_LINE_H) // 7
+#define LPP           ((BOT_Y - TOP_Y) / LINE_H)          // 228/18 = 12
+#define MENU_VIS      ((BOT_Y - TOP_Y - 12) / MENU_LINE_H)// 216/24 = 9
 
 // -- Font metrics (FreeSans9pt7b) --
 // cursor y is at BASELINE; add FONT_CAP_H to convert text-top → baseline
@@ -68,9 +75,10 @@
 #define MAX_LINES     500
 // FreeSans9pt7b actual metrics: avg 8.43px/char, max 18px ('@').
 // Pixel-accurate wrapping ensures no line exceeds WRAP_PX pixels.
-// LINE_LEN sized for worst case: floor(185/4)=46 narrow-glyph chars + null.
-#define LINE_LEN      48   // max 47 visible chars + null (pixel-budget safe)
-#define WRAP_PX       185  // pixel budget per body line (canvas 196 - 4px left - 7px margin)
+// Budget: CANVAS_W(236) - TEXT_PAD_X(12) - 6px right margin = 218px.
+// LINE_LEN sized for worst case: floor(218/4)=54 narrow-glyph chars + null.
+#define LINE_LEN      56   // max 55 visible chars + null (pixel-budget safe)
+#define WRAP_PX       218  // pixel budget per body line
 #define MAX_TITLE     28
 #define MAX_EID       48
 

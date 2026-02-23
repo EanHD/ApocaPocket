@@ -304,7 +304,7 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
     uint16_t color  = COL_BODY;
     const char* display = ln;
     static char stripped[LINE_LEN];
-    int16_t xOff = 4;  // canvas-space left offset (screen x = CX + xOff)
+    int16_t xOff = TEXT_PAD_X;  // screen-space x for body text (corner-safe + readable)
     bool bold = false;
     bool isBullet = false;
 
@@ -324,30 +324,30 @@ static void drawEntryLine(const char* ln, int16_t y_scr) {
         strncpy(stripped, ln + 2, LINE_LEN - 1);
         stripped[LINE_LEN - 1] = '\0';
         display = stripped;
-        xOff = 12;  // indent text past the bullet dot
+        xOff = TEXT_PAD_X + 6;  // bullet text indented past the dot
         isBullet = true;
     } else if (strncmp(ln, "    ", 4) == 0) {
         // 4-space code indent: strip indent, render dimmed
         color = COL_TER;
         display = ln + 4;
     } else if (strcmp(ln, "---") == 0) {
-        // Horizontal rule: draw a thin divider line across content
-        screen.canvasFill(CX + 4, y_scr + LINE_H / 2, CANVAS_W - 8, 1, COL_TER);
+        // Horizontal rule: full-width thin divider
+        screen.canvasFill(TEXT_PAD_X, y_scr + LINE_H / 2, CANVAS_W - TEXT_PAD_X - 4, 1, COL_TER);
         return;
     }
 
     if (isBullet) {
-        // Draw a filled circle as Apple-style bullet dot, vertically centred
-        int16_t dotX = CX + 6;
+        // Filled circle bullet, vertically centred on the text cap height
+        int16_t dotX = TEXT_PAD_X + 1;
         int16_t dotY = y_scr + (LINE_H / 2) - 1;
         screen.canvasFillCircle(dotX, dotY, 2, COL_SEC);
     }
 
     // Draw text — bold for H1, regular for everything else
     if (bold) {
-        screen.canvasTextBold(display, CX + xOff, y_scr, color);
+        screen.canvasTextBold(display, xOff, y_scr, color);
     } else {
-        screen.canvasText(display, CX + xOff, y_scr, color);
+        screen.canvasText(display, xOff, y_scr, color);
     }
 }
 
