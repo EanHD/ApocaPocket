@@ -317,8 +317,8 @@ static void drawEntryLine(const char* ln, int16_t y) {
 // is no gap at the edge during animation.
 static void renderEntryContent(char (*lines)[LINE_LEN], int total,
                                 int scroll, int animOff) {
-    // Clear entire content area once (avoids ghost pixels from shifted text)
-    screen.fillArea(CX, TOP_Y, CW - 4, BOT_Y - TOP_Y, COL_BG);
+    // Clear entire content area — full CW width to prevent right-edge ghost pixels
+    screen.fillArea(CX, TOP_Y, CW, BOT_Y - TOP_Y, COL_BG);
 
     // Draw LPP lines + one extra on each side if animating
     int iStart = (animOff > 0) ? -1 : 0;
@@ -328,8 +328,8 @@ static void renderEntryContent(char (*lines)[LINE_LEN], int total,
         int lineIdx = scroll + i;
         int16_t y   = (int16_t)(TOP_Y + 2 + i * LINE_H + animOff);
 
-        // Skip lines completely outside the content window
-        if (y + LINE_H <= TOP_Y || y >= BOT_Y) continue;
+        // Skip lines whose text would bleed outside the content window
+        if (y + LINE_H <= TOP_Y || y > BOT_Y - FONT_CAP_H - 2) continue;
         if (lineIdx < 0 || lineIdx >= total)    continue;
 
         drawEntryLine(lines[lineIdx], y);
@@ -373,6 +373,10 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
 
     // ── Main render / input loop ──
     while (true) {
+        // Advance animation FIRST so we always render the updated state.
+        // This prevents rendering the same offset twice (which caused jitter).
+        bool wasAnimating = gScrollAnim.active();
+        if (wasAnimating) gScrollAnim.tick();
         bool animating = gScrollAnim.active();
 
         // Status: "line/total bookmark diagram" — clear and human-readable
@@ -389,8 +393,8 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
             screen.header(hdr);
         }
 
-        // Content: redraw when scroll changed or animation in progress
-        if (prevScroll < 0 || animating || prevScroll != scroll) {
+        // Render content when scroll changed, animating, or animation just finished
+        if (prevScroll < 0 || wasAnimating || prevScroll != scroll) {
             renderEntryContent(entryLines, total, scroll, gScrollAnim.current);
         }
 
@@ -400,10 +404,9 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
 
         prevScroll = scroll;
 
-        // ── Step animation ──
-        if (animating) {
-            gScrollAnim.tick();
-            // Don't wait for button — loop immediately to render next frame
+        // ── Continue animation loop (or settle after last frame) ──
+        if (animating || wasAnimating) {
+            // Still mid-animation, or just rendered the final settle frame
             inputUpdate();
             powerTick();
             // Still check emergency + back during animation

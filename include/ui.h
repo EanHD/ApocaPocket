@@ -42,9 +42,8 @@ struct ScrollAnim {
 
     // Trigger: call before updating scroll. dir: +1=scrolled down, -1=scrolled up
     void trigger(int dir) {
-        // When scrolling down (new content from bottom), start offset below (+)
-        // When scrolling up  (new content from top),   start offset above (-)
-        current    = dir > 0 ? LINE_H : -LINE_H;
+        // Start at half LINE_H (9px) for smoother, quicker ease-out
+        current    = dir > 0 ? LINE_H / 2 : -(LINE_H / 2);
         target     = 0;
         lastFrame  = millis();
     }

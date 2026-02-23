@@ -99,6 +99,6 @@
 #define BUTTON_REPEAT_MS    120  // Auto-repeat interval
 
 // -- Smooth scroll animation --
-// Each ease-out step fires at most every SCROLL_FRAME_MS ms (~40fps)
-// Starts at ±LINE_H (18px) and halves each frame → 6 frames ~150ms total
-#define SCROLL_FRAME_MS     25   // ms between animation steps (40fps max)
+// Advances every render frame (SCROLL_FRAME_MS=0 means step every tick call)
+// Starts at ±LINE_H/2 (9px) and halves each frame → clean 5-frame ease-out
+#define SCROLL_FRAME_MS     0    // step every render frame (~23ms on RP2040)

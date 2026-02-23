@@ -7,6 +7,7 @@ Screen screen;
 static inline void _setFont(Adafruit_ST7789& tft) {
     tft.setFont(&FreeSans9pt7b);
     tft.setTextSize(1);
+    tft.setTextWrap(false); // CRITICAL: prevent overflow text wrapping to wrong row
 }
 
 int Screen::batteryPct() {
@@ -89,6 +90,9 @@ void Screen::header(const char* title, bool showBack) {
 }
 
 void Screen::statusBar(const char* right) {
+    // Always clear the full bar area first to prevent ghost text
+    _tft.fillRect(CX, DISP_H - CY - BAR_H + 1, CW, BAR_H - 1, COL_HDR);
+
     int b = batteryPct();
     uint16_t bc = (b > 30) ? COL_OK : (b > 10) ? COL_YELLOW : COL_WARN;
     snprintf(_batBuf, sizeof(_batBuf), "%d%%", b);
