@@ -597,7 +597,10 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         // Card title row + body drawn together into canvas → single SPI push, zero flicker.
         screen.clearCanvas();
         screen.canvasFill(CX, TOP_Y, 3, CARD_HDR_H, cur.accentColor);          // accent bar
-        screen.canvasTextBold(cur.title, CX + 8, TOP_Y + 2, COL_PRI);          // section title
+        // Pixel-accurate truncation of section title (bold is wider than regular)
+        char cardTitleBuf[MAX_TITLE + 1];
+        fsansBold9Trunc(cardTitleBuf, cur.title, MAX_TITLE, CANVAS_W - 8 - 4);
+        screen.canvasTextBold(cardTitleBuf, CX + 8, TOP_Y + 2, COL_PRI);       // section title
         screen.canvasFill(CX, TOP_Y + CARD_HDR_H - 1, CANVAS_W, 1, COL_TER);  // divider
         for (int i = 0; i < lpp; i++) {
             int li = cur.lineStart + scroll + i;

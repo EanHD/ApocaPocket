@@ -12,9 +12,24 @@ static const uint8_t FSANS9_ADV[95] = {
    10, 10,  6,  9,  5, 10,  9, 13,  9,  9,  9,  6,  4,  6,  9       // pqrstuvwxyz{|}~
 };
 
+// FreeSansBold9pt7b xAdvance values — extracted from FreeSansBold9pt7b.h glyph table.
+static const uint8_t FSANSBOLD9_ADV[95] = {
+     5,  6,  9, 10, 10, 16, 13,  5,  6,  6,  7, 11,  4,  6,  4,  5,  //  !"#$%&'()*+,-./
+    10, 10, 10, 10, 10, 10, 10, 10, 10, 10,  4,  4, 11, 11, 11, 11,  // 0123456789:;<=>?
+    18, 13, 13, 13, 13, 12, 11, 14, 13,  6, 10, 13, 11, 16, 14, 14,  // @ABCDEFGHIJKLMNO
+    12, 14, 13, 12, 12, 13, 12, 17, 12, 12, 11,  6,  5,  6, 11, 10,  // PQRSTUVWXYZ[\]^_
+     5, 10, 11, 10, 11, 10,  6, 11, 11,  5,  5, 10,  5, 16, 11, 11,  // `abcdefghijklmno
+    11, 11,  7, 10,  6, 11, 10, 14, 10, 10,  9,  7,  5,  7,  9       // pqrstuvwxyz{|}~
+};
+
 static inline uint8_t fsans9Adv(char c) {
     uint8_t u = (uint8_t)c;
     return (u >= 32 && u <= 126) ? FSANS9_ADV[u - 32] : 8;
+}
+
+static inline uint8_t fsansBold9Adv(char c) {
+    uint8_t u = (uint8_t)c;
+    return (u >= 32 && u <= 126) ? FSANSBOLD9_ADV[u - 32] : 9;
 }
 
 // Pixel width of a null-terminated string in FreeSans9pt7b
@@ -22,6 +37,27 @@ static inline int fsans9Width(const char* s) {
     int w = 0;
     while (*s) w += fsans9Adv(*s++);
     return w;
+}
+
+// Pixel width of a null-terminated string in FreeSansBold9pt7b
+static inline int fsansBold9Width(const char* s) {
+    int w = 0;
+    while (*s) w += fsansBold9Adv(*s++);
+    return w;
+}
+
+// Truncate src into dst (≥maxLen+1 bytes) so bold width ≤ maxPx.
+// Appends ".." when truncated. dst and src may alias.
+static inline void fsansBold9Trunc(char* dst, const char* src, int maxLen, int maxPx) {
+    strncpy(dst, src, maxLen); dst[maxLen] = '\0';
+    if (fsansBold9Width(dst) <= maxPx) return;
+    int len = (int)strlen(dst);
+    while (len > 4 && fsansBold9Width(dst) > maxPx) {
+        len--;                    // shorten by one character
+        dst[len - 2] = '.';       // place ".." just before new end
+        dst[len - 1] = '.';
+        dst[len]     = '\0';
+    }
 }
 
 // Split txt into two lines both fitting within budgetPx.
