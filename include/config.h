@@ -116,3 +116,5 @@
 // Advances every render frame (SCROLL_FRAME_MS=0 means step every tick call)
 // Starts at ±LINE_H/2 (9px) and halves each frame → clean 5-frame ease-out
 #define SCROLL_FRAME_MS     0    // step every render frame (~23ms on RP2040)
+
+#define MAX_MENU_ITEMS      200  // max items in any list/menu

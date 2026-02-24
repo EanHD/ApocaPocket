@@ -211,86 +211,166 @@ void waitAny() {
 // ─────────────────────────────────────────────────────────────
 
 // ─────────────────────────────────────────────────────────────
-//  SUBFOLDER GRID
-//  2-column tile grid for subfolder selection (replaces flat list)
-//  Returns: 0..subCount-1 = selected subfolder, -1 = back
+//  SPLIT BROWSE  (replaces subfolderGrid + entry list menu)
+//  Left pane: subfolder list  |  Right pane: entries for selected subfolder
+//  LEFT = back/deepen left, RIGHT = move into entries, CENTER = open entry
+//  Returns: gIndex ID of selected entry, or -1 for back
 // ─────────────────────────────────────────────────────────────
-int subfolderGrid(const char* catName, const char** subNames,
-                   const int* subCounts, uint16_t catColor, int subCount) {
-    static const int16_t COLS   = 2;
-    static const int16_t TILE_W = (CW - 1) / COLS;  // 119
-    static const int16_t COL1_X = TILE_W + 1;        // 120
-    const int16_t AVAIL  = BOT_Y - TOP_Y;             // 228
-    const int     rows   = (subCount + COLS - 1) / COLS;
-    // Shrink tile height if many rows, cap at 56px
-    const int16_t tileH  = (rows > 0) ? (int16_t)(min(56, AVAIL / rows)) : 56;
 
-    auto drawTile = [&](int idx, bool selected) {
-        int r = idx / COLS;
-        int c = idx % COLS;
-        int16_t tx = (c == 0) ? CX : COL1_X;
-        int16_t ty = TOP_Y + r * tileH;
-        if (idx >= subCount) {
-            // Empty slot — fill with background so stale pixels don't show
-            screen.fillArea(tx, ty, TILE_W, tileH, COL_BG);
-            return;
-        }
-        char sub[20];
-        snprintf(sub, sizeof(sub), "%d entries", subCounts[idx]);
-        // Reuse homeGrid tile helper: rounded bg, accent bar, label+subtitle
-        uint16_t bg  = selected ? COL_SEL : COL_HDR;
-        uint16_t fg  = selected ? COL_ACCENT : COL_PRI;
-        uint16_t sfg = selected ? COL_SEC    : COL_TER;
-        screen.fillRoundRect(tx, ty, TILE_W, tileH, 6, bg);
-        screen.fillArea(tx, ty + 5, 3, tileH - 10, catColor);
-        int16_t textX = tx + 8;
-        int16_t midY  = ty + tileH / 2 - 12;
-        screen.textBold(subNames[idx], textX, midY, fg);
-        screen.text(sub, textX, midY + 16, sfg);
-        // 1px vertical gap between columns
-        if (c == 0)
-            screen.fillArea(TILE_W, ty, 1, tileH, COL_BG);
+// Layout for the split-pane
+#define SB_LEFT_W    78    // left pane width (px)
+#define SB_GAP        2    // 1-px divider
+#define SB_RIGHT_X   (SB_LEFT_W + SB_GAP)
+#define SB_RIGHT_W   (CW - SB_RIGHT_X)    // 160px
+#define SB_L_ROW_H   34    // left pane row height (up to 6 subfolders)
+#define SB_R_ROW_H   22    // right pane row height (~10 entries visible)
+#define SB_R_VIS     ((BOT_Y - TOP_Y) / SB_R_ROW_H)  // ~10
+
+int splitBrowse(int catIdx, const char* catName, uint16_t catColor) {
+    // Load subfolders
+    uint8_t subs[16];
+    uint8_t subCount = 0;
+    gIndex.getSubfolders((uint8_t)catIdx, subs, subCount, 16);
+    if (subCount == 0) return -1;
+
+    // Build subfolder names
+    static char subNameBuf[16][48];
+    static const char* subNamePtrs[16];
+    static int subEntryCounts[16];
+    for (int i = 0; i < subCount; i++) {
+        uint16_t tmp[4]; uint16_t cnt = 0;
+        gIndex.getBySubfolder((uint8_t)catIdx, subs[i], tmp, cnt, 4);
+        subEntryCounts[i] = (int)cnt;
+        const char* sn = subfolderName(subs[i]);
+        snprintf(subNameBuf[i], 48, "%s", sn ? sn : "Folder");
+        subNamePtrs[i] = subNameBuf[i];
+    }
+
+    // Entry data for currently selected subfolder
+    static uint16_t entIdx[MAX_MENU_ITEMS];
+    static uint16_t entCount;
+    auto loadSub = [&](int si) {
+        gIndex.getBySubfolder((uint8_t)catIdx, subs[si], entIdx, entCount, MAX_MENU_ITEMS);
     };
 
-    int sel = 0, prevSel = -1;
+    int subSel  = 0;   // focused subfolder
+    int entSel  = 0;   // focused entry
+    int entOff  = 0;   // scroll offset in entry pane
+    bool right  = false; // focus in right pane
+    bool dirty  = true;
+
+    loadSub(0);
+
+    // Draw left pane
+    auto drawLeft = [&]() {
+        screen.fillArea(CX, TOP_Y, SB_LEFT_W, BOT_Y - TOP_Y, COL_BG);
+        for (int i = 0; i < subCount; i++) {
+            int16_t ty = TOP_Y + i * SB_L_ROW_H;
+            bool sel = (i == subSel);
+            bool active = sel && !right;
+            uint16_t bg = active ? COL_SEL : (sel ? 0x18E3 : COL_BG);  // selected-active, selected-dim, plain
+            screen.fillRoundRect(1, ty + 1, SB_LEFT_W - 2, SB_L_ROW_H - 2, 4, bg);
+            // Accent bar
+            uint16_t ac = active ? catColor : (sel ? catColor : COL_TER);
+            screen.fillArea(1, ty + 4, 3, SB_L_ROW_H - 8, ac);
+            // Label — truncated to left pane width
+            uint16_t fg = active ? COL_ACCENT : (sel ? COL_PRI : COL_SEC);
+            screen.text(subNamePtrs[i], 8, ty + SB_L_ROW_H / 2 - 5, fg);
+            // Entry count badge in bottom-right of row
+            char cntBuf[6];
+            snprintf(cntBuf, sizeof(cntBuf), "%d", subEntryCounts[i]);
+            screen.text(cntBuf, SB_LEFT_W - 18, ty + SB_L_ROW_H - 9, sel ? COL_SEC : COL_TER);
+        }
+        // Divider line
+        screen.fillArea(SB_LEFT_W, TOP_Y, 1, BOT_Y - TOP_Y, COL_TER);
+    };
+
+    // Draw right pane
+    auto drawRight = [&]() {
+        screen.fillArea(SB_RIGHT_X, TOP_Y, SB_RIGHT_W, BOT_Y - TOP_Y, COL_BG);
+        int vis = min((int)SB_R_VIS, (int)entCount);
+        if (entCount == 0) {
+            screen.text("No entries", SB_RIGHT_X + 8, TOP_Y + 20, COL_TER);
+            return;
+        }
+        for (int i = 0; i < vis; i++) {
+            int ii = i + entOff;
+            if (ii >= (int)entCount) break;
+            int16_t ty = TOP_Y + i * SB_R_ROW_H;
+            bool sel = (ii == entSel);
+            bool active = sel && right;
+            uint16_t bg = active ? COL_SEL : COL_BG;
+            screen.fillArea(SB_RIGHT_X, ty, SB_RIGHT_W, SB_R_ROW_H, bg);
+            // Thin accent bar on selected entry
+            if (sel) screen.fillArea(SB_RIGHT_X, ty + 2, 2, SB_R_ROW_H - 4, catColor);
+            uint16_t fg = active ? COL_ACCENT : (sel ? COL_PRI : COL_SEC);
+            const char* t = gIndex.title(entIdx[ii]);
+            screen.text(t, SB_RIGHT_X + 6, ty + SB_R_ROW_H / 2 - 5, fg);
+        }
+        // Scroll hint if needed
+        if ((int)entCount > SB_R_VIS) {
+            char hint[16];
+            snprintf(hint, sizeof(hint), "%d/%d", entSel + 1, (int)entCount);
+            screen.text(hint, SB_RIGHT_X + SB_RIGHT_W - 32, BOT_Y - 10, COL_TER);
+        }
+    };
+
     while (true) {
-        bool full = (prevSel < 0);
-        if (full) {
+        if (dirty) {
             screen.begin();
             screen.header(catName);
+            // Accent bar on header left edge to show category
+            screen.fillArea(CX, CY, 3, HDR_H, catColor);
             screen.clearContent();
-            for (int i = 0; i < rows * COLS; i++) drawTile(i, i == sel);
-        } else if (prevSel != sel) {
-            drawTile(prevSel, false);
-            drawTile(sel, true);
+            drawLeft();
+            drawRight();
+            screen.statusBar(subNamePtrs[subSel]);
+            dirty = false;
         }
-        char pos[12];
-        snprintf(pos, sizeof(pos), "%d/%d", sel + 1, subCount);
-        screen.statusBar(pos);
-        prevSel = sel;
 
         poll();
-        if (gNeedsRedraw) { prevSel = -1; gNeedsRedraw = false; continue; }
+        if (gNeedsRedraw) { dirty = true; gNeedsRedraw = false; continue; }
         if (gEmergency || gGoHome) return -1;
         if (btnBk.held()) { gGoHome = true; return -1; }
-        if (btnBk.tapped()) return -1;
-        if (btnOk.tapped()) return sel;
 
-        if (btnUp.tapped() || btnUp.repeating()) {
-            if (sel >= COLS) sel -= COLS;
-        }
-        if (btnDn.tapped() || btnDn.repeating()) {
-            int ns = sel + COLS;
-            if (ns < subCount) sel = ns;
-        }
-        if (btnRt.tapped()) {
-            // RIGHT moves to right column (if valid)
-            int ns = (sel % COLS == 0) ? sel + 1 : sel - 1;
-            if (ns >= 0 && ns < subCount) sel = ns;
+        if (!right) {
+            // LEFT pane focus
+            if (btnBk.tapped()) return -1;  // back to homeGrid
+            if (btnRt.tapped() || btnOk.tapped()) {
+                if (entCount > 0) { right = true; dirty = true; }
+                continue;
+            }
+            if (btnUp.tapped() || btnUp.repeating()) {
+                if (subSel > 0) { subSel--; loadSub(subSel); entSel = 0; entOff = 0; dirty = true; }
+            }
+            if (btnDn.tapped() || btnDn.repeating()) {
+                if (subSel < subCount - 1) { subSel++; loadSub(subSel); entSel = 0; entOff = 0; dirty = true; }
+            }
+        } else {
+            // RIGHT pane focus
+            if (btnBk.tapped()) { right = false; dirty = true; continue; }
+            if (btnOk.tapped()) {
+                if (entCount > 0) return (int)entIdx[entSel];
+            }
+            if (btnUp.tapped() || btnUp.repeating()) {
+                if (entSel > 0) {
+                    entSel--;
+                    if (entSel < entOff) entOff = entSel;
+                    dirty = true;
+                }
+            }
+            if (btnDn.tapped() || btnDn.repeating()) {
+                if (entSel < (int)entCount - 1) {
+                    entSel++;
+                    if (entSel >= entOff + SB_R_VIS) entOff = entSel - SB_R_VIS + 1;
+                    dirty = true;
+                }
+            }
+            // LEFT in right pane = back to left pane
+            if (btnBk.tapped()) { right = false; dirty = true; }
         }
     }
 }
-
 
 // Grid layout constants
 #define HG_EMRG_Y    TOP_Y            // 30
