@@ -2,6 +2,7 @@
 #include "input.h"
 #include "power.h"
 #include "display.h"
+#include "font_metrics.h"
 #include "sdcard.h"
 #include "diagram.h"
 #include "cards.h"
@@ -9,6 +10,7 @@
 
 bool gGoHome = false;
 bool gEmergency = false;
+bool gGoBookmarks = false;
 bool gNeedsRedraw = false;
 
 // Smooth scroll animation state (global, not currently used)
@@ -152,6 +154,9 @@ void poll() {
     if (emergencyCombo()) {
         gEmergency = true;
     }
+    if (bookmarkCombo()) {
+        gGoBookmarks = true;
+    }
 
     // Any button activity resets power timer
     if (btnUp.tapped() || btnUp.held() || btnDn.tapped() || btnDn.held() ||
@@ -188,513 +193,163 @@ void waitAny() {
     }
 }
 
-// ─────────────────────────────────────────────────────────────
-//  HOME GRID
-//  Spatial 2-column grid replacing the flat category list.
-//  Layout (content area y=30..257, 228px):
-//    y=30..65   Emergency tile   (36px, full width)
-//    y=68..223  3×2 category grid (52px/tile, 119px/col, 1px gap)
-//    y=226..257 Footer           (32px: Search | Bookmarks)
-//
-//  Row/col addressing:
-//    row=0       → Emergency (col ignored)
-//    row=1..3    → Grid (col=0 or 1)
-//    row=4       → Footer (col=0=Search, col=1=Bookmarks)
-//
-//  Returns:
-//    0..numCats-1  → category selected
-//    numCats+0     → Search
-//    numCats+1     → Bookmarks
-//    numCats+2     → History
-//    -2            → Emergency
-//    -1            → (unused at home; BACK held = nothing)
-// ─────────────────────────────────────────────────────────────
 
 // ─────────────────────────────────────────────────────────────
-//  SPLIT BROWSE  (replaces subfolderGrid + entry list menu)
-//  Left pane: subfolder list  |  Right pane: entries for selected subfolder
-//  LEFT = back/deepen left, RIGHT = move into entries, CENTER = open entry
-//  Returns: gIndex ID of selected entry, or -1 for back
+//  HOME LIST
+//  Fluid single-column menu replacing the home grid.
+//  Returns: 0..numCats-1=category, numCats=Search,
+//           numCats+1=Bookmarks, numCats+2=History,
+//           -2=Emergency, -1=back/error
 // ─────────────────────────────────────────────────────────────
+int homeList(const char** catNames, const uint16_t* /*catColors*/,
+             const int* /*catCounts*/, int numCats, int bmCount) {
+    static const char* items[12];
+    static uint16_t    colors[12];
+    static char histBuf[20];
+    static char bmBuf[22];
 
-// Layout for the split-pane
-#define SB_LEFT_W    78    // left pane width (px)
-#define SB_GAP        2    // 1-px divider
-#define SB_RIGHT_X   (SB_LEFT_W + SB_GAP)
-#define SB_RIGHT_W   (CW - SB_RIGHT_X)    // 160px
-#define SB_L_ROW_H   34    // left pane row height (up to 6 subfolders)
-#define SB_R_ROW_H   22    // right pane row height (~10 entries visible)
-#define SB_R_VIS     ((BOT_Y - TOP_Y) / SB_R_ROW_H)  // ~10
+    items[0] = "Emergency";  colors[0] = COL_WARN;
+    for (int i = 0; i < numCats; i++) {
+        items[1 + i] = catNames[i];
+        colors[1 + i] = 0;
+    }
+    int n = 1 + numCats;
 
-int splitBrowse(int catIdx, const char* catName, uint16_t catColor) {
-    // Load subfolders
-    uint8_t subs[16];
-    uint8_t subCount = 0;
+    items[n] = "Search";   colors[n] = 0;  n++;
+
+    if (gHistoryCount > 0) snprintf(histBuf, sizeof(histBuf), "History (%d)", gHistoryCount);
+    else                   snprintf(histBuf, sizeof(histBuf), "History");
+    items[n] = histBuf;    colors[n] = 0;  n++;
+
+    if (bmCount > 0) snprintf(bmBuf, sizeof(bmBuf), "Bookmarks (%d)", bmCount);
+    else             snprintf(bmBuf, sizeof(bmBuf), "Bookmarks");
+    items[n] = bmBuf;      colors[n] = 0;  n++;
+
+    int sel = menu("ApocaPocket", items, n, colors, /*showBack=*/false);
+    if (gEmergency || gGoHome || sel < 0) return -1;
+
+    if (sel == 0)          return -2;            // Emergency
+    if (sel <= numCats)    return sel - 1;        // category 0..numCats-1
+    sel -= (1 + numCats);                         // now: 0=Search,1=History,2=Bookmarks
+    if (sel == 0) return numCats;                 // Search
+    if (sel == 1) return numCats + 2;             // History
+    if (sel == 2) return numCats + 1;             // Bookmarks
+    return -1;
+}
+
+// ─────────────────────────────────────────────────────────────
+//  BROWSE  (replaces splitBrowse)
+//  Two sequential menu() calls: subfolder list then entry list.
+//    LEFT in subfolder menu  → si<0 → return -1 (back to homeList)
+//    LEFT in entry menu      → ei<0 → continue (back to subfolder list)
+//    OK in entry menu        → return entry gIndex ID
+// ─────────────────────────────────────────────────────────────
+int browse(int catIdx, const char* catName) {
+    uint8_t subs[16]; uint8_t subCount = 0;
     gIndex.getSubfolders((uint8_t)catIdx, subs, subCount, 16);
     if (subCount == 0) return -1;
 
-    // Build subfolder names
     static char subNameBuf[16][48];
-    static const char* subNamePtrs[16];
-    static int subEntryCounts[16];
-    for (int i = 0; i < subCount; i++) {
-        uint16_t tmp[4]; uint16_t cnt = 0;
-        gIndex.getBySubfolder((uint8_t)catIdx, subs[i], tmp, cnt, 4);
-        subEntryCounts[i] = (int)cnt;
+    static const char* subPtrs[16];
+    for (int i = 0; i < (int)subCount; i++) {
         const char* sn = subfolderName(subs[i]);
         snprintf(subNameBuf[i], 48, "%s", sn ? sn : "Folder");
-        subNamePtrs[i] = subNameBuf[i];
+        subPtrs[i] = subNameBuf[i];
     }
 
-    // Entry data for currently selected subfolder
     static uint16_t entIdx[MAX_MENU_ITEMS];
-    static uint16_t entCount;
-    auto loadSub = [&](int si) {
+    static const char* entPtrs[MAX_MENU_ITEMS];
+
+    while (true) {
+        int si = menu(catName, subPtrs, (int)subCount);
+        if (si < 0 || gGoHome || gEmergency || gGoBookmarks) return -1;
+
+        uint16_t entCount = 0;
         gIndex.getBySubfolder((uint8_t)catIdx, subs[si], entIdx, entCount, MAX_MENU_ITEMS);
-    };
+        if (entCount == 0) continue;
 
-    int subSel  = 0;   // focused subfolder
-    int entSel  = 0;   // focused entry
-    int entOff  = 0;   // scroll offset in entry pane
-    bool right  = false; // focus in right pane
-    bool dirty  = true;
+        for (int i = 0; i < (int)entCount; i++)
+            entPtrs[i] = gIndex.title(entIdx[i]);
 
-    loadSub(0);
-
-    // Draw left pane
-    auto drawLeft = [&]() {
-        screen.fillArea(CX, TOP_Y, SB_LEFT_W, BOT_Y - TOP_Y, COL_BG);
-        for (int i = 0; i < subCount; i++) {
-            int16_t ty = TOP_Y + i * SB_L_ROW_H;
-            bool sel = (i == subSel);
-            bool active = sel && !right;
-            uint16_t bg = active ? COL_SEL : (sel ? 0x18E3 : COL_BG);  // selected-active, selected-dim, plain
-            screen.fillRoundRect(1, ty + 1, SB_LEFT_W - 2, SB_L_ROW_H - 2, 4, bg);
-            // Accent bar
-            uint16_t ac = active ? catColor : (sel ? catColor : COL_TER);
-            screen.fillArea(1, ty + 4, 3, SB_L_ROW_H - 8, ac);
-            // Label — truncated to left pane width
-            uint16_t fg = active ? COL_ACCENT : (sel ? COL_PRI : COL_SEC);
-            screen.text(subNamePtrs[i], 8, ty + SB_L_ROW_H / 2 - 5, fg);
-            // Entry count badge in bottom-right of row
-            char cntBuf[6];
-            snprintf(cntBuf, sizeof(cntBuf), "%d", subEntryCounts[i]);
-            screen.text(cntBuf, SB_LEFT_W - 18, ty + SB_L_ROW_H - 9, sel ? COL_SEC : COL_TER);
-        }
-        // Divider line
-        screen.fillArea(SB_LEFT_W, TOP_Y, 1, BOT_Y - TOP_Y, COL_TER);
-    };
-
-    // Draw right pane
-    auto drawRight = [&]() {
-        screen.fillArea(SB_RIGHT_X, TOP_Y, SB_RIGHT_W, BOT_Y - TOP_Y, COL_BG);
-        int vis = min((int)SB_R_VIS, (int)entCount);
-        if (entCount == 0) {
-            screen.text("No entries", SB_RIGHT_X + 8, TOP_Y + 20, COL_TER);
-            return;
-        }
-        for (int i = 0; i < vis; i++) {
-            int ii = i + entOff;
-            if (ii >= (int)entCount) break;
-            int16_t ty = TOP_Y + i * SB_R_ROW_H;
-            bool sel = (ii == entSel);
-            bool active = sel && right;
-            uint16_t bg = active ? COL_SEL : COL_BG;
-            screen.fillArea(SB_RIGHT_X, ty, SB_RIGHT_W, SB_R_ROW_H, bg);
-            // Thin accent bar on selected entry
-            if (sel) screen.fillArea(SB_RIGHT_X, ty + 2, 2, SB_R_ROW_H - 4, catColor);
-            uint16_t fg = active ? COL_ACCENT : (sel ? COL_PRI : COL_SEC);
-            const char* t = gIndex.title(entIdx[ii]);
-            screen.text(t, SB_RIGHT_X + 6, ty + SB_R_ROW_H / 2 - 5, fg);
-        }
-        // Scroll hint if needed
-        if ((int)entCount > SB_R_VIS) {
-            char hint[16];
-            snprintf(hint, sizeof(hint), "%d/%d", entSel + 1, (int)entCount);
-            screen.text(hint, SB_RIGHT_X + SB_RIGHT_W - 32, BOT_Y - 10, COL_TER);
-        }
-    };
-
-    while (true) {
-        if (dirty) {
-            screen.begin();
-            screen.header(catName);
-            // Accent bar on header left edge to show category
-            screen.fillArea(CX, CY, 3, HDR_H, catColor);
-            screen.clearContent();
-            drawLeft();
-            drawRight();
-            screen.statusBar(subNamePtrs[subSel]);
-            dirty = false;
-        }
-
-        poll();
-        if (gNeedsRedraw) { dirty = true; gNeedsRedraw = false; continue; }
-        if (gEmergency || gGoHome) return -1;
-        if (btnBk.held()) { gGoHome = true; return -1; }
-
-        if (!right) {
-            // LEFT pane focus
-            if (btnBk.tapped()) return -1;  // back to homeGrid
-            if (btnRt.tapped() || btnOk.tapped()) {
-                if (entCount > 0) { right = true; dirty = true; }
-                continue;
-            }
-            if (btnUp.tapped() || btnUp.repeating()) {
-                if (subSel > 0) { subSel--; loadSub(subSel); entSel = 0; entOff = 0; dirty = true; }
-            }
-            if (btnDn.tapped() || btnDn.repeating()) {
-                if (subSel < subCount - 1) { subSel++; loadSub(subSel); entSel = 0; entOff = 0; dirty = true; }
-            }
-        } else {
-            // RIGHT pane focus
-            if (btnBk.tapped()) { right = false; dirty = true; continue; }
-            if (btnOk.tapped()) {
-                if (entCount > 0) return (int)entIdx[entSel];
-            }
-            if (btnUp.tapped() || btnUp.repeating()) {
-                if (entSel > 0) {
-                    entSel--;
-                    if (entSel < entOff) entOff = entSel;
-                    dirty = true;
-                }
-            }
-            if (btnDn.tapped() || btnDn.repeating()) {
-                if (entSel < (int)entCount - 1) {
-                    entSel++;
-                    if (entSel >= entOff + SB_R_VIS) entOff = entSel - SB_R_VIS + 1;
-                    dirty = true;
-                }
-            }
-            // LEFT in right pane = back to left pane
-            if (btnBk.tapped()) { right = false; dirty = true; }
-        }
-    }
-}
-
-// Grid layout constants
-#define HG_EMRG_Y    TOP_Y            // 30
-#define HG_EMRG_H    36
-#define HG_GAP       2
-#define HG_TILE_H    52
-#define HG_ROWS      3
-#define HG_COLS      2
-#define HG_GRID_Y    (HG_EMRG_Y + HG_EMRG_H + HG_GAP)   // 68
-#define HG_FOOT_Y    (HG_GRID_Y + HG_ROWS * HG_TILE_H + HG_GAP) // 226
-#define HG_FOOT_H    (BOT_Y - HG_FOOT_Y)                  // 32
-#define HG_TILE_W    ((CW - 1) / HG_COLS)                 // 119
-#define HG_COL1_X    (HG_TILE_W + 1)                      // 120
-
-// Short display labels for each category (match CAT_NAMES order in main.cpp)
-static const char* const HG_CAT_SHORT[] = {
-    "Immediate", "Food & Bio", "Materials", "Tools", "Civilization"
-};
-
-// (row 1-3, col 0-1) → category index; -1 = utility slot
-static const int HG_GRID[HG_ROWS][HG_COLS] = {
-    { 0, 1 },   // Immediate Survival | Food & Bio
-    { 2, 3 },   // Materials          | Tools & Rebuild
-    { 4, -1 },  // Civilization       | History (utility)
-};
-
-// Draw a single grid tile (not the emergency or footer tiles).
-// tileX,tileY: top-left corner in screen space.
-static void _hgDrawTile(int16_t tileX, int16_t tileY, int16_t tileW, int16_t tileH,
-                         const char* label, const char* sub,
-                         uint16_t accentColor, bool sel) {
-    uint16_t bg   = sel ? COL_SEL : COL_HDR;
-    uint16_t fg   = sel ? COL_ACCENT : COL_PRI;
-    uint16_t sfg  = sel ? COL_SEC    : COL_TER;
-
-    screen.fillRoundRect(tileX, tileY, tileW, tileH, 4, bg);
-    // Accent bar inset from top/bottom so it stays inside the rounded corners
-    screen.fillArea(tileX, tileY + 4, 3, tileH - 8, accentColor);
-
-    int16_t textX = tileX + 8;
-    int16_t midY  = tileY + tileH / 2 - 12;
-    screen.textBold(label, textX, midY, fg);
-    if (sub && sub[0])
-        screen.text(sub, textX, midY + 16, sfg);
-}
-
-// Draw the full emergency tile.
-static void _hgDrawEmrg(bool sel) {
-    uint16_t bg = sel ? COL_WARN : 0x6000;  // bright red vs dark red
-    screen.fillRoundRect(CX, HG_EMRG_Y, CW, HG_EMRG_H, 4, bg);
-    screen.centerText("EMERGENCY", HG_EMRG_Y + HG_EMRG_H / 2 - 7, COL_PRI);
-}
-
-// Draw one footer tile (Search or Bookmarks).
-static void _hgDrawFoot(int col, const char* label, bool sel) {
-    int16_t x = (col == 0) ? CX : HG_COL1_X;
-    uint16_t bg = sel ? COL_SEL : COL_HDR;
-    uint16_t fg = sel ? COL_ACCENT : COL_SEC;
-    screen.fillRoundRect(x, HG_FOOT_Y, HG_TILE_W, HG_FOOT_H, 4, bg);
-    screen.text(label, x + 8, HG_FOOT_Y + HG_FOOT_H / 2 - 7, fg);
-}
-
-// Draw the entire home grid from scratch.
-static void _hgDrawAll(int selRow, int selCol,
-                        const uint16_t* catColors,
-                        const int* catCounts, int numCats,
-                        int bmCount) {
-    // Status bar (battery)
-    screen.statusBar();
-
-    // Header
-    screen.begin();
-    screen.header("ApocaPocket", false);
-
-    // Clear content area so rounded-rect tile corners don't expose splash/stale pixels
-    screen.clearContent();
-
-    // 1px gap line between header and emergency
-    screen.fillArea(CX, HG_EMRG_Y - 2, CW, 2, COL_BG);
-
-    // Emergency tile
-    _hgDrawEmrg(selRow == 0);
-
-    // Gap line
-    screen.fillArea(CX, HG_EMRG_Y + HG_EMRG_H, CW, HG_GAP, COL_BG);
-
-    // Grid tiles
-    for (int r = 0; r < HG_ROWS; r++) {
-        for (int c = 0; c < HG_COLS; c++) {
-            int16_t tx = (c == 0) ? CX : HG_COL1_X;
-            int16_t ty = HG_GRID_Y + r * HG_TILE_H;
-            int catIdx = HG_GRID[r][c];
-            bool sel   = (selRow == r + 1 && selCol == c);
-
-            if (catIdx >= 0 && catIdx < numCats) {
-                char sub[16];
-                snprintf(sub, sizeof(sub), "%d entries", catCounts[catIdx]);
-                _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
-                            HG_CAT_SHORT[catIdx], sub,
-                            catColors[catIdx], sel);
-            } else {
-                // History utility tile — show count + most recent entry name
-                char histLabel[16];
-                if (gHistoryCount > 0)
-                    snprintf(histLabel, sizeof(histLabel), "History (%d)", gHistoryCount);
-                else
-                    snprintf(histLabel, sizeof(histLabel), "History");
-                const char* histSub = (gHistoryCount > 0) ? gHistory[0].title : "No entries yet";
-                _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
-                            histLabel, histSub, COL_TER, sel);
-            }
-
-            // 1px vertical gap between columns
-            if (c == 0)
-                screen.fillArea(HG_TILE_W, ty, 1, HG_TILE_H, COL_BG);
-        }
-        // 1px horizontal gap between tile rows (paint over bottom edge of tile)
-        // (tiles are flush — no inter-row gap needed at 52px, just looks clean)
-    }
-
-    // Gap before footer
-    screen.fillArea(CX, HG_FOOT_Y - HG_GAP, CW, HG_GAP, COL_BG);
-
-    // Footer
-    char bmLabel[20];
-    if (bmCount > 0)
-        snprintf(bmLabel, sizeof(bmLabel), "Bookmarks (%d)", bmCount);
-    else
-        snprintf(bmLabel, sizeof(bmLabel), "Bookmarks");
-    _hgDrawFoot(0, "Search",  selRow == 4 && selCol == 0);
-    _hgDrawFoot(1, bmLabel,   selRow == 4 && selCol == 1);
-    // 1px vertical gap between footer cols
-    screen.fillArea(HG_TILE_W, HG_FOOT_Y, 1, HG_FOOT_H, COL_BG);
-}
-
-int homeGrid(const char** /*catNames*/, const uint16_t* catColors,
-             const int* catCounts, int numCats, int bmCount) {
-    int row = 1, col = 0;   // start selection on first category
-    int prevRow = -1, prevCol = -1;
-
-    // Clamp: if grid slot (row,col) is the utility (-1) slot, skip to valid
-    auto validSlot = [&]() {
-        if (row >= 1 && row <= HG_ROWS) {
-            if (HG_GRID[row - 1][col] == -1 && col == 1) {
-                // utility slot: treat as valid (History)
-            }
-        }
-    };
-    (void)validSlot;
-
-    while (true) {
-        // Full redraw on first iteration or after sub-screen returns
-        bool fullRedraw = (prevRow < 0);
-        if (fullRedraw || prevRow != row || prevCol != col) {
-            if (fullRedraw) {
-                _hgDrawAll(row, col, catColors, catCounts, numCats, bmCount);
-            } else {
-                // Partial: redraw only old tile and new tile
-                // Redraw old selection (deselected style)
-                auto redrawTile = [&](int r, int c) {
-                    if (r == 0) {
-                        _hgDrawEmrg(false);
-                    } else if (r >= 1 && r <= HG_ROWS) {
-                        int16_t tx = (c == 0) ? CX : HG_COL1_X;
-                        int16_t ty = HG_GRID_Y + (r - 1) * HG_TILE_H;
-                        int catIdx = HG_GRID[r - 1][c];
-                        bool sel   = (r == row && c == col);
-                        if (catIdx >= 0 && catIdx < numCats) {
-                            char sub[16];
-                            snprintf(sub, sizeof(sub), "%d entries", catCounts[catIdx]);
-                            _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
-                                        HG_CAT_SHORT[catIdx], sub,
-                                        catColors[catIdx], sel);
-                        } else {
-                            const char* histSub = gHistoryCount > 0 ? gHistory[0].title : "";
-                            _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
-                                        "History", histSub, COL_TER, sel);
-                        }
-                    } else if (r == 4) {
-                        bool selF = (r == row);
-                        char bmLabel[20];
-                        if (bmCount > 0) snprintf(bmLabel, sizeof(bmLabel), "Bookmarks (%d)", bmCount);
-                        else             snprintf(bmLabel, sizeof(bmLabel), "Bookmarks");
-                        if (c == 0) _hgDrawFoot(0, "Search", selF && col == 0);
-                        else        _hgDrawFoot(1, bmLabel,  selF && col == 1);
-                    }
-                };
-                redrawTile(prevRow, prevCol);
-                redrawTile(row, col);
-            }
-            prevRow = row; prevCol = col;
-        }
-
-        // Input
-        poll();
-        if (gNeedsRedraw) { prevRow = -1; gNeedsRedraw = false; continue; }
-        if (gEmergency)   return -2;
-
-        if (btnOk.tapped()) {
-            if (row == 0) return -2;  // Emergency
-            if (row >= 1 && row <= HG_ROWS) {
-                int catIdx = HG_GRID[row - 1][col];
-                if (catIdx >= 0) return catIdx;
-                return numCats + 2;  // History
-            }
-            if (row == 4) return (col == 0) ? numCats : numCats + 1;
-        }
-
-        if (btnUp.tapped() || btnUp.repeating()) {
-            if      (row == 0) row = 4;
-            else if (row == 4) row = HG_ROWS;
-            else               row--;
-        }
-        if (btnDn.tapped() || btnDn.repeating()) {
-            if      (row == HG_ROWS) row = 4;
-            else if (row == 4)       row = 0;
-            else                     row++;
-        }
-        if (btnRt.tapped()) {
-            if (row != 0) col = 1 - col;  // toggle 0↔1
-        }
-        if (btnBk.tapped()) {
-            if (row != 0) col = 1 - col;  // BACK = left in grid (at root, no exit)
-        }
-        if (btnBk.held()) {
-            // Held back on home screen = nothing (already at root)
-        }
+        int ei = menu(subNameBuf[si], entPtrs, (int)entCount);
+        if (gGoHome || gEmergency || gGoBookmarks) return -1;
+        if (ei < 0) continue;   // LEFT = back to subfolder list
+        return (int)entIdx[ei];
     }
 }
 
 
 void splash() {
-    screen.begin();
-    screen.clearContent();  // non-canvas screen: clear content area explicitly
-    // App name + tagline
-    screen.centerText("ApocaPocket", CY + 46, COL_PRI);
-    screen.centerText("Survival Knowledge", CY + 68, COL_ACCENT);
+    // Screen 1 — identity (2 seconds, no battery, no debug info)
+    screen.fillArea(CX, CY, CW, CH, COL_BG);
+    screen.centerText("APOCAPOCKET", CY + DISP_H / 2 - 16, COL_PRI);
+    screen.centerText("Field Survival System", CY + DISP_H / 2 + 4, COL_SEC);
+    delay(2000);
 
-    // Divider line
-    screen.fillArea(CX + 40, CY + 84, CW - 80, 1, COL_TER);
-
-    // Entry count
+    // Screen 2 — system ready (1.5 seconds, auto-proceeds)
+    screen.fillArea(CX, CY, CW, CH, COL_BG);
+    screen.centerText("System Ready", CY + DISP_H / 2 - 16, COL_PRI);
     char buf[28];
     snprintf(buf, sizeof(buf), "%d entries loaded", gIndex.count());
-    screen.centerText(buf, CY + 96, COL_SEC);
-
-    // Battery
-    int b = screen.getBatteryPct();
-    uint16_t bc = (b > 30) ? COL_OK : (b > 10) ? COL_YELLOW : COL_WARN;
-    snprintf(buf, sizeof(buf), "Battery: %d%%", b);
-    screen.centerText(buf, CY + 118, bc);
-
-    // Bookmarks count
-    if (gBookmarkCount > 0) {
-        snprintf(buf, sizeof(buf), "%d bookmarks", gBookmarkCount);
-        screen.centerText(buf, CY + 140, COL_TER);
-    }
-
-    // Prompt
-    screen.centerText("press any button", CY + 168, COL_TER);
-    waitAny();
+    screen.centerText(buf, CY + DISP_H / 2 + 4, COL_SEC);
+    delay(1500);
+    // Auto-proceed to main menu — no button press required
 }
 
-// -- Menu --
-// Uses GFXcanvas16 for flicker-free rendering:
-//   • First render draws chrome (header) once
-//   • Every render: clear canvas → draw all visible items → pushCanvas() (one SPI burst)
-//   • No full-screen black flash on every keypress
+// ── Menu ──────────────────────────────────────────────────────────────────
+// topStrip handles header (title + fraction + battery) — updated on every render.
+// Canvas handles content area atomically — zero flicker.
 int menu(const char* title, const char** items, int count,
-         uint16_t* badgeColors) {
+         uint16_t* badgeColors, bool showBack) {
     int sel    = 0;
     int offset = 0;
-    int vis    = (count < MENU_VIS) ? count : MENU_VIS;
-    char posBuf[12];
-    int prevSel    = -1;  // -1 triggers chrome draw on first iteration
-    int prevOffset = -1;
+    int vis    = min(count, MENU_VIS);
+    bool dirty = true;
 
     while (true) {
-        // Draw chrome only on very first render (or if returning after a sub-screen)
-        if (prevSel < 0) {
-            screen.begin();
-            screen.header(title);
+        if (dirty) {
+            char frac[8];
+            snprintf(frac, sizeof(frac), "%d/%d", sel + 1, count);
+            screen.topStrip(title, showBack, frac);
+
+            screen.clearCanvas();
+            for (int i = 0; i < vis; i++) {
+                int ii = i + offset;
+                int16_t y = TOP_Y + i * MENU_LINE_H;
+                screen.canvasMenuItem(items[ii], y, ii == sel,
+                                      badgeColors ? badgeColors[ii] : 0);
+            }
+            screen.pushCanvas();
+            if (count > vis) screen.scrollBar(sel, count);
+            dirty = false;
         }
 
-        // Canvas: build all visible items in RAM, then push atomically
-        screen.clearCanvas();
-        for (int i = 0; i < vis; i++) {
-            int ii = i + offset;
-            int16_t y = TOP_Y + 12 + i * MENU_LINE_H;
-            screen.canvasMenuItem(items[ii], y, ii == sel,
-                                  badgeColors ? badgeColors[ii] : 0);
-        }
-        screen.pushCanvas();
+        poll();
+        if (gNeedsRedraw) { dirty = true; gNeedsRedraw = false; continue; }
+        if (gEmergency || gGoHome || gGoBookmarks) return -1;
+        if (btnBk.held()) { gGoHome = true; return -1; }
+        if (btnBk.tapped()) return -1;
 
-        snprintf(posBuf, sizeof(posBuf), "%d/%d", sel + 1, count);
-        screen.statusBar(posBuf);
-        if (count > vis) screen.scrollBar(sel, count);
-
-        prevSel    = sel;
-        prevOffset = offset;
-
-        while (true) {
-            poll();
-            if (gNeedsRedraw) { prevSel = -1; gNeedsRedraw = false; break; }
-            if (gEmergency || gGoHome) return -1;
-
-            if (btnBk.held()) { gGoHome = true; return -1; }
-            if (btnBk.tapped()) return -1;
-
-            if (btnUp.tapped() || btnUp.repeating()) {
-                sel = (sel - 1 + count) % count;
+        if (btnUp.tapped() || btnUp.repeating()) {
+            if (sel > 0) {
+                sel--;
                 if (sel < offset) offset = sel;
-                else if (sel == count - 1)
-                    offset = max(0, count - vis);
-                break;
+            } else {
+                sel = count - 1;
+                offset = max(0, count - vis);
             }
-            if (btnDn.tapped() || btnDn.repeating()) {
-                sel = (sel + 1) % count;
-                if (sel >= offset + vis) offset = sel - vis + 1;
-                else if (sel == 0) offset = 0;
-                break;
-            }
-            if (btnOk.tapped()) return sel;
+            dirty = true;
         }
+        if (btnDn.tapped() || btnDn.repeating()) {
+            if (sel < count - 1) {
+                sel++;
+                if (sel >= offset + vis) offset = sel - vis + 1;
+            } else {
+                sel = 0; offset = 0;
+            }
+            dirty = true;
+        }
+        if (btnOk.tapped()) return sel;
     }
 }
 
@@ -755,6 +410,19 @@ void drawEntryLine(const char* ln, int16_t y_scr) {
     if      (strncmp(ln, "# ",  2) == 0) { color = COL_ACCENT; display = ln + 2; bold = true; }
     else if (strncmp(ln, "## ", 3) == 0) { color = COL_PRI;    display = ln + 3; bold = true; }
     else if (strncmp(ln, "### ",4) == 0) { color = COL_SEC;    display = ln + 4; }
+    else if (strncmp(ln, "> ", 2) == 0) {
+        // Blockquote — check if it's a warning/danger/caution/critical
+        const char* q = ln + 2;
+        bool isWarn = (strncasecmp(q, "warning", 7) == 0 ||
+                       strncasecmp(q, "danger",  6) == 0 ||
+                       strncasecmp(q, "caution", 7) == 0 ||
+                       strncasecmp(q, "critical",8) == 0 ||
+                       q[0] == 0xE2);  // UTF-8 ⚠ starts with 0xE2
+        color   = isWarn ? COL_WARN : COL_SEC;
+        display = q;
+        xOff    = TEXT_PAD_X + 6;
+        bold    = isWarn;
+    }
     else if (strncmp(ln, "**",  2) == 0 && strstr(ln + 2, "**")) {
         // Whole-line **label** — standalone bold/accent heading (e.g. "**Watch for:**")
         color   = COL_ACCENT;
@@ -809,7 +477,33 @@ void drawEntryLine(const char* ln, int16_t y_scr) {
         screen.canvasFillCircle(dotX, dotY, 2, COL_SEC);
     }
 
-    // Draw text — bold for headings, inline-bold capable for body lines
+    // Escalate color to COL_WARN if display text contains WARNING/DANGER/CAUTION keywords
+    // (catches inline patterns like "WARNING: do not..." even in body text)
+    // Note: strcasestr not available on RP2040 bare-metal; use manual case-fold check.
+    auto containsCI = [](const char* haystack, const char* needle) -> bool {
+        int nlen = (int)strlen(needle);
+        int hlen = (int)strlen(haystack);
+        for (int i = 0; i <= hlen - nlen; i++) {
+            bool match = true;
+            for (int j = 0; j < nlen && match; j++) {
+                char hc = haystack[i + j];
+                char nc = needle[j];
+                if (hc >= 'A' && hc <= 'Z') hc += 32;
+                if (hc != nc) match = false;
+            }
+            if (match) return true;
+        }
+        return false;
+    };
+    if (color != COL_WARN) {
+        if (containsCI(display, "warning") || containsCI(display, "danger") ||
+            containsCI(display, "caution") || containsCI(display, "critical")) {
+            color = COL_WARN;
+            bold  = true;
+        }
+    }
+
+    // Draw text — bold for headings/warnings, inline-bold capable for body lines
     if (bold) {
         screen.canvasTextBold(display, xOff, y_scr, color);
     } else {
@@ -838,9 +532,11 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
     // ── Load entry lines ──────────────────────────────────────────────────────
     char (*entryLines)[LINE_LEN] = new char[MAX_LINES][LINE_LEN];
     if (!entryLines) {
-        screen.begin(); screen.clearContent();
-        screen.centerText("Out of memory!", DISP_H / 2 - 10, COL_WARN);
-        screen.centerText("Entry too large",  DISP_H / 2 + 10, COL_SEC);
+        screen.topStrip(title ? title : eid, true, nullptr);
+        screen.clearCanvas();
+        screen.canvasCenterText("Out of memory!",  (TOP_Y + BOT_Y) / 2 - 10, COL_WARN);
+        screen.canvasCenterText("Entry too large", (TOP_Y + BOT_Y) / 2 + 10, COL_SEC);
+        screen.pushCanvas();
         delay(2000);
         return;
     }
@@ -862,9 +558,9 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
     bool diagramAvail = hasDiagram(eid);
 
     // Truncate entry title for header (fits between chevron and counter)
-    char hdr[20];
-    strncpy(hdr, title ? title : eid, 19);
-    hdr[19] = '\0';
+    char hdr[MAX_TITLE + 1];
+    strncpy(hdr, title ? title : eid, MAX_TITLE);
+    hdr[MAX_TITLE] = '\0';
 
     int  cardIdx    = 0;
     int  scroll     = 0;   // scroll offset within current card (lines)
@@ -879,9 +575,11 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
             scroll   = 0;
             prevCard = cardIdx;
 
-            // Chrome: header bar + status bar bg — direct TFT, only on card change
-            screen.begin();
-            screen.cardHeader(hdr, cardIdx + 1, cardCount);
+            // Unified header: title + card fraction + battery — redrawn on every card change
+            char frac[12];
+            if (bookmarked) snprintf(frac, sizeof(frac), "* %d/%d", cardIdx + 1, cardCount);
+            else            snprintf(frac, sizeof(frac), "%d/%d",   cardIdx + 1, cardCount);
+            screen.topStrip(hdr, true, frac);
         }
 
         int bodyStartY = TOP_Y + CARD_HDR_H;
@@ -908,10 +606,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         }
         screen.pushCanvas();
 
-        // Status bar: dot progress + icons
-        screen.statusBarCard(cardIdx + 1, cardCount, bookmarked, diagramAvail);
-
-        // Scroll indicator on scrollable cards
+        // Scroll indicator on scrollable cards (right edge, doesn't overlap canvas)
         if (cur.scrollable && maxScroll > 0)
             screen.scrollBar(scroll, cur.lineCount);
 
@@ -920,7 +615,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
             poll();
 
             if (gNeedsRedraw) { prevCard = -1; gNeedsRedraw = false; break; }
-            if (gEmergency || gGoHome) { delete[] entryLines; return; }
+            if (gEmergency || gGoHome || gGoBookmarks) { delete[] entryLines; return; }
 
             if (btnBk.held())   { gGoHome = true; delete[] entryLines; return; }
             if (btnBk.tapped()) {
@@ -984,9 +679,11 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos) {
     char (*entryLines)[LINE_LEN] = new char[MAX_LINES][LINE_LEN];
     if (!entryLines) {
-        screen.begin(); screen.clearContent();
-        screen.centerText("Out of memory!", DISP_H / 2 - 10, COL_WARN);
-        screen.centerText("Entry too large",  DISP_H / 2 + 10, COL_SEC);
+        screen.topStrip(title ? title : eid, true, nullptr);
+        screen.clearCanvas();
+        screen.canvasCenterText("Out of memory!",  (TOP_Y + BOT_Y) / 2 - 10, COL_WARN);
+        screen.canvasCenterText("Entry too large", (TOP_Y + BOT_Y) / 2 + 10, COL_SEC);
+        screen.pushCanvas();
         delay(2000);
         return;
     }
@@ -1002,29 +699,20 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
     strncpy(hdr, (title && title[0]) ? title : eid, 24);
     hdr[24] = '\0';
 
-    int  prevScroll = -1;  // -1 forces chrome + content draw on first pass
-    char statBuf[12];
+    int  prevScroll = -1;  // -1 forces full redraw on first pass
+    int  pageCount  = (total + LPP - 1) / LPP;
 
     while (true) {
-        // ── Consume gNeedsRedraw (battery warning cleared it) ──
         if (gNeedsRedraw) { prevScroll = -1; gNeedsRedraw = false; }
 
         // ── Render ──
         if (prevScroll < 0 || prevScroll != scroll) {
-            snprintf(statBuf, sizeof(statBuf), "p%d/%d%s%s",
-                     scroll / LPP + 1,
-                     (total + LPP - 1) / LPP,
-                     bookmarked   ? "*"   : "",
-                     diagramAvail ? "[D]" : "");
+            char frac[12];
+            if (bookmarked) snprintf(frac, sizeof(frac), "* %d/%d", scroll / LPP + 1, pageCount);
+            else            snprintf(frac, sizeof(frac), "%d/%d",   scroll / LPP + 1, pageCount);
+            screen.topStrip(hdr, true, frac);
 
-            if (prevScroll < 0) {
-                screen.begin();
-                screen.header(hdr);
-            }
-
-            // Canvas push: clears content, draws lines, pushes atomically
             renderEntryContent(entryLines, total, scroll);
-            screen.statusBar(statBuf);
             screen.scrollBar(scroll, total);
             prevScroll = scroll;
         }
@@ -1034,7 +722,7 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
             poll();
             if (gNeedsRedraw) break;
 
-            if (gEmergency || gGoHome) {
+            if (gEmergency || gGoHome || gGoBookmarks) {
                 if (scrollPos) *scrollPos = scroll;
                 delete[] entryLines; return;
             }
@@ -1090,19 +778,19 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                 } else if (diagramAvail && ctx == idxDiagram) {
                     showDiagram(eid, title);
                 } else if (ctx == idxInfo) {
-                    screen.begin();
-                    screen.clearContent();
-                    screen.header("Entry Info", false);
+                    screen.topStrip("Entry Info", true, nullptr);
+                    screen.clearCanvas();
                     char infoBuf[32];
                     snprintf(infoBuf, sizeof(infoBuf), "ID: %.26s", eid);
-                    screen.text(infoBuf, CX + 8, TOP_Y + 10, COL_SEC);
+                    screen.canvasText(infoBuf, CX + TEXT_PAD_X, TOP_Y + 10, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Lines: %d", total);
-                    screen.text(infoBuf, CX + 8, TOP_Y + 32, COL_SEC);
+                    screen.canvasText(infoBuf, CX + TEXT_PAD_X, TOP_Y + 32, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Diagram: %s", diagramAvail ? "Yes" : "No");
-                    screen.text(infoBuf, CX + 8, TOP_Y + 54, COL_SEC);
+                    screen.canvasText(infoBuf, CX + TEXT_PAD_X, TOP_Y + 54, COL_SEC);
                     snprintf(infoBuf, sizeof(infoBuf), "Bookmarked: %s", bookmarked ? "Yes" : "No");
-                    screen.text(infoBuf, CX + 8, TOP_Y + 76, COL_SEC);
-                    screen.centerText("press any button", TOP_Y + 104, COL_TER);
+                    screen.canvasText(infoBuf, CX + TEXT_PAD_X, TOP_Y + 76, COL_SEC);
+                    screen.canvasCenterText("press any button", TOP_Y + 104, COL_TER);
+                    screen.pushCanvas();
                     waitAny();
                 }
                 // Force full redraw after context menu
@@ -1113,82 +801,100 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
     }
 }
 
-// -- Text input (character picker) --
+// -- Search text input: 6-column alphabet grid (a-z, space, DEL) --
+// Navigation: UP/DN = rows, RT = move right, OK = add char, BK = delete/done.
 void textInput(const char* title, char* output, int maxLen) {
-    static const char chars[] = "abcdefghijklmnopqrstuvwxyz 0123456789.-_";
-    static const int nchars = sizeof(chars) - 1;
-    int ci = 0;
-    int len = 0;
+    // Grid characters: a-z (0-25), _ = space (26), DEL = special (27)
+    static const char  CHARS[]  = "abcdefghijklmnopqrstuvwxyz_";
+    static const int   TOTAL    = 28;   // 27 chars + DEL
+    static const int   DEL_IDX  = 27;
+    static const int   COLS     = 6;
+    static const int   ROWS     = 5;    // ceil(28/6) = 5
+    static const int   CELL_W   = CANVAS_W / COLS;  // 39px
+    static const int   CELL_H   = 34;
+    static const int   GRID_Y   = TOP_Y + 28;  // screen-space Y of first row
+
+    int ci = 0, len = 0;
     output[0] = '\0';
 
-    // Chrome drawn ONCE — canvas handles all content redraws
-    screen.begin();
-    screen.header(title);
-    screen.statusBar();
-
-    bool changed = true;  // force first canvas draw
+    screen.topStrip(title, true, nullptr);
+    bool changed = true;
 
     while (true) {
         if (changed) {
             screen.clearCanvas();
 
-            // Input buffer with underscore cursor
-            char dispBuf[26];
-            int dLen = 0;
+            // ── Query display box ─────────────────────────────────────────────
+            char dispBuf[26]; int dl = 0;
             for (int i = 0; i < len && i < 22; i++)
-                dispBuf[dLen++] = output[i];
-            dispBuf[dLen++] = '_';
-            dispBuf[dLen] = '\0';
-            screen.canvasText(dispBuf, CX + 8, TOP_Y + 16, COL_PRI);
+                dispBuf[dl++] = output[i];
+            dispBuf[dl++] = '_'; dispBuf[dl] = '\0';
+            screen.canvasFill(CX + 4, TOP_Y + 2, CANVAS_W - 8, 22, COL_SEL);
+            screen.canvasText(dispBuf, CX + TEXT_PAD_X, TOP_Y + 4, COL_PRI);
 
-            // Character wheel: 11 chars centred on current selection
-            char charRow[13];
-            for (int j = -5; j <= 5; j++)
-                charRow[j + 5] = chars[(ci + j + nchars) % nchars];
-            charRow[11] = '\0';
-            screen.canvasCenterText(charRow, TOP_Y + 40, COL_TER);
+            // ── Alphabet grid ─────────────────────────────────────────────────
+            for (int i = 0; i < TOTAL; i++) {
+                int row = i / COLS, col = i % COLS;
+                int16_t cx = (int16_t)(col * CELL_W);          // canvas-space x (CX=0)
+                int16_t cy = (int16_t)(GRID_Y + row * CELL_H); // screen-space y
+                bool sel   = (i == ci);
 
-            // Overlay current char in accent — transparent mode overwrites glyph pixels only
-            char cur[2] = { chars[ci], '\0' };
-            screen.canvasCenterText(cur, TOP_Y + 40, COL_ACCENT);
+                // Selection fill (screen-space args subtract CX/TOP_Y internally)
+                if (sel)
+                    screen.canvasFill(cx + 2, cy + 2, CELL_W - 4, CELL_H - 4, COL_ACCENT);
 
-            // Instructions (static — same every frame)
-            screen.canvasText("UP/DN",  CX + 8,  TOP_Y + 68,  COL_SEC);
-            screen.canvasText("char",   CX + 52, TOP_Y + 68,  COL_TER);
-            screen.canvasText("OK",     CX + 8,  TOP_Y + 88,  COL_SEC);
-            screen.canvasText("add",    CX + 36, TOP_Y + 88,  COL_TER);
-            screen.canvasText("RIGHT",  CX + 8,  TOP_Y + 108, COL_SEC);
-            screen.canvasText("delete", CX + 52, TOP_Y + 108, COL_TER);
-            screen.canvasText("BACK",   CX + 8,  TOP_Y + 128, COL_SEC);
-            screen.canvasText("done",   CX + 52, TOP_Y + 128, COL_TER);
+                char lbl[4];
+                if      (i == DEL_IDX)    strncpy(lbl, "DEL", 4);
+                else if (CHARS[i] == '_') { lbl[0] = '_'; lbl[1] = '\0'; }
+                else                      { lbl[0] = CHARS[i]; lbl[1] = '\0'; }
+
+                // y_scr for canvasText = screen-space TOP of the glyph cap
+                int16_t ty = (int16_t)(cy + (CELL_H - FONT_CAP_H) / 2);
+                screen.canvasText(lbl, cx + 4, ty, sel ? COL_BG : COL_SEC);
+            }
+
+            // ── Hint bar at bottom ────────────────────────────────────────────
+            screen.canvasText("OK:add   BK:del/done", CX + TEXT_PAD_X, BOT_Y - 16, COL_TER);
 
             screen.pushCanvas();
             changed = false;
         }
 
         poll();
-        if (gEmergency || gGoHome) { output[0] = '\0'; return; }
-
-        // Battery warning redrew on top of us — restore chrome then canvas
+        if (gEmergency || gGoHome || gGoBookmarks) { output[0] = '\0'; return; }
         if (gNeedsRedraw) {
-            screen.begin(); screen.header(title); screen.statusBar();
-            gNeedsRedraw = false;
-            changed = true;
-            continue;
+            screen.topStrip(title, true, nullptr);
+            gNeedsRedraw = false; changed = true; continue;
         }
 
         if (btnUp.tapped() || btnUp.repeating()) {
-            ci = (ci + 1) % nchars; changed = true;
+            if (ci >= COLS) {
+                ci -= COLS;
+            } else {
+                // Wrap to last row of same column (clamped to TOTAL-1)
+                ci = min(TOTAL - 1, (ROWS - 1) * COLS + (ci % COLS));
+            }
+            changed = true;
         } else if (btnDn.tapped() || btnDn.repeating()) {
-            ci = (ci - 1 + nchars) % nchars; changed = true;
-        } else if (btnOk.tapped() && len < maxLen - 1) {
-            output[len++] = chars[ci]; output[len] = '\0';
-            ci = 0; changed = true;
-        } else if (btnRt.tapped() && len > 0) {
-            output[--len] = '\0'; changed = true;
+            int nc = ci + COLS;
+            ci = (nc < TOTAL) ? nc : ci % COLS;  // wrap to top of same column
+            changed = true;
+        } else if (btnRt.tapped() || btnRt.repeating()) {
+            ci = (ci + 1) % TOTAL;
+            changed = true;
+        } else if (btnOk.tapped()) {
+            if (ci == DEL_IDX) {
+                if (len > 0) { output[--len] = '\0'; changed = true; }
+            } else if (len < maxLen - 1) {
+                output[len++] = (CHARS[ci] == '_') ? ' ' : CHARS[ci];
+                output[len]   = '\0';
+                ci = 0; changed = true;
+            }
+        } else if (btnBk.held()) {
+            gGoHome = true; output[0] = '\0'; return;
         } else if (btnBk.tapped()) {
-            if (len == 0) { output[0] = '\0'; return; }
-            return;
+            if (len > 0) { output[--len] = '\0'; changed = true; }
+            else { return; }  // empty → done / cancel
         }
     }
 }

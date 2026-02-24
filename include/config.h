@@ -39,13 +39,13 @@
 #define CH            DISP_H              // 280 — full height
 #define CORNER_R      20                  // approx. physical corner radius (px)
 #define HDR_H         28
-#define BAR_H         20
-#define TOP_Y         (HDR_H + 2)         // 30  — content area start
-#define BOT_Y         (DISP_H - BAR_H - 2)// 258 — content area end
+#define BAR_H         20   // legacy — bottom bar removed; kept for residual refs
+#define TOP_Y         (HDR_H + 2)      // 30  — content area start
+#define BOT_Y         (DISP_H - 6)     // 274 — content area end (6px bottom safe zone)
 #define LINE_H        18
-#define MENU_LINE_H   40
-#define LPP           ((BOT_Y - TOP_Y) / LINE_H)          // 228/18 = 12
-#define MENU_VIS      ((BOT_Y - TOP_Y - 12) / MENU_LINE_H)// 216/24 = 9
+#define MENU_LINE_H   36               // 36px rows — 6 items visible, breathing room
+#define LPP           ((BOT_Y - TOP_Y) / LINE_H)           // 244/18 = 13
+#define MENU_VIS      ((BOT_Y - TOP_Y) / MENU_LINE_H)      // 244/36 = 6
 
 // -- Font metrics (FreeSans9pt7b) --
 // cursor y is at BASELINE; add FONT_CAP_H to convert text-top → baseline

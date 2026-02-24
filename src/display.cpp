@@ -63,14 +63,72 @@ void Screen::init() {
 }
 
 // ── Chrome ────────────────────────────────────────────────────────────────
-// Draws header bg + dividers + status bar bg.
-// Does NOT clear the content area — use clearContent() or canvas for that.
+// Unified header: bg, divider, optional back chevron, title, rightLabel, battery%.
+// Single call replaces the old begin() + header() + statusBar() pattern.
+void Screen::topStrip(const char* title, bool showBack, const char* rightLabel) {
+    _tft.fillRect(CX, CY, CW, HDR_H, COL_HDR);
+    _tft.drawFastHLine(CX, CY + HDR_H, CW, COL_TER);
+
+    if (!title) title = "";
+    _setFont(_tft);
+    int16_t baseline = CY + 9 + FONT_CAP_H;
+
+    // Battery — rightmost
+    int b = batteryPct();
+    uint16_t bc = (b > 30) ? COL_OK : (b > 10) ? COL_YELLOW : COL_WARN;
+    snprintf(_batBuf, sizeof(_batBuf), "%d%%", b);
+    int16_t x1, y1; uint16_t bw, bh;
+    _tft.getTextBounds(_batBuf, 0, baseline, &x1, &y1, &bw, &bh);
+    int16_t rightEdge = (int16_t)DISP_W - TEXT_PAD_X - (int16_t)bw;
+    _tft.setTextColor(bc);
+    _tft.setCursor(rightEdge, baseline);
+    _tft.print(_batBuf);
+    rightEdge -= 6;
+
+    // rightLabel (page fraction, position, etc.) — just left of battery
+    if (rightLabel && rightLabel[0]) {
+        uint16_t rw, rh;
+        _tft.getTextBounds(rightLabel, 0, baseline, &x1, &y1, &rw, &rh);
+        rightEdge -= (int16_t)rw;
+        _tft.setTextColor(COL_SEC);
+        _tft.setCursor(rightEdge, baseline);
+        _tft.print(rightLabel);
+        rightEdge -= 4;
+    }
+
+    // Back chevron
+    int16_t titleStart = TEXT_PAD_X;
+    if (showBack) {
+        _tft.setTextColor(COL_ACCENT);
+        _tft.setCursor(TEXT_PAD_X - 4, baseline);
+        _tft.print("<");
+        titleStart = TEXT_PAD_X + 10;
+    }
+
+    // Title — pixel-accurate truncation to fit between titleStart and rightEdge
+    if (title[0]) {
+        char buf[32];
+        strncpy(buf, title, 31); buf[31] = '\0';
+        uint16_t tw, th;
+        while (buf[0]) {
+            _tft.getTextBounds(buf, titleStart, baseline, &x1, &y1, &tw, &th);
+            if (titleStart + (int16_t)tw <= rightEdge - 4) break;
+            int len = (int)strlen(buf);
+            if (len <= 2) break;
+            buf[len - 3] = '.'; buf[len - 2] = '.'; buf[len - 1] = '\0';
+        }
+        _tft.setTextColor(COL_PRI);
+        _tft.setCursor(titleStart, baseline);
+        _tft.print(buf);
+    }
+}
+
+// Draws header bg + divider only (no text, no bottom bar).
+// Used by diagram.cpp and any path that calls begin() + header() separately.
 void Screen::begin() {
     _tft.startWrite();
     _tft.fillRect(CX, CY, CW, HDR_H, COL_HDR);
     _tft.drawFastHLine(CX, CY + HDR_H, CW, COL_TER);
-    _tft.drawFastHLine(CX, DISP_H - CY - BAR_H, CW, COL_TER);
-    _tft.fillRect(CX, DISP_H - CY - BAR_H + 1, CW, BAR_H, COL_HDR);
     _tft.endWrite();
 }
 
@@ -126,138 +184,11 @@ void Screen::header(const char* title, bool showBack) {
     }
 }
 
-// Card-deck header: "< Title truncated...   2/7"
-// Title is centre-weighted between the back chevron and the x/N counter.
-void Screen::cardHeader(const char* entryTitle, int current, int total) {
-    _setFont(_tft);
-    int16_t baseline = CY + 9 + FONT_CAP_H;
-
-    // Right-hand counter "2/7" — measure first so we know how much space it takes
-    char counter[8];
-    snprintf(counter, sizeof(counter), "%d/%d", current, total);
-    int16_t x1, y1;
-    uint16_t cw, ch;
-    _tft.getTextBounds(counter, 0, baseline, &x1, &y1, &cw, &ch);
-    int16_t counterX = DISP_W - TEXT_PAD_X - (int16_t)cw;
-
-    // Available width for title: between left chevron area and counter
-    int16_t titleAreaStart = TEXT_PAD_X + 10;  // 10px past the "<" chevron
-    int16_t titleAreaEnd   = counterX - 6;
-    int16_t titleAreaW     = titleAreaEnd - titleAreaStart;
-
-    // Truncate title to fit the available area
-    char buf[25];
-    strncpy(buf, entryTitle, 24);
-    buf[24] = '\0';
-    uint16_t tw, th;
-    while (buf[0] && (_tft.getTextBounds(buf, 0, baseline, &x1, &y1, &tw, &th), (int16_t)tw > titleAreaW)) {
-        int len = strlen(buf);
-        if (len <= 2) break;
-        buf[len - 3] = '.'; buf[len - 2] = '.'; buf[len - 1] = '\0';
-    }
-
-    // Draw back chevron
-    _tft.setTextColor(COL_ACCENT);
-    _tft.setCursor(TEXT_PAD_X - 4, baseline);
-    _tft.print("<");
-
-    // Draw title left-aligned in its area
-    _tft.setTextColor(COL_PRI);
-    _tft.setCursor(titleAreaStart, baseline);
-    _tft.print(buf);
-
-    // Draw counter right-aligned
-    _tft.setTextColor(COL_SEC);
-    _tft.setCursor(counterX, baseline);
-    _tft.print(counter);
-}
-
-void Screen::statusBar(const char* right) {
-    // Clear bar fully before drawing (prevents ghost text when string changes length)
-    _tft.fillRect(CX, DISP_H - CY - BAR_H + 1, CW, BAR_H - 1, COL_HDR);
-
-    int b = batteryPct();
-    uint16_t bc = (b > 30) ? COL_OK : (b > 10) ? COL_YELLOW : COL_WARN;
-    snprintf(_batBuf, sizeof(_batBuf), "%d%%", b);
-
-    _setFont(_tft);
-    int16_t barBaseline = DISP_H - CY - BAR_H + 15;
-
-    _tft.setTextColor(bc);
-    _tft.setCursor(STATUS_PAD_X, barBaseline);
-    _tft.print(_batBuf);
-
-    if (right && right[0]) {
-        int16_t x1, y1;
-        uint16_t w, h;
-        _tft.getTextBounds(right, 0, barBaseline, &x1, &y1, &w, &h);
-        _tft.setTextColor(COL_TER);
-        _tft.setCursor(DISP_W - (int16_t)w - STATUS_PAD_X, barBaseline);
-        _tft.print(right);
-    }
-}
-
-// Card-deck status bar: dot progress (≤12 cards) or "x / N" text (>12).
-// Right side: "[D]" if diagram available, "★" if bookmarked.
-void Screen::statusBarCard(int current, int total, bool bookmarked, bool diagramAvail) {
-    _tft.fillRect(CX, DISP_H - CY - BAR_H + 1, CW, BAR_H - 1, COL_HDR);
-    _setFont(_tft);
-    int16_t barBaseline = DISP_H - CY - BAR_H + 15;
-    int16_t barMidY     = DISP_H - CY - BAR_H + 10;  // vertical centre of bar
-
-    // ── Right-side icons ──────────────────────────────────────────────────────
-    int16_t iconX = DISP_W - STATUS_PAD_X;
-    if (bookmarked) {
-        int16_t x1, y1; uint16_t w, h;
-        _tft.getTextBounds("*", 0, barBaseline, &x1, &y1, &w, &h);
-        iconX -= (int16_t)w;
-        _tft.setTextColor(COL_YELLOW);
-        _tft.setCursor(iconX, barBaseline);
-        _tft.print("*");
-        iconX -= 4;
-    }
-    if (diagramAvail) {
-        int16_t x1, y1; uint16_t w, h;
-        _tft.getTextBounds("D", 0, barBaseline, &x1, &y1, &w, &h);
-        iconX -= (int16_t)w + 2;  // small label
-        _tft.setTextColor(COL_ACCENT);
-        _tft.setCursor(iconX, barBaseline);
-        _tft.print("D");
-        iconX -= 6;
-    }
-    // iconX is now the right boundary available for dots/text
-    int16_t centerW = iconX - STATUS_PAD_X;  // usable centre width
-
-    // ── Dot progress or text ─────────────────────────────────────────────────
-    if (total <= 12) {
-        // Dot row: 6px filled/ring per card, centred in available area
-        const int DOT_STEP = 8;   // px per dot (4px dot + 4px gap)
-        const int DOT_R    = 2;   // radius of dots
-        int rowW  = total * DOT_STEP - (DOT_STEP - DOT_R * 2);
-        int startX = TEXT_PAD_X + (centerW - rowW) / 2;
-        for (int i = 0; i < total; i++) {
-            int16_t cx = startX + i * DOT_STEP + DOT_R;
-            if (i == current - 1) {
-                // Current: filled accent circle
-                _tft.fillCircle(cx, barMidY, DOT_R, COL_ACCENT);
-            } else {
-                // Others: dim ring
-                _tft.drawCircle(cx, barMidY, DOT_R, COL_TER);
-            }
-        }
-    } else {
-        // Too many dots — show "x / N" text centred
-        char buf[10];
-        snprintf(buf, sizeof(buf), "%d / %d", current, total);
-        int16_t x1, y1; uint16_t w, h;
-        _tft.getTextBounds(buf, 0, barBaseline, &x1, &y1, &w, &h);
-        int16_t tx = STATUS_PAD_X + (centerW - (int16_t)w) / 2;
-        if (tx < STATUS_PAD_X) tx = STATUS_PAD_X;
-        _tft.setTextColor(COL_SEC);
-        _tft.setCursor(tx, barBaseline);
-        _tft.print(buf);
-    }
-}
+// Legacy stubs — superseded by topStrip(). Kept so diagram.cpp + any residual
+// call sites compile without change. They are intentional no-ops.
+void Screen::cardHeader(const char*, int, int) {}
+void Screen::statusBar(const char*) {}
+void Screen::statusBarCard(int, int, bool, bool) {}
 
 void Screen::scrollBar(int pos, int total) {
     if (total <= LPP) return;
@@ -367,62 +298,49 @@ int16_t Screen::canvasCursorX() {
 }
 
 // Draw a menu item into the canvas. y_scr = vertical centre y in screen space.
-// Design language: accent dot on every row, bold selected title, dim chevron.
-// Pixel-accurate title truncation — never clips mid-glyph.
+// Instrument-minimal menu item: inverted bg on selection, optional red text for Emergency.
+// y_scr = top of this item in screen space. badgeColor == COL_WARN → red text.
 void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
                              uint16_t badgeColor) {
     if (!_canvas) return;
 
-    // Canvas-space coordinates
-    int16_t yc    = y_scr - TOP_Y;           // vertical centre of this item
-    int16_t textX = 22;                        // start-x for text (after accent bar)
-    int16_t chevX = CANVAS_W - 12;            // chevron x
-    int16_t budget = chevX - textX - 4;       // max text pixel width
+    // Canvas-space: top of item, then derive centre
+    int16_t yTop = y_scr - TOP_Y;
+    int16_t yc   = yTop + MENU_LINE_H / 2;
 
-    // Selected item: subtle pill background
+    // Selection: full-width pill (subtle inverted bg)
     if (selected) {
-        int16_t pillY = yc - (MENU_LINE_H / 2 - 3);
-        int16_t pillH = MENU_LINE_H - 6;
-        _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, pillH, 6, COL_SEL);
+        _canvas->fillRoundRect(4, yTop + 2, CANVAS_W - 8, MENU_LINE_H - 4, 4, COL_SEL);
     }
 
-    // Left accent bar — 3×20 rounded rect, vertically centred
-    uint16_t dotColor = badgeColor ? badgeColor : (selected ? COL_ACCENT : COL_TER);
-    _canvas->fillRoundRect(8, yc - 10, 3, 20, 1, dotColor);
+    // Text colors
+    uint16_t line1Color = selected ? COL_ACCENT : COL_PRI;
+    uint16_t line2Color = selected ? COL_SEC    : COL_TER;
+    // Emergency (badgeColor==COL_WARN) gets red text when not selected
+    if (!selected && badgeColor == COL_WARN) line1Color = COL_WARN;
 
-    // Split title into up to two lines
+    // Split into up to 2 lines — pixel-accurate, never truncates mid-word
     char line1[64], line2[64];
+    int16_t budget = CANVAS_W - TEXT_PAD_X * 2;
     fsans9SplitTwo(txt, line1, line2, budget);
-
     bool twoLine = (line2[0] != '\0');
 
-    // Baselines: single-line centred, two-line split above/below centre
-    int16_t bl1, bl2;
-    if (twoLine) {
-        bl1 = yc - 6;    // first line baseline
-        bl2 = yc + 10;   // second line baseline (gap of ~4px between cap tops)
-    } else {
-        bl1 = yc + FONT_CAP_H / 2;  // vertically centred
-        bl2 = 0;
-    }
+    int16_t bl1 = twoLine ? yc - 5  : yc + FONT_CAP_H / 2;
+    int16_t bl2 = twoLine ? yc + 10 : 0;
 
     // Line 1 — bold title
     _canvas->setFont(&FreeSansBold9pt7b);
-    _canvas->setTextColor(selected ? COL_ACCENT : COL_PRI);
-    _canvas->setCursor(textX, bl1);
+    _canvas->setTextColor(line1Color);
+    _canvas->setCursor(TEXT_PAD_X, bl1);
     _canvas->print(line1);
 
-    // Line 2 — continuation in secondary colour (regular weight)
+    // Line 2 — continuation, regular weight + dim
     if (twoLine) {
         _setFont(*_canvas);
-        _canvas->setTextColor(selected ? COL_ACCENT : COL_SEC);
-        _canvas->setCursor(textX, bl2);
+        _canvas->setTextColor(line2Color);
+        _canvas->setCursor(TEXT_PAD_X, bl2);
         _canvas->print(line2);
     }
 
-    // Chevron — always regular weight
-    _setFont(*_canvas);
-    _canvas->setTextColor(selected ? COL_ACCENT : COL_TER);
-    _canvas->setCursor(chevX, twoLine ? bl2 : bl1);
-    _canvas->print(">");
+    _setFont(*_canvas);  // always restore
 }

@@ -6,6 +6,7 @@
 // Global flags for navigation
 extern bool gGoHome;
 extern bool gEmergency;
+extern bool gGoBookmarks;  // LEFT+RIGHT combo → jump to bookmarks
 
 // Bookmarks (persisted to SD, max 20)
 #define MAX_BOOKMARKS 20
@@ -50,21 +51,21 @@ struct ScrollAnim {
 // Signals that a full redraw is needed (set by poll() after battery warning)
 extern bool gNeedsRedraw;
 
-// Home grid (replaces flat category list on main screen)
-// Returns: 0..numCats-1 = category, numCats = search,
-//          numCats+1 = bookmarks, numCats+2 = history, -2 = emergency
-int homeGrid(const char** catNames, const uint16_t* catColors,
+// Home menu — fluid single-column list replacing the grid.
+// Returns same values as homeGrid for main.cpp compatibility:
+//   0..numCats-1 = category, numCats=Search, numCats+1=Bookmarks,
+//   numCats+2=History, -2=Emergency, -1=back/error
+int homeList(const char** catNames, const uint16_t* catColors,
              const int* catCounts, int numCats, int bmCount);
 
-// Split-pane category browser (replaces subfolderGrid + entry list menu)
-// Left pane = subfolders, right pane = entries. RIGHT/CENTER enters, LEFT backs.
-// Returns: gIndex entry ID, or -1 = back to homeGrid
-int splitBrowse(int catIdx, const char* catName, uint16_t catColor);
+// Two-level category browser: subfolder list → entry list (two sequential menus).
+// Returns: gIndex entry ID, or -1 = back to homeList
+int browse(int catIdx, const char* catName);
 
 // Core UI functions - return selected index or -1 for back
 void splash();
 int  menu(const char* title, const char** items, int count,
-          uint16_t* badgeColors = nullptr);
+          uint16_t* badgeColors = nullptr, bool showBack = true);
 // Card-deck entry viewer (primary path — parses ## sections into swipeable cards)
 void showCardEntry(const char* eid, uint8_t folderIdx, const char* title);
 // Scroll-mode entry viewer (fallback: history resume, card-parse failure)

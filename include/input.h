@@ -29,3 +29,4 @@ extern Button btnUp, btnDn, btnBk, btnRt, btnOk;
 void inputInit();
 void inputUpdate();      // call once per frame
 bool emergencyCombo();   // UP+DN held > 400ms
+bool bookmarkCombo();    // LEFT+RIGHT held > 500ms

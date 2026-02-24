@@ -83,13 +83,11 @@ bool showDiagram(const char* eid, const char* title) {
     // Validate: only 24-bit uncompressed BMP
     if (bpp != 24 || compression != 0 || bmpW <= 0) {
         f.close();
-        screen.begin();
         char buf[26];
         strncpy(buf, title ? title : "Diagram", 25); buf[25] = '\0';
-        screen.header(buf, true);
+        screen.topStrip(buf, true, nullptr);
         screen.centerText("Bad diagram format", DISP_H / 2 - 8, COL_WARN);
         screen.centerText("Need 24-bit BMP", DISP_H / 2 + 8, COL_SEC);
-        screen.statusBar("any btn: back");
         while (true) {
             inputUpdate(); powerTick();
             if (btnBk.tapped() || btnOk.tapped()) break;
@@ -111,12 +109,11 @@ bool showDiagram(const char* eid, const char* title) {
     int drawH = (imgH < (DISP_H - TOP_Y)) ? imgH : (DISP_H - TOP_Y);
 
     // ── Show header + "Loading..." ──
-    screen.begin();
     {
         char hdrBuf[26];
         strncpy(hdrBuf, title ? title : "Diagram", 25);
         hdrBuf[25] = '\0';
-        screen.header(hdrBuf, true);
+        screen.topStrip(hdrBuf, true, nullptr);
     }
     screen.centerText("Loading diagram", DISP_H / 2 - 8, COL_SEC);
     drawLoadProgress(0);
@@ -163,9 +160,6 @@ bool showDiagram(const char* eid, const char* title) {
         }
     }
     f.close();
-
-    // Show "BACK to return" hint in status bar
-    screen.statusBar("BACK:return");
 
     // ── Wait for navigation ──
     // Flush any buffered presses from load time

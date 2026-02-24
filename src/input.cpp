@@ -3,6 +3,8 @@
 Button btnUp, btnDn, btnBk, btnRt, btnOk;
 static uint32_t comboStart = 0;
 static bool comboFired = false;
+static uint32_t bmComboStart = 0;
+static bool bmComboFired = false;
 
 void Button::init(uint8_t pin) {
     _pin = pin;
@@ -86,6 +88,20 @@ bool emergencyCombo() {
     } else {
         comboStart = 0;
         comboFired = false;
+    }
+    return false;
+}
+
+bool bookmarkCombo() {
+    if (btnBk.down() && btnRt.down()) {
+        if (bmComboStart == 0) bmComboStart = millis();
+        else if (!bmComboFired && (millis() - bmComboStart) > 500) {
+            bmComboFired = true;
+            return true;
+        }
+    } else {
+        bmComboStart = 0;
+        bmComboFired = false;
     }
     return false;
 }

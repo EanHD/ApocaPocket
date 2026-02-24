@@ -19,14 +19,10 @@ static uint16_t detectAccent(const char* title) {
         return false;
     };
 
-    if (ci(title, "warning")   || ci(title, "danger")   || ci(title, "caution"))
+    // Calm field-instrument palette: red for genuine warnings only, dim bar for all else.
+    if (ci(title, "warning") || ci(title, "danger")   ||
+        ci(title, "caution") || ci(title, "critical") || ci(title, "emergency"))
         return COL_WARN;
-    if (ci(title, "emergency") || ci(title, "protocol")  || ci(title, "critical"))
-        return COL_YELLOW;
-    if (ci(title, "overview"))
-        return COL_ACCENT;
-    if (ci(title, "summary")   || ci(title, "quick ref") || ci(title, "tl;dr"))
-        return COL_OK;
     return COL_TER;
 }
 

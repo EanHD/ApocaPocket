@@ -47,9 +47,10 @@ static void openEntry(uint16_t indexId) {
         Serial.print(fi);
         Serial.print(" for entry ");
         Serial.println(eid);
-        screen.begin();
-        screen.clearContent();
-        screen.centerText("Database error!", DISP_H / 2, COL_WARN);
+        screen.topStrip("Error", false, nullptr);
+        screen.clearCanvas();
+        screen.canvasCenterText("Database error!", (TOP_Y + BOT_Y) / 2, COL_WARN);
+        screen.pushCanvas();
         delay(2000);
         return;
     }
@@ -118,15 +119,15 @@ void setup() {
         snprintf(misoBuf, sizeof(misoBuf), "MISO idle: %s",
                  gDiagMisoIdle ? "HIGH (ok)" : "LOW (bad!)");
 
-        screen.begin();
-        screen.clearContent();
-        screen.header("SD CARD ERROR", false);
-        screen.centerText("SD init failed!", DISP_H / 2 - 48, COL_WARN);
-        screen.centerText(cmd0Buf,          DISP_H / 2 - 28, COL_YELLOW);
-        screen.centerText(misoBuf,          DISP_H / 2 - 10, COL_YELLOW);
-        screen.centerText(verdict,          DISP_H / 2 + 10, COL_WARN);
-        screen.centerText("FAT32? Not exFAT!", DISP_H / 2 + 28, COL_SEC);
-        screen.centerText("Reinsert+Reset",  DISP_H / 2 + 44, COL_TER);
+        screen.topStrip("SD CARD ERROR", false, nullptr);
+        screen.clearCanvas();
+        screen.canvasCenterText("SD init failed!",     TOP_Y + 14,  COL_WARN);
+        screen.canvasCenterText(cmd0Buf,               TOP_Y + 36,  COL_SEC);
+        screen.canvasCenterText(misoBuf,               TOP_Y + 56,  COL_SEC);
+        screen.canvasCenterText(verdict,               TOP_Y + 78,  COL_WARN);
+        screen.canvasCenterText("Need FAT32 (not exFAT)", TOP_Y + 100, COL_TER);
+        screen.canvasCenterText("Reinsert + Reset",    TOP_Y + 120, COL_TER);
+        screen.pushCanvas();
 
         // Keep printing to serial so user can connect any time and see result
         while (true) {
@@ -149,9 +150,10 @@ void setup() {
     if (!gIndex.load()) {
         Serial.println("[FAIL] Index load failed!");
         ledBlink(255, 0, 0, 5); // 5 red blinks = index error
-        screen.begin();
-        screen.clearContent();
-        screen.centerText("Index error!", DISP_H / 2, COL_WARN);
+        screen.topStrip("Error", false, nullptr);
+        screen.clearCanvas();
+        screen.canvasCenterText("Index load failed!", (TOP_Y + BOT_Y) / 2, COL_WARN);
+        screen.pushCanvas();
         while (true) { ledBlink(255, 0, 0, 2, 500); delay(1000); }
     }
     Serial.print("[OK] Index: ");
@@ -179,7 +181,9 @@ void setup() {
 }
 
 void loop() {
-    gGoHome = false;
+    gGoHome      = false;
+    bool wantBm  = gGoBookmarks;   // capture before reset
+    gGoBookmarks = false;
 
     // Emergency combo: jump to L1 immediate survival
     if (gEmergency) {
@@ -214,13 +218,19 @@ void loop() {
     int bmIdx     = NUM_CATS + 1;
     int histIdx   = NUM_CATS + 2;
 
-    int c = homeGrid(CAT_NAMES, CAT_COLORS, catCounts, NUM_CATS, gBookmarkCount);
-    if (gEmergency || c == -2) { gEmergency = true; return; }
-    if (c < 0) return;
+    // Bookmarks combo: skip homeList and jump directly to bookmarks
+    int c;
+    if (wantBm) {
+        c = bmIdx;
+    } else {
+        c = homeList(CAT_NAMES, CAT_COLORS, catCounts, NUM_CATS, gBookmarkCount);
+        if (gEmergency || c == -2) { gEmergency = true; return; }
+        if (c < 0) return;
+    }
 
     if (c < NUM_CATS) {
         // ── Browse: Category → split-pane (subfolder | entries) → View ──
-        int entryId = splitBrowse(c, CAT_NAMES[c], CAT_COLORS[c]);
+        int entryId = browse(c, CAT_NAMES[c]);
         if (entryId >= 0 && !gGoHome && !gEmergency)
             openEntry((uint16_t)entryId);
 
@@ -234,9 +244,10 @@ void loop() {
         int rcount = searchTitles(gIndex, query, results, MAX_MENU_ITEMS);
 
         if (rcount == 0) {
-            screen.begin();
-            screen.clearContent();
-            screen.centerText("No results", DISP_H / 2, COL_SEC);
+            screen.topStrip("Search", true, nullptr);
+            screen.clearCanvas();
+            screen.canvasCenterText("No results found", (TOP_Y + BOT_Y) / 2, COL_SEC);
+            screen.pushCanvas();
             delay(1500);
             return;
         }
@@ -253,9 +264,10 @@ void loop() {
     } else if (c == bmIdx) {
         // ── Bookmarks ──
         if (gBookmarkCount == 0) {
-            screen.begin();
-            screen.clearContent();
-            screen.centerText("No bookmarks yet", DISP_H / 2, COL_SEC);
+            screen.topStrip("Bookmarks", true, nullptr);
+            screen.clearCanvas();
+            screen.canvasCenterText("No bookmarks yet", (TOP_Y + BOT_Y) / 2, COL_SEC);
+            screen.pushCanvas();
             delay(1500);
             return;
         }
@@ -277,9 +289,10 @@ void loop() {
     } else if (c == histIdx) {
         // ── History ──
         if (gHistoryCount == 0) {
-            screen.begin();
-            screen.clearContent();
-            screen.centerText("No history yet", DISP_H / 2, COL_SEC);
+            screen.topStrip("History", true, nullptr);
+            screen.clearCanvas();
+            screen.canvasCenterText("No history yet", (TOP_Y + BOT_Y) / 2, COL_SEC);
+            screen.pushCanvas();
             delay(1500);
             return;
         }
