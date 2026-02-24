@@ -125,6 +125,52 @@ void Screen::header(const char* title, bool showBack) {
     }
 }
 
+// Card-deck header: "< Title truncated...   2/7"
+// Title is centre-weighted between the back chevron and the x/N counter.
+void Screen::cardHeader(const char* entryTitle, int current, int total) {
+    _setFont(_tft);
+    int16_t baseline = CY + 9 + FONT_CAP_H;
+
+    // Right-hand counter "2/7" — measure first so we know how much space it takes
+    char counter[8];
+    snprintf(counter, sizeof(counter), "%d/%d", current, total);
+    int16_t x1, y1;
+    uint16_t cw, ch;
+    _tft.getTextBounds(counter, 0, baseline, &x1, &y1, &cw, &ch);
+    int16_t counterX = DISP_W - TEXT_PAD_X - (int16_t)cw;
+
+    // Available width for title: between left chevron area and counter
+    int16_t titleAreaStart = TEXT_PAD_X + 10;  // 10px past the "<" chevron
+    int16_t titleAreaEnd   = counterX - 6;
+    int16_t titleAreaW     = titleAreaEnd - titleAreaStart;
+
+    // Truncate title to fit the available area
+    char buf[25];
+    strncpy(buf, entryTitle, 24);
+    buf[24] = '\0';
+    uint16_t tw, th;
+    while (buf[0] && (_tft.getTextBounds(buf, 0, baseline, &x1, &y1, &tw, &th), (int16_t)tw > titleAreaW)) {
+        int len = strlen(buf);
+        if (len <= 2) break;
+        buf[len - 3] = '.'; buf[len - 2] = '.'; buf[len - 1] = '\0';
+    }
+
+    // Draw back chevron
+    _tft.setTextColor(COL_ACCENT);
+    _tft.setCursor(TEXT_PAD_X - 4, baseline);
+    _tft.print("<");
+
+    // Draw title left-aligned in its area
+    _tft.setTextColor(COL_PRI);
+    _tft.setCursor(titleAreaStart, baseline);
+    _tft.print(buf);
+
+    // Draw counter right-aligned
+    _tft.setTextColor(COL_SEC);
+    _tft.setCursor(counterX, baseline);
+    _tft.print(counter);
+}
+
 void Screen::statusBar(const char* right) {
     // Clear bar fully before drawing (prevents ghost text when string changes length)
     _tft.fillRect(CX, DISP_H - CY - BAR_H + 1, CW, BAR_H - 1, COL_HDR);
@@ -147,6 +193,68 @@ void Screen::statusBar(const char* right) {
         _tft.setTextColor(COL_TER);
         _tft.setCursor(DISP_W - (int16_t)w - TEXT_PAD_X, barBaseline);
         _tft.print(right);
+    }
+}
+
+// Card-deck status bar: dot progress (≤12 cards) or "x / N" text (>12).
+// Right side: "[D]" if diagram available, "★" if bookmarked.
+void Screen::statusBarCard(int current, int total, bool bookmarked, bool diagramAvail) {
+    _tft.fillRect(CX, DISP_H - CY - BAR_H + 1, CW, BAR_H - 1, COL_HDR);
+    _setFont(_tft);
+    int16_t barBaseline = DISP_H - CY - BAR_H + 15;
+    int16_t barMidY     = DISP_H - CY - BAR_H + 10;  // vertical centre of bar
+
+    // ── Right-side icons ──────────────────────────────────────────────────────
+    int16_t iconX = DISP_W - TEXT_PAD_X;
+    if (bookmarked) {
+        int16_t x1, y1; uint16_t w, h;
+        _tft.getTextBounds("*", 0, barBaseline, &x1, &y1, &w, &h);
+        iconX -= (int16_t)w;
+        _tft.setTextColor(COL_YELLOW);
+        _tft.setCursor(iconX, barBaseline);
+        _tft.print("*");
+        iconX -= 4;
+    }
+    if (diagramAvail) {
+        int16_t x1, y1; uint16_t w, h;
+        _tft.getTextBounds("D", 0, barBaseline, &x1, &y1, &w, &h);
+        iconX -= (int16_t)w + 2;  // small label
+        _tft.setTextColor(COL_ACCENT);
+        _tft.setCursor(iconX, barBaseline);
+        _tft.print("D");
+        iconX -= 6;
+    }
+    // iconX is now the right boundary available for dots/text
+    int16_t centerW = iconX - TEXT_PAD_X;  // usable centre width
+
+    // ── Dot progress or text ─────────────────────────────────────────────────
+    if (total <= 12) {
+        // Dot row: 6px filled/ring per card, centred in available area
+        const int DOT_STEP = 8;   // px per dot (4px dot + 4px gap)
+        const int DOT_R    = 2;   // radius of dots
+        int rowW  = total * DOT_STEP - (DOT_STEP - DOT_R * 2);
+        int startX = TEXT_PAD_X + (centerW - rowW) / 2;
+        for (int i = 0; i < total; i++) {
+            int16_t cx = startX + i * DOT_STEP + DOT_R;
+            if (i == current - 1) {
+                // Current: filled accent circle
+                _tft.fillCircle(cx, barMidY, DOT_R, COL_ACCENT);
+            } else {
+                // Others: dim ring
+                _tft.drawCircle(cx, barMidY, DOT_R, COL_TER);
+            }
+        }
+    } else {
+        // Too many dots — show "x / N" text centred
+        char buf[10];
+        snprintf(buf, sizeof(buf), "%d / %d", current, total);
+        int16_t x1, y1; uint16_t w, h;
+        _tft.getTextBounds(buf, 0, barBaseline, &x1, &y1, &w, &h);
+        int16_t tx = TEXT_PAD_X + (centerW - (int16_t)w) / 2;
+        if (tx < TEXT_PAD_X) tx = TEXT_PAD_X;
+        _tft.setTextColor(COL_SEC);
+        _tft.setCursor(tx, barBaseline);
+        _tft.print(buf);
     }
 }
 

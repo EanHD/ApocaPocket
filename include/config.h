@@ -37,7 +37,6 @@
 #define CW            DISP_W              // 240 — full width for fills/chrome
 #define CH            DISP_H              // 280 — full height
 #define CORNER_R      20                  // approx. physical corner radius (px)
-#define TEXT_PAD_X    16                  // left/right text inset for all UI text
 #define HDR_H         28
 #define BAR_H         20
 #define TOP_Y         (HDR_H + 2)         // 30  — content area start

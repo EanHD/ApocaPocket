@@ -50,12 +50,23 @@ struct ScrollAnim {
 // Signals that a full redraw is needed (set by poll() after battery warning)
 extern bool gNeedsRedraw;
 
+// Home grid (replaces flat category list on main screen)
+// Returns: 0..numCats-1 = category, numCats = search,
+//          numCats+1 = bookmarks, numCats+2 = history, -2 = emergency
+int homeGrid(const char** catNames, const uint16_t* catColors,
+             const int* catCounts, int numCats, int bmCount);
+
 // Core UI functions - return selected index or -1 for back
 void splash();
 int  menu(const char* title, const char** items, int count,
           uint16_t* badgeColors = nullptr);
+// Card-deck entry viewer (primary path — parses ## sections into swipeable cards)
+void showCardEntry(const char* eid, uint8_t folderIdx, const char* title);
+// Scroll-mode entry viewer (fallback: history resume, card-parse failure)
 void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos = nullptr);
+// drawEntryLine is used by both showEntry and showCardEntry
+void drawEntryLine(const char* ln, int16_t y_scr);
 void textInput(const char* title, char* output, int maxLen);
 
 // Poll: updates buttons, power, sleep/wake, combos

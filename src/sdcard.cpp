@@ -388,11 +388,15 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
 
     int pos = 0;
     while (pos < len && count < maxLines) {
+        // Bullet continuation lines render at TEXT_PAD_X+6 instead of TEXT_PAD_X,
+        // so reduce their pixel budget by 6 to preserve the same right margin.
+        int budgetPx = (isBullet && !firstChunk) ? (WRAP_PX - 6) : WRAP_PX;
+
         // Scan forward accumulating pixel widths
         int px = 0, end = pos, lastSpace = -1;
         while (end < len) {
             uint8_t adv = charAdv(line[end]);
-            if (px + adv > WRAP_PX) break;  // next char would overflow
+            if (px + adv > budgetPx) break;  // next char would overflow
             px += adv;
             if (line[end] == ' ') lastSpace = end;
             end++;
@@ -485,7 +489,7 @@ int readEntry(const char* eid, uint8_t folderIdx,
     }
 
     int count = 0;
-    char buf[82];
+    char buf[256];
     bool inFrontmatter = false;
     bool frontmatterDone = false;
 

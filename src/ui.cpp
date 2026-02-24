@@ -4,6 +4,7 @@
 #include "display.h"
 #include "sdcard.h"
 #include "diagram.h"
+#include "cards.h"
 #include <Arduino.h>
 
 bool gGoHome = false;
@@ -187,7 +188,256 @@ void waitAny() {
     }
 }
 
-// -- Splash screen --
+// ─────────────────────────────────────────────────────────────
+//  HOME GRID
+//  Spatial 2-column grid replacing the flat category list.
+//  Layout (content area y=30..257, 228px):
+//    y=30..65   Emergency tile   (36px, full width)
+//    y=68..223  3×2 category grid (52px/tile, 119px/col, 1px gap)
+//    y=226..257 Footer           (32px: Search | Bookmarks)
+//
+//  Row/col addressing:
+//    row=0       → Emergency (col ignored)
+//    row=1..3    → Grid (col=0 or 1)
+//    row=4       → Footer (col=0=Search, col=1=Bookmarks)
+//
+//  Returns:
+//    0..numCats-1  → category selected
+//    numCats+0     → Search
+//    numCats+1     → Bookmarks
+//    numCats+2     → History
+//    -2            → Emergency
+//    -1            → (unused at home; BACK held = nothing)
+// ─────────────────────────────────────────────────────────────
+
+// Grid layout constants
+#define HG_EMRG_Y    TOP_Y            // 30
+#define HG_EMRG_H    36
+#define HG_GAP       2
+#define HG_TILE_H    52
+#define HG_ROWS      3
+#define HG_COLS      2
+#define HG_GRID_Y    (HG_EMRG_Y + HG_EMRG_H + HG_GAP)   // 68
+#define HG_FOOT_Y    (HG_GRID_Y + HG_ROWS * HG_TILE_H + HG_GAP) // 226
+#define HG_FOOT_H    (BOT_Y - HG_FOOT_Y)                  // 32
+#define HG_TILE_W    ((CW - 1) / HG_COLS)                 // 119
+#define HG_COL1_X    (HG_TILE_W + 1)                      // 120
+
+// Short display labels for each category (match CAT_NAMES order in main.cpp)
+static const char* const HG_CAT_SHORT[] = {
+    "Immediate", "Food & Bio", "Materials", "Tools", "Civilization"
+};
+
+// (row 1-3, col 0-1) → category index; -1 = utility slot
+static const int HG_GRID[HG_ROWS][HG_COLS] = {
+    { 0, 1 },   // Immediate Survival | Food & Bio
+    { 2, 3 },   // Materials          | Tools & Rebuild
+    { 4, -1 },  // Civilization       | History (utility)
+};
+
+// Draw a single grid tile (not the emergency or footer tiles).
+// tileX,tileY: top-left corner in screen space.
+static void _hgDrawTile(int16_t tileX, int16_t tileY, int16_t tileW, int16_t tileH,
+                         const char* label, const char* sub,
+                         uint16_t accentColor, bool sel) {
+    uint16_t bg   = sel ? COL_SEL : COL_HDR;
+    uint16_t fg   = sel ? COL_ACCENT : COL_PRI;
+    uint16_t sfg  = sel ? COL_SEC    : COL_TER;
+
+    screen.fillArea(tileX,     tileY, tileW, tileH, bg);
+    screen.fillArea(tileX,     tileY, 3,     tileH, accentColor);  // accent bar
+
+    int16_t textX = tileX + 8;
+    int16_t midY  = tileY + tileH / 2 - 12;  // upper text line
+    screen.text(label, textX, midY,     fg);
+    if (sub && sub[0])
+        screen.text(sub,   textX, midY + 16, sfg);
+}
+
+// Draw the full emergency tile.
+static void _hgDrawEmrg(bool sel) {
+    uint16_t bg = sel ? COL_WARN : 0x6000;  // bright red vs dark red
+    uint16_t fg = COL_PRI;
+    screen.fillArea(CX, HG_EMRG_Y, CW, HG_EMRG_H, bg);
+    screen.centerText("EMERGENCY", HG_EMRG_Y + HG_EMRG_H / 2 - 7, fg);
+}
+
+// Draw one footer tile (Search or Bookmarks).
+static void _hgDrawFoot(int col, const char* label, bool sel) {
+    int16_t x = (col == 0) ? CX : HG_COL1_X;
+    uint16_t bg = sel ? COL_SEL : COL_HDR;
+    uint16_t fg = sel ? COL_ACCENT : COL_SEC;
+    screen.fillArea(x, HG_FOOT_Y, HG_TILE_W, HG_FOOT_H, bg);
+    // Centre-ish text
+    screen.text(label, x + 8, HG_FOOT_Y + HG_FOOT_H / 2 - 7, fg);
+}
+
+// Draw the entire home grid from scratch.
+static void _hgDrawAll(int selRow, int selCol,
+                        const uint16_t* catColors,
+                        const int* catCounts, int numCats,
+                        int bmCount) {
+    // Status bar (battery)
+    screen.statusBar();
+
+    // Header
+    screen.begin();
+    screen.header("ApocaPocket", false);
+
+    // 1px gap line between header and emergency
+    screen.fillArea(CX, HG_EMRG_Y - 2, CW, 2, COL_BG);
+
+    // Emergency tile
+    _hgDrawEmrg(selRow == 0);
+
+    // Gap line
+    screen.fillArea(CX, HG_EMRG_Y + HG_EMRG_H, CW, HG_GAP, COL_BG);
+
+    // Grid tiles
+    for (int r = 0; r < HG_ROWS; r++) {
+        for (int c = 0; c < HG_COLS; c++) {
+            int16_t tx = (c == 0) ? CX : HG_COL1_X;
+            int16_t ty = HG_GRID_Y + r * HG_TILE_H;
+            int catIdx = HG_GRID[r][c];
+            bool sel   = (selRow == r + 1 && selCol == c);
+
+            if (catIdx >= 0 && catIdx < numCats) {
+                char sub[16];
+                snprintf(sub, sizeof(sub), "%d entries", catCounts[catIdx]);
+                _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
+                            HG_CAT_SHORT[catIdx], sub,
+                            catColors[catIdx], sel);
+            } else {
+                // History utility tile — show count + most recent entry name
+                char histLabel[16];
+                if (gHistoryCount > 0)
+                    snprintf(histLabel, sizeof(histLabel), "History (%d)", gHistoryCount);
+                else
+                    snprintf(histLabel, sizeof(histLabel), "History");
+                const char* histSub = (gHistoryCount > 0) ? gHistory[0].title : "No entries yet";
+                _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
+                            histLabel, histSub, COL_TER, sel);
+            }
+
+            // 1px vertical gap between columns
+            if (c == 0)
+                screen.fillArea(HG_TILE_W, ty, 1, HG_TILE_H, COL_BG);
+        }
+        // 1px horizontal gap between tile rows (paint over bottom edge of tile)
+        // (tiles are flush — no inter-row gap needed at 52px, just looks clean)
+    }
+
+    // Gap before footer
+    screen.fillArea(CX, HG_FOOT_Y - HG_GAP, CW, HG_GAP, COL_BG);
+
+    // Footer
+    char bmLabel[20];
+    if (bmCount > 0)
+        snprintf(bmLabel, sizeof(bmLabel), "Bookmarks (%d)", bmCount);
+    else
+        snprintf(bmLabel, sizeof(bmLabel), "Bookmarks");
+    _hgDrawFoot(0, "Search",  selRow == 4 && selCol == 0);
+    _hgDrawFoot(1, bmLabel,   selRow == 4 && selCol == 1);
+    // 1px vertical gap between footer cols
+    screen.fillArea(HG_TILE_W, HG_FOOT_Y, 1, HG_FOOT_H, COL_BG);
+}
+
+int homeGrid(const char** /*catNames*/, const uint16_t* catColors,
+             const int* catCounts, int numCats, int bmCount) {
+    int row = 1, col = 0;   // start selection on first category
+    int prevRow = -1, prevCol = -1;
+
+    // Clamp: if grid slot (row,col) is the utility (-1) slot, skip to valid
+    auto validSlot = [&]() {
+        if (row >= 1 && row <= HG_ROWS) {
+            if (HG_GRID[row - 1][col] == -1 && col == 1) {
+                // utility slot: treat as valid (History)
+            }
+        }
+    };
+    (void)validSlot;
+
+    while (true) {
+        // Full redraw on first iteration or after sub-screen returns
+        bool fullRedraw = (prevRow < 0);
+        if (fullRedraw || prevRow != row || prevCol != col) {
+            if (fullRedraw) {
+                _hgDrawAll(row, col, catColors, catCounts, numCats, bmCount);
+            } else {
+                // Partial: redraw only old tile and new tile
+                // Redraw old selection (deselected style)
+                auto redrawTile = [&](int r, int c) {
+                    if (r == 0) {
+                        _hgDrawEmrg(false);
+                    } else if (r >= 1 && r <= HG_ROWS) {
+                        int16_t tx = (c == 0) ? CX : HG_COL1_X;
+                        int16_t ty = HG_GRID_Y + (r - 1) * HG_TILE_H;
+                        int catIdx = HG_GRID[r - 1][c];
+                        bool sel   = (r == row && c == col);
+                        if (catIdx >= 0 && catIdx < numCats) {
+                            char sub[16];
+                            snprintf(sub, sizeof(sub), "%d entries", catCounts[catIdx]);
+                            _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
+                                        HG_CAT_SHORT[catIdx], sub,
+                                        catColors[catIdx], sel);
+                        } else {
+                            const char* histSub = gHistoryCount > 0 ? gHistory[0].title : "";
+                            _hgDrawTile(tx, ty, HG_TILE_W, HG_TILE_H,
+                                        "History", histSub, COL_TER, sel);
+                        }
+                    } else if (r == 4) {
+                        bool selF = (r == row);
+                        char bmLabel[20];
+                        if (bmCount > 0) snprintf(bmLabel, sizeof(bmLabel), "Bookmarks (%d)", bmCount);
+                        else             snprintf(bmLabel, sizeof(bmLabel), "Bookmarks");
+                        if (c == 0) _hgDrawFoot(0, "Search", selF && col == 0);
+                        else        _hgDrawFoot(1, bmLabel,  selF && col == 1);
+                    }
+                };
+                redrawTile(prevRow, prevCol);
+                redrawTile(row, col);
+            }
+            prevRow = row; prevCol = col;
+        }
+
+        // Input
+        poll();
+        if (gNeedsRedraw) { prevRow = -1; gNeedsRedraw = false; continue; }
+        if (gEmergency)   return -2;
+
+        if (btnOk.tapped() || btnRt.tapped()) {
+            if (row == 0) return -2;  // Emergency
+            if (row >= 1 && row <= HG_ROWS) {
+                int catIdx = HG_GRID[row - 1][col];
+                if (catIdx >= 0) return catIdx;
+                return numCats + 2;  // History
+            }
+            if (row == 4) return (col == 0) ? numCats : numCats + 1;
+        }
+
+        if (btnUp.tapped() || btnUp.repeating()) {
+            if      (row == 0) row = 4;
+            else if (row == 4) row = HG_ROWS;
+            else               row--;
+        }
+        if (btnDn.tapped() || btnDn.repeating()) {
+            if      (row == HG_ROWS) row = 4;
+            else if (row == 4)       row = 0;
+            else                     row++;
+        }
+        if (btnRt.tapped()) {
+            if (row != 0) col = 1 - col;  // toggle 0↔1
+        }
+        if (btnBk.tapped()) {
+            if (row != 0) col = 1 - col;  // BACK = left in grid (at root, no exit)
+        }
+        if (btnBk.held()) {
+            // Held back on home screen = nothing (already at root)
+        }
+    }
+}
+
+
 void splash() {
     screen.begin();
     screen.clearContent();  // non-canvas screen: clear content area explicitly
@@ -300,7 +550,7 @@ static int findHeading(char lines[][LINE_LEN], int total, int pos, int dir) {
 
 // Draw one markdown-styled line into the canvas.
 // y_scr: screen-space y of the line top.
-static void drawEntryLine(const char* ln, int16_t y_scr) {
+void drawEntryLine(const char* ln, int16_t y_scr) {
     uint16_t color  = COL_BODY;
     const char* display = ln;
     static char stripped[LINE_LEN];
@@ -368,7 +618,171 @@ static void renderEntryContent(char (*lines)[LINE_LEN], int total, int scroll) {
 }
 
 // ─────────────────────────────────────────────────────────────
-//  ENTRY VIEWER
+//  CARD-DECK ENTRY VIEWER
+//  Parses entry into cards (by ## sections), navigates LEFT/RIGHT.
+//  UP/DOWN scrolls only on cards marked scrollable (13-CARD_SCROLL_MAX lines).
+// ─────────────────────────────────────────────────────────────
+void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
+    // ── Load entry lines ──────────────────────────────────────────────────────
+    char (*entryLines)[LINE_LEN] = new char[MAX_LINES][LINE_LEN];
+    if (!entryLines) {
+        screen.begin(); screen.clearContent();
+        screen.centerText("Out of memory!", DISP_H / 2 - 10, COL_WARN);
+        screen.centerText("Entry too large",  DISP_H / 2 + 10, COL_SEC);
+        delay(2000);
+        return;
+    }
+
+    int total = readEntry(eid, folderIdx, entryLines, MAX_LINES);
+    if (total <= 0) { delete[] entryLines; return; }
+
+    // ── Parse into cards ──────────────────────────────────────────────────────
+    Card cards[MAX_CARDS];
+    int  cardCount = parseCards(entryLines, total, cards, MAX_CARDS, title);
+    if (cardCount <= 0) {
+        // Fallback: render as single scrollable card
+        delete[] entryLines;
+        showEntry(eid, folderIdx, title);
+        return;
+    }
+
+    bool bookmarked   = isBookmarked(eid);
+    bool diagramAvail = hasDiagram(eid);
+
+    // Truncate entry title for header (fits between chevron and counter)
+    char hdr[20];
+    strncpy(hdr, title ? title : eid, 19);
+    hdr[19] = '\0';
+
+    int  cardIdx    = 0;
+    int  scroll     = 0;   // scroll offset within current card (lines)
+    int  prevCard   = -1;  // -1 forces full redraw on first iteration
+
+    // ── Main loop ─────────────────────────────────────────────────────────────
+    while (true) {
+        const Card& cur = cards[cardIdx];
+
+        // ── Render ────────────────────────────────────────────────────────────
+        if (prevCard != cardIdx) {
+            scroll   = 0;
+            prevCard = cardIdx;
+
+            // Chrome: full header + status bar bg
+            screen.begin();
+
+            // Header: "< Title   2/7"
+            screen.cardHeader(hdr, cardIdx + 1, cardCount);
+
+            // Draw card title row + accent bar + divider directly onto TFT
+            // (above the canvas area — canvas starts at TOP_Y)
+            int16_t titleY = TOP_Y + 2;
+
+            // Accent left bar
+            screen.fillArea(CX, titleY - 2, 3, LINE_H + 2, cur.accentColor);
+
+            // Card title text
+            screen.text(cur.title, CX + 8, titleY, COL_PRI);
+
+            // Thin divider below card title
+            screen.fillArea(CX, titleY + LINE_H + 1, CW, 1, COL_TER);
+        }
+
+        // Canvas: body lines starting after the card title row
+        // Body content starts at TOP_Y + CARD_HDR_H in screen space.
+        // We reuse the existing canvas but offset the y start for card body.
+        int bodyStartY = TOP_Y + CARD_HDR_H;
+        int lpp        = (BOT_Y - bodyStartY) / LINE_H;  // lines per page in body
+
+        // Clamp scroll
+        int maxScroll = (cur.scrollable) ? max(0, cur.lineCount - lpp) : 0;
+        if (scroll > maxScroll) scroll = maxScroll;
+
+        screen.clearCanvas();
+        for (int i = 0; i < lpp; i++) {
+            int li = cur.lineStart + scroll + i;
+            if (li >= cur.lineStart + cur.lineCount) break;
+            // drawEntryLine is file-scoped in ui.cpp, call via renderEntryContent helper
+            // We draw into canvas at the body-offset y position
+            drawEntryLine(entryLines[li], bodyStartY + i * LINE_H);
+        }
+        screen.pushCanvas();
+
+        // Status bar: dot progress + icons
+        screen.statusBarCard(cardIdx + 1, cardCount, bookmarked, diagramAvail);
+
+        // Scroll indicator on scrollable cards
+        if (cur.scrollable && maxScroll > 0)
+            screen.scrollBar(scroll, cur.lineCount);
+
+        // ── Input loop ────────────────────────────────────────────────────────
+        while (true) {
+            poll();
+
+            if (gNeedsRedraw) { prevCard = -1; gNeedsRedraw = false; break; }
+            if (gEmergency || gGoHome) { delete[] entryLines; return; }
+
+            if (btnBk.held())   { gGoHome = true; delete[] entryLines; return; }
+            if (btnBk.tapped()) { delete[] entryLines; return; }
+
+            // Card navigation
+            if (btnRt.tapped()) {
+                cardIdx = (cardIdx + 1) % cardCount;
+                break;
+            }
+            if (btnBk.held()) { gGoHome = true; delete[] entryLines; return; }
+
+            // LEFT goes to previous card
+            // (btnBk is the physical BACK/LEFT button — single tap = prev card,
+            //  held = exit to list. Override single-tap here.)
+            // We use a dedicated left button if wired, else re-map below:
+            // For 5-way switch: UP/DOWN = scroll within card, LEFT = prev card
+            // The 5-way LEFT maps to btnBk in this firmware, so we need to
+            // differentiate held (exit) from tapped (prev card) — already done above.
+
+            // Scroll within card (only if scrollable)
+            if (cur.scrollable) {
+                if (btnUp.tapped() || btnUp.repeating()) {
+                    if (scroll > 0) { scroll--; break; }
+                }
+                if (btnDn.tapped() || btnDn.repeating()) {
+                    if (scroll < maxScroll) { scroll++; break; }
+                }
+            } else {
+                // On non-scrollable cards UP/DOWN also flips cards (feels natural)
+                if (btnUp.tapped())  { cardIdx = (cardIdx - 1 + cardCount) % cardCount; break; }
+                if (btnDn.tapped())  { cardIdx = (cardIdx + 1) % cardCount;             break; }
+            }
+
+            // OK long-press: context menu (bookmark, diagram, info)
+            if (btnOk.held()) {
+                const char* ctxItems[4];
+                int ctxCount = 0;
+                int idxBookmark = -1, idxDiagram = -1, idxClose = -1;
+
+                idxBookmark = ctxCount++;
+                ctxItems[idxBookmark] = bookmarked ? "Remove Bookmark" : "Add Bookmark";
+                if (diagramAvail) {
+                    idxDiagram = ctxCount++;
+                    ctxItems[idxDiagram] = "View Diagram";
+                }
+                idxClose = ctxCount++;
+                ctxItems[idxClose] = "Close";
+
+                int ctx = menu("Options", ctxItems, ctxCount);
+                if (ctx == idxBookmark)
+                    bookmarked = toggleBookmark(eid);
+                else if (diagramAvail && ctx == idxDiagram)
+                    showDiagram(eid, title);
+
+                prevCard = -1;  // force full redraw
+                break;
+            }
+        }
+    }
+}
+
+// ─────────────────────────────────────────────────────────────
+//  ENTRY VIEWER (scroll fallback — used by history resume & card fallback)
 // ─────────────────────────────────────────────────────────────
 void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos) {

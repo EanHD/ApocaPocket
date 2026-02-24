@@ -23,7 +23,12 @@ public:
     void text(const char* s, int16_t x, int16_t y, uint16_t color = COL_PRI);
     void centerText(const char* s, int16_t y, uint16_t color = COL_PRI);
     void header(const char* title, bool showBack = true);
+    // Card-deck variant: shows "← Title  x/N" in the header bar.
+    void cardHeader(const char* entryTitle, int current, int total);
     void statusBar(const char* right = nullptr);
+    // Card-deck variant: dot progress (≤12 cards) or "x / N" text (>12 cards).
+    // Also draws [D] and bookmark star icons on the right.
+    void statusBarCard(int current, int total, bool bookmarked, bool diagramAvail);
     void scrollBar(int pos, int total);
     void fillArea(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color);
 

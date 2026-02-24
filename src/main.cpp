@@ -57,7 +57,7 @@ static void openEntry(uint16_t indexId) {
     Serial.print("Opening: ");
     Serial.println(title);
     addHistory(eid, fi, title);
-    showEntry(eid, fi, title);
+    showCardEntry(eid, fi, title);
 }
 
 void setup() {
@@ -202,45 +202,19 @@ void loop() {
         return;
     }
 
-    // ── Main menu: categories (with colored badges) + utilities ──
-    // Build per-category entry counts
-    for (int i = 0; i < NUM_CATS; i++) {
-        int cnt = 0;
-        for (uint16_t j = 0; j < gIndex.count(); j++) {
-            if (gIndex.category(j) == i) cnt++;
-        }
-        snprintf(menuBuf[i], 32, "%s (%d)", CAT_NAMES[i], cnt);
-        menuBuf[i][31] = '\0';
-        menuPtrs[i]    = menuBuf[i];
-        menuColors[i]  = CAT_COLORS[i];
+    // ── Home grid: build per-category entry counts ──────────────────────────
+    int catCounts[NUM_CATS] = {};
+    for (uint16_t j = 0; j < gIndex.count(); j++) {
+        uint8_t cat = gIndex.category(j);
+        if (cat < NUM_CATS) catCounts[cat]++;
     }
 
-    // Utility items after categories
     int searchIdx = NUM_CATS;
     int bmIdx     = NUM_CATS + 1;
     int histIdx   = NUM_CATS + 2;
 
-    menuPtrs[searchIdx] = "Search";
-    menuColors[searchIdx] = 0;
-
-    if (gBookmarkCount > 0)
-        snprintf(menuBuf[bmIdx], 32, "Bookmarks (%d)", gBookmarkCount);
-    else
-        snprintf(menuBuf[bmIdx], 32, "Bookmarks");
-    menuBuf[bmIdx][31]   = '\0';
-    menuPtrs[bmIdx]      = menuBuf[bmIdx];
-    menuColors[bmIdx]    = 0;
-
-    if (gHistoryCount > 0)
-        snprintf(menuBuf[histIdx], 32, "History (%d)", gHistoryCount);
-    else
-        snprintf(menuBuf[histIdx], 32, "History");
-    menuBuf[histIdx][31] = '\0';
-    menuPtrs[histIdx]    = menuBuf[histIdx];
-    menuColors[histIdx]  = 0;
-
-    int c = menu("ApocaPocket", menuPtrs, NUM_CATS + 3, menuColors);
-    if (gEmergency) return;
+    int c = homeGrid(CAT_NAMES, CAT_COLORS, catCounts, NUM_CATS, gBookmarkCount);
+    if (gEmergency || c == -2) { gEmergency = true; return; }
     if (c < 0) return;
 
     if (c < NUM_CATS) {
