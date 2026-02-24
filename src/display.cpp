@@ -183,7 +183,7 @@ void Screen::statusBar(const char* right) {
     int16_t barBaseline = DISP_H - CY - BAR_H + 15;
 
     _tft.setTextColor(bc);
-    _tft.setCursor(TEXT_PAD_X, barBaseline);
+    _tft.setCursor(STATUS_PAD_X, barBaseline);
     _tft.print(_batBuf);
 
     if (right && right[0]) {
@@ -191,7 +191,7 @@ void Screen::statusBar(const char* right) {
         uint16_t w, h;
         _tft.getTextBounds(right, 0, barBaseline, &x1, &y1, &w, &h);
         _tft.setTextColor(COL_TER);
-        _tft.setCursor(DISP_W - (int16_t)w - TEXT_PAD_X, barBaseline);
+        _tft.setCursor(DISP_W - (int16_t)w - STATUS_PAD_X, barBaseline);
         _tft.print(right);
     }
 }
@@ -205,7 +205,7 @@ void Screen::statusBarCard(int current, int total, bool bookmarked, bool diagram
     int16_t barMidY     = DISP_H - CY - BAR_H + 10;  // vertical centre of bar
 
     // ── Right-side icons ──────────────────────────────────────────────────────
-    int16_t iconX = DISP_W - TEXT_PAD_X;
+    int16_t iconX = DISP_W - STATUS_PAD_X;
     if (bookmarked) {
         int16_t x1, y1; uint16_t w, h;
         _tft.getTextBounds("*", 0, barBaseline, &x1, &y1, &w, &h);
@@ -225,7 +225,7 @@ void Screen::statusBarCard(int current, int total, bool bookmarked, bool diagram
         iconX -= 6;
     }
     // iconX is now the right boundary available for dots/text
-    int16_t centerW = iconX - TEXT_PAD_X;  // usable centre width
+    int16_t centerW = iconX - STATUS_PAD_X;  // usable centre width
 
     // ── Dot progress or text ─────────────────────────────────────────────────
     if (total <= 12) {
@@ -250,8 +250,8 @@ void Screen::statusBarCard(int current, int total, bool bookmarked, bool diagram
         snprintf(buf, sizeof(buf), "%d / %d", current, total);
         int16_t x1, y1; uint16_t w, h;
         _tft.getTextBounds(buf, 0, barBaseline, &x1, &y1, &w, &h);
-        int16_t tx = TEXT_PAD_X + (centerW - (int16_t)w) / 2;
-        if (tx < TEXT_PAD_X) tx = TEXT_PAD_X;
+        int16_t tx = STATUS_PAD_X + (centerW - (int16_t)w) / 2;
+        if (tx < STATUS_PAD_X) tx = STATUS_PAD_X;
         _tft.setTextColor(COL_SEC);
         _tft.setCursor(tx, barBaseline);
         _tft.print(buf);
@@ -273,6 +273,18 @@ void Screen::scrollBar(int pos, int total) {
 
 void Screen::fillArea(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color) {
     _tft.fillRect(x, y, w, h, color);
+}
+
+void Screen::fillRoundRect(int16_t x, int16_t y, int16_t w, int16_t h, int16_t r, uint16_t color) {
+    _tft.fillRoundRect(x, y, w, h, r, color);
+}
+
+void Screen::textBold(const char* s, int16_t x, int16_t y, uint16_t color) {
+    _setBoldFont(_tft);
+    _tft.setTextColor(color);
+    _tft.setCursor(x, y + FONT_CAP_H);
+    _tft.print(s);
+    _setFont(_tft);
 }
 
 // ── Canvas-based rendering ────────────────────────────────────────────────

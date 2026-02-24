@@ -32,6 +32,7 @@
 // header/footer baselines (y≈20 and y≈275). Content area text (y=30–258)
 // is well outside the corner zone so 16px is generous but consistent.
 #define TEXT_PAD_X    16                  // left/right text inset for all UI text
+#define STATUS_PAD_X  21                  // extra inset for footer bar (closer to rounded corners)
 #define CX            0
 #define CY            0
 #define CW            DISP_W              // 240 — full width for fills/chrome

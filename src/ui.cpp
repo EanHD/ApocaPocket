@@ -244,22 +244,22 @@ static void _hgDrawTile(int16_t tileX, int16_t tileY, int16_t tileW, int16_t til
     uint16_t fg   = sel ? COL_ACCENT : COL_PRI;
     uint16_t sfg  = sel ? COL_SEC    : COL_TER;
 
-    screen.fillArea(tileX,     tileY, tileW, tileH, bg);
-    screen.fillArea(tileX,     tileY, 3,     tileH, accentColor);  // accent bar
+    screen.fillRoundRect(tileX, tileY, tileW, tileH, 4, bg);
+    // Accent bar inset from top/bottom so it stays inside the rounded corners
+    screen.fillArea(tileX, tileY + 4, 3, tileH - 8, accentColor);
 
     int16_t textX = tileX + 8;
-    int16_t midY  = tileY + tileH / 2 - 12;  // upper text line
-    screen.text(label, textX, midY,     fg);
+    int16_t midY  = tileY + tileH / 2 - 12;
+    screen.textBold(label, textX, midY, fg);
     if (sub && sub[0])
-        screen.text(sub,   textX, midY + 16, sfg);
+        screen.text(sub, textX, midY + 16, sfg);
 }
 
 // Draw the full emergency tile.
 static void _hgDrawEmrg(bool sel) {
     uint16_t bg = sel ? COL_WARN : 0x6000;  // bright red vs dark red
-    uint16_t fg = COL_PRI;
-    screen.fillArea(CX, HG_EMRG_Y, CW, HG_EMRG_H, bg);
-    screen.centerText("EMERGENCY", HG_EMRG_Y + HG_EMRG_H / 2 - 7, fg);
+    screen.fillRoundRect(CX, HG_EMRG_Y, CW, HG_EMRG_H, 4, bg);
+    screen.centerText("EMERGENCY", HG_EMRG_Y + HG_EMRG_H / 2 - 7, COL_PRI);
 }
 
 // Draw one footer tile (Search or Bookmarks).
@@ -267,8 +267,7 @@ static void _hgDrawFoot(int col, const char* label, bool sel) {
     int16_t x = (col == 0) ? CX : HG_COL1_X;
     uint16_t bg = sel ? COL_SEL : COL_HDR;
     uint16_t fg = sel ? COL_ACCENT : COL_SEC;
-    screen.fillArea(x, HG_FOOT_Y, HG_TILE_W, HG_FOOT_H, bg);
-    // Centre-ish text
+    screen.fillRoundRect(x, HG_FOOT_Y, HG_TILE_W, HG_FOOT_H, 4, bg);
     screen.text(label, x + 8, HG_FOOT_Y + HG_FOOT_H / 2 - 7, fg);
 }
 
@@ -667,42 +666,26 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
             scroll   = 0;
             prevCard = cardIdx;
 
-            // Chrome: full header + status bar bg
+            // Chrome: header bar + status bar bg — direct TFT, only on card change
             screen.begin();
-
-            // Header: "< Title   2/7"
             screen.cardHeader(hdr, cardIdx + 1, cardCount);
-
-            // Draw card title row + accent bar + divider directly onto TFT
-            // (above the canvas area — canvas starts at TOP_Y)
-            int16_t titleY = TOP_Y + 2;
-
-            // Accent left bar
-            screen.fillArea(CX, titleY - 2, 3, LINE_H + 2, cur.accentColor);
-
-            // Card title text
-            screen.text(cur.title, CX + 8, titleY, COL_PRI);
-
-            // Thin divider below card title
-            screen.fillArea(CX, titleY + LINE_H + 1, CW, 1, COL_TER);
         }
 
-        // Canvas: body lines starting after the card title row
-        // Body content starts at TOP_Y + CARD_HDR_H in screen space.
-        // We reuse the existing canvas but offset the y start for card body.
         int bodyStartY = TOP_Y + CARD_HDR_H;
-        int lpp        = (BOT_Y - bodyStartY) / LINE_H;  // lines per page in body
+        int lpp        = (BOT_Y - bodyStartY) / LINE_H;
 
-        // Clamp scroll
         int maxScroll = (cur.scrollable) ? max(0, cur.lineCount - lpp) : 0;
         if (scroll > maxScroll) scroll = maxScroll;
 
+        // Card title row + body drawn together into canvas → single SPI push, zero flicker.
+        // Previously the title was painted to TFT before pushCanvas() overwrote it with COL_BG.
         screen.clearCanvas();
+        screen.canvasFill(CX, TOP_Y, 3, CARD_HDR_H, cur.accentColor);          // accent bar
+        screen.canvasTextBold(cur.title, CX + 8, TOP_Y + 2, COL_PRI);          // section title
+        screen.canvasFill(CX, TOP_Y + CARD_HDR_H - 1, CANVAS_W, 1, COL_TER);  // divider
         for (int i = 0; i < lpp; i++) {
             int li = cur.lineStart + scroll + i;
             if (li >= cur.lineStart + cur.lineCount) break;
-            // drawEntryLine is file-scoped in ui.cpp, call via renderEntryContent helper
-            // We draw into canvas at the body-offset y position
             drawEntryLine(entryLines[li], bodyStartY + i * LINE_H);
         }
         screen.pushCanvas();
@@ -722,22 +705,17 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
             if (gEmergency || gGoHome) { delete[] entryLines; return; }
 
             if (btnBk.held())   { gGoHome = true; delete[] entryLines; return; }
-            if (btnBk.tapped()) { delete[] entryLines; return; }
+            if (btnBk.tapped()) {
+                // LEFT at card 0 → back to list; LEFT elsewhere → previous card
+                if (cardIdx > 0) { cardIdx--; break; }
+                else             { delete[] entryLines; return; }
+            }
 
-            // Card navigation
+            // Card navigation: RIGHT = next card (wraps)
             if (btnRt.tapped()) {
                 cardIdx = (cardIdx + 1) % cardCount;
                 break;
             }
-            if (btnBk.held()) { gGoHome = true; delete[] entryLines; return; }
-
-            // LEFT goes to previous card
-            // (btnBk is the physical BACK/LEFT button — single tap = prev card,
-            //  held = exit to list. Override single-tap here.)
-            // We use a dedicated left button if wired, else re-map below:
-            // For 5-way switch: UP/DOWN = scroll within card, LEFT = prev card
-            // The 5-way LEFT maps to btnBk in this firmware, so we need to
-            // differentiate held (exit) from tapped (prev card) — already done above.
 
             // Scroll within card (only if scrollable)
             if (cur.scrollable) {

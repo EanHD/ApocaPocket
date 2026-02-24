@@ -31,6 +31,8 @@ public:
     void statusBarCard(int current, int total, bool bookmarked, bool diagramAvail);
     void scrollBar(int pos, int total);
     void fillArea(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color);
+    void fillRoundRect(int16_t x, int16_t y, int16_t w, int16_t h, int16_t r, uint16_t color);
+    void textBold(const char* s, int16_t x, int16_t y, uint16_t color = COL_PRI);
 
     // ── Canvas-based rendering (flicker-free) ──────────────────────────────
     // All canvas methods take screen-space coordinates (same origin as direct draw).
