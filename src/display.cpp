@@ -348,6 +348,15 @@ void Screen::canvasFillCircle(int16_t x_scr, int16_t y_scr, int16_t r, uint16_t 
     _canvas->fillCircle(x_scr - CX, y_scr - TOP_Y, r, color);
 }
 
+// Return pixel width of a string rendered in the current canvas (regular) font.
+int Screen::canvasMeasureText(const char* s) {
+    if (!_canvas || !s || !s[0]) return 0;
+    _setFont(*_canvas);
+    int16_t x1, y1; uint16_t w, h;
+    _canvas->getTextBounds(s, 0, FONT_CAP_H, &x1, &y1, &w, &h);
+    return (int)w;
+}
+
 // Draw a menu item into the canvas. y_scr = text-centre y in screen space.
 // Canvas must be cleared before calling this (clearCanvas()).
 void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
@@ -378,6 +387,8 @@ void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
         _canvas->setCursor(chevX, baseline);
         _canvas->print(">");
     } else {
+        // Subtle dim pill so unselected items have visual rhythm (not raw black)
+        _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, MENU_LINE_H - 2, 4, COL_HDR);
         if (badgeColor) _canvas->fillRect(13, yc, 5, FONT_CAP_H, badgeColor);
         _canvas->setTextColor(COL_PRI);
         _canvas->setCursor(textX, baseline);

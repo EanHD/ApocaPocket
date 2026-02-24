@@ -383,14 +383,27 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
         return;
     }
     // Detect bullet so continuation lines can be marked
-    bool isBullet = (line[0] == '-' && len > 1 && line[1] == ' ');
+    bool isBullet   = (line[0] == '-' && len > 1 && line[1] == ' ');
     bool firstChunk = true;
+
+    // Detect numbered list "N. " or "NN. " prefix
+    bool isNumbered = false;
+    int  numPrefix  = 0;
+    if (!isBullet) {
+        int k = 0;
+        while (k < len && isdigit((unsigned char)line[k])) k++;
+        if (k > 0 && k < len - 1 && line[k] == '.' && line[k+1] == ' ')
+            { isNumbered = true; numPrefix = k + 2; }
+    }
+
+    // Indent budget for continuation lines (18px for numbers, 6px for bullets)
+    int contIndent = isNumbered ? 18 : 6;
 
     int pos = 0;
     while (pos < len && count < maxLines) {
-        // Bullet continuation lines render at TEXT_PAD_X+6 instead of TEXT_PAD_X,
-        // so reduce their pixel budget by 6 to preserve the same right margin.
-        int budgetPx = (isBullet && !firstChunk) ? (WRAP_PX - 6) : WRAP_PX;
+        // Continuation lines render indented; reduce budget to preserve right margin.
+        int budgetPx = ((isBullet || isNumbered) && !firstChunk)
+                       ? (WRAP_PX - contIndent) : WRAP_PX;
 
         // Scan forward accumulating pixel widths
         int px = 0, end = pos, lastSpace = -1;
@@ -416,10 +429,11 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
         int copyLen = breakAt - pos;
         while (copyLen > 0 && line[pos + copyLen - 1] == ' ') copyLen--;
 
-        if (isBullet && !firstChunk) {
-            // Prefix continuation with BUL_CONT marker so renderer indents it
+        if ((isBullet || isNumbered) && !firstChunk) {
+            // Prefix continuation with the appropriate marker so renderer indents it
+            char marker = isBullet ? BUL_CONT : NUM_CONT;
             int actual = (copyLen < LINE_LEN - 2) ? copyLen : LINE_LEN - 2;
-            out[count][0] = BUL_CONT;
+            out[count][0] = marker;
             memcpy(out[count] + 1, line + pos, actual);
             out[count][actual + 1] = '\0';
         } else {

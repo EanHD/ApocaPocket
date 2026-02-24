@@ -404,7 +404,7 @@ int homeGrid(const char** /*catNames*/, const uint16_t* catColors,
         if (gNeedsRedraw) { prevRow = -1; gNeedsRedraw = false; continue; }
         if (gEmergency)   return -2;
 
-        if (btnOk.tapped() || btnRt.tapped()) {
+        if (btnOk.tapped()) {
             if (row == 0) return -2;  // Emergency
             if (row >= 1 && row <= HG_ROWS) {
                 int catIdx = HG_GRID[row - 1][col];
@@ -528,7 +528,7 @@ int menu(const char* title, const char** items, int count,
                 else if (sel == 0) offset = 0;
                 break;
             }
-            if (btnOk.tapped() || btnRt.tapped()) return sel;
+            if (btnOk.tapped()) return sel;
         }
     }
 }
@@ -547,60 +547,108 @@ static int findHeading(char lines[][LINE_LEN], int total, int pos, int dir) {
 //  ENTRY CONTENT RENDERING  (canvas-based, flicker-free)
 // ─────────────────────────────────────────────────────────────
 
+// Render text with inline **bold** support.
+// Splits on "**" markers; odd-indexed segments are bold.
+// Advances x using canvasMeasureText so segments sit side-by-side.
+static void _renderInline(const char* text, int16_t x, int16_t y, uint16_t color) {
+    if (!strstr(text, "**")) {
+        screen.canvasText(text, x, y, color);
+        return;
+    }
+    static char seg[LINE_LEN];
+    const char* p = text;
+    bool inBold   = false;
+    int16_t cx    = x;
+    while (*p) {
+        if (p[0] == '*' && p[1] == '*') { inBold = !inBold; p += 2; continue; }
+        const char* end = strstr(p, "**");
+        if (!end) end = p + strlen(p);
+        int len = (int)(end - p);
+        if (len <= 0) { p = end; continue; }
+        if (len >= LINE_LEN) len = LINE_LEN - 1;
+        memcpy(seg, p, len); seg[len] = '\0';
+        if (inBold) {
+            screen.canvasTextBold(seg, cx, y, COL_PRI);  // bold = full white
+        } else {
+            screen.canvasText(seg, cx, y, color);
+        }
+        cx += (int16_t)screen.canvasMeasureText(seg);
+        p = end;
+    }
+}
+
 // Draw one markdown-styled line into the canvas.
 // y_scr: screen-space y of the line top.
 void drawEntryLine(const char* ln, int16_t y_scr) {
     uint16_t color  = COL_BODY;
     const char* display = ln;
     static char stripped[LINE_LEN];
-    int16_t xOff = TEXT_PAD_X;  // screen-space x for body text (corner-safe + readable)
+    int16_t xOff = TEXT_PAD_X;
     bool bold = false;
     bool isBullet = false;
 
     if      (strncmp(ln, "# ",  2) == 0) { color = COL_ACCENT; display = ln + 2; bold = true; }
-    else if (strncmp(ln, "## ", 3) == 0) { color = COL_PRI;    display = ln + 3; }
+    else if (strncmp(ln, "## ", 3) == 0) { color = COL_PRI;    display = ln + 3; bold = true; }
     else if (strncmp(ln, "### ",4) == 0) { color = COL_SEC;    display = ln + 4; }
-    else if (strncmp(ln, "**",  2) == 0) {
-        color = COL_ACCENT;
+    else if (strncmp(ln, "**",  2) == 0 && strstr(ln + 2, "**")) {
+        // Whole-line **label** — standalone bold/accent heading (e.g. "**Watch for:**")
+        color   = COL_ACCENT;
         int slen = strlen(ln), si = 2, ei = slen;
         while (ei > si && ln[ei-1] == '*') ei--;
         int copyLen = min(ei - si, LINE_LEN - 1);
         memcpy(stripped, ln + si, copyLen);
         stripped[copyLen] = '\0';
         display = stripped;
+        bold    = true;
     } else if (strncmp(ln, "- ", 2) == 0) {
         color = COL_BODY;
         strncpy(stripped, ln + 2, LINE_LEN - 1);
         stripped[LINE_LEN - 1] = '\0';
-        display = stripped;
-        xOff = TEXT_PAD_X + 6;  // bullet text indented past the dot
+        display  = stripped;
+        xOff     = TEXT_PAD_X + 10;
         isBullet = true;
     } else if (ln[0] == BUL_CONT) {
-        // Bullet continuation: same indent as bullet text, no dot
         display = ln + 1;
-        xOff = TEXT_PAD_X + 6;
+        xOff    = TEXT_PAD_X + 10;
+    } else if (ln[0] == NUM_CONT) {
+        // Numbered list continuation — same indent, no number
+        display = ln + 1;
+        xOff    = TEXT_PAD_X + 18;
+    } else if (isdigit((unsigned char)ln[0])) {
+        // Numbered list: "N. text" or "NN. text"
+        int k = 0;
+        while (isdigit((unsigned char)ln[k])) k++;
+        if (k > 0 && ln[k] == '.' && ln[k+1] == ' ') {
+            // Draw "N." in dim colour at left margin
+            char numBuf[6]; int nl = min(k + 1, 5);
+            memcpy(numBuf, ln, nl); numBuf[nl] = '\0';
+            screen.canvasText(numBuf, xOff, y_scr, COL_TER);
+            // Body text indented, inline-bold capable
+            strncpy(stripped, ln + k + 2, LINE_LEN - 1);
+            stripped[LINE_LEN - 1] = '\0';
+            display = stripped;
+            xOff    = TEXT_PAD_X + 18;
+            // Fall through to inline render below
+        }
     } else if (strncmp(ln, "    ", 4) == 0) {
-        // 4-space code indent: strip indent, render dimmed
-        color = COL_TER;
+        color   = COL_TER;
         display = ln + 4;
     } else if (strcmp(ln, "---") == 0) {
-        // Horizontal rule: full-width thin divider
         screen.canvasFill(TEXT_PAD_X, y_scr + LINE_H / 2, CANVAS_W - TEXT_PAD_X - 4, 1, COL_TER);
         return;
     }
 
     if (isBullet) {
-        // Filled circle bullet, vertically centred on the text cap height
-        int16_t dotX = TEXT_PAD_X + 1;
+        int16_t dotX = TEXT_PAD_X + 4;
         int16_t dotY = y_scr + (LINE_H / 2) - 1;
         screen.canvasFillCircle(dotX, dotY, 2, COL_SEC);
     }
 
-    // Draw text — bold for H1, regular for everything else
+    // Draw text — bold for headings, inline-bold capable for body lines
     if (bold) {
         screen.canvasTextBold(display, xOff, y_scr, color);
     } else {
-        screen.canvasText(display, xOff, y_scr, color);
+        _renderInline(display, xOff, y_scr, color);
     }
 }
 

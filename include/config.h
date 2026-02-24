@@ -81,6 +81,7 @@
 #define LINE_LEN      56
 #define WRAP_PX       214  // pixel budget per body line
 #define BUL_CONT      '\x01'  // continuation-line marker for wrapped bullets
+#define NUM_CONT      '\x02'  // continuation-line marker for wrapped numbered list items
 #define MAX_TITLE     28
 #define MAX_EID       48
 
