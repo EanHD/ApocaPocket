@@ -283,6 +283,9 @@ static void _hgDrawAll(int selRow, int selCol,
     screen.begin();
     screen.header("ApocaPocket", false);
 
+    // Clear content area so rounded-rect tile corners don't expose splash/stale pixels
+    screen.clearContent();
+
     // 1px gap line between header and emergency
     screen.fillArea(CX, HG_EMRG_Y - 2, CW, 2, COL_BG);
 
@@ -568,11 +571,11 @@ static void _renderInline(const char* text, int16_t x, int16_t y, uint16_t color
         if (len >= LINE_LEN) len = LINE_LEN - 1;
         memcpy(seg, p, len); seg[len] = '\0';
         if (inBold) {
-            screen.canvasTextBold(seg, cx, y, COL_PRI);  // bold = full white
+            screen.canvasTextBold(seg, cx, y, COL_PRI);
         } else {
             screen.canvasText(seg, cx, y, color);
         }
-        cx += (int16_t)screen.canvasMeasureText(seg);
+        cx = screen.canvasCursorX();  // exact xAdvance from glyph table, not ink bbox
         p = end;
     }
 }

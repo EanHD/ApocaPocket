@@ -357,44 +357,62 @@ int Screen::canvasMeasureText(const char* s) {
     return (int)w;
 }
 
-// Draw a menu item into the canvas. y_scr = text-centre y in screen space.
-// Canvas must be cleared before calling this (clearCanvas()).
+// Return the canvas cursor x as screen-space x after the last canvas print.
+// The canvas cursor advances by glyph xAdvance (not ink bounding box), so
+// this gives the exact next position for inline segment rendering.
+int16_t Screen::canvasCursorX() {
+    if (!_canvas) return CX;
+    return _canvas->getCursorX() + CX;
+}
+
+// Draw a menu item into the canvas. y_scr = vertical centre y in screen space.
+// Design language: accent dot on every row, bold selected title, dim chevron.
+// Pixel-accurate title truncation — never clips mid-glyph.
 void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
                              uint16_t badgeColor) {
     if (!_canvas) return;
     _setFont(*_canvas);
 
-    // Truncate long titles with ".."
-    char buf[TITLE_DISPLAY_LEN + 3];
-    _truncate(buf, txt, TITLE_DISPLAY_LEN);
-
     // Canvas-space coordinates
     int16_t yc       = y_scr - TOP_Y;
     int16_t pillY    = yc - (MENU_LINE_H / 2 - 2);
-    int16_t baseline = yc + FONT_CAP_H;
-    int16_t textX    = (badgeColor != 0) ? 24 : 12;  // canvas-x (screen_x - CX)
-    int16_t chevX    = CANVAS_W - 10;                 // near right edge of canvas
+    int16_t pillH    = MENU_LINE_H - 4;
+    int16_t baseline = yc + FONT_CAP_H / 2 + 1;  // vertically centred in pill
+    int16_t dotX     = 10;  // canvas-x of accent dot centre
+    int16_t textX    = 22;  // canvas-x of title start (leaves room for dot)
+    int16_t chevX    = CANVAS_W - 12;
 
-    if (selected) {
-        // iOS-style rounded selection pill
-        _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, MENU_LINE_H - 2, 4, COL_SEL);
-        _canvas->fillRoundRect(4, pillY, 3, MENU_LINE_H - 2, 1, COL_ACCENT);
-        if (badgeColor) _canvas->fillRect(13, yc, 5, FONT_CAP_H, badgeColor);
-        _canvas->setTextColor(COL_ACCENT);
-        _canvas->setCursor(textX, baseline);
-        _canvas->print(buf);
-        _canvas->setTextColor(COL_SEC);
-        _canvas->setCursor(chevX, baseline);
-        _canvas->print(">");
-    } else {
-        // Subtle dim pill so unselected items have visual rhythm (not raw black)
-        _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, MENU_LINE_H - 2, 4, COL_HDR);
-        if (badgeColor) _canvas->fillRect(13, yc, 5, FONT_CAP_H, badgeColor);
-        _canvas->setTextColor(COL_PRI);
-        _canvas->setCursor(textX, baseline);
-        _canvas->print(buf);
-        _canvas->setTextColor(COL_TER);
-        _canvas->setCursor(chevX, baseline);
-        _canvas->print(">");
+    // Background pill
+    uint16_t pillColor = selected ? COL_SEL : COL_HDR;
+    _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, pillH, 5, pillColor);
+
+    // Left accent dot — always shown in category/badge color (or COL_TER if none)
+    uint16_t dotColor = badgeColor ? badgeColor : (selected ? COL_ACCENT : COL_TER);
+    _canvas->fillCircle(dotX, yc, 3, dotColor);
+
+    // Title — pixel-accurate truncation so glyphs never clip
+    // Max pixel budget: from textX to chevX - 4px margin
+    int16_t budget = chevX - textX - 4;
+    char buf[64];
+    int srcLen = strlen(txt);
+    if (srcLen >= 63) srcLen = 62;
+    memcpy(buf, txt, srcLen); buf[srcLen] = '\0';
+    // Trim until it fits
+    while (buf[0]) {
+        int16_t x1, y1; uint16_t w, h;
+        _canvas->getTextBounds(buf, 0, baseline, &x1, &y1, &w, &h);
+        if ((int16_t)w <= budget) break;
+        int l = strlen(buf);
+        if (l <= 2) break;
+        buf[l - 3] = '.'; buf[l - 2] = '.'; buf[l - 1] = '\0';
     }
+
+    _canvas->setTextColor(selected ? COL_ACCENT : COL_PRI);
+    _canvas->setCursor(textX, baseline);
+    _canvas->print(buf);
+
+    // Chevron
+    _canvas->setTextColor(selected ? COL_ACCENT : COL_TER);
+    _canvas->setCursor(chevX, baseline);
+    _canvas->print(">");
 }

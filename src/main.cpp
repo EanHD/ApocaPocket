@@ -28,7 +28,7 @@ static const uint16_t CAT_COLORS[NUM_CATS] = {
 // Reusable buffers for menu item pointers
 #define MAX_MENU_ITEMS 200
 static const char* menuPtrs[MAX_MENU_ITEMS];
-static char menuBuf[MAX_MENU_ITEMS][32]; // for dynamically built labels
+static char menuBuf[MAX_MENU_ITEMS][64]; // for dynamically built labels (subfolder names can be long)
 static uint16_t menuColors[MAX_MENU_ITEMS]; // badge colors (0 = none)
 
 static void openEntry(uint16_t indexId) {
@@ -218,44 +218,66 @@ void loop() {
     if (c < 0) return;
 
     if (c < NUM_CATS) {
-        // ── Browse: Category → Subfolder → Entry List → View ──
+        // ── Browse: Category → [Subfolder →] Entry List → View ──
         int cat = c;
 
         uint8_t subs[16];
         uint8_t subCount;
         gIndex.getSubfolders(cat, subs, subCount, 16);
 
-        int ss = 0; // default if only 1 subfolder
-        if (subCount > 1) {
-            // Build subfolder menu (no badges)
-            for (int i = 0; i < subCount; i++) {
-                uint16_t tmpIdx[MAX_MENU_ITEMS];
-                uint16_t tmpCnt;
-                gIndex.getBySubfolder(cat, subs[i], tmpIdx, tmpCnt, MAX_MENU_ITEMS);
-                const char* sname = subfolderName(subs[i]);
-                if (sname)
-                    snprintf(menuBuf[i], 32, "%s (%d)", sname, tmpCnt);
-                else
-                    snprintf(menuBuf[i], 32, "Folder %d (%d)", subs[i], tmpCnt);
-                menuBuf[i][31] = '\0';
-                menuPtrs[i] = menuBuf[i];
-            }
-            ss = menu(CAT_NAMES[cat], menuPtrs, subCount);
-            if (ss < 0 || gGoHome || gEmergency) return;
+        // Build subfolder labels once
+        for (int i = 0; i < subCount; i++) {
+            uint16_t tmpIdx[MAX_MENU_ITEMS];
+            uint16_t tmpCnt;
+            gIndex.getBySubfolder(cat, subs[i], tmpIdx, tmpCnt, MAX_MENU_ITEMS);
+            const char* sname = subfolderName(subs[i]);
+            if (sname)
+                snprintf(menuBuf[i], 64, "%s (%d)", sname, tmpCnt);
+            else
+                snprintf(menuBuf[i], 64, "Folder %d (%d)", subs[i], tmpCnt);
+            menuPtrs[i] = menuBuf[i];
         }
 
-        uint16_t indices[MAX_MENU_ITEMS];
-        uint16_t entCount;
-        gIndex.getBySubfolder(cat, subs[ss], indices, entCount, MAX_MENU_ITEMS);
-        int n = min((int)entCount, MAX_MENU_ITEMS);
-        for (int i = 0; i < n; i++)
-            menuPtrs[i] = gIndex.title(indices[i]);
+        int ss = 0;  // selected subfolder index
 
-        // Use subfolder label as entry list header
-        const char* listHdr = (subCount > 1) ? menuBuf[ss] : CAT_NAMES[cat];
-        int es = menu(listHdr, menuPtrs, n);
-        if (es >= 0 && !gGoHome && !gEmergency)
-            openEntry(indices[es]);
+        // Outer loop: allows back-from-entry-list to return to subfolder menu
+        while (true) {
+            if (subCount > 1) {
+                ss = menu(CAT_NAMES[cat], menuPtrs, subCount);
+                if (ss < 0 || gGoHome || gEmergency) return;
+            }
+
+            // Build entry list for chosen subfolder
+            uint16_t indices[MAX_MENU_ITEMS];
+            uint16_t entCount;
+            gIndex.getBySubfolder(cat, subs[ss], indices, entCount, MAX_MENU_ITEMS);
+            int n = min((int)entCount, MAX_MENU_ITEMS);
+            for (int i = 0; i < n; i++)
+                menuPtrs[i] = gIndex.title(indices[i]);
+
+            // Build breadcrumb header: "Category › Subfolder" or just "Category"
+            char listHdr[48];
+            if (subCount > 1) {
+                const char* sname = subfolderName(subs[ss]);
+                snprintf(listHdr, sizeof(listHdr), "%s", sname ? sname : menuBuf[ss]);
+            } else {
+                snprintf(listHdr, sizeof(listHdr), "%s", CAT_NAMES[cat]);
+            }
+
+            // Inner loop: stay in entry list after reading an entry
+            while (true) {
+                int es = menu(listHdr, menuPtrs, n);
+                if (gGoHome || gEmergency) return;
+                if (es < 0) break;  // back → go to subfolder menu (or home if only 1)
+                openEntry(indices[es]);
+                if (gGoHome || gEmergency) return;
+                // After reading, loop back to entry list
+            }
+
+            // es was < 0 (back from entry list)
+            if (subCount <= 1) return;  // no subfolder layer → back to homeGrid
+            // else: continue outer loop → show subfolder menu again
+        }
 
     } else if (c == searchIdx) {
         // ── Search ──
