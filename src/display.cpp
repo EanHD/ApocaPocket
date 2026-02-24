@@ -1,4 +1,5 @@
 #include "display.h"
+#include "font_metrics.h"
 #include <Fonts/FreeSans9pt7b.h>
 #include <Fonts/FreeSansBold9pt7b.h>
 
@@ -371,48 +372,57 @@ int16_t Screen::canvasCursorX() {
 void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
                              uint16_t badgeColor) {
     if (!_canvas) return;
-    _setFont(*_canvas);
 
     // Canvas-space coordinates
-    int16_t yc       = y_scr - TOP_Y;
-    int16_t pillY    = yc - (MENU_LINE_H / 2 - 2);
-    int16_t pillH    = MENU_LINE_H - 4;
-    int16_t baseline = yc + FONT_CAP_H / 2 + 1;  // vertically centred in pill
-    int16_t dotX     = 10;  // canvas-x of accent dot centre
-    int16_t textX    = 22;  // canvas-x of title start (leaves room for dot)
-    int16_t chevX    = CANVAS_W - 12;
+    int16_t yc    = y_scr - TOP_Y;           // vertical centre of this item
+    int16_t textX = 22;                        // start-x for text (after accent bar)
+    int16_t chevX = CANVAS_W - 12;            // chevron x
+    int16_t budget = chevX - textX - 4;       // max text pixel width
 
-    // Background pill
-    uint16_t pillColor = selected ? COL_SEL : COL_HDR;
-    _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, pillH, 5, pillColor);
-
-    // Left accent dot — always shown in category/badge color (or COL_TER if none)
-    uint16_t dotColor = badgeColor ? badgeColor : (selected ? COL_ACCENT : COL_TER);
-    _canvas->fillCircle(dotX, yc, 3, dotColor);
-
-    // Title — pixel-accurate truncation so glyphs never clip
-    // Max pixel budget: from textX to chevX - 4px margin
-    int16_t budget = chevX - textX - 4;
-    char buf[64];
-    int srcLen = strlen(txt);
-    if (srcLen >= 63) srcLen = 62;
-    memcpy(buf, txt, srcLen); buf[srcLen] = '\0';
-    // Trim until it fits
-    while (buf[0]) {
-        int16_t x1, y1; uint16_t w, h;
-        _canvas->getTextBounds(buf, 0, baseline, &x1, &y1, &w, &h);
-        if ((int16_t)w <= budget) break;
-        int l = strlen(buf);
-        if (l <= 2) break;
-        buf[l - 3] = '.'; buf[l - 2] = '.'; buf[l - 1] = '\0';
+    // Selected item: subtle pill background
+    if (selected) {
+        int16_t pillY = yc - (MENU_LINE_H / 2 - 3);
+        int16_t pillH = MENU_LINE_H - 6;
+        _canvas->fillRoundRect(4, pillY, CANVAS_W - 8, pillH, 6, COL_SEL);
     }
 
-    _canvas->setTextColor(selected ? COL_ACCENT : COL_PRI);
-    _canvas->setCursor(textX, baseline);
-    _canvas->print(buf);
+    // Left accent bar — 3×20 rounded rect, vertically centred
+    uint16_t dotColor = badgeColor ? badgeColor : (selected ? COL_ACCENT : COL_TER);
+    _canvas->fillRoundRect(8, yc - 10, 3, 20, 1, dotColor);
 
-    // Chevron
+    // Split title into up to two lines
+    char line1[64], line2[64];
+    fsans9SplitTwo(txt, line1, line2, budget);
+
+    bool twoLine = (line2[0] != '\0');
+
+    // Baselines: single-line centred, two-line split above/below centre
+    int16_t bl1, bl2;
+    if (twoLine) {
+        bl1 = yc - 6;    // first line baseline
+        bl2 = yc + 10;   // second line baseline (gap of ~4px between cap tops)
+    } else {
+        bl1 = yc + FONT_CAP_H / 2;  // vertically centred
+        bl2 = 0;
+    }
+
+    // Line 1 — bold title
+    _canvas->setFont(&FreeSansBold9pt7b);
+    _canvas->setTextColor(selected ? COL_ACCENT : COL_PRI);
+    _canvas->setCursor(textX, bl1);
+    _canvas->print(line1);
+
+    // Line 2 — continuation in secondary colour (regular weight)
+    if (twoLine) {
+        _setFont(*_canvas);
+        _canvas->setTextColor(selected ? COL_ACCENT : COL_SEC);
+        _canvas->setCursor(textX, bl2);
+        _canvas->print(line2);
+    }
+
+    // Chevron — always regular weight
+    _setFont(*_canvas);
     _canvas->setTextColor(selected ? COL_ACCENT : COL_TER);
-    _canvas->setCursor(chevX, baseline);
+    _canvas->setCursor(chevX, twoLine ? bl2 : bl1);
     _canvas->print(">");
 }

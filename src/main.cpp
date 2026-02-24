@@ -30,6 +30,7 @@ static const uint16_t CAT_COLORS[NUM_CATS] = {
 static const char* menuPtrs[MAX_MENU_ITEMS];
 static char menuBuf[MAX_MENU_ITEMS][64]; // for dynamically built labels (subfolder names can be long)
 static uint16_t menuColors[MAX_MENU_ITEMS]; // badge colors (0 = none)
+static int subCountsArr[16]; // entry count per subfolder (for subfolderGrid)
 
 static void openEntry(uint16_t indexId) {
     char eid[MAX_EID + 1];
@@ -225,25 +226,27 @@ void loop() {
         uint8_t subCount;
         gIndex.getSubfolders(cat, subs, subCount, 16);
 
-        // Build subfolder labels once
+        // Build subfolder labels once (clean names + counts for grid)
         for (int i = 0; i < subCount; i++) {
             uint16_t tmpIdx[MAX_MENU_ITEMS];
             uint16_t tmpCnt;
             gIndex.getBySubfolder(cat, subs[i], tmpIdx, tmpCnt, MAX_MENU_ITEMS);
+            subCountsArr[i] = (int)tmpCnt;
             const char* sname = subfolderName(subs[i]);
             if (sname)
-                snprintf(menuBuf[i], 64, "%s (%d)", sname, tmpCnt);
+                snprintf(menuBuf[i], 64, "%s", sname);
             else
-                snprintf(menuBuf[i], 64, "Folder %d (%d)", subs[i], tmpCnt);
+                snprintf(menuBuf[i], 64, "Folder %d", subs[i]);
             menuPtrs[i] = menuBuf[i];
         }
 
         int ss = 0;  // selected subfolder index
 
-        // Outer loop: allows back-from-entry-list to return to subfolder menu
+        // Outer loop: allows back-from-entry-list to return to subfolder grid
         while (true) {
             if (subCount > 1) {
-                ss = menu(CAT_NAMES[cat], menuPtrs, subCount);
+                ss = subfolderGrid(CAT_NAMES[cat], menuPtrs, subCountsArr,
+                                   CAT_COLORS[cat], subCount);
                 if (ss < 0 || gGoHome || gEmergency) return;
             }
 

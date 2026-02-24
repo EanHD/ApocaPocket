@@ -43,7 +43,7 @@
 #define TOP_Y         (HDR_H + 2)         // 30  — content area start
 #define BOT_Y         (DISP_H - BAR_H - 2)// 258 — content area end
 #define LINE_H        18
-#define MENU_LINE_H   28
+#define MENU_LINE_H   40
 #define LPP           ((BOT_Y - TOP_Y) / LINE_H)          // 228/18 = 12
 #define MENU_VIS      ((BOT_Y - TOP_Y - 12) / MENU_LINE_H)// 216/24 = 9
 

@@ -56,6 +56,11 @@ extern bool gNeedsRedraw;
 int homeGrid(const char** catNames, const uint16_t* catColors,
              const int* catCounts, int numCats, int bmCount);
 
+// Subfolder grid — 2-column tile grid to replace flat subfolder list
+// Returns: 0..subCount-1 = selected index, -1 = back
+int subfolderGrid(const char* catName, const char** subNames,
+                   const int* subCounts, uint16_t catColor, int subCount);
+
 // Core UI functions - return selected index or -1 for back
 void splash();
 int  menu(const char* title, const char** items, int count,

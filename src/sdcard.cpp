@@ -1,4 +1,5 @@
 #include "sdcard.h"
+#include "font_metrics.h"
 #include <SPI.h>
 
 Index gIndex;
@@ -354,27 +355,9 @@ void Index::getBySubfolder(uint8_t cat, uint8_t sub, uint16_t* indices,
 
 // -- Entry reader --
 
-// FreeSans9pt7b xAdvance per printable ASCII char (index = char - 32).
-// Extracted directly from FreeSans9pt7b.h glyph table. Used for pixel-accurate
-// word wrapping so lines never overflow the canvas regardless of char mix.
-static const uint8_t FSANS9_ADV[95] = {
-    5,  6,  6, 10, 10, 16, 12,  4,  6,  6,  7, 11,  5,  6,  5,  5,  //  !"#$%&'()*+,-./
-   10, 10, 10, 10, 10, 10, 10, 10, 10, 10,  5,  5, 11, 11, 11, 10,  // 0123456789:;<=>?
-   18, 12, 12, 13, 13, 11, 11, 14, 13,  5, 10, 12, 10, 15, 13, 14,  // @ABCDEFGHIJKLMNO
-   12, 14, 13, 12, 11, 13, 12, 17, 12, 12, 11,  5,  5,  5,  8, 10,  // PQRSTUVWXYZ[\]^_
-    5, 10, 10,  9, 10, 10,  5, 10, 10,  4,  4,  9,  4, 15, 10, 10,  // `abcdefghijklmno
-   10, 10,  6,  9,  5, 10,  9, 13,  9,  9,  9,  6,  4,  6,  9       // pqrstuvwxyz{|}~
-};
-
-static inline uint8_t charAdv(char c) {
-    uint8_t u = (uint8_t)c;
-    return (u >= 32 && u <= 126) ? FSANS9_ADV[u - 32] : 8;
-}
-
 // Pixel-accurate word wrap. Breaks lines at the last space that keeps the
 // pixel width within WRAP_PX. Hard-breaks only for words longer than budget.
-// Bullet lines (starting with "- "): continuation chunks are prefixed with
-// BUL_CONT (\x01) so drawEntryLine can indent them consistently.
+// Bullet/numbered-list continuation chunks are prefixed with BUL_CONT/NUM_CONT.
 static void wrapLine(const char* line, char out[][LINE_LEN],
                      int& count, int maxLines) {
     int len = strlen(line);
@@ -408,7 +391,7 @@ static void wrapLine(const char* line, char out[][LINE_LEN],
         // Scan forward accumulating pixel widths
         int px = 0, end = pos, lastSpace = -1;
         while (end < len) {
-            uint8_t adv = charAdv(line[end]);
+            uint8_t adv = fsans9Adv(line[end]);
             if (px + adv > budgetPx) break;  // next char would overflow
             px += adv;
             if (line[end] == ' ') lastSpace = end;

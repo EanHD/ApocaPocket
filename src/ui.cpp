@@ -210,6 +210,88 @@ void waitAny() {
 //    -1            → (unused at home; BACK held = nothing)
 // ─────────────────────────────────────────────────────────────
 
+// ─────────────────────────────────────────────────────────────
+//  SUBFOLDER GRID
+//  2-column tile grid for subfolder selection (replaces flat list)
+//  Returns: 0..subCount-1 = selected subfolder, -1 = back
+// ─────────────────────────────────────────────────────────────
+int subfolderGrid(const char* catName, const char** subNames,
+                   const int* subCounts, uint16_t catColor, int subCount) {
+    static const int16_t COLS   = 2;
+    static const int16_t TILE_W = (CW - 1) / COLS;  // 119
+    static const int16_t COL1_X = TILE_W + 1;        // 120
+    const int16_t AVAIL  = BOT_Y - TOP_Y;             // 228
+    const int     rows   = (subCount + COLS - 1) / COLS;
+    // Shrink tile height if many rows, cap at 56px
+    const int16_t tileH  = (rows > 0) ? (int16_t)(min(56, AVAIL / rows)) : 56;
+
+    auto drawTile = [&](int idx, bool selected) {
+        int r = idx / COLS;
+        int c = idx % COLS;
+        int16_t tx = (c == 0) ? CX : COL1_X;
+        int16_t ty = TOP_Y + r * tileH;
+        if (idx >= subCount) {
+            // Empty slot — fill with background so stale pixels don't show
+            screen.fillArea(tx, ty, TILE_W, tileH, COL_BG);
+            return;
+        }
+        char sub[20];
+        snprintf(sub, sizeof(sub), "%d entries", subCounts[idx]);
+        // Reuse homeGrid tile helper: rounded bg, accent bar, label+subtitle
+        uint16_t bg  = selected ? COL_SEL : COL_HDR;
+        uint16_t fg  = selected ? COL_ACCENT : COL_PRI;
+        uint16_t sfg = selected ? COL_SEC    : COL_TER;
+        screen.fillRoundRect(tx, ty, TILE_W, tileH, 6, bg);
+        screen.fillArea(tx, ty + 5, 3, tileH - 10, catColor);
+        int16_t textX = tx + 8;
+        int16_t midY  = ty + tileH / 2 - 12;
+        screen.textBold(subNames[idx], textX, midY, fg);
+        screen.text(sub, textX, midY + 16, sfg);
+        // 1px vertical gap between columns
+        if (c == 0)
+            screen.fillArea(TILE_W, ty, 1, tileH, COL_BG);
+    };
+
+    int sel = 0, prevSel = -1;
+    while (true) {
+        bool full = (prevSel < 0);
+        if (full) {
+            screen.begin();
+            screen.header(catName);
+            screen.clearContent();
+            for (int i = 0; i < rows * COLS; i++) drawTile(i, i == sel);
+        } else if (prevSel != sel) {
+            drawTile(prevSel, false);
+            drawTile(sel, true);
+        }
+        char pos[12];
+        snprintf(pos, sizeof(pos), "%d/%d", sel + 1, subCount);
+        screen.statusBar(pos);
+        prevSel = sel;
+
+        poll();
+        if (gNeedsRedraw) { prevSel = -1; gNeedsRedraw = false; continue; }
+        if (gEmergency || gGoHome) return -1;
+        if (btnBk.held()) { gGoHome = true; return -1; }
+        if (btnBk.tapped()) return -1;
+        if (btnOk.tapped()) return sel;
+
+        if (btnUp.tapped() || btnUp.repeating()) {
+            if (sel >= COLS) sel -= COLS;
+        }
+        if (btnDn.tapped() || btnDn.repeating()) {
+            int ns = sel + COLS;
+            if (ns < subCount) sel = ns;
+        }
+        if (btnRt.tapped()) {
+            // RIGHT moves to right column (if valid)
+            int ns = (sel % COLS == 0) ? sel + 1 : sel - 1;
+            if (ns >= 0 && ns < subCount) sel = ns;
+        }
+    }
+}
+
+
 // Grid layout constants
 #define HG_EMRG_Y    TOP_Y            // 30
 #define HG_EMRG_H    36
@@ -728,8 +810,13 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         int maxScroll = (cur.scrollable) ? max(0, cur.lineCount - lpp) : 0;
         if (scroll > maxScroll) scroll = maxScroll;
 
+        // Vertical centering: short cards are padded so content sits mid-body
+        int topPad = 0;
+        if (!cur.scrollable && cur.lineCount < lpp) {
+            topPad = ((lpp - cur.lineCount) * LINE_H) / 2;
+        }
+
         // Card title row + body drawn together into canvas → single SPI push, zero flicker.
-        // Previously the title was painted to TFT before pushCanvas() overwrote it with COL_BG.
         screen.clearCanvas();
         screen.canvasFill(CX, TOP_Y, 3, CARD_HDR_H, cur.accentColor);          // accent bar
         screen.canvasTextBold(cur.title, CX + 8, TOP_Y + 2, COL_PRI);          // section title
@@ -737,7 +824,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         for (int i = 0; i < lpp; i++) {
             int li = cur.lineStart + scroll + i;
             if (li >= cur.lineStart + cur.lineCount) break;
-            drawEntryLine(entryLines[li], bodyStartY + i * LINE_H);
+            drawEntryLine(entryLines[li], bodyStartY + topPad + i * LINE_H);
         }
         screen.pushCanvas();
 
