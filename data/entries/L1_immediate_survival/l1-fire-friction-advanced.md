@@ -1,4 +1,39 @@
-# Advanced Friction Fire ⭐⭐⭐
+---
+id: l1-fire-friction-advanced
+title: Friction Fire Mastery
+category: L1_immediate_survival
+subtopic: fire
+tags:
+- friction-fire
+- hand-drill
+- bow-drill
+- fire-plow
+- primitive-skills
+- coal
+region_relevance:
+- global
+confidence: high
+difficulty: advanced
+time_required: 30 seconds to 5 minutes
+summary: Expert friction fire via hand drill, fire plow, and pump drill. An expert produces coal in 30-60 seconds. The bow drill is for learning — hand drill is fastest. Friction fire is not a last resort; it works 100% when conditions and technique are right.
+warnings:
+- Blisters are normal early in hand drill practice — build calluses before relying on this in the field
+- Coal dies in seconds if tinder is suboptimal — prepare your tinder bundle before starting
+- Do not stop spinning when you first see smoke — wait until smoke continues after you stop
+related_entries:
+- l1-fire-bow-drill-detailed
+- l1-fire-tinder-identification
+- l1-fire-wood-selection
+- l1-fire-ignition-methods
+sources:
+- wescott-primitive-technology-1999
+- campbell-survival-skills-1999
+- us-army-fm-21-76
+last_verified: '2026-02-18'
+audit_status: verified
+---
+
+# Friction Fire Mastery
 
 **Level:** L1 (Basic skill, advanced mastery)  
 **Category:** Fire Starting  
@@ -23,7 +58,7 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 
 **Historical reality:** Making fire was as routine as tying shoes. Children learned by age 10-12. It wasn't considered difficult.
 
-## FricFire
+## How It Works
 
 ### Why It Works
 1. **Friction:** Two wood surfaces rub together (generates heat)
@@ -301,42 +336,6 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 - **Blisters:** Normal for hand drill (build calluses over time)
 - **Splinters:** Smooth spindles before use
 - **Overuse:** Rest if hands become raw (2-3 days recovery)
-
-## Diagram Specifications
-
-### Diagram 1: Hand Drill Technique
-```
-[Sequential illustration:]
-1. Hand position at top of spindle (flat palms)
-2. Downward pressure + spin (hands descend)
-3. Quick return to top (minimal heat loss)
-4. Coal formation in V-notch (sawdust pile ignites)
-- Close-up: V-notch with coal smoking
-- Body position (kneeling, foot on board)
-```
-
-### Diagram 2: Fire Plow Technique
-```
-[Side view and action sequence:]
-- Board with carved groove (¼" deep)
-- Plow stick at 45° angle
-- Downward stroke (fast, firm pressure)
-- Return stroke (lighter pressure)
-- Coal formation at bottom of groove
-- Sawdust accumulation (darkens to coal)
-```
-
-### Diagram 3: Coal Transfer & Tinder Bundle
-```
-[Step-by-step coal transfer:]
-1. Coal glowing in notch (smoking)
-2. Tip onto bark/leaf (transfer)
-3. Place coal in tinder nest (center cavity)
-4. Fold tinder around coal (wrap loosely)
-5. Blow gently (oxygen feeds coal)
-6. Flame erupts (tinder ignites)
-- Tinder bundle cross-section (layers)
-```
 
 ## Sources
 

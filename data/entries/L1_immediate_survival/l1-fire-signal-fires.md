@@ -91,12 +91,18 @@ Signal fires are the most visible long-range rescue signal — visible up to 20 
 - Rubber (toxic — last resort)
 - Burning foam/plastic (toxic — emergency only)
 
+**Column Control:**
+Stack rocks/logs in a ring around the fire with
+gaps at the base — creates a chimney effect.
+Tall, straight columns are visible 15+ miles
+on calm days. Dispersed smoke loses contrast.
+
 **Technique:**
 - Add material every 2-3 minutes
 - Target: 50-100 ft smoke column
 - Duration: Maintain 30-60 minutes minimum
 
-## Site Sel
+## Site Selection
 
 **Ideal locations:**
 ✓ Ridgetops/hilltops  
