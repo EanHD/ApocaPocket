@@ -9,10 +9,10 @@ time_required: "2-4 hours initial setup"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "American Academy of Pediatrics (AAP) Poison Prevention"
-  - "Safe Kids Worldwide - Home Safety Guidelines"
-  - "CDC Child Injury Prevention"
-  - "National Poison Control Center Protocols"
+- "American Academy of Pediatrics (AAP) Poison Prevention"
+- "Safe Kids Worldwide - Home Safety Guidelines"
+- "CDC Child Injury Prevention"
+- "National Poison Control Center Protocols"
 ---
 
 # Childproofing and Poisoning Prevention
@@ -79,12 +79,13 @@ sources:
 
 ---
 
-## Common Household Poisons (Survival Scenarios)
+## Common Poisons
 
 ### Medications (TOP CAUSE)
 
 **High-risk medications (even 1-2 pills can harm children):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Medication | Child Danger | Symptoms if Ingested |
 |------------|--------------|----------------------|
 | Opioids (hydrocodone, oxycodone) | EXTREME | Drowsiness, slow breathing, coma, death |
@@ -170,7 +171,7 @@ sources:
 
 ---
 
-## Childproofing Strategies (Layered Defense)
+## Childproofing
 
 ### Layer 1: Remove or Lock Away (BEST)
 
@@ -232,7 +233,7 @@ sources:
 
 ---
 
-## Poisoning Prevention Checklist (Room-by-Room)
+## Poisoning Prevention
 
 ### Kitchen
 
@@ -273,7 +274,7 @@ sources:
 
 ---
 
-## If Poisoning Occurs (Emergency Response)
+## If Poisoning
 
 ### Immediate Steps
 
@@ -340,7 +341,7 @@ sources:
 
 ---
 
-## Activated Charcoal (Advanced Preparation)
+## Activated Charcoal
 
 ### What It Is
 - Black powder (binds toxins in stomach)
@@ -365,15 +366,14 @@ sources:
 
 ---
 
-## Common Poisoning Myths (DANGEROUS)
+## Common Myths
 
-| ❌ Myth | ✓ Truth |
-|---------|---------|
-| Induce vomiting with ipecac syrup | NO - Can cause aspiration, worsen corrosive burns. Ipecac no longer recommended. |
-| Give milk to neutralize poison | NO - Milk does not neutralize most poisons, may speed absorption |
-| Wait and see if symptoms develop | NO - Many poisons have delayed effects (iron, acetaminophen), early treatment critical |
-| Burnt toast absorbs poison | NO - Not the same as activated charcoal (which must be medical-grade) |
-| Childproof caps are foolproof | NO - Delay but don't prevent (toddlers can open with persistence) |
+**❌ Myth:** ✓ Truth
+**Induce vomiting with ipecac syrup:** NO - Can cause aspiration, worsen corrosive burns. Ipecac no longer recommended.
+**Give milk to neutralize poison:** NO - Milk does not neutralize most poisons, may speed absorption
+**Wait and see if symptoms develop:** NO - Many poisons have delayed effects (iron, acetaminophen), early treatment critical
+**Burnt toast absorbs poison:** NO - Not the same as activated charcoal (which must be medical-grade)
+**Childproof caps are foolproof:** NO - Delay but don't prevent (toddlers can open with persistence)
 
 ---
 
@@ -408,7 +408,7 @@ sources:
 
 ---
 
-## Prevention for Specific Age Groups
+## Prevent Age-Specific
 
 ### Infants (0-12 months)
 
@@ -454,7 +454,7 @@ sources:
 
 ---
 
-## Long-Term Poisoning Risks (Chronic Exposure)
+## Long-term Risks
 
 ### Lead (Old Paint, Water)
 

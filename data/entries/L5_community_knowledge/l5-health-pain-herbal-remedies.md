@@ -36,6 +36,6 @@ steps:
   severe pain.'
 ---
 
-# Pain Management — Wild Herbal Remedies
+# Pain Mgmt
 
 Several wild plants contain compounds that reduce pain and inflammation. Not as effective as modern painkillers but can provide relief for headaches, muscle pain, minor injuries when pharmaceuticals are unavailable.

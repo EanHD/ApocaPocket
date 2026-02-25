@@ -53,10 +53,10 @@ void loadBookmarks() {
     gBookmarkCount = 0;
     File f = SDFS.open("/index/bookmarks.txt", "r");
     if (!f) return;
-    char buf[40];
+    char buf[MAX_EID + 2];
     while (gBookmarkCount < MAX_BOOKMARKS && f.available()) {
         int len = 0;
-        while (len < 39 && f.available()) {
+        while (len < MAX_EID && f.available()) {
             char c = (char)f.read();
             if (c == '\n') break;
             if (c != '\r') buf[len++] = c;
@@ -320,7 +320,7 @@ int menu(const char* title, const char** items, int count,
                                       badgeColors ? badgeColors[ii] : 0);
             }
             screen.pushCanvas();
-            if (count > vis) screen.scrollBar(sel, count);
+            if (count > vis) screen.scrollBar(sel, count, MENU_VIS);
             dirty = false;
         }
 
@@ -601,12 +601,6 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         int maxScroll = (cur.scrollable) ? max(0, cur.lineCount - lpp) : 0;
         if (scroll > maxScroll) scroll = maxScroll;
 
-        // Vertical centering: short cards are padded so content sits mid-body
-        int topPad = 0;
-        if (!cur.scrollable && cur.lineCount < lpp) {
-            topPad = ((lpp - cur.lineCount) * LINE_H) / 2;
-        }
-
         // ── Diagram card: render fullscreen BMP, wait for nav, then advance ──
         if (cur.isDiagram) {
             showDiagram(diagEid[0] ? diagEid : eid, hdr);
@@ -626,7 +620,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         for (int i = 0; i < lpp; i++) {
             int li = cur.lineStart + scroll + i;
             if (li >= cur.lineStart + cur.lineCount) break;
-            drawEntryLine(entryLines[li], bodyStartY + topPad + i * LINE_H);
+            drawEntryLine(entryLines[li], bodyStartY + i * LINE_H);
         }
         screen.pushCanvas();
 

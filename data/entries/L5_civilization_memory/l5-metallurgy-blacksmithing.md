@@ -179,10 +179,11 @@ Blacksmithing is **THE MULTIPLIER PROFESSION**. One skilled blacksmith can:
 
 ---
 
-## Heat Colors (CRITICAL SKILL)
+## Heat Colors
 
 **Iron changes color with temperature**—this is how blacksmiths judge heat without thermometers. **Master this chart**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Color | Temperature (°F) | Workability | Uses |
 |-------|------------------|-------------|------|
 | **Black heat** | <900°F | Barely visible in dark | Too cold to forge |
@@ -207,7 +208,7 @@ Blacksmithing is **THE MULTIPLIER PROFESSION**. One skilled blacksmith can:
 
 ---
 
-## Basic Forging Techniques
+## Basic Forge Tech
 
 ### 1. Drawing Out (Lengthening)
 **Purpose**: Make stock longer and thinner (e.g., taper a point)
@@ -271,7 +272,7 @@ Blacksmithing is **THE MULTIPLIER PROFESSION**. One skilled blacksmith can:
 
 ---
 
-## Hardening & Tempering Steel
+## Hardening Steel
 
 **Difference**:
 - **Iron (wrought iron)**: Soft, malleable, doesn't harden (used for nails, hinges, structural)
@@ -284,9 +285,9 @@ Blacksmithing is **THE MULTIPLIER PROFESSION**. One skilled blacksmith can:
 1. Heat steel to **critical temperature** (1400-1500°F for most steel, cherry-red to orange)
 2. **Test with magnet**: When steel is non-magnetic, it's at critical temp
 3. **Quench rapidly** in liquid:
-   - **Water**: Fastest cooling, hardest result (risk of cracking)
-   - **Oil**: Slower cooling, less risk of cracking (best for tools)
-   - **Brine** (salt water): Faster than water (very hard, higher crack risk)
+- **Water**: Fastest cooling, hardest result (risk of cracking)
+- **Oil**: Slower cooling, less risk of cracking (best for tools)
+- **Brine** (salt water): Faster than water (very hard, higher crack risk)
 4. **Result**: Steel is now **very hard but brittle** (like glass)
 
 ### Tempering (Reducing Brittleness)
@@ -295,11 +296,11 @@ Blacksmithing is **THE MULTIPLIER PROFESSION**. One skilled blacksmith can:
 **Process**:
 1. **Clean steel** (wire brush, sandpaper) until shiny
 2. **Reheat slowly** to tempering temperature (watch color change):
-   - **Pale yellow** (400°F): Razors, knives (hardest)
-   - **Straw yellow** (450°F): Chisels, axes (hard, slight flex)
-   - **Brown** (500°F): Punches, plane irons
-   - **Purple** (550°F): Springs, swords (flexible)
-   - **Blue** (600°F): Very flexible (springs)
+- **Pale yellow** (400°F): Razors, knives (hardest)
+- **Straw yellow** (450°F): Chisels, axes (hard, slight flex)
+- **Brown** (500°F): Punches, plane irons
+- **Purple** (550°F): Springs, swords (flexible)
+- **Blue** (600°F): Very flexible (springs)
 3. **Quench** when desired color reached (stops tempering)
 
 **Oxide color chart** (appears during tempering):
@@ -312,7 +313,7 @@ Pale yellow → Straw → Brown → Purple → Blue
 
 ---
 
-## DIAGRAM: Forge Layout & Heat Color Chart
+## Forge Layout
 
 ```
 FORGE SETUP (Top View):
@@ -356,7 +357,7 @@ Temperature Scale:
 
 ---
 
-## Common Projects (From Easy to Advanced)
+## Common Projects
 
 ### Beginner
 
@@ -443,13 +444,13 @@ Temperature Scale:
 
 ---
 
-## Exponential Effect: One Smith → Equipped Community
+## One Smith → Equip'd
 
 **Historical example** (Medieval village, 100 people):
 - **1 blacksmith** produces:
-  - 50 nails/day × 6 days = 300 nails/week (builds 2-3 houses)
-  - 10 tools/week (axes, hoes, knives) = 520 tools/year
-  - Repairs: Broken tools fixed in hours (vs months to replace)
+- 50 nails/day × 6 days = 300 nails/week (builds 2-3 houses)
+- 10 tools/week (axes, hoes, knives) = 520 tools/year
+- Repairs: Broken tools fixed in hours (vs months to replace)
 
 **Result**:
 - Farmers: 10× productivity (iron plows vs wooden)
@@ -461,12 +462,12 @@ Temperature Scale:
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *The Complete Modern Blacksmith* by Alexander Weygers (techniques, projects, DIY)
-- *The Art of Blacksmithing* by Alex Bealer (history, traditional methods)
-- *Practical Blacksmithing* (compilation, 19th-century techniques)
-- *Colonial Williamsburg* / *Mystic Seaport* (live blacksmithing demonstrations)
+- The Complete Modern Blacksmith by Alexander Weygers (techniques, projects, DIY)
+- The Art of Blacksmithing by Alex Bealer (history, traditional methods)
+- Practical Blacksmithing (compilation, 19th-century techniques)
+- Colonial Williamsburg / Mystic Seaport (live blacksmithing demonstrations)
 
 ---
 

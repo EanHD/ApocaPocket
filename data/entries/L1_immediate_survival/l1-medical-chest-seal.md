@@ -51,7 +51,7 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 
 **Critical timing:** Patient deteriorates rapidly. Seal within first 60 seconds if possible.
 
-## Understanding the Mechanism
+## Understand Mechan
 
 ### Normal Chest Mechanics
 - Chest cavity (pleural space) is normally under negative pressure
@@ -73,10 +73,11 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 - Cardiac output drops ‚Üí shock ‚Üí death
 - **Time to death: 5-10 minutes**
 
-## Recognition - The "Deadly Trio"
+## Recog
 
 ### Sucking Chest Wound Signs
 
+<!-- MANUAL_REVIEW: complex table below ‚Äî convert to bullets -->
 | Sign | Description | Reliability |
 |------|-------------|-------------|
 | **Visible wound** | Penetrating injury to chest (gunshot, stab, impalement, shrapnel) | Definitive |
@@ -88,6 +89,7 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 
 ### Pneumothorax/Tension Pneumothorax Signs
 
+<!-- MANUAL_REVIEW: complex table below ‚Äî convert to bullets -->
 | Finding | Open Pneumothorax | Tension Pneumothorax (CRITICAL) |
 |---------|------------------|--------------------------------|
 | **Breathing** | Difficult, rapid | Severe distress, gasping |
@@ -102,7 +104,7 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 
 **Key differentiator:** Distended neck veins + worsening after sealing = tension pneumothorax
 
-## Step-by-Step Treatment Protocol
+## Step-by-Step Protocol
 
 ### 1. Scene Safety and ABCs (10 seconds)
 - Ensure scene is safe
@@ -150,21 +152,21 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 **Critical: THREE sides taped, ONE side open (creates flutter valve)**
 
 1. **Have patient exhale forcefully** (or time with exhalation)
-   - This pushes air OUT of chest before sealing
-   - Critical step - reduces trapped air
+- This pushes air OUT of chest before sealing
+- Critical step - reduces trapped air
 
 2. **Place seal material over wound**
-   - Cover wound completely with 2" (5cm) overlap all sides
-   - Center over wound
+- Cover wound completely with 2" (5cm) overlap all sides
+- Center over wound
 
 3. **Tape THREE sides** (top, left, right) - **LEAVE BOTTOM OPEN**
-   - Open side should be bottom (gravity helps drainage)
-   - Use generous tape strips
-   - Press firmly to create airtight seal on three sides
+- Open side should be bottom (gravity helps drainage)
+- Use generous tape strips
+- Press firmly to create airtight seal on three sides
 
 4. **Check seal**
-   - Should flutter with breathing (air escapes on exhale, seals on inhale)
-   - No air should enter wound on inhale
+- Should flutter with breathing (air escapes on exhale, seals on inhale)
+- No air should enter wound on inhale
 
 **Why three-sided?**
 - Air can escape on exhalation (prevents tension)
@@ -237,10 +239,10 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 ### 10. Evacuate Immediately
 - This is temporary field measure
 - Definitive treatment requires:
-  - Chest tube placement (hospital procedure)
-  - Surgical repair
-  - Chest X-ray
-  - Possible ventilator support
+- Chest tube placement (hospital procedure)
+- Surgical repair
+- Chest X-ray
+- Possible ventilator support
 
 ## Special Situations
 
@@ -269,7 +271,7 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 - Suspect if blast exposure + breathing difficulty
 - Cannot seal (no external wound) - evacuate rapidly
 
-## Common Mistakes to Avoid
+## Common Mistakes
 
 - ‚ùå Four-sided seal (completely occlusive) - creates tension pneumothorax
 - ‚ùå Not checking for exit wound
@@ -282,7 +284,7 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 - ‚ùå Removing impaled objects
 - ‚ùå Delaying seal application
 
-## Field Improvisation Examples
+## Field Improv
 
 ### Plastic Wrap Method
 1. Cut piece 4-6 inches square (10-15 cm)
@@ -307,7 +309,7 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** ‚Ä
 2. Place over wound
 3. Tape edges (can tape all four sides if using this material - it has some give)
 
-## Monitoring and Documentation
+## Monitor & Doc
 
 ### Vital Signs
 - Respiratory rate: Every 2-5 minutes
@@ -348,7 +350,7 @@ Complications: _______________________
 Evacuation time: _____
 ```
 
-## When NOT to Apply Chest Seal
+## Chest Seal
 
 - No visible chest wound (cannot seal)
 - Blast injury without penetration (internal only)
@@ -373,8 +375,9 @@ Evacuation time: _____
 - ICU monitoring
 - Possible ventilator
 
-## Summary Quick Reference
+## Summary QR
 
+<!-- MANUAL_REVIEW: complex table below ‚Äî convert to bullets -->
 | Step | Action | Time |
 |------|--------|------|
 | 1 | Identify sucking chest wound (bubbling, hissing) | 15 sec |

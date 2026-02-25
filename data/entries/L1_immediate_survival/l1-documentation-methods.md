@@ -85,7 +85,7 @@ In survival scenarios:
 - Multiple SD card copies
 - Cloud backup if internet available
 
-## Drawing: Visual Records
+## Drawing
 
 ### Why Drawings Beat Text
 - **Faster:** A map takes 1 minute, written directions take 10
@@ -144,7 +144,7 @@ In survival scenarios:
 
 **Update:** Annotate with lessons learned after building
 
-## Photography (If Available)
+## Photography
 
 ### Critical Use Cases
 - **Plant ID:** Far faster than drawing, captures fine detail
@@ -175,7 +175,7 @@ In survival scenarios:
 ### When Camera Fails
 **Always have backup:** Carry a small sketchbook. You can't trust electronics alone.
 
-## Audio Recording (If Available)
+## Audio
 
 ### High-Value Use Cases
 
@@ -228,6 +228,7 @@ In survival scenarios:
 ```
 △ = Landmark (mountain, hill, structure)
 ~ = Water (stream, river, lake)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 ||||| = Forest/vegetation
 ::::: = Open ground/field
 X = Danger/hazard
@@ -552,8 +553,8 @@ NEXT TIME:
 - **l3-navigation-map-making.md:** Map documentation standards
 
 ## Sources
-- Field Manual FM 21-26: *Map Reading and Land Navigation*
-- *The Ashley Book of Knots* (documentation techniques)
+- Field Manual FM 21-26: Map Reading and Land Navigation
+- The Ashley Book of Knots (documentation techniques)
 - Scientific illustration standards (biological documentation)
 - Archival science best practices (preservation methods)
 - Field journal methods (naturalist traditions)

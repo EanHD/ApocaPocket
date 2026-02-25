@@ -13,7 +13,7 @@ Without glass, you cannot do modern science or medicine. **One glassmaker can su
 
 ---
 
-## Basic Chemistry: What Is Glass?
+## Glass Basics
 
 Glass = **molten sand + flux + stabilizer**, cooled rapidly to prevent crystallization
 
@@ -40,14 +40,14 @@ Glass = **molten sand + flux + stabilizer**, cooled rapidly to prevent crystalli
 ### Flux (Soda Ash)
 **Sources**:
 1. **Wood ash** (traditional method):
-   - Burn hardwood (beech, oak) completely to white ash
-   - Soak in water, filter → lye solution
-   - Boil down until white crystals form (sodium carbonate)
-   - Yield: ~5-10 lbs ash → 1 lb soda ash
+- Burn hardwood (beech, oak) completely to white ash
+- Soak in water, filter → lye solution
+- Boil down until white crystals form (sodium carbonate)
+- Yield: ~5-10 lbs ash → 1 lb soda ash
 
 2. **Seaweed ash** (kelp, especially in coastal areas):
-   - Burn dried seaweed → high sodium content
-   - Traditional method in Europe/Mediterranean
+- Burn dried seaweed → high sodium content
+- Traditional method in Europe/Mediterranean
 
 3. **Mineral sources**: Natron (natural sodium carbonate deposits in dry lakes)
 
@@ -60,14 +60,14 @@ Glass = **molten sand + flux + stabilizer**, cooled rapidly to prevent crystalli
 
 ---
 
-## Glass Furnace Construction
+## Glass Furnace
 
 ### Small Furnace (50-100 lbs glass capacity)
 
 **Materials**:
 - **Refractory brick** or **firebrick** (withstands 2500°F+)
-  - Alternative: Clay mixed with 50% sand (fired to harden)
-  - Or: High-alumina clay (best insulation)
+- Alternative: Clay mixed with 50% sand (fired to harden)
+- Or: High-alumina clay (best insulation)
 - **Steel frame** or stone support structure
 - **Crucibles**: Clay/graphite pots (hold molten glass)
 
@@ -105,7 +105,7 @@ Glass = **molten sand + flux + stabilizer**, cooled rapidly to prevent crystalli
 
 ---
 
-## DIAGRAM: Glass Furnace Cross-Section
+## Glass Furnace
 
 ```
          [CHIMNEY]
@@ -160,9 +160,9 @@ Wall Construction (cross-section):
 2. **Load batch** into hot crucibles (half-full)
 3. **Increase heat** gradually to 2000°F over 2-3 hours
 4. **Hold at 2200-2400°F** for 4-6 hours
-   - Bubbles rise and escape
-   - Ingredients fully dissolve
-   - Glass becomes clear, honey-like consistency
+- Bubbles rise and escape
+- Ingredients fully dissolve
+- Glass becomes clear, honey-like consistency
 5. **Skimming**: Remove scum/impurities from surface with metal rod
 
 **Visual indicators**:
@@ -212,27 +212,28 @@ Wall Construction (cross-section):
 
 ---
 
-## Annealing (CRITICAL: Prevents Shattering)
+## Annealing
 
 **What is annealing?** Controlled slow cooling to remove internal stress. **Without it, glass shatters from thermal shock** (even small temperature changes).
 
 **Process**:
 1. **Transfer finished piece** to annealing oven (separate from melting furnace)
 2. **Hold at 900-1000°F** for 30 minutes to 2 hours (depending on thickness)
-   - Thick pieces: Longer soak
-   - Thin pieces: Shorter soak
+- Thick pieces: Longer soak
+- Thin pieces: Shorter soak
 3. **Cool slowly**: 50-100°F per hour to room temperature
-   - Total time: 8-24 hours for most pieces
+- Total time: 8-24 hours for most pieces
 4. **Never rush cooling** — cracks/explosions can occur
 
 **Annealing oven**: Insulated box with controlled heat source (residual furnace heat, hot coals, gas burner)
 
 ---
 
-## Colorants & Special Glass
+## Colorants
 
 **Add to batch** (small percentages):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Additive | Color | Amount |
 |----------|-------|--------|
 | Iron oxide (rust) | Green/brown | 0.5-2% |
@@ -301,8 +302,9 @@ Wall Construction (cross-section):
 
 ---
 
-## Common Mistakes & Fixes
+## Common Errors
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | Glass won't melt | Temperature too low | Increase airflow, use better fuel |
@@ -363,12 +365,12 @@ Wall Construction (cross-section):
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *Glassblowing: A Search for Form* by John Burton (technique manual)
-- *History of Glass* by Dan Klein & Ward Lloyd (archaeological/historical)
-- *The Manual of Museum Cataloguing* — Glass techniques (British Museum)
-- *Corning Museum of Glass* archives (5,000+ years of glass technology)
+- Glassblowing: A Search for Form by John Burton (technique manual)
+- History of Glass by Dan Klein & Ward Lloyd (archaeological/historical)
+- The Manual of Museum Cataloguing — Glass techniques (British Museum)
+- Corning Museum of Glass archives (5,000+ years of glass technology)
 
 ---
 

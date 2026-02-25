@@ -9,10 +9,10 @@ time_required: "continuous until help arrives"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "American Heart Association (AHA) Pediatric Advanced Life Support (PALS) 2020 Guidelines"
-  - "American Red Cross Pediatric First Aid/CPR/AED"
-  - "WHO Basic Emergency Care (BEC) - Pediatric Resuscitation"
-  - "European Resuscitation Council (ERC) Guidelines 2021"
+- "American Heart Association (AHA) Pediatric Advanced Life Support (PALS) 2020 Guidelines"
+- "American Red Cross Pediatric First Aid/CPR/AED"
+- "WHO Basic Emergency Care (BEC) - Pediatric Resuscitation"
+- "European Resuscitation Council (ERC) Guidelines 2021"
 ---
 
 # Pediatric CPR - Age-Specific Differences and Protocols
@@ -32,8 +32,9 @@ sources:
 
 ---
 
-## Age Categories and Definitions
+## Age Groups
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Category | Age Range | CPR Technique | Key Difference |
 |----------|-----------|---------------|----------------|
 | **Infant** | <1 year (0-12 months) | 2 fingers, 1.5 inch depth, cover mouth+nose | Smallest, most fragile |
@@ -49,7 +50,7 @@ sources:
 
 ---
 
-## Infant CPR (<1 Year Old)
+## Infant CPR
 
 ### Recognition of Cardiac Arrest
 
@@ -113,10 +114,10 @@ sources:
 - **30 compressions : 2 breaths**
 - Minimize interruptions (<10 seconds)
 - Continue until:
-  - AED/defibrillator arrives
-  - Baby shows signs of life (breathing, movement, crying)
-  - Emergency responders take over
-  - You are physically unable to continue
+- AED/defibrillator arrives
+- Baby shows signs of life (breathing, movement, crying)
+- Emergency responders take over
+- You are physically unable to continue
 
 **DO NOT STOP** to check for pulse unless baby shows obvious signs of life.
 
@@ -126,10 +127,10 @@ sources:
 
 **Compression technique changes:**
 - **Two-thumb encircling hands method:**
-  - Both thumbs on center of chest (just below nipple line)
-  - Fingers wrapped around infant's back (support)
-  - Compress with thumbs
-  - More effective than 2-finger method
+- Both thumbs on center of chest (just below nipple line)
+- Fingers wrapped around infant's back (support)
+- Compress with thumbs
+- More effective than 2-finger method
 
 **Ratio changes:**
 - **15 compressions : 2 breaths** (instead of 30:2)
@@ -138,7 +139,7 @@ sources:
 
 ---
 
-## Child CPR (1 Year - Puberty)
+## Child CPR
 
 ### Recognition of Cardiac Arrest
 
@@ -211,7 +212,7 @@ sources:
 
 ---
 
-## Adult CPR (Puberty+) - Quick Reference
+## Adult CPR
 
 **Included for comparison:**
 
@@ -226,8 +227,9 @@ sources:
 
 ---
 
-## Comparison Table: Infant vs Child vs Adult CPR
+## CPR Age Comparison
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Factor | Infant (<1 year) | Child (1-puberty) | Adult (puberty+) |
 |--------|------------------|-------------------|------------------|
 | **Hand Position** | 2 fingers below nipple line | 1-2 hands on center chest | 2 hands on center chest |
@@ -244,7 +246,7 @@ sources:
 
 ---
 
-## Critical Differences Explained
+## Critical Diff
 
 ### Why Smaller Compression Depth?
 
@@ -326,9 +328,9 @@ sources:
 **Suspect spinal injury:**
 - Minimize head/neck movement
 - Use **jaw-thrust** instead of head-tilt chin-lift:
-  - Place fingers behind angle of jaw
-  - Lift jaw forward (opens airway without moving neck)
-  - Difficult technique - only if trained
+- Place fingers behind angle of jaw
+- Lift jaw forward (opens airway without moving neck)
+- Difficult technique - only if trained
 
 **If jaw-thrust doesn't open airway:** Use head-tilt chin-lift (delivering oxygen is priority over potential spine injury)
 
@@ -369,7 +371,7 @@ sources:
 
 ---
 
-## AED (Automated External Defibrillator) Use on Children
+## AED Use on Kids
 
 ### AED Pad Placement
 
@@ -399,12 +401,12 @@ sources:
 4. **Stand clear** (ensure no one touching child)
 5. **AED analyzes** (will say "analyzing, do not touch patient")
 6. **Shock advised:**
-   - Ensure no one touching
-   - Press shock button
-   - Resume CPR immediately (30:2 cycle)
+- Ensure no one touching
+- Press shock button
+- Resume CPR immediately (30:2 cycle)
 7. **No shock advised:**
-   - Resume CPR immediately
-   - AED will reanalyze every 2 minutes
+- Resume CPR immediately
+- AED will reanalyze every 2 minutes
 
 **Do NOT:**
 - ❌ Remove AED pads once applied
@@ -419,7 +421,7 @@ sources:
 
 ---
 
-## Compression-Only CPR (If Unable/Unwilling to Give Breaths)
+## CO-CPR
 
 ### When to Use
 
@@ -449,10 +451,11 @@ sources:
 
 ---
 
-## Common CPR Mistakes by Age Group
+## Common CPR Errors
 
 ### Infant CPR Mistakes
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | ❌ Mistake | Why It's Dangerous | ✓ Correct |
 |-----------|-------------------|----------|
 | Using heel of hand | Crushes chest, liver injury | 2 fingers only |
@@ -463,6 +466,7 @@ sources:
 
 ### Child CPR Mistakes
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | ❌ Mistake | Why It's Dangerous | ✓ Correct |
 |-----------|-------------------|----------|
 | Using 2 fingers (infant technique) | Insufficient compression depth | 1-2 hands (depends on size) |
@@ -473,13 +477,12 @@ sources:
 
 ### Universal Mistakes (All Ages)
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Stopping to check for pulse repeatedly | Only check if obvious signs of life |
-| Compressions too slow (<100/min) | Count aloud, maintain rhythm |
-| Long interruptions (>10 seconds) | Minimize interruptions |
-| Giving up too soon | Continue until help arrives or patient revives |
-| Hyperventilating during breaths | 1 second per breath, just until chest rises |
+**❌ Mistake:** ✓ Correct
+**Stopping to check for pulse repeatedly:** Only check if obvious signs of life
+**Compressions too slow (<100/min):** Count aloud, maintain rhythm
+**Long interruptions (>10 seconds):** Minimize interruptions
+**Giving up too soon:** Continue until help arrives or patient revives
+**Hyperventilating during breaths:** 1 second per breath, just until chest rises
 
 ---
 
@@ -504,29 +507,29 @@ sources:
 
 ---
 
-## After Successful Resuscitation (Return of Pulse/Breathing)
+## After Resuscitation
 
 ### Recovery Position
 
 **If child is breathing and has pulse but unconscious:**
 
 1. **Turn child onto side:**
-   - Bottom arm extended forward
-   - Top knee bent (stabilizes position)
-   - Head slightly tilted (keeps airway open)
+- Bottom arm extended forward
+- Top knee bent (stabilizes position)
+- Head slightly tilted (keeps airway open)
 
 2. **Monitor continuously:**
-   - Breathing can stop again
-   - Be ready to restart CPR
+- Breathing can stop again
+- Be ready to restart CPR
 
 3. **Keep warm:**
-   - Cover with blanket
-   - Hypothermia common after cardiac arrest
+- Cover with blanket
+- Hypothermia common after cardiac arrest
 
 4. **Do NOT:**
-   - Leave child alone
-   - Give food or water (aspiration risk if unconscious)
-   - Transport in personal vehicle if EMS available (child can deteriorate during transport)
+- Leave child alone
+- Give food or water (aspiration risk if unconscious)
+- Transport in personal vehicle if EMS available (child can deteriorate during transport)
 
 ### Post-Resuscitation Care
 
@@ -545,7 +548,7 @@ sources:
 
 ---
 
-## Psychological Impact on Rescuer
+## Rescuer Psychology
 
 **Performing CPR on a child is traumatic** (especially if child doesn't survive).
 
@@ -575,7 +578,7 @@ sources:
 
 ---
 
-## Training and Certification
+## Training & Cert
 
 **This entry is NOT a substitute for hands-on training.**
 

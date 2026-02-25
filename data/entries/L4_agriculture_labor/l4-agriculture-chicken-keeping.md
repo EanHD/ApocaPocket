@@ -32,6 +32,6 @@ steps:
 - 'DISEASES: Keep coop clean, dry, well-ventilated. Separate sick birds. Most backyard flocks are healthy if managed well.'
 ---
 
-# Chicken Keeping — Eggs, Meat, & Backyard Flock
+# Chicken Keeping
 
 Chickens are the easiest livestock. Produce eggs daily, meat when butchered. Require shelter, feed (grain or forage), water. Hens lay without rooster (unfertilized eggs). 3-6 hens provide eggs for small family.

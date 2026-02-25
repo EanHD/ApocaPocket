@@ -9,9 +9,9 @@ time_required: "15-30 minutes"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "FEMA Urban Search and Rescue Field Operations Guide"
-  - "Red Cross Urban Disaster Response Manual"
-  - "CDC Emergency Water Guidelines"
+- "FEMA Urban Search and Rescue Field Operations Guide"
+- "Red Cross Urban Disaster Response Manual"
+- "CDC Emergency Water Guidelines"
 ---
 
 # Urban Water Sources - Emergency Extraction
@@ -30,7 +30,7 @@ sources:
 
 ---
 
-## Water Heater Extraction (40-50 gallons)
+## Water Heater Ext
 
 ### Location
 - Basement, utility closet, garage, or laundry room
@@ -71,6 +71,7 @@ sources:
 
 ### Quick Reference Table
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Tank Size | Gallons | Family of 4 | Solo Person |
 |-----------|---------|-------------|-------------|
 | Small | 30-40 gal | 7-10 days | 30-40 days |
@@ -81,7 +82,7 @@ sources:
 
 ---
 
-## Toilet Tank Extraction (1-2 gallons each)
+## Toilet Tank
 
 ### Safety First
 - **Toilet TANK (behind seat) = SAFE if no chemicals**
@@ -110,7 +111,7 @@ sources:
 
 ---
 
-## Pipe Drainage (5-15 gallons)
+## Pipe Drainage
 
 ### Highest Faucet Method
 
@@ -118,13 +119,13 @@ sources:
 
 **Steps:**
 1. **Open highest faucet in building** (top floor, attic, roof)
-   - Lets air in, breaks vacuum
+- Lets air in, breaks vacuum
    
 2. **Open lowest faucet** (basement, ground floor)
-   - Water drains from pipes via gravity
+- Water drains from pipes via gravity
    
 3. **Collect from lowest point** (bathtub, large sink)
-   - May take 10-20 minutes to fully drain
+- May take 10-20 minutes to fully drain
    
 4. **Estimate:** Multi-story building = 5-15 gallons from pipes
 
@@ -132,7 +133,7 @@ sources:
 
 ---
 
-## Other Urban Water Sources
+## Other Urban Waters
 
 ### Ice Maker / Freezer Ice
 - **Amount:** 5-10 lbs ice = 0.5-1 gallon water when melted
@@ -164,7 +165,7 @@ sources:
 
 ---
 
-## Water Treatment After Extraction
+## Water Treatment
 
 ### Decision Tree
 
@@ -189,6 +190,7 @@ Is water from hot water heater (already heated)?
 
 ### Bleach Treatment (if no boiling available)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Water Amount | Regular Bleach (6%) | Concentrated (8.25%) |
 |--------------|---------------------|----------------------|
 | 1 quart | 2 drops | 2 drops |
@@ -205,7 +207,7 @@ Is water from hot water heater (already heated)?
 
 ---
 
-## Extraction Priority Order
+## Extraction Pri
 
 **Recommended sequence:**
 
@@ -220,7 +222,7 @@ Is water from hot water heater (already heated)?
 
 ---
 
-## Urban Apartment Diagram Reference
+## Urban Apartments
 
 ```
                     ROOF
@@ -289,7 +291,7 @@ Is water from hot water heater (already heated)?
 
 ---
 
-## Storage After Extraction
+## Extraction Storage
 
 ### Containers
 - Food-grade plastic: HDPE #2 or PET #1 (recycling code on bottom)
@@ -313,18 +315,17 @@ Is water from hot water heater (already heated)?
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Drinking toilet bowl water | Only use toilet TANK water (and purify) |
-| Not turning off water heater power | Always shut off before draining |
-| Waiting too long to extract | Within 24-48 hours of water loss |
-| Forgetting pressure relief valve | Must open for water to drain |
-| Drinking pool water directly | Only for non-potable uses (or extreme purification) |
-| Filling containers halfway | Fill to top to prevent bacterial growth |
-| Not labeling water containers | Label date, source, treatment method |
-| Mixing safe and unsafe sources | Keep separate (cross-contamination risk) |
+**❌ Mistake:** ✓ Correct
+**Drinking toilet bowl water:** Only use toilet TANK water (and purify)
+**Not turning off water heater power:** Always shut off before draining
+**Waiting too long to extract:** Within 24-48 hours of water loss
+**Forgetting pressure relief valve:** Must open for water to drain
+**Drinking pool water directly:** Only for non-potable uses (or extreme purification)
+**Filling containers halfway:** Fill to top to prevent bacterial growth
+**Not labeling water containers:** Label date, source, treatment method
+**Mixing safe and unsafe sources:** Keep separate (cross-contamination risk)
 
 ---
 

@@ -48,6 +48,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Morse Code — Complete Reference and Training
+# Morse Code
 
 Morse code transmits text as sequences of dots (short) and dashes (long) via sound, light, or radio. The most robust long-distance communication method — works through interference that would destroy voice. SOS (···−−−···) is universally recognized. Learnable in 2-4 weeks of practice.

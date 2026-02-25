@@ -29,7 +29,7 @@ Hermann Ebbinghaus (1885) discovered humans forget predictably:
 - **Accept the curve:** It's biology, not failure
 - **Review before forgetting:** Catch it at 70-80% recall
 
-## Spaced Repetition Systems (SRS)
+## Spaced Repetition
 
 ### The Science
 **Timing is everything.** Review too soon = waste of time. Too late = already forgotten. Optimal spacing maximizes retention with minimum time.
@@ -198,7 +198,7 @@ Hermann Ebbinghaus (1885) discovered humans forget predictably:
 - Plant ID while hiking (tired, hungry)
 - Radio protocol during simulated emergency
 
-## Note-Taking for Retention
+## Note Taking
 
 ### The Science
 **Writing = encoding.** The act of writing (especially by hand) engages brain regions that passive reading doesn't.
@@ -379,7 +379,7 @@ YEARLY (8-12 hours)
 - **l2-botany-edible-plants.md:** Example of identification skills
 
 ## Sources
-- Ebbinghaus, H. (1885). *Memory: A Contribution to Experimental Psychology*
+- Ebbinghaus, H. (1885). Memory: A Contribution to Experimental Psychology
 - Roediger & Karpicke (2006). "Test-Enhanced Learning"
 - Bjork, R. (1994). "Memory and Metamemory Considerations"
 - Dunlosky et al. (2013). "Improving Students' Learning With Effective Learning Techniques"

@@ -9,9 +9,9 @@ time_required: "30-60 minutes per foraging session"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "USDA Plants Database"
-  - "Urban Foraging: Finding and Eating Wild Plants in the City (2021)"
-  - "Edible Wild Plants of North America (Peterson Field Guide)"
+- "USDA Plants Database"
+- "Urban Foraging: Finding and Eating Wild Plants in the City (2021)"
+- "Edible Wild Plants of North America (Peterson Field Guide)"
 ---
 
 # Urban Foraging - City Plants and Trees
@@ -35,7 +35,7 @@ sources:
 
 ---
 
-## Safety Rules (CRITICAL)
+## Safety Rules
 
 ### Pollution Zones (Avoid or Use Caution)
 
@@ -71,7 +71,7 @@ sources:
 
 ---
 
-## Common Urban Edible Plants
+## Common Edibles
 
 ### Dandelion (Taraxacum officinale)
 
@@ -218,7 +218,7 @@ sources:
 
 ---
 
-## Urban Fruit Trees (Often Overlooked)
+## Urban Fruit Trees
 
 ### Apple Trees (Malus species)
 
@@ -291,7 +291,7 @@ sources:
 
 ---
 
-## Foraging Strategy (Maximizing Safety & Yield)
+## Forage Safely
 
 ### Best Locations (Priority Order)
 
@@ -322,7 +322,7 @@ sources:
 
 ---
 
-## Seasonal Foraging Calendar
+## Seasonal Forage
 
 ### Spring (Mar-May)
 - **Greens:** Dandelion, chickweed, plantain, lamb's quarters (young, tender)
@@ -346,22 +346,21 @@ sources:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Foraging right next to busy roads | Stay 25+ feet away (pollution) |
-| Not washing urban plants | Always wash + vinegar soak (5 min) |
-| Eating large amounts of unknown plants | Start small (test for allergies, digestive upset) |
-| Ignoring dog walking areas | Avoid or wash very thoroughly (fecal bacteria) |
-| Harvesting from treated lawns | Look for spray markers, ask property owner |
-| Taking entire plant populations | Take 20% max, leave rest to regrow |
-| Eating raw acorns | MUST leach tannins (toxic otherwise) |
-| Foraging in national parks | Illegal federally (stick to city parks) |
+**❌ Mistake:** ✓ Correct
+**Foraging right next to busy roads:** Stay 25+ feet away (pollution)
+**Not washing urban plants:** Always wash + vinegar soak (5 min)
+**Eating large amounts of unknown plants:** Start small (test for allergies, digestive upset)
+**Ignoring dog walking areas:** Avoid or wash very thoroughly (fecal bacteria)
+**Harvesting from treated lawns:** Look for spray markers, ask property owner
+**Taking entire plant populations:** Take 20% max, leave rest to regrow
+**Eating raw acorns:** MUST leach tannins (toxic otherwise)
+**Foraging in national parks:** Illegal federally (stick to city parks)
 
 ---
 
-## Poisonous Plant Avoidance (Urban)
+## Poison Plants
 
 ### Red Flags (DO NOT EAT)
 
@@ -401,8 +400,9 @@ sources:
 
 ---
 
-## Nutritional Value Comparison
+## Nutrient Compare
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | Calories (per 100g) | Protein (g) | Vit A (% DV) | Vit C (% DV) | Iron (% DV) |
 |-------|---------------------|-------------|--------------|--------------|-------------|
 | Dandelion greens | 45 | 2.7 | 203% | 58% | 17% |

@@ -49,6 +49,6 @@ steps:
   to verify sender (prevents false messages from enemies).'
 ---
 
-# Communications Without Infrastructure — Runners, Signals, Radio
+# Communications Without In
 
 Grid-down or disaster scenarios eliminate phones, internet, and radio infrastructure. Communication methods: foot/bike messengers, visual signals, sound signals, ham radio (if equipment survives). Establishing communication networks is critical for survival coordination.

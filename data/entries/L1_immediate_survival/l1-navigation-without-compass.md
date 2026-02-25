@@ -55,8 +55,9 @@ diagram: /assets/diagrams/L1/navigation/natural-navigation.svg
 
 When compass and GPS fail, natural navigation using sun, stars, and terrain features provides reliable direction finding. Sun rises east (±23° seasonal variation), sets west. North Star (Polaris) marks true north in northern hemisphere within 1°. Southern Cross indicates south. Shadow-stick method accurate within 5-10° with proper technique. Natural signs (moss, tree growth) are supplementary only.
 
-## Method Accuracy Comparison
+## Method Accu
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Method | Accuracy | Time | Conditions |
 |--------|----------|------|------------|
 | Solar noon | ±1-2° | Requires solar noon | Clear sun |
@@ -68,7 +69,7 @@ When compass and GPS fail, natural navigation using sun, stars, and terrain feat
 | Watch method | ±15° | Instant | Analog watch + sun |
 | Moss/trees | ±45° | N/A | Unreliable supplementary |
 
-## Shadow-Stick Method (Step-by-Step)
+## Shadow Stick
 
 **Setup:**
 1. Level ground, full sun
@@ -84,7 +85,7 @@ When compass and GPS fail, natural navigation using sun, stars, and terrain feat
 
 **Best time:** 10am - 2pm for maximum accuracy
 
-## Finding Polaris (North Star)
+## Finding Polaris
 
 **Method:**
 1. Locate Big Dipper (7 stars, pot + handle shape)
@@ -100,7 +101,7 @@ When compass and GPS fail, natural navigation using sun, stars, and terrain feat
 **Accuracy:** ±1° (true north)  
 **Visibility:** Year-round, all night, northern hemisphere
 
-## Finding South (Southern Cross)
+## South
 
 **Method:**
 1. Locate Southern Cross (4 stars, kite/cross shape)
@@ -110,7 +111,7 @@ When compass and GPS fail, natural navigation using sun, stars, and terrain feat
 
 **Avoid false crosses:** True cross has brightest stars + nearby pointer stars (Alpha/Beta Centauri)
 
-## Sun Position by Season (Northern Hemisphere)
+## Sun Pos'n
 
 **Summer solstice (~June 21):**
 - Sunrise: NE (~60° azimuth)
@@ -127,7 +128,7 @@ When compass and GPS fail, natural navigation using sun, stars, and terrain feat
 - Solar noon: Low (23° south of zenith)
 - Sunset: SW (~240° azimuth)
 
-## Natural Indicators (Reliability)
+## Natural Indicators
 
 **Use as supplementary evidence only:**
 

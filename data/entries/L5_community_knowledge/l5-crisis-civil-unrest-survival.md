@@ -47,6 +47,6 @@ steps:
   you (kidnapping risk), RUN if you see opportunity.'
 ---
 
-# Civil Unrest & Riot Survival — Urban Survival Tactics
+# Civil Unrest
 
 Civil unrest (protests, riots, looting, violence) can erupt suddenly due to political, economic, or social triggers. Survival priorities: avoid danger zones, secure home, escape if necessary. Based on DHS active threat response and historical unrest patterns.

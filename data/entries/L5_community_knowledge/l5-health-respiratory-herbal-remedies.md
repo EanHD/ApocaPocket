@@ -36,6 +36,6 @@ steps:
   but can be dangerous in vulnerable people.'
 ---
 
-# Respiratory Issues — Wild Herbal Remedies
+# Respiratory Issues
 
 Wild plants with traditional use for coughs, congestion, sore throat. Steam inhalation and expectorant teas can provide symptomatic relief. Not a replacement for antibiotics if infection is bacterial.

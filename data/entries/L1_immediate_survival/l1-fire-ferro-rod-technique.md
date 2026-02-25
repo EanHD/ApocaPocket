@@ -70,7 +70,7 @@ A ferrocerium rod (ferro rod) is the most reliable fire starter for field use â€
 **Optimal Angle:** 30-45Â°
 **Success Time:** 30 seconds or less (with practice)
 
-## Tinder Bundle Construction
+## Tinder Bundle
 
 Create a bird's nest structure:
 - **Outer layer:** Coarse dry grass/bark strips (finger-thick)

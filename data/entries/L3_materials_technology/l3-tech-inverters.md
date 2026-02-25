@@ -19,7 +19,7 @@ Inverters convert DC battery voltage to AC power for standard appliances. Unders
 
 ---
 
-## Pure Sine Wave vs Modified Sine Wave
+## Pure vs Modif
 
 ### Pure Sine Wave
 
@@ -114,7 +114,7 @@ Voltage
 
 ---
 
-## Sizing: Continuous vs Surge Watts
+## Sizing: CW vs SW
 
 ### Continuous Rating
 
@@ -144,6 +144,7 @@ Voltage
 
 **Common household loads**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Appliance | Running Watts | Starting Watts | Notes |
 |-----------|---------------|----------------|-------|
 | **Lighting** | | | |
@@ -206,12 +207,13 @@ Required surge rating: >1100W
 
 ---
 
-## Efficiency & Power Loss
+## Eff & Pow Loss
 
 ### Inverter Efficiency Curve
 
 **Typical pure sine wave inverter**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Load Level | Efficiency | Idle Power |
 |------------|-----------|------------|
 | **Idle (0%)** | - | 5-30W (varies by size) |
@@ -256,6 +258,7 @@ Runtime: 50Ah ÷ 44.8A = 1.1 hours
 
 **Scenario**: Inverter left on 24/7 with no load
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Inverter Size | Idle Power | Daily Waste | Battery Drain (12V, 200Ah) |
 |---------------|------------|-------------|---------------------------|
 | 300W | 5W | 120 Wh | 5% per day |
@@ -343,6 +346,7 @@ Runtime: 50Ah ÷ 44.8A = 1.1 hours
 
 **Cable sizing** (12V inverters, 3% drop):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Inverter | Current @ 12V | 3 ft | 5 ft | 10 ft |
 |----------|---------------|------|------|-------|
 | 600W | 50A | 6 AWG | 4 AWG | 2 AWG |
@@ -428,7 +432,7 @@ Fuse = 98A × 1.25 = 123A → use 125A fuse
 
 ---
 
-## Common Mistakes & Solutions
+## Common Errors
 
 ### ❌ **Mistake 1**: Undersizing for surge loads
 
@@ -514,11 +518,11 @@ Power loss = 0.51V × 125A = 64W (wasted as heat)
 
 **Checks**:
 1. **Battery voltage**: Must be >10.5V (12V system)
-   - Below cutoff → Charge battery first
+- Below cutoff → Charge battery first
 2. **Fuse/breaker**: Check DC input protection
-   - Blown fuse → Find cause (short circuit?)
+- Blown fuse → Find cause (short circuit?)
 3. **Connections**: Tight, clean terminals
-   - Corrosion → Clean with baking soda solution
+- Corrosion → Clean with baking soda solution
 4. **Inverter switch**: Ensure powered on (obvious but often missed)
 
 ---
@@ -529,16 +533,16 @@ Power loss = 0.51V × 125A = 64W (wasted as heat)
 
 **Causes**:
 1. **Overload**: Load exceeds inverter rating
-   - Measure with Kill-A-Watt meter
-   - Reduce loads or upgrade inverter
+- Measure with Kill-A-Watt meter
+- Reduce loads or upgrade inverter
 2. **Low battery voltage**: Heavy load drops voltage below cutoff
-   - Battery too small or degraded
-   - Upgrade battery capacity
+- Battery too small or degraded
+- Upgrade battery capacity
 3. **Overheating**: Inadequate ventilation
-   - Check fan operation
-   - Provide clearance (6" all sides)
+- Check fan operation
+- Provide clearance (6" all sides)
 4. **Surge load**: Startup current exceeds surge rating
-   - Size inverter for surge requirement
+- Size inverter for surge requirement
 
 ---
 
@@ -617,7 +621,7 @@ Power loss = 0.51V × 125A = 64W (wasted as heat)
 
 ---
 
-## Specifications to Look For
+## Specs
 
 **Quality inverters**:
 - **Waveform**: Pure sine wave (THD <3%)
@@ -701,5 +705,5 @@ Power loss = 0.51V × 125A = 64W (wasted as heat)
 
 ---
 
-*Last updated: 2026-02-19*
-*Layer: L3 Materials & Technology | Category: Energy/Power*
+Last updated: 2026-02-19
+Layer: L3 Materials & Technology | Category: Energy/Power

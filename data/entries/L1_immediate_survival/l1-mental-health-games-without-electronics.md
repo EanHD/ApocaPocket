@@ -7,7 +7,7 @@
 
 ---
 
-## Why This Matters: Play Is Not Optional
+## Why Play Matters
 
 **Psychological Research:**
 - Play releases dopamine and endorphins (Journal of Play, 2014)
@@ -24,7 +24,7 @@
 
 ---
 
-## Card Games: Portable, Infinite Replay Value
+## Card Games
 
 ### Essential Games to Know
 
@@ -62,7 +62,7 @@
 
 ---
 
-## Board Games From Natural Materials
+## Board Games
 
 ### Nine Men's Morris (Ancient Strategy Game)
 
@@ -123,7 +123,7 @@ q─────r─────s
 
 ---
 
-## Dice Games: Probability Fun
+## Dice Games
 
 ### Making Dice
 **Materials:** Wood, bone, clay, even sided stones
@@ -156,7 +156,7 @@ q─────r─────s
 
 ---
 
-## Physical Games: Active Play for Mental Health
+## Physical Games
 
 ### Kubb (Viking Chess)
 **Setup:** Field 5m × 8m, wooden blocks (kubbs), throwing sticks
@@ -183,7 +183,7 @@ q─────r─────s
 
 ---
 
-## Children's Games: Active & Social
+## Children's Games
 
 ### Tag Variations
 - **Classic Tag:** Basic chase
@@ -207,7 +207,7 @@ q─────r─────s
 
 ---
 
-## Why Play Works: The Neuroscience
+## Why Play
 
 ### Dopamine System
 - **Novel challenges:** Brain releases dopamine during uncertain outcomes
@@ -258,7 +258,7 @@ q─────r─────s
 
 ---
 
-## Warning Signs: When Play Stops
+## Warning Signs
 
 **Community red flags:**
 - No spontaneous laughter during games
@@ -276,7 +276,7 @@ q─────r─────s
 
 ---
 
-## Building a Game Library
+## Game Lib
 
 ### Minimum Viable Entertainment
 **Essential:**
@@ -297,7 +297,7 @@ q─────r─────s
 
 ---
 
-## Diagram: Nine Men's Morris Board (Draw Anywhere)
+## Nine Men's Morris
 
 ```
      a           d           g
@@ -325,7 +325,7 @@ Win by reducing opponent to 2 stones or blocking moves.
 
 ---
 
-## Historical Examples: Play as Survival
+## Historic Examples
 
 **Roman Soldiers:** Played dice games (tesserae) during campaigns - morale maintenance
 **Viking Longships:** Carried hnefatafl (strategy game) on raids - mental sharpness
@@ -337,12 +337,12 @@ Win by reducing opponent to 2 stones or blocking moves.
 
 ---
 
-## Resources & Further Learning
+## Resources
 
 **Books to memorize/preserve:**
-- *Hoyle's Rules of Games* (card/board game compendium)
-- *The Dangerous Book for Boys/Girls* (outdoor games)
-- *Folk Games of Denmark and Sweden* (traditional games)
+- Hoyle's Rules of Games (card/board game compendium)
+- The Dangerous Book for Boys/Girls (outdoor games)
+- Folk Games of Denmark and Sweden (traditional games)
 
 **Oral tradition:**
 - Learn 10-20 games well enough to teach without reference
@@ -350,13 +350,13 @@ Win by reducing opponent to 2 stones or blocking moves.
 - Pass to children as cultural heritage
 
 **Psychology research:**
-- Stuart Brown, *Play: How It Shapes the Brain* (2009)
-- Huizinga, *Homo Ludens* (1938) - play as culture foundation
-- McGonigal, *Reality Is Broken* (2011) - game psychology
+- Stuart Brown, Play: How It Shapes the Brain (2009)
+- Huizinga, Homo Ludens (1938) - play as culture foundation
+- McGonigal, Reality Is Broken (2011) - game psychology
 
 ---
 
-## Conclusion: Play or Perish
+## Conclusion
 
 **Remember:**
 - Depression is as deadly as dehydration
@@ -375,4 +375,4 @@ Win by reducing opponent to 2 stones or blocking moves.
 
 ---
 
-*Last Updated: 2026 | Sources: Journal of Play (2014), Disaster Psychology Review (2019), Anthropological Studies of Play (2020)*
+Last Updated: 2026 | Sources: Journal of Play (2014), Disaster Psychology Review (2019), Anthropological Studies of Play (2020)

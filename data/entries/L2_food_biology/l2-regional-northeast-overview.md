@@ -8,6 +8,7 @@
 ## Climate Profile
 
 ### Temperature Ranges (Humid Continental)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Avg High | Avg Low | Extreme High | Extreme Low |
 |--------|----------|---------|--------------|-------------|
 | Summer (Jun-Aug) | 70-85°F | 55-65°F | 100°F+ | 45°F |
@@ -94,6 +95,7 @@
 
 ### Edible Plants (by season)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
 |-------|--------|------------|-------------|-------------|-----------|
 | Maple (sugar, red) | Feb-Mar | Sap | 40-80 (sap), 1200+ (syrup) | Boil down 40:1, syrup or sugar | l2-maple-sugaring.md |
@@ -161,6 +163,7 @@
 
 ### Large Game
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
 |--------|--------|--------|---------|---------------|------------------|
 | White-tailed deer | 100-250 lbs | Nov-Dec | Edge habitat, woods | Most important game, abundant | 40-100 |
@@ -189,6 +192,7 @@
 ### Fish & Aquatic
 
 **Rivers & Streams (Cold Water):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Size | Season | Method | Notes |
 |---------|------|--------|--------|-------|
 | Trout (brook, brown, rainbow) | 0.5-5 lbs | Spring-fall | Fly, spinner, worms | Native + stocked, excellent eating |
@@ -196,6 +200,7 @@
 | Smallmouth bass | 1-5 lbs | Spring-fall | Lures, live bait | Rivers, rocky areas |
 
 **Lakes & Ponds:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Size | Season | Method | Notes |
 |---------|------|--------|--------|-------|
 | Largemouth bass | 2-8 lbs | Spring-fall | Lures, live bait | Warm water, weedy areas |
@@ -235,7 +240,7 @@
 
 ---
 
-## Water Sources & Purification
+## Water Sources
 
 ### Water Availability (Abundant Year-Round)
 
@@ -297,9 +302,9 @@
 **Method 2: Spring**
 - Springs don't freeze (ground temp ~50°F)
 - Look for:
-  - Green vegetation in winter (fed by spring)
-  - Open water when everything else frozen
-  - Hillsides, valley bottoms
+- Green vegetation in winter (fed by spring)
+- Open water when everything else frozen
+- Hillsides, valley bottoms
 
 **Method 3: Melt Ice/Snow**
 - 10:1 ratio (10 cups snow = 1 cup water)
@@ -416,10 +421,11 @@ Design: Rain protection, ventilation, insect barriers
 
 ---
 
-## Fire Making & Management
+## Fire Mgmt
 
 ### Wood Selection (BTU & Characteristics)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Wood Type | BTU/cord | Burn Rate | Coals | Split Difficulty | Availability |
 |-----------|----------|-----------|-------|-----------------|--------------|
 | Oak (red, white) | 24-30M | Slow | Excellent | Hard | Very common |
@@ -474,19 +480,19 @@ Overnight: Smoldering coals (restart in morning)
 - **SILENT KILLER:** Odorless, colorless, kills while you sleep
 - Symptoms: Headache, dizziness, nausea, confusion, death
 - **Prevention:**
-  - Always have chimney/vent (draft pulls smoke out)
-  - Crack window or dedicated air intake (fresh air in)
-  - Never seal shelter completely
-  - If headache develops, get outside immediately
+- Always have chimney/vent (draft pulls smoke out)
+- Crack window or dedicated air intake (fresh air in)
+- Never seal shelter completely
+- If headache develops, get outside immediately
 
 **Chimney Fire:**
 - Creosote buildup (from incomplete combustion, softwood smoke)
 - Ignites suddenly (roaring sound like freight train or jet)
 - Can reach 2000°F, spread to structure
 - **Prevention:**
-  - Burn hot fires (not smoldering)
-  - Use dry hardwood (less creosote)
-  - Clean chimney regularly (inspect monthly, clean if 1/4" buildup)
+- Burn hot fires (not smoldering)
+- Use dry hardwood (less creosote)
+- Clean chimney regularly (inspect monthly, clean if 1/4" buildup)
 
 **Structure Fire:**
 - Clearance: 3 feet from combustibles
@@ -498,7 +504,7 @@ Overnight: Smoldering coals (restart in morning)
 
 ---
 
-## Seasonal Survival Strategies
+## Seasonal Survival
 
 ### Winter (December-February) - SURVIVAL MODE
 
@@ -613,10 +619,10 @@ Evening (4-5 PM): Already dark, banking fire, meal, early sleep
 2. **Deer hunting:** Late season (winter meat supply)
 3. **Firewood:** MINIMUM 5 cords, more if possible (cut/split/stack before snow)
 4. **Shelter winterization:**
-   - Insulate walls (pack leaves/moss in double walls)
-   - Chink gaps (moss, mud, modern caulk if available)
-   - Roof repair (before snow load)
-   - Snow load reinforcement (extra roof supports if needed)
+- Insulate walls (pack leaves/moss in double walls)
+- Chink gaps (moss, mud, modern caulk if available)
+- Roof repair (before snow load)
+- Snow load reinforcement (extra roof supports if needed)
 5. **Smoke/dry meat:** Preservation for winter
 6. **Move food to cool storage:** Root cellar, outdoor cache (natural refrigeration)
 
@@ -624,7 +630,7 @@ Evening (4-5 PM): Already dark, banking fire, meal, early sleep
 
 ---
 
-## Regional Hazards Summary
+## Regional Hazards
 
 **Primary Killers:**
 1. **Hypothermia/cold exposure:** Winter (-20°F to -40°F in mountains/north)

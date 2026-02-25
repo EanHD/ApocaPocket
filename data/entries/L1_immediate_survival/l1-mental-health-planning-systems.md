@@ -592,11 +592,11 @@ Construction      | Carol | Materials     | Waiting
 - **l3-community-conflict-resolution.md:** Group decision-making
 
 ## Sources
-- Locke & Latham (1990). *A Theory of Goal Setting & Task Performance*
-- Covey, S. (1989). *The 7 Habits of Highly Effective People*
-- Allen, D. (2001). *Getting Things Done: The Art of Stress-Free Productivity*
+- Locke & Latham (1990). A Theory of Goal Setting & Task Performance
+- Covey, S. (1989). The 7 Habits of Highly Effective People
+- Allen, D. (2001). Getting Things Done: The Art of Stress-Free Productivity
 - Eisenhower Matrix (Dwight D. Eisenhower decision framework)
-- Project Management Institute. *PMBOK Guide*
+- Project Management Institute. PMBOK Guide
 
 ## Quick Reference Card
 

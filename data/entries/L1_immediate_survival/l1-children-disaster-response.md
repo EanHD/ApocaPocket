@@ -9,11 +9,11 @@ time_required: "continuous support"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "American Academy of Pediatrics (AAP) Disaster Preparedness Guidelines"
-  - "National Child Traumatic Stress Network (NCTSN)"
-  - "WHO Mental Health and Psychosocial Support in Emergencies"
-  - "Save the Children - Child Protection in Emergencies"
-  - "CDC Children and Disasters Guidelines"
+- "American Academy of Pediatrics (AAP) Disaster Preparedness Guidelines"
+- "National Child Traumatic Stress Network (NCTSN)"
+- "WHO Mental Health and Psychosocial Support in Emergencies"
+- "Save the Children - Child Protection in Emergencies"
+- "CDC Children and Disasters Guidelines"
 ---
 
 # Children in Disasters - Psychological Response and Support
@@ -30,7 +30,7 @@ sources:
 
 ---
 
-## Age-Specific Disaster Responses
+## Age-Specifc DR
 
 ### Infants (0-2 Years)
 
@@ -264,7 +264,7 @@ Repeat as needed. Toddlers need repetition for processing.
 
 ---
 
-## Separation Anxiety Management
+## Separation Anxiety
 
 **Why separation anxiety intensifies in disasters:**
 - Survival instinct (brain recognizes danger, fears abandonment)
@@ -273,6 +273,7 @@ Repeat as needed. Toddlers need repetition for processing.
 
 ### Separation Anxiety by Age
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Age | Normal Reaction | Concerning Reaction |
 |-----|----------------|---------------------|
 | 0-2 years | Crying when caregiver leaves sight, calms within 15 min | Inconsolable for 30+ min, refusal to eat when separated |
@@ -285,21 +286,21 @@ Repeat as needed. Toddlers need repetition for processing.
 **For necessary separations (bathroom, gathering supplies):**
 
 1. **Tell them you're leaving (don't sneak away):**
-   - "I need to go get water. I will be back in 10 minutes."
+- "I need to go get water. I will be back in 10 minutes."
 
 2. **Give concrete timeframe:**
-   - Use visual timer if available
-   - "By the time you finish this snack, I'll be back."
+- Use visual timer if available
+- "By the time you finish this snack, I'll be back."
 
 3. **Designate substitute caregiver:**
-   - "Stay with [trusted person]. They will keep you safe while I'm gone."
+- "Stay with [trusted person]. They will keep you safe while I'm gone."
 
 4. **Leave comfort object:**
-   - "Hold my jacket while I'm gone. It smells like me."
+- "Hold my jacket while I'm gone. It smells like me."
 
 5. **Follow through reliably:**
-   - Return when promised (builds trust)
-   - If delayed, send message if possible
+- Return when promised (builds trust)
+- If delayed, send message if possible
 
 **For extended separations (parent injury, separate evacuation):**
 
@@ -317,7 +318,7 @@ Repeat as needed. Toddlers need repetition for processing.
 
 ---
 
-## Routine Maintenance in Chaos
+## Routine Maintenance
 
 **Why routine matters:**
 Children's brains rely on predictability for security. When the external world is chaotic, routine provides internal structure.
@@ -345,6 +346,7 @@ Children's brains rely on predictability for security. When the external world i
 
 **Example disaster shelter routine:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Time | Activity | Purpose |
 |------|----------|---------|
 | 7:00 AM | Wake up, face wash, get dressed | Normalcy, dignity |
@@ -364,7 +366,7 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Bedtime Routine in Disaster Conditions
+## Bedtime Routine
 
 **Why sleep is critical:**
 - Brain processes trauma during sleep
@@ -386,26 +388,26 @@ Children's brains rely on predictability for security. When the external world i
 **Steps:**
 
 1. **Consistent time** (±30 minutes)
-   - Even if "bedtime" is earlier/later than normal, keep it consistent
+- Even if "bedtime" is earlier/later than normal, keep it consistent
 
 2. **Physical calming** (5 minutes)
-   - Quiet activity (no running, wrestling, rough play)
-   - Gentle stretching, slow breathing
-   - Dim lights if possible (or face away from light)
+- Quiet activity (no running, wrestling, rough play)
+- Gentle stretching, slow breathing
+- Dim lights if possible (or face away from light)
 
 3. **Connection** (5 minutes)
-   - Talk about day (focus on positives: "What's one thing that went okay today?")
-   - Reassurance: "You are safe. I am here. I will keep you safe through the night."
-   - Physical affection (hug, back rub, hand-holding)
+- Talk about day (focus on positives: "What's one thing that went okay today?")
+- Reassurance: "You are safe. I am here. I will keep you safe through the night."
+- Physical affection (hug, back rub, hand-holding)
 
 4. **Transitional object** (if available)
-   - Familiar toy, blanket, or clothing item
-   - If nothing familiar, designate new object: "This is your sleeping buddy."
+- Familiar toy, blanket, or clothing item
+- If nothing familiar, designate new object: "This is your sleeping buddy."
 
 5. **Predictable end**
-   - "Goodnight, I love you, see you in the morning."
-   - Leave slowly (don't rush, don't sneak)
-   - If sharing sleep space, settle yourself visibly
+- "Goodnight, I love you, see you in the morning."
+- Leave slowly (don't rush, don't sneak)
+- If sharing sleep space, settle yourself visibly
 
 **For nightmares:**
 - Respond quickly (don't let them wake fully in terror)
@@ -426,7 +428,7 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Helping Children Feel Useful
+## Helping Kids Feel Usef
 
 **Why this matters:**
 - Sense of control reduces helplessness
@@ -473,7 +475,7 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Emotional Expression Outlets
+## Emotional Outlets
 
 **Why children need this:**
 - Limited verbal skills (especially younger children)
@@ -513,7 +515,7 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## When to Seek Professional Mental Health Support
+## Seek Pro Help
 
 **Immediate referral needed (if available):**
 - Suicidal statements or behavior
@@ -547,11 +549,11 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Supporting Children When You're Traumatized Too
+## Supporting Kids Despit
 
 **Reality check:** Adults in disasters are also traumatized. You cannot be perfectly calm. **That's okay.**
 
-**What children need:** Adults who are *trying* to cope, not perfect coping.
+**What children need:** Adults who are trying to cope, not perfect coping.
 
 **Strategies:**
 
@@ -578,7 +580,7 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Cultural Considerations
+## Cultural Consideration
 
 **Disaster response varies by culture:**
 - Expression of emotion (crying accepted/encouraged vs. stoicism valued)
@@ -595,23 +597,22 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| "You're fine, stop crying." | "You're scared. I'm here. You're safe now." |
-| Lying about situation ("Everything will be exactly like before") | Honest reassurance ("It's different now, but we will be okay") |
-| Forcing discussion ("Tell me how you feel") | Inviting discussion ("I'm here if you want to talk") |
-| Exposing to media coverage | Shielding from screens showing disaster footage |
-| Expecting them to "get over it" quickly | Recognizing trauma processing takes months |
-| Punishing regressive behavior (bedwetting, tantrums) | Understanding as trauma symptom, responding with compassion |
-| Sharing adult worries with children | Protecting them from financial/logistical stress beyond their control |
-| Separating siblings unnecessarily | Keeping siblings together (peer support) |
-| Comparing reactions ("Why can't you be brave like...") | Accepting individual differences in coping |
+**❌ Mistake:** ✓ Correct
+**"You're fine, stop crying.":** "You're scared. I'm here. You're safe now."
+**Lying about situation ("Everything will be exactly like before"):** Honest reassurance ("It's different now, but we will be okay")
+**Forcing discussion ("Tell me how you feel"):** Inviting discussion ("I'm here if you want to talk")
+**Exposing to media coverage:** Shielding from screens showing disaster footage
+**Expecting them to "get over it" quickly:** Recognizing trauma processing takes months
+**Punishing regressive behavior (bedwetting, tantrums):** Understanding as trauma symptom, responding with compassion
+**Sharing adult worries with children:** Protecting them from financial/logistical stress beyond their control
+**Separating siblings unnecessarily:** Keeping siblings together (peer support)
+**Comparing reactions ("Why can't you be brave like..."):** Accepting individual differences in coping
 
 ---
 
-## Child Protection in Disaster Settings
+## Child Protection
 
 **Increased vulnerability:**
 - Separated/unaccompanied children at risk for trafficking, abuse
@@ -633,7 +634,7 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Communication Scripts by Scenario
+## Comm Scripts
 
 ### Death of Family Member
 
@@ -676,7 +677,7 @@ Children's brains rely on predictability for security. When the external world i
 
 ---
 
-## Recovery Activities for Children
+## Recov. Activ.
 
 ### Structured Activities (Promotes Healing)
 

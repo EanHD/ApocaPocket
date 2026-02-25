@@ -7,7 +7,7 @@
 
 ---
 
-## Why Humans MUST Celebrate
+## Celebrate
 
 **Anthropological Universal:** Every human culture has celebrations and rituals. Zero exceptions. This is not luxury—it's survival technology.
 
@@ -41,7 +41,7 @@
 
 ---
 
-## Functions of Celebration: The Six Pillars
+## Functions
 
 ### 1. Mark Time (Orientation in Chaos)
 
@@ -162,7 +162,7 @@
 
 ---
 
-## Types of Celebrations: The Full Calendar
+## Types
 
 ### Weekly Rituals (Regularity = Stability)
 
@@ -418,7 +418,7 @@
 
 ---
 
-## Planning a Harvest Festival: Detailed Example
+## Planning Harvest Fest
 
 **Timeline: 4 Weeks Before**
 
@@ -562,7 +562,7 @@
 
 ---
 
-## Creating New Traditions
+## New Traditions
 
 **When old traditions don't fit:**
 
@@ -595,7 +595,7 @@
 
 ---
 
-## Warning Signs: When Celebrations Stop
+## Warning Signs
 
 **Community indicators:**
 - No celebrations scheduled (nothing to look forward to)
@@ -619,7 +619,7 @@
 
 ---
 
-## Historical Examples: Celebration as Resistance
+## Celebration as Resist
 
 **Holocaust concentration camps:**
 - **Secret religious observances** (death penalty risk)
@@ -649,7 +649,7 @@
 
 ---
 
-## Conclusion: Celebrate or Despair
+## Conclusion
 
 **Remember:**
 - Celebrations are not luxury (psychological necessity)
@@ -682,4 +682,4 @@
 
 ---
 
-*Last Updated: 2026 | Sources: Journal of Positive Psychology (2018), Ritual Studies (2016), Social Neuroscience (2014), Disaster Psychology (ongoing), Anthropological Studies of Ritual (ongoing)*
+Last Updated: 2026 | Sources: Journal of Positive Psychology (2018), Ritual Studies (2016), Social Neuroscience (2014), Disaster Psychology (ongoing), Anthropological Studies of Ritual (ongoing)

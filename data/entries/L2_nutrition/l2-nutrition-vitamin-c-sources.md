@@ -6,13 +6,13 @@ tags: ["vitamin-c", "scurvy", "deficiency", "foraging", "nutrition"]
 confidence: "high"
 region: "global"
 sources:
-  - "usda-fooddata-central"
-  - "who-micronutrient-guidelines"
-  - "maritime-scurvy-history-reviews"
+- "usda-fooddata-central"
+- "who-micronutrient-guidelines"
+- "maritime-scurvy-history-reviews"
 related:
-  - "l2-nutrition-deficiency-signs"
-  - "l2-food-preservation-fermentation"
-  - "l2-foraging-seasonal-strategy"
+- "l2-nutrition-deficiency-signs"
+- "l2-food-preservation-fermentation"
+- "l2-foraging-seasonal-strategy"
 ---
 
 # Vitamin C Sources & Scurvy Prevention
@@ -25,12 +25,12 @@ Vitamin C deficiency (scurvy) can appear after prolonged low intake. Prevention 
 - Adult women: ~75 mg/day
 - Smokers often need additional intake.
 
-## Deficiency Timeline (Approximate)
+## Deficiency Timeline
 - 4–8 weeks: fatigue, irritability.
 - 8–12 weeks: gum bleeding, easy bruising.
 - Later: poor wound healing, joint pain, tooth issues.
 
-## High-Value Sources (Examples)
+## High-Value Sources
 - Rose hips (very high seasonal source)
 - Citrus fruits
 - Bell peppers
@@ -42,7 +42,7 @@ Vitamin C deficiency (scurvy) can appear after prolonged low intake. Prevention 
 2. Favor fresh/raw where safe (heat degrades vitamin C).
 3. Rotate preserved options (fermented vegetables can contribute).
 
-## Heat/Storage Considerations
+## Heat/Store
 - Vitamin C is heat-sensitive and oxidation-sensitive.
 - Minimize long boiling times.
 - Cut produce just before use.

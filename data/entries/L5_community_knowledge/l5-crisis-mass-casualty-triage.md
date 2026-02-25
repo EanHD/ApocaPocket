@@ -63,11 +63,11 @@ warnings:
 - First responders can become victims - maintain scene safety (ongoing shooter, structural collapse, hazmat)
 ---
 
-# Mass Casualty Triage — START System for Disaster Response
+# Mass Casualty Triage
 
 Mass casualty events (explosions, building collapse, mass shooting, natural disaster, mass vehicle accidents) overwhelm medical resources. Triage sorts victims by priority: who needs immediate care, who can wait, who is beyond help. START (Simple Triage And Rapid Treatment) is the standard system. Goal: save the most lives with limited resources.
 
-## RECOGNITION SIGNS: Mass Casualty Event
+## REC: MCE
 
 **Definition:** More victims than available medical resources can handle.
 - 1 victim, 5 rescuers = normal response
@@ -88,7 +88,7 @@ Mass casualty events (explosions, building collapse, mass shooting, natural disa
 - Helpers overwhelmed (running between victims, looking lost)
 - You can't reach everyone immediately
 
-## IMMEDIATE ACTIONS (FIRST 5 MINUTES)
+## IMM ACT
 
 ### 1. SCENE SAFETY (30 seconds)
 **BEFORE approaching victims, assess:**
@@ -131,7 +131,7 @@ Mass casualty events (explosions, building collapse, mass shooting, natural disa
 - [ ] Water (for conscious victims)
 - [ ] Paper/pen (victim tracking, notes)
 
-## START TRIAGE PROTOCOL (30 seconds per victim)
+## START TRIAGE
 
 **Goal:** Rapidly categorize every victim in 30 seconds or less. Do NOT treat during initial triage (exception: open airway if not breathing).
 
@@ -154,8 +154,8 @@ Mass casualty events (explosions, building collapse, mass shooting, natural disa
 - Open airway (head tilt-chin lift, or jaw thrust if spinal injury suspected)
 - Clear obvious obstructions (blood, vomit, debris — finger sweep if visible)
 - **Does victim START breathing after airway opened?**
-  - **YES → Tag RED (IMMEDIATE)** — Move to next victim
-  - **NO → Tag BLACK (EXPECTANT/DEAD)** — Do NOT attempt CPR in mass casualty (takes 2 people 15+ minutes = not feasible). Move to next victim.
+- **YES → Tag RED (IMMEDIATE)** — Move to next victim
+- **NO → Tag BLACK (EXPECTANT/DEAD)** — Do NOT attempt CPR in mass casualty (takes 2 people 15+ minutes = not feasible). Move to next victim.
 
 **IF YES (breathing):**
 - Proceed to Step 3
@@ -202,9 +202,9 @@ Mass casualty events (explosions, building collapse, mass shooting, natural disa
 - Injuries incompatible with life given available resources
 - **Action:** Do NOT treat. Cover body if possible. Document location. Move to next victim.
 
-**BRUTAL REALITY:** In true mass casualty, you may tag someone BLACK who *could* be saved with full hospital resources (e.g., CPR could revive) — but in field with limited help, that 15-minute CPR means 10 other people die. This is the horrible math of triage.
+**BRUTAL REALITY:** In true mass casualty, you may tag someone BLACK who could be saved with full hospital resources (e.g., CPR could revive) — but in field with limited help, that 15-minute CPR means 10 other people die. This is the horrible math of triage.
 
-## TIMELINE-BASED RESPONSE
+## TIMELINE RESPONSE
 
 ### FIRST 15 MINUTES — RAPID TRIAGE
 
@@ -323,7 +323,7 @@ Mass casualty events (explosions, building collapse, mass shooting, natural disa
 - Establish rally point (where victims will be brought/triaged)
 - Identify field hospital location (school gym, church, warehouse)
 
-## GROUP DYNAMICS & ROLE ASSIGNMENT
+## GROUP DYNAMICS
 
 **Ideal triage team:** 10-15 people for 20-30 victims
 
@@ -347,7 +347,7 @@ Mass casualty events (explosions, building collapse, mass shooting, natural disa
 - Crowd control (keep bystanders back)
 - **Do NOT assign to triage or RED treatment** (requires training)
 
-## MENTAL HEALTH PROTOCOLS
+## Mental Health Protocol
 
 ### For RESPONDERS:
 
@@ -507,6 +507,6 @@ Mental status → Follows commands → YELLOW (delayed)
 **After it's over:** Debrief, grieve, support each other. You did the best anyone could. That has to be enough.
 ---
 
-# Mass Casualty Triage — START System for Disaster Response
+# Mass Casualty Triage
 
 Mass casualty events (explosions, building collapse, mass shooting, natural disaster) overwhelm medical resources. Triage sorts victims by priority: who needs immediate care, who can wait, who is beyond help. START (Simple Triage And Rapid Treatment) is the standard system. Goal: save the most lives with limited resources.

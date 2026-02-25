@@ -14,38 +14,38 @@ Schools are **a modern invention** (widespread only since 1800s). For 200,000+ y
 
 ---
 
-## Apprenticeship Model (The Gold Standard)
+## Apprenticeship Model
 
 ### Structure
 **1 master + 1-10 apprentices** (over months to years)
 
 **Phases**:
 1. **Observation** (weeks to months):
-   - Apprentice watches master work
-   - Learns rhythm, sequence, quality standards
-   - Asks questions, absorbs context
+- Apprentice watches master work
+- Learns rhythm, sequence, quality standards
+- Asks questions, absorbs context
 
 2. **Assistance** (months):
-   - Apprentice helps with simple tasks
-   - Prepares materials, cleans, organizes
-   - Masters say: "To teach is to do it twice"
+- Apprentice helps with simple tasks
+- Prepares materials, cleans, organizes
+- Masters say: "To teach is to do it twice"
 
 3. **Supervised practice** (months to years):
-   - Apprentice attempts tasks with master watching
-   - Immediate feedback, correction
-   - Repeat until consistent quality
+- Apprentice attempts tasks with master watching
+- Immediate feedback, correction
+- Repeat until consistent quality
 
 4. **Independent work** (years):
-   - Apprentice works alone, master checks results
-   - Gradually increasing complexity
+- Apprentice works alone, master checks results
+- Gradually increasing complexity
 
 5. **Journeyman status**:
-   - Apprentice now competent (can work independently)
-   - Seeks more masters, learns variations
+- Apprentice now competent (can work independently)
+- Seeks more masters, learns variations
 
 6. **Master status**:
-   - After years of experience, can now teach others
-   - **Cycle repeats**
+- After years of experience, can now teach others
+- **Cycle repeats**
 
 ### Time to Proficiency (Historical Examples)
 - **Blacksmithing**: 3-7 years (basic competency → master)
@@ -58,11 +58,11 @@ Schools are **a modern invention** (widespread only since 1800s). For 200,000+ y
 
 ---
 
-## Oral Tradition (Pre-Writing Knowledge Transfer)
+## Oral Tradition
 
 ### Why It Works
 **Human memory is powerful** when trained properly:
-- Epic poems (10,000+ lines) memorized and recited (Homer's *Iliad*, 15,693 lines)
+- Epic poems (10,000+ lines) memorized and recited (Homer's Iliad, 15,693 lines)
 - Legal codes, genealogies, histories passed orally for centuries
 - **Trick**: Information encoded in story, rhythm, rhyme (memorable)
 
@@ -99,7 +99,7 @@ Schools are **a modern invention** (widespread only since 1800s). For 200,000+ y
 
 ---
 
-## Visual Demonstration (Show, Don't Just Tell)
+## Visual Demo
 
 ### Why Demonstration Beats Explanation
 **Humans learn by imitation** (mirror neurons, evolutionary advantage)
@@ -138,7 +138,7 @@ Schools are **a modern invention** (widespread only since 1800s). For 200,000+ y
 
 ---
 
-## Age-Appropriate Learning (Developmental Stages)
+## Age-Appropriate Learni
 
 ### Early Childhood (Ages 3-7)
 **Capabilities**: Observation, imitation, simple tasks, short attention span
@@ -178,7 +178,7 @@ Schools are **a modern invention** (widespread only since 1800s). For 200,000+ y
 
 ---
 
-## Group Teaching (Efficiency & Social Learning)
+## Group Teaching
 
 ### Why Groups Work
 - **Efficiency**: 1 teacher → 10 students (vs 1:1 ratio)
@@ -200,7 +200,7 @@ Schools are **a modern invention** (widespread only since 1800s). For 200,000+ y
 
 ---
 
-## Testing for Mastery (Critical: Prevents Skill Loss)
+## Testing
 
 ### Question 1: **Can They Teach It?**
 **If you can't teach it, you don't fully understand it.**
@@ -225,7 +225,7 @@ Schools are **a modern invention** (widespread only since 1800s). For 200,000+ y
 
 ---
 
-## Exponential Knowledge Spread
+## ExpKnow
 
 **The Mathematics of Teaching**:
 
@@ -253,7 +253,7 @@ Year 10: 1 person → 10 BILLION people (if exponential)
 
 ---
 
-## Preserving Knowledge Without Schools
+## Preserve Knowledge
 
 ### Guilds (Professional Associations)
 - **Masters control quality** (prevent skill degradation)
@@ -277,8 +277,9 @@ Year 10: 1 person → 10 BILLION people (if exponential)
 
 ---
 
-## Common Mistakes in Teaching (& Fixes)
+## Common Teach Mistakes
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Mistake | Problem | Fix |
 |---------|---------|-----|
 | **Explain without demonstrating** | Students don't see how it's done | Show first, explain second |
@@ -290,7 +291,7 @@ Year 10: 1 person → 10 BILLION people (if exponential)
 
 ---
 
-## Creating Effective Learning Environments
+## Create Effective LE
 
 ### Physical Space
 - **Safe practice area**: Beginners make mistakes (no serious consequences)
@@ -309,7 +310,7 @@ Year 10: 1 person → 10 BILLION people (if exponential)
 
 ---
 
-## Historical Context: How Humanity Taught for 200,000 Years
+## Historical Teaching
 
 **Paleolithic** (200,000-10,000 BCE):
 - **Survival skills**: Hunting, tracking, fire, tool-making (taught by parents/elders)
@@ -335,7 +336,7 @@ Year 10: 1 person → 10 BILLION people (if exponential)
 
 ---
 
-## Why This Is Civilization Technology
+## Civilization Tech Expl
 
 **Knowledge = Survival**:
 - 1 generation without teaching → skills lost forever
@@ -354,12 +355,12 @@ Year 10: 1 person → 10 BILLION people (if exponential)
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *The Ignorant Schoolmaster* by Jacques Rancière (learning without hierarchical teaching)
-- *Apprenticeship in Thinking* by Barbara Rogoff (cognitive anthropology of learning)
-- *The Foxfire Book Series* (Appalachian traditional skills, oral tradition documentation)
-- *Oral Tradition as History* by Jan Vansina (how societies preserve knowledge without writing)
+- The Ignorant Schoolmaster by Jacques Rancière (learning without hierarchical teaching)
+- Apprenticeship in Thinking by Barbara Rogoff (cognitive anthropology of learning)
+- The Foxfire Book Series (Appalachian traditional skills, oral tradition documentation)
+- Oral Tradition as History by Jan Vansina (how societies preserve knowledge without writing)
 
 ---
 

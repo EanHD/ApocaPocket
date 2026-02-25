@@ -272,7 +272,7 @@ In survival scenarios:
 
 **Key:** Function matters more than form. Improvise.
 
-## Measurement and Marking
+## Measurement
 
 ### Why Accuracy Matters
 **Measure twice, cut once. (Or measure once, waste materials.)**
@@ -743,9 +743,9 @@ In survival scenarios:
 - **l1-mental-health-planning-systems.md:** Project planning for fabrication
 
 ## Sources
-- *The Anarchist's Tool Chest* by Christopher Schwarz (woodworking fundamentals)
-- *Metalworking: Doing It Better* by Tom Lipton (machining basics)
-- *Make: Magazine* (DIY fabrication projects)
+- The Anarchist's Tool Chest by Christopher Schwarz (woodworking fundamentals)
+- Metalworking: Doing It Better by Tom Lipton (machining basics)
+- Make: Magazine (DIY fabrication projects)
 - Traditional craft manuals (joinery, carpentry, blacksmithing)
 - Field expedient manuals (military survival construction)
 

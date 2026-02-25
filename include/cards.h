@@ -21,6 +21,7 @@
 #define CARD_MAX_LINES (CARD_BODY_H / LINE_H)                // 208/18 = 11  (perfect fit)
 #define CARD_TOLERANCE (CARD_MAX_LINES / 4)                  // 25%    = 2
 #define CARD_SCROLL_MAX (CARD_MAX_LINES + CARD_TOLERANCE)    // 13  → scroll threshold
+#define CARD_MIN_LINES  3                                    // min lines in a (cont.) to avoid orphans
 // if lineCount >  CARD_SCROLL_MAX → split into sub-cards
 // if lineCount <= CARD_SCROLL_MAX → scrollable=true (UP/DOWN enabled)
 // if lineCount <= CARD_MAX_LINES  → fits clean, no scroll needed

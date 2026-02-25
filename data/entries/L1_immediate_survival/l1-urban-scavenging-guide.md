@@ -9,10 +9,10 @@ time_required: "30-120 minutes per location"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "FEMA Urban Search and Rescue Field Operations Guide"
-  - "OSHA Construction Safety Standards"
-  - "CDC Urban Disaster Safety Guidelines"
-  - "NFPA Building Safety Assessment Standards"
+- "FEMA Urban Search and Rescue Field Operations Guide"
+- "OSHA Construction Safety Standards"
+- "CDC Urban Disaster Safety Guidelines"
+- "NFPA Building Safety Assessment Standards"
 ---
 
 # Urban Scavenging Guide - Safe Salvage Operations
@@ -33,7 +33,7 @@ sources:
 
 ---
 
-## Pre-Scavenge Planning (10-20 minutes)
+## Pre-Scavenge Plan
 
 ### Target Selection
 
@@ -68,8 +68,8 @@ sources:
 - Leaning walls (>5° tilt visible)
 - Smoke or chemical smell
 - "X" marking on door (FEMA search marking = structural assessment done)
-  - Quadrant markings: Date, hazards, victims inside/outside
-  - Orange/Red X = UNSAFE
+- Quadrant markings: Date, hazards, victims inside/outside
+- Orange/Red X = UNSAFE
 - Sound of cracking, groaning, or settling
 - Other armed groups inside
 
@@ -100,7 +100,7 @@ sources:
 
 ---
 
-## Building Safety Assessment (5-10 minutes)
+## Building Safety
 
 ### The 5-Point Structural Check
 
@@ -220,7 +220,7 @@ sources:
 
 ---
 
-## Room-by-Room Search Pattern
+## Room Search
 
 ### Systematic Search (prevents wasted time, missed items)
 
@@ -255,7 +255,7 @@ sources:
 
 ---
 
-## High-Value Items Checklist
+## High-Value Items
 
 ### Survival Priority (Grab FIRST)
 
@@ -305,7 +305,7 @@ sources:
 
 ---
 
-## Hazard Recognition & Response
+## Hazard Recogni
 
 ### Structural Hazards
 
@@ -499,10 +499,11 @@ sources:
 
 ---
 
-## Scavenging Efficiency Matrix
+## Scav Eff Mat
 
 ### Time vs Risk vs Value
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Building Type | Time (min) | Risk Level | Avg Value (1-10) | Notes |
 |---------------|------------|------------|------------------|-------|
 | Convenience store | 15-30 | Medium | 8 | High food/water, may be looted |
@@ -568,24 +569,23 @@ sources:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Entering without safety check | 5-point structural assessment every time |
-| Going alone | Buddy system (one watches, one searches) |
-| Staying too long (greed) | Set 30-60 min timer, leave when it beeps |
-| Taking everything (overloaded) | Prioritize by weight-to-value ratio |
-| Ignoring hazard signs (smell, sound) | Exit immediately if red flags |
-| No exit plan | Identify 2+ exits before entering |
-| Forgetting decontamination | Always wash after scavenging |
-| Loud entry (kicking doors) | Quiet entry when possible (stealth) |
-| Taking perishable food | Focus on non-perishable (canned, dried) |
-| Not marking searched buildings | Mark with "X" to save time later |
+**❌ Mistake:** ✓ Correct
+**Entering without safety check:** 5-point structural assessment every time
+**Going alone:** Buddy system (one watches, one searches)
+**Staying too long (greed):** Set 30-60 min timer, leave when it beeps
+**Taking everything (overloaded):** Prioritize by weight-to-value ratio
+**Ignoring hazard signs (smell, sound):** Exit immediately if red flags
+**No exit plan:** Identify 2+ exits before entering
+**Forgetting decontamination:** Always wash after scavenging
+**Loud entry (kicking doors):** Quiet entry when possible (stealth)
+**Taking perishable food:** Focus on non-perishable (canned, dried)
+**Not marking searched buildings:** Mark with "X" to save time later
 
 ---
 
-## When to Abandon Scavenging
+## Abandon Scav
 
 **Stop scavenging if:**
 - Structural damage increasing (earthquake aftershocks, settling buildings)
@@ -602,7 +602,7 @@ sources:
 
 ---
 
-## Specialized Scavenging Scenarios
+## SpecScav
 
 ### Pharmacies (High-Value, High-Risk)
 

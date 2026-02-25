@@ -18,7 +18,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ---
 
-## Why Shot Placement Matters
+## Shot Placement
 
 **Consequences of Poor Shots:**
 1. **Animal suffering**: Hours or days of pain before death
@@ -34,7 +34,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ---
 
-## 🫀 Vital Organs & Kill Zones
+## Vital Organs
 
 ### Priority Ranking (Instant Kill Likelihood)
 
@@ -77,9 +77,9 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ---
 
-## 🦌 Species-Specific Anatomy
+## Species Anatomy
 
-### Moose (*Alces alces*)
+### Moose (Alces alces)
 
 **Size**: 800-1200 lbs (bulls), 600-900 lbs (cows)  
 **Vitals Location**: Large chest cavity, but set farther back than deer
@@ -99,7 +99,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 - Head-on (too much bone, no vital exposure)
 - Rear shots (gut shot = slow, painful death)
 
-### Caribou (*Rangifer tarandus*)
+### Caribou (Rangifer tarandus)
 
 **Size**: 200-400 lbs (bulls), 150-300 lbs (cows)  
 **Vitals Location**: Similar to deer, but slightly larger chest cavity
@@ -117,7 +117,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 - Lighter bone structure (easier penetration)
 - Typically drop quickly with good shot
 
-### White-Tailed / Mule Deer (*Odocoileus* species)
+### White-Tailed / Mule Deer (Odocoileus species)
 
 **Size**: 100-250 lbs (bucks), 80-150 lbs (does)  
 **Vitals Location**: Standard for reference (other game compared to deer)
@@ -137,7 +137,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ---
 
-## 📐 Shot Angles & Aiming Points
+## Shot Angles
 
 ### Broadside (BEST)
 
@@ -216,10 +216,11 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ---
 
-## 🔫 Caliber & Bullet Selection
+## Caliber & Bullet
 
 ### Recommended Calibers by Species
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Minimum Caliber | Ideal Caliber | Bullet Weight |
 |---------|-----------------|---------------|---------------|
 | **Moose** | .30-06 | .300 Win Mag, .338 Win Mag | 180-220 grains |
@@ -258,6 +259,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ### Ethical Shot Distances
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Skill Level | Max Range (Broadside) | Notes |
 |-------------|-----------------------|-------|
 | Beginner | 100 yards | Learn fundamentals first |
@@ -396,15 +398,15 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 ## 📚 Sources
 
 - Alaska Department of Fish & Game, "Big Game Hunting Ethics"
-- *The Complete Guide to Hunting, Butchering, and Cooking Wild Game: Volume 1*, Steven Rinella
+- The Complete Guide to Hunting, Butchering, and Cooking Wild Game: Volume 1, Steven Rinella
 - Boone & Crockett Club, "Fair Chase Principles"
-- *Shooting Big Game: Rifles, Loads, and Shot Placement for Deer, Elk, and More*, Craig Boddington
+- Shooting Big Game: Rifles, Loads, and Shot Placement for Deer, Elk, and More, Craig Boddington
 - National Rifle Association (NRA), "Hunter's Guide to Shot Placement"
-- *Outdoor Life: The Ultimate Guide to Hunting Skills, Tactics, and Techniques*, Peter Fiduccia
+- Outdoor Life: The Ultimate Guide to Hunting Skills, Tactics, and Techniques, Peter Fiduccia
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Vital Organs - Anatomical Overlay (Broadside View)"**
 - Moose, caribou, or deer silhouette

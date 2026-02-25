@@ -42,18 +42,18 @@ The atlatl is humanity's **original ranged weapon**, used for 30,000+ years befo
 ### Hook/Spur
 - **Design:** Small projection at distal end (¼" - ½" height)
 - **Options:** 
-  - Carved from same wood as body
-  - Stone/bone spur lashed on
-  - Antler tine (natural hook)
-  - Notch cut into end (simple, effective)
+- Carved from same wood as body
+- Stone/bone spur lashed on
+- Antler tine (natural hook)
+- Notch cut into end (simple, effective)
 - **Function:** Engages hollow at base of dart, provides pivot point
 
 ### Grip
 - **Position:** Proximal end (hand end)
 - **Options:**
-  - Leather wrap (improves grip)
-  - Carved finger grooves
-  - Stone/shell weight (adds momentum, balances dart weight)
+- Leather wrap (improves grip)
+- Carved finger grooves
+- Stone/shell weight (adds momentum, balances dart weight)
 - **Finger loops:** Some designs include leather loops for retention
 
 ### Build Instructions
@@ -163,7 +163,7 @@ The atlatl is humanity's **original ranged weapon**, used for 30,000+ years befo
 - **Stopping power:** Greater than bow (heavier projectile, more kinetic energy)
 - **Simplicity:** Easier to make than bow (no complex geometry, no string)
 
-## Advantages Over Modern Tools
+## Advantages
 
 ### Vs. Bow & Arrow
 1. **Kinetic energy:** 50-70 ft-lbs (atlatl) vs 30-50 ft-lbs (bow)
@@ -257,9 +257,9 @@ The atlatl is humanity's **original ranged weapon**, used for 30,000+ years befo
 - Wrist snap detail (close-up of critical motion)
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Whittaker, J. C. (2010).** *Weapon Trials: The Atlatl and Experiments in Hunting Technology*. - Experimental archaeology proving effectiveness
+- **Whittaker, J. C. (2010).** Weapon Trials: The Atlatl and Experiments in Hunting Technology. - Experimental archaeology proving effectiveness
 - **Hutchings, W. K. (1997).** "The Paleolithic Origins of the Atlatl." - Archaeological history and development
 - **Raymond, A. (1986).** "Experiments in the Function and Performance of the Weighted Atlatl." - Physics and ballistics analysis
 - **World Atlatl Association:** www.worldatlatl.org - Modern competitions and technique

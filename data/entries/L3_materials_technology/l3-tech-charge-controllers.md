@@ -76,8 +76,9 @@ Charge controllers regulate power from solar panels to batteries, preventing ove
 
 ---
 
-## Detailed Comparison Table
+## Detailed Comp Table
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | PWM | MPPT |
 |---------|-----|------|
 | **Efficiency** | 75-80% | 94-98% |
@@ -93,7 +94,7 @@ Charge controllers regulate power from solar panels to batteries, preventing ove
 
 ---
 
-## PWM vs MPPT: Real-World Example
+## PWM vs MPPT
 
 **Scenario**: 300W array (2× 150W panels), 12V battery bank, 24V nominal panels (Vmp 36V, Imp 8.3A)
 
@@ -119,7 +120,7 @@ Charge controllers regulate power from solar panels to batteries, preventing ove
 
 ---
 
-## Sizing Charge Controllers
+## Charge Ctrl
 
 ### Current Rating
 
@@ -171,6 +172,7 @@ String Voc = 53.1V × 3 = 159.3V
 
 **MPPT controllers** (common ratings):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Array Size | 12V Battery | 24V Battery | 48V Battery | Input Voltage |
 |------------|-------------|-------------|-------------|---------------|
 | 400-600W | 50A | 30A | 20A | 100V |
@@ -180,16 +182,15 @@ String Voc = 53.1V × 3 = 159.3V
 
 **PWM controllers** (simpler sizing):
 
-| Array Current | Controller Rating |
-|---------------|-------------------|
-| <20A | 30A |
-| 20-30A | 40A |
-| 30-40A | 50A |
-| 40-60A | 60A |
+**Array Current:** Controller Rating
+**<20A:** 30A
+**20-30A:** 40A
+**30-40A:** 50A
+**40-60A:** 60A
 
 ---
 
-## Battery Type Configuration
+## Battery Config
 
 ### Charging Stages
 
@@ -205,6 +206,7 @@ String Voc = 53.1V × 3 = 159.3V
 
 **12V nominal system** (multiply by 2 for 24V, by 4 for 48V):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Battery Type | Bulk/Absorption | Float | Equalize | Temp Comp |
 |--------------|-----------------|-------|----------|-----------|
 | **Flooded Lead-Acid** | 14.4-14.8V | 13.2-13.6V | 15.0-16.0V | -0.03V/°C |
@@ -259,15 +261,15 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 **Always connect in this order** (prevents controller damage):
 
 1. **Battery first** (controller needs voltage reference)
-   - Connect battery + to controller battery +
-   - Connect battery - to controller battery -
-   - Verify controller powers on, displays battery voltage
+- Connect battery + to controller battery +
+- Connect battery - to controller battery -
+- Verify controller powers on, displays battery voltage
    
 2. **Solar array last** (panels covered or disconnect open)
-   - Verify polarity with multimeter before connecting
-   - Connect panel + to controller PV +
-   - Connect panel - to controller PV -
-   - Uncover panels or close array disconnect
+- Verify polarity with multimeter before connecting
+- Connect panel + to controller PV +
+- Connect panel - to controller PV -
+- Uncover panels or close array disconnect
 
 **Why this order?**: Connecting array before battery causes voltage spike → controller damage
 
@@ -296,6 +298,7 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 
 **Controller to battery** (low voltage, very high current):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Power Output | 12V | 24V | 48V |
 |--------------|-----|-----|-----|
 | 500W | 6 AWG | 10 AWG | 12 AWG |
@@ -303,7 +306,7 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 | 1500W | 1/0 AWG | 4 AWG | 8 AWG |
 | 2000W | 2/0 AWG | 2 AWG | 6 AWG |
 
-*Based on 3% voltage drop, 5 ft run. Adjust for actual distance.*
+Based on 3% voltage drop, 5 ft run. Adjust for actual distance.
 
 ---
 
@@ -329,26 +332,26 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 ### Initial Configuration Steps
 
 1. **Set battery type** (FLA / AGM / Gel / LiFePO4)
-   - Controller applies correct voltage profile
-   - Temperature compensation enabled/disabled
+- Controller applies correct voltage profile
+- Temperature compensation enabled/disabled
    
 2. **Set system voltage** (12V / 24V / 48V)
-   - Auto-detect on most controllers
-   - Verify display shows correct voltage
+- Auto-detect on most controllers
+- Verify display shows correct voltage
    
 3. **Install temperature sensor** (if equipped)
-   - Mount on battery terminal (not case)
-   - Secure with zip tie or adhesive
-   - Verify controller displays battery temp
+- Mount on battery terminal (not case)
+- Secure with zip tie or adhesive
+- Verify controller displays battery temp
    
 4. **Set absorption time** (per battery type)
-   - Default settings usually acceptable
-   - Adjust if consistently under/overcharging
+- Default settings usually acceptable
+- Adjust if consistently under/overcharging
    
 5. **Set load disconnect** (if controller has load output)
-   - Low voltage disconnect (LVD): 11.5V (12V system)
-   - Reconnect voltage: 12.6V
-   - Prevents battery over-discharge
+- Low voltage disconnect (LVD): 11.5V (12V system)
+- Reconnect voltage: 12.6V
+- Prevents battery over-discharge
 
 ---
 
@@ -372,7 +375,7 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 
 ---
 
-## Monitoring & Interpretation
+## Monitoring
 
 ### Key Metrics
 
@@ -432,7 +435,7 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 
 ---
 
-## Common Mistakes & Solutions
+## Common Errors
 
 ### ❌ **Mistake 1**: Connecting array before battery
 
@@ -490,7 +493,7 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 
 ---
 
-## Troubleshooting Flowcharts
+## Troubleshoot Flow
 
 ### No Charging (Array Voltage Present)
 
@@ -521,9 +524,9 @@ Check 1: Array voltage = Vmp? (30-40V typical)
               ├─ Float → Normal (battery full)
               ├─ Absorption → Normal (current tapers in absorption)
               └─ Bulk → Problem:
-                    - Controller temperature derating (>40°C)
-                    - Undersized controller
-                    - Faulty controller
+- Controller temperature derating (>40°C)
+- Undersized controller
+- Faulty controller
 ```
 
 ---
@@ -534,13 +537,13 @@ Check 1: Array voltage = Vmp? (30-40V typical)
 
 **Diagnosis**:
 1. **Check absorption time**: Should see 2+ hours at absorption voltage
-   - Too short → Battery never finishes charging
+- Too short → Battery never finishes charging
 2. **Check absorption voltage**: 14.4-14.8V for FLA, 14.1-14.4V for Gel
-   - Too low → Never reaches full charge
+- Too low → Never reaches full charge
 3. **Check current taper**: Should drop to <2% of battery capacity
-   - High current sustained → Battery damaged or wrong settings
+- High current sustained → Battery damaged or wrong settings
 4. **Temperature compensation**: Cold weather requires higher voltage
-   - No sensor → Chronic undercharge in winter
+- No sensor → Chronic undercharge in winter
 
 **Fixes**:
 - Increase absorption time (add 1-2 hours)
@@ -582,7 +585,7 @@ Check 1: Array voltage = Vmp? (30-40V typical)
 
 ---
 
-## Specifications to Look For
+## Specs
 
 **Quality MPPT controllers**:
 - Conversion efficiency: >96%
@@ -603,7 +606,7 @@ Check 1: Array voltage = Vmp? (30-40V typical)
 
 ---
 
-## Comparison: Real Controllers
+## Comp: Real Ctrlrs
 
 **Budget PWM** (30A, $50):
 - 12V/24V auto-detect
@@ -677,5 +680,5 @@ Check 1: Array voltage = Vmp? (30-40V typical)
 
 ---
 
-*Last updated: 2026-02-19*
-*Layer: L3 Materials & Technology | Category: Energy/Power*
+Last updated: 2026-02-19
+Layer: L3 Materials & Technology | Category: Energy/Power

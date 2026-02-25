@@ -8,7 +8,7 @@ Chronic medical conditions require ongoing management that becomes more complex 
 
 ---
 
-## Diabetes (Type 1 & Type 2)
+## Diabetes
 
 ### Insulin Storage
 
@@ -61,13 +61,11 @@ Chronic medical conditions require ongoing management that becomes more complex 
 - **Survival target:** 100-200 mg/dL (tolerate slightly higher to conserve supplies)
 
 **Monitoring Schedule:**
-| Time | Why |
-|------|-----|
-| Morning (fasting) | Baseline, overnight pattern |
-| Before meals | Determine mealtime insulin dose |
-| 2 hours after meals | Check post-meal spike |
-| Before bed | Prevent overnight lows |
-| If feeling unwell | Distinguish high vs low |
+**Morning (fasting):** Baseline, overnight pattern
+**Before meals:** Determine mealtime insulin dose
+**2 hours after meals:** Check post-meal spike
+**Before bed:** Prevent overnight lows
+**If feeling unwell:** Distinguish high vs low
 
 **Test Strip Conservation:**
 - Test 4x/day minimum (morning, meals, bed)
@@ -86,17 +84,16 @@ Chronic medical conditions require ongoing management that becomes more complex 
 - Person should know their ratio
 
 **Survival Foods (Carb Content per Cup):**
-| Food | Carbs (approx) |
-|------|----------------|
-| White rice (cooked) | 45g |
-| Beans (cooked) | 40g |
-| Potato (medium) | 30g |
-| Apple | 25g |
-| Bread (1 slice) | 15g |
-| Milk (1 cup) | 12g |
-| Berries (1 cup) | 15-20g |
-| Nuts (1 oz) | 5-10g |
-| Meat/fish | 0g (protein/fat only) |
+**Food:** Carbs (approx)
+**White rice (cooked):** 45g
+**Beans (cooked):** 40g
+**Potato (medium):** 30g
+**Apple:** 25g
+**Bread (1 slice):** 15g
+**Milk (1 cup):** 12g
+**Berries (1 cup):** 15-20g
+**Nuts (1 oz):** 5-10g
+**Meat/fish:** 0g (protein/fat only)
 
 **Carb Counting Strategy:**
 - Measure portions (don't estimate)
@@ -113,10 +110,10 @@ Chronic medical conditions require ongoing management that becomes more complex 
 
 **Treatment (Rule of 15):**
 1. **Consume 15g fast-acting carbs:**
-   - 4 glucose tablets
-   - 1/2 cup (4 oz) juice or regular soda
-   - 1 tablespoon honey or sugar
-   - 3-4 hard candies
+- 4 glucose tablets
+- 1/2 cup (4 oz) juice or regular soda
+- 1 tablespoon honey or sugar
+- 3-4 hard candies
 2. **Wait 15 minutes**
 3. **Recheck blood sugar**
 4. **If still <70 mg/dL, repeat**
@@ -166,7 +163,7 @@ Chronic medical conditions require ongoing management that becomes more complex 
 
 ---
 
-## Asthma & COPD (Chronic Obstructive Pulmonary Disease)
+## Asthma & COPD
 
 ### Inhaler Preservation
 
@@ -189,15 +186,14 @@ Chronic medical conditions require ongoing management that becomes more complex 
 ### Avoid Triggers
 
 **Common Asthma Triggers:**
-| Trigger | Avoidance Strategy |
-|---------|-------------------|
-| Smoke | Position upwind from fire, vent shelters |
-| Dust | Damp-mop surfaces, seal sleeping area |
-| Cold air | Breathe through scarf/cloth, pre-warm air |
-| Strong odors | Avoid perfumes, limit cooking smells |
-| Pollen | Stay indoors during high pollen times (morning, windy days) |
-| Mold | Keep shelter dry, sunlight kills mold |
-| Exercise | Warm up slowly, use rescue inhaler 15 min before activity |
+**Trigger:** Avoidance Strategy
+**Smoke:** Position upwind from fire, vent shelters
+**Dust:** Damp-mop surfaces, seal sleeping area
+**Cold air:** Breathe through scarf/cloth, pre-warm air
+**Strong odors:** Avoid perfumes, limit cooking smells
+**Pollen:** Stay indoors during high pollen times (morning, windy days)
+**Mold:** Keep shelter dry, sunlight kills mold
+**Exercise:** Warm up slowly, use rescue inhaler 15 min before activity
 
 **Trigger Diary:**
 - Log symptoms and potential triggers
@@ -340,6 +336,7 @@ Chronic medical conditions require ongoing management that becomes more complex 
 ### Avoiding Overexertion
 
 **Activity Modification:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Activity Level | Heart Rate Target | RPE (Rate of Perceived Exertion) |
 |----------------|-------------------|----------------------------------|
 | Rest | Baseline | 1-2 (very light) |
@@ -412,13 +409,12 @@ Chronic medical conditions require ongoing management that becomes more complex 
 - Avoid salty foods (increases thirst)
 
 **Potassium Management:**
-| High Potassium (AVOID) | Low Potassium (SAFE) |
-|------------------------|----------------------|
-| Bananas, oranges | Apples, berries |
-| Potatoes, tomatoes | Carrots (cooked), green beans |
-| Beans, lentils | White rice, pasta |
-| Nuts, seeds | Bread |
-| Salt substitutes (often potassium chloride) | Regular salt (limit sodium) |
+**High Potassium (AVOID):** Low Potassium (SAFE)
+**Bananas, oranges:** Apples, berries
+**Potatoes, tomatoes:** Carrots (cooked), green beans
+**Beans, lentils:** White rice, pasta
+**Nuts, seeds:** Bread
+**Salt substitutes (often potassium chloride):** Regular salt (limit sodium)
 
 **High Potassium Risk:**
 - Irregular heartbeat
@@ -480,10 +476,10 @@ Chronic medical conditions require ongoing management that becomes more complex 
 
 **Treatment:**
 1. **EpiPen immediately** (at first sign of serious reaction)
-   - Remove cap
-   - Press firmly into outer thigh (through clothing is OK)
-   - Hold 3 seconds
-   - Massage injection site 10 seconds
+- Remove cap
+- Press firmly into outer thigh (through clothing is OK)
+- Hold 3 seconds
+- Massage injection site 10 seconds
 2. **Call for evacuation** (epinephrine is temporary, symptoms can return)
 3. **Lie flat, elevate legs** (improves blood flow to heart/brain)
 4. **Second dose** (if no improvement in 5-10 minutes and second EpiPen available)
@@ -497,29 +493,25 @@ Chronic medical conditions require ongoing management that becomes more complex 
 ### Substitute Foods
 
 **Common Allergens & Substitutes:**
-| Allergen | Substitute |
-|----------|------------|
-| Milk | Nut milks (almond, coconut), oat milk |
-| Eggs | Flax "eggs" (1 tbsp ground flax + 3 tbsp water), applesauce |
-| Wheat | Rice, corn, quinoa, potato starch |
-| Soy | Coconut aminos (for soy sauce), other legumes |
-| Tree nuts | Seeds (sunflower, pumpkin), roasted chickpeas |
-| Peanuts | Sun butter (sunflower seed butter), other nut butters |
-| Fish | Chicken, beans, tofu (if soy-safe) |
+**Milk:** Nut milks (almond, coconut), oat milk
+**Eggs:** Flax "eggs" (1 tbsp ground flax + 3 tbsp water), applesauce
+**Wheat:** Rice, corn, quinoa, potato starch
+**Soy:** Coconut aminos (for soy sauce), other legumes
+**Tree nuts:** Seeds (sunflower, pumpkin), roasted chickpeas
+**Peanuts:** Sun butter (sunflower seed butter), other nut butters
+**Fish:** Chicken, beans, tofu (if soy-safe)
 
 ---
 
-## Medication Management (All Conditions)
+## Medication Mgmt
 
 ### Storage Principles
 
 **General Guidelines:**
-| Factor | Requirement |
-|--------|-------------|
-| Temperature | 68-77°F (room temp) unless specified |
-| Light | Amber bottles or dark storage |
-| Moisture | Sealed containers, desiccant packs |
-| Air exposure | Keep bottles tightly closed |
+**Temperature:** 68-77°F (room temp) unless specified
+**Light:** Amber bottles or dark storage
+**Moisture:** Sealed containers, desiccant packs
+**Air exposure:** Keep bottles tightly closed
 
 **Field Storage Solutions:**
 - Underground cache (cool, stable temp)

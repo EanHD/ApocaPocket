@@ -56,6 +56,7 @@ Fractures (broken bones) require immediate immobilization to prevent further dam
 
 ### Signs and Symptoms
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Sign/Symptom | Description | Reliability |
 |-------------|-------------|-------------|
 | **Deformity** | Abnormal angle, shortening, or rotation | High - obvious fracture |
@@ -81,6 +82,7 @@ Suspect fracture if:
 
 ### Closed vs. Open
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Description | Urgency | Infection Risk |
 |------|-------------|---------|----------------|
 | **Closed** | Skin intact, bone not visible | Moderate | Low |
@@ -95,7 +97,7 @@ Suspect fracture if:
 - **Compression:** Vertebrae crushed (spine injury)
 - **Avulsion:** Ligament pulls bone fragment off
 
-## Step-by-Step Stabilization Protocol
+## Stabilization Steps
 
 ### 1. Scene Safety and ABCs (First 30 seconds)
 - Ensure scene is safe
@@ -294,7 +296,7 @@ Femur (thigh bone) fractures are life-threatening - can lose 1-2 liters of blood
 - Splint including lower leg
 - Pillow or blanket wrapped and secured works well
 
-## Compartment Syndrome - Critical Complication
+## Compartment Syndrome
 
 ### What It Is
 Pressure builds up inside muscle compartment, cutting off blood flow. Causes permanent nerve/muscle damage within 6-8 hours.
@@ -314,7 +316,7 @@ Pressure builds up inside muscle compartment, cutting off blood flow. Causes per
 3. **Evacuate urgently** - this is a surgical emergency
 4. Do NOT apply ice
 
-## Common Mistakes to Avoid
+## Common Mistakes
 
 - ❌ Forgetting to check CSM before splinting
 - ❌ Splint too tight (cuts off circulation)
@@ -354,7 +356,7 @@ Pressure builds up inside muscle compartment, cutting off blood flow. Causes per
 
 **Note:** Most fractures still require X-ray and proper orthopedic care
 
-## Pain Management in Field
+## Pain Mgmt
 
 Without medications:
 - Immobilization is #1 pain reliever
@@ -371,7 +373,7 @@ For severe pain (if available):
 - Tramadol 50-100mg every 6 hours
 - See l1-medical-basic-pharmacology for dosing
 
-## Long-Term Field Care (If Evacuation Delayed)
+## Long-Term Field Care
 
 ### Days 1-3
 - Keep splint dry and clean
@@ -414,8 +416,9 @@ Open/Closed: _____
 Meds given: _____
 ```
 
-## Summary Quick Reference
+## Summary Ref
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Priority | Action | Check |
 |----------|--------|-------|
 | 1 | Scene safety, ABCs | Life threats first |

@@ -48,6 +48,6 @@ steps:
   (4) Community support (other refugees from your country/region).'
 ---
 
-# Refugee & Displaced Person Survival — Border Crossing, Hiding, Evading
+# Refugee Survival
 
 Forced displacement (war, persecution, disaster) requires survival skills for travel, hiding, border crossing, and evading threats. Based on military evasion tactics and refugee experiences. Priorities: stay hidden, move at night, avoid official checkpoints, find safe passage.

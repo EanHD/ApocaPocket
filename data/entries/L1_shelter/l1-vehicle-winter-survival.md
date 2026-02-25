@@ -6,13 +6,13 @@ tags: ["vehicle", "winter", "cold", "carbon-monoxide", "car-survival", "emergenc
 confidence: "high"
 region: "global"
 sources:
-  - "aaa-winter-survival"
-  - "nhtsa-winter-driving"
-  - "wilderness-medicine-cold-exposure"
+- "aaa-winter-survival"
+- "nhtsa-winter-driving"
+- "wilderness-medicine-cold-exposure"
 related:
-  - "l1-medical-hypothermia"
-  - "l1-medical-carbon-monoxide-poisoning"
-  - "l1-shelter-thermal-management"
+- "l1-medical-hypothermia"
+- "l1-medical-carbon-monoxide-poisoning"
+- "l1-shelter-thermal-management"
 ---
 
 # Vehicle Winter Survival
@@ -25,7 +25,7 @@ related:
 
 ---
 
-## When to Stay vs When to Go
+## Stay vs Go
 
 **STAY with vehicle if:**
 - Blizzard/whiteout conditions (can't see 100 feet)
@@ -44,7 +44,7 @@ related:
 
 ---
 
-## Running Engine Safely (Carbon Monoxide Prevention)
+## Running Safe
 
 **"10 minutes every hour" rule:**
 - Run engine 10 minutes per hour for heat
@@ -53,21 +53,21 @@ related:
 
 **CO poisoning prevention (CRITICAL!):**
 1. **Check exhaust pipe every hour:**
-   - Clear snow/ice from tailpipe
-   - Ensure 3+ feet clearance behind vehicle
-   - Snow drifts can bury exhaust in 20-30 minutes
+- Clear snow/ice from tailpipe
+- Ensure 3+ feet clearance behind vehicle
+- Snow drifts can bury exhaust in 20-30 minutes
    
 2. **Crack window 1 inch:**
-   - Even with clear exhaust, crack window
-   - Prevents CO buildup from leaks
-   - Yes, it's cold, but CO kills faster than cold
+- Even with clear exhaust, crack window
+- Prevents CO buildup from leaks
+- Yes, it's cold, but CO kills faster than cold
    
 3. **CO symptoms (recognize early):**
-   - Headache (first sign, often dismissed as "just cold")
-   - Dizziness, confusion
-   - Nausea, vomiting
-   - Drowsiness (dangerous, leads to unconsciousness)
-   - Cherry-red skin (late sign, often not present)
+- Headache (first sign, often dismissed as "just cold")
+- Dizziness, confusion
+- Nausea, vomiting
+- Drowsiness (dangerous, leads to unconsciousness)
+- Cherry-red skin (late sign, often not present)
 
 **If CO symptoms appear:**
 - Turn OFF engine immediately
@@ -110,25 +110,25 @@ related:
 
 **Heat conservation strategies:**
 1. **Exercise periodically:**
-   - Isometric exercises (tense muscles without moving)
-   - Arm circles, leg lifts (inside vehicle)
-   - DO NOT sweat (wet = cold)
-   - Goal: generate heat without moisture buildup
+- Isometric exercises (tense muscles without moving)
+- Arm circles, leg lifts (inside vehicle)
+- DO NOT sweat (wet = cold)
+- Goal: generate heat without moisture buildup
    
 2. **Huddle together:**
-   - Sit close, share blankets
-   - Kids in middle (lose heat fastest)
-   - Elderly on ends (easiest to monitor)
+- Sit close, share blankets
+- Kids in middle (lose heat fastest)
+- Elderly on ends (easiest to monitor)
    
 3. **Avoid sleeping:**
-   - Hypothermia risk increases during sleep
-   - Take turns staying awake (watch for hypothermia symptoms in others)
-   - If must sleep: 1-2 hour shifts, set alarm
+- Hypothermia risk increases during sleep
+- Take turns staying awake (watch for hypothermia symptoms in others)
+- If must sleep: 1-2 hour shifts, set alarm
    
 4. **Eat high-calorie foods:**
-   - Body burns 2-3x more calories in cold
-   - Fat, protein preferred (slow-burn energy)
-   - Sugary snacks quick energy but short-lived
+- Body burns 2-3x more calories in cold
+- Fat, protein preferred (slow-burn energy)
+- Sugary snacks quick energy but short-lived
 
 **Hypothermia signs:**
 - Shivering (early sign, good - body still fighting)
@@ -154,18 +154,18 @@ related:
 
 **Safe snow melting:**
 1. **Body heat method:**
-   - Fill water bottle with snow
-   - Place inside jacket against chest/stomach
-   - Takes 30-60 minutes to melt
+- Fill water bottle with snow
+- Place inside jacket against chest/stomach
+- Takes 30-60 minutes to melt
    
 2. **Engine heat:**
-   - Metal can/bottle on engine block
-   - Check every 5-10 minutes (don't overheat)
+- Metal can/bottle on engine block
+- Check every 5-10 minutes (don't overheat)
    
 3. **Sunlight:**
-   - Dark container (absorbs heat)
-   - Place on dashboard in sun
-   - Takes 2-4 hours
+- Dark container (absorbs heat)
+- Place on dashboard in sun
+- Takes 2-4 hours
 
 **Ice vs snow:**
 - Ice provides 2x water per volume
@@ -180,45 +180,45 @@ related:
 
 **Daytime signals:**
 1. **Bright cloth on antenna:**
-   - Orange, red, or bright cloth
-   - Visible from 1-2 miles
-   - Flaps in wind (motion attracts attention)
+- Orange, red, or bright cloth
+- Visible from 1-2 miles
+- Flaps in wind (motion attracts attention)
    
 2. **Reflective triangles:**
-   - Place 50-100 feet ahead and behind vehicle
-   - Standard safety equipment in most vehicles
+- Place 50-100 feet ahead and behind vehicle
+- Standard safety equipment in most vehicles
    
 3. **SOS in snow:**
-   - Stomp large SOS (letters 10+ feet tall)
-   - Fill with dark material (branches, dirt, oil)
-   - Visible from aircraft
+- Stomp large SOS (letters 10+ feet tall)
+- Fill with dark material (branches, dirt, oil)
+- Visible from aircraft
    
 4. **Mirror signals:**
-   - Rearview mirror, CD, phone screen
-   - Flash sunlight toward road, aircraft
-   - Visible 10+ miles on clear day
+- Rearview mirror, CD, phone screen
+- Flash sunlight toward road, aircraft
+- Visible 10+ miles on clear day
 
 **Night signals:**
 1. **Dome light:**
-   - Turn on when you hear vehicle approaching
-   - Conserve battery (turn off between)
+- Turn on when you hear vehicle approaching
+- Conserve battery (turn off between)
    
 2. **Headlights:**
-   - Flash high beams (SOS: 3 short, 3 long, 3 short)
-   - Drains battery quickly (use sparingly)
+- Flash high beams (SOS: 3 short, 3 long, 3 short)
+- Drains battery quickly (use sparingly)
    
 3. **Flashlight:**
-   - Wave in circular motion (universal distress signal)
-   - SOS: 3 short, 3 long, 3 short flashes
+- Wave in circular motion (universal distress signal)
+- SOS: 3 short, 3 long, 3 short flashes
    
 4. **Flares:**
-   - Road flares last 15-30 minutes
-   - Place 50 feet from vehicle (both directions)
-   - Visible 1-3 miles
+- Road flares last 15-30 minutes
+- Place 50 feet from vehicle (both directions)
+- Visible 1-3 miles
 
 ---
 
-## Vehicle Battery Conservation
+## Veh Bat Cons
 
 **Why it matters:** Dead battery = no heat, no lights, no signals
 
@@ -243,7 +243,7 @@ related:
 
 ---
 
-## Winter Survival Kit (What to Keep in Car)
+## Winter Survival Kit
 
 **Heat retention:**
 - Emergency blankets (2-3, silver mylar)

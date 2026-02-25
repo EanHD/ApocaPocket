@@ -4,40 +4,40 @@ title: "Antenna Construction: DIY Emergency Radio Antennas"
 layer: L3_materials_technology
 category: communications
 tags:
-  - antenna
-  - radio
-  - DIY
-  - propagation
-  - SWR
-  - construction
+- antenna
+- radio
+- DIY
+- propagation
+- SWR
+- construction
 region_relevance:
-  - global
+- global
 summary: "Step-by-step instructions for building five essential radio antennas from basic materials: dipole (half-wave, simplest design), ground plane vertical (omnidirectional), J-pole (VHF/UHF vertical), Yagi (directional beam), and improvised field-expedient antennas. Includes wire length calculations, material specifications, SWR tuning procedures, and performance expectations."
 steps:
-  - "Calculate antenna element lengths using frequency: Length (feet) = 468 / Frequency (MHz) for half-wave; 234 / Frequency for quarter-wave"
-  - "Select appropriate wire gauge: 12-18 AWG for HF, 14-20 AWG for VHF/UHF. Solid wire for fixed antennas, stranded for portable"
-  - "Construct antenna using calculated dimensions with strain reliefs and proper insulation"
-  - "Install antenna at maximum practical height with clear line-of-sight (VHF/UHF) or elevated away from ground (HF)"
-  - "Measure SWR across band using SWR meter; adjust antenna length to achieve SWR <1.5:1 at operating frequency"
-  - "Weatherproof connections with electrical tape, heat-shrink tubing, and/or silicone sealant"
+- "Calculate antenna element lengths using frequency: Length (feet) = 468 / Frequency (MHz) for half-wave; 234 / Frequency for quarter-wave"
+- "Select appropriate wire gauge: 12-18 AWG for HF, 14-20 AWG for VHF/UHF. Solid wire for fixed antennas, stranded for portable"
+- "Construct antenna using calculated dimensions with strain reliefs and proper insulation"
+- "Install antenna at maximum practical height with clear line-of-sight (VHF/UHF) or elevated away from ground (HF)"
+- "Measure SWR across band using SWR meter; adjust antenna length to achieve SWR <1.5:1 at operating frequency"
+- "Weatherproof connections with electrical tape, heat-shrink tubing, and/or silicone sealant"
 warnings:
-  - "HIGH VOLTAGE: Transmitting antenna generates RF voltages of 100-1000+ volts at feed point. Never touch antenna while transmitting. RF burns are painful and slow to heal"
-  - "TOWER SAFETY: Falls from antenna towers/roofs are leading cause of ham radio fatalities. Use fall arrest harness, work with partner, never climb alone or in wind/rain. Towers >20 feet require professional installation or training"
-  - "LIGHTNING: Outdoor antennas act as lightning attractors. Install lightning arrestor, ground system, and disconnect antenna during storms. Direct lightning strike can cause fire, electrocution, equipment damage >$10,000"
-  - "POWER LINES: Contact between antenna and power lines causes electrocution and fires. Maintain 2× pole height distance from power lines (if 30-foot pole, stay 60 feet from wires). Falling antenna striking power line is major hazard"
-  - "RF EXPOSURE: Close proximity to transmitting antenna (especially mobile whip antennas) can exceed FCC exposure limits. Maintain 20-200cm distance during transmission depending on power. Never transmit with antenna indoors (in vehicle cabin, inside building without external antenna)"
-  - "SWR DAMAGE: Operating radio with SWR >3:1 can damage transmitter finals (output transistors, $100-500 repair). Always check SWR before transmitting at full power"
+- "HIGH VOLTAGE: Transmitting antenna generates RF voltages of 100-1000+ volts at feed point. Never touch antenna while transmitting. RF burns are painful and slow to heal"
+- "TOWER SAFETY: Falls from antenna towers/roofs are leading cause of ham radio fatalities. Use fall arrest harness, work with partner, never climb alone or in wind/rain. Towers >20 feet require professional installation or training"
+- "LIGHTNING: Outdoor antennas act as lightning attractors. Install lightning arrestor, ground system, and disconnect antenna during storms. Direct lightning strike can cause fire, electrocution, equipment damage >$10,000"
+- "POWER LINES: Contact between antenna and power lines causes electrocution and fires. Maintain 2× pole height distance from power lines (if 30-foot pole, stay 60 feet from wires). Falling antenna striking power line is major hazard"
+- "RF EXPOSURE: Close proximity to transmitting antenna (especially mobile whip antennas) can exceed FCC exposure limits. Maintain 20-200cm distance during transmission depending on power. Never transmit with antenna indoors (in vehicle cabin, inside building without external antenna)"
+- "SWR DAMAGE: Operating radio with SWR >3:1 can damage transmitter finals (output transistors, $100-500 repair). Always check SWR before transmitting at full power"
 related_entries:
-  - l3-tech-radio-basics
-  - l3-tech-propagation
-  - l3-tech-emergency-comms
-  - l5-structural-truss-design
+- l3-tech-radio-basics
+- l3-tech-propagation
+- l3-tech-emergency-comms
+- l5-structural-truss-design
 sources:
-  - ARRL Antenna Book (25th Edition)
-  - ARRL Handbook for Radio Communications
-  - ARRL's Small Antennas for Small Spaces
-  - The Antenna Experimenter's Guide
-  - NEC-2 (Numerical Electromagnetics Code) antenna modeling software
+- ARRL Antenna Book (25th Edition)
+- ARRL Handbook for Radio Communications
+- ARRL's Small Antennas for Small Spaces
+- The Antenna Experimenter's Guide
+- NEC-2 (Numerical Electromagnetics Code) antenna modeling software
 audit_status: verified
 last_verified: 2026-02-19
 confidence: high
@@ -74,6 +74,7 @@ Radio waves travel at speed of light (299,792,458 meters/second ≈ 300,000,000 
 - **462.675 MHz** (GMRS): λ = 300 / 462.675 = 0.648 meters = 2.1 feet
 
 ### Common Antenna Lengths
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Antenna Type | Length Formula (feet) | Length Formula (meters) |
 |--------------|---------------------|------------------------|
 | **Half-wave (λ/2)** | 468 / f (MHz) | 142.5 / f (MHz) |
@@ -126,7 +127,7 @@ Antennas radiate electromagnetic waves with specific polarization (orientation o
 **VHF/UHF Mobile**: Typically **vertical** (vehicle whip antennas)
 **HF Fixed**: Typically **horizontal** (dipole antennas) for long-distance skywave propagation
 
-## Design 1: Dipole Antenna (HF Bands)
+## Dipole Antenna
 
 The **half-wave dipole** is the fundamental antenna design. Simple, inexpensive, and effective. Serves as reference for comparing other antennas (dipole gain = 0 dBd by definition).
 
@@ -135,9 +136,9 @@ Dipole consists of two quarter-wave conductors (total length = half-wave) fed at
 
 ### Materials (40-meter dipole, 7.200 MHz)
 - **Wire**: 66 feet total (stranded copper, 12-18 AWG)
-  - Option 1: Speaker wire (18 AWG, $0.20/foot, Home Depot)
-  - Option 2: Electrical THHN wire (14 AWG, $0.40/foot)
-  - Option 3: Antenna wire (14 AWG copper, $0.50/foot, DX Engineering)
+- Option 1: Speaker wire (18 AWG, $0.20/foot, Home Depot)
+- Option 2: Electrical THHN wire (14 AWG, $0.40/foot)
+- Option 3: Antenna wire (14 AWG copper, $0.50/foot, DX Engineering)
 - **Center Insulator**: Dipole center insulator (ceramic or plastic, $3-8) OR improvised (PVC pipe, acrylic, plastic bottle)
 - **End Insulators**: 2× egg insulators or dog-bone insulators ($2-4 each) OR improvised (PVC, plastic water bottle)
 - **Coax**: 50-100 feet RG-8X or LMR-240 (50Ω coax cable, $0.50-1.00/foot)
@@ -157,6 +158,7 @@ Each leg = 61.75 / 2 = 30.9 feet
 **Frequency Coverage**: Dipole has 3-5% bandwidth at SWR < 2:1. For 7.200 MHz, usable bandwidth ≈ 7.0-7.3 MHz (entire 40-meter band).
 
 ### Multi-Band Lengths
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Band | Frequency (MHz) | Total Length (feet) | Each Leg (feet) |
 |------|----------------|---------------------|----------------|
 | **160m** | 1.900 | 234 | 117 |
@@ -204,8 +206,8 @@ Each leg = 61.75 / 2 = 30.9 feet
 1. **Height**: Install as high as practical. Dipole at 30-50 feet ideal for HF skywave. Minimum height = 15-20 feet (0.2-0.3 wavelengths)
 2. **Orientation**: Horizontal for HF (supports skywave propagation). Broadside direction is primary radiation (off sides of wire). Ends have nulls
 3. **Support**: Attach rope to each end insulator. Suspend between two supports (trees, poles, buildings)
-   - **Center support**: Raise center insulator to apex, allow ends to slope downward (inverted-V configuration). Easier installation, slightly reduced performance
-   - **Level dipole**: Both ends at same height as center (best performance, requires taller supports)
+- **Center support**: Raise center insulator to apex, allow ends to slope downward (inverted-V configuration). Easier installation, slightly reduced performance
+- **Level dipole**: Both ends at same height as center (best performance, requires taller supports)
 4. **Clearance**: Keep antenna away from metal objects (gutters, metal roofs, fences) by at least 6-10 feet. Metal nearby detunes antenna
 
 **Step 7: Grounding**
@@ -218,32 +220,32 @@ Each leg = 61.75 / 2 = 30.9 feet
 **Equipment**: SWR meter, radio, dummy load (optional)
 
 1. **Initial SWR Check**:
-   - Connect radio → SWR meter → antenna
-   - Set radio to **lowest power** (5-10W)
-   - Transmit on desired frequency (e.g., 7.200 MHz)
-   - Read SWR
+- Connect radio → SWR meter → antenna
+- Set radio to **lowest power** (5-10W)
+- Transmit on desired frequency (e.g., 7.200 MHz)
+- Read SWR
 
 2. **Interpret Results**:
-   - **SWR 1.2-1.8:1**: Excellent, use as-is
-   - **SWR 1.8-2.5:1**: Good, but can improve
-   - **SWR 2.5-4.0:1**: Needs adjustment
-   - **SWR >4.0:1**: Significant error (check connections, length calculation)
+- **SWR 1.2-1.8:1**: Excellent, use as-is
+- **SWR 1.8-2.5:1**: Good, but can improve
+- **SWR 2.5-4.0:1**: Needs adjustment
+- **SWR >4.0:1**: Significant error (check connections, length calculation)
 
 3. **SWR vs Frequency Trend**:
-   - **SWR lowest at low end of band**: Antenna too long, shorten each leg by 1-2%
-   - **SWR lowest at high end of band**: Antenna too short, lengthen each leg by 1-2%
-   - **Example**: 40m dipole, SWR lowest at 7.000 MHz but you operate at 7.200 MHz → Shorten antenna by 2% (31-foot leg → 30.4-foot leg, remove 7 inches per side)
+- **SWR lowest at low end of band**: Antenna too long, shorten each leg by 1-2%
+- **SWR lowest at high end of band**: Antenna too short, lengthen each leg by 1-2%
+- **Example**: 40m dipole, SWR lowest at 7.000 MHz but you operate at 7.200 MHz → Shorten antenna by 2% (31-foot leg → 30.4-foot leg, remove 7 inches per side)
 
 4. **Adjustment Process**:
-   - Lower antenna
-   - Remove/add wire at end insulators (adjust both sides equally)
-   - Raise antenna
-   - Re-measure SWR
-   - Repeat until SWR <1.5:1 at target frequency
+- Lower antenna
+- Remove/add wire at end insulators (adjust both sides equally)
+- Raise antenna
+- Re-measure SWR
+- Repeat until SWR <1.5:1 at target frequency
 
 5. **Final Check**:
-   - Measure SWR across entire band (e.g., 7.000-7.300 MHz in 50 kHz steps)
-   - Confirm SWR <2:1 across desired operating range
+- Measure SWR across entire band (e.g., 7.000-7.300 MHz in 50 kHz steps)
+- Confirm SWR <2:1 across desired operating range
 
 ### Performance Expectations
 - **Gain**: 0 dBd (reference dipole), 2.15 dBi (compared to isotropic)
@@ -263,7 +265,7 @@ Each leg = 61.75 / 2 = 30.9 feet
 - ❌ **Using electrical wire with steel core**: Steel is lossy (high resistance), reduces efficiency
 - ✓ **Copper wire only**: Copper-clad steel acceptable for HF, pure copper best
 
-## Design 2: Ground Plane Vertical Antenna
+## Design: GPVA
 
 Vertical antenna with quarter-wave radiator and ground radials. **Omnidirectional** azimuth pattern (equal signal in all horizontal directions). Excellent for VHF/UHF and HF mobile communications.
 
@@ -295,6 +297,7 @@ Length (inches) = 2808 / f (MHz) × 0.95 = 18.2 inches
 Build 19.5 inches each.
 
 ### Multi-Band Lengths
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Band | Frequency (MHz) | Radiator Length | Radial Length (each) | # Radials |
 |------|----------------|----------------|---------------------|-----------|
 | **10m** | 28.5 | 100" (8.3 ft) | 100" | 4-8 |
@@ -323,9 +326,9 @@ Build 19.5 inches each.
 2. Strip 1 inch from one end each
 3. Solder to SO-239 **body** or mounting flange (equally spaced 90° apart)
 4. **Radial Angle**:
-   - **Horizontal** (0° droop): 36Ω impedance, SWR 1.4:1 into 50Ω
-   - **45° downward slope**: 50Ω impedance, SWR 1.0:1 into 50Ω (optimal)
-   - **Vertical downward** (90° droop): 75Ω impedance, SWR 1.5:1 into 50Ω
+- **Horizontal** (0° droop): 36Ω impedance, SWR 1.4:1 into 50Ω
+- **45° downward slope**: 50Ω impedance, SWR 1.0:1 into 50Ω (optimal)
+- **Vertical downward** (90° droop): 75Ω impedance, SWR 1.5:1 into 50Ω
 
 **Step 4: Weatherproofing**
 1. Apply coax seal or silicone around all solder joints
@@ -336,15 +339,15 @@ Build 19.5 inches each.
 1. Attach hub to top of mast (PVC pipe, wood pole)
 2. Use hose clamps or screws
 3. **Mast Material**:
-   - Non-conductive (PVC, fiberglass): Mount directly
-   - Conductive (metal): Antenna must be electrically isolated (plastic spacer/insulator)
+- Non-conductive (PVC, fiberglass): Mount directly
+- Conductive (metal): Antenna must be electrically isolated (plastic spacer/insulator)
 
 **Step 6: Install Antenna**
 1. **Height**: Highest practical location for VHF/UHF. Minimum 10-15 feet for 2m
 2. **Mounting**:
-   - Rooftop: Mount on chimney, vent pipe, or dedicated mast
-   - Ground: Bury mast in concrete base or use ground tripod
-   - Vehicle: Mag-mount or trunk-lip mount
+- Rooftop: Mount on chimney, vent pipe, or dedicated mast
+- Ground: Bury mast in concrete base or use ground tripod
+- Vehicle: Mag-mount or trunk-lip mount
 3. **Radial Positioning**: Allow radials to slope downward 30-45° (adjust for 50Ω match)
 
 **Step 7: Connect Coax**
@@ -354,10 +357,10 @@ Build 19.5 inches each.
 ### Tuning Procedure
 1. Measure SWR at target frequency (146.52 MHz for 2m)
 2. **SWR >2:1**:
-   - SWR decreases toward low end of band → Antenna too long, trim radiator 1/4 inch at a time
-   - SWR decreases toward high end of band → Antenna too short, add wire or re-cut longer
+- SWR decreases toward low end of band → Antenna too long, trim radiator 1/4 inch at a time
+- SWR decreases toward high end of band → Antenna too short, add wire or re-cut longer
 3. **Radial Angle Adjustment**:
-   - SWR good but impedance mismatch → Adjust radial angle (more downward = higher impedance)
+- SWR good but impedance mismatch → Adjust radial angle (more downward = higher impedance)
 4. Target: SWR <1.5:1 across 2-meter band (144-148 MHz)
 
 ### Performance Expectations
@@ -375,7 +378,7 @@ Build 19.5 inches each.
 - ❌ **Coax shield connected to radial and mast**: Common-mode current, RF in shack
 - ✓ **SO-239 body = radial connection only**, coax shield connects here, mast isolated
 
-## Design 3: J-Pole Antenna (VHF/UHF)
+## J-Pole VHF/UHF
 
 The **J-Pole** is a half-wave vertical antenna with integrated matching section. **No radials required** (end-fed design). Excellent for portable and base station VHF/UHF operations.
 
@@ -437,8 +440,8 @@ Feed point: 4-8 inches from bottom (adjust for SWR)
 **Step 5: Feed Point**
 - Drill small holes in both pipes at 4-6 inches from bottom
 - Attach SO-239 connector:
-  - Center pin to one pipe
-  - Body/shield to other pipe
+- Center pin to one pipe
+- Body/shield to other pipe
 - Solder connections
 - Weatherproof
 
@@ -460,19 +463,19 @@ Shorting bar: Bottom end (wire across both conductors)
 1. Cut 52 inches of 450Ω ladder line
 2. Strip 1 inch insulation from bottom of both conductors, solder together (shorting bar) OR twist tightly
 3. Feed point location: 15 inches from bottom
-   - Strip 1/4 inch insulation from both conductors
-   - Solder coax center conductor to one side
-   - Solder coax shield to other side
+- Strip 1/4 inch insulation from both conductors
+- Solder coax center conductor to one side
+- Solder coax shield to other side
 4. Suspend vertically (hang from rope, attach to PVC mast)
 5. Keep away from metal objects by 6+ inches
 
 ### Tuning Procedure
 1. Initial SWR check at 146.52 MHz
 2. **Adjust feed point position** (not antenna length):
-   - SWR high across entire band: Move feed point UP (closer to radiating element)
-   - SWR acceptable but frequency wrong: Lengthen/shorten antenna
-     - Too long: Trim 1/2 inch from top
-     - Too short: Add wire to top
+- SWR high across entire band: Move feed point UP (closer to radiating element)
+- SWR acceptable but frequency wrong: Lengthen/shorten antenna
+- Too long: Trim 1/2 inch from top
+- Too short: Add wire to top
 3. Goal: SWR <1.5:1 at 146.52 MHz, <2:1 across 144-148 MHz
 
 ### Performance Expectations
@@ -488,7 +491,7 @@ Shorting bar: Bottom end (wire across both conductors)
 - ❌ **Feed point at wrong location**: SWR >3:1, won't tune
 - ✓ **Start at 15 inches (2m) and adjust up/down**
 
-## Design 4: Yagi Beam Antenna (Directional Gain)
+## Yagi Beam
 
 **Yagi** (Yagi-Uda) antenna is multi-element directional antenna providing **gain** (focused signal) in one direction. Excellent for weak-signal VHF/UHF, satellite communications, and point-to-point links.
 
@@ -506,9 +509,9 @@ Yagi consists of:
 ### Materials (3-Element 2m Yagi, 146 MHz)
 - **Boom**: 1-inch PVC pipe, 48 inches long (or wood 1×2)
 - **Elements**: 3/16-inch aluminum rod or 12 AWG copper wire
-  - Reflector: 40 inches
-  - Driven element: 38 inches
-  - Director: 36 inches
+- Reflector: 40 inches
+- Driven element: 38 inches
+- Director: 36 inches
 - **Element Mounts**: U-bolts or cable ties (plastic, non-conductive)
 - **Coax**: 20-100 feet RG-8X or LMR-240
 - **Balun**: 1:1 choke balun (DIY coax coil or commercial)
@@ -516,6 +519,7 @@ Yagi consists of:
 - **Total Cost**: $25-60
 
 ### 3-Element Yagi Dimensions (2m, 146 MHz)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Element | Length (inches) | Spacing from Reflector |
 |---------|----------------|----------------------|
 | **Reflector** (rear) | 40 | 0" (reference point) |
@@ -535,9 +539,9 @@ Yagi consists of:
 
 **Step 3: Mark Boom**
 - Mark element positions:
-  - Reflector: 6 inches from rear end (leaves space for mounting hardware)
-  - Driven element: 20 inches from rear (14 inches forward of reflector)
-  - Director: 38 inches from rear (32 inches forward of reflector)
+- Reflector: 6 inches from rear end (leaves space for mounting hardware)
+- Driven element: 20 inches from rear (14 inches forward of reflector)
+- Director: 38 inches from rear (32 inches forward of reflector)
 
 **Step 4: Mount Elements**
 - Drill holes through boom for elements (perpendicular to boom axis)
@@ -560,11 +564,11 @@ Yagi consists of:
 1. Point Yagi toward distant station or landmark
 2. Measure SWR at 146 MHz
 3. **Adjust driven element length**:
-   - SWR decreases at low end of band: Shorten driven element (trim 1/4 inch from each end)
-   - SWR decreases at high end: Lengthen driven element (recut longer elements)
+- SWR decreases at low end of band: Shorten driven element (trim 1/4 inch from each end)
+- SWR decreases at high end: Lengthen driven element (recut longer elements)
 4. **Adjust spacing** (advanced tuning):
-   - More gain: Move director closer to driven element (increases gain, narrows beamwidth)
-   - Lower SWR: Adjust reflector spacing
+- More gain: Move director closer to driven element (increases gain, narrows beamwidth)
+- Lower SWR: Adjust reflector spacing
 5. Goal: SWR <1.5:1 at 146 MHz, gain >7 dBd
 
 ### Performance Expectations
@@ -582,7 +586,7 @@ Yagi consists of:
 - ❌ **Coax routed parallel to boom**: Common-mode current, pattern distortion
 - ✓ **Coax drops straight down from feed point**, perpendicular to elements
 
-## Design 5: Improvised Field Antennas
+## Design 5
 
 When commercial antenna wire unavailable, improvise from salvaged materials.
 
@@ -596,42 +600,42 @@ When commercial antenna wire unavailable, improvise from salvaged materials.
 - **Material**: Wire coat hangers (steel wire, 2mm diameter)
 - **Applications**: Ground plane (2m, 70cm, GMRS), dipole (2m)
 - **Construction**:
-  - Cut to calculated length
-  - Straighten wire (bend back and forth to break work-hardening)
-  - Solder to SO-239 or directly to coax
+- Cut to calculated length
+- Straighten wire (bend back and forth to break work-hardening)
+- Solder to SO-239 or directly to coax
 - **Performance**: 70-90% efficiency (steel losses), adequate for emergency local comms
 
 ### Gutter Antenna (Random Wire / EFHW)
 - **Material**: Rain gutters (aluminum or copper), downspouts
 - **Configuration**: End-Fed Half-Wave (EFHW) or random wire with tuner
 - **Construction**:
-  - Attach wire to gutter at far end (electrical connection required)
-  - Run coax to feed end
-  - Use 49:1 transformer (EFHW) or antenna tuner (random wire) for matching
+- Attach wire to gutter at far end (electrical connection required)
+- Run coax to feed end
+- Use 49:1 transformer (EFHW) or antenna tuner (random wire) for matching
 - **Performance**: Poor efficiency due to non-optimal shape, but provides RF radiation. Range 50-70% of purpose-built antenna
 
 ### Slot Antenna (Coffee Can)
 - **Material**: Metal coffee can, soup can (VHF/UHF)
 - **Construction**:
-  - Cut slot in side of can (length = λ/2, width = λ/20)
-  - Feed point at center of slot (probe or coax)
-  - Ground plane = can body
+- Cut slot in side of can (length = λ/2, width = λ/20)
+- Feed point at center of slot (probe or coax)
+- Ground plane = can body
 - **Performance**: Gain 0-3 dBd, useful for emergency VHF/UHF
 - **Dimensions** (2m, 146 MHz):
-  - Slot length: 19 inches
-  - Slot width: 1 inch
+- Slot length: 19 inches
+- Slot width: 1 inch
 
 ### Water Antenna (Emergency HF)
 - **Material**: Plastic jug (1-5 gallon), saltwater, copper wire
 - **Construction**:
-  - Fill jug with saltwater (seawater or add 1 tablespoon salt per gallon)
-  - Insert copper wire (18-12 AWG, length = λ/4) into jug, suspend above water surface by 0.5-1 inch (capacitive coupling)
-  - Wire immersed in water = electrical connection via capacitance
-  - Attach coax to wire
+- Fill jug with saltwater (seawater or add 1 tablespoon salt per gallon)
+- Insert copper wire (18-12 AWG, length = λ/4) into jug, suspend above water surface by 0.5-1 inch (capacitive coupling)
+- Wire immersed in water = electrical connection via capacitance
+- Attach coax to wire
 - **Performance**: **Very low efficiency** (<5%), but may establish communication when no other antenna available. Primarily acts as capacitively-loaded short vertical
 - **Use Case**: Last-resort HF antenna when nothing else available
 
-## SWR Measurement & Tuning
+## SWR Measurement
 
 ### SWR Meter Operation
 **Connection**: Radio → SWR Meter → Antenna (meter in-line)
@@ -648,6 +652,7 @@ When commercial antenna wire unavailable, improvise from salvaged materials.
 2. No calibration required
 
 ### Interpreting SWR Readings
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | SWR | Interpretation | Action |
 |-----|---------------|--------|
 | **1.0-1.5:1** | Excellent match | Use as-is |
@@ -715,6 +720,7 @@ When commercial antenna wire unavailable, improvise from salvaged materials.
 **FCC OET Bulletin 65** specifies limits for human exposure to RF radiation. Limits based on SAR (Specific Absorption Rate, watts/kg body tissue).
 
 **Safe Distances** (transmitting antenna to body):
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Power | Frequency | Safe Distance |
 |-------|-----------|--------------|
 | 5W | 146 MHz (VHF) | 15 cm (6 inches) |

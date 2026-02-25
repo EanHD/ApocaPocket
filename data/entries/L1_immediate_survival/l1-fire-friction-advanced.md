@@ -23,7 +23,7 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 
 **Historical reality:** Making fire was as routine as tying shoes. Children learned by age 10-12. It wasn't considered difficult.
 
-## Physics of Friction Fire
+## FricFire
 
 ### Why It Works
 1. **Friction:** Two wood surfaces rub together (generates heat)
@@ -60,7 +60,7 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 - **Advantages:** Effortless (gravity + flywheel), consistent
 - **Disadvantages:** Requires construction (1-2 hours), not portable
 
-## Hand Drill Technique (THE FASTEST)
+## Hand Drill
 
 ### Materials
 
@@ -77,18 +77,18 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 ### Build Instructions
 
 1. **Prepare board:**
-   - Find or carve flat surface (top and bottom)
-   - Create starter dimple (¼" deep, ½" from edge)
-   - Cut V-notch (1/8 width of spindle, from edge to center of dimple)
+- Find or carve flat surface (top and bottom)
+- Create starter dimple (¼" deep, ½" from edge)
+- Cut V-notch (1/8 width of spindle, from edge to center of dimple)
 
 2. **Prepare spindle:**
-   - Select straight section (no bends)
-   - Remove bark
-   - Round ends slightly (smooth, not pointed)
+- Select straight section (no bends)
+- Remove bark
+- Round ends slightly (smooth, not pointed)
 
 3. **Test fit:**
-   - Spin spindle in dimple (widens to ¼-½" diameter)
-   - Check V-notch (should connect to dimple edge)
+- Spin spindle in dimple (widens to ¼-½" diameter)
+- Check V-notch (should connect to dimple edge)
 
 ### Technique
 
@@ -139,7 +139,7 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 
 **Advantage:** No cordage needed (one-handed possible in emergency)
 
-## Coal Extender (CRITICAL SKILL)
+## Coal Extender
 
 ### What It Is
 - **Coal carrier:** Smoldering coal preserved in punk wood (lasts hours to days)
@@ -160,7 +160,7 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 
 **Historical accounts:** Native Americans carried coals for days (easier than making fire daily). Mountain men carried coals in horn containers.
 
-## Wood Selection (CRITICAL)
+## Wood Select
 
 ### Best Combinations
 
@@ -188,7 +188,7 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 2. **Dry test:** Snap small piece (should break cleanly, not bend)
 3. **Practice test:** Make test dimple (should produce smoke within 30 seconds)
 
-## Tinder Bundle (OFTEN OVERLOOKED)
+## Tinder Bundle
 
 ### Critical Importance
 - **Coal ≠ Fire:** Coal must be transferred to tinder (blown to flame)
@@ -241,7 +241,7 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 
 **Historical benchmark:** Indigenous peoples achieved expert level by age 15-20 (daily practice for 5-10 years). Modern learners can achieve proficiency in 3-6 months with focused practice.
 
-## Mental Aspect (OFTEN IGNORED)
+## Mental Health
 
 ### Confidence > Technique
 - **Mental barrier:** "It's impossible" mindset = failure
@@ -338,10 +338,10 @@ Modern people think "friction fire = 10+ minutes of desperate sawing with a bow 
 - Tinder bundle cross-section (layers)
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Wescott, D. (1999).** *Primitive Technology: A Book of Earth Skills*. - Comprehensive friction fire techniques
-- **Campbell, P. D. (1999).** *Survival Skills of Native California*. - Hand drill mastery
+- **Wescott, D. (1999).** Primitive Technology: A Book of Earth Skills. - Comprehensive friction fire techniques
+- **Campbell, P. D. (1999).** Survival Skills of Native California. - Hand drill mastery
 - **U.S. Army Survival Manual FM 21-76.** - Bow drill instructions (military standard)
 - **Experimental archaeology:** Expert practitioners document 30-60 second coal times (hand drill)
 - **Ethnographic accounts:** Lewis & Clark journals describe Native Americans making fire in "moments" (routine, not remarkable)

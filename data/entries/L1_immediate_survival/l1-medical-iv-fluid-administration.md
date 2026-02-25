@@ -73,7 +73,7 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ---
 
-## Anatomy: Vein Selection
+## Vein Selection
 
 ### Upper Extremity Veins (First Choice)
 
@@ -157,6 +157,7 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ### IV Catheter Sizing
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Gauge | Diameter | Color | Flow Rate | Best For |
 |-------|----------|-------|-----------|----------|
 | 14G | 2.0mm | Orange | 300 mL/min | Massive trauma, rapid transfusion, surgery |
@@ -172,26 +173,26 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ---
 
-## Step-by-Step Insertion Technique
+## Insertion
 
 ### 1. Preparation (5 minutes)
 
 **Gather equipment:**
 - Open sterile packages without contaminating contents
 - Prime IV tubing (fill with fluid, remove all air bubbles)
-  - Hang fluid bag on IV pole or elevated surface
-  - Open roller clamp fully
-  - Let fluid run through tubing until no air bubbles visible
-  - Close roller clamp
-  - Keep sterile end covered
+- Hang fluid bag on IV pole or elevated surface
+- Open roller clamp fully
+- Let fluid run through tubing until no air bubbles visible
+- Close roller clamp
+- Keep sterile end covered
 
 **Patient preparation:**
 - Explain procedure (reduces anxiety, movement)
 - Position arm on flat surface, elbow slightly bent
 - Apply tourniquet 4-6 inches (10-15cm) above planned insertion site
 - Tourniquet should be tight enough to stop venous flow but NOT arterial flow
-  - **Test:** You should still feel radial pulse at wrist
-  - If no pulse = too tight (loosen)
+- **Test:** You should still feel radial pulse at wrist
+- If no pulse = too tight (loosen)
 
 ### 2. Site Selection and Cleaning (2 minutes)
 
@@ -221,22 +222,22 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 1. Hold catheter in dominant hand like a pencil
 2. **Bevel up** (opening of needle faces upward) - critical for smooth insertion
 3. **Angle:** 10-30 degrees to skin
-   - Shallow veins (can see clearly): 10-15 degrees
-   - Deeper veins: 20-30 degrees
+- Shallow veins (can see clearly): 10-15 degrees
+- Deeper veins: 20-30 degrees
 4. Warn patient: "Sharp stick coming"
 5. Insert through skin FIRST, then advance into vein
-   - Two-step process: skin → vein (not one motion)
+- Two-step process: skin → vein (not one motion)
 6. **Watch for flashback** (blood appears in catheter chamber)
-   - Flash = needle tip in vein
+- Flash = needle tip in vein
 7. **Critical step:** Lower angle to nearly flat (almost parallel to skin)
 8. Advance needle another 1-2mm to ensure catheter tip also in vein
 9. **Hold needle still** with non-dominant hand
 10. **Slide catheter forward** off needle into vein with dominant hand
-    - Smooth, steady motion
-    - Do NOT pull needle back yet (stabilizes catheter)
+- Smooth, steady motion
+- Do NOT pull needle back yet (stabilizes catheter)
 11. Once catheter fully advanced, release tourniquet
 12. Apply pressure with finger over catheter tip (still inside vein) at skin entry point
-    - Prevents blood flowing out when you remove needle
+- Prevents blood flowing out when you remove needle
 13. Remove needle, dispose in sharps container immediately
 14. Blood will well up at catheter hub (normal)
 
@@ -247,13 +248,13 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 - Twist to lock (Luer lock design)
 - Open roller clamp, watch for fluid drip in drip chamber
 - **Look for swelling at IV site:**
-  - No swelling = catheter in vein ✓
-  - Swelling = catheter in tissue (infiltration) - remove and restart
+- No swelling = catheter in vein ✓
+- Swelling = catheter in tissue (infiltration) - remove and restart
 
 **Secure catheter:**
 - Wipe any blood with gauze
 - Apply transparent dressing over insertion site
-  - Can see site through dressing (monitor for problems)
+- Can see site through dressing (monitor for problems)
 - Secure tubing with tape in loop (prevents pulling catheter out)
 - Write date/time on dressing (track how long IV has been in place)
 
@@ -261,16 +262,16 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ---
 
-## Fluid Types and Selection
+## Fluid Types
 
 ### Crystalloids (Most Common)
 
 #### **Normal Saline (0.9% NaCl)**
 - **Composition:** 154 mEq/L sodium, 154 mEq/L chloride
 - **Uses:** 
-  - Trauma/hemorrhagic shock (replaces blood volume)
-  - Dehydration from vomiting/diarrhea
-  - Medication dilution
+- Trauma/hemorrhagic shock (replaces blood volume)
+- Dehydration from vomiting/diarrhea
+- Medication dilution
 - **Advantages:** Compatible with blood products, widely available
 - **Disadvantages:** Large volumes can cause hyperchloremic acidosis (too much chloride)
 - **Shelf life:** 2-3 years (check expiration)
@@ -278,9 +279,9 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 #### **Lactated Ringer's (LR)**
 - **Composition:** Sodium, potassium, calcium, chloride, lactate (buffers pH)
 - **Uses:**
-  - Trauma resuscitation (preferred over NS by many)
-  - Burns
-  - General dehydration
+- Trauma resuscitation (preferred over NS by many)
+- Burns
+- General dehydration
 - **Advantages:** More physiologic (closer to body's electrolyte balance)
 - **Disadvantages:** Cannot use with blood products (calcium causes clotting)
 - **Shelf life:** 2-3 years
@@ -288,8 +289,8 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 #### **Dextrose 5% in Water (D5W)**
 - **Composition:** 5% glucose in water
 - **Uses:**
-  - Hypoglycemia (low blood sugar)
-  - Maintenance hydration (not resuscitation)
+- Hypoglycemia (low blood sugar)
+- Maintenance hydration (not resuscitation)
 - **Disadvantages:** Does NOT stay in bloodstream (rapidly moves into cells), ineffective for shock
 - **Shelf life:** 2-3 years
 
@@ -302,6 +303,7 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ### Emergency Fluid Selection
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Situation | First Choice | Second Choice |
 |-----------|--------------|---------------|
 | Trauma/bleeding | Lactated Ringer's | Normal Saline |
@@ -371,7 +373,7 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ---
 
-## Monitoring and Troubleshooting
+## Monitor & Troubleshoot
 
 ### What to Monitor
 
@@ -385,6 +387,7 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ### Common Problems and Solutions
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | **No flow** | Clamp closed | Open clamp |
@@ -473,20 +476,19 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Bevel down insertion | Bevel up (opening faces upward) for smooth entry |
-| Inserting too fast | Slow, controlled insertion - feel for "pop" into vein |
-| Advancing catheter before flashback | Wait for blood return, then advance |
-| Pulling needle out before advancing catheter fully | Catheter must be fully in vein before removing needle |
-| Not releasing tourniquet before connecting tubing | Release tourniquet after catheter advanced |
-| Touching cleaned site before insertion | Once cleaned and dry, DO NOT touch (re-contamination) |
-| Inserting at steep angle (>30 degrees) | Shallow angle (10-30 degrees) - steep angles go through back wall of vein |
-| Leaving tourniquet on >2 minutes | Loosen after 1-2 minutes, reapply if needed |
-| Starting at elbow (antecubital) | Start distal (hand/wrist), preserve proximal veins for later |
-| Not flushing IV when not actively infusing | Flush every 8 hours with 5-10mL saline (prevents clotting) |
+**❌ Mistake:** ✓ Correct
+**Bevel down insertion:** Bevel up (opening faces upward) for smooth entry
+**Inserting too fast:** Slow, controlled insertion - feel for "pop" into vein
+**Advancing catheter before flashback:** Wait for blood return, then advance
+**Pulling needle out before advancing catheter fully:** Catheter must be fully in vein before removing needle
+**Not releasing tourniquet before connecting tubing:** Release tourniquet after catheter advanced
+**Touching cleaned site before insertion:** Once cleaned and dry, DO NOT touch (re-contamination)
+**Inserting at steep angle (>30 degrees):** Shallow angle (10-30 degrees) - steep angles go through back wall of vein
+**Leaving tourniquet on >2 minutes:** Loosen after 1-2 minutes, reapply if needed
+**Starting at elbow (antecubital):** Start distal (hand/wrist), preserve proximal veins for later
+**Not flushing IV when not actively infusing:** Flush every 8 hours with 5-10mL saline (prevents clotting)
 
 ---
 
@@ -570,7 +572,7 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ---
 
-## When to Seek Advanced Medical Care
+## Seek Advanced Care
 
 **Immediate evacuation/advanced care needed:**
 - Signs of sepsis (fever >101.5°F, chills, confusion, rapid heartbeat)

@@ -6,13 +6,13 @@ tags: ["tornado", "severe-weather", "shelter", "evacuation", "storm"]
 confidence: "high"
 region: "global"
 sources:
-  - "noaa-tornado-safety"
-  - "fema-tornado-guidance"
-  - "nws-warning-protocols"
+- "noaa-tornado-safety"
+- "fema-tornado-guidance"
+- "nws-warning-protocols"
 related:
-  - "l1-shelter-lightning-safety"
-  - "l1-strategy-first-24-hours"
-  - "l1-medical-trauma-basics"
+- "l1-shelter-lightning-safety"
+- "l1-strategy-first-24-hours"
+- "l1-medical-trauma-basics"
 ---
 
 # Tornado Survival Protocols

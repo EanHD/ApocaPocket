@@ -18,7 +18,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## Why Bow Hunting in Survival?
+## Why Bow Hunt
 
 **Advantages:**
 1. **Silent**: Won't spook other animals or reveal your location
@@ -38,7 +38,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## 🏹 Recurve vs. Compound Bows
+## Recurve vs Compound
 
 ### Recurve Bow (Traditional)
 
@@ -160,7 +160,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## 🎯 Shot Placement (Bow-Specific)
+## Shot Placement
 
 ### Differences from Rifle Hunting
 
@@ -204,7 +204,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## 🩸 Tracking Bow-Shot Game
+## Track Bow
 
 ### Expect Longer Tracking
 
@@ -217,9 +217,9 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 **After the Shot:**
 1. **Note where animal was standing** (mark with arrow, hat)
 2. **Observe animal's reaction**:
-   - Hunched, tail down → Good hit (vitals)
-   - Jumpy, tail up → Possibly missed or muscle hit
-   - Slow walk → Excellent hit (will bed down soon)
+- Hunched, tail down → Good hit (vitals)
+- Jumpy, tail up → Possibly missed or muscle hit
+- Slow walk → Excellent hit (will bed down soon)
 3. **WAIT 30-60 MINUTES** (critical: don't push animal)
 4. **Find arrow** (inspect for blood, hair, smell)
 
@@ -245,6 +245,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ### Recovery Distance by Hit Quality
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hit Type | Blood Trail | Distance | Recovery Time |
 |----------|-------------|----------|---------------|
 | Double lung | Heavy, bright red, frothy | 30-80 yards | 30-60 min |
@@ -255,7 +256,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## 🛠️ Improvised Arrows (Survival)
+## Improv Arrow
 
 ### Materials Needed
 
@@ -311,7 +312,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## 🌲 Primitive Arrow Materials by Region
+## PrimArrow Mats
 
 ### Alaska / Northern Wilderness
 
@@ -336,7 +337,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## 🔧 Bow Maintenance (Survival)
+## Bow Maint
 
 ### String Replacement
 
@@ -416,7 +417,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ---
 
-## ⚠️ Safety Considerations
+## Safety
 
 ### Dry-Firing (NEVER)
 - Releasing bowstring without arrow loaded
@@ -439,16 +440,16 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ## 📚 Sources
 
-- *Traditional Bowhunter's Handbook*, T.J. Conrads
-- *The Bowyer's Bible* (Volume 1-4), Multiple Authors (comprehensive primitive archery)
-- *Hunting Big Game with Traditional Archery*, John Schulz
+- Traditional Bowhunter's Handbook, T.J. Conrads
+- The Bowyer's Bible (Volume 1-4), Multiple Authors (comprehensive primitive archery)
+- Hunting Big Game with Traditional Archery, John Schulz
 - Pope & Young Club, "Bowhunting Ethics & Guidelines"
-- *Instinctive Archery Insights*, Jay Kidwell
+- Instinctive Archery Insights, Jay Kidwell
 - Alaska Department of Fish & Game, "Bowhunting Regulations & Best Practices"
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Recurve vs Compound Anatomy"**
 - Side-by-side labeled diagrams

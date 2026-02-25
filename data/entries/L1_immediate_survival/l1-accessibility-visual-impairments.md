@@ -19,14 +19,13 @@ Visual impairments range from low vision to total blindness. Survival strategies
 - Mark tools with colored tape (each type gets a different color)
 
 **Strategic Marking:**
-| Item | Marking Method |
-|------|----------------|
-| Path edges | Bright rope or reflective tape |
-| Water containers | Yellow cap or tape |
-| Sharp tools | Red handle wrap |
-| Food storage | Green bag/container |
-| Medical supplies | White cross with black background |
-| Personal items | Individual color assigned to each person |
+**Item:** Marking Method
+**Path edges:** Bright rope or reflective tape
+**Water containers:** Yellow cap or tape
+**Sharp tools:** Red handle wrap
+**Food storage:** Green bag/container
+**Medical supplies:** White cross with black background
+**Personal items:** Individual color assigned to each person
 
 **Lighting:**
 - Position light sources to eliminate shadows
@@ -41,10 +40,10 @@ Visual impairments range from low vision to total blindness. Survival strategies
 - Texture changes (smooth to rough) at decision points
 - Rope guidelines with knots at landmarks
 - Different knot types = different meanings
-  - Single overhand = Continue straight
-  - Figure-eight = Turn left
-  - Two overhand knots = Turn right
-  - Square knot = Destination/rest area
+- Single overhand = Continue straight
+- Figure-eight = Turn left
+- Two overhand knots = Turn right
+- Square knot = Destination/rest area
 
 **Tool Identification:**
 - Carve unique patterns into handles
@@ -72,7 +71,7 @@ Visual impairments range from low vision to total blindness. Survival strategies
 
 ---
 
-## Blindness: Core Navigation & Techniques
+## Blind Nav
 
 ### Tactile Navigation Systems
 
@@ -156,9 +155,9 @@ Visual impairments range from low vision to total blindness. Survival strategies
 1. Measure your pace (normal walk = ~2.5 feet)
 2. Count every time right foot hits ground
 3. Memorize key distances:
-   - Shelter to water = 40 paces
-   - Shelter to toilet = 15 paces
-   - Shelter to fire = 10 paces
+- Shelter to water = 40 paces
+- Shelter to toilet = 15 paces
+- Shelter to fire = 10 paces
 4. Adjust for terrain (uphill = shorter steps)
 
 **Orientation:**
@@ -200,16 +199,14 @@ Visual impairments range from low vision to total blindness. Survival strategies
 ### Tactile Sign Language (Simple System)
 
 **Basic Signals (Tap on Shoulder/Arm):**
-| Signal | Meaning |
-|--------|---------|
-| One tap | Stop |
-| Two taps | Go/Continue |
-| Three taps | Danger |
-| Continuous tapping | Emergency |
-| Squeeze and release | Okay/Understood |
-| Two squeezes | Question (repeat/explain) |
-| Pulling motion | Follow me |
-| Pushing motion | Go that direction |
+**One tap:** Stop
+**Two taps:** Go/Continue
+**Three taps:** Danger
+**Continuous tapping:** Emergency
+**Squeeze and release:** Okay/Understood
+**Two squeezes:** Question (repeat/explain)
+**Pulling motion:** Follow me
+**Pushing motion:** Go that direction
 
 **Directional Guidance:**
 - Hand on shoulder = follow me (sighted guide)
@@ -372,7 +369,7 @@ Visual impairments range from low vision to total blindness. Survival strategies
 
 ---
 
-## Navigation in Unfamiliar Territory
+## Navi Unfa
 
 ### Trailing Technique
 
@@ -415,7 +412,7 @@ Visual impairments range from low vision to total blindness. Survival strategies
 
 ---
 
-## Daily Living Adaptations
+## Daily Adaptations
 
 ### Cooking
 
@@ -492,15 +489,14 @@ Visual impairments range from low vision to total blindness. Survival strategies
 
 ### Improvised Alternatives
 
-| Need | Improvised Solution |
-|------|---------------------|
-| White cane | Straight branch, 4-5 ft, smooth |
-| Guideline rope | Vine, paracord, strips of cloth tied together |
-| Tactile markers | Knots, wrapped textures, carved notches |
-| Raised dots | Glue drops, melted wax, small pebbles adhered |
-| Audio alarm | Metal pot lid + stick, whistle, vocal shouts |
-| Tactile map | Glue lines on cardboard, sticks on cloth |
-| Bell marker | Small stones in tin can, suspended |
+**Need:** Improvised Solution
+**White cane:** Straight branch, 4-5 ft, smooth
+**Guideline rope:** Vine, paracord, strips of cloth tied together
+**Tactile markers:** Knots, wrapped textures, carved notches
+**Raised dots:** Glue drops, melted wax, small pebbles adhered
+**Audio alarm:** Metal pot lid + stick, whistle, vocal shouts
+**Tactile map:** Glue lines on cardboard, sticks on cloth
+**Bell marker:** Small stones in tin can, suspended
 
 ---
 
@@ -534,7 +530,7 @@ Visual impairments range from low vision to total blindness. Survival strategies
 
 ---
 
-## Psychological Considerations
+## Psych Consider
 
 ### Orientation and Confidence
 

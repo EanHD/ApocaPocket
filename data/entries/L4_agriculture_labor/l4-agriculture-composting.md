@@ -1,4 +1,4 @@
-# Composting - L4 Agriculture
+# Composting
 
 **Priority: HIGH** | **Difficulty: Easy-Medium** | **Impact: Build topsoil in 3-5 years vs 100+ naturally**
 
@@ -8,6 +8,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 ## Hot vs Cold Composting
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Method | Time to Finish | Effort | Kills Pathogens? | Kills Weed Seeds? |
 |--------|---------------|--------|------------------|-------------------|
 | **Hot Compost** | 3-6 months | High (weekly turning) | ✅ Yes (130-160°F) | ✅ Yes (>140°F) |
@@ -18,7 +19,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 **Choose Cold Composting For:** Low effort, continuous adding, small amounts
 **Choose Vermicomposting For:** Indoor, small-scale, high-quality output, no space
 
-## The Carbon-Nitrogen Ratio (C:N)
+## C:N
 
 **Target Ratio: 30:1** (30 parts carbon to 1 part nitrogen by volume)
 
@@ -44,6 +45,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 ### Balancing Table
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Material | C:N Ratio | Category |
 |----------|-----------|----------|
 | Food scraps | 15:1 | Green |
@@ -59,12 +61,12 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 **Rule of Thumb:** 3 parts browns to 1 part greens by volume (browns are fluffy, greens dense)
 
-## Hot Composting Protocol
+## Hot Compost
 
 ### Setup Requirements
 - **Minimum size:** 3ft × 3ft × 3ft (1 cubic yard)
-  - Smaller piles don't retain heat
-  - Larger works better (up to 5ft cube)
+- Smaller piles don't retain heat
+- Larger works better (up to 5ft cube)
 - **Location:** Level ground, partial shade, good drainage
 - **Structure:** Wire bin, pallets, or open pile
 
@@ -83,6 +85,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 ### Temperature Monitoring
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Phase | Days | Temperature | Action |
 |-------|------|-------------|--------|
 | **Heating** | 0-3 | 70°F → 130°F | Monitor daily |
@@ -116,6 +119,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 **Troubleshooting:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | Pile won't heat | Too small | Add more material (min 1 cubic yard) |
@@ -148,7 +152,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 - Continuous process
 - No monitoring
 
-## Vermicomposting (Worm Bins)
+## Vermicompost
 
 **Best For:** Apartments, kitchens, small-scale, winter composting
 
@@ -164,7 +168,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 - 4-6" depth
 
 **Worms:**
-- **Species:** Red wigglers (*Eisenia fetida*) - NOT nightcrawlers
+- **Species:** Red wigglers (Eisenia fetida) - NOT nightcrawlers
 - **Quantity:** 1 lb worms = eat 1/2 lb food/day (1000-2000 worms)
 - **Source:** Purchase or find in manure piles
 
@@ -198,7 +202,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 - **NPK:** ~2-1-1 plus micronutrients
 - **Quality:** Superior to regular compost (microbially active)
 
-## Finished Compost Indicators
+## Finished Compost
 
 **Ready When:**
 - ✅ Dark brown to black color
@@ -218,6 +222,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 **Application Rates:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Use | Amount | Method |
 |-----|--------|--------|
 | Garden beds (new) | 2-4" layer | Till into top 6-8" |
@@ -229,7 +234,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 **Sifting:** Use 1/2" hardware cloth to separate finished compost from large chunks (return chunks to pile)
 
-## Build Topsoil: The Math
+## Build Topsoil
 
 **Natural Soil Formation:** 100-1000 years per inch
 
@@ -251,15 +256,14 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Pile too small | Minimum 3×3×3 ft for hot composting |
-| All grass clippings (mat, smell) | Layer with browns, no more than 25% grass |
-| Too dry (won't decompose) | Moist as wrung sponge |
-| Too wet (anaerobic, smells) | Add browns, turn frequently |
-| Adding meat/dairy | Vegetable matter only (cold compost) |
-| Not turning hot compost | Turn weekly for fast, quality output |
-| Using fresh manure on plants | Compost first (6+ months) to kill pathogens |
+**❌ Wrong:** ✓ Right
+**Pile too small:** Minimum 3×3×3 ft for hot composting
+**All grass clippings (mat, smell):** Layer with browns, no more than 25% grass
+**Too dry (won't decompose):** Moist as wrung sponge
+**Too wet (anaerobic, smells):** Add browns, turn frequently
+**Adding meat/dairy:** Vegetable matter only (cold compost)
+**Not turning hot compost:** Turn weekly for fast, quality output
+**Using fresh manure on plants:** Compost first (6+ months) to kill pathogens
 
 ## Advanced: Compost Tea
 
@@ -276,7 +280,7 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 **⚠️ WARNING:** Without aeration, tea goes anaerobic (harmful). Must actively bubble.
 
-## Scaling to Community Level
+## Scaling to Communities
 
 **Compost Windrow (Large-Scale):**
 - Rows 3-5 ft high, 8-10 ft wide, any length
@@ -306,6 +310,6 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 - Cornell Waste Management Institute
 - "The Rodale Book of Composting" (Rodale Institute)
 - Extension services: OSU, NC State, U-Conn
-- *Worms Eat My Garbage* by Mary Appelhof
+- Worms Eat My Garbage by Mary Appelhof
 
 **Last Updated:** 2026 | **Reviewed by:** Soil Science Dept, Extension Services

@@ -6,13 +6,13 @@ tags: ["subway", "tunnel", "underground", "flooding", "third-rail", "evacuation"
 confidence: "high"
 region: "global"
 sources:
-  - "transit-emergency-guidance"
-  - "tunnel-fire-safety-standards"
-  - "urban-disaster-response-manual"
+- "transit-emergency-guidance"
+- "tunnel-fire-safety-standards"
+- "urban-disaster-response-manual"
 related:
-  - "l1-urban-highrise-evacuation"
-  - "l1-urban-crowd-dynamics"
-  - "l1-medical-smoke-inhalation"
+- "l1-urban-highrise-evacuation"
+- "l1-urban-crowd-dynamics"
+- "l1-medical-smoke-inhalation"
 ---
 
 # Subway & Tunnel Survival
@@ -25,7 +25,7 @@ Underground spaces amplify risk: darkness, smoke, flooding, electricity, panic m
 - **Floodwater**: may rise rapidly and hide hazards.
 - **Smoke**: toxic gases accumulate quickly.
 
-## If Train Stops in Tunnel
+## Train Stop
 1. Stay calm and await operator instructions if no immediate hazard.
 2. If evacuation ordered, move as directed on service walkway.
 3. Keep one hand on wall/rail in low visibility.
@@ -46,7 +46,7 @@ Underground spaces amplify risk: darkness, smoke, flooding, electricity, panic m
 - Angle toward edges and structural openings.
 - Keep hands in front of chest to protect breathing space.
 
-## Minimal Carry Kit for Underground
+## Minimal Kit
 - Headlamp + backup light
 - N95 mask
 - Whistle

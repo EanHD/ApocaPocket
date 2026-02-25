@@ -18,7 +18,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🐟 Salmon (Top Priority - Seasonal Abundance)
+## Salmon
 
 ### Overview: The Five Pacific Salmon
 
@@ -32,7 +32,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-### 1. King / Chinook Salmon (*Oncorhynchus tshawytscha*)
+### 1. King / Chinook Salmon (Oncorhynchus tshawytscha)
 
 **Size**: 20-50 lbs (largest), up to 100 lbs (rare)  
 **Run Timing**: May-July (earliest run)  
@@ -60,7 +60,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-### 2. Sockeye / Red Salmon (*Oncorhynchus nerka*)
+### 2. Sockeye / Red Salmon (Oncorhynchus nerka)
 
 **Size**: 5-8 lbs (average), up to 15 lbs  
 **Run Timing**: June-August (peak: July)  
@@ -88,7 +88,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-### 3. Coho / Silver Salmon (*Oncorhynchus kisutch*)
+### 3. Coho / Silver Salmon (Oncorhynchus kisutch)
 
 **Size**: 8-12 lbs (average), up to 20 lbs  
 **Run Timing**: July-October (peak: August-September, latest run)  
@@ -116,7 +116,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-### 4. Pink / Humpy Salmon (*Oncorhynchus gorbuscha*)
+### 4. Pink / Humpy Salmon (Oncorhynchus gorbuscha)
 
 **Size**: 3-5 lbs (smallest salmon)  
 **Run Timing**: July-August (even years MUCH larger runs in most Alaska rivers)  
@@ -143,7 +143,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-### 5. Chum / Dog Salmon (*Oncorhynchus keta*)
+### 5. Chum / Dog Salmon (Oncorhynchus keta)
 
 **Size**: 8-15 lbs  
 **Run Timing**: July-September  
@@ -173,7 +173,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🎣 Salmon Fishing Tactics (Survival Context)
+## Salmon Fishing
 
 ### Timing is Everything
 
@@ -221,9 +221,9 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🐟 Trout (Year-Round Availability)
+## Trout
 
-### Rainbow Trout (*Oncorhynchus mykiss*)
+### Rainbow Trout (Oncorhynchus mykiss)
 
 **Size**: 1-5 lbs (stream), up to 20 lbs (lake/ocean forms = steelhead)
 
@@ -240,7 +240,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 **Survival Value**: Moderate (available year-round, but smaller than salmon, more effort per pound)
 
-### Lake Trout (*Salvelinus namaycush*)
+### Lake Trout (Salvelinus namaycush)
 
 **Size**: 5-20 lbs (large specimens up to 40 lbs)
 
@@ -257,7 +257,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 **Survival Value**: High (large size, abundant in right lakes, year-round)
 
-### Brook Trout (*Salvelinus fontinalis*)
+### Brook Trout (Salvelinus fontinalis)
 
 **Size**: 0.5-2 lbs (small)
 
@@ -276,9 +276,9 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🐟 Char (Excellent Eating)
+## Char
 
-### Arctic Char (*Salvelinus alpinus*)
+### Arctic Char (Salvelinus alpinus)
 
 **Size**: 2-8 lbs (stream), up to 20 lbs (lake/ocean forms)
 
@@ -295,7 +295,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 **Survival Value**: High (large size, excellent eating, abundant in Arctic)
 
-### Dolly Varden (*Salvelinus malma*)
+### Dolly Varden (Salvelinus malma)
 
 **Size**: 1-5 lbs (similar to rainbow trout)
 
@@ -314,9 +314,9 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🐟 Grayling (Unique Alaska Species)
+## Grayling
 
-### Arctic Grayling (*Thymallus arcticus*)
+### Arctic Grayling (Thymallus arcticus)
 
 **Size**: 1-2 lbs (average), up to 4 lbs (rare)
 
@@ -343,9 +343,9 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🐟 Pike (Underrated Survival Fish)
+## Pike
 
-### Northern Pike (*Esox lucius*)
+### Northern Pike (Esox lucius)
 
 **Size**: 5-15 lbs (average), up to 30+ lbs
 
@@ -376,7 +376,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🎣 Fishing Techniques by Context
+## Fishing Tech
 
 ### Survival (High Efficiency)
 
@@ -402,8 +402,9 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 📅 Seasonal Fishing Calendar (Interior Alaska)
+## Seasonal Fish
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Month | Target Species | Method | Yield |
 |-------|----------------|--------|-------|
 | **Jan-Mar** | Lake trout, pike (ice) | Ice fishing, tip-ups | Moderate |
@@ -418,7 +419,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 🍽️ Field Preparation & Preservation
+## Field Prep
 
 ### Field Dressing Fish
 
@@ -455,10 +456,11 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ---
 
-## 📋 Identification Quick Reference
+## ID QR
 
 **Salmon (Spawning vs Ocean-Bright):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Ocean-Bright (BEST) | Spawning (OK-POOR) |
 |---------|---------------------|---------------------|
 | Color | Bright silver | Dark, red, brown, green |
@@ -471,6 +473,7 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 **Trout vs Char vs Salmon:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Trout | Char | Salmon |
 |---------|-------|------|--------|
 | Spots | Dark on light background | Light on dark background | Varies (often spotted) |
@@ -483,14 +486,14 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 ## 📚 Sources
 
 - Alaska Department of Fish & Game, "Sport Fish Species Guide"
-- *Alaska Fishing: The Ultimate Angler's Guide*, Rene Limeres & Gunnar Pedersen
+- Alaska Fishing: The Ultimate Angler's Guide, Rene Limeres & Gunnar Pedersen
 - NOAA Fisheries, "Pacific Salmon Life Cycle"
-- *Fishing Alaska*, Evan & Margaret Swensen
+- Fishing Alaska, Evan & Margaret Swensen
 - Traditional Knowledge (Dena'ina, Yup'ik salmon fishing techniques)
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Five Pacific Salmon - Side-by-Side Comparison"**
 - Five salmon profiles (ocean-bright form)

@@ -34,7 +34,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ---
 
-## 🔥 Method 1: Hot Smoking (RECOMMENDED)
+## Hot Smoking
 
 **Target Temperature**: 225-250°F  
 **Duration**: 4-6 hours for 1-inch strips  
@@ -75,6 +75,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 7. **Done when**: Dark mahogany color, firm texture, bendable but not brittle
 
 **Temperature Check (No Thermometer):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hand Distance | Hold Time | Approximate Temp |
 |---------------|-----------|------------------|
 | 6 inches | 2-3 seconds | 300-350°F (too hot) |
@@ -94,7 +95,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ---
 
-## 🥩 Method 2: Jerky (Air Drying)
+## Jerky
 
 **Duration**: 1-3 days depending on weather  
 **Best Conditions**: Low humidity (<40%), warm (60-80°F), windy  
@@ -150,7 +151,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ---
 
-## ❄️ Method 3: Cold Storage
+## Cold Storage
 
 **Target Temperature**: <40°F (ideal: 32-38°F)  
 **Duration**: 5-10 days (if properly maintained)
@@ -201,10 +202,11 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ---
 
-## 🦠 Spoilage Recognition (CRITICAL)
+## Spoilage Recog
 
 ### Visual Indicators
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stage | Appearance | Action |
 |-------|------------|--------|
 | Fresh | Bright red/purple, firm | Safe to eat/preserve |
@@ -229,13 +231,12 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ### Timeline by Temperature
 
-| Temperature | Preservation Window |
-|-------------|---------------------|
-| 32-40°F | 7-10 days (hanging in shade) |
-| 40-50°F | 3-5 days |
-| 50-60°F | 24-36 hours |
-| 60-70°F | 12-24 hours |
-| 70°F+ | 6-12 hours |
+**Temperature:** Preservation Window
+**32-40°F:** 7-10 days (hanging in shade)
+**40-50°F:** 3-5 days
+**50-60°F:** 24-36 hours
+**60-70°F:** 12-24 hours
+**70°F+:** 6-12 hours
 
 **Alaska Summer (June-Aug)**: Assume 60-70°F, act within 12-24 hours
 
@@ -253,9 +254,9 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 **Hour 2-4 (CRITICAL WINDOW):**
 1. Decide preservation method based on resources:
-   - **Have fire/wood**: Start smoking
-   - **Have salt**: Start jerky cure
-   - **Cold weather**: Set up snow cache or stream cooling
+- **Have fire/wood**: Start smoking
+- **Have salt**: Start jerky cure
+- **Cold weather**: Set up snow cache or stream cooling
 2. Begin cutting meat into strips/chunks
 3. Start preservation process
 
@@ -272,7 +273,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ---
 
-## 🛡️ Bear Safety During Preservation
+## Bear Safety
 
 **Active smoking/drying attracts bears**
 
@@ -288,6 +289,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ## 📊 Estimated Yields
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Live Weight | Meat Yield | Preservation Time (1 person) |
 |--------|-------------|------------|------------------------------|
 | Moose | 1000 lbs | 400-500 lbs | 3-5 days full-time work |
@@ -303,34 +305,34 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 **Ask yourself:**
 
 1. **What's the temperature?**
-   - <40°F → Hanging + cold storage (simplest)
-   - 40-60°F → Smoking or jerky (urgent)
-   - 60°F+ → Smoking + jerky + accept losses (critical)
+- <40°F → Hanging + cold storage (simplest)
+- 40-60°F → Smoking or jerky (urgent)
+- 60°F+ → Smoking + jerky + accept losses (critical)
 
 2. **What resources do I have?**
-   - Fire + wood → Smoking (best)
-   - Salt → Jerky
-   - Neither → Cold cache (winter) or prioritize eating fresh
+- Fire + wood → Smoking (best)
+- Salt → Jerky
+- Neither → Cold cache (winter) or prioritize eating fresh
 
 3. **How much meat?**
-   - <50 lbs → Focus on perfection
-   - 50-200 lbs → Mix methods (smoke best cuts, jerky the rest)
-   - 200+ lbs → Triage (smoke/jerk what you can, cache/abandon rest)
+- <50 lbs → Focus on perfection
+- 50-200 lbs → Mix methods (smoke best cuts, jerky the rest)
+- 200+ lbs → Triage (smoke/jerk what you can, cache/abandon rest)
 
 ---
 
 ## 📚 Sources
 
-- *SAS Survival Handbook*, John "Lofty" Wiseman, Chapter 6
-- *Into the Wild*, Jon Krakauer (Chris McCandless case study)
+- SAS Survival Handbook, John "Lofty" Wiseman, Chapter 6
+- Into the Wild, Jon Krakauer (Chris McCandless case study)
 - USDA Food Safety Guidelines (FSIS Publication)
 - Alaska Department of Fish & Game, "Field Care of Game Meat"
-- *Bushcraft 101*, Dave Canterbury, Chapter 8
+- Bushcraft 101, Dave Canterbury, Chapter 8
 - U.S. Army Survival Manual FM 21-76, Chapter 8
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Hot Smoking Setup - Side View"**
 - Cross-section showing fire pit, smoke chamber, meat placement

@@ -19,7 +19,7 @@ Small engines (50-700cc) power generators, lawn equipment, pressure washers, and
 - 4-stroke side-valve (flathead): Older Briggs & Stratton, Tecumseh
 - 2-stroke: Chainsaw/trimmer engines (mentioned but not primary focus)
 
-## Troubleshooting Flowchart
+## Troubleshoot Flow
 
 ### Won't Start Diagnostic Tree
 
@@ -107,7 +107,7 @@ ENGINE RUNS BUT POORLY
    └─ Governor not opening throttle → Adjust governor
 ```
 
-## Carburetor Fundamentals
+## Carb Fund
 
 ### How Small Engine Carburetors Work
 
@@ -154,7 +154,7 @@ ENGINE RUNS BUT POORLY
 
 This guide focuses on **float carburetors** (most common in generators/stationary equipment).
 
-## Carburetor Rebuild Procedure
+## Carb Rebuild
 
 ### When to Rebuild
 
@@ -224,16 +224,16 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 
 **5. Remove Jets**
 - **Main jet:** Usually brass, screws into center of bowl mounting
-  - Use flathead screwdriver, DO NOT OVERTIGHTEN on removal
-  - Jet size stamped on side (e.g., "0.028" = 0.028" diameter)
+- Use flathead screwdriver, DO NOT OVERTIGHTEN on removal
+- Jet size stamped on side (e.g., "0.028" = 0.028" diameter)
 - **Idle jet (if equipped):** Smaller brass jet, side of carburetor
 - **Emulsion tube (some carbs):** Brass tube with holes, lifts out
 
 **6. Remove Mixture Screws**
 - **CRITICAL:** Count turns when removing!
-  - Gently screw in until lightly seated
-  - Count exact turns (e.g., 1.5 turns)
-  - Write down this number (factory setting)
+- Gently screw in until lightly seated
+- Count exact turns (e.g., 1.5 turns)
+- Write down this number (factory setting)
 - Remove screw, spring, O-ring
 - Some carbs have two screws (idle + high speed)
 
@@ -292,7 +292,7 @@ This guide focuses on **float carburetors** (most common in generators/stationar
   | Honda GX | 16mm (0.63") | Bowl surface to top of float |
   | Briggs & Stratton | 3/16" | Carburetor body to float |
   | Kohler | 11/64" | Varies by model |
-  - Adjust by bending tab that contacts needle valve
+- Adjust by bending tab that contacts needle valve
 
 **Needle Valve:**
 - Tip: Should be smooth, no grooves
@@ -319,13 +319,13 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - Screw in gently until lightly seated (DO NOT FORCE)
 - Back out exact number of turns recorded during disassembly
 - Common settings if unknown:
-  - Idle mixture: 1.5-2.0 turns out
-  - High-speed mixture: 1.0-1.5 turns out
+- Idle mixture: 1.5-2.0 turns out
+- High-speed mixture: 1.0-1.5 turns out
 
 **2. Install Jets**
 - Main jet: Thread in by hand, light snug with screwdriver
-  - **NEVER FORCE** - brass strips easily
-  - Torque: Finger-tight + 1/8 turn (no more)
+- **NEVER FORCE** - brass strips easily
+- Torque: Finger-tight + 1/8 turn (no more)
 - Idle jet: Same light installation
 
 **3. Install Needle Valve**
@@ -338,17 +338,17 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - Insert float pin (may require light tap)
 - Check float movement (should pivot freely)
 - **Verify float height** (critical for proper operation):
-  - Hold carburetor inverted (needle valve up)
-  - Float should be level or slightly below carb body
-  - Measure per specifications
-  - Bend tab carefully if adjustment needed
+- Hold carburetor inverted (needle valve up)
+- Float should be level or slightly below carb body
+- Measure per specifications
+- Bend tab carefully if adjustment needed
 
 **5. Install Float Bowl**
 - New gasket (old one always leaks after removal)
 - Position bowl carefully (alignment tabs)
 - Center bolt: Snug with wrench, NOT impact-tight
-  - Torque: 30-50 in-lbs (finger-tight + 1/4 turn)
-  - Overtightening cracks bowl
+- Torque: 30-50 in-lbs (finger-tight + 1/4 turn)
+- Overtightening cracks bowl
 
 **6. Reinstall Carburetor on Engine**
 - New intake gasket (prevents air leaks)
@@ -390,6 +390,7 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - Many modern carbs have fixed high-speed jet (not adjustable)
 
 **Signs of Mixture Problems:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Symptom | Mixture | Adjustment |
 |---------|---------|------------|
 | Black smoke, sooty plug | Too rich | Turn screw clockwise (lean out) |
@@ -428,7 +429,7 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - Broken crankshafts
 - Voltage/frequency instability in generators
 
-## Ignition System Diagnosis
+## Ignition Sys Diagn
 
 ### Ignition System Components
 
@@ -472,40 +473,40 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - Inspect for cracks, damage
 - Check connection to coil (some screw on, some push on)
 - Resistance test (multimeter):
-  - 3,000-15,000 ohms typical (varies widely by model)
-  - Infinite (OL) = broken wire internally
-  - Zero = wire is shorted
+- 3,000-15,000 ohms typical (varies widely by model)
+- Infinite (OL) = broken wire internally
+- Zero = wire is shorted
 
 **3. Ignition Coil**
 - **Air gap check (critical):**
-  - Coil must be correct distance from flywheel magnets
-  - Gap too wide = weak/no spark
-  - Gap too narrow = coil overheats, fails
-  - Specification: 0.010" (business card thickness)
-  - Adjustment: Loosen coil bolts, insert feeler gauge between coil and flywheel magnet, tighten bolts
+- Coil must be correct distance from flywheel magnets
+- Gap too wide = weak/no spark
+- Gap too narrow = coil overheats, fails
+- Specification: 0.010" (business card thickness)
+- Adjustment: Loosen coil bolts, insert feeler gauge between coil and flywheel magnet, tighten bolts
   
 - **Resistance test (multimeter):**
-  - Primary winding: 0.5-3 ohms (between coil terminals)
-  - Secondary winding: 3,000-15,000 ohms (between plug wire and ground)
-  - Outside these ranges = failed coil
+- Primary winding: 0.5-3 ohms (between coil terminals)
+- Secondary winding: 3,000-15,000 ohms (between plug wire and ground)
+- Outside these ranges = failed coil
 
 **4. Flywheel Key**
 - **Sheared key symptoms:**
-  - Backfiring through carb (timing retarded)
-  - Hard starting
-  - Spark present but weak at wrong time
+- Backfiring through carb (timing retarded)
+- Hard starting
+- Spark present but weak at wrong time
   
 - **Inspection:**
-  - Remove flywheel (requires puller tool)
-  - Examine key slot on crankshaft
-  - Key should be intact, square edges
-  - Sheared key = half missing or rounded
+- Remove flywheel (requires puller tool)
+- Examine key slot on crankshaft
+- Key should be intact, square edges
+- Sheared key = half missing or rounded
   
 - **Replacement:**
-  - Remove old key (may need light hammer)
-  - Install new key (flat stock, typically 3/16" × 1" × 1-1/2")
-  - Align flywheel (key fits in slot)
-  - Torque flywheel nut to spec (check manual, typically 40-80 ft-lbs)
+- Remove old key (may need light hammer)
+- Install new key (flat stock, typically 3/16" × 1" × 1-1/2")
+- Align flywheel (key fits in slot)
+- Torque flywheel nut to spec (check manual, typically 40-80 ft-lbs)
 
 **Flywheel Removal:**
 - Requires flywheel puller (DO NOT pry or hammer)
@@ -556,16 +557,17 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 3. **Disconnect spark plug wire** (prevents accidental start)
 4. **Open throttle fully** (wire open or have assistant hold)
 5. **Install compression tester:**
-   - Screw-in type: Thread into plug hole
-   - Push-in type: Hold firmly against plug hole
+- Screw-in type: Thread into plug hole
+- Push-in type: Hold firmly against plug hole
 6. **Pull starter rope rapidly 5-6 times**
-   - Full-speed pulls (not slow)
-   - Gauge needle should rise, hold at peak
+- Full-speed pulls (not slow)
+- Gauge needle should rise, hold at peak
 7. **Read gauge at highest reading**
 8. **Release pressure** (valve on tester)
 9. **Record reading**
 
 **Healthy Compression Values:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Engine Type | Good Compression | Minimum Acceptable |
 |-------------|------------------|--------------------|
 | 4-stroke OHV | 90-150 PSI | 75+ PSI |
@@ -603,6 +605,7 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - **Too loose (excess clearance):** Noisy ticking, poor power
 
 **Clearance Specifications:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Engine Brand/Model | Intake Valve | Exhaust Valve | Check Method |
 |--------------------|--------------|---------------|--------------|
 | Honda GX series | 0.004-0.006" | 0.006-0.008" | Cold engine |
@@ -620,32 +623,33 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 **Steps:**
 1. **Remove rocker cover** (valve cover)
 2. **Rotate engine to TDC (top dead center) on compression stroke:**
-   - Remove spark plug (easier to turn)
-   - Rotate flywheel clockwise
-   - Watch intake valve close, exhaust valve closed
-   - Both valves closed = TDC compression stroke
-   - Alternative: Align timing mark on flywheel (if present)
+- Remove spark plug (easier to turn)
+- Rotate flywheel clockwise
+- Watch intake valve close, exhaust valve closed
+- Both valves closed = TDC compression stroke
+- Alternative: Align timing mark on flywheel (if present)
 3. **Check intake valve clearance:**
-   - Insert feeler gauge between rocker arm and valve stem
-   - Should have slight drag (not loose, not tight)
-   - Spec: 0.004-0.006" typical
+- Insert feeler gauge between rocker arm and valve stem
+- Should have slight drag (not loose, not tight)
+- Spec: 0.004-0.006" typical
 4. **Adjust if needed:**
-   - Loosen rocker arm locknut
-   - Turn adjustment screw (clockwise = tighter, counterclockwise = looser)
-   - Recheck clearance with feeler gauge
-   - Hold adjustment screw, tighten locknut
-   - Recheck clearance (tightening locknut can change adjustment)
+- Loosen rocker arm locknut
+- Turn adjustment screw (clockwise = tighter, counterclockwise = looser)
+- Recheck clearance with feeler gauge
+- Hold adjustment screw, tighten locknut
+- Recheck clearance (tightening locknut can change adjustment)
 5. **Check exhaust valve clearance:**
-   - Same procedure, exhaust valve spec (typically 0.006-0.008")
+- Same procedure, exhaust valve spec (typically 0.006-0.008")
 6. **Reinstall rocker cover:**
-   - Clean old gasket residue
-   - New gasket or RTV silicone
-   - Torque bolts to spec (typically 50-80 in-lbs)
+- Clean old gasket residue
+- New gasket or RTV silicone
+- Torque bolts to spec (typically 50-80 in-lbs)
 
 ## Common Failure Modes
 
 ### Symptom-Based Diagnosis
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Symptom | Most Likely Cause | Second Likely Cause | Test/Check |
 |---------|-------------------|---------------------|------------|
 | Won't start, no spark | Ignition coil | Kill switch grounded | Spark test, disconnect kill switch |
@@ -700,7 +704,7 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 4. Prime (if equipped) or pour 1 tsp fuel in carb
 5. Start and run (may take several attempts)
 
-## Tools & Equipment Needed
+## Tools
 
 **Basic Diagnostic Tools:**
 - [ ] Spark tester or spare spark plug
@@ -741,22 +745,22 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 
 ## Common Repair Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Overtightening carburetor jets (cracks housing) | Finger-tight + 1/8 turn with screwdriver |
-| Using drill bit to clean jets (enlarges orifice) | Use wire, guitar string, or carburetor cleaner |
-| Forgetting to count mixture screw turns | Count and record turns before removal |
-| Installing carburetor without new gasket | Always replace intake gasket (prevents air leaks) |
-| Setting float height by guess | Measure with ruler per specification |
-| Hammering flywheel off (cracks flywheel, bends shaft) | Use proper puller tool |
-| Spray starting fluid into running engine | Only spray into stopped engine, then start |
-| Ignoring sheared flywheel key | Replace key (prevents timing issues) |
-| Running engine without air filter "just to test" | Always run with filter (dirt destroys engine) |
-| Assuming new spark plug fixes ignition problem | Test for spark first, diagnose ignition system |
+**❌ Wrong:** ✓ Right
+**Overtightening carburetor jets (cracks housing):** Finger-tight + 1/8 turn with screwdriver
+**Using drill bit to clean jets (enlarges orifice):** Use wire, guitar string, or carburetor cleaner
+**Forgetting to count mixture screw turns:** Count and record turns before removal
+**Installing carburetor without new gasket:** Always replace intake gasket (prevents air leaks)
+**Setting float height by guess:** Measure with ruler per specification
+**Hammering flywheel off (cracks flywheel, bends shaft):** Use proper puller tool
+**Spray starting fluid into running engine:** Only spray into stopped engine, then start
+**Ignoring sheared flywheel key:** Replace key (prevents timing issues)
+**Running engine without air filter "just to test":** Always run with filter (dirt destroys engine)
+**Assuming new spark plug fixes ignition problem:** Test for spark first, diagnose ignition system
 
-## Quick Reference - Specifications
+## QR-Specs
 
 **Typical Small Engine Specs:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Specification | Value | Notes |
 |---------------|-------|-------|
 | Compression (4-stroke OHV) | 90-150 PSI | Minimum 75 PSI |
@@ -769,6 +773,7 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 | Carburetor mixture screw | 1.5-2.0 turns out | Starting point |
 
 **Torque Specifications:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Fastener | Torque | Notes |
 |----------|--------|-------|
 | Spark plug | 18-22 ft-lbs (14mm) | Aluminum heads: 15-18 ft-lbs |

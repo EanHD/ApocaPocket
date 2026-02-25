@@ -4,40 +4,40 @@ title: "Radio Propagation: Understanding Signal Behavior"
 layer: L3_materials_technology
 category: communications
 tags:
-  - propagation
-  - radio_theory
-  - HF
-  - VHF
-  - UHF
-  - ionosphere
-  - line_of_sight
-  - skywave
+- propagation
+- radio_theory
+- HF
+- VHF
+- UHF
+- ionosphere
+- line_of_sight
+- skywave
 region_relevance:
-  - global
+- global
 summary: "Radio wave propagation mechanisms determine communication range and reliability. Covers line-of-sight (VHF/UHF, terrain effects, 5-50 miles), skywave/ionospheric (HF, time-of-day, solar cycle, 100-12,000+ miles), ground wave (MF/LF, 10-100 miles), atmospheric effects (ducting, skip, fading), and practical range calculations by frequency. Includes antenna height vs range tables and propagation prediction methods."
 steps:
-  - "Identify frequency band and primary propagation mode: VHF/UHF = line-of-sight, HF = skywave (ionospheric), MF = ground wave"
-  - "Calculate line-of-sight range from antenna heights: Range (miles) ≈ 1.17 × (√h1 + √h2) where h = height in feet"
-  - "For HF skywave: Check time of day (40m/80m at night, 20m/15m/10m during day), season (winter = better 80m, summer = better 10m), solar cycle (sunspot maximum = better HF)"
-  - "Account for terrain and obstacles: Hills, buildings, forests reduce range 50-90% on VHF/UHF; HF less affected"
-  - "Use propagation prediction tools (VOACAP, NOAA Space Weather) for HF band selection"
+- "Identify frequency band and primary propagation mode: VHF/UHF = line-of-sight, HF = skywave (ionospheric), MF = ground wave"
+- "Calculate line-of-sight range from antenna heights: Range (miles) ≈ 1.17 × (√h1 + √h2) where h = height in feet"
+- "For HF skywave: Check time of day (40m/80m at night, 20m/15m/10m during day), season (winter = better 80m, summer = better 10m), solar cycle (sunspot maximum = better HF)"
+- "Account for terrain and obstacles: Hills, buildings, forests reduce range 50-90% on VHF/UHF; HF less affected"
+- "Use propagation prediction tools (VOACAP, NOAA Space Weather) for HF band selection"
 warnings:
-  - "SKIP ZONE: HF signals may skip over nearby stations (0-500 miles) and only reach distant stations (500-3000+ miles). No communication in skip zone. Use NVIS (Near Vertical Incidence Skywave) for regional coverage (80m/40m at high angles, 50-300 miles)"
-  - "PROPAGATION VARIABILITY: HF propagation changes hour-by-hour (day/night), day-by-day (geomagnetic storms), and year-by-year (11-year solar cycle). Band open at 2PM may be dead at 8PM. Plan multiple frequency backups"
-  - "ABSORPTION: D-layer ionospheric absorption during day attenuates lower HF bands (80m, 40m). These bands only work at night or during solar minimum. Use higher bands (20m, 15m, 10m) during day"
-  - "MULTIPATH FADING: Signals arriving via multiple paths (different ionospheric reflections) interfere, causing rapid fading (flutter, 1-10 times per second). Digital modes (FT8, PSK31) and SSB less affected than AM. Diversity reception (multiple antennas, spaced 10+ wavelengths) reduces fading"
-  - "TERRAIN SHIELDING: VHF/UHF signals blocked by hills, buildings, dense forests. 20dB attenuation (100× power loss) common. Elevate antennas above obstacles or use repeaters/relays on high points"
+- "SKIP ZONE: HF signals may skip over nearby stations (0-500 miles) and only reach distant stations (500-3000+ miles). No communication in skip zone. Use NVIS (Near Vertical Incidence Skywave) for regional coverage (80m/40m at high angles, 50-300 miles)"
+- "PROPAGATION VARIABILITY: HF propagation changes hour-by-hour (day/night), day-by-day (geomagnetic storms), and year-by-year (11-year solar cycle). Band open at 2PM may be dead at 8PM. Plan multiple frequency backups"
+- "ABSORPTION: D-layer ionospheric absorption during day attenuates lower HF bands (80m, 40m). These bands only work at night or during solar minimum. Use higher bands (20m, 15m, 10m) during day"
+- "MULTIPATH FADING: Signals arriving via multiple paths (different ionospheric reflections) interfere, causing rapid fading (flutter, 1-10 times per second). Digital modes (FT8, PSK31) and SSB less affected than AM. Diversity reception (multiple antennas, spaced 10+ wavelengths) reduces fading"
+- "TERRAIN SHIELDING: VHF/UHF signals blocked by hills, buildings, dense forests. 20dB attenuation (100× power loss) common. Elevate antennas above obstacles or use repeaters/relays on high points"
 related_entries:
-  - l3-tech-radio-basics
-  - l3-tech-antenna-construction
-  - l3-tech-digital-radio
-  - l3-tech-emergency-comms
+- l3-tech-radio-basics
+- l3-tech-antenna-construction
+- l3-tech-digital-radio
+- l3-tech-emergency-comms
 sources:
-  - ARRL Handbook for Radio Communications (Chapter 21, Propagation)
-  - ARRL Antenna Book (Propagation chapters)
-  - NOAA Space Weather Prediction Center
-  - ITU Radio Regulations Handbook
-  - "The DXer's Guide to Propagation" by ARRL
+- ARRL Handbook for Radio Communications (Chapter 21, Propagation)
+- ARRL Antenna Book (Propagation chapters)
+- NOAA Space Weather Prediction Center
+- ITU Radio Regulations Handbook
+- "The DXer's Guide to Propagation" by ARRL
 audit_status: verified
 last_verified: 2026-02-19
 confidence: high
@@ -59,6 +59,7 @@ offline_assets: []
 4. **Tropospheric**: VHF/UHF (30-3000 MHz), 50-500+ miles, atmospheric ducting/refraction, sporadic
 
 **Frequency Band Characteristics** (Quick Reference):
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Band | Frequency | Primary Mode | Typical Range | Best Time | Emergency Use |
 |------|-----------|--------------|---------------|-----------|--------------|
 | **AM Broadcast** | 540-1700 kHz | Ground wave + skywave | 10-50 mi day, 100-1000 mi night | Night (skywave) | Regional info (receive-only) |
@@ -71,7 +72,7 @@ offline_assets: []
 | **2m** | 144-148 MHz | Line-of-sight | 5-50 miles | Any | **Local VHF standard** |
 | **70cm** | 420-450 MHz | Line-of-sight | 5-30 miles | Any | Local UHF, less foliage loss |
 
-## Line-of-Sight Propagation (VHF/UHF)
+## Line-of-Sight
 
 **Frequencies**: 30 MHz - 3 GHz (VHF, UHF, SHF)
 **Mechanism**: Radio waves travel in straight lines (like light), limited by horizon and obstacles.
@@ -143,6 +144,7 @@ Radius = 17.3 × √(10 / 0.146) = 17.3 × √68.5 = 17.3 × 8.28 = 143 meters
 
 ### VHF vs UHF Propagation Differences
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Characteristic | VHF (2m, 144-148 MHz) | UHF (70cm, 420-450 MHz) |
 |----------------|---------------------|----------------------|
 | **Free-Space Range** | Longer (2× wavelength = 4× coverage area) | Shorter |
@@ -191,7 +193,7 @@ Radius = 17.3 × √(10 / 0.146) = 17.3 × √68.5 = 17.3 × 8.28 = 143 meters
 
 **Practical Use**: Monitor VHF for long-distance contacts during high-pressure systems and coastal conditions. Unreliable for planned emergency communications (unpredictable).
 
-## Skywave Propagation (HF Ionospheric)
+## Skywave Propagation
 
 **Frequencies**: 3-30 MHz (HF band)
 **Mechanism**: Radio waves reflect off ionosphere (ionized atmospheric layers 30-250 miles altitude). Enables long-distance communications (100-12,000+ miles) without infrastructure.
@@ -325,6 +327,7 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 **Ionospheric Loss**: Add 5-20 dB loss for ionospheric absorption (depends on frequency, time of day, solar activity).
 
 **Practical HF Range**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Power | Antenna | Band | Time | Typical Range |
 |-------|---------|------|------|---------------|
 | 5W | Dipole | 40m | Night | 100-500 miles (single hop) |
@@ -333,7 +336,7 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 | 100W | Beam (10dB) | 20m | Day | 2000-10,000 miles (multi-hop, DX) |
 | 1500W | Beam (10dB) | 20m | Day | Worldwide (6000-12,000+ miles) |
 
-## Ground Wave Propagation (MF/LF)
+## Ground Wave Prop
 
 **Frequencies**: 300 kHz - 3 MHz (MF, lower HF)
 **Mechanism**: Radio waves follow Earth's curvature, diffract over terrain. Less affected by ionosphere than skywave.
@@ -356,7 +359,7 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 - Large antennas required (160m quarter-wave = 130 feet)
 - Not practical for most emergency communications (VHF local, HF long-distance both superior)
 
-## Propagation Prediction Tools
+## PropPredTools
 
 ### Manual Methods
 
@@ -411,15 +414,15 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 
 **K-Index & A-Index** (Geomagnetic Activity):
 - **K-Index**: 0-9 scale, 3-hour intervals, measures geomagnetic disturbance
-  - K=0-1: Quiet (best HF propagation)
-  - K=2-3: Unsettled (good propagation)
-  - K=4-5: Active (degraded HF, auroral propagation on VHF high latitudes)
-  - K=6-9: Storm (HF disrupted or unusable, VHF aurora possible)
+- K=0-1: Quiet (best HF propagation)
+- K=2-3: Unsettled (good propagation)
+- K=4-5: Active (degraded HF, auroral propagation on VHF high latitudes)
+- K=6-9: Storm (HF disrupted or unusable, VHF aurora possible)
 - **A-Index**: 0-400, daily average geomagnetic activity
-  - A <10: Quiet
-  - A 10-30: Unsettled
-  - A 30-100: Storm (HF propagation degraded)
-  - A >100: Severe storm (HF blackout possible)
+- A <10: Quiet
+- A 10-30: Unsettled
+- A 30-100: Storm (HF propagation degraded)
+- A >100: Severe storm (HF blackout possible)
 
 **Practical Use**:
 - **Before Planning HF Contact**: Check SSN (determines MUF), K-index (stability). 
@@ -458,8 +461,9 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 
 **Digital Modes**: FT8, JS8Call, PSK31 use error correction and narrow bandwidth (less affected by selective fading).
 
-## Antenna Height vs Range Table (VHF/UHF)
+## Antenna Height vs Rang
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Antenna Height (Feet) | Radio Horizon (Miles) | Typical Range to Similar Height |
 |-----------------------|----------------------|-------------------------------|
 | **5** (handheld, ground level) | 2.6 | 5 miles (5 ft to 5 ft) |
@@ -476,7 +480,7 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 - **Handheld-to-rooftop repeater** (5 feet to 100 feet): 2.6 + 11.7 = 14.3 miles
 - **Rooftop-to-mountaintop** (40 feet to 1000 feet): 7.4 + 37.0 = 44.4 miles
 
-## Propagation for Emergency Communications
+## Propag Emerg Comm
 
 ### Frequency Plan by Scenario
 
@@ -508,9 +512,9 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 
 **Primary Frequency** + **2 Backups**:
 - **Example (daytime, regional)**:
-  - Primary: 40m (7.200 MHz, NVIS, 100-300 miles)
-  - Backup 1: 80m (3.850 MHz, more reliable if D-layer absorption high)
-  - Backup 2: 2m VHF simplex (146.520 MHz, direct if stations within 20 miles)
+- Primary: 40m (7.200 MHz, NVIS, 100-300 miles)
+- Backup 1: 80m (3.850 MHz, more reliable if D-layer absorption high)
+- Backup 2: 2m VHF simplex (146.520 MHz, direct if stations within 20 miles)
 
 **Propagation Schedule**:
 - **0600-0900** (dawn): 40m, 20m (gray-line propagation)
@@ -528,11 +532,11 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 **Weekly Propagation Check**:
 1. **Select band** based on time of day (20m daytime, 40m nighttime)
 2. **Monitor beacons**: WWV/WWVH (2.5, 5, 10, 15, 20, 25 MHz time signals)
-   - If you can hear WWV on 10 MHz, 20m and 30m are open
-   - If you can only hear WWV on 2.5 MHz or 5 MHz, use 40m/80m
+- If you can hear WWV on 10 MHz, 20m and 30m are open
+- If you can only hear WWV on 2.5 MHz or 5 MHz, use 40m/80m
 3. **Check FT8**: Tune to FT8 frequency (e.g., 14.074 MHz), monitor for 5 minutes
-   - Note which stations decoded (distance, direction)
-   - If decoding stations 1000+ miles away, band is open for long-distance
+- Note which stations decoded (distance, direction)
+- If decoding stations 1000+ miles away, band is open for long-distance
 4. **Make voice contact**: Call CQ or respond to CQ, confirm band usability
 5. **Log results**: Date, time, band, stations contacted/heard, signal reports
 
@@ -542,7 +546,7 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 - Note which bands work, signal strength
 - Adjust frequency plan based on results
 
-## Common Propagation Mistakes
+## Common Errors
 
 - ❌ **Using 20m at night**: Band is dead (no F2 propagation), waste of time
 - ✓ **Use 20m during daytime** (0900-1700 local), **40m/80m at night**

@@ -7,6 +7,7 @@
 
 ## Priority Hazard Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
 |--------|----------|-----------|--------|----------------------|-----------|
 | Hypothermia/cold | EXTREME | Daily (winter) | Dec-Feb | Moderate | l1-cold-weather-survival.md |
@@ -20,7 +21,7 @@
 
 ---
 
-## 1. HYPOTHERMIA & EXTREME COLD
+## Hypothermia
 
 ### Temperature Reality
 **Midwest Cold Facts:**
@@ -31,6 +32,7 @@
 
 ### Wind Chill Chart (Frostbite Timeline)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Temperature | 5 mph wind | 15 mph wind | 25 mph wind | 35 mph wind |
 |-------------|------------|-------------|-------------|-------------|
 | 10°F | 7°F | -2°F | -6°F | -9°F |
@@ -206,6 +208,7 @@
 
 ### Enhanced Fujita Scale (Damage-Based)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Rating | Wind Speed | Damage Description | Survival Without Shelter | Frequency |
 |--------|------------|-------------------|-------------------------|-----------|
 | EF0 | 65-85 mph | Branches broken, shallow-rooted trees pushed over | High | 53% |
@@ -257,25 +260,25 @@
 #### Best Shelter Locations (Ranked)
 
 1. **Underground storm cellar/basement:**
-   - Southwest corner (traditional, based on tornado approach direction)
-   - Under heavy furniture/workbench (protection from collapsing floor above)
-   - Away from windows
+- Southwest corner (traditional, based on tornado approach direction)
+- Under heavy furniture/workbench (protection from collapsing floor above)
+- Away from windows
 
 2. **Interior bathroom (ground floor):**
-   - Small room (structure)
-   - Plumbing adds support
-   - Get in bathtub, cover with mattress
+- Small room (structure)
+- Plumbing adds support
+- Get in bathtub, cover with mattress
 
 3. **Interior hallway/closet (ground floor):**
-   - No windows
-   - Center of building
-   - Away from exterior walls
-   - Crouch low, protect head/neck
+- No windows
+- Center of building
+- Away from exterior walls
+- Crouch low, protect head/neck
 
 4. **Ditch/ravine (if caught outside):**
-   - Lie flat, face down
-   - Hands over head/neck
-   - NOT under highway overpass (wind tunnel effect, deadly)
+- Lie flat, face down
+- Hands over head/neck
+- NOT under highway overpass (wind tunnel effect, deadly)
 
 #### What NOT to Do
 - ❌ **Open windows** (myth - doesn't reduce damage, wastes critical seconds)
@@ -317,7 +320,7 @@
 
 ---
 
-## 3. BLIZZARDS & WHITEOUT
+## Blizzards
 
 ### Blizzard Definition (National Weather Service)
 **ALL THREE conditions for 3+ hours:**
@@ -423,7 +426,7 @@
 
 ---
 
-## 4. FLASH FLOODS (Spring/Summer)
+## Flash Floods
 
 ### Midwest Flash Flood Risk
 **Primary Causes:**
@@ -486,11 +489,11 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 
 ---
 
-## 5. LYME DISEASE & TICK-BORNE ILLNESSES
+## LYME & TICK
 
 ### Tick Species & Diseases
 
-#### Blacklegged Tick (Deer Tick) - *Ixodes scapularis*
+#### Blacklegged Tick (Deer Tick) - Ixodes scapularis
 **Diseases Carried:**
 - **Lyme disease** (most common)
 - Anaplasmosis
@@ -501,7 +504,7 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 **Size:** Tiny (poppy seed size before feeding, sesame seed after)  
 **Peak Season:** May-July (nymphs), October-November (adults)
 
-#### American Dog Tick - *Dermacentor variabilis*
+#### American Dog Tick - Dermacentor variabilis
 **Diseases Carried:**
 - **Rocky Mountain Spotted Fever (RMSF)**
 - Tularemia
@@ -510,7 +513,7 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 **Size:** Larger (apple seed size)  
 **Peak Season:** April-September
 
-#### Lone Star Tick - *Amblyomma americanum*
+#### Lone Star Tick - Amblyomma americanum
 **Diseases Carried:**
 - **Alpha-gal syndrome** (red meat allergy)
 - Ehrlichiosis
@@ -524,7 +527,7 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 
 ### Lyme Disease Profile
 
-**Causative Agent:** *Borrelia burgdorferi* bacteria  
+**Causative Agent:** Borrelia burgdorferi bacteria  
 **Vector:** Blacklegged tick (deer tick)  
 **Transmission Time:** 36-48 hours of attachment (early removal = low risk)
 
@@ -532,9 +535,9 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 
 **Stage 1: Early Localized (3-30 days post-bite)**
 - **Erythema migrans (EM) rash:** "Bull's-eye" pattern (70-80% of cases)
-  - Expands over days (3-12 inches diameter)
-  - Not itchy or painful
-  - Warm to touch
+- Expands over days (3-12 inches diameter)
+- Not itchy or painful
+- Warm to touch
 - Flu-like symptoms: Fever, chills, headache, fatigue, muscle aches
 - **Treatment:** Antibiotics (doxycycline 100mg 2x/day for 14-21 days) = CURE if caught early
 
@@ -611,11 +614,11 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 
 ---
 
-## 6. VENOMOUS SNAKES (Limited Threat)
+## Venomous Snakes
 
 ### Midwest Venomous Species (Only 2, Rare)
 
-#### Timber Rattlesnake (*Crotalus horridus*)
+#### Timber Rattlesnake (Crotalus horridus)
 **Range:** Southern Midwest (MO, IA, IL, IN, OH, WI - southern portions only)  
 **Habitat:** Rocky bluffs, wooded hillsides, talus slopes  
 **Size:** 3-5 feet, heavy-bodied  
@@ -626,7 +629,7 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 
 **Lethality:** Low with medical care (<1% fatal), but serious envenomation
 
-#### Massasauga Rattlesnake (*Sistrurus catenatus*)
+#### Massasauga Rattlesnake (Sistrurus catenatus)
 **Range:** Great Lakes region (MI, OH, WI, northern IL, IN)  
 **Habitat:** Wetlands, marshy areas, prairies  
 **Size:** 18-30 inches (small)  
@@ -693,10 +696,11 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 
 ---
 
-## Regional Hazard Summary
+## Regional Hazard Summ
 
 ### Monthly Hazard Calendar
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Month | Primary Threats | Secondary Threats | Activity Guidance |
 |-------|----------------|-------------------|-------------------|
 | Jan | Extreme cold, blizzards | Ice storms, wind chill | Highest danger month, stay indoors |

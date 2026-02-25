@@ -60,10 +60,11 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Temperature Requirements
+## Temp Req
 
 ### Storage Categories
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Category | Temperature Range | Examples | Notes |
 |----------|------------------|----------|-------|
 | **Room Temperature (Controlled)** | 68-77°F (20-25°C) | Most oral medications, topicals | "Store at room temperature" default |
@@ -155,10 +156,11 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Light-Sensitive Medications
+## Light-Sens Meds
 
 ### High-Risk Light-Sensitive Drugs
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Medication | Degradation Risk | Storage Requirement | Signs of Degradation |
 |------------|-----------------|---------------------|---------------------|
 | **Nitroglycerin** | Extreme | Amber glass bottle, dark place | Loss of potency (hard to detect) |
@@ -227,7 +229,7 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Expiration Dates: Labeled vs. True Shelf Life
+## Expiry Dates
 
 ### FDA Shelf Life Extension Program (SLEP) Findings
 
@@ -243,6 +245,7 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 **STABLE (Often 5-15+ years past expiration if stored properly):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Medication | Typical Extension | Notes |
 |------------|------------------|-------|
 | **Ciprofloxacin (antibiotic)** | 10+ years | Tablets, stored cool/dry |
@@ -264,6 +267,7 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 **UNSTABLE (Use labeled expiration, don't extend):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Medication | Reason | Risk of Use if Expired |
 |------------|---------|------------------------|
 | **Tetracycline antibiotics** | Degrades to toxic compounds | Fanconi syndrome (kidney damage) |
@@ -285,6 +289,7 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 **Decision matrix:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Observation | Assessment | Action |
 |-------------|------------|--------|
 | Looks/smells normal, <5 years past exp | Likely 90%+ potency | Safe to use (dose as labeled) |
@@ -301,7 +306,7 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Refrigeration Alternatives (When No Electricity)
+## Refrigeration Alternat
 
 ### Critical Medications Requiring Cold Chain
 
@@ -512,40 +517,40 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Storage Location Strategies
+## Strategies
 
 ### Best Storage Locations (Home/BOL)
 
 1. **Cool, dark closet or drawer** (bedroom, not bathroom)
-   - Away from windows
-   - Not near heat sources (radiators, water heaters)
-   - Low humidity
+- Away from windows
+- Not near heat sources (radiators, water heaters)
+- Low humidity
 
 2. **Root cellar or basement** (if dry)
-   - Stable temperature year-round
-   - Naturally cool
+- Stable temperature year-round
+- Naturally cool
 
 3. **Interior closet** (insulated from exterior temperature)
-   - Central location in building
-   - Away from exterior walls
+- Central location in building
+- Away from exterior walls
 
 ### Worst Storage Locations
 
 1. **Bathroom medicine cabinet** (worst possible location)
-   - High humidity (showers)
-   - Temperature fluctuations (hot water use)
+- High humidity (showers)
+- Temperature fluctuations (hot water use)
 
 2. **Kitchen** (near stove/oven)
-   - Heat exposure
-   - Humidity (cooking, dishwasher)
+- Heat exposure
+- Humidity (cooking, dishwasher)
 
 3. **Car/garage**
-   - Extreme temperature fluctuations (0-140°F possible)
-   - Direct sunlight
+- Extreme temperature fluctuations (0-140°F possible)
+- Direct sunlight
 
 4. **Window sills**
-   - Direct sunlight (UV degradation)
-   - Temperature fluctuations
+- Direct sunlight (UV degradation)
+- Temperature fluctuations
 
 ### Field/Bug-Out Storage
 
@@ -565,7 +570,7 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Medication Rotation and Inventory
+## Med Rotate & Inv
 
 ### Stock Rotation System
 
@@ -600,10 +605,11 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Signs of Medication Degradation
+## Med Deg
 
 ### Visual/Sensory Checks
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Sign | Interpretation | Action |
 |------|---------------|--------|
 | **Vinegar smell** | Aspirin degradation | DISCARD |
@@ -628,19 +634,18 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Storing in bathroom medicine cabinet | Bedroom drawer or interior closet (cool, dry, dark) |
-| Removing cotton from bottles | Keep cotton if in dry climate (protects from rattling), remove in humid climates (traps moisture) |
-| Discarding all expired medications | Assess: Solid tablets stored properly often effective 5+ years past expiration |
-| Using expired tetracyclines | NEVER use expired tetracyclines (toxic degradation products) |
-| Transferring to clear organizer | Keep light-sensitive meds in original opaque bottles |
-| Refrigerating medications that say "store at room temp" | Follow label (some meds harmed by cold) |
-| Freezing insulin | NEVER freeze insulin (destroys efficacy) |
-| Leaving EpiPens in hot car | Keep at room temp or cooler (heat degrades epinephrine rapidly) |
-| Opening bottles frequently in humid environment | Use blister packs or bottle with desiccant; minimize opening frequency |
+**❌ Mistake:** ✓ Correct
+**Storing in bathroom medicine cabinet:** Bedroom drawer or interior closet (cool, dry, dark)
+**Removing cotton from bottles:** Keep cotton if in dry climate (protects from rattling), remove in humid climates (traps moisture)
+**Discarding all expired medications:** Assess: Solid tablets stored properly often effective 5+ years past expiration
+**Using expired tetracyclines:** NEVER use expired tetracyclines (toxic degradation products)
+**Transferring to clear organizer:** Keep light-sensitive meds in original opaque bottles
+**Refrigerating medications that say "store at room temp":** Follow label (some meds harmed by cold)
+**Freezing insulin:** NEVER freeze insulin (destroys efficacy)
+**Leaving EpiPens in hot car:** Keep at room temp or cooler (heat degrades epinephrine rapidly)
+**Opening bottles frequently in humid environment:** Use blister packs or bottle with desiccant; minimize opening frequency
 
 ---
 
@@ -678,18 +683,18 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 **Waterproof container breach:**
 1. Inspect each medication:
-   - Tablets in blister packs: Check for moisture inside bubble
-   - Bottles: Check for water inside, tablet integrity
+- Tablets in blister packs: Check for moisture inside bubble
+- Bottles: Check for water inside, tablet integrity
 2. Discard:
-   - Wet tablets (unpredictable absorption)
-   - Bottles with water contamination
+- Wet tablets (unpredictable absorption)
+- Bottles with water contamination
 3. Salvage:
-   - Unopened blister packs (even if outer box wet)
-   - Bottles with intact seals
+- Unopened blister packs (even if outer box wet)
+- Bottles with intact seals
 
 ---
 
-## When to Seek Medical Guidance
+## Seek Medical
 
 **Seek professional advice when:**
 - Patient has critical medication needs (insulin, seizure meds, cardiac drugs) and supply compromised

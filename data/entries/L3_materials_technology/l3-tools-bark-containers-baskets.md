@@ -86,7 +86,7 @@ Modern people think "container = pottery, metal, or plastic." They forget that *
 - **Cool, damp place:** Prevents drying and cracking
 - **Use within weeks:** Fresh bark most flexible (can be re-softened later)
 
-## Construction Techniques
+## Construction Tech
 
 ### 1. Folded Bark Container (Fastest)
 **Build time:** 15-30 minutes  
@@ -185,7 +185,7 @@ Modern people think "container = pottery, metal, or plastic." They forget that *
 - **Teaching tool:** Demonstrates natural materials engineering
 - **Historical connection:** Same techniques used 10,000 years
 
-## Advantages Over Other Containers
+## Advantages
 
 ### Vs. Pottery
 1. **Weight:** 1/10th the weight (4 oz vs 2-5 lbs)
@@ -285,12 +285,12 @@ Modern people think "container = pottery, metal, or plastic." They forget that *
 - Rolling bark (inner side out)
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Adney, E. T. & Chapelle, H. I. (1964).** *The Bark Canoes and Skin Boats of North America*. - Comprehensive birch bark construction
-- **Mason, B. S. (1974).** *The Book of Indian Crafts and Costumes*. - Traditional bark container techniques
-- **Densmore, F. (1929).** *Chippewa Customs*. - Detailed birch bark harvesting and use
-- **Turner, N. J. & Szczawinski, A. F. (1988).** *Edible Wild Fruits and Nuts of Canada*. - Includes traditional container-making for foraging
+- **Adney, E. T. & Chapelle, H. I. (1964).** The Bark Canoes and Skin Boats of North America. - Comprehensive birch bark construction
+- **Mason, B. S. (1974).** The Book of Indian Crafts and Costumes. - Traditional bark container techniques
+- **Densmore, F. (1929).** Chippewa Customs. - Detailed birch bark harvesting and use
+- **Turner, N. J. & Szczawinski, A. F. (1988).** Edible Wild Fruits and Nuts of Canada. - Includes traditional container-making for foraging
 - **Experimental archaeology:** Modern recreations show 10-30 year lifespan for birch bark containers (with maintenance)
 
 ## Final Notes

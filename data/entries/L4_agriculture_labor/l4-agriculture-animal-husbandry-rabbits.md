@@ -1,4 +1,4 @@
-# Animal Husbandry: Rabbits - L4 Agriculture
+# Rabbit Husb
 
 **Priority: HIGH** | **Difficulty: Easy-Medium** | **Impact: Most efficient meat per lb feed**
 
@@ -35,10 +35,11 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 - 2 does = 300-400 lbs meat/year (feeds 2-3 people)
 - **From 20 sq ft of hutch space**
 
-## Breeds: Choose Your Purpose
+## Choose Your Breed
 
 ### Meat Breeds (Best for Homestead)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Breed | Mature Weight | Growth Rate | Litter Size | Temperament | Notes |
 |-------|--------------|-------------|-------------|-------------|-------|
 | **New Zealand White** | 9-12 lbs | Fast (8-10 weeks to 5 lbs) | 8-10 kits | Calm | Industry standard, proven |
@@ -51,6 +52,7 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 ### Dual-Purpose (Meat + Fur/Fiber)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Breed | Mature Weight | Specialty | Notes |
 |-------|--------------|-----------|-------|
 | **Rex** | 8-10 lbs | Velvet fur (pelts) | Plush coat, good meat |
@@ -114,12 +116,12 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 **Ideal Setup:**
 - **Shade:** Critical (rabbits overheat easily)
-  - >85°F = heat stress (provide frozen water bottles, fans, misters)
+- >85°F = heat stress (provide frozen water bottles, fans, misters)
 - **Protection from elements:** Rain, wind, direct sun
-  - Covered roof (barn, shed, or tarps)
+- Covered roof (barn, shed, or tarps)
 - **Ventilation:** Good airflow (prevent respiratory disease)
 - **Predator protection:** Secure from dogs, raccoons, weasels, hawks
-  - Wire floors + secure latches
+- Wire floors + secure latches
 
 **Temperature Range:**
 - **Ideal:** 50-70°F
@@ -133,6 +135,7 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 **Type:** Rabbit pellets (16-18% protein)
 
 **Amount:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Rabbit Type | Age/Stage | Feed/Day |
 |-------------|-----------|----------|
 | **Bucks** (maintenance) | Adult | 4-6 oz (1/2 cup) |
@@ -275,7 +278,7 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 **Culling/Fostering:**
 - **If >10 kits:** Foster excess to another doe (same kindling date ±3 days)
-  - Rub kits with foster doe's fur (mask scent)
+- Rub kits with foster doe's fur (mask scent)
 - **If <6 kits:** Fine (more milk per kit, faster growth)
 
 **Doe Feeding:**
@@ -309,6 +312,7 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 ### Timeline
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Age (Weeks) | Weight | Status | Action |
 |-------------|--------|--------|--------|
 | 0 | 2-3 oz | Newborn | In nest |
@@ -345,7 +349,7 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 **This is exponential food production.**
 
-## Processing (Butchering)
+## Processing
 
 **⚠️ Graphic Content**
 
@@ -360,14 +364,14 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 ### Process (Overview)
 
 1. **Dispatch:** Sharp blow to base of skull or cervical dislocation
-   - Instant, humane
+- Instant, humane
 2. **Bleed:** Hang by hind legs, cut jugular (1-2 minutes)
 3. **Skin:** 
-   - Cut around hind legs, peel skin like removing sock
-   - Skin comes off in one piece
+- Cut around hind legs, peel skin like removing sock
+- Skin comes off in one piece
 4. **Eviscerate:** 
-   - Cut from pelvis to sternum (don't puncture intestines)
-   - Remove organs (save heart, liver, kidneys if desired)
+- Cut from pelvis to sternum (don't puncture intestines)
+- Remove organs (save heart, liver, kidneys if desired)
 5. **Rinse:** Cold water
 6. **Chill:** Refrigerate 24 hours (improves tenderness)
 7. **Package:** Freeze or cook fresh
@@ -395,6 +399,7 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 ### Common Problems
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Issue | Symptoms | Cause | Treatment |
 |-------|----------|-------|-----------|
 | **GI Stasis** | Not eating, no droppings | Low fiber, stress, dehydration | Hay, water, belly massage (vet if severe) |
@@ -432,7 +437,7 @@ Unlike chickens (Marek's) or goats (CDT), rabbits don't require routine vaccinat
 
 **Output:** 1 rabbit = ~100 lbs manure/year
 
-## Why Rabbits Are Critical
+## Rabbits Critical
 
 **Survival Math:**
 - **Setup:** $200-400 (trio + cages + feeders/waterers)
@@ -460,16 +465,15 @@ Unlike chickens (Marek's) or goats (CDT), rabbits don't require routine vaccinat
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| No shade (heat stress kills) | Full shade in summer, >85°F = cooling measures |
-| Breeding buck to multiple does same day | 1-2 breedings/day max (sperm depletion) |
-| Taking buck to doe's cage (fighting) | Always take doe to buck |
-| No nest box (kits freeze) | Provide day 28 (does line with fur) |
-| Handling kits excessively (doe rejects) | Brief check, minimal handling first week |
-| Dirty cages (ammonia, disease) | Clean weekly, good ventilation |
-| Moldy hay (enterotoxemia kills) | Inspect hay, discard any mold |
-| Overbreeding does (burnout) | Moderate schedule, cull poor producers |
+**❌ Wrong:** ✓ Right
+**No shade (heat stress kills):** Full shade in summer, >85°F = cooling measures
+**Breeding buck to multiple does same day:** 1-2 breedings/day max (sperm depletion)
+**Taking buck to doe's cage (fighting):** Always take doe to buck
+**No nest box (kits freeze):** Provide day 28 (does line with fur)
+**Handling kits excessively (doe rejects):** Brief check, minimal handling first week
+**Dirty cages (ammonia, disease):** Clean weekly, good ventilation
+**Moldy hay (enterotoxemia kills):** Inspect hay, discard any mold
+**Overbreeding does (burnout):** Moderate schedule, cull poor producers
 
 ## Cross-References
 - **[l4-agriculture-animal-husbandry-chickens.md]** - Complementary livestock

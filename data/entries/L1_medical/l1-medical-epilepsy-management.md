@@ -6,13 +6,13 @@ tags: ["epilepsy", "seizure", "status-epilepticus", "convulsion", "anticonvulsan
 confidence: "high"
 region: "global"
 sources:
-  - "epilepsy-foundation-guidelines"
-  - "aan-seizure-management"
-  - "emergency-neurology-protocols"
+- "epilepsy-foundation-guidelines"
+- "aan-seizure-management"
+- "emergency-neurology-protocols"
 related:
-  - "l1-medical-stroke-recognition"
-  - "l1-medical-cpr-basics"
-  - "l1-medical-medication-dosing-table"
+- "l1-medical-stroke-recognition"
+- "l1-medical-cpr-basics"
+- "l1-medical-medication-dosing-table"
 ---
 
 # Epilepsy & Seizure Management
@@ -25,32 +25,32 @@ related:
 
 ---
 
-## Seizure First Aid (Most Important!)
+## Seizure First Aid
 
 **During seizure:**
 1. **Protect from injury:**
-   - Move away from furniture, stairs, water
-   - Put something soft under head (jacket, pillow)
-   - DO NOT restrain movements (can cause injury)
+- Move away from furniture, stairs, water
+- Put something soft under head (jacket, pillow)
+- DO NOT restrain movements (can cause injury)
    
 2. **Turn on side** (recovery position):
-   - Prevents aspiration of saliva/vomit
-   - Keeps airway open
+- Prevents aspiration of saliva/vomit
+- Keeps airway open
    
 3. **Time the seizure:**
-   - Start timing when convulsions begin
-   - If >5 minutes = status epilepticus (call 911)
+- Start timing when convulsions begin
+- If >5 minutes = status epilepticus (call 911)
    
 4. **DO NOT:**
-   - Put objects in mouth (can break teeth, cause choking)
-   - Hold down or restrain (can cause fractures, dislocations)
-   - Give food/water (aspiration risk)
+- Put objects in mouth (can break teeth, cause choking)
+- Hold down or restrain (can cause fractures, dislocations)
+- Give food/water (aspiration risk)
    
 5. **After seizure ends:**
-   - Keep on side (recovery position)
-   - Check breathing (may be slow/shallow initially)
-   - Stay with person until fully alert (10-30 min)
-   - Reassure (confusion normal after seizure)
+- Keep on side (recovery position)
+- Check breathing (may be slow/shallow initially)
+- Stay with person until fully alert (10-30 min)
+- Reassure (confusion normal after seizure)
 
 ---
 
@@ -82,7 +82,7 @@ related:
 
 ---
 
-## Status Epilepticus (Emergency!)
+## Status Epilepticus
 
 **Definition:** Seizure lasting >5 minutes OR multiple seizures without regaining consciousness
 
@@ -96,9 +96,9 @@ related:
 1. **Call for help immediately** (>5 min = emergency)
 2. **Protect airway:** Recovery position, clear vomit
 3. **Rescue medications** (if available):
-   - Diazepam rectal gel: 0.2-0.5mg/kg (10-20mg adult)
-   - Midazolam IM/intranasal: 5-10mg adult
-   - Lorazepam IM: 4mg adult
+- Diazepam rectal gel: 0.2-0.5mg/kg (10-20mg adult)
+- Midazolam IM/intranasal: 5-10mg adult
+- Lorazepam IM: 4mg adult
 4. **Oxygen** if available (hypoxia common)
 5. **EVACUATE URGENTLY** (even if seizure stops, risk of recurrence)
 
@@ -108,6 +108,7 @@ related:
 
 **Common anti-epileptic drugs (AEDs):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Medication | Typical Dose | Notes |
 |------------|--------------|-------|
 | **Phenytoin (Dilantin)** | 300-400mg/day | Requires consistent blood levels |
@@ -130,7 +131,7 @@ related:
 
 ---
 
-## Postictal State (After Seizure)
+## Postictal
 
 **Normal post-seizure symptoms (resolve in 10-30 min):**
 - Confusion, disorientation

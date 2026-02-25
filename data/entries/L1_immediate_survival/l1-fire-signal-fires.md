@@ -96,7 +96,7 @@ Signal fires are the most visible long-range rescue signal — visible up to 20 
 - Target: 50-100 ft smoke column
 - Duration: Maintain 30-60 minutes minimum
 
-## Site Selection Criteria
+## Site Sel
 
 **Ideal locations:**
 ✓ Ridgetops/hilltops  
@@ -111,7 +111,7 @@ Signal fires are the most visible long-range rescue signal — visible up to 20 
 ✗ Adjacent to dense brush  
 ✗ High wildfire risk areas
 
-## Aircraft Response Signals
+## Aircraft Response
 
 **Rescue confirmation (aircraft will):**
 - Dip wings side-to-side

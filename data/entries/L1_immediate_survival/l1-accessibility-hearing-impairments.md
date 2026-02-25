@@ -21,18 +21,17 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 - Regional variations exist
 
 **Basic Survival Signs (Simplified):**
-| Concept | Sign Description |
-|---------|------------------|
-| Help | Fist on open palm, lift upward |
-| Danger | Palm forward, shake side-to-side |
-| Stop | Open palm, push forward |
-| Water | Three fingers tap chin (W-shape) |
-| Food | Fingertips tap lips |
-| Fire | Wiggling fingers rise upward (flames) |
-| Shelter | Hands form roof shape |
-| Yes | Fist nods forward |
-| No | Index and middle finger snap closed |
-| Understand | Index finger taps forehead |
+**Concept:** Sign Description
+**Help:** Fist on open palm, lift upward
+**Danger:** Palm forward, shake side-to-side
+**Stop:** Open palm, push forward
+**Water:** Three fingers tap chin (W-shape)
+**Food:** Fingertips tap lips
+**Fire:** Wiggling fingers rise upward (flames)
+**Shelter:** Hands form roof shape
+**Yes:** Fist nods forward
+**No:** Index and middle finger snap closed
+**Understand:** Index finger taps forehead
 
 **Teaching Hearing Members:**
 - Focus on 20-30 essential signs (survival vocabulary)
@@ -58,10 +57,10 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 - Pre-write common phrases on index cards
 - Clip cards to belt/pack for fast access
 - Examples:
-  - "Follow me"
-  - "Danger ahead"
-  - "Need help"
-  - "Stay here"
+- "Follow me"
+- "Danger ahead"
+- "Need help"
+- "Stay here"
 
 ### Lip Reading
 
@@ -124,13 +123,11 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 - Flame itself (place where visible from sleeping area)
 
 **Color-Coded Flag System:**
-| Color | Meaning |
-|-------|---------|
-| Red | Danger/Emergency |
-| Yellow | Caution/Alert |
-| Green | All clear/Safe |
-| Blue | Help needed (non-emergency) |
-| Orange | Assembly/meeting called |
+**Red:** Danger/Emergency
+**Yellow:** Caution/Alert
+**Green:** All clear/Safe
+**Blue:** Help needed (non-emergency)
+**Orange:** Assembly/meeting called
 
 **Flag Placement:**
 - Central location visible from all areas
@@ -143,10 +140,10 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 **Vibrating Alerts:**
 - Watches/devices with vibration
 - Pulse patterns for different alerts:
-  - Single pulse = Attention needed
-  - Double pulse = Come to central location
-  - Triple pulse = Emergency
-  - Continuous vibration = Evacuate
+- Single pulse = Attention needed
+- Double pulse = Come to central location
+- Triple pulse = Emergency
+- Continuous vibration = Evacuate
 
 **DIY Vibration Systems:**
 - Rope tied to sleeping person, tugged by watcher
@@ -166,16 +163,14 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 - Fire brightness increased (add fuel suddenly)
 
 **Strobe Patterns:**
-| Pattern | Meaning |
-|---------|---------|
-| Slow flash (1/sec) | Attention required |
-| Fast flash (3/sec) | Emergency |
-| Three short, three long, three short | SOS (international distress) |
-| Continuous | All clear / Normal operation |
+**Slow flash (1/sec):** Attention required
+**Fast flash (3/sec):** Emergency
+**Three short, three long, three short:** SOS (international distress)
+**Continuous:** All clear / Normal operation
 
 ---
 
-## Navigation & Orientation
+## Nav/Orient
 
 ### Visual Landmarks
 
@@ -228,7 +223,7 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 
 ---
 
-## Group Communication Protocols
+## Group Comms
 
 ### Face-to-Face Interaction
 
@@ -291,7 +286,7 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 
 ---
 
-## Radio & Distance Communication
+## Radio
 
 ### Text-Based Systems
 
@@ -322,18 +317,16 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 - Repeat every 30-60 seconds
 
 **Essential Morse Alphabet:**
-| Letter | Code |
-|--------|------|
-| A | ·− |
-| B | −··· |
-| C | −·−· |
-| D | −·· |
-| E | · |
-| H | ···· |
-| I | ·· |
-| O | −−− |
-| S | ··· |
-| U | ··− |
+**A:** ·−
+**B:** −···
+**C:** −·−·
+**D:** −··
+**E:** ·
+**H:** ····
+**I:** ··
+**O:** −−−
+**S:** ···
+**U:** ··−
 
 **Quick-Learn Set (7 critical letters for "HELP" "SOS" "OK"):**
 - H (····), E (·), L (·−··), P (·−−·), S (···), O (−−−), K (−·−)
@@ -354,7 +347,7 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 
 ---
 
-## Safety: Visual Cues for Danger
+## Safety: Visual Dangers
 
 ### Hazard Marking
 
@@ -377,14 +370,12 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 - Bright clothing laid out in "X" pattern (visible from air)
 
 **Ground-to-Air Signals:**
-| Symbol | Meaning |
-|--------|---------|
-| X | Unable to proceed |
-| ↑ (arrow) | Proceeding in this direction |
-| II (double line) | Need medical assistance |
-| F | Need food and water |
-| □ (square) | Need map and compass |
-| V | Require assistance |
+**X:** Unable to proceed
+**↑ (arrow):** Proceeding in this direction
+**II (double line):** Need medical assistance
+**F:** Need food and water
+**□ (square):** Need map and compass
+**V:** Require assistance
 
 **Create Signals:**
 - Use logs, rocks, clothing
@@ -407,7 +398,7 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 
 ---
 
-## Daily Living Adaptations
+## Daily Adaptations
 
 ### Morning Wake-Up
 
@@ -630,15 +621,14 @@ Hearing loss ranges from partial (hard of hearing) to complete (Deaf). Survival 
 
 ### Improvised Alternatives
 
-| Need | Improvised Solution |
-|------|---------------------|
-| Notepad | Smooth bark, flat rocks, sand tray |
-| Pencil | Charcoal stick, chalk |
-| Visual alarm | Flag on string (manual raise/lower), mirror reflection |
-| Vibration alert | Rope tied to sleeper, tugged by watcher |
-| Reflective marker | Aluminum foil, emergency blanket strips |
-| Flashlight | Fire brand, torch |
-| Flag | Bright clothing on stick |
+**Need:** Improvised Solution
+**Notepad:** Smooth bark, flat rocks, sand tray
+**Pencil:** Charcoal stick, chalk
+**Visual alarm:** Flag on string (manual raise/lower), mirror reflection
+**Vibration alert:** Rope tied to sleeper, tugged by watcher
+**Reflective marker:** Aluminum foil, emergency blanket strips
+**Flashlight:** Fire brand, torch
+**Flag:** Bright clothing on stick
 
 ---
 

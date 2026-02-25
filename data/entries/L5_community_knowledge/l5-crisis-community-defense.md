@@ -50,6 +50,6 @@ steps:
   Offer tribute (pay off attackers) or alliance (join larger group). (3) PREEMPTIVE RETREAT: If overwhelmed force approaches, evacuate before siege begins. Territory is not worth dying for.'
 ---
 
-# Community Defense & Perimeter Security
+# Community Defense
 
 Long-term survival in lawless conditions requires organized defense. Small groups (under 10 people) use concealment and evasion. Larger communities (50+ people) can defend territory. Priorities: early warning, hardened perimeter, armed guards, discipline. Based on military small-unit tactics.

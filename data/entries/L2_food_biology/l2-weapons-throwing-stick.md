@@ -53,33 +53,33 @@ Modern people think "stick thrown at animal = primitive desperation." Dead wrong
 ### Build Instructions
 
 1. **Select branch:**
-   - Natural curve (slight banana shape)
-   - 18-24" long, 1.5-2" diameter
-   - No knots, cracks, or weak points
+- Natural curve (slight banana shape)
+- 18-24" long, 1.5-2" diameter
+- No knots, cracks, or weak points
 
 2. **Remove bark:**
-   - Strip bark with knife
-   - Sand or scrape smooth
+- Strip bark with knife
+- Sand or scrape smooth
 
 3. **Shape cross-section:**
-   - Carve one side FLAT (this is the "blade" side)
-   - Keep other side rounded
-   - Edges should be rounded (not sharp - prevents splitting)
+- Carve one side FLAT (this is the "blade" side)
+- Keep other side rounded
+- Edges should be rounded (not sharp - prevents splitting)
 
 4. **Weight distribution:**
-   - Thicker/heavier at ONE end (this end leads in flight)
-   - Grip end is lighter (easier to accelerate)
-   - Balance point should be 1/3 from grip end
+- Thicker/heavier at ONE end (this end leads in flight)
+- Grip end is lighter (easier to accelerate)
+- Balance point should be 1/3 from grip end
 
 5. **Final touches:**
-   - Sand smooth (splinters reduce aerodynamics)
-   - Optional: Char in fire for hardness
-   - Optional: Oil with animal fat (seals wood, prevents cracking)
+- Sand smooth (splinters reduce aerodynamics)
+- Optional: Char in fire for hardness
+- Optional: Oil with animal fat (seals wood, prevents cracking)
 
 6. **Test:**
-   - Should spin smoothly when thrown
-   - Flies flat (parallel to ground)
-   - Travels 40-60 yards with moderate effort
+- Should spin smoothly when thrown
+- Flies flat (parallel to ground)
+- Travels 40-60 yards with moderate effort
 
 ### Advanced: Adjusting Flight Characteristics
 
@@ -161,7 +161,7 @@ Modern people think "stick thrown at animal = primitive desperation." Dead wrong
 - **Goal:** Instinctive throwing, quick deployment
 - **Historical benchmark:** Aboriginal hunters achieved 70%+ hit rate on rabbits
 
-## Advantages Over Other Tools
+## Advantages
 
 ### Vs. Sling
 1. **Larger strike zone:** 18-24" rotating stick vs 2-4" stone
@@ -281,11 +281,11 @@ Modern people think "stick thrown at animal = primitive desperation." Dead wrong
 - Impact angles (leading edge, side edge)
 ```
 
-## Sources & Further Reading
+## Sources
 
 - **Hess, T. (1973).** "Aboriginal Use of the Throwing Stick in North America." - Archaeological survey of rabbit sticks
 - **Davidson, D. S. (1936).** "Australian Throwing-Sticks, Throwing-Clubs, and Boomerangs." - Comprehensive study of Aboriginal throwing weapons
-- **Jones, P. N. (1996).** *Boomerang: Behind an Australian Icon*. - Physics and history of Australian throwing sticks
+- **Jones, P. N. (1996).** Boomerang: Behind an Australian Icon. - Physics and history of Australian throwing sticks
 - **Experimental archaeology:** Modern recreations achieve 60+ yard range and 50%+ hit rates on small game
 - **Ethnographic accounts:** Aboriginal hunters documented hitting rabbits at 40-50 yards with 70% success
 

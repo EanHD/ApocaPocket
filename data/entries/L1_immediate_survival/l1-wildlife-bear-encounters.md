@@ -6,13 +6,13 @@ tags: ["bear", "wildlife", "safety", "bear-spray", "attack", "camping"]
 confidence: "high"
 region: "global"
 sources:
-  - "nps-bear-safety"
-  - "alaska-bear-safety-guide"
-  - "wildlife-attack-prevention-studies"
+- "nps-bear-safety"
+- "alaska-bear-safety-guide"
+- "wildlife-attack-prevention-studies"
 related:
-  - "l1-shelter-site-selection"
-  - "l2-food-preservation-general"
-  - "l1-strategy-common-fatal-mistakes"
+- "l1-shelter-site-selection"
+- "l2-food-preservation-general"
+- "l1-strategy-common-fatal-mistakes"
 ---
 
 # Bear Encounters & Safety
@@ -25,8 +25,9 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 
 ---
 
-## Bear Species Identification
+## Bear ID
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Black Bear | Grizzly Bear | Polar Bear |
 |---------|------------|--------------|------------|
 | **Size** | 200-600 lbs | 400-800 lbs | 900-1,600 lbs |
@@ -42,7 +43,7 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 
 ---
 
-## Prevention (90% of Bear Safety)
+## Prevent
 
 ### Food Storage
 
@@ -54,20 +55,20 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 **Storage methods:**
 
 1. **Bear canister** (best):
-   - Hard plastic/carbon fiber container (IGBC certified)
-   - Weight: 2-3 lbs empty
-   - Capacity: 3-5 days food for 1 person
-   - Place 100+ yards from camp, away from cliffs (bears may roll them)
+- Hard plastic/carbon fiber container (IGBC certified)
+- Weight: 2-3 lbs empty
+- Capacity: 3-5 days food for 1 person
+- Place 100+ yards from camp, away from cliffs (bears may roll them)
 
 2. **Bear hang** (traditional):
-   - Rope: 50+ feet paracord or climbing rope
-   - Height: 12+ feet off ground, 6+ feet from tree trunk, 4+ feet below branch
-   - Method: PCT (Pacific Crest Trail) hang or counterbalance
-   - **PROBLEM:** Grizzlies can climb, black bears EXCEL at climbing
+- Rope: 50+ feet paracord or climbing rope
+- Height: 12+ feet off ground, 6+ feet from tree trunk, 4+ feet below branch
+- Method: PCT (Pacific Crest Trail) hang or counterbalance
+- **PROBLEM:** Grizzlies can climb, black bears EXCEL at climbing
 
 3. **Bear lockers** (at campgrounds):
-   - Metal boxes provided at campsites
-   - Close and latch properly (bears can open unlatched boxes)
+- Metal boxes provided at campsites
+- Close and latch properly (bears can open unlatched boxes)
 
 **What to store:**
 - ALL food (including wrappers, crumbs)
@@ -130,32 +131,32 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 
 ---
 
-## Encounter Protocols (By Species)
+## Encounter Protocols
 
 ### Black Bear Encounter
 
 **If you see a black bear (not charging):**
 1. **Make yourself look large:**
-   - Stand tall, wave arms overhead
-   - Open jacket to appear bigger
-   - Stand on log/rock for extra height
+- Stand tall, wave arms overhead
+- Open jacket to appear bigger
+- Stand on log/rock for extra height
 2. **Make noise:**
-   - Yell "Hey bear!" in deep, firm voice
-   - Clap hands, bang pots
-   - Do NOT scream (high-pitched = prey)
+- Yell "Hey bear!" in deep, firm voice
+- Clap hands, bang pots
+- Do NOT scream (high-pitched = prey)
 3. **Back away slowly:**
-   - Face the bear (don't turn back)
-   - Sidestep (maintains visual contact)
-   - DO NOT run (triggers chase response - bears run 35mph)
+- Face the bear (don't turn back)
+- Sidestep (maintains visual contact)
+- DO NOT run (triggers chase response - bears run 35mph)
 4. **If bear approaches:**
-   - Stand ground, continue yelling
-   - Deploy bear spray at 30 feet
-   - Throw rocks/sticks near (not at) bear
+- Stand ground, continue yelling
+- Deploy bear spray at 30 feet
+- Throw rocks/sticks near (not at) bear
 5. **If bear makes contact:**
-   - **FIGHT BACK aggressively**
-   - Punch/kick face, nose, eyes
-   - Use rocks, sticks, trekking poles
-   - Scream loudly (may deter)
+- **FIGHT BACK aggressively**
+- Punch/kick face, nose, eyes
+- Use rocks, sticks, trekking poles
+- Scream loudly (may deter)
 
 **Black bears:**
 - Usually shy, avoid humans
@@ -173,15 +174,15 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 **If grizzly charges:**
 1. **Deploy bear spray at 40 feet** (grizzlies faster than black bears)
 2. **If spray fails and bear makes contact:**
-   - **PLAY DEAD immediately**
-   - Lie flat on stomach (harder to flip)
-   - Hands clasped behind neck (protects neck/head)
-   - Legs spread wide (harder to flip)
-   - Backpack on (protects back)
-   - **DO NOT MOVE until bear leaves + several minutes**
+- **PLAY DEAD immediately**
+- Lie flat on stomach (harder to flip)
+- Hands clasped behind neck (protects neck/head)
+- Legs spread wide (harder to flip)
+- Backpack on (protects back)
+- **DO NOT MOVE until bear leaves + several minutes**
 3. **If attack continues >5 minutes:**
-   - Bear may be treating you as prey (rare)
-   - **Switch to fighting back** (aim for face/eyes)
+- Bear may be treating you as prey (rare)
+- **Switch to fighting back** (aim for face/eyes)
 
 **Grizzly attacks are usually defensive:**
 - Surprised bear protecting cubs/food
@@ -195,18 +196,18 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 **If you see a polar bear:**
 1. **This is a predatory encounter** (not defensive)
 2. **Prepare to fight for your life:**
-   - Ready bear spray (deploy at 40+ feet)
-   - Flare gun if available
-   - Firearm if available (.308 Winchester minimum)
+- Ready bear spray (deploy at 40+ feet)
+- Flare gun if available
+- Firearm if available (.308 Winchester minimum)
 3. **Do NOT play dead** (polar bears WILL eat you)
 4. **Do NOT run** (triggers chase, you cannot outrun)
 5. **Fight aggressively:**
-   - Eyes, nose are vulnerable
-   - Scream, yell, make noise
-   - Use ANY weapon available
+- Eyes, nose are vulnerable
+- Scream, yell, make noise
+- Use ANY weapon available
 6. **Seek shelter immediately:**
-   - Building, vehicle, boat
-   - Polar bears can break through weak structures
+- Building, vehicle, boat
+- Polar bears can break through weak structures
 
 **Polar bear range:**
 - Arctic Circle only (Alaska, Canada, Greenland, Russia, Norway)
@@ -214,7 +215,7 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 
 ---
 
-## Tree Climbing (Black Bears Only)
+## Tree Climbing
 
 **When to climb:**
 - Black bear encounter AND large tree available
@@ -232,15 +233,15 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 
 ---
 
-## Surprise Encounters (Close Range)
+## Surprise Encounters
 
 **If you round corner and bear is <25 feet:**
 1. **DO NOT RUN**
 2. **Deploy bear spray immediately** (even if bear not charging - creates barrier)
 3. **Back away slowly while spraying**
 4. **If bear charges:**
-   - Continue spraying
-   - Prepare to play dead (grizzly) or fight (black bear)
+- Continue spraying
+- Prepare to play dead (grizzly) or fight (black bear)
 
 **Surprising a bear is most dangerous scenario:**
 - Bear startled, defensive

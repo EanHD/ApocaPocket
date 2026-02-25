@@ -128,9 +128,16 @@ int parseCards(char (*lines)[LINE_LEN], int total,
             } else {
                 int split = findSplitPoint(lines, sectionStart + offset, remaining);
 
+                // Avoid orphan (cont.) cards: if leftover would be too short,
+                // absorb it by making this card scrollable instead of splitting.
+                int leftover = remaining - split;
+                if (leftover > 0 && leftover < CARD_MIN_LINES) {
+                    split += leftover;  // absorb tiny tail into this card
+                }
+
                 c.lineStart  = sectionStart + offset;
                 c.lineCount  = split;
-                c.scrollable = false;
+                c.scrollable = (split > CARD_MAX_LINES);  // may be scrollable if we absorbed lines
                 copyTitle(c.title, cont ? (String(baseTitle) + " (cont.)").c_str()
                                         : baseTitle,
                           sizeof(c.title) - 1);

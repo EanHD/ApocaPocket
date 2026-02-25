@@ -37,6 +37,6 @@ steps:
   requiring medical care.'
 ---
 
-# Fever Management — Herbal Antipyretics
+# Fever Management
 
 Fever is the body fighting infection. Mild fever (under 102F) helps immune response. High fever (over 103F) is dangerous. Some herbs reduce fever by promoting sweating (diaphoretics) or contain aspirin-like compounds. Hydration is most important.

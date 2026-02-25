@@ -6,11 +6,11 @@ tags: ['bear', 'wildlife', 'safety', 'bear-spray', 'attack']
 confidence: "high"
 region: "global"
 sources:
-  - "peer-reviewed-medical-guidelines"
-  - "government-health-agencies"
+- "peer-reviewed-medical-guidelines"
+- "government-health-agencies"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-strategy-first-24-hours"
+- "l1-medical-cpr-basics"
+- "l1-strategy-first-24-hours"
 ---
 
 # Bear Encounters & Safety
@@ -23,7 +23,7 @@ Prevention: food storage, bear canisters, camp hygiene. Species: Black (make noi
 
 ---
 
-## Recognition & Assessment
+## Recognition
 
 **Key indicators:**
 - [Symptoms listed based on severity]
@@ -47,7 +47,7 @@ Prevention: food storage, bear canisters, camp hygiene. Species: Black (make noi
 
 ---
 
-## Prevention & Management
+## Prevention Mgmt
 
 **Long-term strategies:**
 - Regular monitoring

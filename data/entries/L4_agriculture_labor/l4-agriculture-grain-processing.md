@@ -1,4 +1,4 @@
-# Grain Processing - L4 Agriculture
+# Grain Proc-L4 Agri
 
 **Priority: HIGH** | **Difficulty: Medium** | **Impact: Grain → flour without electricity**
 
@@ -6,7 +6,7 @@
 
 Grains are calorie-dense survival foods, but unusable without processing. Knowing how to thresh, winnow, and mill grain by hand transforms a field of wheat into bread flour. These are ancient techniques, proven over millennia, requiring only simple tools and muscle power.
 
-## Step 1: Threshing (Separating Grain from Stalk)
+## Threshing
 
 **Goal:** Break grain kernels free from seed heads and stalks.
 
@@ -64,7 +64,7 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 
 **Use Case:** Small batches, precious heirloom varieties
 
-## Step 2: Winnowing (Separating Grain from Chaff)
+## Winnow
 
 **Goal:** Remove chaff (lightweight husks) from grain (heavy kernels) using wind.
 
@@ -95,7 +95,7 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 
 **Yield Loss:** 10-20% weight from chaff (normal)
 
-## Step 3: Milling (Grinding Grain to Flour)
+## Milling
 
 ### Stone Mill (Traditional, No Power)
 
@@ -124,9 +124,9 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 **Setup:**
 1. Clean mill thoroughly (brush, wipe)
 2. Adjust gap setting:
-   - Wide gap (1-2mm) = cracked grain, grits
-   - Medium gap (0.5-1mm) = coarse flour
-   - Narrow gap (0.2-0.5mm) = fine flour
+- Wide gap (1-2mm) = cracked grain, grits
+- Medium gap (0.5-1mm) = coarse flour
+- Narrow gap (0.2-0.5mm) = fine flour
 3. Test with small amount (adjust if needed)
 
 **Grinding:**
@@ -163,7 +163,7 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 
 **Effectiveness:** Slow, inconsistent, but functional. Better than nothing.
 
-## Grain-Specific Processing
+## Grain Proc
 
 ### Wheat (Most Common)
 
@@ -181,8 +181,8 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 
 **Threshing:** Easy - oats separate cleanly
 **De-hulling Required:** Oats have tough outer hull
-  - Method: Pound lightly with mortar/pestle, winnow again (hulls fly away)
-  - Or: Use specialized oat roller
+- Method: Pound lightly with mortar/pestle, winnow again (hulls fly away)
+- Or: Use specialized oat roller
 **Milling:** Medium - makes coarse flour or rolled oats
 **Yield:** 1 lb oat groats → ~3.5 cups flour
 
@@ -192,7 +192,7 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 
 **Threshing:** Easy
 **De-hulling Required:** Like oats, needs hull removal
-  - "Hulless barley" varieties exist (easier)
+- "Hulless barley" varieties exist (easier)
 **Milling:** Easy - soft grain
 **Yield:** 1 lb barley → ~3.5 cups flour
 
@@ -218,13 +218,13 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 **Processing Methods:**
 1. **Whole kernel:** Stone grind to cornmeal (coarse)
 2. **Hominy:** Soak in lye/lime water (nixtamalization)
-   - Removes hull, improves nutrition (niacin availability)
-   - Grind to masa for tortillas
+- Removes hull, improves nutrition (niacin availability)
+- Grind to masa for tortillas
 3. **Cracked corn:** Coarse grind for grits, polenta
 
 **Yield:** 1 lb corn → ~3 cups cornmeal
 
-## Ancient Grains (Alternatives)
+## Ancient Grains
 
 ### Quinoa
 
@@ -232,7 +232,7 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 1. **Thresh:** Rub seed heads through hands (easy)
 2. **Winnow:** Standard method
 3. **Saponin removal (critical):** Rinse in water 3-5 times until no foam
-   - Saponins = bitter coating (toxic in quantity)
+- Saponins = bitter coating (toxic in quantity)
 4. **No milling needed:** Cook whole (like rice)
 
 **Advantage:** Complete protein, gluten-free, hardy
@@ -282,8 +282,9 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 - Mold (discard immediately)
 - Insect infestation (discard)
 
-## No-Electricity Alternatives (Summary)
+## No-Electricity Alt
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Process | Hand Method | Tool Needed | Time/Bushel |
 |---------|-------------|-------------|-------------|
 | **Threshing** | Flail | DIY flail | 30-60 min |
@@ -301,15 +302,14 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Threshing damp grain | Dry completely (12% moisture or less) |
-| Winnowing indoors (no wind) | Use fan or wait for windy day |
-| Milling too fast (overheating) | Slow, steady pace (stones barely warm) |
-| Storing flour long-term | Store whole grain, mill as needed |
-| Using treated wood/surfaces | Food-grade materials only |
-| No cleaning between batches | Clean thoroughly (prevent contamination) |
-| Grinding once for fine flour | Multiple passes (coarse → medium → fine) |
+**❌ Wrong:** ✓ Right
+**Threshing damp grain:** Dry completely (12% moisture or less)
+**Winnowing indoors (no wind):** Use fan or wait for windy day
+**Milling too fast (overheating):** Slow, steady pace (stones barely warm)
+**Storing flour long-term:** Store whole grain, mill as needed
+**Using treated wood/surfaces:** Food-grade materials only
+**No cleaning between batches:** Clean thoroughly (prevent contamination)
+**Grinding once for fine flour:** Multiple passes (coarse → medium → fine)
 
 ## Safety Warnings
 

@@ -9,9 +9,9 @@ time_required: "5 minutes per dose"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "American Academy of Pediatrics (AAP) Clinical Guidelines"
-  - "WHO Model Formulary for Children"
-  - "Harriet Lane Handbook of Pediatric Emergency Care"
+- "American Academy of Pediatrics (AAP) Clinical Guidelines"
+- "WHO Model Formulary for Children"
+- "Harriet Lane Handbook of Pediatric Emergency Care"
 ---
 
 # Pediatric Medication Dosing - Weight-Based Reference
@@ -26,8 +26,9 @@ sources:
 
 ---
 
-## Weight Conversion (Quick Reference)
+## Weight Conv
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Pounds (lbs) | Kilograms (kg) | Age Range (approximate) |
 |--------------|----------------|-------------------------|
 | 8-12 lbs | 3.6-5.4 kg | 0-3 months (newborn) |
@@ -49,7 +50,7 @@ sources:
 
 ---
 
-## Acetaminophen (Tylenol, Paracetamol)
+## Acetaminophen
 
 ### Indications
 - Fever (>100.4°F / 38°C)
@@ -61,6 +62,7 @@ sources:
 
 ### Dosing Table (by Weight)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Weight | Dose (mg) | Infant Drops (80mg/0.8mL) | Liquid (160mg/5mL) | Chewable (160mg) |
 |--------|-----------|---------------------------|-------------------|------------------|
 | 12-17 lbs | 80 mg | 0.8 mL | 2.5 mL | 1/2 tablet |
@@ -86,7 +88,7 @@ sources:
 
 ---
 
-## Ibuprofen (Advil, Motrin)
+## Ibuprofen
 
 ### Indications
 - Fever (>102°F / 38.9°C)
@@ -98,6 +100,7 @@ sources:
 
 ### Dosing Table (by Weight)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Weight | Dose (mg) | Infant Drops (50mg/1.25mL) | Liquid (100mg/5mL) | Chewable (50mg) | Chewable (100mg) |
 |--------|-----------|----------------------------|-------------------|-----------------|------------------|
 | 12-17 lbs | 50 mg | 1.25 mL | 2.5 mL | 1 tablet | 1/2 tablet |
@@ -123,7 +126,7 @@ sources:
 
 ---
 
-## Alternating Acetaminophen & Ibuprofen (Advanced)
+## Alternating AAP & IBU
 
 ### When to Alternate
 - High fever (>103°F / 39.4°C) not responding to single medication
@@ -148,7 +151,7 @@ sources:
 
 ---
 
-## Diphenhydramine (Benadryl) - Allergic Reactions
+## Diphenhydramine
 
 ### Indications
 - Allergic reactions (hives, itching, mild swelling)
@@ -160,6 +163,7 @@ sources:
 
 ### Dosing Table (by Weight)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Weight | Dose (mg) | Liquid (12.5mg/5mL) | Chewable (12.5mg) |
 |--------|-----------|---------------------|-------------------|
 | 20-24 lbs | 12.5 mg | 5 mL | 1 tablet |
@@ -188,7 +192,7 @@ sources:
 
 ---
 
-## Oral Rehydration Solution (ORS) - Dehydration
+## Oral Rehydration
 
 ### When Needed
 - Vomiting or diarrhea causing dehydration
@@ -198,6 +202,7 @@ sources:
 ### Commercial ORS (Pedialyte, WHO-ORS)
 **Dosing by weight and severity:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Weight | Mild Dehydration | Moderate Dehydration |
 |--------|------------------|----------------------|
 | 10-20 lbs | 16-32 oz over 4 hours | 32-48 oz over 4 hours |
@@ -241,7 +246,7 @@ sources:
 
 ---
 
-## Dosing Tools & Techniques
+## Dosing Tools
 
 ### Measuring Devices
 
@@ -275,15 +280,14 @@ sources:
 
 ### What If Child Vomits After Dose?
 
-| Time Since Dose | Action |
-|----------------|--------|
-| <15 minutes | Re-dose (assume nothing absorbed) |
-| 15-30 minutes | Give 1/2 dose (partial absorption) |
-| >30 minutes | Do not re-dose (assume full absorption) |
+**Time Since Dose:** Action
+**<15 minutes:** Re-dose (assume nothing absorbed)
+**15-30 minutes:** Give 1/2 dose (partial absorption)
+**>30 minutes:** Do not re-dose (assume full absorption)
 
 ---
 
-## When Medical Care is Needed
+## Medical Care Needed
 
 **Stop home treatment and seek medical care if:**
 - Fever >104°F (40°C) in any child
@@ -297,17 +301,16 @@ sources:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Dosing by age instead of weight | Always dose by weight (kg or lbs) |
-| Using kitchen spoon | Use oral syringe or medicine cup with mL markings |
-| Giving adult medications to children | Children's formulations only (<12 years) |
-| Exceeding maximum daily doses | Track times and amounts carefully |
-| Combining similar medications | Check labels (cold medicines often have acetaminophen or ibuprofen already) |
-| Not giving ibuprofen with food | Always give with food or milk (stomach protection) |
-| Giving aspirin to children | NEVER give aspirin <18 years (Reye's syndrome risk) |
+**❌ Mistake:** ✓ Correct
+**Dosing by age instead of weight:** Always dose by weight (kg or lbs)
+**Using kitchen spoon:** Use oral syringe or medicine cup with mL markings
+**Giving adult medications to children:** Children's formulations only (<12 years)
+**Exceeding maximum daily doses:** Track times and amounts carefully
+**Combining similar medications:** Check labels (cold medicines often have acetaminophen or ibuprofen already)
+**Not giving ibuprofen with food:** Always give with food or milk (stomach protection)
+**Giving aspirin to children:** NEVER give aspirin <18 years (Reye's syndrome risk)
 
 ---
 
@@ -334,7 +337,7 @@ sources:
 
 ---
 
-## Emergency Medication Kit for Children
+## Emergency Kids' Meds
 
 **Recommended supplies:**
 - [ ] Acetaminophen (liquid + chewable)

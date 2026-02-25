@@ -7,7 +7,7 @@
 
 ---
 
-## Critical Warning: Alcohol is a Double-Edged Sword
+## Alcohol Risk
 
 **READ THIS FIRST:**
 
@@ -45,7 +45,7 @@ Alcohol can be valuable (social bonding, morale, trade) BUT is also one of the m
 
 ---
 
-## Why Humans Ferment: It's Not Just About Alcohol
+## Humans Ferment
 
 **Historical functions:**
 - **Preservation:** Fermented food lasts months/years
@@ -70,7 +70,7 @@ Alcohol can be valuable (social bonding, morale, trade) BUT is also one of the m
 
 ---
 
-## Simple Beer Brewing: The People's Alcohol
+## Simple Brew
 
 **Why beer:**
 - Easiest alcohol to make
@@ -85,10 +85,10 @@ Alcohol can be valuable (social bonding, morale, trade) BUT is also one of the m
 
 **Ingredients:**
 - **Malt:** 8-10 lbs (malted barley ideal, but can use wheat, rye, or any grain)
-  - Malting = sprouting grain, then drying (converts starch → sugar)
-  - If no malt: Use any grain + enzymes (sprouted grain, saliva for amylase)
+- Malting = sprouting grain, then drying (converts starch → sugar)
+- If no malt: Use any grain + enzymes (sprouted grain, saliva for amylase)
 - **Hops:** 1-2 oz (for bitterness, preservation, flavor)
-  - If no hops: Use bitter herbs (yarrow, mugwort, heather) - historical "gruit"
+- If no hops: Use bitter herbs (yarrow, mugwort, heather) - historical "gruit"
 - **Yeast:** Wild (airborne) or cultivated
 - **Water:** 5-6 gallons (clean, boiled)
 
@@ -160,9 +160,9 @@ READY TO DRINK (2-4 weeks total)
 
 **Method:**
 1. **Capture wild yeast:**
-   - Expose wort to air 12-24 hours (covered with cloth)
-   - Or: Add fruit skins (grapes, apples - natural yeast)
-   - Or: Reuse yeast from previous batch (wash, save)
+- Expose wort to air 12-24 hours (covered with cloth)
+- Or: Add fruit skins (grapes, apples - natural yeast)
+- Or: Reuse yeast from previous batch (wash, save)
 2. **Risk:** Wild yeast unpredictable (sour beer, off-flavors)
 3. **Reward:** Self-sufficient, traditional method
 4. **Historical:** All beer was wild-fermented until 1800s
@@ -175,7 +175,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Wine: Fruit Fermentation
+## Wine: Fruit Ferment
 
 **Advantages over beer:**
 - Simpler process (no mashing, boiling)
@@ -193,14 +193,14 @@ READY TO DRINK (2-4 weeks total)
 **Process:**
 1. **Crush fruit:** Release juice
 2. **Primary fermentation (2-4 weeks):**
-   - Combine fruit, sugar, water in vessel
-   - Add yeast (or wait for wild yeast)
-   - Stir daily (prevent mold)
-   - Strain out fruit solids after 7-10 days
+- Combine fruit, sugar, water in vessel
+- Add yeast (or wait for wild yeast)
+- Stir daily (prevent mold)
+- Strain out fruit solids after 7-10 days
 3. **Secondary fermentation (2-3 months):**
-   - Transfer liquid to clean vessel
-   - Seal with airlock
-   - Age (clarifies, smooths flavor)
+- Transfer liquid to clean vessel
+- Seal with airlock
+- Age (clarifies, smooths flavor)
 4. **Bottle:** When fermentation stops (no bubbles)
 5. **Age:** 3-12 months (improves with time)
 
@@ -208,7 +208,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Mead: Honey Wine (Ancient & Simple)
+## Mead
 
 **Why mead:**
 - Oldest alcohol (evidence from 7000 BCE)
@@ -236,7 +236,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Non-Alcoholic Ferments: Probiotics & Flavor
+## Non-Alc Ferments
 
 **Why equally important:**
 - Gut health (probiotics)
@@ -311,7 +311,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Social Protocols: Responsible Use
+## Social Protocols
 
 ### Community Drinking Guidelines
 
@@ -349,7 +349,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Morale Boost: Why It Matters
+## Morale Boost
 
 **Psychological research:**
 - Moderate social drinking reduces stress 20-30% (temporary)
@@ -370,7 +370,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Trade Value: Economic Function
+## Trade Value
 
 **Why valuable:**
 - Labor-intensive (time = value)
@@ -390,7 +390,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Gut Health: The Microbiome Connection
+## Gut Health
 
 **Why probiotics matter:**
 - 70% immune system in gut (healthy gut = healthy immune system)
@@ -410,7 +410,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Vinegar: Fermentation's Useful Byproduct
+## Vinegar
 
 **If beer/wine goes too long:**
 - Bacteria convert alcohol → acetic acid (vinegar)
@@ -431,7 +431,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Warning: When Fermentation Becomes Dangerous
+## Fermentation Risks
 
 **Signs of alcoholism (individual):**
 - Drinking increasing amounts
@@ -455,7 +455,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Historical Disasters: Learning from Mistakes
+## Hist Disas
 
 **Gin Craze (1700s London):**
 - Cheap gin flooded market
@@ -479,7 +479,7 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-## Conclusion: Ferment Wisely
+## Ferment Wisely
 
 **Remember:**
 - Fermentation = valuable skill (food, medicine, social)
@@ -509,4 +509,4 @@ READY TO DRINK (2-4 weeks total)
 
 ---
 
-*Last Updated: 2026 | Sources: Journal of Nutritional Neuroscience (2019), Meta-analysis of Probiotics & Anxiety (2020), Historical Brewing Texts, Addiction Medicine Research (ongoing)*
+Last Updated: 2026 | Sources: Journal of Nutritional Neuroscience (2019), Meta-analysis of Probiotics & Anxiety (2020), Historical Brewing Texts, Addiction Medicine Research (ongoing)

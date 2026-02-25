@@ -6,13 +6,13 @@ tags: ["allergies", "anaphylaxis", "epi-pen", "food-safety", "cross-contaminatio
 confidence: "high"
 region: "global"
 sources:
-  - "fare-food-allergy-guidelines"
-  - "aaaai-anaphylaxis-protocols"
-  - "fda-allergen-labeling"
+- "fare-food-allergy-guidelines"
+- "aaaai-anaphylaxis-protocols"
+- "fda-allergen-labeling"
 related:
-  - "l1-medical-choking-airway"
-  - "l1-medical-allergic-reactions"
-  - "l2-food-preservation-general"
+- "l1-medical-choking-airway"
+- "l1-medical-allergic-reactions"
+- "l2-food-preservation-general"
 ---
 
 # Food Allergies & Anaphylaxis Management
@@ -25,7 +25,7 @@ related:
 
 ---
 
-## Common Food Allergens ("Big 9")
+## Common Food Allergens
 
 **90% of food allergies caused by:**
 1. **Milk** (most common in children)
@@ -45,7 +45,7 @@ related:
 
 ---
 
-## Anaphylaxis Recognition
+## Anaphylaxis
 
 **Early signs (5-30 min after exposure):**
 - **Skin:** Hives, itching, flushing, swelling (lips, tongue, face)
@@ -65,7 +65,7 @@ related:
 
 ---
 
-## EpiPen Administration (Life-Saving!)
+## EpiPen Admin
 
 **When to use:**
 - ANY respiratory symptoms (wheezing, throat tightness, difficulty breathing)
@@ -112,7 +112,7 @@ related:
 
 ---
 
-## Antihistamines (Secondary Treatment)
+## Antihistamines
 
 **Diphenhydramine (Benadryl):**
 - **Dose:** 25-50mg PO (1-2 tablets)
@@ -130,7 +130,7 @@ related:
 
 ---
 
-## Cross-Contamination Risks
+## Cross-Contam
 
 **How cross-contamination occurs:**
 - Shared utensils (knife, cutting board)
@@ -164,14 +164,13 @@ related:
 
 **Hidden allergens:**
 
-| Allergen | Hidden Sources |
-|----------|---------------|
-| **Milk** | Casein, whey, lactose, curds, ghee |
-| **Egg** | Albumin, lysozyme, lecithin (sometimes), mayonnaise |
-| **Wheat** | Semolina, durum, kamut, spelt, triticale |
-| **Soy** | Lecithin (usually), tofu, miso, tempeh, edamame |
-| **Peanut** | Groundnuts, beer nuts, monkey nuts |
-| **Tree nuts** | Marzipan, nougat, gianduja, pesto |
+**Allergen:** Hidden Sources
+****Milk**:** Casein, whey, lactose, curds, ghee
+****Egg**:** Albumin, lysozyme, lecithin (sometimes), mayonnaise
+****Wheat**:** Semolina, durum, kamut, spelt, triticale
+****Soy**:** Lecithin (usually), tofu, miso, tempeh, edamame
+****Peanut**:** Groundnuts, beer nuts, monkey nuts
+****Tree nuts**:** Marzipan, nougat, gianduja, pesto
 
 **Precautionary statements:**
 - "May contain [allergen]"
@@ -182,8 +181,9 @@ related:
 
 ---
 
-## Food Allergy vs Food Intolerance
+## Food Allergy
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Allergy | Intolerance |
 |---------|---------|-------------|
 | **Mechanism** | Immune system (IgE antibodies) | Digestive system |
@@ -200,7 +200,7 @@ related:
 
 ---
 
-## Emergency Without EpiPen
+## EpiPen Emergency
 
 **If no EpiPen available (VERY RISKY):**
 1. **Antihistamine:** Benadryl 50mg immediately (helps but NOT sufficient)
@@ -236,7 +236,7 @@ related:
 
 ---
 
-## Testing New Foods (Field Setting)
+## Testing New Foods
 
 **Universal edibility test does NOT apply to known food allergies.**
 
@@ -255,7 +255,7 @@ related:
 
 ---
 
-## EpiPen Expiration & Storage
+## EpiPen Expiry
 
 **Storage:**
 - Room temperature (59-86°F / 15-30°C)

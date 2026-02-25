@@ -1,4 +1,4 @@
-# Food Forests - L4 Agriculture
+# FoodForests
 
 **Priority: HIGH** | **Difficulty: Medium-High** | **Impact: Plant once, harvest forever**
 
@@ -94,12 +94,13 @@ LAYER 6: RHIZOSPHERE (underground)
 - **Maturity:** 2-5 years
 - **Spacing:** Every 8-12 ft along edge
 
-## Nitrogen Fixers: The Foundation
+## Nitrogen Fixers
 
 Nitrogen fixers convert atmospheric nitrogen into plant-available form via root nodules. They're the "fertilizer factories" of food forests.
 
 ### Nitrogen-Fixing Plants
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | Type | Nitrogen Output | Zone | Notes |
 |-------|------|----------------|------|-------|
 | **Clover** (white, red) | Ground cover | Moderate | 3-10 | Living mulch, easy |
@@ -119,7 +120,7 @@ Nitrogen fixers convert atmospheric nitrogen into plant-available form via root 
 - Plant nitrogen fixers on outer edges (pioneer)
 - "Chop and drop" nitrogen fixer leaves as mulch (transfers nitrogen)
 
-## Perennial Staples: The Core Crops
+## Perennial Staples
 
 These are the workhorses - reliable, productive, low-maintenance.
 
@@ -127,6 +128,7 @@ These are the workhorses - reliable, productive, low-maintenance.
 
 **Highest Priority:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Crop | Calories/Tree/Year | Maturity | Storage | Why Critical |
 |------|-------------------|----------|---------|--------------|
 | **Chestnut** | 40,000-60,000 | 3-5 yrs (grafted) | 6+ months | Grain replacement, blight-resistant varieties |
@@ -140,6 +142,7 @@ These are the workhorses - reliable, productive, low-maintenance.
 
 ### Berry Shrubs (Layer 3)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Crop | lbs/Bush/Year | Maturity | Hardiness | Notes |
 |------|--------------|----------|-----------|-------|
 | **Blueberry** | 5-15 | 2-3 yrs | -20°F | Needs acidic soil |
@@ -150,6 +153,7 @@ These are the workhorses - reliable, productive, low-maintenance.
 
 ### Perennial Vegetables (Layer 4)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Crop | Production | Harvest | Lifespan | Notes |
 |------|------------|---------|----------|-------|
 | **Asparagus** | 1/2 lb/plant/year | 6-8 weeks spring | 20+ years | Establish 2-3 years |
@@ -158,7 +162,7 @@ These are the workhorses - reliable, productive, low-maintenance.
 | **Perennial Onions** | Continuous | Year-round | Indefinite | Walking onions, multipliers |
 | **Sorrel** | Continuous | Spring-fall | 10+ years | Salads, soups |
 
-## Guild Planting: Beneficial Combinations
+## Guild Planting
 
 Guilds are groups of plants that support each other.
 
@@ -168,30 +172,30 @@ Guilds are groups of plants that support each other.
 
 **Surrounding Plants:**
 1. **Comfrey** (3-4 plants, 3 ft from trunk)
-   - Dynamic accumulator (mines minerals)
-   - Chop leaves as mulch 3-4x/year
-   - Attracts pollinators
+- Dynamic accumulator (mines minerals)
+- Chop leaves as mulch 3-4x/year
+- Attracts pollinators
    
 2. **Clover** (ground cover, entire area)
-   - Nitrogen fixer
-   - Living mulch (suppress weeds)
-   - Pollinator habitat
+- Nitrogen fixer
+- Living mulch (suppress weeds)
+- Pollinator habitat
    
 3. **Chives** (ring at drip line)
-   - Pest repellent (aphids, borers)
-   - Edible perennial
+- Pest repellent (aphids, borers)
+- Edible perennial
    
 4. **Nasturtium** (outside ring)
-   - Aphid trap crop (sacrificial)
-   - Edible flowers/leaves
+- Aphid trap crop (sacrificial)
+- Edible flowers/leaves
    
 5. **Daffodils** (scattered)
-   - Rodent/deer deterrent
-   - Early pollinator
+- Rodent/deer deterrent
+- Early pollinator
    
 6. **Yarrow** (2-3 plants, outer)
-   - Beneficial insect attractor
-   - Medicinal
+- Beneficial insect attractor
+- Medicinal
 
 **Result:** Tree grows faster, fewer pests, no fertilizer needed, multiple harvests per season
 
@@ -284,7 +288,7 @@ Low-growing plants act as living mulch:
 
 **Benefit:** Self-renewing mulch that also produces food/nitrogen.
 
-## Maintenance: Minimal After Establishment
+## Maintenance
 
 **Year 1-3 (Establishment):**
 - Water if dry (<1" rain/week)
@@ -309,7 +313,7 @@ Low-growing plants act as living mulch:
 - Canopy shades → retain moisture
 - Diversity → pest/disease resistance
 
-## Exponential Effect: The Math
+## Expo Effect
 
 **Conventional Annual Garden:**
 - Year 1: 100 hours work → 500 lbs food
@@ -341,15 +345,14 @@ Low-growing plants act as living mulch:
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Planting too densely | Space for mature size (trees 15-30 ft apart) |
-| No nitrogen fixers | 1 fixer per 3-4 plants minimum |
-| Skipping mulch | 4-6" wood chips, renew annually |
-| Planting on bare soil | Sheet mulch first (cardboard + mulch) |
-| Expecting immediate yields | Year 3-5 for substantial harvests |
-| Ignoring water management | Swales + mulch essential for long-term success |
-| All sun-lovers in shade | Match plant light needs to forest layer |
+**❌ Wrong:** ✓ Right
+**Planting too densely:** Space for mature size (trees 15-30 ft apart)
+**No nitrogen fixers:** 1 fixer per 3-4 plants minimum
+**Skipping mulch:** 4-6" wood chips, renew annually
+**Planting on bare soil:** Sheet mulch first (cardboard + mulch)
+**Expecting immediate yields:** Year 3-5 for substantial harvests
+**Ignoring water management:** Swales + mulch essential for long-term success
+**All sun-lovers in shade:** Match plant light needs to forest layer
 
 ## Cross-References
 - **[l4-agriculture-seed-saving.md]** - Propagate perennial seedlings

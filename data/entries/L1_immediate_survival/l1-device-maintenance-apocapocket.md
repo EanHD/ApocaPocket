@@ -7,7 +7,7 @@
 **Realistic:** 3-5 years under harsh field conditions
 **Possible:** 10+ years with meticulous maintenance and battery replacement
 
-## Battery Care (Lithium-Ion Best Practices)
+## Battery Care
 
 ### The Science
 **Lithium-ion batteries degrade through:**
@@ -106,7 +106,7 @@
 - Sudden shutdowns
 - Swelling (DANGER: stop using immediately)
 
-## Storage: Protect from Environment
+## Store: Protect
 
 ### Environmental Threats
 
@@ -165,7 +165,7 @@
 - Document location (you need to find it later)
 - Check annually (verify condition, update data)
 
-## SD Card Backup (Critical!)
+## SD Backup
 
 ### Why Redundancy Matters
 **SD cards fail.** Not if, but when. Heat, corruption, wear, physical damage all kill cards.
@@ -362,13 +362,13 @@
 - **Cause:** Screen protector interference, digitizer failure, firmware glitch
 - **Fix:** Remove screen protector, reboot device, recalibrate touch (if option exists)
 
-## Water Damage (Emergency Response)
+## Water Damage
 
 ### Immediate Actions (First 5 Minutes)
 **Every second counts. Don't panic. Act.**
 
 1. **Power off immediately** (hold power button, force shutdown)
-   - Even if seems fine (water + electricity = corrosion)
+- Even if seems fine (water + electricity = corrosion)
 2. **Remove from water source** (obvious, but state it)
 3. **Remove case, SD card, any accessories**
 4. **Shake gently** (get bulk water out, don't shake violently)
@@ -435,7 +435,7 @@
 - Keep in inner pocket (away from rain)
 - Don't use near water (shore, boat, rain)
 
-## Longevity: Expected Lifespan
+## Longevity
 
 ### Component Lifespans
 

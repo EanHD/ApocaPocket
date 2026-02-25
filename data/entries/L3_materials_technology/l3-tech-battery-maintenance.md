@@ -19,7 +19,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 ---
 
-## Maintenance Schedules by Battery Type
+## Maintenance by Bat
 
 ### Flooded Lead-Acid (FLA)
 
@@ -99,6 +99,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 **12V Flooded Lead-Acid**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Voltage | State of Charge | Status |
 |---------|-----------------|--------|
 | 12.7-12.8V | 100% | Full charge ✓ |
@@ -114,30 +115,28 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 **12V AGM**:
 
-| Voltage | State of Charge |
-|---------|-----------------|
-| 12.8-12.9V | 100% |
-| 12.6V | 90% |
-| 12.5V | 80% |
-| 12.3V | 70% |
-| 12.1V | 60% |
-| 12.0V | 50% (minimum) |
-| 11.8V | 40% (deep discharge) |
-| 11.5V | 30% (damaging) |
+**Voltage:** State of Charge
+**12.8-12.9V:** 100%
+**12.6V:** 90%
+**12.5V:** 80%
+**12.3V:** 70%
+**12.1V:** 60%
+**12.0V:** 50% (minimum)
+**11.8V:** 40% (deep discharge)
+**11.5V:** 30% (damaging)
 
 **12V LiFePO4** (different curve!):
 
-| Voltage | State of Charge |
-|---------|-----------------|
-| 13.6V | 100% |
-| 13.4V | 95% |
-| 13.2V | 90% |
-| 13.1V | 70% |
-| 13.0V | 40% |
-| 12.9V | 30% |
-| 12.5V | 20% |
-| 12.0V | 10% |
-| 10.0V | 0% (BMS cutoff) |
+**Voltage:** State of Charge
+**13.6V:** 100%
+**13.4V:** 95%
+**13.2V:** 90%
+**13.1V:** 70%
+**13.0V:** 40%
+**12.9V:** 30%
+**12.5V:** 20%
+**12.0V:** 10%
+**10.0V:** 0% (BMS cutoff)
 
 **Note**: LiFePO4 has flat discharge curve (stays ~13V from 90% to 30%)
 
@@ -167,7 +166,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 ---
 
-## Specific Gravity Testing (Flooded Lead-Acid Only)
+## Specific Gravity Test
 
 ### What is Specific Gravity?
 
@@ -207,6 +206,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 **Single cell SoC**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Specific Gravity | State of Charge | Action |
 |------------------|-----------------|--------|
 | 1.265-1.280 | 100% | Fully charged ✓ |
@@ -231,7 +231,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 ---
 
-## Equalization Charging (Flooded Lead-Acid Only)
+## Equalize Flooded
 
 ### Purpose
 
@@ -266,14 +266,14 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 **Procedure**:
 1. Set charge controller to equalization mode (if supported)
-   - Or use external charger with equalization setting
+- Or use external charger with equalization setting
 2. Start equalization charge
 3. Monitor voltage every 30 minutes (should reach 15.5-16.0V)
 4. Check for vigorous gassing (bubbling from all cells = good)
 5. Continue until:
-   - SG readings stabilize (no change for 1 hour)
-   - SG variance <0.015
-   - Time limit reached (4 hours max)
+- SG readings stabilize (no change for 1 hour)
+- SG variance <0.015
+- Time limit reached (4 hours max)
 6. End equalization, return to normal charging
 
 **Safety**:
@@ -287,7 +287,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 ---
 
-## Water Maintenance (Flooded Lead-Acid)
+## Water Maintenance
 
 ### Water Level Inspection
 
@@ -328,7 +328,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 ---
 
-## Corrosion Prevention & Cleaning
+## Corr. Prev. & Clean
 
 ### Causes of Corrosion
 
@@ -356,17 +356,17 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 **Steps**:
 1. **Disconnect terminals** (negative first, then positive)
 2. **Neutralize acid**:
-   - Mix baking soda + water (paste consistency)
-   - Apply to corroded areas (will fizz = neutralization)
-   - Scrub with wire brush
-   - Rinse with water
+- Mix baking soda + water (paste consistency)
+- Apply to corroded areas (will fizz = neutralization)
+- Scrub with wire brush
+- Rinse with water
 3. **Dry thoroughly** (compressed air or towels)
 4. **Inspect terminals**:
-   - Cracks or deep pitting → replace terminal
-   - Minor corrosion → proceed to next step
+- Cracks or deep pitting → replace terminal
+- Minor corrosion → proceed to next step
 5. **Coat with protectant**:
-   - Petroleum jelly (Vaseline) on terminal post
-   - Or anti-corrosion spray (red/blue aerosol)
+- Petroleum jelly (Vaseline) on terminal post
+- Or anti-corrosion spray (red/blue aerosol)
 6. **Reconnect** (positive first, then negative)
 7. **Apply additional coating** to outside of connection
 
@@ -374,7 +374,7 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 ---
 
-## Load Testing (Capacity Verification)
+## Load Test
 
 ### Purpose
 
@@ -401,21 +401,21 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 1. **Fully charge battery** (absorption cycle complete)
 2. **Rest 2-4 hours** (record resting voltage)
 3. **Apply known load**:
-   - Recommended: C/20 rate (5A for 100Ah battery)
-   - Constant load (resistive heater ideal)
+- Recommended: C/20 rate (5A for 100Ah battery)
+- Constant load (resistive heater ideal)
 4. **Monitor voltage** every 30 minutes
 5. **Stop at cutoff voltage**:
-   - FLA: 10.5V (12V system)
-   - AGM: 11.0V
-   - LiFePO4: 10.0V (or BMS cutoff)
+- FLA: 10.5V (12V system)
+- AGM: 11.0V
+- LiFePO4: 10.0V (or BMS cutoff)
 6. **Calculate capacity**:
    ```
    Capacity (Ah) = Load current (A) × Time (hours)
    Example: 5A load for 18 hours = 90Ah
    ```
 7. **Compare to rated**:
-   - 100Ah battery delivering 90Ah = **90% capacity** (good)
-   - 100Ah battery delivering 70Ah = **70% capacity** (degraded)
+- 100Ah battery delivering 90Ah = **90% capacity** (good)
+- 100Ah battery delivering 70Ah = **70% capacity** (degraded)
 
 **Interpretation**:
 - 100-90%: Excellent (new or well-maintained)
@@ -466,13 +466,12 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 **Charge voltage adjustment**:
 
-| Temp | FLA Absorption Voltage (12V) |
-|------|------------------------------|
-| 0°C | 15.0V (+0.6V) |
-| 10°C | 14.7V (+0.3V) |
-| 25°C | 14.4V (baseline) |
-| 35°C | 14.1V (-0.3V) |
-| 45°C | 13.8V (-0.6V) |
+**Temp:** FLA Absorption Voltage (12V)
+**0°C:** 15.0V (+0.6V)
+**10°C:** 14.7V (+0.3V)
+**25°C:** 14.4V (baseline)
+**35°C:** 14.1V (-0.3V)
+**45°C:** 13.8V (-0.6V)
 
 **Coefficient**: -0.03V/°C for 12V (6-cell) battery
 
@@ -633,7 +632,7 @@ Notes: _________________________________
 
 ---
 
-## Common Mistakes & Solutions
+## Common Errors
 
 ### ❌ **Mistake 1**: Adding water before charging
 
@@ -731,8 +730,9 @@ Notes: _________________________________
 
 ---
 
-## Quick Reference: Maintenance Frequencies
+## Quick Ref: MF
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Task | FLA | AGM/Gel | LiFePO4 |
 |------|-----|---------|---------|
 | **Water check** | Monthly | N/A | N/A |
@@ -787,5 +787,5 @@ Notes: _________________________________
 
 ---
 
-*Last updated: 2026-02-19*
-*Layer: L3 Materials & Technology | Category: Energy/Power*
+Last updated: 2026-02-19
+Layer: L3 Materials & Technology | Category: Energy/Power

@@ -53,6 +53,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 ## Types of Shock
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Cause | Primary Problem | Field Recognition |
 |------|-------|----------------|-------------------|
 | **Hypovolemic** | Blood/fluid loss | Low volume | Bleeding, dehydration, burns |
@@ -60,10 +61,11 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 | **Distributive** | Vasodilation | Vessels too wide | Sepsis, spinal injury, anaphylaxis |
 | **Obstructive** | Blocked blood flow | Mechanical obstruction | Tension pneumothorax, cardiac tamponade |
 
-## Recognizing Shock - The "Shock Triad"
+## Recognize Shock
 
 ### Classic Signs (In Order of Appearance)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stage | Mental Status | Skin | Pulse | BP | Breathing | Urine |
 |-------|--------------|------|-------|----|-----------| ------|
 | **Early (Compensated)** | Anxious, restless | Pale, cool extremities | Fast (>100), normal strength | Normal | Fast (>20) | Reduced |
@@ -108,7 +110,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 - Weak/absent radial pulse = systolic BP <80 mmHg (shock)
 - Only carotid pulse = systolic BP <60 mmHg (severe shock)
 
-## Shock by Type - Specific Recognition
+## Shock Types
 
 ### 1. Hypovolemic Shock (Most Common)
 
@@ -126,6 +128,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 **Blood loss estimation:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Class | Blood Loss | Pulse | BP | Mental Status | Skin |
 |-------|-----------|-------|-----|--------------|------|
 | I | <15% (<750mL) | <100 | Normal | Anxious | Normal |
@@ -193,7 +196,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 - Difficulty breathing
 - Shock signs despite no visible bleeding
 
-## Step-by-Step Treatment Protocol
+## Step-by-Step Protocol
 
 ### 1. Scene Safety (10 seconds)
 - Ensure scene is safe for you and victim
@@ -347,7 +350,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 - Baseline blood pressure may be higher (90 systolic may be shock for them)
 - More vulnerable to hypothermia
 
-## Common Mistakes to Avoid
+## Common Mistakes
 
 - ❌ Waiting for low blood pressure to diagnose shock (late sign)
 - ❌ Elevating legs in ALL shock cases (harmful in cardiogenic, spinal, head injury)
@@ -359,7 +362,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 - ❌ Checking blood pressure instead of perfusion signs
 - ❌ Missing internal bleeding (no visible blood loss)
 
-## When to Suspect Internal Bleeding
+## Internal Bleeding
 
 **Mechanism of injury:**
 - Fall from height
@@ -377,7 +380,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 **Action:** Rapid evacuation for surgical control
 
-## Summary Quick Reference
+## Summary Ref
 
 ### Shock Recognition Checklist
 
@@ -401,6 +404,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 ### Position Quick Guide
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Shock Type | Position | Why |
 |-----------|----------|-----|
 | Hypovolemic (bleeding) | Flat + legs up 8-12" | Returns blood to core |
@@ -411,7 +415,7 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 **Never elevate legs if:** Spinal injury, head injury, chest injury, difficulty breathing, fractured pelvis/legs
 
-## Long-Term Field Care (If Evacuation Delayed)
+## Long-Term Field Care
 
 **First 2 hours are critical:**
 - Most shock deaths occur in first hour
@@ -423,10 +427,10 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 - Maintain body temperature
 - Monitor vital signs hourly
 - Watch for complications:
-  - Acute kidney injury (decreased urine)
-  - Multi-organ failure
-  - ARDS (lung failure)
-  - Coagulopathy (bleeding disorder)
+- Acute kidney injury (decreased urine)
+- Multi-organ failure
+- ARDS (lung failure)
+- Coagulopathy (bleeding disorder)
 
 **Reality check:** Shock has high mortality without hospital care. Field care buys time but is NOT definitive treatment.
 

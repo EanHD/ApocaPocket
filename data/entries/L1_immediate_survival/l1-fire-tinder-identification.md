@@ -74,7 +74,7 @@ Tinder is the finest, most flammable material that catches spark or ember and tr
 4. **Jute twine** (pulled apart) — Reliable, lightweight
 5. **Waxed cardboard** — Burns 5-10 min, windproof
 
-## Tinder Bundle Construction
+## Tinder Bundle
 
 **Optimal Dimensions:**
 - Diameter: 8-10 inches
@@ -88,7 +88,7 @@ Tinder is the finest, most flammable material that catches spark or ember and tr
 
 **Density:** Loosely packed (air flow critical)
 
-## Storage Recommendations
+## Storage Recs
 
 **Waterproof containers:**
 - Film canisters (35mm): 3-5 cotton balls
@@ -108,13 +108,12 @@ Tinder is the finest, most flammable material that catches spark or ember and tr
 
 ## Regional Guide
 
-| Climate | Best Local Tinders |
-|---------|-------------------|
-| Desert | Yucca fiber, sage bark, dried grasses |
-| Temperate | Birch bark, cedar bark, oak leaves |
-| Boreal | Birch bark, spruce needles, dry lichen |
-| Tropical | Bamboo shavings, palm fiber, coconut husk |
-| Alpine | Alpine grass, lichen, moss (dry only) |
+**Climate:** Best Local Tinders
+**Desert:** Yucca fiber, sage bark, dried grasses
+**Temperate:** Birch bark, cedar bark, oak leaves
+**Boreal:** Birch bark, spruce needles, dry lichen
+**Tropical:** Bamboo shavings, palm fiber, coconut husk
+**Alpine:** Alpine grass, lichen, moss (dry only)
 
 ## See Also
 - [Ferro Rod Technique](/l1-fire-ferro-rod-technique) - Spark-based ignition

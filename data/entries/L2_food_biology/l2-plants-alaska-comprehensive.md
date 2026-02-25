@@ -18,9 +18,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ---
 
-## 🫐 Berries (High Priority - Calorie Dense)
+## Berries
 
-### Blueberry (*Vaccinium* species)
+### Blueberry (Vaccinium species)
 
 **ID Features:**
 - Shrub: 6 inches to 3 feet tall (varies by species)
@@ -38,7 +38,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 **Preparation**: Eat raw, dry for winter (sun or smoke), mash and cook with meat
 
-### Salmonberry (*Rubus spectabilis*)
+### Salmonberry (Rubus spectabilis)
 
 **ID Features:**
 - Shrub: 3-6 feet tall, thorny stems (like raspberry)
@@ -59,7 +59,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 **Note**: Young shoots edible (peel, eat raw or cooked in spring)
 
-### Cloudberry (*Rubus chamaemorus*)
+### Cloudberry (Rubus chamaemorus)
 
 **ID Features:**
 - Low herbaceous plant: 3-6 inches tall
@@ -80,7 +80,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 **Cultural Note**: Highly valued by Alaska Natives ("aqpik" in Inupiaq)
 
-### Crowberry (*Empetrum nigrum*)
+### Crowberry (Empetrum nigrum)
 
 **ID Features:**
 - Low shrub: 2-6 inches tall, mat-forming
@@ -100,7 +100,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 **Storage**: Freeze naturally (stay edible all winter)
 
-### Lingonberry / Lowbush Cranberry (*Vaccinium vitis-idaea*)
+### Lingonberry / Lowbush Cranberry (Vaccinium vitis-idaea)
 
 **ID Features:**
 - Low shrub: 3-6 inches tall, evergreen
@@ -122,9 +122,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ---
 
-## 🌿 Greens (Vitamin Dense, Low Calorie)
+## Greens
 
-### Fireweed (*Chamerion angustifolium*)
+### Fireweed (Chamerion angustifolium)
 
 **ID Features:**
 - Tall herb: 3-6 feet
@@ -147,7 +147,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 **Preparation**: Boil 5-10 minutes (reduces bitterness), add to soups, eat as side dish
 
-### Dandelion (*Taraxacum officinale*)
+### Dandelion (Taraxacum officinale)
 
 **ID Features:**
 - Rosette of jagged leaves (grow from base, no stem)
@@ -172,7 +172,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 - Boiled (change water 2x to reduce bitterness)
 - Roots: Roast until brown, grind, brew like coffee
 
-### Fiddleheads (Ferns - *Various species*)
+### Fiddleheads (Ferns - Various species)
 
 **ID Features:**
 - Tightly coiled young fern fronds (look like violin scroll)
@@ -201,9 +201,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ---
 
-## 🥕 Roots & Tubers (Carbohydrate Source)
+## Roots & Tubers
 
-### Wild Potato / Eskimo Potato (*Hedysarum alpinum*)
+### Wild Potato / Eskimo Potato (Hedysarum alpinum)
 
 **⚠️ CRITICAL**: See l2-plants-alaska-wild-potato.md for FULL safety details.
 
@@ -220,7 +220,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 **Preparation**: Eat raw (crunchy, sweet), boil (soft, like potato), roast, dry for storage
 
-### Wild Rhubarb / Monk's Rhubarb (*Polygonum alaskanum*)
+### Wild Rhubarb / Monk's Rhubarb (Polygonum alaskanum)
 
 **⚠️ CRITICAL WARNING**: STALKS EDIBLE. LEAVES TOXIC (oxalic acid, causes kidney damage).
 
@@ -250,7 +250,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 **Toxicity Note**: Leaves contain oxalic acid (kidney stones, poisoning). Even small amounts of leaf are dangerous.
 
-### Cattail (*Typha latifolia*)
+### Cattail (Typha latifolia)
 
 **ID Features:**
 - Tall aquatic plant: 5-10 feet
@@ -281,8 +281,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ---
 
-## 📅 Seasonal Availability Calendar
+## Season Avail
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | May | Jun | Jul | Aug | Sep | Oct |
 |-------|-----|-----|-----|-----|-----|-----|
 | **Blueberry** | - | - | 🫐 | 🫐🫐 | 🫐 | - |
@@ -304,14 +305,14 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ---
 
-## ⚠️ Toxic Plants to Avoid (Review l2-plants-deadly-lookalikes.md)
+## Toxic Plants
 
 **Quick Reference:**
 - **Baneberry** (red or white berries, doll's eyes): Cardiac arrest
 - **Death Camas** (white bulb, no onion smell): Paralysis, death
 - **Water Hemlock** (white flowers, chambered roots, yellow sap): Seizures, death
 - **Monkshood / Aconite** (purple hood-shaped flowers): Heart failure
-- **Wild Sweet Pea** (*Hedysarum mackenzii* seeds): Paralysis (ODAP toxin)
+- **Wild Sweet Pea** (Hedysarum mackenzii seeds): Paralysis (ODAP toxin)
 
 **Rule**: If you're not 100% certain, don't eat it.
 
@@ -428,7 +429,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ---
 
-## 🔍 Field Identification Tips
+## Field ID Tips
 
 ### Positive ID Checklist (Use Multiple Features)
 
@@ -445,9 +446,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 ### Bring Field Guides (Laminated, Waterproof)
 
 **Recommended Guides:**
-- *Alaska's Wild Berries and Berry-Like Fruit* - Alaska Cooperative Extension
-- *Edible and Medicinal Plants of the West* - Gregory Tilford
-- *Plants of the Pacific Northwest Coast* - Pojar & MacKinnon
+- Alaska's Wild Berries and Berry-Like Fruit - Alaska Cooperative Extension
+- Edible and Medicinal Plants of the West - Gregory Tilford
+- Plants of the Pacific Northwest Coast - Pojar & MacKinnon
 
 ### Take Photos (For Later Verification)
 
@@ -459,17 +460,17 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ## 📚 Sources
 
-- Alaska Cooperative Extension, *Alaska's Wild Berries and Berry-Like Fruit*
+- Alaska Cooperative Extension, Alaska's Wild Berries and Berry-Like Fruit
 - Traditional Knowledge (Dena'ina, Inupiaq, Yup'ik plant use)
-- Kari, Priscilla Russell, *Tanaina Plantlore: Dena'ina K'et'una*
-- *Edible and Medicinal Plants of the West*, Gregory Tilford
+- Kari, Priscilla Russell, Tanaina Plantlore: Dena'ina K'et'una
+- Edible and Medicinal Plants of the West, Gregory Tilford
 - USDA PLANTS Database (species descriptions, range maps)
 - Alaska Native Knowledge Network, Plant Database
-- *Wild Edible Plants of Alaska*, Schofield & Alden
+- Wild Edible Plants of Alaska, Schofield & Alden
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Alaska Wild Berries - Visual ID Chart"**
 - 6-panel grid (blueberry, salmonberry, cloudberry, crowberry, lingonberry, + one toxic for contrast)

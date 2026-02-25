@@ -51,7 +51,7 @@ steps:
 
 Poison hemlock (Conium maculatum) and water hemlock (Cicuta species) are among the most deadly plants in North America and Europe. Both are easily confused with edible plants like wild carrot, parsnip, and parsley. A single mistake can be FATAL. Learn these identification features before foraging ANY wild umbellifers.
 
-## Step-by-step Identification
+## Identification
 
 ### POISON HEMLOCK (Conium maculatum)
 **Critical Features:**
@@ -87,7 +87,7 @@ Poison hemlock (Conium maculatum) and water hemlock (Cicuta species) are among t
 - **STEM:** Not purple-blotched
 - Note: Can cause phototoxic burns but not deadly
 
-## Symptoms of Hemlock Poisoning
+## Hemlock Symptoms
 
 **POISON HEMLOCK (30-180 minute onset):**
 - Trembling, salivation, dilated pupils

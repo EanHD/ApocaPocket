@@ -190,15 +190,15 @@ void Screen::cardHeader(const char*, int, int) {}
 void Screen::statusBar(const char*) {}
 void Screen::statusBarCard(int, int, bool, bool) {}
 
-void Screen::scrollBar(int pos, int total) {
-    if (total <= LPP) return;
+void Screen::scrollBar(int pos, int total, int visible) {
+    if (total <= visible) return;
     int trackH = BOT_Y - TOP_Y;
     int trackX = DISP_W - CX - 3;
     // Track: thin dim line
     _tft.drawFastVLine(trackX + 1, TOP_Y, trackH, COL_TER);
     // Thumb: rounded rect for iOS-style indicator
-    int thumbH = max(8, (int)((long)LPP * trackH / total));
-    int thumbY = TOP_Y + (int)((long)pos * (trackH - thumbH) / max(1, total - LPP));
+    int thumbH = max(8, (int)((long)visible * trackH / total));
+    int thumbY = TOP_Y + (int)((long)pos * (trackH - thumbH) / max(1, total - visible));
     if (thumbY + thumbH > TOP_Y + trackH) thumbY = TOP_Y + trackH - thumbH;
     _tft.fillRoundRect(trackX, thumbY, 3, thumbH, 1, COL_SEC);
 }

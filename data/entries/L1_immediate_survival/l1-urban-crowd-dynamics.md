@@ -9,11 +9,11 @@ time_required: "Varies (seconds to minutes in crisis)"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "Department of Homeland Security Crowd Management Guidelines"
-  - "FEMA Mass Evacuation Planning Guide"
-  - "FBI Active Threat Response Protocols"
-  - "UK Health and Safety Executive Crowd Safety Research"
-  - "Crowd Dynamics Research - G. Keith Still, PhD"
+- "Department of Homeland Security Crowd Management Guidelines"
+- "FEMA Mass Evacuation Planning Guide"
+- "FBI Active Threat Response Protocols"
+- "UK Health and Safety Executive Crowd Safety Research"
+- "Crowd Dynamics Research - G. Keith Still, PhD"
 ---
 
 # Crowd Dynamics and Crush Prevention
@@ -91,7 +91,7 @@ sources:
 
 ---
 
-## Crowd Behavior Dynamics
+## Crowd Behav
 
 ### Crowd Movement Patterns
 
@@ -129,7 +129,7 @@ sources:
 
 ---
 
-## Pre-Crowd Situational Awareness (Before Entering)
+## Pre-Entry Awareness
 
 ### Crowd Size Estimation
 
@@ -166,20 +166,20 @@ sources:
 **Best positions in any crowd space:**
 
 1. **Near exits (but not directly in front):**
-   - 20-30 feet from exit = optimal (quick access, not blocked by crush)
-   - Directly in front of exit = highest crush risk (everyone converges here)
+- 20-30 feet from exit = optimal (quick access, not blocked by crush)
+- Directly in front of exit = highest crush risk (everyone converges here)
 
 2. **Edge of crowd (not center):**
-   - Easier escape (one direction to move)
-   - Less density (people pack toward center)
+- Easier escape (one direction to move)
+- Less density (people pack toward center)
 
 3. **Higher ground:**
-   - Platform, raised area, stage (visibility, escape route)
-   - Can jump down if needed (4-6 ft drop usually safe)
+- Platform, raised area, stage (visibility, escape route)
+- Can jump down if needed (4-6 ft drop usually safe)
 
 4. **Near solid structures:**
-   - Walls, pillars, barriers (can't be crushed from behind)
-   - Breathing space (press back against wall)
+- Walls, pillars, barriers (can't be crushed from behind)
+- Breathing space (press back against wall)
 
 **Worst positions:**
 - Center of crowd (trapped on all sides)
@@ -189,7 +189,7 @@ sources:
 
 ---
 
-## Warning Signs of Impending Crush
+## Warning Signs
 
 ### Density Indicators (Visual)
 
@@ -233,7 +233,7 @@ sources:
 
 ---
 
-## Crush Prevention Techniques
+## Crush Prevention
 
 ### The Boxing Stance (Critical Survival Position)
 
@@ -307,7 +307,7 @@ sources:
 
 ---
 
-## Bottleneck Navigation (Doorways, Stairwells)
+## Bottleneck Nav
 
 ### Understanding Bottleneck Dynamics
 
@@ -361,7 +361,7 @@ sources:
 
 ---
 
-## Escape Routes & Unconventional Exits
+## Escape Routes
 
 ### Standard Exit (Doors)
 
@@ -403,7 +403,7 @@ sources:
 
 ---
 
-## Helping Others Without Endangering Yourself
+## Helping Safely
 
 ### Triage in Chaos
 
@@ -491,7 +491,7 @@ sources:
 
 ---
 
-## Crowd Crush Survival Decision Matrix
+## Crowd Crush Survival
 
 **Real-time decision tree (use in seconds):**
 
@@ -599,22 +599,21 @@ Is crowd moving (flow) or stationary (locked)?
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| "I'll just push through to the exit" | Pushing increases density, worsens crush |
-| Staying in center of crowd (best view) | Move to edge immediately if high density |
-| Dropping items, bending over to pick up | Items are replaceable, your life isn't |
-| Running toward exit (panic response) | Walk calmly, angle toward edge, conserve energy |
-| Ignoring early warning signs (Zone 4-5) | Exit at first sign of high density |
-| Separating from group (going solo) | Hold hands, stay together (easier to survive) |
-| Waiting for crowd to thin ("it'll clear") | Crowd density INCREASES in bottlenecks, not decreases |
-| Assuming authorities are managing (false security) | Trust yourself, not crowd control (may be overwhelmed) |
+**❌ Mistake:** ✓ Correct
+**"I'll just push through to the exit":** Pushing increases density, worsens crush
+**Staying in center of crowd (best view):** Move to edge immediately if high density
+**Dropping items, bending over to pick up:** Items are replaceable, your life isn't
+**Running toward exit (panic response):** Walk calmly, angle toward edge, conserve energy
+**Ignoring early warning signs (Zone 4-5):** Exit at first sign of high density
+**Separating from group (going solo):** Hold hands, stay together (easier to survive)
+**Waiting for crowd to thin ("it'll clear"):** Crowd density INCREASES in bottlenecks, not decreases
+**Assuming authorities are managing (false security):** Trust yourself, not crowd control (may be overwhelmed)
 
 ---
 
-## When to Abandon Event/Location
+## Abandon Event
 
 **Leave immediately if:**
 - Crowd density reaches Zone 4 (4+ people per m²)
@@ -633,7 +632,7 @@ Is crowd moving (flow) or stationary (locked)?
 
 ---
 
-## Psychological Recovery (Post-Incident)
+## Psychological Recovery
 
 **Crowd crush survivors often experience:**
 - PTSD (flashbacks, nightmares, avoidance of crowds)

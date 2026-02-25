@@ -94,12 +94,13 @@ Photovoltaic (PV) solar panels convert sunlight directly into DC electricity thr
 
 ---
 
-## Panel Specifications Explained
+## Panel Specs
 
 ### Nameplate Ratings (Standard Test Conditions - STC)
 
 **STC Parameters**: 1000 W/m² irradiance, 25°C cell temperature, air mass 1.5 spectrum
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Specification | Symbol | Typical Range | Meaning |
 |--------------|--------|---------------|---------|
 | **Peak Power** | Pmax | 100-550W | Maximum power output at STC |
@@ -129,12 +130,13 @@ Photovoltaic (PV) solar panels convert sunlight directly into DC electricity thr
 
 ---
 
-## System Sizing Calculations
+## Sys Size Calc
 
 ### Step 1: Load Assessment
 
 **Daily Energy Consumption** (Wh/day):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Appliance | Watts | Hours/Day | Wh/Day |
 |-----------|-------|-----------|--------|
 | LED lights (4x) | 40W | 4h | 160 |
@@ -157,6 +159,7 @@ Photovoltaic (PV) solar panels convert sunlight directly into DC electricity thr
 
 **Peak Sun Hours (PSH)**: Equivalent hours of 1000 W/m² irradiance per day
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Location | Winter | Spring/Fall | Summer | Annual Avg |
 |----------|--------|-------------|--------|------------|
 | Arizona | 5.5 | 7.0 | 7.5 | 6.5 |
@@ -190,6 +193,7 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 ### Step 4: System Voltage Selection
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | System Voltage | Panel Count | Wire Size | Best For |
 |---------------|-------------|-----------|----------|
 | **12V** | 1-4 panels | Larger (AWG 4-8) | RVs, boats, small systems <1000W |
@@ -206,6 +210,7 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 **Fixed Tilt Angle Rules**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Goal | Tilt Angle | When to Use |
 |------|-----------|-------------|
 | **Year-round average** | Latitude | Most off-grid systems |
@@ -235,6 +240,7 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 **Two-position system**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Tilt Angle | Adjustment Date |
 |--------|-----------|----------------|
 | **Summer** | Latitude - 15° | April 1 |
@@ -333,7 +339,7 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 ---
 
-## Common Mistakes & Solutions
+## Common Errors
 
 ### ❌ **Mistake 1**: Using AC-rated breakers for DC circuits
 
@@ -384,8 +390,9 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 ---
 
-## Quick Reference: Panel Selection Matrix
+## Panel Sel
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Use Case | Panel Type | Voltage Class | Size Range |
 |----------|-----------|---------------|------------|
 | RV/boat | Monocrystalline | 12V nominal | 100-200W |
@@ -397,7 +404,7 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 ---
 
-## Equipment Specifications
+## Equip Specs
 
 ### Minimum Specifications for Quality Panels
 
@@ -476,5 +483,5 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 ---
 
-*Last updated: 2026-02-19*
-*Layer: L3 Materials & Technology | Category: Energy/Power*
+Last updated: 2026-02-19
+Layer: L3 Materials & Technology | Category: Energy/Power

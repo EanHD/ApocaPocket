@@ -1,4 +1,4 @@
-# Seed Saving - L4 Agriculture
+# Seed Save
 
 **Priority: CRITICAL** | **Difficulty: Medium** | **Impact: One harvest → infinite food**
 
@@ -6,8 +6,9 @@
 
 Seed saving is the foundational skill for permanent food security. One successful harvest can provide seeds for decades if done correctly. This is the difference between temporary survival and civilization restart.
 
-## Seed Types: What Will Breed True?
+## Seed Types
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Breeds True? | Notes |
 |------|--------------|-------|
 | **Open-Pollinated (OP)** | ✅ YES | Naturally pollinated, stable genetics |
@@ -17,7 +18,7 @@ Seed saving is the foundational skill for permanent food security. One successfu
 
 **⚠️ CRITICAL:** Only save seeds from OP or heirloom varieties. Hybrid seeds may produce plants with wildly different characteristics or fail entirely.
 
-## Seed Extraction Methods
+## Seed Extraction
 
 ### Dry Processing (Easy)
 **For:** Beans, peas, lettuce, brassicas, flowers, herbs
@@ -42,7 +43,7 @@ Seed saving is the foundational skill for permanent food security. One successfu
 2. Scoop seeds and pulp into jar
 3. Add equal water, label with variety
 4. Ferment 2-4 days (bubbles form, film on top)
-   - **Purpose:** Removes germination inhibitors, kills diseases
+- **Purpose:** Removes germination inhibitors, kills diseases
 5. Add water, viable seeds sink (discard floaters)
 6. Rinse seeds thoroughly in fine strainer
 7. Dry on non-stick surface (wax paper, screens)
@@ -60,6 +61,7 @@ Seed saving is the foundational skill for permanent food security. One successfu
 
 **Storage Life by Crop:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Crop | Years (Cool/Dry) | Years (Frozen) |
 |------|------------------|----------------|
 | Beans, peas | 3-4 | 10+ |
@@ -90,16 +92,17 @@ Seed saving is the foundational skill for permanent food security. One successfu
 3. Keep at 65-75°F
 4. Check daily, count sprouted seeds after 7-10 days
 5. **Germination Rate:** (Sprouted ÷ Total) × 100
-   - >80% = Excellent
-   - 60-80% = Good (plant more densely)
-   - <60% = Replace stock
+- >80% = Excellent
+- 60-80% = Good (plant more densely)
+- <60% = Replace stock
 
 **Test annually** for critical crops, every 2-3 years for others.
 
-## Cross-Pollination Prevention
+## Cross-Pollination
 
 Seeds will cross with same species, producing off-type plants. Isolation required.
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Crop Family | Cross-Pollinates With | Isolation Distance |
 |-------------|----------------------|-------------------|
 | Squash/Pumpkin | Same species only* | 1/2 mile or cage |
@@ -132,7 +135,7 @@ Seeds will cross with same species, producing off-type plants. Isolation require
 - Introduce pollinators manually or hand pollinate
 - Alternate varieties in cage
 
-## Heritage Varieties to Prioritize
+## Heritage Varieties
 
 **Criteria:** Nutrition density, climate hardiness, flavor, disease resistance, storage life
 
@@ -171,7 +174,7 @@ Seeds will cross with same species, producing off-type plants. Isolation require
 - Danvers Half-Long Carrot (stores well)
 - Detroit Dark Red Beet (reliable)
 
-## Step-by-Step: First Year Seed Saving
+## Seed Save
 
 **Spring (Planting):**
 1. Choose 2-3 easy crops (beans, peas, tomatoes)
@@ -180,9 +183,9 @@ Seeds will cross with same species, producing off-type plants. Isolation require
 
 **Summer (Selection):**
 1. Mark best plants with flags/stakes
-   - First to produce
-   - Disease-free
-   - Truest to type (shape, color, flavor)
+- First to produce
+- Disease-free
+- Truest to type (shape, color, flavor)
 2. Let seed plants mature fully (don't harvest)
 
 **Fall (Harvest):**
@@ -199,15 +202,14 @@ Seeds will cross with same species, producing off-type plants. Isolation require
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Saving hybrid seeds | Only OP/heirloom varieties |
-| Harvesting immature seeds | Wait for full maturity (brown, dry) |
-| Storing damp seeds | Dry until brittle (snap test) |
-| Mixed varieties cross-pollinate | Isolate by distance or time |
-| No germination testing | Test annually, adjust planting |
-| Room temperature storage | Refrigerate for longevity |
-| Selecting pretty fruit | Select for health, vigor, productivity |
+**❌ Wrong:** ✓ Right
+**Saving hybrid seeds:** Only OP/heirloom varieties
+**Harvesting immature seeds:** Wait for full maturity (brown, dry)
+**Storing damp seeds:** Dry until brittle (snap test)
+**Mixed varieties cross-pollinate:** Isolate by distance or time
+**No germination testing:** Test annually, adjust planting
+**Room temperature storage:** Refrigerate for longevity
+**Selecting pretty fruit:** Select for health, vigor, productivity
 
 ## Why This Is Critical
 

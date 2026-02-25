@@ -1,4 +1,4 @@
-# Library Curation & Knowledge Preservation
+# Library Curation
 **Level 4: Education & Knowledge Transfer**
 
 ## Why This Matters
@@ -20,153 +20,153 @@
 
 ---
 
-## Priority 1: Which Books to Save First (Triage)
+## Priority 1: Save Books
 
 ### Medicine (Survival = Priority #1)
 
 **Essential**:
 1. **"Where There Is No Doctor"** by David Werner
-   - Most comprehensive lay medical guide
-   - Diagnostics, treatments, surgeries (with illustrations)
-   - Designed for resource-scarce environments
-   - **Why**: 90% of medical knowledge in one book
+- Most comprehensive lay medical guide
+- Diagnostics, treatments, surgeries (with illustrations)
+- Designed for resource-scarce environments
+- **Why**: 90% of medical knowledge in one book
 
 2. **"Where There Is No Dentist"** by Murray Dickson
-   - Dental problems = life-threatening if untreated (infection spreads)
-   - Tooth extraction, filling, pain management
+- Dental problems = life-threatening if untreated (infection spreads)
+- Tooth extraction, filling, pain management
 
 3. **"Emergency War Surgery"** (NATO Handbook)
-   - Trauma care, amputations, wound management
-   - Military medicine = worst-case survival medicine
-   - **Why**: Civilian medicine + trauma = complete emergency care
+- Trauma care, amputations, wound management
+- Military medicine = worst-case survival medicine
+- **Why**: Civilian medicine + trauma = complete emergency care
 
 4. **"The Merck Manual"** (Professional Edition)
-   - Comprehensive disease reference
-   - Symptoms, diagnoses, treatments (pharmaceutical + alternatives)
+- Comprehensive disease reference
+- Symptoms, diagnoses, treatments (pharmaceutical + alternatives)
 
 5. **Herbal medicine**:
-   - *PDR for Herbal Medicines* (Physician's Desk Reference)
-   - *Peterson Field Guide to Medicinal Plants*
-   - **Why**: No pharmaceutical industry → plant medicine is primary care
+- PDR for Herbal Medicines (Physician's Desk Reference)
+- Peterson Field Guide to Medicinal Plants
+- **Why**: No pharmaceutical industry → plant medicine is primary care
 
 ### Agriculture & Food (Survival = Priority #2)
 
 **Essential**:
 1. **"The Encyclopedia of Country Living"** by Carla Emery
-   - Farming, gardening, animal husbandry, food preservation
-   - 900+ pages, comprehensive homesteading
+- Farming, gardening, animal husbandry, food preservation
+- 900+ pages, comprehensive homesteading
 
 2. **"Seed to Seed"** by Suzanne Ashworth
-   - Seed saving (genetic preservation critical)
-   - Each crop: Pollination, harvesting, storage
+- Seed saving (genetic preservation critical)
+- Each crop: Pollination, harvesting, storage
 
 3. **Permaculture books**:
-   - *Permaculture: A Designer's Manual* by Bill Mollison
-   - *Gaia's Garden* by Toby Hemenway
-   - **Why**: Sustainable food systems (not just short-term survival)
+- Permaculture: A Designer's Manual by Bill Mollison
+- Gaia's Garden by Toby Hemenway
+- **Why**: Sustainable food systems (not just short-term survival)
 
 4. **"Four-Season Harvest"** by Eliot Coleman
-   - Year-round food production (extends growing season)
-   - Cold frames, season extension
+- Year-round food production (extends growing season)
+- Cold frames, season extension
 
 5. **Food preservation**:
-   - *Ball Complete Book of Home Preserving*
-   - Canning, fermenting, drying, smoking
-   - **Why**: Harvest surplus must be preserved (or starve in winter)
+- Ball Complete Book of Home Preserving
+- Canning, fermenting, drying, smoking
+- **Why**: Harvest surplus must be preserved (or starve in winter)
 
 ### Engineering & Technology (Rebuild Civilization)
 
 **Essential**:
 1. **"Machinery's Handbook"** (30th Edition)
-   - 2,800 pages of engineering data
-   - Metalworking, machining, materials, threads, gears, math
-   - **Why**: THE reference for making machines
+- 2,800 pages of engineering data
+- Metalworking, machining, materials, threads, gears, math
+- **Why**: THE reference for making machines
 
 2. **"The Way Things Work"** by David Macaulay
-   - Visual explanations of mechanical principles
-   - Simple → complex machines
-   - **Why**: Teaches principles (can extrapolate to new inventions)
+- Visual explanations of mechanical principles
+- Simple → complex machines
+- **Why**: Teaches principles (can extrapolate to new inventions)
 
 3. **"Handyman In-Your-Pocket"** by Carl Weil
-   - Carpentry, plumbing, electrical, masonry
-   - Practical construction skills
+- Carpentry, plumbing, electrical, masonry
+- Practical construction skills
 
 4. **"Engineering in the Ancient World"** by J.G. Landels
-   - Historical low-tech solutions (Roman cranes, Greek water screws)
-   - **Why**: High-tech = unsustainable post-collapse; ancient tech = proven, reproducible
+- Historical low-tech solutions (Roman cranes, Greek water screws)
+- **Why**: High-tech = unsustainable post-collapse; ancient tech = proven, reproducible
 
 5. **Electrical engineering**:
-   - *The Art of Electronics* by Horowitz & Hill
-   - **Why**: Restore electricity = force multiplier (lights, motors, communication)
+- The Art of Electronics by Horowitz & Hill
+- **Why**: Restore electricity = force multiplier (lights, motors, communication)
 
 ### Chemistry & Materials Science
 
 **Essential**:
 1. **"The Golden Book of Chemistry Experiments"** (1960s edition)
-   - Banned in US (too dangerous) → exactly what you need
-   - DIY chemistry from basic materials
+- Banned in US (too dangerous) → exactly what you need
+- DIY chemistry from basic materials
 
 2. **"Industrial Electroplating"** by Durney
-   - Metallurgy, coatings, metal refining
-   - **Why**: Advanced metalworking requires electrochemistry
+- Metallurgy, coatings, metal refining
+- **Why**: Advanced metalworking requires electrochemistry
 
 3. **"Caveman Chemistry"** by Kevin Dunn
-   - Stone Age → Iron Age technology (practical, DIY)
-   - Soap, glass, acids, metals
+- Stone Age → Iron Age technology (practical, DIY)
+- Soap, glass, acids, metals
 
 4. **"The Complete Metalsmith"** by Tim McCreight
-   - Casting, forging, joining metals
-   - **Why**: Metal = tools = civilization
+- Casting, forging, joining metals
+- **Why**: Metal = tools = civilization
 
 ### General Reference
 
 **Essential**:
 1. **"Wikipedia printed"** (Project Kiwix, offline Wikipedia)
-   - 100GB compressed (6+ million articles)
-   - **How to preserve**: Download to hard drives (multiple copies, Faraday cages)
-   - **Why**: Broadest knowledge base (millions of topics)
+- 100GB compressed (6+ million articles)
+- **How to preserve**: Download to hard drives (multiple copies, Faraday cages)
+- **Why**: Broadest knowledge base (millions of topics)
 
 2. **Encyclopedia (Physical)**:
-   - *Britannica* (32 volumes, 15th edition)
-   - **Why**: Power grids fail → digital dies; paper survives
+- Britannica (32 volumes, 15th edition)
+- **Why**: Power grids fail → digital dies; paper survives
 
 3. **Dictionaries**:
-   - *Oxford English Dictionary* (linguistic history, definitions)
-   - **Why**: Language preserves culture, precise communication critical
+- Oxford English Dictionary (linguistic history, definitions)
+- **Why**: Language preserves culture, precise communication critical
 
 ### History & Social Organization
 
 **Essential**:
 1. **"The History of the Decline and Fall of the Roman Empire"** by Edward Gibbon
-   - **Why**: Learn how civilizations collapse (avoid repeating)
+- **Why**: Learn how civilizations collapse (avoid repeating)
 
 2. **"Guns, Germs, and Steel"** by Jared Diamond
-   - Why some societies succeeded, others failed
-   - Geography, resources, domestication
+- Why some societies succeeded, others failed
+- Geography, resources, domestication
 
 3. **"The Federalist Papers"**
-   - Governance, law, political philosophy
-   - **Why**: Restarting society requires functional government
+- Governance, law, political philosophy
+- **Why**: Restarting society requires functional government
 
 4. **Military strategy**:
-   - *The Art of War* by Sun Tzu
-   - *On War* by Carl von Clausewitz
-   - **Why**: Defense critical (raiders, warlords inevitable post-collapse)
+- The Art of War by Sun Tzu
+- On War by Carl von Clausewitz
+- **Why**: Defense critical (raiders, warlords inevitable post-collapse)
 
 ---
 
-## Priority 2: Preservation (Making Books Last Centuries)
+## Priority 2: Preserve
 
 ### Environmental Control (Critical)
 
 **Ideal conditions** (archive-quality):
 - **Temperature**: 60-70°F (15-21°C), **constant** (fluctuation = damage)
 - **Humidity**: 30-50% relative humidity
-  - **Too high** (>60%): Mold, mildew, paper degradation
-  - **Too low** (<30%): Paper becomes brittle, cracks
+- **Too high** (>60%): Mold, mildew, paper degradation
+- **Too low** (<30%): Paper becomes brittle, cracks
 - **Light**: **NONE** (light degrades paper, ink fades)
-  - Especially avoid: Sunlight (UV destroys organic materials)
-  - Windows: Blackout curtains or no windows
+- Especially avoid: Sunlight (UV destroys organic materials)
+- Windows: Blackout curtains or no windows
 - **Air quality**: Clean, no pollutants (smoke, chemicals accelerate decay)
 
 **Achievable in restart scenario**:
@@ -187,8 +187,8 @@
 2. **Traps**: Sticky traps, snap traps (monitor/remove pests)
 3. **Cleanliness**: No food/crumbs in library (attracts pests)
 4. **Natural repellents**:
-   - **Lavender, cedar**: Insects dislike scent (sachets in storage)
-   - **Diatomaceous earth**: Sprinkle around perimeter (kills insects mechanically)
+- **Lavender, cedar**: Insects dislike scent (sachets in storage)
+- **Diatomaceous earth**: Sprinkle around perimeter (kills insects mechanically)
 5. **Freezing** (if available): Books infested with eggs → freeze 48 hours (kills larvae)
 
 ### Handling & Storage
@@ -196,7 +196,7 @@
 **DO**:
 - **Handle with clean, dry hands** (or cotton gloves for rare books)
 - **Store vertically** (spine down, upright on shelf)
-  - Books same size together (prevents warping)
+- Books same size together (prevents warping)
 - **Avoid overpacking**: Air circulation important
 - **Support with bookends**: No leaning (causes spine damage)
 
@@ -214,14 +214,14 @@
 1. **Multiple locations**: Store duplicate copies in separate buildings (miles apart)
 2. **Fire-resistant construction**: Stone/brick library, minimal wood
 3. **Fire suppression**:
-   - **Water**: Buckets, pump (if fire caught early)
-   - **Sand**: Smother fire (doesn't damage books like water)
-   - **NO sprinklers**: Water destroys books (controlled extinguishing better)
+- **Water**: Buckets, pump (if fire caught early)
+- **Sand**: Smother fire (doesn't damage books like water)
+- **NO sprinklers**: Water destroys books (controlled extinguishing better)
 4. **Digital backups** (if possible): Scan books, store on hard drives (Faraday cage, multiple locations)
 
 ---
 
-## Priority 3: Copying & Distribution (Spread Knowledge)
+## Copy & Distrib
 
 ### Why Copies Matter
 **Single copy = single point of failure**
@@ -281,13 +281,13 @@
 
 ---
 
-## Priority 4: Organization (Finding Knowledge When Needed)
+## Priority 4
 
 ### Why Organization Matters
 **10,000 books = useless if you can't find the one you need**
 
 **Example scenario**:
-- Medical emergency → need *Where There Is No Doctor*, page 250 (appendicitis treatment)
+- Medical emergency → need Where There Is No Doctor, page 250 (appendicitis treatment)
 - **With organization**: Find book in 30 seconds
 - **Without organization**: Frantically search for hours (patient dies)
 
@@ -309,9 +309,9 @@
 
 **Sub-categories**: Each 100s further divided:
 - **610**: Medicine
-  - **615**: Pharmacology (herbal medicine, drugs)
-  - **617**: Surgery
-  - **618**: Gynecology, obstetrics
+- **615**: Pharmacology (herbal medicine, drugs)
+- **617**: Surgery
+- **618**: Gynecology, obstetrics
 
 **Result**: Every book gets a number → shelve numerically → easy to find
 
@@ -348,7 +348,7 @@
 
 ---
 
-## Specific Book Recommendations by Category
+## Specific Recs
 
 ### Medicine (Top 20)
 1. Where There Is No Doctor (Werner)
@@ -408,7 +408,7 @@
 
 ---
 
-## Digital Preservation (If Technology Available)
+## Digital Preservation
 
 ### Advantages of Digital
 - **Space**: 1 hard drive = 1 million books (compressed)
@@ -433,7 +433,7 @@
 
 ---
 
-## Historical Case Study: Monastery Libraries (500-1450 CE)
+## Monastery Libs (500-14
 
 **Context**: Western Roman Empire collapsed (476 CE) → chaos, warfare, literacy collapsed
 
@@ -452,7 +452,7 @@
 
 ---
 
-## Civilization Restart Scenario: Library as Command Center
+## Civilization Restart
 
 **Functions**:
 1. **Knowledge hub**: Where experts consult references
@@ -470,12 +470,12 @@
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *The Library: A World History* by Campbell & Pryce (libraries across civilizations)
-- *The Bad-Ass Librarians of Timbuktu* by Hammer (preserving books during war)
-- *Preserving Digital Information* by Rothenberg (digital archiving)
-- *How to Manage a Small Library* by Saffady (practical library operations)
+- The Library: A World History by Campbell & Pryce (libraries across civilizations)
+- The Bad-Ass Librarians of Timbuktu by Hammer (preserving books during war)
+- Preserving Digital Information by Rothenberg (digital archiving)
+- How to Manage a Small Library by Saffady (practical library operations)
 
 ---
 

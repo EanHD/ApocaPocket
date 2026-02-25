@@ -148,7 +148,7 @@ Modern people think "stone tools = dull, crude, primitive." This is completely, 
 - **Time:** 2-4 hours
 - **Uses:** Woodworking, chopping
 
-## Safety Equipment (CRITICAL)
+## Safety Gear
 
 ### Eye Protection
 - **Danger:** Flying chips, splinters (can blind)
@@ -291,9 +291,9 @@ Modern people think "stone tools = dull, crude, primitive." This is completely, 
 - Scale reference (actual size)
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Whittaker, J. C. (1994).** *Flintknapping: Making and Understanding Stone Tools*. - Comprehensive modern manual
+- **Whittaker, J. C. (1994).** Flintknapping: Making and Understanding Stone Tools. - Comprehensive modern manual
 - **Crabtree, D. E. (1972).** "An Introduction to Flintworking." - Experimental archaeology techniques
 - **Callahan, E. (1996).** "The Basics of Biface Knapping in the Eastern Fluted Point Tradition." - Advanced point-making
 - **Scientific evidence:** Obsidian scalpels produce cuts 1/3 the width of steel (smoother healing)

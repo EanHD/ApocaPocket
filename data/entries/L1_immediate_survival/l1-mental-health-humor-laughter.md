@@ -7,7 +7,7 @@
 
 ---
 
-## Why Laughter Is Non-Negotiable
+## Laughter's Importance
 
 **Biological Truth:** Laughter is a human universal. No culture lacks humor. This is not coincidence—it's survival adaptation.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Warning: When Laughter Dies, People Follow
+## Laughter's End
 
 **Community red flags:**
 - **Silence:** No spontaneous laughter (meetings, meals, work)
@@ -62,7 +62,7 @@
 
 ---
 
-## Types of Humor: The Universal Toolkit
+## Types of Humor
 
 ### 1. Jokes (Structured Humor)
 
@@ -225,7 +225,7 @@
 
 ---
 
-## Psychological Functions: Why Humor Heals
+## Humor Heals
 
 ### Stress Relief (Primary Function)
 
@@ -295,7 +295,7 @@
 
 ---
 
-## Group Humor Activities: Structured Comedy
+## Group Humor
 
 ### Bad Joke Night (Weekly Ritual)
 
@@ -374,7 +374,7 @@
 
 ---
 
-## Cultural Wisdom: Trickster Myths
+## Trickster Myths
 
 **Why every culture has tricksters:**
 
@@ -403,7 +403,7 @@
 
 ---
 
-## Balance: Humor Without Cruelty
+## Balance
 
 **Ethical guidelines:**
 
@@ -427,7 +427,7 @@
 
 ---
 
-## Warning: When Humor Becomes Toxic
+## Toxic Humor
 
 **Red flags:**
 
@@ -454,7 +454,7 @@
 
 ---
 
-## Historical Examples: Humor in Hell
+## Hell's Humor
 
 **Holocaust survivors:**
 - Jokes in concentration camps (psychological resistance)
@@ -462,7 +462,7 @@
 - Dark humor = cognitive control (vs. despair)
 - Survivor quote: "Laughter was a tiny freedom"
 
-**Viktor Frankl:** Neurologist in Auschwitz, later wrote *Man's Search for Meaning*
+**Viktor Frankl:** Neurologist in Auschwitz, later wrote Man's Search for Meaning
 - Prescribed humor as survival tool
 - Organized comedy nights (secret)
 - Survivors who maintained humor = better outcomes
@@ -481,7 +481,7 @@
 
 ---
 
-## Conclusion: Laugh or Die
+## Laugh or Die
 
 **Remember:**
 - Laughter = physiological medicine (measurable health benefits)
@@ -512,4 +512,4 @@
 
 ---
 
-*Last Updated: 2026 | Sources: Psychoneuroimmunology (2011), International Journal of Immunology (2007), Journal of Traumatic Stress (2013), Defense Psychology (2017), Creativity Research (2015), Frankl's Man's Search for Meaning (1946)*
+Last Updated: 2026 | Sources: Psychoneuroimmunology (2011), International Journal of Immunology (2007), Journal of Traumatic Stress (2013), Defense Psychology (2017), Creativity Research (2015), Frankl's Man's Search for Meaning (1946)

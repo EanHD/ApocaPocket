@@ -7,6 +7,7 @@
 
 ## Priority Hazard Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
 |--------|----------|-----------|--------|----------------------|-----------|
 | Extreme cold (-40°F+) | FATAL | Daily (winter) | Nov-Apr | Moderate (equipment/shelter) | l1-extreme-cold-survival.md |
@@ -20,7 +21,7 @@
 
 ---
 
-## 1. EXTREME COLD - The Constant Threat
+## EXTREME COLD
 
 ### Cold Injury Statistics (Alaska)
 - **Hypothermia deaths:** 10-20 per year
@@ -51,6 +52,7 @@
 
 ### Wind Chill (Alaska-Specific)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Actual Temp | 10 mph wind | 20 mph wind | 30 mph wind | 40 mph wind |
 |-------------|-------------|-------------|-------------|-------------|
 | 0°F | -9°F | -15°F | -19°F | -22°F |
@@ -171,7 +173,7 @@
 
 ---
 
-## 2. BROWN BEARS (Grizzlies) - Apex Predator
+## Brown Bears
 
 ### Alaska Brown Bear Profile
 
@@ -278,9 +280,9 @@
 - Prepare bear spray (safety off, finger on trigger)
 - **Don't run** (triggers chase instinct - bears can run 35 mph)
 - Watch bear's body language:
-  - Ears forward, head up = curious (may approach)
-  - Ears back, head low = agitated (may charge)
-  - Huffing, jaw popping, ground slapping = VERY agitated
+- Ears forward, head up = curious (may approach)
+- Ears back, head low = agitated (may charge)
+- Huffing, jaw popping, ground slapping = VERY agitated
 
 **If Bear Charges (Bluff or Real):**
 
@@ -339,7 +341,7 @@
 
 ---
 
-## 3. MOOSE AGGRESSION - Underestimated Danger
+## MOOSE DANGER
 
 ### Moose Attack Statistics
 - **5-10 injuries per year in Alaska** (MORE than bear injuries)
@@ -407,9 +409,9 @@
 2. **Get behind tree, large rock, vehicle** (moose won't follow around obstacle)
 3. **Keep obstacle between you and moose**
 4. **If knocked down:**
-   - Curl in ball (protect head, neck, internal organs)
-   - Hands over head
-   - Stay still (moose may stop trampling if you don't move)
+- Curl in ball (protect head, neck, internal organs)
+- Hands over head
+- Stay still (moose may stop trampling if you don't move)
 5. **Wait for moose to leave** (several minutes, ensure it's gone)
 
 **Moose vs Bear Encounters:**
@@ -460,7 +462,7 @@
 
 ---
 
-## 4. ISOLATION & INJURY - The Silent Killer
+## Isolation Injury
 
 ### Alaska Size & Remoteness
 - **663,300 square miles** (1/5 of entire continental US)
@@ -561,10 +563,11 @@
 
 ---
 
-## 5. COLD WATER DROWNING - Fast Killer
+## COLD WATER
 
 ### Alaska Water Temperature (DEADLY Year-Round)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Ocean (Coastal) | Rivers (Interior) | Lakes | Survival Time |
 |--------|----------------|-------------------|-------|---------------|
 | Summer (Jun-Aug) | 45-55°F | 40-50°F | 50-60°F | 1-3 hours |
@@ -655,7 +658,7 @@
 
 ---
 
-## 6. WILD POTATO (Hedysarum alpinum) - "Into the Wild" WARNING
+## Wild Potato
 
 ### Chris McCandless Death (1992)
 - **Location:** Abandoned bus, Stampede Trail, Denali area
@@ -680,10 +683,10 @@
 - Contains: β-N-Oxalyl-L-α-β-diaminopropionic acid (ODAP) - neurotoxin
 - Causes: Lathyrism (neurodegenerative disease)
 - **Symptoms:**
-  - Weakness, paralysis (legs first)
-  - Inability to stand, walk
-  - Starvation exacerbation (body can't metabolize protein effectively)
-  - Progressive (worsens over days/weeks)
+- Weakness, paralysis (legs first)
+- Inability to stand, walk
+- Starvation exacerbation (body can't metabolize protein effectively)
+- Progressive (worsens over days/weeks)
 - **No antidote**
 - **Fatal:** If combined with starvation, dehydration
 
@@ -735,10 +738,11 @@
 
 ---
 
-## Regional Hazard Summary
+## Regional Hazards
 
 ### Monthly Hazard Calendar
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Month | Primary Threats | Secondary Threats | Activity Guidance |
 |-------|----------------|-------------------|-------------------|
 | Jan | Extreme cold (-40°F+), darkness (polar night in Arctic) | Equipment failure, isolation | Most dangerous month, stay in shelter |

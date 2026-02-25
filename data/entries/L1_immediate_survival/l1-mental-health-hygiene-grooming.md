@@ -7,7 +7,7 @@
 
 ---
 
-## Why Hygiene Is Psychological Warfare Against Despair
+## Hygiene vs Despair
 
 **Clinical Truth:** When people stop caring for their bodies, they're dying inside. Hygiene neglect is a major depression symptom.
 
@@ -33,7 +33,7 @@
 
 ---
 
-## The Dignity-Health-Survival Triangle
+## Dignity-Health-Surviva
 
 ```
            DIGNITY
@@ -54,7 +54,7 @@ Lose one corner → Triangle collapses → Death
 
 ---
 
-## Hair Care: More Than Appearance
+## Hair Care
 
 ### Washing Hair
 
@@ -125,7 +125,7 @@ Lose one corner → Triangle collapses → Death
 
 ---
 
-## Dental Care: Prevent Catastrophic Tooth Loss
+## Dental Care
 
 **Why critical:**
 - **Pain:** Toothache = debilitating (infection, abscess)
@@ -204,7 +204,7 @@ Lose one corner → Triangle collapses → Death
 
 ---
 
-## Bathing: Full-Body Cleanliness
+## Bathing
 
 ### When Water is Scarce
 
@@ -341,7 +341,7 @@ Using:
 
 ---
 
-## Shaving: Optional But Often Desired
+## Shave
 
 **Cultural variability:** 
 - Some cultures value beards (masculine, wise, protective)
@@ -387,7 +387,7 @@ Using:
 
 ---
 
-## Clothing Maintenance: Hygiene Extends Beyond Skin
+## Cloth Care
 
 **Why clean clothes matter:**
 - **Disease prevention:** Dirty clothes = bacteria, fungus (skin infections)
@@ -440,7 +440,7 @@ Using:
 
 ---
 
-## Warning Signs: Hygiene Neglect as Depression Indicator
+## Hygiene & Depression
 
 **Individual signs (watch for in yourself and others):**
 - **Sudden change:** Person who was clean → stops bathing
@@ -466,7 +466,7 @@ Using:
 
 ---
 
-## Building a Hygiene Culture
+## Hygiene Culture
 
 **Community standards:**
 - **Normalize self-care:** Everyone bathes, grooms (social expectation)
@@ -492,7 +492,7 @@ Using:
 
 ---
 
-## Historical Examples: Hygiene Under Adversity
+## Hygiene in Adversity
 
 **Japanese Internment Camps (WWII, US):**
 - Prisoners maintained grooming despite deprivation
@@ -516,7 +516,7 @@ Using:
 
 ---
 
-## Conclusion: Grooming as Resistance
+## Conclusion: Grooming
 
 **Remember:**
 - Clean body ≠ vanity (survival strategy)
@@ -547,4 +547,4 @@ Using:
 
 ---
 
-*Last Updated: 2026 | Sources: Psychology of Self-Care (2017), Behavioral Psychology (2015), Journal of Environmental Psychology (2011), Suicide Prevention Research (2018), Historical Hygiene Studies (ongoing)*
+Last Updated: 2026 | Sources: Psychology of Self-Care (2017), Behavioral Psychology (2015), Journal of Environmental Psychology (2011), Suicide Prevention Research (2018), Historical Hygiene Studies (ongoing)

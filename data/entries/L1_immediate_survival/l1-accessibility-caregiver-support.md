@@ -8,7 +8,7 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 
 ---
 
-## Lifting & Transfer Techniques
+## Lift & Transfer
 
 ### Body Mechanics (Prevent Injury)
 
@@ -62,12 +62,11 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 - **Hoyer lift:** Mechanical lift (rare in survival, but gold standard)
 
 **Improvised Equipment:**
-| Need | Improvised Solution |
-|------|---------------------|
-| Transfer board | Smooth plank, car hood, door, plastic sled |
-| Gait belt | Rope or cloth belt around waist (NOT under armpits = injury risk) |
-| Slide sheet | Slippery tarp, plastic sheeting, garbage bag |
-| Lifting sling | Strong tarp or blanket (4 corners held by 4 people) |
+**Need:** Improvised Solution
+**Transfer board:** Smooth plank, car hood, door, plastic sled
+**Gait belt:** Rope or cloth belt around waist (NOT under armpits = injury risk)
+**Slide sheet:** Slippery tarp, plastic sheeting, garbage bag
+**Lifting sling:** Strong tarp or blanket (4 corners held by 4 people)
 
 ---
 
@@ -203,6 +202,7 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 ### Texture Modification
 
 **Dysphagia Diet Levels:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Level | Texture | Examples |
 |-------|---------|----------|
 | Regular | Normal | All foods |
@@ -260,7 +260,7 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 
 ---
 
-## Pressure Sore Prevention
+## Pressure Sore
 
 ### Repositioning Schedule
 
@@ -316,6 +316,7 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 4. Check for open sores, blisters, broken skin
 
 **Pressure Injury Stages:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stage | Appearance | Action |
 |-------|------------|--------|
 | Stage 1 | Red area that doesn't blanch | Stop pressure immediately, increase repositioning |
@@ -339,12 +340,11 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 - Air cushion (inflatable)
 
 **Improvised Cushioning:**
-| Need | Improvised Solution |
-|------|---------------------|
-| Mattress pad | Folded blankets, clothing, moss (in waterproof bag) |
-| Heel protectors | Pillow under calves (heels float), cloth wrapped around ankles |
-| Elbow pads | Soft cloth wrap, foam pieces |
-| Wheelchair cushion | Folded blankets, inflated trash bags |
+**Need:** Improvised Solution
+**Mattress pad:** Folded blankets, clothing, moss (in waterproof bag)
+**Heel protectors:** Pillow under calves (heels float), cloth wrapped around ankles
+**Elbow pads:** Soft cloth wrap, foam pieces
+**Wheelchair cushion:** Folded blankets, inflated trash bags
 
 **Avoid:**
 - ❌ Donut cushions (concentrate pressure on surrounding area = worse)
@@ -374,13 +374,12 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 ### Non-Verbal Cues
 
 **Reading Body Language:**
-| Cue | Possible Meaning |
-|-----|------------------|
-| Grimacing, furrowed brow | Pain |
-| Restlessness, fidgeting | Discomfort, need to reposition |
-| Withdrawal, turning away | Overstimulated, need space |
-| Reaching, pointing | Need or want something |
-| Smiling, relaxed posture | Comfortable, content |
+**Cue:** Possible Meaning
+**Grimacing, furrowed brow:** Pain
+**Restlessness, fidgeting:** Discomfort, need to reposition
+**Withdrawal, turning away:** Overstimulated, need space
+**Reaching, pointing:** Need or want something
+**Smiling, relaxed posture:** Comfortable, content
 
 **Vocalizations (Non-Verbal People):**
 - Moaning, groaning = pain or discomfort
@@ -391,6 +390,7 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 ### Pain Assessment (Non-Verbal)
 
 **FLACC Pain Scale (0-10):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Category | 0 | 1 | 2 |
 |----------|---|---|---|
 | **Face** | Smiling, no distress | Occasional grimace | Frequent grimace, clenched jaw |
@@ -505,11 +505,9 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 - Primary caregiver + backup system
 
 **Schedule Example (3 Caregivers, 24 Hours):**
-| Time | Caregiver |
-|------|-----------|
-| 00:00-08:00 | Caregiver A (night shift) |
-| 08:00-16:00 | Caregiver B (day shift) |
-| 16:00-00:00 | Caregiver C (evening shift) |
+**00:00-08:00:** Caregiver A (night shift)
+**08:00-16:00:** Caregiver B (day shift)
+**16:00-00:00:** Caregiver C (evening shift)
 
 **Benefits:**
 - No single person exhausted
@@ -588,16 +586,15 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 
 ### Improvised Alternatives
 
-| Need | Improvised Solution |
-|------|---------------------|
-| Transfer board | Smooth plank, car hood, door |
-| Gait belt | Rope or cloth belt around waist |
-| Bedpan | Shallow bowl, cut plastic bottle |
-| Urinal | Bottle with wide opening |
-| Incontinence pad | Layered cloth, absorbent moss in cloth wrap |
-| Barrier cream | Petroleum jelly, vegetable oil |
-| Foam mattress | Multiple folded blankets |
-| Pillow | Clothing-stuffed bag |
+**Need:** Improvised Solution
+**Transfer board:** Smooth plank, car hood, door
+**Gait belt:** Rope or cloth belt around waist
+**Bedpan:** Shallow bowl, cut plastic bottle
+**Urinal:** Bottle with wide opening
+**Incontinence pad:** Layered cloth, absorbent moss in cloth wrap
+**Barrier cream:** Petroleum jelly, vegetable oil
+**Foam mattress:** Multiple folded blankets
+**Pillow:** Clothing-stuffed bag
 
 ---
 

@@ -1,4 +1,4 @@
-# Animal Husbandry: Chickens - L4 Agriculture
+# Chicken Husb
 
 **Priority: VERY HIGH** | **Difficulty: Easy** | **Impact: Reliable protein + eggs + manure**
 
@@ -39,31 +39,31 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 **Features Required:**
 1. **Roosts:** 8-10" per bird, 2-4 ft high
-   - 2×4 boards (wide side up)
-   - Rounded edges (comfortable feet)
-   - Higher roosts = preferred (pecking order)
+- 2×4 boards (wide side up)
+- Rounded edges (comfortable feet)
+- Higher roosts = preferred (pecking order)
 
 2. **Nesting Boxes:** 1 box per 3-4 hens
-   - Size: 12×12×12 inches
-   - Filled with straw, wood shavings, or hay
-   - Slightly dim/private (hens prefer)
-   - 2-3 ft off ground (access ramp if needed)
+- Size: 12×12×12 inches
+- Filled with straw, wood shavings, or hay
+- Slightly dim/private (hens prefer)
+- 2-3 ft off ground (access ramp if needed)
 
 3. **Ventilation:** Critical (prevent respiratory disease)
-   - Vents near roof (heat/moisture escape)
-   - Draft-free at bird level
-   - 1 sq ft vent per 10 sq ft floor
+- Vents near roof (heat/moisture escape)
+- Draft-free at bird level
+- 1 sq ft vent per 10 sq ft floor
 
 4. **Insulation:** Optional (depends on climate)
-   - Not needed in mild climates
-   - Insulate walls/ceiling in <0°F winters
-   - **Heat NOT recommended** (fire risk, dependency)
+- Not needed in mild climates
+- Insulate walls/ceiling in <0°F winters
+- **Heat NOT recommended** (fire risk, dependency)
 
 5. **Access Door:** Human-sized for cleaning (weekly)
 
 6. **Pop Door:** Chicken-sized (12×12"), 12-18" high
-   - Opens to run
-   - Lockable (close at night)
+- Opens to run
+- Lockable (close at night)
 
 ### Run (Outdoor Space)
 
@@ -73,19 +73,19 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 **Construction:**
 - **Fencing:** Chicken wire or hardware cloth
-  - Height: 6 ft (chickens fly)
-  - Buried: 12" underground or 18" apron (predators dig)
-  - **Hardware cloth >> chicken wire** (weasels/rats bite through wire)
+- Height: 6 ft (chickens fly)
+- Buried: 12" underground or 18" apron (predators dig)
+- **Hardware cloth >> chicken wire** (weasels/rats bite through wire)
   
 - **Roof:** Net or solid cover
-  - Hawks attack from above
-  - Weather protection (sun/rain)
+- Hawks attack from above
+- Weather protection (sun/rain)
   
 - **Ground:** Options:
-  - Dirt/grass (chickens will denude it)
-  - Sand (drains well, easy to clean)
-  - Concrete (clean, but hard on feet)
-  - Deep litter (wood chips, compost in place)
+- Dirt/grass (chickens will denude it)
+- Sand (drains well, easy to clean)
+- Concrete (clean, but hard on feet)
+- Deep litter (wood chips, compost in place)
 
 ### Predator Protection (CRITICAL)
 
@@ -112,6 +112,7 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 ### Commercial Feed (Easiest)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Age | Protein | Use |
 |------|-----|---------|-----|
 | **Chick Starter** | 0-6 weeks | 18-20% | Growing chicks |
@@ -202,6 +203,7 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 ### Production Rates
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Breed | Eggs/Year | Egg Size | Notes |
 |-------|-----------|----------|-------|
 | **Leghorn** | 280-320 | Large | Best layer, flighty |
@@ -239,8 +241,8 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 ### Flock Composition
 - **Layers only:** 0 roosters (all hens lay unfertilized eggs)
 - **Breeding flock:** 1 rooster per 8-12 hens
-  - More roosters = fighting, over-mating hens (feather damage)
-  - Fewer hens = over-mated (stress, injury)
+- More roosters = fighting, over-mating hens (feather damage)
+- Fewer hens = over-mated (stress, injury)
 
 **Rooster Pros:**
 - Fertile eggs (hatch chicks)
@@ -313,6 +315,7 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 ### Common Diseases
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Disease | Symptoms | Prevention | Treatment |
 |---------|----------|------------|-----------|
 | **Coccidiosis** | Bloody droppings, lethargy | Medicated chick starter, clean water | Amprolium (Corid) |
@@ -334,7 +337,7 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 - Disinfect equipment between uses
 - Remove dead birds immediately (disease vector)
 
-## Butchering (Meat Birds)
+## Butchering
 
 **Age:** 8-12 weeks (broilers), 16-20 weeks (dual-purpose)
 **Weight:** 4-6 lbs live = 3-4 lbs dressed
@@ -345,7 +348,7 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 1. **Fast:** 12-24 hours (empty crop/intestines)
 2. **Kill:** Sharp knife, cut jugular veins (quick, humane)
-   - Or use killing cone (humane, contains flapping)
+- Or use killing cone (humane, contains flapping)
 3. **Bleed:** 2-3 minutes (hang upside down)
 4. **Scald:** 140-160°F water, 30-60 seconds (loosens feathers)
 5. **Pluck:** Pull feathers (easier while warm)
@@ -358,7 +361,7 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 **Yield:** 65-75% of live weight (bone-in)
 
-## Why Chickens Are Critical
+## Chickens Critical
 
 **Food Security:**
 - 1 hen = 200-300 eggs/year = 16-25 lbs protein
@@ -381,15 +384,14 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Weak predator protection | Hardware cloth, buried/apron fence, secure latches |
-| Only chicken wire (predators break through) | 1/2" or 1/4" hardware cloth |
-| Overcrowding (disease, stress) | 4 sq ft indoor + 10 sq ft outdoor minimum |
-| Poor ventilation (respiratory disease) | High vents, draft-free at bird level |
-| All roosters (fighting) | 1 rooster per 8-12 hens max |
-| Expecting immediate eggs | 18-22 weeks to first egg |
-| Dirty water (disease) | Clean daily, fresh water |
+**❌ Wrong:** ✓ Right
+**Weak predator protection:** Hardware cloth, buried/apron fence, secure latches
+**Only chicken wire (predators break through):** 1/2" or 1/4" hardware cloth
+**Overcrowding (disease, stress):** 4 sq ft indoor + 10 sq ft outdoor minimum
+**Poor ventilation (respiratory disease):** High vents, draft-free at bird level
+**All roosters (fighting):** 1 rooster per 8-12 hens max
+**Expecting immediate eggs:** 18-22 weeks to first egg
+**Dirty water (disease):** Clean daily, fresh water
 
 ## Cross-References
 - **[l4-agriculture-composting.md]** - Chicken manure composting (hot, nitrogen-rich)

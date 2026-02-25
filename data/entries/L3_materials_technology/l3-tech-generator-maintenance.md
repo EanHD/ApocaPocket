@@ -101,6 +101,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 ### Oil Specifications
 
 **Viscosity by Temperature:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Temperature Range | Recommended Oil | Alternate |
 |-------------------|-----------------|-----------|
 | Below 32°F (0°C) | 5W-30 synthetic | 5W-20 |
@@ -114,6 +115,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Break-in: Use conventional for first 20 hours (rings seat better)
 
 **Oil Capacity by Engine Size:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Engine Displacement | Oil Capacity | Common Generators |
 |---------------------|--------------|-------------------|
 | 80-100cc | 0.4-0.5 qt | 1,000-2,000W |
@@ -154,9 +156,9 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Let drain completely (3-5 minutes)
 - Tilt generator slightly toward drain (empties sump fully)
 - Inspect drained oil:
-  - Black = normal carbon
-  - Milky = water contamination (head gasket leak)
-  - Metallic = bearing wear (serious issue)
+- Black = normal carbon
+- Milky = water contamination (head gasket leak)
+- Metallic = bearing wear (serious issue)
 
 **4. Replace Drain Plug**
 - Wipe plug threads clean
@@ -201,22 +203,22 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 
 ### Common Oil Change Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Draining cold oil (contaminants settle) | Warm engine 5 min before draining |
-| Overfilling oil (foaming, pressure) | Fill to FULL mark, not above |
-| Reusing drain plug washer | Replace crush washer each change |
-| Overtightening drain plug | Use torque wrench or 1/4 turn past hand-tight |
-| Wrong viscosity (thick oil in cold) | Match viscosity to temperature range |
-| Running old oil "just a bit longer" | Change at interval (acids corrode bearings) |
-| Mixing synthetic and conventional | OK to mix, but defeats synthetic benefits |
-| Not checking for leaks after change | Run 3 min, inspect drain plug/filter |
+**❌ Wrong:** ✓ Right
+**Draining cold oil (contaminants settle):** Warm engine 5 min before draining
+**Overfilling oil (foaming, pressure):** Fill to FULL mark, not above
+**Reusing drain plug washer:** Replace crush washer each change
+**Overtightening drain plug:** Use torque wrench or 1/4 turn past hand-tight
+**Wrong viscosity (thick oil in cold):** Match viscosity to temperature range
+**Running old oil "just a bit longer":** Change at interval (acids corrode bearings)
+**Mixing synthetic and conventional:** OK to mix, but defeats synthetic benefits
+**Not checking for leaks after change:** Run 3 min, inspect drain plug/filter
 
 ## Spark Plug Maintenance
 
 ### Spark Plug Specifications
 
 **Plug Type by Engine:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Engine Type | Thread Size | Reach | Gap | Heat Range |
 |-------------|-------------|-------|-----|------------|
 | Small 2-stroke | 10mm | 12.7mm (1/2") | 0.024-0.028" | Hot (B6, BR6) |
@@ -257,6 +259,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 
 **2. Inspect Condition**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Appearance | Diagnosis | Action |
 |------------|-----------|---------|
 | Light tan/gray, dry | Normal combustion | Gap and reinstall or replace if 100+ hrs |
@@ -275,6 +278,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Adjustment: Gently tap ground electrode to close, pry to open
 
 **Gap Settings:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Engine Type | Gap Range | Typical Setting |
 |-------------|-----------|-----------------|
 | Magneto ignition | 0.024-0.028" | 0.025" |
@@ -289,7 +293,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 
 **5. Install Plug**
 - Apply anti-seize to threads (aluminum heads only, 2 threads)
-  - **Do NOT use** on steel heads or taper seat plugs
+- **Do NOT use** on steel heads or taper seat plugs
 - Start by hand (prevent cross-threading)
 - Tighten specifications:
   | Thread Size | With Gasket | Taper Seat (no gasket) |
@@ -298,8 +302,8 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
   | 14mm | 18-22 ft-lbs | 15-20 ft-lbs |
   | 18mm | 25-30 ft-lbs | 20-25 ft-lbs |
 - Without torque wrench (gasket seat):
-  - Finger-tight until gasket contacts
-  - Turn 1/2 turn (90°) additional
+- Finger-tight until gasket contacts
+- Turn 1/2 turn (90°) additional
 - Reconnect spark plug wire (push until clicks)
 
 ### Spark Plug Replacement
@@ -393,8 +397,8 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 **Cleaning (Emergency Only):**
 - Tap filter on solid surface (knocks loose dust)
 - Compressed air from inside-out (blow dirt out)
-  - Max 30 PSI pressure (higher tears paper)
-  - Never from outside-in (embeds dirt in paper)
+- Max 30 PSI pressure (higher tears paper)
+- Never from outside-in (embeds dirt in paper)
 - NOT a substitute for replacement
 - 2-3 cleanings maximum (filter breaks down)
 
@@ -411,6 +415,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 
 ### Air Filter Troubleshooting
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Symptom | Cause | Solution |
 |---------|-------|----------|
 | Black smoke | Restricted air filter | Clean or replace filter |
@@ -419,7 +424,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 | Fuel in air filter | Float needle stuck | Rebuild carburetor |
 | Backfire through intake | Lean mixture or valve issue | Check filter restriction, valve clearance |
 
-## Fuel System Maintenance
+## Fuel Sys Maint
 
 ### Fuel Stabilizer
 
@@ -434,6 +439,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Mix thoroughly before adding to tank
 
 **Dosage:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stabilizer Brand | Treatment Ratio | Cost |
 |------------------|-----------------|------|
 | STA-BIL | 1 oz per 2.5 gal | $10/16 oz |
@@ -572,6 +578,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Load bank (professional tool)
 
 **Target Load:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Generator Size | 50% Load | Equipment Example |
 |----------------|----------|-------------------|
 | 3,500W | 1,750W | One 1,500W heater + lights |
@@ -604,12 +611,11 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 12. Shut down
 
 **Pass Criteria:**
-| Parameter | Acceptable Range |
-|-----------|------------------|
-| Voltage (120V) | 114-126V (±5%) |
-| Voltage (240V) | 228-252V (±5%) |
-| Frequency | 59-61 Hz (±1 Hz) |
-| Temperature rise | Not exceeding spec (typically <200°F) |
+**Parameter:** Acceptable Range
+**Voltage (120V):** 114-126V (±5%)
+**Voltage (240V):** 228-252V (±5%)
+**Frequency:** 59-61 Hz (±1 Hz)
+**Temperature rise:** Not exceeding spec (typically <200°F)
 
 **Failure Indicators:**
 - Voltage drops >5% under load
@@ -639,6 +645,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 8. Record recovery voltage
 
 **Expected Results:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Condition | Voltage Range | Status |
 |-----------|---------------|--------|
 | No load | 120-125V | Normal (slight high voltage OK) |
@@ -646,7 +653,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 | Heavy load | 110-115V | Acceptable (5-10% drop) |
 | Any condition | <108V or >132V | Problem (investigate) |
 
-## Battery Maintenance (Standby Generators)
+## Battery Maint
 
 ### Battery Specifications
 
@@ -713,7 +720,7 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Automatic shutoff when full
 - Prevents sulfation during long storage
 
-## Transfer Switch Testing
+## Transfer Test
 
 **Frequency:** Annually
 
@@ -766,23 +773,23 @@ Date       Hours   Oil Change   Spark Plug   Air Filter   Fuel      Load Test   
 2026-04-15   60    Yes (10W30)  Replaced     Replaced     Fresh     Yes (1hr)   Seasonal service
 ```
 
-## Common Maintenance Mistakes
+## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| "It started, so it's fine" (no load test) | Run under load monthly (identifies problems) |
-| Using automotive oil in air-cooled engines | Use small engine oil (higher zinc, detergents) |
-| Letting fuel sit all season | Run dry or add stabilizer immediately |
-| Checking oil with engine running | Shut down, wait 2 min, check on level surface |
-| Overtightening spark plug | Torque spec or 1/2 turn past gasket contact |
-| Washing air filter with gasoline | Use soap and water (gasoline breaks down foam) |
-| Never exercising generator between outages | Monthly 30-min run under load minimum |
-| Assuming battery is good (starts car) | Load test annually (generators need high CCA) |
-| Draining carb but leaving fuel in tank | Empty tank OR keep full with stabilizer |
-| Skipping oil change "just a few more hours" | Change at interval (acids corrode bearings) |
+**❌ Wrong:** ✓ Right
+**"It started, so it's fine" (no load test):** Run under load monthly (identifies problems)
+**Using automotive oil in air-cooled engines:** Use small engine oil (higher zinc, detergents)
+**Letting fuel sit all season:** Run dry or add stabilizer immediately
+**Checking oil with engine running:** Shut down, wait 2 min, check on level surface
+**Overtightening spark plug:** Torque spec or 1/2 turn past gasket contact
+**Washing air filter with gasoline:** Use soap and water (gasoline breaks down foam)
+**Never exercising generator between outages:** Monthly 30-min run under load minimum
+**Assuming battery is good (starts car):** Load test annually (generators need high CCA)
+**Draining carb but leaving fuel in tank:** Empty tank OR keep full with stabilizer
+**Skipping oil change "just a few more hours":** Change at interval (acids corrode bearings)
 
 ## Troubleshooting Guide
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Symptom | Likely Cause | Check/Fix |
 |---------|--------------|-----------|
 | Won't start (no spark) | Dead spark plug | Remove, inspect, test for spark |
@@ -796,7 +803,7 @@ Date       Hours   Oil Change   Spark Plug   Air Filter   Fuel      Load Test   
 | Surging RPM | Governor issue or air leak | Adjust governor, check for intake leaks |
 | Oil in air filter | Overfilled, worn rings | Drain to proper level, compression test |
 
-## Tools & Supplies Checklist
+## Tools Check
 
 **Basic Maintenance Kit:**
 - [ ] Engine oil (correct viscosity, 2 quarts)
@@ -824,7 +831,7 @@ Date       Hours   Oil Change   Spark Plug   Air Filter   Fuel      Load Test   
 - [ ] Battery load tester
 - [ ] Fuel line + clamps (spares)
 
-## Quick Reference - Intervals
+## Quick Ref
 
 **Every Use:** Oil level, fuel level, visual inspection (5 min)
 **Every 20-50 hrs:** Oil change, spark plug check, air filter clean (30-45 min)

@@ -8,6 +8,7 @@
 ## Climate Profile
 
 ### Temperature Ranges (Continental Climate)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Avg High | Avg Low | Extreme High | Extreme Low |
 |--------|----------|---------|--------------|-------------|
 | Summer (Jun-Aug) | 80-95°F | 60-70°F | 110°F+ | 50°F |
@@ -91,6 +92,7 @@
 
 ### Edible Plants (by season)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
 |-------|--------|------------|-------------|-------------|-----------|
 | Cattail | Year-round | Roots, shoots, pollen | 800-1200 | Raw/cooked roots, pollen flour | l1-cattail-guide.md |
@@ -154,6 +156,7 @@
 
 ### Large Game
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
 |--------|--------|--------|---------|---------------|------------------|
 | White-tailed deer | 100-250 lbs | Nov-Dec (firearms) | Edge habitat, woods/fields | Most important game animal | 40-100 |
@@ -170,6 +173,7 @@
 ### Fish & Aquatic
 
 **Great Lakes (Michigan, Superior, Huron, Erie, Ontario):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Size | Season | Method | Notes |
 |---------|------|--------|--------|-------|
 | Lake trout | 5-20 lbs | Year-round | Deep water, ice fishing | Cold-water species, excellent eating |
@@ -179,6 +183,7 @@
 | Whitefish | 2-6 lbs | Winter (ice) | Deep water, small baits | Traditional Native American food |
 
 **Rivers (Mississippi, Missouri, Ohio):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Size | Season | Method | Notes |
 |---------|------|--------|--------|-------|
 | Catfish (channel, flathead, blue) | 5-50 lbs | Spring-fall | Trotlines, juglines, cut bait | Bottom feeders, hardy fish |
@@ -210,7 +215,7 @@
 
 ---
 
-## Water Sources & Purification
+## Water Sources
 
 ### Water Availability (Seasonal)
 
@@ -397,10 +402,11 @@ Design: Underground or reinforced basement
 
 ---
 
-## Fire Making & Management
+## Fire Mgmt
 
 ### Wood Selection (BTU & Characteristics)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Wood Type | BTU/cord | Burn Rate | Coals | Split Difficulty | Availability |
 |-----------|----------|-----------|-------|-----------------|--------------|
 | Oak (red, white) | 24-30M | Slow | Excellent | Hard | Very common (east) |
@@ -463,7 +469,7 @@ Overnight: Fire burns down to coals (cold but safer than open flame)
 
 ---
 
-## Seasonal Survival Strategies
+## Seasonal Survival
 
 ### Spring (March-May)
 
@@ -597,7 +603,7 @@ Evening: Banking fire, meal, early sleep (long nights)
 
 ---
 
-## Regional Hazards Summary
+## Regional Hazards
 
 **Primary Killers:**
 1. **Hypothermia/cold exposure:** Winter (Dec-Feb), -40°F possible

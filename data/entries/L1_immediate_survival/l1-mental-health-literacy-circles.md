@@ -7,7 +7,7 @@
 
 ---
 
-## Why Literacy Is Psychological Survival
+## Why Literacy
 
 **Cognitive Reality:** The human brain requires intellectual stimulation. Without it, we deteriorate.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Three Scenarios: Adapt to What You Have
+## Three Scenarios
 
 ### Scenario 1: Books Available
 
@@ -42,23 +42,23 @@
 
 **Structure (90 minutes):**
 1. **Opening (5 min):** 
-   - Gather, settle
-   - Brief recap of last session
+- Gather, settle
+- Brief recap of last session
 2. **Reading (20-30 min):**
-   - Take turns reading aloud (rotation)
-   - Everyone follows along (those who have books)
-   - Pause to clarify vocabulary
+- Take turns reading aloud (rotation)
+- Everyone follows along (those who have books)
+- Pause to clarify vocabulary
 3. **Discussion (30-40 min):**
-   - What happened? (comprehension)
-   - Why did characters act this way? (analysis)
-   - What does this mean for us? (application)
-   - Open questions, no "right" answers
+- What happened? (comprehension)
+- Why did characters act this way? (analysis)
+- What does this mean for us? (application)
+- Open questions, no "right" answers
 4. **Reflection (10 min):**
-   - Key takeaways
-   - Questions to ponder until next time
+- Key takeaways
+- Questions to ponder until next time
 5. **Closing (5 min):**
-   - Set next reading assignment
-   - Thank participants
+- Set next reading assignment
+- Thank participants
 
 **Book selection:**
 - **Priority 1: Survival knowledge** (medicine, agriculture, building)
@@ -117,7 +117,7 @@
 
 ---
 
-## Teaching Literacy: The Phonics Method
+## Phonics Method
 
 **Why phonics:** 
 - Sound-based (matches how language actually works)
@@ -231,7 +231,7 @@
 
 ---
 
-## Diagram: Phonics Teaching Progression
+## Diagram: Phonics
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -286,7 +286,7 @@
 
 ---
 
-## Core Vocabulary: The Essential 500
+## Core Vocab
 
 **Why 500 words:**
 - Covers 80-90% of everyday communication
@@ -329,7 +329,7 @@
 
 ---
 
-## Discussion Techniques: Deep Learning
+## Deep Learning
 
 ### Socratic Method (Question-Driven)
 
@@ -391,7 +391,7 @@
 
 ---
 
-## Children's Literacy: Critical Priority
+## Children's Literacy
 
 **Why children first:**
 - **Neuroplasticity:** Easier to learn young
@@ -426,7 +426,7 @@
 
 ---
 
-## Community Benefit: Literacy as Social Capital
+## Literacy: Soc Cap
 
 **Shared knowledge:**
 - Literate community = knowledge preserved
@@ -447,7 +447,7 @@
 
 ---
 
-## Warning Signs: Intellectual Stagnation
+## Warning Signs
 
 **Individual indicators:**
 - No reading/learning activity (boredom, apathy)
@@ -475,7 +475,7 @@
 
 ---
 
-## Historical Examples: Literacy Under Adversity
+## Hist Lit
 
 **Enslaved Africans (US):**
 - **Teaching reading illegal** (punishable by death)
@@ -499,7 +499,7 @@
 
 ---
 
-## Conclusion: Read or Regress
+## Conclusion
 
 **Remember:**
 - Brain needs intellectual stimulation (use it or lose it)
@@ -530,4 +530,4 @@
 
 ---
 
-*Last Updated: 2026 | Sources: Lancet Neurology (2019), Journal of Psychiatric Research (2016), University of Sussex Reading Study (2009), Literacy Education Research (ongoing), Historical Literacy Studies*
+Last Updated: 2026 | Sources: Lancet Neurology (2019), Journal of Psychiatric Research (2016), University of Sussex Reading Study (2009), Literacy Education Research (ongoing), Historical Literacy Studies

@@ -39,7 +39,7 @@ warnings:
 
 Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW. Mental health emergencies are as dangerous as physical injuries — they just kill differently (suicide, reckless behavior, inability to care for self). When there's no 911, no hospital, no medication, YOU are the intervention.
 
-## RECOGNITION & TRIAGE (First 60 Seconds)
+## RECOGNI&TRIAGE
 
 ### IMMEDIATE DANGER ASSESSMENT:
 - [ ] **To self?** Suicidal statements, self-harm, refusing food/water, reckless behavior
@@ -75,7 +75,7 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 - Duration: Minutes to hours
 - Lucidity: Variable (may be rational between outbursts or completely dissociated)
 
-## IMMEDIATE ACTIONS (FIRST 5-15 MINUTES)
+## IMM ACT
 
 ### FOR PANIC ATTACK:
 
@@ -123,22 +123,22 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 **IMMEDIATE SAFETY:**
 - [ ] **DO NOT LEAVE THEM ALONE** (even to go to bathroom — someone stays within sight/earshot)
 - [ ] **REMOVE MEANS:**
-  - Weapons (guns, knives)
-  - Rope, belts, cords (hanging)
-  - Medications (overdose)
-  - Razors, glass, sharp objects (cutting)
-  - High places (jumping) — stay ground level
+- Weapons (guns, knives)
+- Rope, belts, cords (hanging)
+- Medications (overdose)
+- Razors, glass, sharp objects (cutting)
+- High places (jumping) — stay ground level
 - [ ] **Gather others:** Alert trusted community members, family (more eyes = safer)
 
 **Communication (Direct & Non-Judgmental):**
 - **ASK DIRECTLY:** "Are you thinking about killing yourself?"
-  - Myth: "Asking about suicide plants the idea." FALSE. Asking shows you care and gives them permission to talk.
+- Myth: "Asking about suicide plants the idea." FALSE. Asking shows you care and gives them permission to talk.
 - **IF YES:** "Do you have a plan? What is it? When?"
-  - Specific plan + means + timeline = HIGHEST RISK
+- Specific plan + means + timeline = HIGHEST RISK
 - **LISTEN WITHOUT:**
-  - Arguing ("You have so much to live for" = dismissive)
-  - Minimizing ("It's not that bad")
-  - Problem-solving ("Just do X and you'll feel better")
+- Arguing ("You have so much to live for" = dismissive)
+- Minimizing ("It's not that bad")
+- Problem-solving ("Just do X and you'll feel better")
 - **VALIDATE:** "I hear you. You're in a lot of pain. I'm glad you told me."
 
 **Safety Contract (Short-Term):**
@@ -166,13 +166,13 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 
 **Recognition:**
 - **Hallucinations:**
-  - Auditory: Hearing voices (commanding, commenting, conversing)
-  - Visual: Seeing people/things that aren't there
-  - Tactile: Feeling bugs crawling, being touched
+- Auditory: Hearing voices (commanding, commenting, conversing)
+- Visual: Seeing people/things that aren't there
+- Tactile: Feeling bugs crawling, being touched
 - **Delusions:**
-  - Paranoid: "They're trying to kill me," "The food is poisoned," "You're not who you say you are"
-  - Grandiose: "I'm God," "I have special powers," "I'm on a mission"
-  - Reference: "The radio is sending me messages," "Everyone is talking about me"
+- Paranoid: "They're trying to kill me," "The food is poisoned," "You're not who you say you are"
+- Grandiose: "I'm God," "I have special powers," "I'm on a mission"
+- Reference: "The radio is sending me messages," "Everyone is talking about me"
 - **Disorganization:** Incoherent speech (word salad), bizarre actions, can't track conversation
 
 **Causes (Consider Medical):**
@@ -192,8 +192,8 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 - **Speak:** Slowly, simply, low-pitched voice (high pitch = alarming)
 - **Say their name** often (grounds them in reality)
 - **DO NOT argue with delusions:**
-  - DON'T: "No, there are no voices. You're imagining it."
-  - DO: "I don't hear the voices, but I believe you do. That must be scary."
+- DON'T: "No, there are no voices. You're imagining it."
+- DO: "I don't hear the voices, but I believe you do. That must be scary."
 - **Validate feelings, not delusions:** "You seem frightened. I'm not here to hurt you."
 - **Offer choices (sense of control):** "Would you like to sit inside or outside?" "Water or juice?"
 
@@ -288,10 +288,10 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 **De-Escalation (If Safe to Attempt):**
 - **Stay calm** (your calm is contagious, your panic escalates theirs)
 - **Non-threatening body language:**
-  - Hands visible, open, at sides (not on hips, not pointing)
-  - Relaxed posture (not aggressive stance)
-  - Neutral face (no anger or fear showing)
-  - Avoid direct prolonged eye contact (can be seen as challenge)
+- Hands visible, open, at sides (not on hips, not pointing)
+- Relaxed posture (not aggressive stance)
+- Neutral face (no anger or fear showing)
+- Avoid direct prolonged eye contact (can be seen as challenge)
 - **Speak:** Slowly, low voice, calm tone
 - **Say:** "I'm not here to hurt you. I want to understand what's wrong. Can you tell me?"
 - **Acknowledge feelings:** "You seem really angry/scared. That's okay. Talk to me."
@@ -314,11 +314,11 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 - **Evacuate vulnerable** (children, elderly, injured)
 - **Group intervention** (3-5 people = safer than 1)
 - **Restrain ONLY if necessary:**
-  - Life is in immediate danger (they're killing someone, about to jump off cliff)
-  - Multiple people (never attempt alone)
-  - Technique: Control limbs, protect head, position on side (not face-down = suffocation risk)
-  - **Duration:** As brief as possible (prolonged restraint = trauma and injury)
-  - **After:** Monitor for injuries, explain what happened, provide care
+- Life is in immediate danger (they're killing someone, about to jump off cliff)
+- Multiple people (never attempt alone)
+- Technique: Control limbs, protect head, position on side (not face-down = suffocation risk)
+- **Duration:** As brief as possible (prolonged restraint = trauma and injury)
+- **After:** Monitor for injuries, explain what happened, provide care
 
 **Post-Violence:**
 - Separate aggressor (cooling off period)
@@ -326,7 +326,7 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 - Debrief (when calm): "What happened? What can we do differently?"
 - Establish consequences (if repeated, what will community do?)
 
-## TIMELINE-BASED RECOVERY
+## Timeline Recovery
 
 ### FIRST 24 HOURS POST-CRISIS:
 
@@ -395,7 +395,7 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 - Develop coping strategies (when you feel this way, you will…)
 - Build support network (who can you talk to?)
 
-## GROUP DYNAMICS & ROLE ASSIGNMENT
+## GROUP DYNAMICS
 
 ### Who SHOULD Provide Care:
 
@@ -431,11 +431,11 @@ Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW.
 - Mandatory breaks
 - Debrief with each other (vent frustrations, share strategies)
 - Recognize signs of burnout in yourself:
-  - Resentment toward person in crisis
-  - Hopelessness ("They'll never get better")
-  - Numbness or detachment
-  - Anger, irritability
-  - **If burned out:** Take break, hand off to someone else, get support
+- Resentment toward person in crisis
+- Hopelessness ("They'll never get better")
+- Numbness or detachment
+- Anger, irritability
+- **If burned out:** Take break, hand off to someone else, get support
 
 ## COMMON FATAL MISTAKES
 

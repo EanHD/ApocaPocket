@@ -37,6 +37,6 @@ steps:
 - 'LIMITATIONS: Herbal remedies work slowly. For severe diarrhea causing dehydration, prioritize ORS (oral rehydration solution). For persistent vomiting/diarrhea, seek medical care if possible.'
 ---
 
-# Digestive Issues — Wild Herbal Remedies
+# Digestive Issues
 
 Many wild plants have traditional use for digestive issues (diarrhea, nausea, stomach cramps). Not replacements for modern medicine but can provide relief when medical care is unavailable. Learn identification carefully.

@@ -119,7 +119,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## WHO Three-Step Analgesic Ladder
+## WHO Ladder
 
 ### Basic Principles
 
@@ -137,7 +137,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Step 1: Mild Pain (1-3/10) - Non-Opioid Analgesics
+## Mild Pain
 
 **Medications:**
 1. Acetaminophen (Tylenol, Paracetamol)
@@ -149,9 +149,9 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Dosing:**
 - **Adults:** 500-1000mg every 4-6 hours
-  - Maximum: 3000-4000mg per day (3000mg if regular alcohol use, liver disease)
+- Maximum: 3000-4000mg per day (3000mg if regular alcohol use, liver disease)
 - **Children:** 10-15 mg/kg every 4-6 hours
-  - Maximum: 75 mg/kg/day or 4000mg/day (whichever lower)
+- Maximum: 75 mg/kg/day or 4000mg/day (whichever lower)
 
 **Advantages:**
 - Very safe in therapeutic doses
@@ -180,10 +180,10 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Dosing:**
 - **Adults:** 400-800mg every 6-8 hours
-  - Maximum: 3200mg/day
-  - OTC maximum: 1200mg/day (higher doses prescription)
+- Maximum: 3200mg/day
+- OTC maximum: 1200mg/day (higher doses prescription)
 - **Children ≥6 months:** 10 mg/kg every 6-8 hours
-  - Maximum: 40 mg/kg/day or 1200mg/day (whichever lower)
+- Maximum: 40 mg/kg/day or 1200mg/day (whichever lower)
 
 **Advantages:**
 - Excellent for inflammatory pain (sprains, fractures, dental pain, menstrual cramps)
@@ -200,9 +200,9 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Dosing:**
 - **Adults:** 220-500mg every 8-12 hours
-  - Maximum: 1500mg/day
+- Maximum: 1500mg/day
 - **Children ≥2 years:** 5-7 mg/kg every 8-12 hours
-  - Maximum: 1000mg/day
+- Maximum: 1000mg/day
 
 **Advantages:**
 - Longer duration (twice daily dosing vs ibuprofen 3-4x daily)
@@ -216,10 +216,10 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Dosing:**
 - **Adults (pain/fever):** 325-650mg every 4-6 hours
-  - Maximum: 4000mg/day
+- Maximum: 4000mg/day
 - **Adults (heart attack prevention):** 81-325mg once daily (low-dose)
 - **Children:** Generally AVOID (<18 years - Reye's syndrome risk)
-  - Exception: Kawasaki disease, juvenile arthritis (doctor-prescribed)
+- Exception: Kawasaki disease, juvenile arthritis (doctor-prescribed)
 
 **Advantages:**
 - Cheap, widely available
@@ -268,7 +268,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Step 2: Moderate Pain (4-6/10) - Weak Opioids or Combination
+## Moderate Pain
 
 **Medications:**
 1. Tramadol
@@ -282,8 +282,8 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Dosing:**
 - **Adults:** 50-100mg every 4-6 hours
-  - Start 50mg (especially elderly, opioid-naive)
-  - Maximum: 400mg/day
+- Start 50mg (especially elderly, opioid-naive)
+- Maximum: 400mg/day
 - **Children ≥12 years:** 50mg every 6 hours (lower doses than adults)
 - **NOT recommended <12 years** (respiratory depression risk)
 
@@ -317,8 +317,8 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Disadvantages:**
 - Codeine is prodrug (converted to morphine by liver enzyme CYP2D6)
-  - 10% of population are "poor metabolizers" (codeine ineffective)
-  - 1-2% are "ultra-rapid metabolizers" (too much morphine = overdose risk, especially children)
+- 10% of population are "poor metabolizers" (codeine ineffective)
+- 1-2% are "ultra-rapid metabolizers" (too much morphine = overdose risk, especially children)
 - Constipation (very common)
 - Nausea, drowsiness
 - Addiction potential
@@ -348,7 +348,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Step 3: Severe Pain (7-10/10) - Strong Opioids
+## Severe Pain
 
 **Medications:**
 1. Morphine
@@ -368,8 +368,8 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Immediate-release (IR) oral:**
 - **Adults:** 5-30mg every 4 hours
-  - Opioid-naive start: 5-15mg
-  - Opioid-tolerant: 15-30mg or higher
+- Opioid-naive start: 5-15mg
+- Opioid-tolerant: 15-30mg or higher
 - **Children:** 0.15-0.3 mg/kg every 4 hours
 
 **Extended-release (ER/SR):**
@@ -398,8 +398,8 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Immediate-release:**
 - **Adults:** 5-30mg every 4-6 hours
-  - Opioid-naive start: 5-10mg
-  - Opioid-tolerant: 15-30mg
+- Opioid-naive start: 5-10mg
+- Opioid-tolerant: 15-30mg
 - **Children ≥6 years:** 0.1-0.2 mg/kg every 4-6 hours (rarely used in children)
 
 **Extended-release (OxyContin):**
@@ -425,12 +425,12 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Oral:**
 - **Adults:** 2-4mg every 4-6 hours
-  - Very potent (5-7x more potent than morphine)
-  - Start low (2mg)
+- Very potent (5-7x more potent than morphine)
+- Start low (2mg)
 
 **Injectable (IV/IM/SC):**
 - **Adults:** 0.5-2mg IV every 2-4 hours
-  - 1mg IV hydromorphone ≈ 7mg IV morphine
+- 1mg IV hydromorphone ≈ 7mg IV morphine
 
 **Advantages:**
 - Very potent (good for opioid-tolerant patients, small volumes needed)
@@ -447,8 +447,8 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Injectable (IV/IM):**
 - **Adults:** 25-100mcg IV every 1-2 hours
-  - 100mcg fentanyl ≈ 10mg morphine (IV)
-  - Start 25-50mcg (rapid onset, short duration)
+- 100mcg fentanyl ≈ 10mg morphine (IV)
+- Start 25-50mcg (rapid onset, short duration)
 
 **Transdermal patch (Duragesic):**
 - For chronic pain only (NOT acute pain)
@@ -471,25 +471,25 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Opioid Side Effects and Management
+## Opioid Mgmt
 
 ### Common Side Effects (Manage Proactively)
 
 **Constipation (Almost Universal):**
 - Mechanism: Opioids slow GI motility
 - Prevention: Start bowel regimen SAME DAY as opioid
-  - Stool softener: Docusate (Colace) 100mg twice daily
-  - Stimulant laxative: Senna (Senokot) 2 tablets at bedtime OR Bisacodyl (Dulcolax) 10mg at bedtime
-  - Osmotic laxative: Polyethylene glycol (Miralax) 17g daily
+- Stool softener: Docusate (Colace) 100mg twice daily
+- Stimulant laxative: Senna (Senokot) 2 tablets at bedtime OR Bisacodyl (Dulcolax) 10mg at bedtime
+- Osmotic laxative: Polyethylene glycol (Miralax) 17g daily
 - Goal: Bowel movement every 1-2 days
 - If no BM in 3 days: Add suppository (bisacodyl or glycerin) or enema
 
 **Nausea (30-40% of patients):**
 - Usually improves after 3-5 days (tolerance develops)
 - Treatment:
-  - Ondansetron (Zofran) 4-8mg every 8 hours OR
-  - Promethazine (Phenergan) 12.5-25mg every 6 hours OR
-  - Meclizine (Antivert) 25mg every 8 hours
+- Ondansetron (Zofran) 4-8mg every 8 hours OR
+- Promethazine (Phenergan) 12.5-25mg every 6 hours OR
+- Meclizine (Antivert) 25mg every 8 hours
 - Take opioid with food (reduces nausea)
 
 **Sedation:**
@@ -501,8 +501,8 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 **Itching (10-20%):**
 - Mechanism: Histamine release (especially morphine)
 - Treatment:
-  - Diphenhydramine (Benadryl) 25-50mg every 6 hours OR
-  - Hydroxyzine 25mg every 6 hours
+- Diphenhydramine (Benadryl) 25-50mg every 6 hours OR
+- Hydroxyzine 25mg every 6 hours
 - Switch to different opioid if severe (fentanyl, hydromorphone have less histamine release)
 
 ### Serious Side Effects (Monitor Closely)
@@ -515,19 +515,19 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Overdose:**
 - **Signs:**
-  - Pinpoint pupils (miosis)
-  - Respiratory depression (rate <10/min) or apnea (stopped breathing)
-  - Decreased level of consciousness (unarousable)
+- Pinpoint pupils (miosis)
+- Respiratory depression (rate <10/min) or apnea (stopped breathing)
+- Decreased level of consciousness (unarousable)
 - **Treatment:** Naloxone (Narcan)
-  - Intranasal: 4mg (1 spray per nostril) - repeat every 2-3 minutes if no response
-  - IM/IV: 0.4-2mg - repeat every 2-3 minutes (max 10mg)
-  - If no response after 10mg naloxone, consider other cause (not opioid overdose)
-  - Duration: 30-90 minutes (shorter than most opioids) - **may need repeated doses or infusion**
-  - Side effect: Precipitates withdrawal (patient wakes up agitated, in pain)
+- Intranasal: 4mg (1 spray per nostril) - repeat every 2-3 minutes if no response
+- IM/IV: 0.4-2mg - repeat every 2-3 minutes (max 10mg)
+- If no response after 10mg naloxone, consider other cause (not opioid overdose)
+- Duration: 30-90 minutes (shorter than most opioids) - **may need repeated doses or infusion**
+- Side effect: Precipitates withdrawal (patient wakes up agitated, in pain)
 
 ---
 
-## Opioid Safety and Addiction Prevention
+## Opioid Safety
 
 ### Addiction vs. Physical Dependence vs. Tolerance
 
@@ -553,7 +553,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 1. **Assess risk:** Screen for addiction history (CAGE questions, Opioid Risk Tool)
 2. **Lowest effective dose:** Start low, titrate to pain control
 3. **Short duration:** 3-7 days for acute pain (fracture, surgery, trauma)
-   - Longer duration = higher addiction risk
+- Longer duration = higher addiction risk
 4. **Scheduled weaning:** Taper dose (don't stop abruptly) - reduces withdrawal
 5. **Non-opioid alternatives:** Maximize Step 1 medications, consider non-pharmacological
 
@@ -575,10 +575,10 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 **Long-term use (>1 month):**
 - Taper 10-25% per week (slower = fewer withdrawal symptoms)
 - **Example:** Patient on morphine 30mg every 4 hours (180mg/day total)
-  - Week 1: Reduce to 150mg/day (25mg every 4 hours)
-  - Week 2: Reduce to 120mg/day (20mg every 4 hours)
-  - Week 3: Reduce to 90mg/day (15mg every 4 hours)
-  - Continue until off
+- Week 1: Reduce to 150mg/day (25mg every 4 hours)
+- Week 2: Reduce to 120mg/day (20mg every 4 hours)
+- Week 3: Reduce to 90mg/day (15mg every 4 hours)
+- Continue until off
 
 **Withdrawal symptoms:**
 - Mild: Anxiety, sweating, runny nose, muscle aches, insomnia
@@ -594,7 +594,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Adjuvant Medications (Enhance Analgesia)
+## Adjuvant Analgesics
 
 **Use in combination with analgesic ladder to enhance pain control.**
 
@@ -606,8 +606,8 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Gabapentin (Neurontin):**
 - Dosing: Start 300mg at bedtime, increase by 300mg every 3 days
-  - Typical dose: 300-600mg three times daily (900-1800mg/day)
-  - Maximum: 3600mg/day
+- Typical dose: 300-600mg three times daily (900-1800mg/day)
+- Maximum: 3600mg/day
 - Advantages: Well-tolerated, non-addictive
 - Disadvantages: Sedation (especially initially), takes 1-2 weeks for full effect
 - Uses: Diabetic neuropathy, shingles (postherpetic neuralgia), nerve injury
@@ -619,7 +619,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 **Amitriptyline (Tricyclic Antidepressant):**
 - Dosing: 10-25mg at bedtime, increase weekly
-  - Typical dose: 50-75mg at bedtime
+- Typical dose: 50-75mg at bedtime
 - Advantages: Also improves sleep
 - Disadvantages: Anticholinergic side effects (dry mouth, constipation, urinary retention), sedation
 - Contraindications: Recent heart attack, glaucoma, severe enlarged prostate
@@ -655,7 +655,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Non-Pharmacological Pain Management
+## Non-Pharmacol Pain Mgm
 
 **Always incorporate alongside medications** (synergistic effect).
 
@@ -785,7 +785,7 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Acute Pain by Condition
+## Acute Pain
 
 ### Fractures
 
@@ -842,22 +842,21 @@ The **WHO Analgesic Ladder** provides a systematic approach:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Undertreating pain ("tough it out") | Adequate analgesia promotes healing, prevents chronic pain |
-| Jumping to Step 3 for mild pain | Start at appropriate ladder step, titrate upward |
-| PRN-only dosing for constant pain | Scheduled dosing (prevents pain) + PRN for breakthrough |
-| Not starting bowel regimen with opioids | Start stool softener + stimulant laxative same day as opioid |
-| Stopping opioids abruptly after weeks of use | Taper dose (10-25% per week) to prevent withdrawal |
-| Using NSAIDs long-term without monitoring | Risk of GI bleeding, kidney damage - limit to <10 days or monitor closely |
-| Combining opioids with alcohol/benzodiazepines | Synergistic respiratory depression - potentially fatal |
-| Giving aspirin to children with viral illness | Reye's syndrome risk - use acetaminophen or ibuprofen instead |
+**❌ Mistake:** ✓ Correct
+**Undertreating pain ("tough it out"):** Adequate analgesia promotes healing, prevents chronic pain
+**Jumping to Step 3 for mild pain:** Start at appropriate ladder step, titrate upward
+**PRN-only dosing for constant pain:** Scheduled dosing (prevents pain) + PRN for breakthrough
+**Not starting bowel regimen with opioids:** Start stool softener + stimulant laxative same day as opioid
+**Stopping opioids abruptly after weeks of use:** Taper dose (10-25% per week) to prevent withdrawal
+**Using NSAIDs long-term without monitoring:** Risk of GI bleeding, kidney damage - limit to <10 days or monitor closely
+**Combining opioids with alcohol/benzodiazepines:** Synergistic respiratory depression - potentially fatal
+**Giving aspirin to children with viral illness:** Reye's syndrome risk - use acetaminophen or ibuprofen instead
 
 ---
 
-## When to Seek Medical Care
+## Seek Medical Care
 
 **Immediate evaluation needed if:**
 - Pain uncontrolled despite Step 3 medications

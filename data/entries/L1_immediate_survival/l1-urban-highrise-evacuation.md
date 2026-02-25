@@ -9,10 +9,10 @@ time_required: "15-60 minutes (varies by floor)"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "FEMA Urban Search and Rescue Field Operations Guide"
-  - "NFPA 101 Life Safety Code"
-  - "Department of Homeland Security Active Shooter Guidelines"
-  - "Council on Tall Buildings and Urban Habitat - Emergency Protocols"
+- "FEMA Urban Search and Rescue Field Operations Guide"
+- "NFPA 101 Life Safety Code"
+- "Department of Homeland Security Active Shooter Guidelines"
+- "Council on Tall Buildings and Urban Habitat - Emergency Protocols"
 ---
 
 # High-Rise Evacuation - Multi-Story Escape
@@ -38,7 +38,7 @@ sources:
 
 ---
 
-## Pre-Evacuation: 60-Second Assessment
+## Pre-Evac: 60-Second As
 
 ### Step 1: Identify Threat (15 seconds)
 
@@ -242,7 +242,7 @@ sources:
 
 ---
 
-## Floor-by-Floor Descent Strategy
+## Floor-by-Floor
 
 ### High Floors (30+)
 
@@ -287,7 +287,7 @@ sources:
 
 ---
 
-## Ground Floor Exit Protocol
+## Ground Floor Exit
 
 ### Lobby Assessment (5 seconds)
 
@@ -334,18 +334,18 @@ sources:
 
 **Options:**
 1. **Areas of refuge:** Fire-rated rooms on each floor (designated wheelchair waiting areas)
-   - Remain there, call 911, wait for firefighter rescue
-   - Pressurized, fire-resistant (30-60 min protection)
+- Remain there, call 911, wait for firefighter rescue
+- Pressurized, fire-resistant (30-60 min protection)
    
 2. **Evacuation chair:** Stairwell descent device (looks like a tracked sled)
-   - Requires 1-2 people to operate
-   - Descends stairs smoothly (wheels/tracks)
-   - Speed: 1-2 floors per minute
+- Requires 1-2 people to operate
+- Descends stairs smoothly (wheels/tracks)
+- Speed: 1-2 floors per minute
    
 3. **Buddy carry:** Two people carry wheelchair user
-   - Seat carry or fireman carry
-   - SLOW (1 floor every 2-3 minutes)
-   - High exertion (helper fatigue)
+- Seat carry or fireman carry
+- SLOW (1 floor every 2-3 minutes)
+- High exertion (helper fatigue)
 
 **Pre-planning:**
 - Identify helpers (coworkers, neighbors)
@@ -396,7 +396,7 @@ sources:
 
 ---
 
-## Scenario-Specific Protocols
+## Scenario Protocols
 
 ### Fire Above You
 
@@ -458,7 +458,7 @@ sources:
 
 ---
 
-## Communication & Coordination
+## Coordination
 
 ### Cellphone Usage
 
@@ -558,7 +558,7 @@ sources:
 
 ---
 
-## High-Rise Evacuation Drills
+## High Rise Drills
 
 ### Monthly Practice (5-10 minutes)
 
@@ -588,8 +588,9 @@ sources:
 
 ---
 
-## Quick Reference: Floor-to-Ground Times
+## Floor-to-Ground
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Starting Floor | Solo (No Crowds) | Light Crowds (50-100 people) | Heavy Crowds (300+ people) |
 |----------------|------------------|------------------------------|----------------------------|
 | 10th floor | 2-3 min | 5-8 min | 10-15 min |
@@ -606,24 +607,23 @@ sources:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Waiting for elevator | Use stairs ALWAYS during fire/earthquake |
-| Grabbing belongings (laptop, etc.) | 60 seconds max - go-bag only |
-| Going up to roof immediately | Only if fire below + smoke in stairs |
-| Opening hot door | Touch first - if hot, seal room & call 911 |
-| Sprinting down stairs | Controlled pace - falls cause pile-ups |
-| Re-entering building | NEVER - even for pets, documents, valuables |
-| Ignoring alarm (assuming false alarm) | Treat every alarm as real |
-| Forgetting to alert neighbors | Knock on 2-3 doors, shout "Evacuate!" |
-| Carrying heavy items | Hands free for railings, helping others |
-| Using phone for social media | Battery for 911 and emergency contact only |
+**❌ Mistake:** ✓ Correct
+**Waiting for elevator:** Use stairs ALWAYS during fire/earthquake
+**Grabbing belongings (laptop, etc.):** 60 seconds max - go-bag only
+**Going up to roof immediately:** Only if fire below + smoke in stairs
+**Opening hot door:** Touch first - if hot, seal room & call 911
+**Sprinting down stairs:** Controlled pace - falls cause pile-ups
+**Re-entering building:** NEVER - even for pets, documents, valuables
+**Ignoring alarm (assuming false alarm):** Treat every alarm as real
+**Forgetting to alert neighbors:** Knock on 2-3 doors, shout "Evacuate!"
+**Carrying heavy items:** Hands free for railings, helping others
+**Using phone for social media:** Battery for 911 and emergency contact only
 
 ---
 
-## When to Shelter in Place (Do NOT Evacuate)
+## Shelter In Place
 
 **Active shooter:**
 - If shooter in stairwell or lobby → Lock door, barricade, hide

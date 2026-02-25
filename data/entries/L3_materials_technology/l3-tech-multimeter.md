@@ -60,6 +60,7 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Categories (Safety Rating):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | CAT Rating | Application | Max Voltage | Environment |
 |------------|-------------|-------------|-------------|
 | CAT I | Low-voltage electronics | <50V | Battery-powered devices |
@@ -92,7 +93,7 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 - Dimmer circuits
 - Anywhere non-sinusoidal AC exists
 
-## Basic Measurement Procedures
+## Basic Measur
 
 ### Voltage Measurement (DC)
 
@@ -108,20 +109,21 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Procedure:**
 1. **Set meter to DC voltage (V⎓)**
-   - Auto-ranging: Just select V⎓
-   - Manual ranging: Select scale above expected voltage (e.g., 20V scale for 12V battery)
+- Auto-ranging: Just select V⎓
+- Manual ranging: Select scale above expected voltage (e.g., 20V scale for 12V battery)
 
 2. **Connect probes:**
-   - Black probe to COM (common/ground/negative)
-   - Red probe to V/Ω input
-   - Touch black probe to negative/ground point
-   - Touch red probe to positive/test point
+- Black probe to COM (common/ground/negative)
+- Red probe to V/Ω input
+- Touch black probe to negative/ground point
+- Touch red probe to positive/test point
 
 3. **Read display:**
-   - Positive value: Red probe more positive than black
-   - Negative value: Polarity reversed (not harmful, just backwards)
+- Positive value: Red probe more positive than black
+- Negative value: Polarity reversed (not harmful, just backwards)
 
 **Typical Measurements:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Circuit | Expected Voltage | Tolerance | Troubleshooting |
 |---------|------------------|-----------|-----------------|
 | AA alkaline (new) | 1.5V | 1.4-1.65V | <1.2V = depleted |
@@ -133,12 +135,11 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Common Mistakes:**
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Measuring 120V AC with meter set to DC | Verify DC vs AC setting before connecting |
-| Selecting 2V range for 12V battery | Select range above expected voltage |
-| Poor probe contact (intermittent reading) | Firm, stable contact with test points |
-| Reading voltage on de-energized circuit | Verify power on (some circuits have switches) |
+**❌ Wrong:** ✓ Right
+**Measuring 120V AC with meter set to DC:** Verify DC vs AC setting before connecting
+**Selecting 2V range for 12V battery:** Select range above expected voltage
+**Poor probe contact (intermittent reading):** Firm, stable contact with test points
+**Reading voltage on de-energized circuit:** Verify power on (some circuits have switches)
 
 ### Voltage Measurement (AC)
 
@@ -157,16 +158,17 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 **Procedure:**
 1. **Set meter to AC voltage (V~)**
 2. **Select appropriate range:**
-   - 200V or 600V scale for wall outlets
-   - Auto-ranging: Meter selects automatically
+- 200V or 600V scale for wall outlets
+- Auto-ranging: Meter selects automatically
 3. **Insert probes in outlet or connect to test points:**
-   - Polarity doesn't matter (AC reverses 60 times/second)
-   - Black to COM, red to V/Ω
+- Polarity doesn't matter (AC reverses 60 times/second)
+- Black to COM, red to V/Ω
 4. **Read display:**
-   - Should show 110-125V (nominal 120V in US)
-   - 220-250V for 240V circuits
+- Should show 110-125V (nominal 120V in US)
+- 220-250V for 240V circuits
 
 **Typical Measurements:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Circuit | Nominal | Acceptable Range | Action If Outside |
 |---------|---------|------------------|-------------------|
 | US household outlet | 120V AC | 114-126V | <110V or >130V - utility problem |
@@ -176,13 +178,12 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Safety Rules:**
 
-| ⚠️ Hazard | Safety Practice |
-|-----------|-----------------|
-| Electrocution | One hand in pocket (prevent hand-to-hand shock path) |
-| Arc flash | Wear safety glasses (arcing at bad connections) |
-| Probe slip | Insulated probes (only exposed tip, rest covered) |
-| Wrong setting | Triple-check AC mode before connecting |
-| Backfeeding | Assume "dead" circuits are live until verified |
+**⚠️ Hazard:** Safety Practice
+**Electrocution:** One hand in pocket (prevent hand-to-hand shock path)
+**Arc flash:** Wear safety glasses (arcing at bad connections)
+**Probe slip:** Insulated probes (only exposed tip, rest covered)
+**Wrong setting:** Triple-check AC mode before connecting
+**Backfeeding:** Assume "dead" circuits are live until verified
 
 ### Current Measurement (DC & AC)
 
@@ -203,32 +204,33 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 **Procedure (Series Connection):**
 
 1. **Disconnect circuit:**
-   - Turn off power
-   - Break circuit at point of measurement (disconnect wire, remove component)
+- Turn off power
+- Break circuit at point of measurement (disconnect wire, remove component)
    
 2. **Set meter to current mode:**
-   - A⎓ for DC, A~ for AC
-   - Select range (10A scale for unknown loads, 200mA or 2A for small loads)
-   - **Move red probe to A input** (may be separate 10A and mA inputs)
+- A⎓ for DC, A~ for AC
+- Select range (10A scale for unknown loads, 200mA or 2A for small loads)
+- **Move red probe to A input** (may be separate 10A and mA inputs)
 
 3. **Insert meter in series:**
-   - Black probe to COM
-   - Red probe to A input
-   - Connect probes to complete circuit (meter is now "link" in circuit)
-   - Current flows: Source → through meter → through load → return to source
+- Black probe to COM
+- Red probe to A input
+- Connect probes to complete circuit (meter is now "link" in circuit)
+- Current flows: Source → through meter → through load → return to source
 
 4. **Apply power and read:**
-   - Current display shows load draw
-   - If display shows OL (overload): Current exceeds range, select higher range
-   - If display shows small value: May be on wrong range (10A scale reading 50mA shows as 0.05A)
+- Current display shows load draw
+- If display shows OL (overload): Current exceeds range, select higher range
+- If display shows small value: May be on wrong range (10A scale reading 50mA shows as 0.05A)
 
 5. **Remove meter:**
-   - Turn off power
-   - Disconnect probes
-   - Reconnect circuit (wire or component back in place)
-   - **Return red probe to V/Ω input** (prevents accidental short if voltage measured next)
+- Turn off power
+- Disconnect probes
+- Reconnect circuit (wire or component back in place)
+- **Return red probe to V/Ω input** (prevents accidental short if voltage measured next)
 
 **Typical Measurements:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Load | Expected Current | Notes |
 |------|------------------|-------|
 | LED (with resistor) | 10-20mA | Use mA range |
@@ -246,13 +248,12 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Common Mistakes:**
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Connecting meter across battery (short circuit!) | Connect meter IN SERIES with load |
-| Red probe in V/Ω jack when measuring current | Move red probe to A or mA jack |
-| Exceeding 10A on mA range (blows fuse) | Start with highest range, work down |
-| Measuring AC with DC setting | Match AC/DC setting to circuit |
-| Forgetting to reconnect circuit after test | Reconnect wire/component before power on |
+**❌ Wrong:** ✓ Right
+**Connecting meter across battery (short circuit!):** Connect meter IN SERIES with load
+**Red probe in V/Ω jack when measuring current:** Move red probe to A or mA jack
+**Exceeding 10A on mA range (blows fuse):** Start with highest range, work down
+**Measuring AC with DC setting:** Match AC/DC setting to circuit
+**Forgetting to reconnect circuit after test:** Reconnect wire/component before power on
 
 ### Resistance Measurement (Ohms)
 
@@ -271,26 +272,27 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 **Procedure:**
 
 1. **De-energize circuit:**
-   - Turn off power
-   - Disconnect battery
-   - Remove component from circuit (if testing component) - in-circuit readings may be inaccurate
+- Turn off power
+- Disconnect battery
+- Remove component from circuit (if testing component) - in-circuit readings may be inaccurate
 
 2. **Set meter to resistance (Ω):**
-   - Select appropriate range (start high if unknown)
-   - Auto-ranging: Meter selects automatically
+- Select appropriate range (start high if unknown)
+- Auto-ranging: Meter selects automatically
 
 3. **Connect probes:**
-   - Black to COM
-   - Red to V/Ω
-   - Touch probes to component/test points
-   - Polarity doesn't matter for resistance
+- Black to COM
+- Red to V/Ω
+- Touch probes to component/test points
+- Polarity doesn't matter for resistance
 
 4. **Read display:**
-   - Numeric value: Resistance in ohms (Ω), kilohms (kΩ), or megohms (MΩ)
-   - OL (overload): Infinite resistance (open circuit)
-   - 0 or very low: Short circuit or good connection
+- Numeric value: Resistance in ohms (Ω), kilohms (kΩ), or megohms (MΩ)
+- OL (overload): Infinite resistance (open circuit)
+- 0 or very low: Short circuit or good connection
 
 **Typical Measurements:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Component | Expected Resistance | Interpretation |
 |-----------|---------------------|----------------|
 | Wire (short length) | <1Ω | Good conductor |
@@ -312,6 +314,7 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Troubleshooting Applications:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Symptom | Test | Interpretation |
 |---------|------|----------------|
 | No power | Fuse resistance | OL = blown, replace |
@@ -322,13 +325,12 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Common Mistakes:**
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Measuring resistance on live circuit | De-energize completely before testing |
-| Touching both probes with fingers | Finger resistance (1-10MΩ) affects reading |
-| In-circuit component test | Remove one lead for accurate reading |
-| Expecting exact resistor value | Check tolerance band (±5%, ±10%) |
-| Not discharging capacitors | Stored charge gives false readings |
+**❌ Wrong:** ✓ Right
+**Measuring resistance on live circuit:** De-energize completely before testing
+**Touching both probes with fingers:** Finger resistance (1-10MΩ) affects reading
+**In-circuit component test:** Remove one lead for accurate reading
+**Expecting exact resistor value:** Check tolerance band (±5%, ±10%)
+**Not discharging capacitors:** Stored charge gives false readings
 
 ### Continuity Test
 
@@ -346,22 +348,23 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 **Procedure:**
 
 1. **Set meter to continuity mode:**
-   - Diode/continuity symbol (▷))) or similar)
-   - May share setting with diode test
+- Diode/continuity symbol (▷))) or similar)
+- May share setting with diode test
 
 2. **Test meter function:**
-   - Touch probes together
-   - Should beep/tone
-   - Display shows ~0Ω
+- Touch probes together
+- Should beep/tone
+- Display shows ~0Ω
 
 3. **Test circuit/component:**
-   - Power OFF (same as resistance test)
-   - Touch probes to test points
-   - Beep = continuity (good connection)
-   - No beep = open circuit (disconnected)
+- Power OFF (same as resistance test)
+- Touch probes to test points
+- Beep = continuity (good connection)
+- No beep = open circuit (disconnected)
 
 **Applications:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Use Case | Method | Interpretation |
 |----------|--------|----------------|
 | Wire tracing | One probe at each end of wire | Beep = connected wire |
@@ -396,15 +399,16 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 1. Set meter to diode test mode (▷| symbol)
 2. Remove diode from circuit (or disconnect one lead)
 3. Test forward direction:
-   - Red probe to anode (band-free end)
-   - Black probe to cathode (banded end)
-   - Display: 400-800mV (silicon), 200-400mV (Schottky)
+- Red probe to anode (band-free end)
+- Black probe to cathode (banded end)
+- Display: 400-800mV (silicon), 200-400mV (Schottky)
 4. Test reverse direction:
-   - Swap probes
-   - Display: OL (no conduction)
+- Swap probes
+- Display: OL (no conduction)
 
 **Interpretation:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Reading | Forward | Reverse | Status |
 |---------|---------|---------|--------|
 | Silicon diode | 550-700mV | OL | Good |
@@ -416,9 +420,9 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 **LED Testing:**
 - Diode test can light LED dimly
 - Forward voltage identifies color:
-  - Red: 1.8-2.2V
-  - Yellow/Green: 2.0-2.4V
-  - Blue/White: 3.0-3.6V
+- Red: 1.8-2.2V
+- Yellow/Green: 2.0-2.4V
+- Blue/White: 3.0-3.6V
 - If LED lights, polarity and function confirmed
 
 ### Capacitance Test
@@ -430,8 +434,8 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 **Procedure:**
 
 1. **Discharge capacitor:**
-   - Short leads with screwdriver (across terminals)
-   - Essential for safety (large caps hold lethal charge)
+- Short leads with screwdriver (across terminals)
+- Essential for safety (large caps hold lethal charge)
 2. **Set meter to capacitance mode (F)**
 3. **Remove capacitor from circuit**
 4. **Connect probes to capacitor leads (polarity doesn't matter)**
@@ -439,6 +443,7 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Interpretation:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Marked Value | Tolerance | Acceptable Range | Status |
 |--------------|-----------|------------------|--------|
 | 100µF ±20% | 80-120µF | 75-125µF | Pass if in range |
@@ -472,59 +477,59 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 - 50% = equal on/off time (square wave)
 - Applications: Motor controllers, dimmer circuits
 
-## Practical Troubleshooting
+## Practical Troubleshoot
 
 ### Dead Circuit (No Power)
 
 **Diagnostic Sequence:**
 
 1. **Verify power source:**
-   - Measure voltage at source (battery, power supply)
-   - Should read rated voltage ±10%
-   - If zero: Source problem (dead battery, tripped breaker)
+- Measure voltage at source (battery, power supply)
+- Should read rated voltage ±10%
+- If zero: Source problem (dead battery, tripped breaker)
 
 2. **Check fuse:**
-   - Continuity test across fuse
-   - Should beep (good) or silent (blown)
-   - Or resistance test: <1Ω = good, OL = blown
+- Continuity test across fuse
+- Should beep (good) or silent (blown)
+- Or resistance test: <1Ω = good, OL = blown
 
 3. **Check switch:**
-   - Continuity test across switch terminals
-   - Operate switch
-   - Should beep when closed, silent when open
+- Continuity test across switch terminals
+- Operate switch
+- Should beep when closed, silent when open
 
 4. **Trace power path:**
-   - Measure voltage at progressive points through circuit
-   - Start at source, work toward load
-   - Voltage disappears = problem between last good point and first bad point
+- Measure voltage at progressive points through circuit
+- Start at source, work toward load
+- Voltage disappears = problem between last good point and first bad point
 
 5. **Check ground/return path:**
-   - Continuity from load ground to source ground
-   - Should beep (good ground connection)
-   - No beep = broken ground path
+- Continuity from load ground to source ground
+- Should beep (good ground connection)
+- No beep = broken ground path
 
 ### Intermittent Problem
 
 **Techniques:**
 
 1. **Voltage monitoring:**
-   - Connect meter, let run
-   - Wiggle wires, tap components
-   - Voltage change = loose connection at that point
+- Connect meter, let run
+- Wiggle wires, tap components
+- Voltage change = loose connection at that point
 
 2. **Resistance testing:**
-   - Power off
-   - Measure resistance across suspected connection
-   - Wiggle/flex wire
-   - Resistance change = intermittent connection
+- Power off
+- Measure resistance across suspected connection
+- Wiggle/flex wire
+- Resistance change = intermittent connection
 
 3. **Continuity testing:**
-   - Same as resistance, but audio feedback faster
-   - Beep cutting out = intermittent open
+- Same as resistance, but audio feedback faster
+- Beep cutting out = intermittent open
 
 4. **Thermal testing:**
-   - Heat suspected component with hot air or iron
-   - If problem occurs/disappears with heat: Thermal issue (solder joint, internal component failure)
+- Heat suspected component with hot air or iron
+- If problem occurs/disappears with heat: Thermal issue (solder joint, internal component failure)
 
 ### Component Testing (Out of Circuit)
 
@@ -548,9 +553,9 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Transistor (Basic):**
 - NPN transistor: Two diodes with shared cathode
-  - Base to collector: Forward ~600mV
-  - Base to emitter: Forward ~600mV
-  - Collector to emitter: OL both directions
+- Base to collector: Forward ~600mV
+- Base to emitter: Forward ~600mV
+- Collector to emitter: OL both directions
 - Test each junction with diode test mode
 
 **Switch:**
@@ -579,16 +584,14 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Safe Practices:**
 
-| Rule | Reason |
-|------|--------|
-| **One hand in pocket** | Prevents hand-to-hand path through heart |
-| **Work with power off** | Eliminates shock hazard entirely |
-| **Verify power off with meter** | Don't trust switches/breakers |
-| **Discharge capacitors** | Store charge even when power off |
-| **Insulated tools** | Prevents accidental shorts |
-| **Dry hands and floor** | Water conducts, lowers resistance |
-| **Remove jewelry (rings, watches)** | Metal conducts, can short across terminals |
-| **Safety glasses** | Arc flash protection |
+****One hand in pocket**:** Prevents hand-to-hand path through heart
+****Work with power off**:** Eliminates shock hazard entirely
+****Verify power off with meter**:** Don't trust switches/breakers
+****Discharge capacitors**:** Store charge even when power off
+****Insulated tools**:** Prevents accidental shorts
+****Dry hands and floor**:** Water conducts, lowers resistance
+****Remove jewelry (rings, watches)**:** Metal conducts, can short across terminals
+****Safety glasses**:** Arc flash protection
 
 ### Meter Safety Features
 
@@ -611,28 +614,26 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Warning Symbols:**
 
-| Symbol | Meaning |
-|--------|---------|
-| ⚡ | High voltage hazard |
-| CAT III | Meter rating |
-| 10A MAX | Maximum current on input |
-| Double insulation | Enhanced safety construction |
+**⚡:** High voltage hazard
+**CAT III:** Meter rating
+**10A MAX:** Maximum current on input
+**Double insulation:** Enhanced safety construction
 
 ### What NOT to Do
 
-| ❌ Dangerous Practice | ⚠️ Consequence |
-|----------------------|----------------|
-| Measuring voltage with meter set to current | Short circuit, blown fuse, meter explosion |
-| Exceeding 10A on mA range | Blown fuse, possible meter damage |
-| Using damaged test leads | Exposed conductors = shock hazard |
-| Measuring resistance on live circuit | Meter damage, false readings |
-| One hand on ground, one on probe | Current path through heart |
-| Cheap meter on high-voltage circuit | No protection, potential explosion |
-| Bypassing blown fuse | Fire, explosion, electrocution |
-| Using meter beyond CAT rating | Inadequate protection, arc flash |
+**❌ Dangerous Practice:** ⚠️ Consequence
+**Measuring voltage with meter set to current:** Short circuit, blown fuse, meter explosion
+**Exceeding 10A on mA range:** Blown fuse, possible meter damage
+**Using damaged test leads:** Exposed conductors = shock hazard
+**Measuring resistance on live circuit:** Meter damage, false readings
+**One hand on ground, one on probe:** Current path through heart
+**Cheap meter on high-voltage circuit:** No protection, potential explosion
+**Bypassing blown fuse:** Fire, explosion, electrocution
+**Using meter beyond CAT rating:** Inadequate protection, arc flash
 
-## Common Multimeter Mistakes
+## Common Meter Errors
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | ❌ Wrong | ✓ Right | Why |
 |---------|---------|-----|
 | Measuring battery with current setting | Measure voltage with V⎓ | Current measurement shorts battery |
@@ -665,9 +666,10 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 - [ ] Insulation tester (megohmmeter for high-voltage insulation)
 - [ ] Thermal camera (find hot spots in circuits)
 
-## Quick Reference - Specifications
+## QR-Specs
 
 **Typical DMM Accuracy:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Function | Accuracy | Resolution |
 |----------|----------|------------|
 | DC voltage | ±0.5% | 0.1mV (200mV range) |
@@ -677,6 +679,7 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 | Resistance | ±0.8% | 0.1Ω (200Ω range) |
 
 **Measurement Ranges:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Function | Typical Ranges | Notes |
 |----------|----------------|-------|
 | DC voltage | 200mV to 1000V | Auto-ranging or manual |

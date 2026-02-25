@@ -6,13 +6,13 @@ tags: ["sepsis", "infection", "septic-shock", "systemic-infection", "antibiotics
 confidence: "high"
 region: "global"
 sources:
-  - "surviving-sepsis-campaign-guidelines"
-  - "who-sepsis-protocols"
-  - "emergency-medicine-sepsis-management"
+- "surviving-sepsis-campaign-guidelines"
+- "who-sepsis-protocols"
+- "emergency-medicine-sepsis-management"
 related:
-  - "l1-medical-infection-prevention"
-  - "l1-medical-wound-cleaning"
-  - "l1-medical-antibiotic-guide"
+- "l1-medical-infection-prevention"
+- "l1-medical-wound-cleaning"
+- "l1-medical-antibiotic-guide"
 ---
 
 # Sepsis Recognition & Treatment
@@ -38,10 +38,11 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 ---
 
-## qSOFA (Quick Sequential Organ Failure Assessment)
+## qSOFA
 
 **Rapid bedside screening (score 0-3):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Criteria | Normal | Abnormal (1 point) |
 |----------|--------|-------------------|
 | **Respiratory rate** | <22/min | ≥22/min |
@@ -56,22 +57,21 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 ---
 
-## SIRS Criteria (More Sensitive)
+## SIRS Criteria
 
 **≥2 of the following = SIRS:**
 
-| Criteria | Abnormal Value |
-|----------|---------------|
-| **Temperature** | >100.4°F (38°C) OR <96.8°F (36°C) |
-| **Heart rate** | >90 bpm |
-| **Respiratory rate** | >20/min |
-| **White blood cell count** | >12,000 OR <4,000 OR >10% immature cells |
+**Criteria:** Abnormal Value
+****Temperature**:** >100.4°F (38°C) OR <96.8°F (36°C)
+****Heart rate**:** >90 bpm
+****Respiratory rate**:** >20/min
+****White blood cell count**:** >12,000 OR <4,000 OR >10% immature cells
 
 **SIRS + infection = sepsis**
 
 ---
 
-## Common Infection Sources
+## Common Sources
 
 **Respiratory (35% of sepsis cases):**
 - Pneumonia (bacterial, viral)
@@ -159,7 +159,7 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 ---
 
-## Emergency Antibiotic Treatment (First Hour)
+## Emergency Antibiotics
 
 **"Hour-1 Bundle":** Antibiotics + fluids within 60 minutes
 
@@ -167,6 +167,7 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 **Broad-spectrum coverage (unknown source):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Antibiotic | Dose | Covers | Notes |
 |------------|------|--------|-------|
 | **Amoxicillin-clavulanate** | 875/125mg PO every 12hr | Gram+, Gram-, anaerobes | Best oral option |
@@ -176,6 +177,7 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 **Specific infection sources:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Source | First Choice | Second Choice |
 |--------|--------------|---------------|
 | **Pneumonia** | Amoxicillin-clav 875mg q12h + azithromycin 500mg daily | Doxycycline 100mg q12h |
@@ -192,7 +194,7 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 ---
 
-## Fluid Resuscitation (Critical!)
+## Fluid Resuscitation
 
 **"30mL/kg in first 3 hours":**
 - **Example:** 70kg (154lb) person needs 2.1 liters in first 3 hours
@@ -201,7 +203,7 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 **Fluid types:**
 - **IV crystalloids (preferred):** Normal saline, Lactated Ringer's
 - **Oral rehydration (if no IV):** ORS solution, water + salt + sugar
-  - Recipe: 1L water + 6 tsp sugar + ½ tsp salt
+- Recipe: 1L water + 6 tsp sugar + ½ tsp salt
 
 **Fluid administration:**
 - First liter in 30 minutes (rapid bolus)
@@ -218,7 +220,7 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 ---
 
-## Source Control (Find and Fix Infection)
+## Source Control
 
 **Identify the source:**
 1. **Pneumonia:** Cough, chest pain, lung crackles
@@ -267,7 +269,7 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 ---
 
-## Lactate (Tissue Hypoxia Marker)
+## Lactate Marker
 
 **If lactate testing available:**
 - **Normal:** <2 mmol/L

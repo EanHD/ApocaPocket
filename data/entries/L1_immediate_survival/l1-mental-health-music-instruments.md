@@ -7,7 +7,7 @@
 
 ---
 
-## Why Music Is Non-Negotiable
+## Music Essential
 
 **Universal Truth:** Every human culture in history has made music. No exceptions. This is not coincidence.
 
@@ -35,7 +35,7 @@
 
 ---
 
-## Simple Wind Instruments
+## Wind Instruments
 
 ### Bamboo Flute (6-Hole, Pentatonic Scale)
 
@@ -52,9 +52,9 @@
 2. **Cut** to length, sand smooth
 3. **Blow hole** (embouchure): 2cm from stopped end, 1-1.5cm diameter
 4. **Finger holes** (see diagram below):
-   - Mark positions using ratios
-   - Start with small holes, enlarge to tune
-   - Test frequently
+- Mark positions using ratios
+- Start with small holes, enlarge to tune
+- Test frequently
 
 **Tuning Basics:**
 - Larger holes = higher pitch
@@ -150,7 +150,7 @@ NOTES:
 
 ---
 
-## Percussion: The Universal Beat
+## Percussion
 
 ### Frame Drum (Most Versatile)
 
@@ -162,9 +162,9 @@ NOTES:
 **Construction:**
 1. **Frame:** Bend green wood into circle, lash ends OR carve from solid wood
 2. **Prepare skin:** 
-   - Soak in water 2-4 hours
-   - Stretch over frame while wet
-   - Lace around perimeter with cord
+- Soak in water 2-4 hours
+- Stretch over frame while wet
+- Lace around perimeter with cord
 3. **Dry:** Hang in warm, dry place (skin shrinks tight)
 4. **Result:** Deep, resonant drum
 
@@ -253,7 +253,7 @@ NOTES:
 
 ---
 
-## Group Music: The Social Medicine
+## Group Music
 
 ### Singing Circles
 
@@ -326,7 +326,7 @@ Group:  "This is my home"
 
 ---
 
-## Music as Therapy: Clinical Applications
+## Music Therapy
 
 ### Anxiety Reduction Protocol
 1. **Slow rhythm:** 60 BPM (resting heart rate)
@@ -358,7 +358,7 @@ Group:  "This is my home"
 
 ---
 
-## Teaching Music: Oral Tradition Method
+## Teaching Music
 
 ### No Written Notation Needed
 
@@ -384,7 +384,7 @@ Group:  "This is my home"
 
 ---
 
-## Warning Signs: Music and Mental Health
+## Warning Signs
 
 **When music stops completely:**
 - Community depression indicator
@@ -404,7 +404,7 @@ Group:  "This is my home"
 
 ---
 
-## Materials & Maintenance
+## Materials
 
 ### Instrument Durability
 
@@ -438,7 +438,7 @@ Group:  "This is my home"
 
 ---
 
-## Historical Examples: Music as Survival
+## Historical Musical Sur
 
 **Enslaved Africans in Americas:** 
 - Preserved cultural identity through music
@@ -466,7 +466,7 @@ Group:  "This is my home"
 
 ---
 
-## Science Summary: Why It Works
+## Science Summary
 
 **Neurochemistry:**
 - **Dopamine:** Pleasure, motivation (reward system)
@@ -488,7 +488,7 @@ Group:  "This is my home"
 
 ---
 
-## Conclusion: Sound = Survival
+## Sound=Survival
 
 **Remember:**
 - No human culture lacks music (biological imperative)
@@ -518,4 +518,4 @@ Group:  "This is my home"
 
 ---
 
-*Last Updated: 2026 | Sources: British Journal of Psychiatry (2013, 2016), Journal of Traumatic Stress (2015), Cochrane Review (2017), Ethnomusicology (ongoing), Neuroscience of Music (2020)*
+Last Updated: 2026 | Sources: British Journal of Psychiatry (2013, 2016), Journal of Traumatic Stress (2015), Cochrane Review (2017), Ethnomusicology (ongoing), Neuroscience of Music (2020)

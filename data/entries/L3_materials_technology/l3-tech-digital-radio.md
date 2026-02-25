@@ -4,42 +4,42 @@ title: "Digital Radio Modes: Data Communications Without Internet"
 layer: L3_materials_technology
 category: communications
 tags:
-  - digital_radio
-  - APRS
-  - Winlink
-  - FT8
-  - JS8Call
-  - DMR
-  - SSTV
-  - data_communications
+- digital_radio
+- APRS
+- Winlink
+- FT8
+- JS8Call
+- DMR
+- SSTV
+- data_communications
 region_relevance:
-  - global
+- global
 summary: "Digital radio modes enable text messaging, email, GPS tracking, file transfer, and image transmission without internet. Covers APRS (position reporting, messaging), Winlink (email over HF/VHF), FT8/JS8Call (weak-signal keyboard chat), DMR/Fusion (digital voice), and SSTV (image transmission). Includes equipment requirements, software setup, operating procedures, and protocol specifications."
 steps:
-  - "Install digital mode interface between radio and computer: sound card interface ($30-80) or USB-based digital interface (SignaLink, RigBlaster, $100-150)"
-  - "Download and configure mode-specific software (APRS: APRSdroid/Xastir, Winlink: Winlink Express, FT8: WSJT-X, JS8Call: JS8Call client)"
-  - "Set audio levels to prevent overdriving (ALC should not activate, typical 30-50% audio output from computer)"
-  - "Establish time synchronization (GPS or internet NTP) for time-critical modes (FT8, FT4) — accuracy within ±1 second required"
-  - "Operate within mode-specific protocols (transmit timing, frequency allocations, message formatting)"
+- "Install digital mode interface between radio and computer: sound card interface ($30-80) or USB-based digital interface (SignaLink, RigBlaster, $100-150)"
+- "Download and configure mode-specific software (APRS: APRSdroid/Xastir, Winlink: Winlink Express, FT8: WSJT-X, JS8Call: JS8Call client)"
+- "Set audio levels to prevent overdriving (ALC should not activate, typical 30-50% audio output from computer)"
+- "Establish time synchronization (GPS or internet NTP) for time-critical modes (FT8, FT4) — accuracy within ±1 second required"
+- "Operate within mode-specific protocols (transmit timing, frequency allocations, message formatting)"
 warnings:
-  - "OVERDRIVING: Digital modes (especially FT8, PSK31, RTTY) generate constant-carrier signals at full power. Excessive audio levels cause splatter (interference on adjacent frequencies) and transmitter overheating. Monitor ALC meter — zero or minimal ALC activation during digital transmission"
-  - "DUTY CYCLE: Digital modes have 50-100% duty cycle (continuous transmission) vs 20-40% for SSB voice. Transmitters rated for 100W SSB may overheat at 50-75W continuous digital. Reduce power 30-50% for digital modes or add cooling"
-  - "TIME SYNC: FT8/FT4 require accurate system time (±1 second). Incorrect time prevents decoding. Use GPS time source, NTP internet sync (before emergency), or WWV time signal for synchronization"
-  - "FREQUENCY ACCURACY: Digital modes require precise frequency control (±10 Hz for FT8, ±50 Hz for PSK31). Some older radios drift significantly — poor frequency stability prevents successful contacts"
-  - "LEGAL: Winlink email content must be non-commercial, personal communications only (no business, no third-party traffic for non-licensed persons in some countries). Encryption prohibited in most countries for amateur radio"
-  - "BANDWIDTH: Some digital modes (PACTOR, VARA) use wide bandwidth (2-3 kHz). Verify mode is legal on selected band/frequency. Narrow modes (PSK31, FT8) use 50-500 Hz bandwidth"
+- "OVERDRIVING: Digital modes (especially FT8, PSK31, RTTY) generate constant-carrier signals at full power. Excessive audio levels cause splatter (interference on adjacent frequencies) and transmitter overheating. Monitor ALC meter — zero or minimal ALC activation during digital transmission"
+- "DUTY CYCLE: Digital modes have 50-100% duty cycle (continuous transmission) vs 20-40% for SSB voice. Transmitters rated for 100W SSB may overheat at 50-75W continuous digital. Reduce power 30-50% for digital modes or add cooling"
+- "TIME SYNC: FT8/FT4 require accurate system time (±1 second). Incorrect time prevents decoding. Use GPS time source, NTP internet sync (before emergency), or WWV time signal for synchronization"
+- "FREQUENCY ACCURACY: Digital modes require precise frequency control (±10 Hz for FT8, ±50 Hz for PSK31). Some older radios drift significantly — poor frequency stability prevents successful contacts"
+- "LEGAL: Winlink email content must be non-commercial, personal communications only (no business, no third-party traffic for non-licensed persons in some countries). Encryption prohibited in most countries for amateur radio"
+- "BANDWIDTH: Some digital modes (PACTOR, VARA) use wide bandwidth (2-3 kHz). Verify mode is legal on selected band/frequency. Narrow modes (PSK31, FT8) use 50-500 Hz bandwidth"
 related_entries:
-  - l3-tech-radio-basics
-  - l3-tech-antenna-construction
-  - l3-tech-propagation
-  - l3-tech-emergency-comms
+- l3-tech-radio-basics
+- l3-tech-antenna-construction
+- l3-tech-propagation
+- l3-tech-emergency-comms
 sources:
-  - ARRL Handbook for Radio Communications
-  - ARRL's HF Digital Handbook
-  - Winlink Development Team documentation
-  - WSJT-X User Guide (Princeton University)
-  - DMR Association protocols
-  - APRS Protocol Specification (APRS101.pdf)
+- ARRL Handbook for Radio Communications
+- ARRL's HF Digital Handbook
+- Winlink Development Team documentation
+- WSJT-X User Guide (Princeton University)
+- DMR Association protocols
+- APRS Protocol Specification (APRS101.pdf)
 audit_status: verified
 last_verified: 2026-02-19
 confidence: high
@@ -84,9 +84,9 @@ Connects radio audio output to computer sound card input (mic/line-in), and comp
 - **Audio cables**: 3.5mm stereo cables, adapters
 - **Isolation transformer**: Prevents ground loops (hum, noise). Cheap solution: 1:1 audio transformer from Mouser/Digi-Key ($3-8)
 - **PTT (Push-to-Talk) Control**: Key radio from computer
-  - Serial port RTS/DTR line (older computers)
-  - USB-to-serial adapter + VOX (voice-activated transmit)
-  - GPIO from Raspberry Pi
+- Serial port RTS/DTR line (older computers)
+- USB-to-serial adapter + VOX (voice-activated transmit)
+- GPIO from Raspberry Pi
 
 **Advantages**: Low cost, works with most radios
 **Disadvantages**: Ground loop noise, manual level adjustment, PTT control complexity
@@ -151,7 +151,7 @@ Radio with built-in USB sound card and data interface (no external box required)
 - **RF Coax**: Radio to antenna (standard coax, see l3-tech-antenna-construction.md)
 - **Power**: 12V power supply for radio (20-30A for 100W HF, 5-8A for VHF/UHF mobile)
 
-## Mode 1: APRS (Automatic Packet Reporting System)
+## APRS
 
 **APRS** broadcasts position, status, weather, and short messages over VHF radio (144.390 MHz in North America). Stations receive and relay packets, creating mesh network.
 
@@ -197,6 +197,7 @@ Radio with built-in USB sound card and data interface (no external box required)
 
 ### APRS Software
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Software | Platform | Cost | Features |
 |----------|----------|------|----------|
 | **APRSdroid** | Android | Free | Mobile APRS, GPS tracking, messaging |
@@ -219,12 +220,12 @@ Radio with built-in USB sound card and data interface (no external box required)
 **Step 2: Configure Callsign**
 - Enter your callsign with SSID (e.g., W1ABC-9 for mobile)
 - SSID conventions:
-  - **-0**: Primary station (home)
-  - **-7**: Handheld/walkie-talkie
-  - **-9**: Mobile (vehicle)
-  - **-10**: Internet gateway (iGate)
-  - **-11**: Balloon/aircraft
-  - **-15**: Generic or test
+- **-0**: Primary station (home)
+- **-7**: Handheld/walkie-talkie
+- **-9**: Mobile (vehicle)
+- **-10**: Internet gateway (iGate)
+- **-11**: Balloon/aircraft
+- **-15**: Generic or test
 
 **Step 3: Set Position Source**
 - GPS receiver (phone built-in or external USB GPS)
@@ -310,7 +311,7 @@ WIDE1-1,WIDE2-2
 - ❌ **Excessive message retries**: Sending same message 20× (network congestion)
 - ✓ **Limit retries to 5**: If no ACK, recipient not in range
 
-## Mode 2: Winlink (Email Over Radio)
+## Mode 2: Winlink
 
 **Winlink** is global email system using amateur radio (HF and VHF) for transport. Store-and-forward architecture allows offline email exchange.
 
@@ -319,8 +320,8 @@ WIDE1-1,WIDE2-2
 **Network Architecture**:
 - **CMS** (Common Message Server): Central server stores messages (Seattle, Washington)
 - **RMS** (Radio Message Server): Radio gateways connect to CMS, forward messages to/from RF
-  - **RMS Relay**: HF gateway (worldwide coverage)
-  - **RMS Packet**: VHF packet gateway (local coverage, 5-30 miles)
+- **RMS Relay**: HF gateway (worldwide coverage)
+- **RMS Packet**: VHF packet gateway (local coverage, 5-30 miles)
 - **Client Software**: User runs Winlink Express on computer, connects to RMS via radio
 
 **Use Cases**:
@@ -339,7 +340,7 @@ WIDE1-1,WIDE2-2
 
 **HF Winlink (Worldwide Coverage)**:
 - **HF Radio**: 100W transceiver with SSB (3-30 MHz)
-  - Yaesu FT-891 ($600), ICOM IC-7300 ($1100), Xiegu G90 ($450)
+- Yaesu FT-891 ($600), ICOM IC-7300 ($1100), Xiegu G90 ($450)
 - **Antenna**: HF antenna (dipole, vertical, or end-fed half-wave, see l3-tech-antenna-construction.md)
 - **Interface**: Sound card interface (SignaLink USB, $120) or radio with built-in USB
 - **Computer**: Laptop with Winlink Express software (Windows)
@@ -347,9 +348,9 @@ WIDE1-1,WIDE2-2
 
 **VHF Winlink (Local Coverage, 5-30 Miles)**:
 - **VHF Radio**: FM transceiver (144-148 MHz)
-  - Handheld (Baofeng UV-5R, $25) or mobile (Yaesu FTM-7250DR, $180)
+- Handheld (Baofeng UV-5R, $25) or mobile (Yaesu FTM-7250DR, $180)
 - **TNC**: Terminal Node Controller for packet radio
-  - Mobilinkd TNC3 ($75), Kantronics KPC-3+ ($150)
+- Mobilinkd TNC3 ($75), Kantronics KPC-3+ ($150)
 - **Antenna**: VHF ground plane or J-pole (see l3-tech-antenna-construction.md)
 - **Computer**: Laptop with Winlink Express
 - **Total**: $120-500
@@ -370,12 +371,12 @@ WIDE1-1,WIDE2-2
 **For HF Winlink (Pactor, VARA)**:
 1. Open Settings → Channel Setup → Add
 2. Select modem type:
-   - **PACTOR**: Proprietary, requires hardware modem (SCS PTC-IIe, $1200+). Very robust, 200-5000 bps
-   - **VARA HF**: Software modem (free for ham use), 100-3000 bps, no additional hardware
-   - **ARDOP**: Open-source modem, 200-2000 bps (less robust than VARA, more compatible)
+- **PACTOR**: Proprietary, requires hardware modem (SCS PTC-IIe, $1200+). Very robust, 200-5000 bps
+- **VARA HF**: Software modem (free for ham use), 100-3000 bps, no additional hardware
+- **ARDOP**: Open-source modem, 200-2000 bps (less robust than VARA, more compatible)
 3. Configure radio control (CAT control via USB/serial, frequency, PTT)
 4. Set frequency: Scan list or specific RMS frequency
-   - Winlink uses 3.5, 7, 10, 14, 18, 21 MHz bands (see frequency list in Winlink Express)
+- Winlink uses 3.5, 7, 10, 14, 18, 21 MHz bands (see frequency list in Winlink Express)
 
 **For VHF Winlink (Packet)**:
 1. Add packet channel (144-148 MHz)
@@ -436,9 +437,9 @@ WIDE1-1,WIDE2-2
 
 **Operations**:
 1. Compose ICS-213 form (built-in Winlink template)
-   - Incident: Wildfire evacuation
-   - Status: 150 evacuees at Red Cross shelter
-   - Resources needed: Water (500 gallons), food (200 meals), medical supplies
+- Incident: Wildfire evacuation
+- Status: 150 evacuees at Red Cross shelter
+- Resources needed: Water (500 gallons), food (200 meals), medical supplies
 2. Address to county email: eoc@county.gov
 3. Post to Outbox
 4. Open Winlink session on 40m band (7.100 MHz, VARA HF)
@@ -476,7 +477,7 @@ WIDE1-1,WIDE2-2
 - ❌ **Commercial content**: "Can you order supplies from Amazon for me?" (illegal)
 - ✓ **Personal, non-commercial only**: FCC Part 97 rules
 
-## Mode 3: FT8 / FT4 (Weak Signal Digital)
+## FT8/FT4
 
 **FT8** (Franke-Taylor 8-FSK) and **FT4** (faster variant) are weak-signal digital modes developed by Joe Taylor (K1JT, Nobel Prize laureate) for amateur radio. Extremely robust, decodes signals 10-15 dB below noise floor.
 
@@ -568,15 +569,15 @@ Total QSO time: 90 seconds (6× 15-second cycles).
 
 **Step 1: Select Frequency**
 - FT8 frequencies (USB mode):
-  - **160m**: 1.840 MHz
-  - **80m**: 3.573 MHz
-  - **40m**: 7.074 MHz
-  - **20m**: 14.074 MHz
-  - **17m**: 18.100 MHz
-  - **15m**: 21.074 MHz
-  - **10m**: 28.074 MHz
-  - **6m**: 50.313 MHz
-  - **2m**: 144.174 MHz
+- **160m**: 1.840 MHz
+- **80m**: 3.573 MHz
+- **40m**: 7.074 MHz
+- **20m**: 14.074 MHz
+- **17m**: 18.100 MHz
+- **15m**: 21.074 MHz
+- **10m**: 28.074 MHz
+- **6m**: 50.313 MHz
+- **2m**: 144.174 MHz
 
 **Step 2: Enable RX (Receive)**
 - Click **Enable Rx** (monitor mode)
@@ -625,7 +626,7 @@ Total QSO time: 90 seconds (6× 15-second cycles).
 - ❌ **Transmitting on calling frequency**: CQ on exactly 14.074.000 (QRM)
 - ✓ **Offset 1000-2000 Hz**: Transmit at 14.075.000-14.076.000 (dial + offset)
 
-## Mode 4: JS8Call (Keyboard Chat)
+## JS8Call
 
 **JS8Call** is digital mode derived from FT8, optimized for **keyboard-to-keyboard text messaging** instead of signal reports. Ideal for emergency messaging.
 
@@ -668,14 +669,14 @@ Same as FT8:
 
 **Step 4: Select Frequency**
 - JS8Call frequencies (USB mode):
-  - **160m**: 1.842 MHz
-  - **80m**: 3.578 MHz
-  - **40m**: 7.078 MHz
-  - **20m**: 14.078 MHz
-  - **30m**: 10.130 MHz (popular for JS8Call, no FT8 activity)
-  - **17m**: 18.104 MHz
-  - **15m**: 21.078 MHz
-  - **10m**: 28.078 MHz
+- **160m**: 1.842 MHz
+- **80m**: 3.578 MHz
+- **40m**: 7.078 MHz
+- **20m**: 14.078 MHz
+- **30m**: 10.130 MHz (popular for JS8Call, no FT8 activity)
+- **17m**: 18.104 MHz
+- **15m**: 21.078 MHz
+- **10m**: 28.078 MHz
 
 ### Operating JS8Call
 
@@ -746,7 +747,7 @@ Same as FT8:
 - ❌ **Forgetting to enable store-and-forward**: Can't relay messages for others
 - ✓ **Enable relay feature**: Help extend network range
 
-## Mode 5: DMR / Fusion (Digital Voice)
+## Mode 5
 
 **DMR** (Digital Mobile Radio) and **Fusion** (Yaesu System Fusion) are digital voice modes for VHF/UHF. Provide better audio quality, longer range, and integrated GPS/text messaging compared to analog FM.
 
@@ -758,10 +759,10 @@ Same as FT8:
 - **Audio Quality**: Clear and noise-free (within coverage), no static/hiss
 - **Range**: 20-40% greater than analog FM (due to error correction and forward error correction)
 - **Features**:
-  - **Talkgroups**: Virtual channels (like chat rooms, e.g., Worldwide, Regional, Local)
-  - **GPS**: Position transmitted with voice
-  - **Text messaging**: Short SMS-like messages between radios
-  - **ID**: Each radio has unique DMR ID (like phone number)
+- **Talkgroups**: Virtual channels (like chat rooms, e.g., Worldwide, Regional, Local)
+- **GPS**: Position transmitted with voice
+- **Text messaging**: Short SMS-like messages between radios
+- **ID**: Each radio has unique DMR ID (like phone number)
 
 **DMR Tiers**:
 - **Tier I**: Unlicensed (dPMR, not commonly used in amateur radio)
@@ -812,11 +813,11 @@ Same as FT8:
 2. Connect radio to computer via USB cable
 3. Read existing codeplug from radio
 4. Add/edit channels:
-   - **Channel Name**: "DMR Local Repeater"
-   - **Frequency**: TX 442.000 / RX 447.000 MHz (example)
-   - **Color Code**: 1 (repeater-specific, like CTCSS tone for DMR)
-   - **Time Slot**: 1 or 2 (DMR repeaters multiplex two conversations on one frequency)
-   - **Talk Group**: 31 (Worldwide), 3123 (North America), 3148 (California), etc.
+- **Channel Name**: "DMR Local Repeater"
+- **Frequency**: TX 442.000 / RX 447.000 MHz (example)
+- **Color Code**: 1 (repeater-specific, like CTCSS tone for DMR)
+- **Time Slot**: 1 or 2 (DMR repeaters multiplex two conversations on one frequency)
+- **Talk Group**: 31 (Worldwide), 3123 (North America), 3148 (California), etc.
 5. Write codeplug to radio
 
 ### DMR Talk Groups
@@ -824,6 +825,7 @@ Same as FT8:
 **Talk Groups** (TG) are virtual channels. Transmitting on a talk group sends your voice to all users on that TG (via repeater network).
 
 **Common Talk Groups**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | TG Number | Name | Scope |
 |-----------|------|-------|
 | **1** | Worldwide | Global (high traffic) |
@@ -909,7 +911,7 @@ Same as FT8:
 - ❌ **Not registering DMR ID**: Radio transmits, but other users can't identify you
 - ✓ **Register ID at radioid.net**: Takes 5 minutes, lasts lifetime
 
-## Mode 6: SSTV (Slow Scan Television)
+## Mode 6
 
 **SSTV** transmits still images over radio. Useful for sending maps, photos, documents, damage assessment images during emergencies.
 
@@ -919,10 +921,10 @@ Same as FT8:
 - **Transmission Time**: 30 seconds to 4 minutes per image (depends on mode and resolution)
 - **Modulation**: FM audio tones (1500 Hz = sync, 1500-2300 Hz = brightness)
 - **Modes**: Multiple formats
-  - **Martin M1**: 114 seconds, 320×256 pixels, color (most common)
-  - **Scottie S1**: 110 seconds, 320×256 pixels, color
-  - **Robot 36**: 36 seconds, 320×240 pixels, color (faster, lower quality)
-  - **PD120**: 126 seconds, 640×496 pixels, high quality
+- **Martin M1**: 114 seconds, 320×256 pixels, color (most common)
+- **Scottie S1**: 110 seconds, 320×256 pixels, color
+- **Robot 36**: 36 seconds, 320×240 pixels, color (faster, lower quality)
+- **PD120**: 126 seconds, 640×496 pixels, high quality
 
 **Applications**:
 - Damage assessment photos (post-disaster surveys)
@@ -945,6 +947,7 @@ Same as FT8:
 - Webcam or image files
 
 **Software**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Software | Platform | Cost | Features |
 |----------|----------|------|----------|
 | **MMSSTV** | Windows | Free | Most popular, full-featured SSTV |
@@ -1022,9 +1025,10 @@ Same as FT8:
 - ❌ **Low-quality source image**: Pixelated, blurry result
 - ✓ **Use high-resolution source**: 640×480+ (software downscales appropriately)
 
-## Digital Mode Frequency Allocations
+## DMFA
 
 **HF Digital Mode Frequencies** (USB mode unless specified):
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Band | Mode | Frequency (MHz) | Notes |
 |------|------|----------------|-------|
 | **80m** | PSK31 | 3.580 | Popular digital calling frequency |

@@ -69,24 +69,24 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ---
 
-## ⚠️ CRITICAL WARNINGS ⚠️
+## CRITICAL WARNINGS
 
 **ABSOLUTE CONTRAINDICATIONS (NEVER USE NPA):**
 
 1. **Suspected skull fracture:**
-   - Basilar skull fracture (fracture at base of skull)
-   - Cribriform plate fracture (roof of nasal cavity)
-   - **Risk:** NPA can penetrate through fracture into brain (fatal)
-   - **Signs of basilar skull fracture:**
-     - Battle's sign (bruising behind ear)
-     - Raccoon eyes (bruising around both eyes)
-     - CSF leak from nose (clear fluid dripping - cerebrospinal fluid)
-     - CSF leak from ear (clear fluid from ear canal)
-     - Severe facial trauma with midface instability
+- Basilar skull fracture (fracture at base of skull)
+- Cribriform plate fracture (roof of nasal cavity)
+- **Risk:** NPA can penetrate through fracture into brain (fatal)
+- **Signs of basilar skull fracture:**
+- Battle's sign (bruising behind ear)
+- Raccoon eyes (bruising around both eyes)
+- CSF leak from nose (clear fluid dripping - cerebrospinal fluid)
+- CSF leak from ear (clear fluid from ear canal)
+- Severe facial trauma with midface instability
 
 2. **Severe facial trauma:**
-   - LeFort fractures (midface fractures)
-   - Nasal fractures (relative contraindication - may still attempt if no skull fracture)
+- LeFort fractures (midface fractures)
+- Nasal fractures (relative contraindication - may still attempt if no skull fracture)
 
 **If skull fracture suspected, use oropharyngeal airway (OPA) or jaw-thrust only. If patient needs advanced airway, use oral intubation (NOT nasal).**
 
@@ -101,15 +101,15 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 **Structures:**
 - **Turbinates:** Bony projections from lateral nasal wall (inferior, middle, superior)
-  - Covered with mucosa (delicate, vascular - bleeds easily)
-  - NPA passes BELOW inferior turbinate along floor of nose
+- Covered with mucosa (delicate, vascular - bleeds easily)
+- NPA passes BELOW inferior turbinate along floor of nose
 - **Septum:** Divides nose into left and right chambers
-  - Often deviated (one side larger than other)
-  - Choose larger nostril for NPA insertion
+- Often deviated (one side larger than other)
+- Choose larger nostril for NPA insertion
 - **Cribriform plate:** Thin bone at roof of nasal cavity (part of skull base)
-  - Perforated (olfactory nerves pass through)
-  - Easily fractured in head trauma
-  - **Reason NPA contraindicated in skull fracture**
+- Perforated (olfactory nerves pass through)
+- Easily fractured in head trauma
+- **Reason NPA contraindicated in skull fracture**
 
 ### Nasopharynx
 
@@ -125,28 +125,29 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 **Use NPA when patient has:**
 
 1. **Decreased level of consciousness** (but not deeply unconscious)
-   - GCS 9-13 (moderate impairment)
-   - Responds to verbal or painful stimuli
-   - Able to protect airway somewhat but tongue falling back
+- GCS 9-13 (moderate impairment)
+- Responds to verbal or painful stimuli
+- Able to protect airway somewhat but tongue falling back
 
 2. **Intact or hyperactive gag reflex** (makes OPA impossible)
-   - OPA triggers gagging, vomiting, laryngospasm
-   - NPA bypasses most sensitive gag reflex areas
+- OPA triggers gagging, vomiting, laryngospasm
+- NPA bypasses most sensitive gag reflex areas
 
 3. **Trismus** (clenched jaw, lockjaw)
-   - Cannot open mouth to insert OPA
-   - Trauma, seizure, medication side effect
+- Cannot open mouth to insert OPA
+- Trauma, seizure, medication side effect
 
 4. **Oral trauma**
-   - Facial injuries, dental injuries preventing OPA
-   - Intact nasal passage
+- Facial injuries, dental injuries preventing OPA
+- Intact nasal passage
 
 5. **Need for nasotracheal suctioning**
-   - Frequent airway clearance needed
-   - NPA provides conduit for suction catheter
+- Frequent airway clearance needed
+- NPA provides conduit for suction catheter
 
 ### NPA vs. OPA: When to Use Which
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | NPA | OPA |
 |---------|-----|-----|
 | **Consciousness level** | Semi-conscious (GCS 9-13) | Deeply unconscious (GCS ≤8) |
@@ -166,10 +167,10 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 - Hollow (allows air passage, suctioning)
 - Beveled tip (smooth insertion)
 - Sizes: 6mm - 9mm internal diameter (ID)
-  - 6.0-6.5mm: Small adult, adolescent
-  - 7.0-7.5mm: Average adult female
-  - 8.0-8.5mm: Average adult male
-  - 9.0mm: Large adult male
+- 6.0-6.5mm: Small adult, adolescent
+- 7.0-7.5mm: Average adult female
+- 8.0-8.5mm: Average adult male
+- 9.0mm: Large adult male
 
 **Additional supplies:**
 - Water-soluble lubricant (K-Y Jelly, Surgilube) OR water (if no lubricant)
@@ -213,7 +214,7 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ---
 
-## Step-by-Step Insertion Technique
+## Insertion Tech
 
 ### 1. Preparation (30 seconds)
 
@@ -229,60 +230,60 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 **Equipment:**
 - Select appropriately sized NPA (nose-to-earlobe measurement)
 - Lubricate NPA generously (entire tube, especially tip)
-  - Water-soluble lubricant preferred
-  - If no lubricant: Use water or saline (DO NOT insert dry)
-  - Lidocaine jelly (if available) - provides lubrication + local anesthesia (reduces discomfort)
+- Water-soluble lubricant preferred
+- If no lubricant: Use water or saline (DO NOT insert dry)
+- Lidocaine jelly (if available) - provides lubrication + local anesthesia (reduces discomfort)
 
 ### 2. Insertion (10-20 seconds)
 
 **Step-by-step:**
 
 1. **Inspect nostril:**
-   - Look for obvious obstruction (polyps, foreign body, blood clots)
-   - Clear visible obstruction if safe
+- Look for obvious obstruction (polyps, foreign body, blood clots)
+- Clear visible obstruction if safe
 
 2. **Hold NPA correctly:**
-   - Grasp NPA near flanged end
-   - **Bevel faces septum** (opening toward midline/septum, NOT toward turbinates)
-     - Reduces trauma to turbinates
-     - Some sources say bevel away from septum - either acceptable, but toward septum more common
+- Grasp NPA near flanged end
+- **Bevel faces septum** (opening toward midline/septum, NOT toward turbinates)
+- Reduces trauma to turbinates
+- Some sources say bevel away from septum - either acceptable, but toward septum more common
 
 3. **Insert gently:**
-   - Align NPA parallel to floor of mouth (NOT angled upward toward forehead)
-     - Common mistake: Angling upward (hits roof of nose, causes trauma)
-     - Correct angle: Straight back toward occiput (back of head)
-   - Apply gentle, steady pressure
-   - Advance with slight twisting motion (helps navigate curves)
+- Align NPA parallel to floor of mouth (NOT angled upward toward forehead)
+- Common mistake: Angling upward (hits roof of nose, causes trauma)
+- Correct angle: Straight back toward occiput (back of head)
+- Apply gentle, steady pressure
+- Advance with slight twisting motion (helps navigate curves)
 
 4. **Resistance:**
-   - **Gentle resistance normal** (navigating turbinates, nasopharyngeal curve)
-   - **Firm resistance:** STOP
-     - Do NOT force (can perforate)
-     - Try other nostril OR smaller NPA
+- **Gentle resistance normal** (navigating turbinates, nasopharyngeal curve)
+- **Firm resistance:** STOP
+- Do NOT force (can perforate)
+- Try other nostril OR smaller NPA
 
 5. **Advance until flanged end reaches nostril:**
-   - Flange rests against nostril opening (prevents tube from going deeper)
-   - Tip of NPA now in nasopharynx (behind soft palate, above tongue base)
+- Flange rests against nostril opening (prevents tube from going deeper)
+- Tip of NPA now in nasopharynx (behind soft palate, above tongue base)
 
 ### 3. Confirm Placement (5-10 seconds)
 
 **Check:**
 1. **Air movement:**
-   - Feel for air coming out of NPA during exhalation (place hand near opening)
-   - Listen for breath sounds through NPA (place ear near opening)
+- Feel for air coming out of NPA during exhalation (place hand near opening)
+- Listen for breath sounds through NPA (place ear near opening)
 
 2. **Patient tolerance:**
-   - Minimal coughing/gagging (NPA should be well-tolerated)
-   - If patient coughs, gags violently, or becomes combative → May be too long or patient more conscious than thought
+- Minimal coughing/gagging (NPA should be well-tolerated)
+- If patient coughs, gags violently, or becomes combative → May be too long or patient more conscious than thought
 
 3. **Breathing improved:**
-   - Less snoring (indicates tongue obstruction relieved)
-   - More regular respiratory rate
-   - Improved oxygen saturation (if pulse oximeter available)
+- Less snoring (indicates tongue obstruction relieved)
+- More regular respiratory rate
+- Improved oxygen saturation (if pulse oximeter available)
 
 4. **No bleeding:**
-   - Small amount of blood normal (nasal mucosa very vascular)
-   - Moderate to severe bleeding → See complications below
+- Small amount of blood normal (nasal mucosa very vascular)
+- Moderate to severe bleeding → See complications below
 
 ### 4. Secure (1 minute)
 
@@ -296,7 +297,7 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ---
 
-## Post-Insertion Management
+## Post-Management
 
 ### Monitoring (Continuous)
 
@@ -333,7 +334,7 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ---
 
-## Complications and Management
+## Complications Mgmt
 
 ### 1. Epistaxis (Nosebleed)
 
@@ -362,8 +363,8 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 **Severe bleeding (brisk flow, not stopping with pressure):**
 1. Consider removing NPA (if bleeding clearly from NPA trauma)
 2. Anterior nasal packing (if trained):
-   - Insert ribbon gauze or hemostatic gauze (QuikClot)
-   - Pack tightly from front to back
+- Insert ribbon gauze or hemostatic gauze (QuikClot)
+- Pack tightly from front to back
 3. Seek medical care (may need posterior nasal packing or cauterization)
 
 ### 2. Vomiting/Aspiration
@@ -461,7 +462,7 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ---
 
-## NPA in Special Populations
+## NPA Spec Pop
 
 ### Children
 
@@ -492,15 +493,15 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 **Priorities:**
 1. **Assess for skull fracture FIRST** (contraindication)
 2. **Spinal precautions** (if mechanism suggests spine injury)
-   - Maintain c-spine immobilization during NPA insertion
-   - Jaw-thrust instead of head-tilt
+- Maintain c-spine immobilization during NPA insertion
+- Jaw-thrust instead of head-tilt
 3. **Facial trauma:**
-   - Inspect nasal passages (fractured nose may still allow NPA, but higher risk)
-   - Severe midface trauma = contraindication
+- Inspect nasal passages (fractured nose may still allow NPA, but higher risk)
+- Severe midface trauma = contraindication
 
 ---
 
-## Advanced Airway Considerations
+## Advanced Airway
 
 ### When NPA is Insufficient
 
@@ -522,8 +523,8 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 1. Insert NPA (maintains airway patency)
 2. Apply BVM over mouth AND nose (seal both)
 3. Ventilate (squeeze bag) with jaw-thrust
-   - Rate: 10-12 breaths/minute (adults), 12-20 breaths/minute (children)
-   - Volume: Enough to see chest rise (don't overinflate - causes gastric distension)
+- Rate: 10-12 breaths/minute (adults), 12-20 breaths/minute (children)
+- Volume: Enough to see chest rise (don't overinflate - causes gastric distension)
 
 **NPA improves BVM effectiveness:**
 - Prevents tongue obstruction
@@ -531,7 +532,7 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ---
 
-## Field/Austere Considerations
+## Field/Austere
 
 ### Improvised NPA
 
@@ -561,23 +562,23 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Using NPA with suspected skull fracture | Check for signs of basilar skull fracture FIRST (Battle's sign, raccoon eyes, CSF leak) - if present, use OPA only |
-| Angling NPA upward toward forehead | Insert parallel to floor of mouth (straight back toward occiput) |
-| Forcing NPA past resistance | Gentle pressure only - if firm resistance, try other nostril or smaller size |
-| Inadequate lubrication | Lubricate entire tube generously (water-soluble lubricant or water) |
-| Wrong size (too short or too long) | Measure nose-to-earlobe every time (patients vary) |
-| Using NPA in fully conscious patient | NPA for semi-conscious only (GCS 9-13) - conscious patient will not tolerate |
-| Removing NPA during active vomiting | Turn patient on side FIRST (allows drainage), then reassess need for NPA |
-| Using rigid tube for improvised NPA | Soft, flexible material only (rigid tube can perforate) |
+**❌ Mistake:** ✓ Correct
+**Using NPA with suspected skull fracture:** Check for signs of basilar skull fracture FIRST (Battle's sign, raccoon eyes, CSF leak) - if present, use OPA only
+**Angling NPA upward toward forehead:** Insert parallel to floor of mouth (straight back toward occiput)
+**Forcing NPA past resistance:** Gentle pressure only - if firm resistance, try other nostril or smaller size
+**Inadequate lubrication:** Lubricate entire tube generously (water-soluble lubricant or water)
+**Wrong size (too short or too long):** Measure nose-to-earlobe every time (patients vary)
+**Using NPA in fully conscious patient:** NPA for semi-conscious only (GCS 9-13) - conscious patient will not tolerate
+**Removing NPA during active vomiting:** Turn patient on side FIRST (allows drainage), then reassess need for NPA
+**Using rigid tube for improvised NPA:** Soft, flexible material only (rigid tube can perforate)
 
 ---
 
-## Summary: NPA vs. Other Airway Adjuncts
+## NPA vs Others
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Method | Consciousness Level | Equipment | Skill | Effectiveness |
 |--------|---------------------|-----------|-------|---------------|
 | **Jaw-thrust/Head-tilt** | Any | None | Basic | Moderate (temporary) |

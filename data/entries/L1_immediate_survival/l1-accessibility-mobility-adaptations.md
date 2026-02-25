@@ -19,6 +19,7 @@ Mobility disabilities require specific adaptations but do not prevent effective 
 - Look for obstacles: roots, rocks >2" high, gaps >1" wide
 
 **Surface Types:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Surface | Difficulty | Technique |
 |---------|-----------|-----------|
 | Paved/hard-packed | Easy | Standard propulsion |
@@ -242,6 +243,7 @@ Mobility disabilities require specific adaptations but do not prevent effective 
 
 **Common Issues & Solutions:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | Excessive rubbing | Swelling or shrinkage | Add/remove socks, adjust straps |
@@ -319,7 +321,7 @@ Mobility disabilities require specific adaptations but do not prevent effective 
 
 ---
 
-## Limited Mobility Conditions
+## Limited Mobility
 
 ### Shelter Adaptations
 
@@ -369,7 +371,7 @@ Mobility disabilities require specific adaptations but do not prevent effective 
 
 ---
 
-## Group Support & Evacuation
+## Group Support
 
 ### Buddy System
 
@@ -512,15 +514,14 @@ Mobility disabilities require specific adaptations but do not prevent effective 
 
 ### Improvised Alternatives
 
-| Need | Improvised Solution |
-|------|---------------------|
-| Transfer board | Smooth plank, car hood, door |
-| Wheelchair cushion | Folded clothing, foam pad, inflated trash bag |
-| Crutch padding | Moss, cloth, duct tape wrap |
-| Grab bar | Horizontal tree branch, rope loop |
-| Raised toilet | Log stack, sturdy box |
-| Prosthetic sock | Tube sock, cut pant leg |
-| Reacher tool | Forked stick, bent wire, magnet on string |
+**Need:** Improvised Solution
+**Transfer board:** Smooth plank, car hood, door
+**Wheelchair cushion:** Folded clothing, foam pad, inflated trash bag
+**Crutch padding:** Moss, cloth, duct tape wrap
+**Grab bar:** Horizontal tree branch, rope loop
+**Raised toilet:** Log stack, sturdy box
+**Prosthetic sock:** Tube sock, cut pant leg
+**Reacher tool:** Forked stick, bent wire, magnet on string
 
 ---
 

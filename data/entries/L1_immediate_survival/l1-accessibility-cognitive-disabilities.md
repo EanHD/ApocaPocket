@@ -10,7 +10,7 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 
 ---
 
-## Autism Spectrum Disorder (ASD)
+## Autism
 
 ### Routine & Predictability
 
@@ -28,6 +28,7 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 5. Same sequence daily (builds automatic response)
 
 **Sample Daily Structure:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Time | Activity | Duration |
 |------|----------|----------|
 | 07:00 | Wake, personal care | 30 min |
@@ -125,7 +126,7 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 
 ---
 
-## Intellectual Disabilities
+## Intellectual Disabilit
 
 ### Simple Language
 
@@ -142,13 +143,12 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 ### Visual Aids
 
 **Types:**
-| Visual Aid | Use Case |
-|------------|----------|
-| Picture schedule | Daily routine |
-| Step-by-step photos | Multi-step tasks (starting fire, cooking) |
-| Checklists (with images) | Task completion |
-| Color coding | Organize belongings (blue bag = clothes, red bag = food) |
-| Arrows/markers | Navigate camp safely |
+**Visual Aid:** Use Case
+**Picture schedule:** Daily routine
+**Step-by-step photos:** Multi-step tasks (starting fire, cooking)
+**Checklists (with images):** Task completion
+**Color coding:** Organize belongings (blue bag = clothes, red bag = food)
+**Arrows/markers:** Navigate camp safely
 
 **Creating Visual Instructions:**
 1. Take photos of each step
@@ -301,6 +301,7 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 ### Supervision
 
 **Levels of Supervision:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stage | Supervision Level | Support Needed |
 |-------|-------------------|----------------|
 | Early | Periodic check-ins | Reminders, gentle redirection |
@@ -406,7 +407,7 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 
 ---
 
-## Communication Strategies
+## Commun Strat
 
 ### Clear, Concrete Language
 
@@ -423,6 +424,7 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 ### Avoid Idioms
 
 **Idioms to Avoid:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Idiom | Literal Interpretation | Say Instead |
 |-------|------------------------|-------------|
 | "Break a leg" | Injure yourself | "Good luck" |
@@ -477,11 +479,10 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 ### Appropriate Tasks
 
 **Matching Skills to Tasks:**
-| Skill Level | Appropriate Tasks |
-|-------------|-------------------|
-| Low support needs | Food prep, tool maintenance, crafts, teaching others |
-| Moderate support | Gathering (with buddy), sorting items, fire tending (supervised) |
-| High support | Simple repetitive tasks (folding, stacking), companionship, supervised activities |
+**Skill Level:** Appropriate Tasks
+**Low support needs:** Food prep, tool maintenance, crafts, teaching others
+**Moderate support:** Gathering (with buddy), sorting items, fire tending (supervised)
+**High support:** Simple repetitive tasks (folding, stacking), companionship, supervised activities
 
 **Task Adaptation:**
 - Simplify complex tasks (break into smaller steps)
@@ -504,7 +505,7 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 
 ---
 
-## Medication & Medical Considerations
+## Medication
 
 ### Medication Management
 
@@ -588,19 +589,18 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 
 ### Improvised Alternatives
 
-| Need | Improvised Solution |
-|------|---------------------|
-| Visual schedule | Draw on bark or paper, laminate with clear tape |
-| Timer | Sun dial, shadow stick, sand timer |
-| Labels | Carve into wood, write on cloth with marker |
-| Checklist | Stones in row (move to "done" pile) |
-| Fidget item | Smooth river stone, knotted cord, pinecone |
-| Weighted blanket | Multiple layers of clothing, sand-filled bag |
-| ID bracelet | Write on cloth, tie to wrist |
+**Need:** Improvised Solution
+**Visual schedule:** Draw on bark or paper, laminate with clear tape
+**Timer:** Sun dial, shadow stick, sand timer
+**Labels:** Carve into wood, write on cloth with marker
+**Checklist:** Stones in row (move to "done" pile)
+**Fidget item:** Smooth river stone, knotted cord, pinecone
+**Weighted blanket:** Multiple layers of clothing, sand-filled bag
+**ID bracelet:** Write on cloth, tie to wrist
 
 ---
 
-## Daily Living Adaptations
+## Daily Adaptations
 
 ### Morning Routine
 

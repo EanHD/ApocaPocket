@@ -18,10 +18,11 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 
 **⚠️ Safety First:** E-waste contains hazards: sharp edges, toxic materials (lead solder, beryllium oxide, PCB chemicals), stored charge in capacitors (can be lethal), and mercury. Proper handling and precautions essential.
 
-## Sources of Salvage Components
+## Salvage Sources
 
 ### High-Value E-Waste
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Source | Best Components | Notes |
 |--------|-----------------|-------|
 | **Computer power supplies** | High-wattage resistors, large capacitors (400V 220-470µF), bridge rectifiers, MOSFETs, transformers | **Discharge caps first!** (lethal voltage) |
@@ -55,7 +56,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - Glued assemblies (designed NOT to be repaired)
 - Examples: Smartphones, tablets, modern laptops
 
-## Component Identification
+## Comp ID
 
 ### Resistors
 
@@ -68,6 +69,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - Band 4: Tolerance (gold = ±5%, silver = ±10%, none = ±20%)
 
 **Color Code Chart:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Color | Digit | Multiplier | Tolerance |
 |-------|-------|------------|-----------|
 | Black | 0 | ×1 (×10⁰) | - |
@@ -99,10 +101,10 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 
 **SMD Resistors (Numeric Code):**
 - **3-digit code:** First 2 = value, 3rd = multiplier
-  - Example: 472 = 47 × 100 = 4,700Ω (4.7kΩ)
-  - Example: 103 = 10 × 1,000 = 10,000Ω (10kΩ)
+- Example: 472 = 47 × 100 = 4,700Ω (4.7kΩ)
+- Example: 103 = 10 × 1,000 = 10,000Ω (10kΩ)
 - **4-digit code (precision):** First 3 = value, 4th = multiplier
-  - Example: 1002 = 100 × 100 = 10,000Ω (10kΩ)
+- Example: 1002 = 100 × 100 = 10,000Ω (10kΩ)
 - **"R" indicates decimal:** 4R7 = 4.7Ω, R100 = 0.1Ω
 
 **Common Useful Resistor Values (Salvage Priority):**
@@ -120,6 +122,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - **MUST observe polarity** (wrong polarity = explosion)
 
 **Useful Salvage Values:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Capacitance | Voltage | Common Use |
 |-------------|---------|------------|
 | 1-10µF | 16-50V | Decoupling, filtering |
@@ -172,6 +175,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - Cathode band indicates direction (current flows toward band is BLOCKED)
 
 **Common Diode Types:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Part Number | Type | Voltage | Current | Use |
 |-------------|------|---------|---------|-----|
 | 1N4001-1N4007 | Rectifier | 50-1000V | 1A | Power supply rectification |
@@ -214,6 +218,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - **MOSFET:** N-channel or P-channel, 3 leads (gate, drain, source)
 
 **Common Part Numbers (TO-92):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Part Number | Type | Use |
 |-------------|------|-----|
 | 2N3904 | NPN BJT | General purpose amplifier/switch |
@@ -222,6 +227,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 | BC547/BC548/BC549 | NPN BJT | European equivalent to 2N3904 |
 
 **Power Transistors (TO-220):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Part Number | Type | Voltage | Current | Use |
 |-------------|------|---------|---------|-----|
 | TIP41/TIP42 | NPN/PNP BJT | 100V | 6A | Audio, motor driver |
@@ -254,6 +260,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 **Common Useful ICs:**
 
 **Voltage Regulators:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Part Number | Type | Output Voltage | Max Current | Package |
 |-------------|------|----------------|-------------|---------|
 | 7805 | Linear | +5V | 1A | TO-220 |
@@ -262,6 +269,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 | LM7805 | Linear | +5V | 1A | TO-220 |
 
 **Op-Amps:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Part Number | Type | Channels | Use |
 |-------------|------|----------|-----|
 | LM358 | Dual | 2 | General purpose, low power |
@@ -269,6 +277,7 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 | TL071/TL072 | Single/Dual | 1/2 | Low-noise audio |
 
 **Logic:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Part Number | Type | Gates | Use |
 |-------------|------|-------|-----|
 | 74HC00 | NAND gate | 4 | Logic circuits |
@@ -354,18 +363,18 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 1. **Unplug device** - disconnect from all power
 2. **Wait 5 minutes** - some capacitors drain slowly through bleed resistors
 3. **Inspect for large capacitors:**
-   - Cylindrical, 1" diameter or larger
-   - Marked 200V+ (e.g., "220µF 400V")
-   - Usually near AC input or bridge rectifier
+- Cylindrical, 1" diameter or larger
+- Marked 200V+ (e.g., "220µF 400V")
+- Usually near AC input or bridge rectifier
 4. **Discharge with resistor:**
-   - Use 2kΩ-10kΩ resistor, 5W+ rating
-   - Touch resistor leads across capacitor terminals (+ to -)
-   - Hold 30 seconds (allows controlled discharge)
-   - **Never short with screwdriver** (spark can be explosive, damages cap)
+- Use 2kΩ-10kΩ resistor, 5W+ rating
+- Touch resistor leads across capacitor terminals (+ to -)
+- Hold 30 seconds (allows controlled discharge)
+- **Never short with screwdriver** (spark can be explosive, damages cap)
 5. **Verify with multimeter:**
-   - Measure voltage across capacitor
-   - Should read <5V (safe)
-   - If still high, discharge again
+- Measure voltage across capacitor
+- Should read <5V (safe)
+- If still high, discharge again
 
 **Alternative: Commercial Discharge Tool:**
 - High-wattage resistor with insulated probe handles
@@ -432,15 +441,15 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 
 **After Desoldering:**
 1. **Remove excess solder:**
-   - Use solder wick to clean leads
-   - Ensures component fits in new board
+- Use solder wick to clean leads
+- Ensures component fits in new board
 2. **Clean flux residue:**
-   - Isopropyl alcohol 90%+ and toothbrush
-   - Or ultrasonic cleaner
-   - Flux residue is corrosive (clean for long-term storage)
+- Isopropyl alcohol 90%+ and toothbrush
+- Or ultrasonic cleaner
+- Flux residue is corrosive (clean for long-term storage)
 3. **Straighten leads:**
-   - Needle-nose pliers
-   - Gentle bending (work-hardened copper breaks easily)
+- Needle-nose pliers
+- Gentle bending (work-hardened copper breaks easily)
 
 ## Component Testing
 
@@ -485,11 +494,11 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 **Test:**
 1. Set multimeter to diode test mode
 2. Forward bias: Red to anode, black to cathode
-   - Silicon diode: 400-800mV
-   - Schottky: 200-400mV
-   - LED: 1.8-3.6V (may glow dimly)
+- Silicon diode: 400-800mV
+- Schottky: 200-400mV
+- LED: 1.8-3.6V (may glow dimly)
 3. Reverse bias: Swap probes
-   - Should read OL (no conduction)
+- Should read OL (no conduction)
 
 **Failure Modes:**
 - Both directions low (<100mV): Shorted, discard
@@ -500,11 +509,11 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 
 **NPN BJT Test (e.g., 2N3904):**
 1. Diode test: Base to collector (forward bias)
-   - Should read 600-800mV
+- Should read 600-800mV
 2. Diode test: Base to emitter (forward bias)
-   - Should read 600-800mV
+- Should read 600-800mV
 3. Diode test: Collector to emitter (both directions)
-   - Should read OL both directions
+- Should read OL both directions
 
 **If all tests pass:** Transistor likely good (full test requires transistor tester or circuit)
 
@@ -628,22 +637,21 @@ IC         | 7805       | 5   | Bin E-1   | 5V regulator
 - Work on fire-resistant surface
 - Fire extinguisher nearby
 
-## Common Salvage Mistakes
+## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Disassembling powered device | Unplug, discharge caps, wait 5 minutes |
-| Not discharging large capacitors | Discharge with resistor before touching |
-| Pulling hard on stuck components | Apply more heat, add flux, work patiently |
-| Overheating components during removal | 3-5 seconds max per joint, move on if stuck |
-| Mixing component types in same bin | Sort and label everything |
-| Salvaging every component | Focus on useful types (regulators, caps, resistors) |
-| Not testing components after harvesting | Test before storage (discard bad parts) |
-| Forgetting part numbers on ICs | Note part number before desoldering (camera photo) |
-| Using CRT TVs as parts source for beginners | Extreme danger (30kV), avoid until experienced |
-| Sanding component leads to remove solder | Use solder wick (sanding creates shorts from filings) |
+**❌ Wrong:** ✓ Right
+**Disassembling powered device:** Unplug, discharge caps, wait 5 minutes
+**Not discharging large capacitors:** Discharge with resistor before touching
+**Pulling hard on stuck components:** Apply more heat, add flux, work patiently
+**Overheating components during removal:** 3-5 seconds max per joint, move on if stuck
+**Mixing component types in same bin:** Sort and label everything
+**Salvaging every component:** Focus on useful types (regulators, caps, resistors)
+**Not testing components after harvesting:** Test before storage (discard bad parts)
+**Forgetting part numbers on ICs:** Note part number before desoldering (camera photo)
+**Using CRT TVs as parts source for beginners:** Extreme danger (30kV), avoid until experienced
+**Sanding component leads to remove solder:** Use solder wick (sanding creates shorts from filings)
 
-## High-Priority Salvage List
+## High-Priority Salvage
 
 **Immediate Usefulness:**
 1. **Voltage regulators** (7805, 7812, LM317) - always needed
@@ -668,7 +676,7 @@ IC         | 7805       | 5   | Bin E-1   | 5V regulator
 - Damaged components (discard)
 - Tiny SMD resistors/caps (tedious to harvest, hard to identify)
 
-## Quick Reference - Component Codes
+## QRef - CompCodes
 
 **Resistor Color Bands:**
 - Black=0, Brown=1, Red=2, Orange=3, Yellow=4, Green=5, Blue=6, Violet=7, Gray=8, White=9

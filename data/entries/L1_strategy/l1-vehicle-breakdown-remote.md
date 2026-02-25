@@ -6,13 +6,13 @@ tags: ["vehicle", "breakdown", "remote", "stranded", "signaling", "survival"]
 confidence: "high"
 region: "global"
 sources:
-  - "aaa-roadside-emergency-guidelines"
-  - "sar-vehicle-recovery-protocols"
-  - "nps-desert-survival"
+- "aaa-roadside-emergency-guidelines"
+- "sar-vehicle-recovery-protocols"
+- "nps-desert-survival"
 related:
-  - "l1-vehicle-winter-survival"
-  - "l1-shelter-site-selection"
-  - "l1-water-sources-and-collection"
+- "l1-vehicle-winter-survival"
+- "l1-shelter-site-selection"
+- "l1-water-sources-and-collection"
 ---
 
 # Vehicle Breakdown in Remote Area
@@ -20,23 +20,23 @@ related:
 ## Overview
 Stay with the vehicle unless there is **known, nearby, safe shelter**. A vehicle is easier for rescuers to spot than a person.
 
-## First 10 Minutes (STOP Protocol)
+## First 10 Min
 1. **S**ecure scene (off road, hazards on if battery allows).
 2. **T**ake inventory (fuel, water, food, clothing, tools, battery, phone signal).
 3. **O**rient and assess (weather, daylight left, distance to known help).
 4. **P**lan and commit (avoid changing plans repeatedly).
 
-## Stay vs Go Decision Matrix
+## Stay/Go
 - **Stay** if: unknown distance to help, bad weather, night, injury, weak group member.
 - **Go** only if: help is confirmed within ~1 mile (1.6 km), weather stable, route obvious, you can return.
 
-## Immediate Vehicle Checks
+## Immed Veh Chks
 - Flat tire: replace if safe and tools available.
 - Battery: check terminals, try jump-start.
 - Overheating: wait 30–60 min before opening cap.
 - Fuel leak: do not run engine; move away from vapors.
 
-## Water and Food Rationing
+## Water/Food
 - Target hydration in heat: **2–4 L/day** per adult minimum.
 - Cold weather: **2–3 L/day** still required.
 - Eat small frequent portions; avoid high-salt meals if water is limited.

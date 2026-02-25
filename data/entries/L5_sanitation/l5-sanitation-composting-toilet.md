@@ -6,16 +6,16 @@ tags: ["sanitation", "toilet", "composting", "waste", "hygiene", "disease-preven
 confidence: "high"
 region: "global"
 sources:
-  - "who-sanitation-guidelines"
-  - "humanure-management-practices"
-  - "rural-wash-implementation-guides"
+- "who-sanitation-guidelines"
+- "humanure-management-practices"
+- "rural-wash-implementation-guides"
 related:
-  - "l5-sanitation-systems"
-  - "l1-medical-infection-prevention"
-  - "l4-composting-basics"
+- "l5-sanitation-systems"
+- "l1-medical-infection-prevention"
+- "l4-composting-basics"
 ---
 
-# Composting Toilet Construction & Use
+# Composting Toilet
 
 ## Overview
 Composting toilet systems can reduce pathogen spread when designed and managed correctly.
@@ -25,12 +25,12 @@ Composting toilet systems can reduce pathogen spread when designed and managed c
 - Maintain carbon cover material after each use.
 - Control moisture, airflow, and processing time.
 
-## Simple Bucket System (Short-Term)
+## Simple Bucket
 - Container with secure seat/lid.
 - Cover each use with dry carbon material (sawdust/leaves).
 - Transfer to managed compost process area.
 
-## Two-Stage Processing Concept
+## Two-Stage Proc
 1. Active collection/primary compost phase.
 2. Extended curing phase before final use/disposal.
 
@@ -45,7 +45,7 @@ Composting toilet systems can reduce pathogen spread when designed and managed c
 - Record fill dates and rotation schedule.
 - Use PPE for handling (gloves, dedicated tools).
 
-## Safety and Use of End Product
+## End Product Safety
 - Use conservative curing timelines.
 - Prioritize non-food landscape use where uncertainty exists.
 - Follow local/public health rules when available.

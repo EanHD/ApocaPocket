@@ -1,4 +1,4 @@
-# Community Long-Term Morale
+# Community Morale
 
 **Category:** L4 - Community Dynamics  
 **Survival Importance:** CRITICAL - Hope sustains will to survive, despair leads to death  
@@ -9,7 +9,7 @@
 
 ## Why This Matters
 
-**The Psychological Reality:** Humans don't just need food and shelter to survive - we need *meaning, hope, and connection*. Long-term survival scenarios challenge these core needs.
+**The Psychological Reality:** Humans don't just need food and shelter to survive - we need meaning, hope, and connection. Long-term survival scenarios challenge these core needs.
 
 **Research Foundation:**
 - **Logotherapy (Frankl, 1946):** "Those who have a 'why' to live can bear almost any 'how'"
@@ -52,10 +52,11 @@ Without will, resources and skills don't matter. People give up, make poor decis
 
 ---
 
-## Morale Indicators (How to Measure)
+## Morale Indicators
 
 ### High Morale Signs
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Indicator | What to Look For | Measurement |
 |-----------|------------------|-------------|
 | **Laughter frequency** | Jokes, playfulness, humor | Times per day you hear genuine laughter |
@@ -72,6 +73,7 @@ Without will, resources and skills don't matter. People give up, make poor decis
 
 ### Low Morale Warning Signs
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Indicator | What to Look For | Urgency |
 |-----------|------------------|---------|
 | **No laughter** | Grim silence, no jokes for days | HIGH |
@@ -108,7 +110,7 @@ Without will, resources and skills don't matter. People give up, make poor decis
 
 ---
 
-## The Four Pillars of Long-Term Morale
+## Four Pillars
 
 ### Pillar 1: Meaning & Purpose
 **Core Need:** "Why are we doing this?"
@@ -126,7 +128,7 @@ Each pillar requires active cultivation. Neglect any one, and morale collapses.
 
 ---
 
-## Pillar 1: Meaning & Purpose
+## Purpose
 
 ### Why Purpose Matters
 
@@ -204,7 +206,7 @@ Each pillar requires active cultivation. Neglect any one, and morale collapses.
 
 ---
 
-## Pillar 2: Social Connection
+## Pillar 2: Social
 
 ### Why Connection Matters
 
@@ -302,7 +304,7 @@ Each pillar requires active cultivation. Neglect any one, and morale collapses.
 
 ---
 
-## Pillar 3: Hope & Progress
+## Hope&Progress
 
 ### Why Hope Matters
 
@@ -605,7 +607,7 @@ Milestones (monthly victories):
 
 ---
 
-## Rest & Play (The Productivity Paradox)
+## RestPlay
 
 ### Why Rest Matters
 
@@ -743,7 +745,7 @@ Milestones (monthly victories):
 
 ---
 
-## Children & Education (Investing in the Future)
+## Children & Education
 
 ### Why Children Matter for Morale
 
@@ -801,7 +803,7 @@ Milestones (monthly victories):
 
 ---
 
-## Intervention Strategies (When Morale Drops)
+## Intervention Strategie
 
 ### Individual Intervention
 
@@ -901,7 +903,7 @@ Milestones (monthly victories):
 
 ---
 
-## Morale Maintenance Schedule
+## Morale Maint
 
 ### Daily
 - Morning check-in (5 min: "How is everyone?")
@@ -1014,7 +1016,7 @@ Milestones (monthly victories):
 
 ---
 
-## Quick Reference: Morale Emergency Response
+## Morale Emerg
 
 ### Signs of Morale Crisis
 - No laughter for 3+ days
@@ -1046,7 +1048,7 @@ Milestones (monthly victories):
 
 ---
 
-## Critical Principles Summary
+## Critical Principles
 
 ✓ **Morale is measurable** - Track indicators, don't just hope  
 ✓ **Four pillars: Meaning, Connection, Hope, Joy** - Need all four  
@@ -1061,30 +1063,30 @@ Milestones (monthly victories):
 
 ---
 
-## Sources & Further Reading
+## Sources
 
 **Psychology & Resilience:**
-- Frankl, V. (1946). *Man's Search for Meaning*
-- Snyder, C. R. (2000). *Handbook of Hope*
-- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*
-- Baumeister, R. F., & Leary, M. R. (1995). "The need to belong" in *Psychological Bulletin*
+- Frankl, V. (1946). Man's Search for Meaning
+- Snyder, C. R. (2000). Handbook of Hope
+- Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience
+- Baumeister, R. F., & Leary, M. R. (1995). "The need to belong" in Psychological Bulletin
 
 **Historical Case Studies:**
-- Lansing, A. (1959). *Endurance: Shackleton's Incredible Voyage*
-- Salisbury, H. E. (1969). *The 900 Days: The Siege of Leningrad*
-- Stewart, G. R. (1960). *Ordeal by Hunger: The Story of the Donner Party*
+- Lansing, A. (1959). Endurance: Shackleton's Incredible Voyage
+- Salisbury, H. E. (1969). The 900 Days: The Siege of Leningrad
+- Stewart, G. R. (1960). Ordeal by Hunger: The Story of the Donner Party
 
 **Organizational & Community:**
-- Amabile, T., & Kramer, S. (2011). *The Progress Principle*
-- Kanter, R. M. (1972). *Commitment and Community*
-- Palmer, P. J. (1998). *The Courage to Teach*
+- Amabile, T., & Kramer, S. (2011). The Progress Principle
+- Kanter, R. M. (1972). Commitment and Community
+- Palmer, P. J. (1998). The Courage to Teach
 
 **Sabbath & Rest:**
-- Muller, W. (1999). *Sabbath: Finding Rest, Renewal, and Delight in Our Busy Lives*
-- Heschel, A. J. (1951). *The Sabbath*
+- Muller, W. (1999). Sabbath: Finding Rest, Renewal, and Delight in Our Busy Lives
+- Heschel, A. J. (1951). The Sabbath
 
 ---
 
-*Last Updated: 2026-02-19*  
-*Version: 1.0*  
-*Tested in: Disaster response, intentional communities, extreme environments, long-term isolation scenarios*
+Last Updated: 2026-02-19  
+Version: 1.0  
+Tested in: Disaster response, intentional communities, extreme environments, long-term isolation scenarios

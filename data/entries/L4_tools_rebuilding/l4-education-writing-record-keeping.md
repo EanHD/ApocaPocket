@@ -16,7 +16,7 @@
 
 ---
 
-## Paper Making from Plants (DIY Paper)
+## Paper Making
 
 ### Why Paper?
 **Alternatives** (stone, clay, wood, animal skin) are:
@@ -35,22 +35,22 @@
 **Best sources** (by quality):
 
 1. **Cotton/Linen rags** (highest quality):
-   - **Source**: Worn-out clothing, fabric scraps
-   - **Result**: Smooth, white, durable paper (archives, important documents)
-   - **Historical**: Most books/documents 1400s-1800s used rag paper
+- **Source**: Worn-out clothing, fabric scraps
+- **Result**: Smooth, white, durable paper (archives, important documents)
+- **Historical**: Most books/documents 1400s-1800s used rag paper
 
 2. **Tree bark inner layer** (bast fiber):
-   - **Mulberry tree** (best for paper—traditional Japanese/Chinese paper)
-   - **Birch bark**: Used by Native Americans (scrolls, containers)
-   - **Other**: Willow, elm, basswood (softer woods with long fibers)
+- **Mulberry tree** (best for paper—traditional Japanese/Chinese paper)
+- **Birch bark**: Used by Native Americans (scrolls, containers)
+- **Other**: Willow, elm, basswood (softer woods with long fibers)
 
 3. **Reed/grass fibers**:
-   - **Papyrus** (Cyperus papyrus): Ancient Egyptian paper (not true paper—layered, not pulped)
-   - **Cattail, bulrush, tall grasses**: Coarse paper (wrapping, basic writing)
+- **Papyrus** (Cyperus papyrus): Ancient Egyptian paper (not true paper—layered, not pulped)
+- **Cattail, bulrush, tall grasses**: Coarse paper (wrapping, basic writing)
 
 4. **Hemp/flax** (cultivated fiber crops):
-   - Strong, long fibers → durable paper
-   - Requires farming (not just foraging)
+- Strong, long fibers → durable paper
+- Requires farming (not just foraging)
 
 ### Tools Needed
 - **Large vat/tub** (holds water + fiber slurry)
@@ -61,7 +61,7 @@
 
 ---
 
-## DIAGRAM: Paper-Making Process
+## Paper-Making
 
 ```
 STEP 1: FIBER PREPARATION
@@ -103,7 +103,7 @@ STEP 3: PRESSING & DRYING
 
 ---
 
-## Step-by-Step Paper-Making
+## Paper-Making
 
 ### 1. Fiber Collection & Preparation
 **Harvest**:
@@ -127,9 +127,9 @@ STEP 3: PRESSING & DRYING
 **Process**:
 1. **Add fibers to pot** (large pot, water covers fibers by 2 inches)
 2. **Add alkali** (makes fibers softer, easier to pulp):
-   - **Wood ash lye**: Soak wood ash in water, strain → lye solution (traditional)
-   - **Lime** (calcium hydroxide): 1 tablespoon per gallon water
-   - Ratio: 1 part alkali to 20 parts water
+- **Wood ash lye**: Soak wood ash in water, strain → lye solution (traditional)
+- **Lime** (calcium hydroxide): 1 tablespoon per gallon water
+- Ratio: 1 part alkali to 20 parts water
 3. **Boil 2-6 hours** (depends on material—rags faster, bark longer)
 4. **Test**: Fibers should separate easily when rubbed
 5. **Rinse thoroughly** (remove alkali—multiple water changes)
@@ -223,7 +223,7 @@ STEP 3: PRESSING & DRYING
 
 ---
 
-## Ink from Natural Sources
+## Ink Nat
 
 ### 1. Carbon Black Ink (Simplest)
 
@@ -254,7 +254,7 @@ STEP 3: PRESSING & DRYING
 2. **Crush galls** into powder
 3. **Steep in water**: 1 cup crushed galls + 2 cups water (soak 2-7 days)
 4. **Make iron solution**: Soak rusty iron nails in vinegar 1-2 weeks → ferrous acetate
-   - Or find "copperas" (iron sulfate crystals in mineral deposits)
+- Or find "copperas" (iron sulfate crystals in mineral deposits)
 5. **Mix**: 1 cup gall extract + 1/4 cup iron solution + 1 tablespoon gum arabic
 6. **Result**: Dark purple-black ink (turns darker over time)
 
@@ -285,9 +285,9 @@ STEP 3: PRESSING & DRYING
 2. **Harden**: Soak in hot sand or bake gently (makes brittle, easier to cut)
 3. **Strip barbs**: Remove fluffy part (1-2 inches from quill end)
 4. **Cut nib**:
-   - Slice end at 45° angle
-   - Split tip (thin slit up center—creates flex for line variation)
-   - Sharpen point with knife
+- Slice end at 45° angle
+- Split tip (thin slit up center—creates flex for line variation)
+- Sharpen point with knife
 5. **Result**: Flexible, precise writing tool
 
 **Lifespan**: Re-cut nib every 1-3 days (wears down)
@@ -322,7 +322,7 @@ STEP 3: PRESSING & DRYING
 
 ---
 
-## Basic Literacy Curriculum (Restart Scenario)
+## Basic Literacy
 
 ### Phase 1: Phonics (2-4 Weeks)
 **Goal**: Connect letters to sounds
@@ -368,7 +368,7 @@ STEP 3: PRESSING & DRYING
 
 ---
 
-## Record-Keeping (Essential for Civilization)
+## Record Keeping
 
 ### 1. Births, Deaths, Marriages
 **Why critical**:
@@ -435,7 +435,7 @@ Result 2026: Protected trees survived.
 
 ---
 
-## Why Critical: Knowledge Dies Without Writing
+## Why Write
 
 **Historical examples of lost knowledge**:
 - **Roman concrete** (Pozzolanic cement): Formula lost 500 CE, not rediscovered until 1800s
@@ -451,7 +451,7 @@ Result 2026: Protected trees survived.
 
 ---
 
-## Historical Context: Writing = Civilization Accelerator
+## Writing as Civilizatio
 
 ### Pre-Writing (200,000-3,500 BCE)
 - Oral tradition only
@@ -478,12 +478,12 @@ Result 2026: Protected trees survived.
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *Paper & Water Marks* by Edward Heawood (paper-making history)
-- *The Book: A Cover-to-Cover Exploration* by Keith Houston (history of books, paper, ink)
-- *Handmade Paper* by Silvie Turner (DIY paper-making guide)
-- *Scribes and Illuminators* by Christopher De Hamel (medieval writing techniques)
+- Paper & Water Marks by Edward Heawood (paper-making history)
+- The Book: A Cover-to-Cover Exploration by Keith Houston (history of books, paper, ink)
+- Handmade Paper by Silvie Turner (DIY paper-making guide)
+- Scribes and Illuminators by Christopher De Hamel (medieval writing techniques)
 
 ---
 

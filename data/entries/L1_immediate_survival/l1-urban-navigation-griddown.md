@@ -9,10 +9,10 @@ time_required: "Varies by distance (1-3 mph typical)"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "US Army FM 3-25.26 Map Reading and Land Navigation"
-  - "FEMA Urban Search and Rescue Navigation Protocols"
-  - "Department of Defense Urban Operations Field Manual"
-  - "National Geographic Urban Wayfinding Research"
+- "US Army FM 3-25.26 Map Reading and Land Navigation"
+- "FEMA Urban Search and Rescue Navigation Protocols"
+- "Department of Defense Urban Operations Field Manual"
+- "National Geographic Urban Wayfinding Research"
 ---
 
 # Urban Navigation Grid-Down - No GPS Wayfinding
@@ -36,7 +36,7 @@ sources:
 
 ---
 
-## Pre-Movement Planning (10-20 minutes)
+## Pre-Move Plan
 
 ### Determine Your Destination
 
@@ -55,23 +55,23 @@ sources:
 
 **Best sources (in order of value):**
 1. **Paper road map** (gas station, visitors center, bookstore)
-   - Never runs out of battery
-   - Whole city visible at once
-   - Can mark routes, notes
+- Never runs out of battery
+- Whole city visible at once
+- Can mark routes, notes
 
 2. **Printed map from internet** (before disaster)
-   - Google Maps screenshot (print before grid-down)
-   - Include 2-3 miles around your route (detour planning)
+- Google Maps screenshot (print before grid-down)
+- Include 2-3 miles around your route (detour planning)
 
 3. **Hand-drawn map** (from memory or local knowledge)
-   - Major streets, landmarks, intersections
-   - North arrow (always mark north)
-   - Scale (approximate distance between landmarks)
+- Major streets, landmarks, intersections
+- North arrow (always mark north)
+- Scale (approximate distance between landmarks)
 
 4. **Mental map** (memorization)
-   - Major streets (names, directions)
-   - Landmarks (parks, rivers, tall buildings)
-   - General direction (north/south/east/west of current position)
+- Major streets (names, directions)
+- Landmarks (parks, rivers, tall buildings)
+- General direction (north/south/east/west of current position)
 
 **No map available?**
 - Ask locals (if safe and friendly)
@@ -101,7 +101,7 @@ sources:
 
 ---
 
-## Cardinal Direction Finding
+## Cardinal Dir
 
 ### Sun Position (Most Reliable, Day)
 
@@ -278,7 +278,7 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ---
 
-## Urban Navigation Techniques
+## Urban Nav
 
 ### Major Street Following
 
@@ -366,7 +366,7 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ---
 
-## Navigation Hazards & Adaptations
+## Nav Hazards
 
 ### Blocked Routes (Debris, Fire, Riots)
 
@@ -420,7 +420,7 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ---
 
-## Urban-Specific Navigation Features
+## Urban Nav
 
 ### Street Sign Reading
 
@@ -500,9 +500,9 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 **Communication:**
 - Hand signals (silent, tactical)
-  - Fist up = STOP
-  - Point = Direction
-  - Tap head = Look/listen
+- Fist up = STOP
+- Point = Direction
+- Tap head = Look/listen
 - Whispered commands (if safe)
 - No shouting (attracts attention)
 
@@ -520,7 +520,7 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ---
 
-## Navigation Tools & Improvisation
+## Nav Tools
 
 ### Compass (If Available)
 
@@ -560,7 +560,7 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ---
 
-## Navigation Training Exercises (Pre-Disaster)
+## Nav Train
 
 ### Exercise 1: Pace Count Calibration (20 minutes)
 
@@ -599,6 +599,7 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ### Walking Speed vs Distance
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Speed (mph) | 1 mile | 3 miles | 5 miles | 10 miles |
 |-------------|--------|---------|---------|----------|
 | 1.5 (heavy load) | 40 min | 2 hr | 3.3 hr | 6.7 hr |
@@ -613,6 +614,7 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ### Sun Position by Time (Northern Hemisphere, mid-latitudes)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Time | Sun Position | Shadow Direction | Navigation Use |
 |------|--------------|------------------|----------------|
 | 6-7 AM | East (low) | West | Sun rising, walk toward sun = East |
@@ -623,22 +625,21 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Walking without checking direction | Re-check sun/shadow every 10-15 min |
-| Following others (crowd mentality) | Navigate independently (crowds may be lost too) |
-| Not marking route | Leave subtle markers (or memorize waypoints) |
-| Ignoring fatigue (pushing too hard) | Rest every 60-90 min (prevents injury, disorientation) |
-| Carrying too much weight | Lighten load (walk farther, faster, safer) |
-| No alternate routes planned | Plan 2 alternates before departure |
-| Forgetting to tell someone your route | Always inform someone (if traveling alone) |
-| Walking at night without planning | Night walk = slower, more hazards (plan for 2x time) |
+**❌ Mistake:** ✓ Correct
+**Walking without checking direction:** Re-check sun/shadow every 10-15 min
+**Following others (crowd mentality):** Navigate independently (crowds may be lost too)
+**Not marking route:** Leave subtle markers (or memorize waypoints)
+**Ignoring fatigue (pushing too hard):** Rest every 60-90 min (prevents injury, disorientation)
+**Carrying too much weight:** Lighten load (walk farther, faster, safer)
+**No alternate routes planned:** Plan 2 alternates before departure
+**Forgetting to tell someone your route:** Always inform someone (if traveling alone)
+**Walking at night without planning:** Night walk = slower, more hazards (plan for 2x time)
 
 ---
 
-## When to Stop Navigating (Shelter in Place)
+## Stop Navigating
 
 **Abort navigation if:**
 - Injured (twisted ankle, cut, exhaustion)

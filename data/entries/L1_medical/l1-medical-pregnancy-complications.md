@@ -6,13 +6,13 @@ tags: ["pregnancy", "preeclampsia", "miscarriage", "ectopic", "preterm-labor", "
 confidence: "high"
 region: "global"
 sources:
-  - "acog-pregnancy-complications"
-  - "who-pregnancy-emergency-protocols"
-  - "wilderness-medicine-obstetrics"
+- "acog-pregnancy-complications"
+- "who-pregnancy-emergency-protocols"
+- "wilderness-medicine-obstetrics"
 related:
-  - "l1-medical-childbirth-emergency"
-  - "l1-medical-severe-bleeding"
-  - "l1-strategy-first-24-hours"
+- "l1-medical-childbirth-emergency"
+- "l1-medical-severe-bleeding"
+- "l1-strategy-first-24-hours"
 ---
 
 # Pregnancy Complications & Emergency Protocols
@@ -25,7 +25,7 @@ related:
 
 ---
 
-## Pre-eclampsia (Most Common Serious Complication)
+## Pre-eclampsia
 
 ### Recognition
 
@@ -76,7 +76,7 @@ related:
 
 ---
 
-## Eclampsia (Seizures from Pre-eclampsia)
+## Eclampsia
 
 **Definition:** Pre-eclampsia + seizures (life-threatening)
 
@@ -102,7 +102,7 @@ related:
 
 ---
 
-## HELLP Syndrome (Severe Pre-eclampsia Variant)
+## HELLP Syndrome
 
 **Acronym:** Hemolysis, Elevated Liver enzymes, Low Platelets
 
@@ -125,7 +125,7 @@ related:
 
 ---
 
-## Ectopic Pregnancy (Medical Emergency)
+## Ectopic Pregnancy
 
 **Definition:** Pregnancy implanted outside uterus (usually fallopian tube)
 
@@ -161,12 +161,13 @@ related:
 
 ---
 
-## Miscarriage (Spontaneous Abortion)
+## Miscarriage
 
 **Incidence:** 10-20% of known pregnancies, 80% before 12 weeks
 
 ### Types of Miscarriage
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Definition | Bleeding | Cervix | Management |
 |------|------------|----------|--------|------------|
 | **Threatened** | Bleeding, pregnancy may continue | Light | Closed | Bed rest, monitor |
@@ -203,7 +204,7 @@ related:
 
 ---
 
-## Preterm Labor (Before 37 Weeks)
+## Preterm Labor
 
 **Definition:** Labor contractions causing cervical change before 37 weeks
 
@@ -244,7 +245,7 @@ related:
 
 ---
 
-## Placental Abruption (Placenta Separates Early)
+## Placental Abruptio
 
 **Recognition:**
 - **Sudden severe abdominal pain** (constant, board-like rigid abdomen)
@@ -271,7 +272,7 @@ related:
 
 ---
 
-## Placenta Previa (Placenta Covers Cervix)
+## Placenta Previa
 
 **Recognition:**
 - **Painless vaginal bleeding** (bright red blood)

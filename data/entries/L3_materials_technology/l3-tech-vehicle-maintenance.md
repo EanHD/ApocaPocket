@@ -84,6 +84,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 - Second number (YY): Operating temperature viscosity (higher = thicker when hot)
 
 **Common Viscosity Grades:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Viscosity | Climate | Typical Use |
 |-----------|---------|-------------|
 | 0W-20 | Cold climates | Modern fuel-efficient engines |
@@ -99,6 +100,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 **Oil Types:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Description | Lifespan | Cost | Best For |
 |------|-------------|----------|------|----------|
 | **Conventional** | Refined petroleum | 3,000-5,000 mi | $ | Older vehicles, budget |
@@ -107,6 +109,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 | **High Mileage** | Additives for seals/wear | 3,000-5,000 mi | $$ | Vehicles >75,000 miles |
 
 **Oil Capacity by Engine Size:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Engine Size | Typical Capacity | Notes |
 |-------------|------------------|-------|
 | 4-cylinder | 4-5 quarts | Compact cars, sedans |
@@ -128,19 +131,19 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 **Step 1: Raise Vehicle**
 - **Ramps:** Drive up slowly, center wheels, engage parking brake
 - **Jack + Stands:** 
-  - Place jack at manufacturer-designated lift point (consult manual)
-  - Raise vehicle
-  - **NEVER work under vehicle supported only by jack** (jack fails = crushing death)
-  - Insert jack stands under frame rails or designated points
-  - Lower vehicle onto stands (jack remains in place as backup)
-  - Shake vehicle to verify stability
+- Place jack at manufacturer-designated lift point (consult manual)
+- Raise vehicle
+- **NEVER work under vehicle supported only by jack** (jack fails = crushing death)
+- Insert jack stands under frame rails or designated points
+- Lower vehicle onto stands (jack remains in place as backup)
+- Shake vehicle to verify stability
 
 **Step 2: Locate Drain Plug & Oil Filter**
 - **Drain plug:** Bottom of oil pan (lowest point on engine)
-  - Typically 14-17mm bolt
-  - May have square recess (use 3/8" ratchet directly)
+- Typically 14-17mm bolt
+- May have square recess (use 3/8" ratchet directly)
 - **Oil filter:** Side or bottom of engine
-  - Cylindrical canister (spin-on type) or housing (cartridge type)
+- Cylindrical canister (spin-on type) or housing (cartridge type)
 
 **Step 3: Drain Old Oil**
 1. Position drain pan under drain plug
@@ -149,16 +152,16 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 4. **Remove plug quickly, pull hand away** (oil streams out)
 5. Let drain completely (10-15 minutes)
 6. Inspect drained oil:
-   - Black = normal (carbon deposits)
-   - Milky/foamy = coolant contamination (head gasket leak - serious)
-   - Metallic = bearing wear (serious problem)
-   - Thick sludge = neglected maintenance
+- Black = normal (carbon deposits)
+- Milky/foamy = coolant contamination (head gasket leak - serious)
+- Metallic = bearing wear (serious problem)
+- Thick sludge = neglected maintenance
 
 **Step 4: Replace Drain Plug**
 1. Wipe drain plug threads clean
 2. Inspect drain plug washer/gasket:
-   - Crushable washer: Replace every change (aluminum or copper)
-   - Rubber O-ring: Replace if damaged, reusable for 2-3 changes
+- Crushable washer: Replace every change (aluminum or copper)
+- Rubber O-ring: Replace if damaged, reusable for 2-3 changes
 3. Hand-thread drain plug (prevent cross-threading)
 4. Torque specifications:
    | Plug Type | Torque Spec |
@@ -167,27 +170,27 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
    | 17mm | 30-35 ft-lbs |
    | Oil pan plug (typical) | 20-30 ft-lbs |
 5. **DON'T OVERTIGHTEN** - strips threads in aluminum oil pan ($500-2,000 repair)
-   - Rule of thumb: Snug with wrench, then 1/4 turn
+- Rule of thumb: Snug with wrench, then 1/4 turn
 
 **Step 5: Remove Old Oil Filter**
 1. Position drain pan under filter
 2. Unscrew filter counterclockwise (may be tight)
 3. If stuck: Use oil filter wrench
-   - Strap wrench (adjustable, works on most sizes)
-   - Cap wrench (specific size, better grip)
-   - Cup wrench with ratchet (professional grade)
+- Strap wrench (adjustable, works on most sizes)
+- Cap wrench (specific size, better grip)
+- Cup wrench with ratchet (professional grade)
 4. Oil will spill when filter removed (expect 1/4-1/2 cup)
 5. Wipe filter mounting surface clean (remove old gasket residue)
 
 **Step 6: Install New Oil Filter**
 1. Check that old gasket came off with old filter
-   - **CRITICAL:** If old gasket stays on engine, new filter won't seal (oil leak, pressure loss, engine damage)
+- **CRITICAL:** If old gasket stays on engine, new filter won't seal (oil leak, pressure loss, engine damage)
 2. Apply thin layer of clean oil to new filter gasket
-   - Finger on new oil cap, touch gasket (light coating)
-   - Ensures proper seal, eases installation
+- Finger on new oil cap, touch gasket (light coating)
+- Ensures proper seal, eases installation
 3. Hand-tighten filter onto engine
-   - Spin on until gasket contacts mounting surface
-   - Turn additional 3/4 turn (hand-tight only, NO TOOLS)
+- Spin on until gasket contacts mounting surface
+- Turn additional 3/4 turn (hand-tight only, NO TOOLS)
 4. **DO NOT use filter wrench to install** - overtightening crushes gasket, makes next removal difficult
 
 **Step 7: Add New Oil**
@@ -196,31 +199,31 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 3. Remove fill cap
 4. Insert funnel
 5. Pour oil slowly:
-   - Start with 1 quart less than capacity (e.g., if capacity is 5 qt, pour 4 qt first)
-   - Pause to let oil drain into pan
-   - Check dipstick after initial pour
+- Start with 1 quart less than capacity (e.g., if capacity is 5 qt, pour 4 qt first)
+- Pause to let oil drain into pan
+- Check dipstick after initial pour
 6. **Check oil level with dipstick:**
-   - Remove dipstick, wipe clean
-   - Reinsert fully, remove again
-   - Check level:
-     - Between MIN and MAX (or cross-hatched area) = correct
-     - Below MIN = add 1/2 quart, recheck
-     - Above MAX = drain some (overfilling damages engine)
+- Remove dipstick, wipe clean
+- Reinsert fully, remove again
+- Check level:
+- Between MIN and MAX (or cross-hatched area) = correct
+- Below MIN = add 1/2 quart, recheck
+- Above MAX = drain some (overfilling damages engine)
 
 **Step 8: Check for Leaks**
 1. Replace oil fill cap
 2. Start engine
 3. Run 2-3 minutes (circulates oil through filter)
 4. **Watch oil pressure light:**
-   - Should turn off within 5 seconds (oil pressure builds)
-   - Stays on = problem (shut off immediately, investigate)
+- Should turn off within 5 seconds (oil pressure builds)
+- Stays on = problem (shut off immediately, investigate)
 5. Shut off engine
 6. Inspect drain plug and filter for leaks
-   - Drips = tighten slightly
-   - No leaks = good
+- Drips = tighten slightly
+- No leaks = good
 7. Wait 5 minutes (oil drains to pan)
 8. Recheck oil level on dipstick
-   - Top off if needed (oil fills filter, level drops slightly)
+- Top off if needed (oil fills filter, level drops slightly)
 
 **Step 9: Record Maintenance**
 - Note date and mileage in maintenance log
@@ -234,18 +237,17 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 ### Common Oil Change Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Overtightening drain plug | Torque to spec or snug + 1/4 turn |
-| Using filter wrench to install filter | Hand-tight only (3/4 turn past contact) |
-| Overfilling oil | Fill to MAX mark, not above |
-| Changing cold oil | Warm engine 5 min (better drain) |
-| Not replacing drain plug washer | New washer every change (aluminum type) |
-| Reusing old filter "just this once" | Always replace filter with oil |
-| Wrong oil viscosity | Check owner's manual (e.g., 5W-30) |
-| Working under vehicle on jack only | ALWAYS use jack stands |
-| Not checking for leaks after change | Run engine, inspect drain plug/filter |
-| Mixing oil brands/types mid-change | OK to mix, but synthetic blend = defeats synthetic benefits |
+**❌ Wrong:** ✓ Right
+**Overtightening drain plug:** Torque to spec or snug + 1/4 turn
+**Using filter wrench to install filter:** Hand-tight only (3/4 turn past contact)
+**Overfilling oil:** Fill to MAX mark, not above
+**Changing cold oil:** Warm engine 5 min (better drain)
+**Not replacing drain plug washer:** New washer every change (aluminum type)
+**Reusing old filter "just this once":** Always replace filter with oil
+**Wrong oil viscosity:** Check owner's manual (e.g., 5W-30)
+**Working under vehicle on jack only:** ALWAYS use jack stands
+**Not checking for leaks after change:** Run engine, inspect drain plug/filter
+**Mixing oil brands/types mid-change:** OK to mix, but synthetic blend = defeats synthetic benefits
 
 ## Tire Maintenance
 
@@ -253,22 +255,22 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 **Why Pressure Matters:**
 - **Underinflated (most common):**
-  - Increased rolling resistance (worse fuel economy, 3-5% loss per 10 PSI under)
-  - Tire overheating (sidewall flexing generates heat)
-  - Premature wear (outer edges wear faster)
-  - Blowout risk (heat buildup causes failure)
+- Increased rolling resistance (worse fuel economy, 3-5% loss per 10 PSI under)
+- Tire overheating (sidewall flexing generates heat)
+- Premature wear (outer edges wear faster)
+- Blowout risk (heat buildup causes failure)
 - **Overinflated:**
-  - Harsh ride (less sidewall cushioning)
-  - Center tread wears faster
-  - Reduced traction (smaller contact patch)
-  - Blowout risk on impact (pothole, curb)
+- Harsh ride (less sidewall cushioning)
+- Center tread wears faster
+- Reduced traction (smaller contact patch)
+- Blowout risk on impact (pothole, curb)
 
 **Correct Pressure:**
 - **NOT the number on tire sidewall** (that's MAX pressure for max load)
 - Found on:
-  - Driver's door jamb sticker
-  - Owner's manual
-  - Sometimes fuel door or glove box
+- Driver's door jamb sticker
+- Owner's manual
+- Sometimes fuel door or glove box
 - Typical values: 30-35 PSI (passenger cars), 40-80 PSI (trucks/SUVs)
 
 **Checking Tire Pressure:**
@@ -280,22 +282,22 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 **Procedure:**
 1. **Check when cold** (driven <1 mile, or 3+ hours since driving)
-   - Tires heat up during driving, pressure increases 4-6 PSI
-   - Hot pressure reads falsely high
+- Tires heat up during driving, pressure increases 4-6 PSI
+- Hot pressure reads falsely high
 2. Remove valve stem cap
 3. Press gauge firmly onto valve stem (perpendicular)
 4. Read pressure:
-   - Digital: Displays number
-   - Analog: Stick extends with PSI marking
+- Digital: Displays number
+- Analog: Stick extends with PSI marking
 5. Compare to recommended pressure (door jamb sticker)
 6. Add air if low:
-   - At gas station (free or $0.25-1.00)
-   - Portable compressor ($30-100)
-   - Add in short bursts, recheck frequently
-   - **Don't overinflate** - easier to add than remove
+- At gas station (free or $0.25-1.00)
+- Portable compressor ($30-100)
+- Add in short bursts, recheck frequently
+- **Don't overinflate** - easier to add than remove
 7. Release air if overinflated:
-   - Press valve stem core with gauge or tool
-   - Short bursts, recheck
+- Press valve stem core with gauge or tool
+- Short bursts, recheck
 
 **Checking Frequency:**
 - Monthly minimum
@@ -339,6 +341,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 **Wear Patterns (Diagnosis):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Wear Pattern | Cause | Solution |
 |--------------|-------|----------|
 | **Center wear** | Overinflation | Reduce pressure to recommended |
@@ -369,7 +372,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 6. Lower vehicle
 7. Final torque check (after 50-100 miles)
 
-## Battery Testing & Maintenance
+## Battery Test & Maint
 
 ### Battery Basics
 
@@ -425,7 +428,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 **Procedure:**
 1. Fully charge battery (12.6V+)
 2. Apply load equal to half CCA rating for 15 seconds
-   - Example: 600 CCA battery → 300A load
+- Example: 600 CCA battery → 300A load
 3. Voltage should not drop below 9.6V
 4. If drops below 9.6V: Battery failing, replace
 
@@ -510,10 +513,10 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 2. Check level through translucent reservoir
 3. Should be between MIN and MAX
 4. If low: Add DOT 3, DOT 4, or DOT 5.1 (check cap marking)
-   - **DOT 5 (silicone) incompatible with DOT 3/4** - do NOT mix
+- **DOT 5 (silicone) incompatible with DOT 3/4** - do NOT mix
 5. **Low level = worn brake pads** (fluid fills space as pads wear)
-   - Slight drop over time = normal
-   - Sudden drop = leak (serious safety issue, inspect immediately)
+- Slight drop over time = normal
+- Sudden drop = leak (serious safety issue, inspect immediately)
 
 **Brake Fluid Hygroscopic:**
 - Absorbs moisture from air (lowers boiling point)
@@ -539,11 +542,11 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 4. Remove dipstick, wipe clean
 5. Reinsert fully, remove again
 6. Check level:
-   - Should be in "HOT" range (cross-hatched area)
-   - If cold, read "COLD" range
+- Should be in "HOT" range (cross-hatched area)
+- If cold, read "COLD" range
 7. If low: Add fluid through dipstick tube (use funnel)
-   - Add 1/2 pint at a time, recheck (overfilling causes foaming, shift problems)
-   - **Use correct fluid type** (ATF +4, Dexron VI, Mercon V, etc. - check manual)
+- Add 1/2 pint at a time, recheck (overfilling causes foaming, shift problems)
+- **Use correct fluid type** (ATF +4, Dexron VI, Mercon V, etc. - check manual)
 
 **Fluid Condition:**
 - Red/pink and translucent: Good
@@ -583,9 +586,9 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 2. Open cap
 3. Fill to fill line or neck
 4. Use windshield washer fluid (not water):
-   - Water freezes in winter
-   - Washer fluid has detergent, antifreeze
-   - Cost: $3-5 per gallon
+- Water freezes in winter
+- Washer fluid has detergent, antifreeze
+- Cost: $3-5 per gallon
 
 ## Air Filter Replacement
 
@@ -611,9 +614,9 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 2. Release clips or remove screws (housing cover)
 3. Lift cover, remove old filter
 4. Inspect filter:
-   - Light dust: Tap to dislodge, may reuse
-   - Dark/clogged: Replace
-   - Oil (oiled filters): Clean and re-oil per instructions
+- Light dust: Tap to dislodge, may reuse
+- Dark/clogged: Replace
+- Oil (oiled filters): Clean and re-oil per instructions
 5. Wipe housing interior (remove debris)
 6. Insert new filter (directional arrow points toward engine)
 7. Replace cover, secure clips/screws
@@ -654,7 +657,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 - Musty smell
 - Foggy windows (poor dehumidification)
 
-## Jump-Starting Procedure
+## Jump-Start
 
 ### When Needed
 
@@ -679,15 +682,15 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 **Electrical Shock:**
 - 12V is safe (no shock risk)
 - **BUT:** Short circuit can cause:
-  - Sparks (fire risk)
-  - Cable overheating (burns)
-  - Battery explosion
+- Sparks (fire risk)
+- Cable overheating (burns)
+- Battery explosion
 
 **Reversed Polarity:**
 - Connecting positive to negative (and vice versa) causes:
-  - Sparks, fire
-  - Electrical system damage (ECU, alternator)
-  - **DOUBLE-CHECK polarity before connecting**
+- Sparks, fire
+- Electrical system damage (ECU, alternator)
+- **DOUBLE-CHECK polarity before connecting**
 
 ### Jump-Starting Steps
 
@@ -707,28 +710,28 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 **⚠️ MEMORIZE THIS ORDER:**
 
 1. **RED to DEAD (+):**
-   - Red clamp to positive (+) terminal on DEAD battery
-   - Positive terminal larger, marked "POS" or "+", red cover
+- Red clamp to positive (+) terminal on DEAD battery
+- Positive terminal larger, marked "POS" or "+", red cover
 
 2. **RED to DONOR (+):**
-   - Other red clamp to positive (+) terminal on DONOR battery
+- Other red clamp to positive (+) terminal on DONOR battery
 
 3. **BLACK to DONOR (-):**
-   - Black clamp to negative (-) terminal on DONOR battery
+- Black clamp to negative (-) terminal on DONOR battery
 
 4. **BLACK to GROUND (DEAD):**
-   - Other black clamp to UNPAINTED METAL on DEAD vehicle
-   - Examples: Engine block, frame, ground strap
-   - **NOT to dead battery negative terminal** (risk of hydrogen ignition)
-   - At least 18" from battery if possible
+- Other black clamp to UNPAINTED METAL on DEAD vehicle
+- Examples: Engine block, frame, ground strap
+- **NOT to dead battery negative terminal** (risk of hydrogen ignition)
+- At least 18" from battery if possible
 
 **Starting Sequence:**
 1. Start DONOR vehicle
 2. Let run 2-3 minutes (charges dead battery slightly)
 3. Attempt to start DEAD vehicle
-   - Cranks and starts: Success
-   - Cranks slowly: Wait 5 more minutes, try again
-   - No crank: Check connections, battery may be completely dead
+- Cranks and starts: Success
+- Cranks slowly: Wait 5 more minutes, try again
+- No crank: Check connections, battery may be completely dead
 4. If starts: Let run 5 minutes (alternator begins charging)
 
 **Disconnection Sequence (REVERSE ORDER):**
@@ -764,32 +767,30 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 ### Common Jump-Start Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Connecting black clamp to dead battery negative | Connect to unpainted metal (ground) away from battery |
-| Reversed polarity (red to negative, black to positive) | Double-check: RED = positive (+), BLACK = negative (-) or ground |
-| Vehicles touching during jump | Position close but NOT touching (prevents ground loop) |
-| Leaving cables connected while starting donor | Connect all cables BEFORE starting donor |
-| Cheap/thin cables (16 gauge) | Use 4-6 gauge cables (heavy wire, low resistance) |
-| Jump-starting frozen battery | Thaw battery first (frozen can explode when charged) |
-| Jump-starting cracked battery | Replace battery (can leak acid, explode) |
+**❌ Wrong:** ✓ Right
+**Connecting black clamp to dead battery negative:** Connect to unpainted metal (ground) away from battery
+**Reversed polarity (red to negative, black to positive):** Double-check: RED = positive (+), BLACK = negative (-) or ground
+**Vehicles touching during jump:** Position close but NOT touching (prevents ground loop)
+**Leaving cables connected while starting donor:** Connect all cables BEFORE starting donor
+**Cheap/thin cables (16 gauge):** Use 4-6 gauge cables (heavy wire, low resistance)
+**Jump-starting frozen battery:** Thaw battery first (frozen can explode when charged)
+**Jump-starting cracked battery:** Replace battery (can leak acid, explode)
 
-## Common Vehicle Maintenance Mistakes
+## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Oil changes every 3,000 mi (wasteful, outdated) | Follow manufacturer interval (5,000-10,000 mi) |
-| Ignoring tire pressure (monthly checks) | Check monthly, cold tires, door jamb spec |
-| Never rotating tires | Rotate every 5,000-8,000 mi (even wear) |
-| Filling coolant reservoir with tap water | Use 50/50 coolant/distilled water mix |
-| Mixing coolant colors/types | Use same type, or flush and refill |
-| Working under vehicle on jack only | ALWAYS use jack stands (jack can fail) |
-| Not recording maintenance | Log date/mileage (track intervals) |
-| Ignoring fluid leaks | Investigate immediately (small leaks become big problems) |
-| Using wrong oil viscosity | Check owner's manual (e.g., 5W-30) |
-| Overfilling fluids | Fill to MAX mark (not above) |
+**❌ Wrong:** ✓ Right
+**Oil changes every 3,000 mi (wasteful, outdated):** Follow manufacturer interval (5,000-10,000 mi)
+**Ignoring tire pressure (monthly checks):** Check monthly, cold tires, door jamb spec
+**Never rotating tires:** Rotate every 5,000-8,000 mi (even wear)
+**Filling coolant reservoir with tap water:** Use 50/50 coolant/distilled water mix
+**Mixing coolant colors/types:** Use same type, or flush and refill
+**Working under vehicle on jack only:** ALWAYS use jack stands (jack can fail)
+**Not recording maintenance:** Log date/mileage (track intervals)
+**Ignoring fluid leaks:** Investigate immediately (small leaks become big problems)
+**Using wrong oil viscosity:** Check owner's manual (e.g., 5W-30)
+**Overfilling fluids:** Fill to MAX mark (not above)
 
-## Maintenance Schedule Quick Reference
+## Maintenance Ref
 
 **Every Oil Change (5,000-10,000 mi):**
 - [ ] Oil + filter
@@ -823,7 +824,7 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 - [ ] Battery replacement (3-5 years)
 - [ ] Headlight bulb replacement
 
-## Tools & Supplies Checklist
+## Tools Check
 
 **Essential Vehicle Maintenance Kit:**
 - [ ] Socket set (metric, 8-19mm)

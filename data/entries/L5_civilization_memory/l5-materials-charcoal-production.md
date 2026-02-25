@@ -38,6 +38,7 @@ Charcoal is **THE FUEL THAT UNLOCKS METALLURGY**. Without charcoal, you cannot:
 ### Best Woods (Hardwoods)
 **High-density hardwoods produce best charcoal**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Wood Species | Charcoal Quality | Yield % | Notes |
 |--------------|------------------|---------|-------|
 | **Oak** | Excellent | 25-30% | Gold standard, burns hottest |
@@ -67,53 +68,53 @@ Charcoal is **THE FUEL THAT UNLOCKS METALLURGY**. Without charcoal, you cannot:
 
 ---
 
-## Earth/Pit Kiln Method (Easiest, No Equipment)
+## Earth/Pit Kiln
 
 **Yield**: 20-25% (lower than drum, but simple)
 
 ### Construction
 1. **Site selection**:
-   - Flat ground, away from trees/buildings (fire hazard)
-   - Windbreak area (prevents uncontrolled burning)
-   - Near water source (emergency extinguishing)
+- Flat ground, away from trees/buildings (fire hazard)
+- Windbreak area (prevents uncontrolled burning)
+- Near water source (emergency extinguishing)
 
 2. **Dig pit**:
-   - **Size**: 3-4 feet diameter, 2-3 feet deep
-   - **Shape**: Tapered sides (easier loading/unloading)
-   - **Center stake**: 4-inch diameter pole (creates chimney)
+- **Size**: 3-4 feet diameter, 2-3 feet deep
+- **Shape**: Tapered sides (easier loading/unloading)
+- **Center stake**: 4-inch diameter pole (creates chimney)
 
 3. **Airflow vents**:
-   - Dig 3-4 trenches from pit bottom to edge (3 inches wide, 3 inches deep)
-   - These supply oxygen during initial burn phase
+- Dig 3-4 trenches from pit bottom to edge (3 inches wide, 3 inches deep)
+- These supply oxygen during initial burn phase
 
 ### Loading & Firing
 1. **Base layer**: Dry kindling around center stake
 2. **Stack wood**: Lean split logs teepee-style around stake
-   - Pack tightly (reduces airflow)
-   - Fill pit completely
+- Pack tightly (reduces airflow)
+- Fill pit completely
 3. **Remove center stake** carefully (leaves vertical chimney)
 4. **Light fire** at bottom through airflow vents
 5. **Cover progressively**:
-   - Let burn vigorously 1-2 hours (flames visible at top)
-   - Once wood glowing, cover with:
-     - **Layer 1**: Sheet metal, flat stones, or green wood (leaves small vent holes)
-     - **Layer 2**: 6 inches dirt/soil (seal most airflow)
-     - **Leave small vents** initially (white smoke = water/volatiles escaping)
+- Let burn vigorously 1-2 hours (flames visible at top)
+- Once wood glowing, cover with:
+- **Layer 1**: Sheet metal, flat stones, or green wood (leaves small vent holes)
+- **Layer 2**: 6 inches dirt/soil (seal most airflow)
+- **Leave small vents** initially (white smoke = water/volatiles escaping)
 
 6. **Monitor smoke**:
-   - **White/gray smoke**: Water and volatiles burning off (1-4 hours)
-   - **Blue/thin smoke**: Charcoal forming (good sign)
-   - **No smoke**: Completely sealed or finished
-   - **Yellow flames**: Too much oxygen (seal better)
+- **White/gray smoke**: Water and volatiles burning off (1-4 hours)
+- **Blue/thin smoke**: Charcoal forming (good sign)
+- **No smoke**: Completely sealed or finished
+- **Yellow flames**: Too much oxygen (seal better)
 
 7. **Cooking time**: 12-24 hours
-   - Small pit (3 ft): 12-16 hours
-   - Large pit (6 ft): 18-24 hours
+- Small pit (3 ft): 12-16 hours
+- Large pit (6 ft): 18-24 hours
 
 8. **Cool down**: 24-48 hours
-   - **DO NOT UNCOVER EARLY** → charcoal burns to ash
-   - Test: Touch ground above pit—should be cool
-   - Uncover carefully (hot spots may remain)
+- **DO NOT UNCOVER EARLY** → charcoal burns to ash
+- Test: Touch ground above pit—should be cool
+- Uncover carefully (hot spots may remain)
 
 ### Yield & Quality
 - **Good charcoal**: Lightweight, black, metallic ring when tapped, breaks cleanly
@@ -122,7 +123,7 @@ Charcoal is **THE FUEL THAT UNLOCKS METALLURGY**. Without charcoal, you cannot:
 
 ---
 
-## Drum/Barrel Kiln (Better Yield & Control)
+## Drum Kiln
 
 **Yield**: 25-30% (more efficient than pit)
 
@@ -134,53 +135,53 @@ Charcoal is **THE FUEL THAT UNLOCKS METALLURGY**. Without charcoal, you cannot:
 
 ### Construction
 1. **Drum preparation**:
-   - Cut 1-inch hole in center of drum lid (for chimney)
-   - Drill 8-12 holes (1/2 inch) around drum bottom (air intake)
-   - **BURN OUT BARREL FIRST** (empty, hot fire 1 hour—removes toxic coatings)
+- Cut 1-inch hole in center of drum lid (for chimney)
+- Drill 8-12 holes (1/2 inch) around drum bottom (air intake)
+- **BURN OUT BARREL FIRST** (empty, hot fire 1 hour—removes toxic coatings)
 
 2. **Assembly**:
-   - Raise drum on bricks/stand (airflow underneath)
-   - Insert chimney through lid hole
-   - Create adjustable vents for bottom holes (slide metal plates to open/close)
+- Raise drum on bricks/stand (airflow underneath)
+- Insert chimney through lid hole
+- Create adjustable vents for bottom holes (slide metal plates to open/close)
 
 ### Operation
 1. **Load drum**:
-   - Fill 80-90% with split wood (3-6 inch pieces)
-   - Pack moderately tight (not too loose, not crushed together)
+- Fill 80-90% with split wood (3-6 inch pieces)
+- Pack moderately tight (not too loose, not crushed together)
 
 2. **Light from top**:
-   - Place kindling on top of wood pile
-   - Light fire, leave lid off initially
+- Place kindling on top of wood pile
+- Light fire, leave lid off initially
 
 3. **Burn-off phase** (2-4 hours):
-   - Flames vigorous from top
-   - White/gray smoke (water and volatiles burning)
-   - **Let burn until smoke thins, becomes blue-ish**
+- Flames vigorous from top
+- White/gray smoke (water and volatiles burning)
+- **Let burn until smoke thins, becomes blue-ish**
 
 4. **Seal & cook**:
-   - Place lid on drum (chimney in hole)
-   - Close bottom vents 50-75% (reduce oxygen)
-   - **Thin blue smoke** should continue from chimney
-   - If heavy yellow smoke/flames: Too much air (close vents more)
-   - If no smoke: Too sealed (crack vent slightly)
+- Place lid on drum (chimney in hole)
+- Close bottom vents 50-75% (reduce oxygen)
+- **Thin blue smoke** should continue from chimney
+- If heavy yellow smoke/flames: Too much air (close vents more)
+- If no smoke: Too sealed (crack vent slightly)
 
 5. **Cooking time**: 8-12 hours
-   - Watch smoke color (blue/thin = good)
-   - When smoke nearly stops → almost done
+- Watch smoke color (blue/thin = good)
+- When smoke nearly stops → almost done
 
 6. **Sealing**:
-   - **Close all vents completely** (suffocate remaining fire)
-   - Seal chimney with metal plug or wet cloth
-   - Let cool 12-24 hours
+- **Close all vents completely** (suffocate remaining fire)
+- Seal chimney with metal plug or wet cloth
+- Let cool 12-24 hours
 
 7. **Harvest**:
-   - Open carefully (check for hot spots)
-   - Pour charcoal into container
-   - **Quench any glowing embers** with water (small amounts)
+- Open carefully (check for hot spots)
+- Pour charcoal into container
+- **Quench any glowing embers** with water (small amounts)
 
 ---
 
-## Retort System (Advanced: Captures Byproducts)
+## Retort Sys
 
 **Yield**: 30-35% + wood gas, tar, vinegar
 
@@ -201,7 +202,7 @@ Charcoal is **THE FUEL THAT UNLOCKS METALLURGY**. Without charcoal, you cannot:
 
 ---
 
-## DIAGRAM: Earth Kiln Cross-Section
+## Earth Kiln
 
 ```
 EARTH/PIT KILN (Side View):
@@ -318,8 +319,9 @@ Temperature Zones:
 
 ---
 
-## Common Mistakes & Fixes
+## Common Errors
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | Charcoal turns to ash | Too much oxygen | Seal vents better, cover with more dirt |
@@ -371,12 +373,12 @@ Temperature Zones:
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *The Charcoal Foundry* by David Gingery (DIY metal casting with charcoal)
-- *Biochar for Environmental Management* (soil amendment science)
-- *Foxfire Book Series* (traditional Appalachian charcoal methods)
-- *Colonial Williamsburg* archives (historical iron production)
+- The Charcoal Foundry by David Gingery (DIY metal casting with charcoal)
+- Biochar for Environmental Management (soil amendment science)
+- Foxfire Book Series (traditional Appalachian charcoal methods)
+- Colonial Williamsburg archives (historical iron production)
 
 ---
 

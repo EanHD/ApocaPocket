@@ -57,13 +57,14 @@ Heat illness ranges from mild heat cramps to life-threatening heat stroke. **Hea
 
 ## Heat Illness Spectrum
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Condition | Core Temp | Mental Status | Sweating | Urgency |
 |-----------|-----------|--------------|----------|---------|
 | **Heat Cramps** | Normal | Normal | Present | Low |
 | **Heat Exhaustion** | 37-40°C (98.6-104°F) | Normal | Present (usually) | Moderate |
 | **Heat Stroke** | >40°C (>104°F) | **ALTERED** | Often absent | **CRITICAL** |
 
-## Differentiating Heat Exhaustion vs Heat Stroke
+## Heat Exhaustion/Stroke
 
 ### Heat Exhaustion (Moderate Urgency)
 
@@ -107,7 +108,7 @@ Heat illness ranges from mild heat cramps to life-threatening heat stroke. **Hea
 
 **Do NOT wait for high temperature measurement to diagnose** - altered mental status in hot environment = heat stroke until proven otherwise
 
-## Step-by-Step Treatment Protocol
+## Step-by-Step Protocol
 
 ### Heat Exhaustion Treatment
 
@@ -188,9 +189,9 @@ Heat illness ranges from mild heat cramps to life-threatening heat stroke. **Hea
 
 **Method 3: Ice Pack Application**
 - Ice packs (wrapped in cloth, not directly on skin) to:
-  - Neck (carotid arteries)
-  - Armpits (axillary arteries)
-  - Groin (femoral arteries)
+- Neck (carotid arteries)
+- Armpits (axillary arteries)
+- Groin (femoral arteries)
 - Also apply to head if available
 - Replace as they warm
 
@@ -239,7 +240,7 @@ Heat illness ranges from mild heat cramps to life-threatening heat stroke. **Hea
 - Fanning
 - Monitor temperature continuously
 
-## Temperature Measurement Techniques
+## Temp Meas Tech
 
 ### Rectal (Most Accurate for Core)
 - Gold standard for heat stroke
@@ -346,7 +347,7 @@ Heat illness ranges from mild heat cramps to life-threatening heat stroke. **Hea
 
 **Stop activity immediately if early signs appear**
 
-## Complications of Heat Stroke
+## Heat Stroke
 
 ### Acute (First 24-48 hours)
 - Seizures
@@ -413,7 +414,7 @@ Heat illness ranges from mild heat cramps to life-threatening heat stroke. **Hea
 - Temperature normalizing
 - No concerning symptoms developing
 
-## Common Mistakes to Avoid
+## Common Mistakes
 
 - ❌ Delaying cooling to transport patient
 - ❌ Giving only ice packs without full-body cooling (insufficient)
@@ -453,8 +454,9 @@ Time: _____ Temp: _____ Mental status: _____
 Time: _____ Temp: _____ Mental status: _____
 ```
 
-## Summary Quick Reference
+## Summary Ref
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Assessment | Heat Exhaustion | Heat Stroke |
 |------------|----------------|-------------|
 | Mental Status | NORMAL | **ALTERED** |

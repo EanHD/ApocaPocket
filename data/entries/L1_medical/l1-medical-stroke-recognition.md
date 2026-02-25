@@ -6,13 +6,13 @@ tags: ["stroke", "neurological", "fast-protocol", "tpa", "brain-attack", "emerge
 confidence: "high"
 region: "global"
 sources:
-  - "american-stroke-association-guidelines"
-  - "aha-stroke-recognition"
-  - "emergency-neurology-protocols"
+- "american-stroke-association-guidelines"
+- "aha-stroke-recognition"
+- "emergency-neurology-protocols"
 related:
-  - "l1-medical-heart-attack-recognition"
-  - "l1-medical-cpr-basics"
-  - "l1-medical-seizure-management"
+- "l1-medical-heart-attack-recognition"
+- "l1-medical-cpr-basics"
+- "l1-medical-seizure-management"
 ---
 
 # Stroke Recognition & Response (FAST)
@@ -25,7 +25,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## FAST Protocol (Recognize Stroke in 10 Seconds)
+## FAST Protocol
 
 **F**ace drooping  
 **A**rm weakness  
@@ -58,7 +58,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## BE-FAST (Extended Protocol - More Sensitive)
+## BE-FAST
 
 **B**alance loss  
 **E**ye vision changes  
@@ -82,7 +82,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## Hemorrhagic vs Ischemic Stroke
+## Hem vs Iso Stroke
 
 ### Ischemic Stroke (87% of strokes)
 **Cause:** Blood clot blocks artery to brain  
@@ -98,6 +98,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 **Key differentiators:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Ischemic | Hemorrhagic |
 |---------|----------|-------------|
 | **Onset** | Gradual (minutes) | Sudden (<1 minute) |
@@ -111,7 +112,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## When to Give Aspirin (VERY IMPORTANT)
+## When Give Aspirin
 
 **Aspirin is ONLY for ischemic stroke** (87% of strokes)  
 **Aspirin KILLS if given for hemorrhagic stroke** (13% of strokes)
@@ -138,7 +139,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## Time Windows for Treatment
+## Time Windows
 
 **tPA (Clot-Busting Drug):**
 - **Window:** 3-4.5 hours from symptom onset
@@ -163,21 +164,21 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## Cincinnati Prehospital Stroke Scale (Simplified)
+## Cincinnati Stroke Scal
 
 **3 tests, score 0-3:**
 
 1. **Facial droop:**
-   - 0 = Normal (both sides equal)
-   - 1 = Abnormal (one side droops)
+- 0 = Normal (both sides equal)
+- 1 = Abnormal (one side droops)
 
 2. **Arm drift:**
-   - 0 = Normal (both arms stay up)
-   - 1 = Abnormal (one arm drifts down)
+- 0 = Normal (both arms stay up)
+- 1 = Abnormal (one arm drifts down)
 
 3. **Speech:**
-   - 0 = Normal (clear, correct words)
-   - 1 = Abnormal (slurred OR wrong words)
+- 0 = Normal (clear, correct words)
+- 1 = Abnormal (slurred OR wrong words)
 
 **Score interpretation:**
 - **0:** No stroke signs (but still monitor, symptoms can develop)
@@ -189,7 +190,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## Positioning & Management (First 30 Minutes)
+## Positioning
 
 ### Head Elevation
 
@@ -242,21 +243,19 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## NIHSS (Simplified Assessment)
+## NIHSS
 
 **NIH Stroke Scale - Field Version:**
 
-| Test | Score |
-|------|-------|
-| **Level of consciousness** | Alert=0, Drowsy=1, Stupor=2, Coma=3 |
-| **Visual fields** | Normal=0, Partial loss=1, Complete loss=2 |
-| **Facial palsy** | None=0, Minor=1, Partial=2, Complete=3 |
-| **Arm motor** | Normal=0, Drift=1, Some effort=2, No effort=3, No movement=4 (each arm) |
-| **Leg motor** | Normal=0, Drift=1, Some effort=2, No effort=3, No movement=4 (each leg) |
-| **Sensory** | Normal=0, Partial loss=1, Complete loss=2 |
-| **Language** | Normal=0, Mild=1, Severe=2, Mute=3 |
-| **Dysarthria** | Normal=0, Mild=1, Severe=2 |
-| **Extinction/inattention** | Normal=0, Partial=1, Complete=2 |
+****Level of consciousness**:** Alert=0, Drowsy=1, Stupor=2, Coma=3
+****Visual fields**:** Normal=0, Partial loss=1, Complete loss=2
+****Facial palsy**:** None=0, Minor=1, Partial=2, Complete=3
+****Arm motor**:** Normal=0, Drift=1, Some effort=2, No effort=3, No movement=4 (each arm)
+****Leg motor**:** Normal=0, Drift=1, Some effort=2, No effort=3, No movement=4 (each leg)
+****Sensory**:** Normal=0, Partial loss=1, Complete loss=2
+****Language**:** Normal=0, Mild=1, Severe=2, Mute=3
+****Dysarthria**:** Normal=0, Mild=1, Severe=2
+****Extinction/inattention**:** Normal=0, Partial=1, Complete=2
 
 **Total score (0-42):**
 - **0:** No stroke
@@ -269,10 +268,11 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## Stroke vs Other Conditions
+## Stroke
 
 ### Stroke vs Migraine with Aura
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Migraine | Stroke |
 |---------|----------|--------|
 | **Onset** | Gradual (5-20 min) | Sudden (<5 min) |
@@ -285,6 +285,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ### Stroke vs Bell's Palsy (Facial Paralysis)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Bell's Palsy | Stroke |
 |---------|--------------|--------|
 | **Forehead involvement** | YES (can't wrinkle forehead) | NO (can still wrinkle forehead) |
@@ -296,10 +297,11 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## Permanent Damage Timeline
+## Perm Damage Timeline
 
 **"Time is brain":**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Time | Brain Cells Lost | Damage Equivalent |
 |------|------------------|-------------------|
 | **1 minute** | 1.9 million cells | 3.6 weeks of normal aging |
@@ -348,7 +350,7 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ---
 
-## TIA (Transient Ischemic Attack) - "Mini-Stroke"
+## TIA
 
 **Definition:** Stroke symptoms that resolve within 24 hours (usually <1 hour)
 

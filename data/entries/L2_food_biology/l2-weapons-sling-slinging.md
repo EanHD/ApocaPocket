@@ -133,7 +133,7 @@ Modern people think of slings as children's toys. This is completely wrong. A sl
 - **Noise maker:** Stone hitting metal, glass, or rock creates loud report
 - **Fire starter:** Sparks from flint stone hitting steel
 
-## Advantages Over Modern Tools
+## Advantages
 
 1. **Ammunition:** Rocks are everywhere - infinite supply
 2. **Silence:** No gunshot, minimal noise (whoosh + impact)
@@ -227,12 +227,12 @@ Modern people think of slings as children's toys. This is completely wrong. A sl
 - Wind direction indicator
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Korfmann, M. (1973).** "The Sling as a Weapon." *Scientific American*. - Experimental archaeology proving 100+ mph velocity
-- **Völling, T. (1990).** *Funditores im römischen Heer*. - Roman military sling tactics
+- **Korfmann, M. (1973).** "The Sling as a Weapon." Scientific American. - Experimental archaeology proving 100+ mph velocity
+- **Völling, T. (1990).** Funditores im römischen Heer. - Roman military sling tactics
 - **Greep, S. (1987).** "Lead Sling-Shot from Windridge Farm." - Archaeological analysis of Roman ammunition
-- **Flierman, B. (2017).** *The Art of Slinging*. - Modern training manual, biomechanics analysis
+- **Flierman, B. (2017).** The Art of Slinging. - Modern training manual, biomechanics analysis
 - **Experimental archaeology:** Multiple studies show expert slingers achieve 90+ mph with 2 oz stones
 
 ## Final Notes

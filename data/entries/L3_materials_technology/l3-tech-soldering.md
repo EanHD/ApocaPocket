@@ -16,7 +16,7 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 
 **Critical Concept:** Soldering is a SKILL requiring practice. First attempts will be ugly. With practice (50-100 joints), technique improves dramatically. Practice on junk circuit boards before critical repairs.
 
-## Soldering Iron Selection
+## Soldering Iron
 
 ### Iron Types
 
@@ -25,9 +25,9 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 - Simple construction
 - Cost: $10-25
 - **Limitations:** 
-  - No temperature control (too hot damages components)
-  - Poor heat recovery (large joints don't heat properly)
-  - Tip oxidizes quickly
+- No temperature control (too hot damages components)
+- Poor heat recovery (large joints don't heat properly)
+- Tip oxidizes quickly
 
 **Adjustable Temperature Station:**
 - Digital or analog temperature control (200-850°F)
@@ -59,6 +59,7 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 
 ### Wattage Requirements
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Application | Minimum Wattage | Recommended | Reason |
 |-------------|-----------------|-------------|--------|
 | Small PCBs, ICs | 20W | 30-40W | Prevents overheating components |
@@ -76,6 +77,7 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 
 **Common Tip Shapes:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Tip Type | Shape | Best For | Heat Transfer |
 |----------|-------|----------|---------------|
 | Conical | Pointed cone | Precision work, SMD | Low (small contact area) |
@@ -108,34 +110,35 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 
 **Lead-Based Solder (Traditional):**
 - **60/40 (60% tin, 40% lead):**
-  - Melting point: 361-460°F (range is "plastic" state)
-  - Working temp: 650-700°F
-  - Advantages: Easy to work with, good wetting, strong joints
-  - Disadvantages: Toxic (wash hands after use), environmental concerns
+- Melting point: 361-460°F (range is "plastic" state)
+- Working temp: 650-700°F
+- Advantages: Easy to work with, good wetting, strong joints
+- Disadvantages: Toxic (wash hands after use), environmental concerns
   
 - **63/37 (eutectic alloy):**
-  - Melting point: 361°F (sharp transition, no plastic state)
-  - Working temp: 650-700°F
-  - Advantages: Fastest solidification, less chance of disturbing joint
-  - Disadvantages: Slightly higher cost, still contains lead
+- Melting point: 361°F (sharp transition, no plastic state)
+- Working temp: 650-700°F
+- Advantages: Fastest solidification, less chance of disturbing joint
+- Disadvantages: Slightly higher cost, still contains lead
 
 **Lead-Free Solder (RoHS Compliant):**
 - **SAC305 (96.5% tin, 3% silver, 0.5% copper):**
-  - Melting point: 422°F
-  - Working temp: 700-750°F
-  - Advantages: No lead (safer), regulatory compliant
-  - Disadvantages: Requires higher heat, harder to work with, doesn't flow as well
+- Melting point: 422°F
+- Working temp: 700-750°F
+- Advantages: No lead (safer), regulatory compliant
+- Disadvantages: Requires higher heat, harder to work with, doesn't flow as well
   
 - **Tin-Copper (99.3% tin, 0.7% copper):**
-  - Melting point: 441°F
-  - Working temp: 750-800°F
-  - Advantages: Cheaper than SAC305
-  - Disadvantages: More brittle joints, poor wetting
+- Melting point: 441°F
+- Working temp: 750-800°F
+- Advantages: Cheaper than SAC305
+- Disadvantages: More brittle joints, poor wetting
 
 **Recommendation for Beginners:** 60/40 or 63/37 leaded solder (easier to learn technique). Switch to lead-free once proficient.
 
 ### Diameter
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Diameter | Best For | Feed Control |
 |----------|----------|--------------|
 | 0.015" (0.4mm) | SMD, fine-pitch ICs | Precise, small amounts |
@@ -167,7 +170,7 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 - Liquid flux pen: Convenient for rework
 - Flux improves success rate significantly
 
-## Through-Hole Soldering Technique
+## Through-Hole Sold
 
 ### The Basics: Heat + Solder + Time
 
@@ -221,6 +224,7 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 ### Good Joint Characteristics
 
 **Visual Inspection:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Good Joint | Bad Joint |
 |---------|------------|-----------|
 | Shape | Concave "volcano" fillet | Blobby ball or flat |
@@ -266,11 +270,12 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 - **Result:** No connection to circuit
 - **Fix:** Wire repair (bypass to next trace point)
 
-## Surface Mount (SMD) Soldering
+## Surface Mount
 
 ### SMD Component Sizes
 
 **Resistor/Capacitor Packages:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Package | Dimensions | Difficulty | Technique |
 |---------|-----------|------------|-----------|
 | 0201 | 0.6mm × 0.3mm | Expert | Hot air or microscope + tweezers |
@@ -293,23 +298,23 @@ Best for: ICs with exposed pins (SOIC, TSSOP, QFP)
 
 **Procedure:**
 1. **Secure IC position:**
-   - Apply flux to pads
-   - Place IC (align pins to pads)
-   - Tack one corner pin (single solder joint to hold in place)
-   - Verify alignment
-   - Tack opposite corner pin
+- Apply flux to pads
+- Place IC (align pins to pads)
+- Tack one corner pin (single solder joint to hold in place)
+- Verify alignment
+- Tack opposite corner pin
 
 2. **Drag solder across pins:**
-   - Apply additional flux to one row of pins
-   - Load iron tip with solder (large bead)
-   - Touch tip to first pin, drag slowly across all pins
-   - Surface tension and flux prevent bridging
-   - Solder flows onto each pin sequentially
+- Apply additional flux to one row of pins
+- Load iron tip with solder (large bead)
+- Touch tip to first pin, drag slowly across all pins
+- Surface tension and flux prevent bridging
+- Solder flows onto each pin sequentially
 
 3. **Inspect and clean:**
-   - Check for bridges with magnification
-   - Remove any bridges with solder wick
-   - Clean flux residue with isopropyl alcohol
+- Check for bridges with magnification
+- Remove any bridges with solder wick
+- Clean flux residue with isopropyl alcohol
 
 **Method 2: One-Pin-At-A-Time (Resistors/Capacitors)**
 
@@ -317,23 +322,23 @@ Best for: 0805 and larger passive components
 
 **Procedure:**
 1. **Pre-tin one pad:**
-   - Apply small amount of solder to one pad
-   - Only one pad, not both
+- Apply small amount of solder to one pad
+- Only one pad, not both
 
 2. **Place component:**
-   - Hold component with tweezers
-   - Reheat pre-tinned pad with iron
-   - Slide component into molten solder
-   - Remove iron (solder solidifies, holds component)
+- Hold component with tweezers
+- Reheat pre-tinned pad with iron
+- Slide component into molten solder
+- Remove iron (solder solidifies, holds component)
 
 3. **Solder second pad:**
-   - Heat pad and component lead
-   - Apply solder (normal technique)
-   - Component now fully secured
+- Heat pad and component lead
+- Apply solder (normal technique)
+- Component now fully secured
 
 4. **Reflow first joint (optional):**
-   - If first joint looks poor, reheat with additional solder
-   - Now both joints properly formed
+- If first joint looks poor, reheat with additional solder
+- Now both joints properly formed
 
 **Method 3: Hot Air Rework (Advanced)**
 
@@ -478,23 +483,24 @@ Best for: QFN packages, fine-pitch ICs, component removal
 
 **SMD IC (Multiple Pins):**
 1. **Low-pin count (8-16 pins):**
-   - Add flux
-   - Heat all pins on one side simultaneously (drag iron)
-   - Gently lift that side with tweezers
-   - Repeat for other side
+- Add flux
+- Heat all pins on one side simultaneously (drag iron)
+- Gently lift that side with tweezers
+- Repeat for other side
 2. **High-pin count (>16 pins):**
-   - Use hot air (350-400°C)
-   - Apply heat evenly (circular motion above IC)
-   - When solder melts on all pins, gently lift IC with tweezers
-   - Watch for solder to become shiny (melted indicator)
+- Use hot air (350-400°C)
+- Apply heat evenly (circular motion above IC)
+- When solder melts on all pins, gently lift IC with tweezers
+- Watch for solder to become shiny (melted indicator)
 
 **DO NOT:**
 - Pry components off with screwdriver (destroys pads)
 - Apply excessive force (cracks components, lifts traces)
 - Heat one side only on multi-pin ICs (mechanical stress cracks solder joints)
 
-## Common Soldering Mistakes
+## Common Errors
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | ❌ Wrong | ✓ Right | Why It Matters |
 |---------|---------|----------------|
 | Touch solder to iron, drip on joint | Heat joint, apply solder to joint | Cold joint - solder didn't bond |
@@ -526,6 +532,7 @@ Best for: QFN packages, fine-pitch ICs, component removal
 
 **Protection:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Method | Effectiveness | Cost | Notes |
 |--------|---------------|------|-------|
 | Open window | Low | Free | Better than nothing |
@@ -568,7 +575,7 @@ Best for: QFN packages, fine-pitch ICs, component removal
 - Tin-copper - budget option
 - Requires higher temperature (700-750°F vs 650-700°F)
 
-## Tools & Equipment Checklist
+## Tools Eqp
 
 **Essential:**
 - [ ] Soldering iron (40-60W, temperature controlled)

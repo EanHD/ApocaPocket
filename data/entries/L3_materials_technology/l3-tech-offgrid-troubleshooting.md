@@ -200,7 +200,7 @@ START → When does failure occur?
 
 ---
 
-## Multimeter Use for Diagnostics
+## Multimeter Use
 
 ### Essential Measurements
 
@@ -262,11 +262,11 @@ START → When does failure occur?
 
 **Key measurements**:
 - **Charge current**: Should match expected from array size
-  - Example: 800W array ÷ 12V = 67A theoretical (expect 50-60A real)
+- Example: 800W array ÷ 12V = 67A theoretical (expect 50-60A real)
 - **Idle draw**: With no loads, should be <1A (inverter idle + controller)
 - **Appliance current**: Verify nameplate ratings
-  - 120W appliance = 120W ÷ 120V = 1A (AC side)
-  - Through 12V inverter: 120W ÷ 12V ÷ 0.90 eff = 11A (DC side)
+- 120W appliance = 120W ÷ 120V = 1A (AC side)
+- Through 12V inverter: 120W ÷ 12V ÷ 0.90 eff = 11A (DC side)
 
 ---
 
@@ -308,7 +308,7 @@ START → When does failure occur?
 
 ---
 
-## Common Failure Modes by Component
+## Common Failures
 
 ### Solar Panels
 
@@ -422,7 +422,7 @@ START → When does failure occur?
 
 ---
 
-## Emergency Repairs / Temporary Fixes
+## Emergency Repairs
 
 ### Bypass Charge Controller (Emergency Charging Only)
 
@@ -516,7 +516,7 @@ START → When does failure occur?
 
 ---
 
-## Preventative Troubleshooting (Catching Problems Early)
+## Preventive Troubleshoo
 
 ### Weekly Checks (5 minutes)
 
@@ -551,17 +551,17 @@ START → When does failure occur?
 
 ---
 
-## Troubleshooting Tools & Equipment
+## Troubleshoot Tools
 
 ### Essential Tools
 
 **Electrical Testing**:
 - Digital multimeter (DC voltage, current, resistance, continuity)
-  - Minimum: $20 (basic, adequate)
-  - Recommended: $50-100 (auto-ranging, DC clamp)
+- Minimum: $20 (basic, adequate)
+- Recommended: $50-100 (auto-ranging, DC clamp)
 - Clamp meter (for high-current measurement, >10A)
-  - DC clamp required (not just AC)
-  - $40-100
+- DC clamp required (not just AC)
+- $40-100
 
 **Hand Tools**:
 - Insulated screwdrivers (1000V rated)
@@ -597,12 +597,12 @@ START → When does failure occur?
 
 ---
 
-## Safety During Troubleshooting
+## Safety in Troubleshoot
 
 ### Before Starting
 
 - [ ] Understand system voltage (12V/24V/48V)
-  - 48V+ is potentially lethal
+- 48V+ is potentially lethal
 - [ ] Disconnect charging sources (cover panels or open disconnect)
 - [ ] Identify all disconnect points (can you de-energize component?)
 - [ ] Have emergency contact info (electrician, fire dept)
@@ -632,14 +632,15 @@ START → When does failure occur?
 **Electrical fire**:
 1. Disconnect power if safe (DC disconnect, main breaker)
 2. Use Class C extinguisher (electrical fires)
-   - DO NOT use water (electrocution risk)
+- DO NOT use water (electrocution risk)
 3. Evacuate if fire spreading (call fire dept)
 4. Battery fires (lithium): Use Class D extinguisher or sand (water ineffective)
 
 ---
 
-## Quick Diagnostic Reference Table
+## QDRT
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Symptom | Likely Cause | Quick Test | Fix |
 |---------|--------------|------------|-----|
 | **No power anywhere** | Dead battery or disconnected | Measure battery voltage | Charge or reconnect battery |
@@ -653,7 +654,7 @@ START → When does failure occur?
 
 ---
 
-## Common Mistakes During Troubleshooting
+## Common Mistakes
 
 ### ❌ **Mistake 1**: Testing live circuits carelessly
 
@@ -695,7 +696,7 @@ START → When does failure occur?
 
 ---
 
-## Diagnostic Decision Tree
+## Diagnostic Tree
 
 ```
 SYSTEM NOT WORKING
@@ -724,7 +725,7 @@ SYSTEM NOT WORKING
 
 ---
 
-## When to Call a Professional
+## Call Pro
 
 **Situations beyond DIY**:
 - Working on 48V+ systems (lethal voltage)
@@ -764,5 +765,5 @@ SYSTEM NOT WORKING
 
 ---
 
-*Last updated: 2026-02-19*
-*Layer: L3 Materials & Technology | Category: Energy/Power*
+Last updated: 2026-02-19
+Layer: L3 Materials & Technology | Category: Energy/Power

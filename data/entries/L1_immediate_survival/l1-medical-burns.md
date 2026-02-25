@@ -50,6 +50,7 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 
 ### By Depth
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Depth | Layer Affected | Appearance | Pain Level | Healing |
 |-------|---------------|------------|------------|---------|
 | **Superficial** (1st degree) | Epidermis only | Red, dry, no blisters | High (nerve endings intact) | 3-7 days, no scarring |
@@ -59,17 +60,16 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 
 ### By Extent: Rule of 9s (Adults)
 
-| Body Part | % Body Surface Area (BSA) |
-|-----------|---------------------------|
-| Head/neck | 9% |
-| Each arm | 9% (18% both) |
-| Chest | 9% |
-| Abdomen | 9% |
-| Upper back | 9% |
-| Lower back | 9% |
-| Each leg (front) | 9% (18% both legs front) |
-| Each leg (back) | 9% (18% both legs back) |
-| Genitals | 1% |
+**Body Part:** % Body Surface Area (BSA)
+**Head/neck:** 9%
+**Each arm:** 9% (18% both)
+**Chest:** 9%
+**Abdomen:** 9%
+**Upper back:** 9%
+**Lower back:** 9%
+**Each leg (front):** 9% (18% both legs front)
+**Each leg (back):** 9% (18% both legs back)
+**Genitals:** 1%
 
 **Quick estimate:** Patient's palm (including fingers) = 1% BSA
 
@@ -118,8 +118,8 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 - **Remove heat:** Cooling provides significant pain relief
 - **Position:** Elevate burned extremity above heart
 - **Medication (if available):**
-  - Adults: Ibuprofen 400-600mg + Acetaminophen 500-1000mg every 6-8 hours
-  - Children: Ibuprofen 10mg/kg every 6-8 hours
+- Adults: Ibuprofen 400-600mg + Acetaminophen 500-1000mg every 6-8 hours
+- Children: Ibuprofen 10mg/kg every 6-8 hours
 
 ### 6. Cover and Protect (After cooling)
 - **Clean, dry, non-adherent dressing** or clean cloth
@@ -134,7 +134,7 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 - **Hydration:** For burns >10% BSA, begin oral rehydration (see l1-medical-oral-rehydration-recipe)
 - **Hypothermia:** Keep victim warm after cooling phase
 
-## Immediate Evacuation Criteria (Within 2-6 hours)
+## Immed Evac Criteria
 
 **Evacuate immediately if ANY:**
 - Burns >10% BSA (adult) or >5% BSA (child)
@@ -147,7 +147,7 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 - Burn + other trauma (fracture, head injury)
 - Altered mental status, signs of shock
 
-## Inhalation Injury Warning Signs
+## Inhale Injury
 
 **Suspect inhalation injury if:**
 - Burned in enclosed space (house fire, car)
@@ -181,7 +181,7 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 - NSAIDs for pain
 - Usually not urgent unless severe blistering
 
-## Common Mistakes to Avoid
+## Common Mistakes
 
 - ❌ Applying ice or ice water (causes additional tissue damage)
 - ❌ Breaking blisters (increases infection risk)
@@ -193,7 +193,7 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 - ❌ Not removing jewelry before swelling
 - ❌ Underestimating electrical burns (look minor, are major)
 
-## Ongoing Care (First 24-48 Hours)
+## Ongoing Care
 
 ### Dressing Changes
 - Change daily or if soaked/dirty
@@ -212,27 +212,28 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 - 4 mL × weight (kg) × % BSA burned
 - Give half in first 8 hours, half over next 16 hours
 - Example: 70kg person with 20% burn = 4 × 70 × 20 = 5,600 mL
-  - First 8 hours: 2,800 mL
-  - Next 16 hours: 2,800 mL
+- First 8 hours: 2,800 mL
+- Next 16 hours: 2,800 mL
 
 **Oral rehydration if conscious and able to drink**
 
-## Summary Table: Burn Severity Quick Reference
+## Burn Severity
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Severity | Characteristics | Treatment | Evacuation |
 |----------|----------------|-----------|------------|
 | **Minor** | Superficial, <10% BSA, no critical areas | Cool, dress, monitor | Usually no |
 | **Moderate** | Partial-thickness 10-20% BSA, or small full-thickness | Cool, dress, fluids, pain meds | Likely yes |
 | **Major** | >20% BSA, full-thickness >5%, face/hands/feet/genitals, circumferential, electrical, inhalation | Aggressive cooling, IV fluids, emergency evac | **Always** |
 
-## Long-Term Considerations
+## Long-term
 - Scarring and contractures (especially across joints)
 - Physical therapy to maintain range of motion
 - Psychological trauma (especially facial burns)
 - Infection remains risk for weeks
 - Nutrition needs increased 2-3× normal for healing
 
-## When NOT to Treat in Field
+## When Not to Treat
 - Chemical exposure you cannot identify - evacuate without extensive washing if unsure
 - Radiation exposure from nuclear source - decontamination protocols needed
 - Extensive burns with limited resources - focus on comfort, rapid evacuation

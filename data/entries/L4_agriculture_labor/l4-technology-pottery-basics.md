@@ -33,6 +33,6 @@ steps:
 - 'USES: Cooking (set in coals, not direct flame). Water storage (seal with pine pitch). Food storage (dry goods).'
 ---
 
-# Pottery Basics — Hand-Building & Pit Firing
+# Pottery Basics
 
 Pottery provides waterproof containers for cooking, storage, and transport. Hand-building techniques (pinch, coil, slab) require no wheel. Pit firing (campfire or earth kiln) achieves temps needed to harden clay. Primitive pottery is porous but functional.

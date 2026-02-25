@@ -55,7 +55,7 @@ steps:
 
 Death camas (Zigadenus/Toxicoscordion species) is a DEADLY plant that looks nearly identical to edible camas (Camassia) when not flowering. Contains potent cardiac alkaloids that cause heart failure. This is the PRIMARY reason you must NEVER harvest camas bulbs unless you have positively identified the plant while flowering.
 
-## Step-by-step Identification
+## Identification
 
 ### DEATH CAMAS (Zigadenus/Toxicoscordion species)
 
@@ -90,7 +90,7 @@ Death camas (Zigadenus/Toxicoscordion species) is a DEADLY plant that looks near
 
 **NOTE:** Rare white variants of true camas do exist. If you cannot be 100% certain, DO NOT HARVEST.
 
-## Why You Cannot Identify by Bulb Alone
+## Bulb ID
 
 When not flowering, death camas and edible camas are nearly impossible to distinguish:
 - Bulbs look identical
@@ -100,7 +100,7 @@ When not flowering, death camas and edible camas are nearly impossible to distin
 
 This is why traditional foragers ONLY harvested camas during/after flowering when blue flowers confirmed identity.
 
-## Symptoms of Death Camas Poisoning
+## Death Camas
 
 **ONSET:** 30 minutes to 3 hours
 
@@ -133,7 +133,7 @@ This is why traditional foragers ONLY harvested camas during/after flowering whe
 - Provide CPR if needed
 - Hospital care critical for cardiac monitoring and support
 
-## Safe Foraging Protocol for Camas
+## Camas Forage Safety
 
 1. Visit the site in spring (April-June) when plants are flowering
 2. Mark locations with blue-flowered camas plants (GPS, stakes, photos)

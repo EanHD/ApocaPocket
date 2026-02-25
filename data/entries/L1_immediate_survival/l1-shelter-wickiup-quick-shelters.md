@@ -128,7 +128,7 @@ Modern people think "survival shelter = lean-to or log cabin." Lean-tos are COLD
 - **Multiple layers:** Alternate bark + grass + bark (complex insulation)
 - **Repair:** Replace covering annually (frame lasts multiple years)
 
-## Advantages Over Other Shelters
+## Advantages
 
 ### Vs. Lean-To
 1. **Warmth:** Enclosed dome traps heat (lean-to open on one side = cold)
@@ -281,11 +281,11 @@ Modern people think "survival shelter = lean-to or log cabin." Lean-tos are COLD
 - Smoke hole directly above fire
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Opler, M. E. (1941).** *An Apache Life-Way*. - Detailed Apache wickiup construction and use
-- **Fowler, C. S. (1986).** "Subsistence." *Handbook of North American Indians: Great Basin*. - Paiute shelter systems
-- **Campbell, P. D. (1999).** *Survival Skills of Native California*. - Dome shelter variants
+- **Opler, M. E. (1941).** An Apache Life-Way. - Detailed Apache wickiup construction and use
+- **Fowler, C. S. (1986).** "Subsistence." Handbook of North American Indians: Great Basin. - Paiute shelter systems
+- **Campbell, P. D. (1999).** Survival Skills of Native California. - Dome shelter variants
 - **Experimental archaeology:** Modern builds show 2-4 hour construction time, 6-12 month durability
 - **Historical accounts:** Spanish explorers (1500s-1700s) describe wickiups as "comfortable dwellings, surprisingly warm"
 

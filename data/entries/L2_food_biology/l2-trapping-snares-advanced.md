@@ -23,7 +23,7 @@ Modern people think traps are "cheating" or "primitive desperation." This is spe
 
 **Why it worked:** One person setting 30 snares = 30 "hunters" working simultaneously. Force multiplication.
 
-## Why Snares Are Superior
+## Snares Superior
 
 ### Vs. Active Hunting
 1. **No human presence:** Animals walk into traps without seeing/smelling hunter
@@ -125,7 +125,7 @@ Modern people think traps are "cheating" or "primitive desperation." This is spe
 2. OR: Make small loop with double overhand knot, thread wire through
 3. Test: Pull loop - should slide smoothly and tighten
 
-## Placement Strategy (THE CRITICAL SKILL)
+## Placement Strategy
 
 ### Reading Sign
 - **Tracks:** Fresh tracks (sharp edges, moist soil disturbed)
@@ -174,7 +174,7 @@ Modern people think traps are "cheating" or "primitive desperation." This is spe
 **Setup:** Bent sapling held by trigger stick (releases when animal enters loop)  
 **Action:** Trigger releases, spring pole yanks animal upward
 
-## Ethics & Best Practices
+## Ethics & Best
 
 ### Humane Trapping
 - **Check traps daily:** Minimizes suffering (animal trapped <24 hours)
@@ -319,12 +319,12 @@ Modern people think traps are "cheating" or "primitive desperation." This is spe
 - Multiple snare coverage (5-10 in area)
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Krumm, B. (2014).** *The Trapper's Bible: The Most Complete Guide to Trapping*. - Modern comprehensive trapping manual
-- **Gilman, J. (1906).** *Practical Trapping*. - Historical fur trade methods
-- **Fears, J. W. (1981).** "Snares and Traps." *U.S. Army Survival Manual FM 21-76*. - Military survival trapping
-- **Russell, O. (1921).** *Journal of a Trapper*. - First-hand account of mountain man trapping (1830s-1840s)
+- **Krumm, B. (2014).** The Trapper's Bible: The Most Complete Guide to Trapping. - Modern comprehensive trapping manual
+- **Gilman, J. (1906).** Practical Trapping. - Historical fur trade methods
+- **Fears, J. W. (1981).** "Snares and Traps." U.S. Army Survival Manual FM 21-76. - Military survival trapping
+- **Russell, O. (1921).** Journal of a Trapper. - First-hand account of mountain man trapping (1830s-1840s)
 - **Archaeological evidence:** Stone Age trap components found at sites 40,000+ years old
 
 ## Final Notes

@@ -56,8 +56,9 @@ diagram: /assets/diagrams/L1/water/filtration-methods.svg
 
 Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria through physical barriers. Pore size determines effectiveness: 0.1-0.2 micron filters remove protozoa and bacteria (99.99%+), 0.02 micron removes viruses. Improvised filters remove sediment only - must combine with boiling/chemical treatment. Filter first, then disinfect for maximum safety.
 
-## Filter Effectiveness by Pore Size
+## Filter Eff
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Pore Size | Removes | Typical Use |
 |-----------|---------|-------------|
 | 1-5 micron | Sediment, some protozoa | Pre-filter only |
@@ -65,8 +66,9 @@ Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria thro
 | 0.02-0.1 micron | + Viruses | Advanced/hollow fiber |
 | <0.01 micron | All pathogens | Reverse osmosis |
 
-## Commercial Filter Comparison
+## Commercial Filter Comp
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Pore Size | Weight | Lifespan | Cost | Best For |
 |------|-----------|--------|----------|------|----------|
 | Hollow Fiber (Sawyer) | 0.1μ | 2 oz | 100,000 gal | $20-40 | Solo/light |
@@ -74,7 +76,7 @@ Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria thro
 | Pump (MSR) | 0.1μ | 16-20 oz | 2,000 gal | $90-150 | Groups |
 | Gravity (Platypus) | 0.2μ | 10 oz | 1,500 gal | $120 | Camp |
 
-## Improvised Sand Filter Construction
+## Sand Filter
 
 **Layer order (bottom → top):**
 1. Cloth barrier (holds materials)
@@ -89,7 +91,7 @@ Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria thro
 **Effectiveness:** 90-95% sediment, 50-70% bacteria  
 **CRITICAL:** Must boil or chemically treat after filtering
 
-## Treatment Chain for Maximum Safety
+## Treatment Chain
 
 **Best practice sequence:**
 1. **Pre-filter:** Cloth or settling (removes sediment)

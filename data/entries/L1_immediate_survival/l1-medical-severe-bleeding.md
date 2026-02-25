@@ -33,7 +33,7 @@ offline_assets: []
 ## Overview
 Life-threatening hemorrhage is a leading cause of preventable death. Rapid, effective bleeding control can save a life in minutes. This protocol covers external bleeding control for field/emergency situations.
 
-## Recognition of Severe Bleeding
+## Severe Bleeding Recog
 **Life-threatening bleeding:**
 - Blood spurting from wound (arterial)
 - Blood pooling rapidly on ground
@@ -83,6 +83,7 @@ Use pressure points while maintaining direct pressure on wound.
 
 **Major arterial pressure points:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Location | Artery | When to Use |
 |----------|---------|-------------|
 | Neck (side) | Carotid | Head/scalp bleeding (use EXTREME caution) |
@@ -141,34 +142,34 @@ Use pressure points while maintaining direct pressure on wound.
 **Technique:**
 
 1. **Position:** Place tourniquet 2-3 inches (5-7 cm) ABOVE wound
-   - Not on a joint
-   - As high on limb as possible if in doubt
-   - On bare skin if possible (cut clothing)
+- Not on a joint
+- As high on limb as possible if in doubt
+- On bare skin if possible (cut clothing)
 
 2. **Apply band:**
-   - Wrap tourniquet around limb
-   - Thread band through buckle
-   - Pull tight
+- Wrap tourniquet around limb
+- Thread band through buckle
+- Pull tight
 
 3. **Tighten windlass:**
-   - Twist windlass rod until bleeding stops
-   - Twist until you cannot feel pulse beyond tourniquet
-   - May require 4-8 turns
-   - Don't stop turning until bleeding completely stops
+- Twist windlass rod until bleeding stops
+- Twist until you cannot feel pulse beyond tourniquet
+- May require 4-8 turns
+- Don't stop turning until bleeding completely stops
 
 4. **Secure:**
-   - Lock windlass in place
-   - Secure strap
+- Lock windlass in place
+- Secure strap
 
 5. **Mark time:**
-   - Write "TQ" and time applied on tourniquet
-   - Or write on victim's forehead/arm
-   - Time critical for hospital handoff
+- Write "TQ" and time applied on tourniquet
+- Or write on victim's forehead/arm
+- Time critical for hospital handoff
 
 6. **Do NOT remove:**
-   - Once applied, only trained medical personnel should remove
-   - Do NOT loosen to check
-   - Removing tourniquet in field can cause fatal rebleeding
+- Once applied, only trained medical personnel should remove
+- Do NOT loosen to check
+- Removing tourniquet in field can cause fatal rebleeding
 
 **Commercial tourniquets (preferred):**
 - CAT (Combat Application Tourniquet)

@@ -28,6 +28,7 @@ Generators convert mechanical energy into electrical power, providing backup ele
 - Air-cooled engines (3,000-3,600 RPM)
 
 **Specifications:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Rating | Engine | Fuel Tank | Runtime @ 50% | Weight | Price Range |
 |--------|---------|-----------|---------------|---------|-------------|
 | 2,000W | 100cc | 1.2 gal | 8-10 hrs | 50 lbs | $400-800 |
@@ -59,6 +60,7 @@ Generators convert mechanical energy into electrical power, providing backup ele
 - Variable RPM based on load (economy mode)
 
 **Key Specifications:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Rating | THD | Noise Level | Fuel Efficiency | Weight | Price Range |
 |--------|-----|-------------|-----------------|---------|-------------|
 | 2,000W | <3% | 48-57 dB | 10-12 hrs/gal | 45 lbs | $600-1,200 |
@@ -92,6 +94,7 @@ Generators convert mechanical energy into electrical power, providing backup ele
 - Liquid-cooled engines (1,800 RPM for 60 Hz)
 
 **Sizing Chart:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Home Size | Generator Size | Fuel Type | Installation Cost |
 |-----------|----------------|-----------|-------------------|
 | 1,500 sq ft | 10-12 kW | NG or LP | $3,000-5,000 |
@@ -100,6 +103,7 @@ Generators convert mechanical energy into electrical power, providing backup ele
 | Whole-home + | 30-50 kW | NG or LP | $10,000-20,000 |
 
 **Fuel Consumption (Natural Gas):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Load | 10 kW | 20 kW | 30 kW |
 |------|-------|-------|-------|
 | 25% | 150 cu ft/hr | 250 cu ft/hr | 350 cu ft/hr |
@@ -144,6 +148,7 @@ Generators convert mechanical energy into electrical power, providing backup ele
 
 ### Appliance Load Chart
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Appliance | Running Watts | Starting Watts | Surge Factor |
 |-----------|---------------|----------------|--------------|
 | **Kitchen** | | | |
@@ -206,13 +211,12 @@ Recommended: 6,000-7,000W (safety margin + future loads)
 ### Altitude Derating
 
 Engines lose power at altitude due to thinner air (less oxygen):
-| Altitude | Power Derate |
-|----------|--------------|
-| Sea level | 0% (full power) |
-| 2,500 ft | 10% loss |
-| 5,000 ft | 15% loss |
-| 7,500 ft | 20% loss |
-| 10,000 ft | 25% loss |
+**Altitude:** Power Derate
+**Sea level:** 0% (full power)
+**2,500 ft:** 10% loss
+**5,000 ft:** 15% loss
+**7,500 ft:** 20% loss
+**10,000 ft:** 25% loss
 
 **Example:** 7,000W generator at 5,000 ft altitude:
 - 7,000W × 0.85 = 5,950W actual available power
@@ -227,6 +231,7 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Shelf life: 30 days untreated, 12-24 months with stabilizer
 
 **Fuel Consumption Rates:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Generator Size | 25% Load | 50% Load | 75% Load | 100% Load |
 |----------------|----------|----------|----------|-----------|
 | 2,000W | 0.15 gal/hr | 0.22 gal/hr | 0.28 gal/hr | 0.35 gal/hr |
@@ -238,7 +243,7 @@ Engines lose power at altitude due to thinner air (less oxygen):
 **Runtime Calculation:**
 - Runtime = (Fuel tank capacity) ÷ (Fuel consumption at load %)
 - Example: 7,500W generator, 8 gal tank, 50% load:
-  - 8 gal ÷ 0.55 gal/hr = 14.5 hours runtime
+- 8 gal ÷ 0.55 gal/hr = 14.5 hours runtime
 
 **Advantages:**
 - Widely available
@@ -270,6 +275,7 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Shelf life: Indefinite (does not degrade)
 
 **Tank Sizes & Capacities:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Tank Type | Capacity | Usable Fuel | Weight Full | Typical Use |
 |-----------|----------|-------------|-------------|-------------|
 | 20 lb cylinder | 4.7 gal | 4.0 gal | 37 lbs | Portable gen |
@@ -317,6 +323,7 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Shelf life: 6-12 months untreated, 2+ years with biocide/stabilizer
 
 **Consumption Rates (Diesel Generators):**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Generator Size | 25% Load | 50% Load | 75% Load | 100% Load |
 |----------------|----------|----------|----------|-----------|
 | 10 kW | 0.4 gal/hr | 0.6 gal/hr | 0.8 gal/hr | 1.0 gal/hr |
@@ -349,6 +356,7 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Unlimited supply (as long as utility operates)
 
 **Consumption Rates:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Generator Size | 25% Load | 50% Load | 75% Load | 100% Load |
 |----------------|----------|----------|----------|-----------|
 | 7 kW | 120 cu ft/hr | 180 cu ft/hr | 230 cu ft/hr | 280 cu ft/hr |
@@ -436,6 +444,7 @@ Transfer switches safely connect generator power to home electrical system, prev
 9. Generator shuts down
 
 **Specifications:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Rating | Transfer Time | Circuits | Price Range |
 |--------|---------------|----------|-------------|
 | 100A | 10-15 sec | Whole panel | $600-1,000 |
@@ -500,6 +509,7 @@ Transfer switches safely connect generator power to home electrical system, prev
 - KILLS QUICKLY (minutes to hours depending on concentration)
 
 **Fatal CO Levels:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | CO Concentration | Exposure Time | Effect |
 |------------------|---------------|---------|
 | 400 PPM | 2-3 hours | Headache, nausea |
@@ -566,11 +576,11 @@ Transfer switches safely connect generator power to home electrical system, prev
 - Built-in grounding plug (round pin on outlets)
 - Generator frame bonded to neutral
 - External ground rod required IF:
-  - Using generator as separately derived system (transfer switch)
-  - Generator provides ONLY power source
+- Using generator as separately derived system (transfer switch)
+- Generator provides ONLY power source
 - NOT required IF:
-  - Using extension cords to appliances (home ground system intact)
-  - Transfer switch maintains utility ground bond
+- Using extension cords to appliances (home ground system intact)
+- Transfer switch maintains utility ground bond
 
 **Ground Rod Installation:**
 - 8 ft copper-clad steel rod
@@ -592,6 +602,7 @@ Transfer switches safely connect generator power to home electrical system, prev
 - Damage: Burned windings, voltage regulator failure
 
 **Extension Cords:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Generator-to-Home Distance | Wire Gauge | Max Load |
 |----------------------------|------------|----------|
 | 0-50 ft | 12 AWG | 20A (2,400W) |
@@ -651,20 +662,19 @@ Transfer switches safely connect generator power to home electrical system, prev
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Running generator in garage with door open | Position 20+ feet from structure outdoors |
-| Using undersized extension cords | 12 AWG minimum for 20A loads, 10 AWG for 50+ feet |
-| Backfeeding through dryer outlet | Use transfer switch or interlock kit |
-| Refueling while hot/running | Shut down, wait 5 minutes for cooling |
-| Storing gasoline indefinitely | Add stabilizer, rotate every 6-12 months |
-| Overloading generator (exceeds rated watts) | Calculate loads, stay under 80% rating |
-| No maintenance (just run when needed) | Monthly exercise, annual oil changes minimum |
-| Leaving fuel in carburetor during storage | Run dry or add stabilizer + full tank |
-| Using generator in rain without cover | Use ventilated weather cover, keep exhaust clear |
-| Assuming generator powers everything | Size for essential loads only, shed excess |
+**❌ Wrong:** ✓ Right
+**Running generator in garage with door open:** Position 20+ feet from structure outdoors
+**Using undersized extension cords:** 12 AWG minimum for 20A loads, 10 AWG for 50+ feet
+**Backfeeding through dryer outlet:** Use transfer switch or interlock kit
+**Refueling while hot/running:** Shut down, wait 5 minutes for cooling
+**Storing gasoline indefinitely:** Add stabilizer, rotate every 6-12 months
+**Overloading generator (exceeds rated watts):** Calculate loads, stay under 80% rating
+**No maintenance (just run when needed):** Monthly exercise, annual oil changes minimum
+**Leaving fuel in carburetor during storage:** Run dry or add stabilizer + full tank
+**Using generator in rain without cover:** Use ventilated weather cover, keep exhaust clear
+**Assuming generator powers everything:** Size for essential loads only, shed excess
 
-## Tools & Equipment Needed
+## Tools
 
 **Operation:**
 - Extension cords (12-10 AWG, outdoor rated)
@@ -693,7 +703,7 @@ Transfer switches safely connect generator power to home electrical system, prev
 - First aid kit
 - Generator hour meter (maintenance tracking)
 
-## Quick Reference - Sizing
+## QR-Sizing
 
 **Essential Home Loads (Outage Scenario):**
 ```

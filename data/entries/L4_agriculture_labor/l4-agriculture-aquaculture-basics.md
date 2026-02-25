@@ -36,6 +36,6 @@ steps:
 - 'HARVEST: Net fish as needed or drain pond (harvest all). Process like wild fish (gut, cook thoroughly).'
 ---
 
-# Aquaculture Basics — Fish Ponds for Food Production
+# Aquaculture Basics
 
 Raise fish in ponds for food. Tilapia (warm water, easy), catfish (hardy, fast-growing), trout (cold water). Requires pond (natural or dig), feeding, water quality management. Harvest fish as needed. High protein yield from small space.

@@ -19,7 +19,7 @@ Battery banks store solar energy for use when the sun isn't shining. Proper batt
 
 ---
 
-## Battery Types Comparison
+## Battery Types
 
 ### Flooded Lead-Acid (FLA)
 
@@ -146,8 +146,9 @@ Battery banks store solar energy for use when the sun isn't shining. Proper batt
 
 ---
 
-## Battery Type Selection Matrix
+## Battery Type Sel
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Factor | Flooded Lead-Acid | AGM | Gel | LiFePO4 |
 |--------|------------------|-----|-----|---------|
 | **Initial cost** | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ |
@@ -191,13 +192,12 @@ Energy (Wh) = Voltage (V) × Amp-Hours (Ah)
 
 **Cycle life by DoD** (typical flooded lead-acid):
 
-| Depth of Discharge | Cycle Life |
-|-------------------|------------|
-| 20% | 2500+ cycles |
-| 30% | 1500 cycles |
-| 50% | 1000 cycles |
-| 80% | 500 cycles |
-| 100% | 200 cycles |
+**Depth of Discharge:** Cycle Life
+**20%:** 2500+ cycles
+**30%:** 1500 cycles
+**50%:** 1000 cycles
+**80%:** 500 cycles
+**100%:** 200 cycles
 
 **Design recommendation**: Size battery bank so daily use = 30-50% DoD maximum
 
@@ -370,6 +370,7 @@ String 2 ──┘   parallel
 
 **Cable sizing table** (12V system, 3% voltage drop):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Current | 1 ft | 2 ft | 3 ft | 5 ft |
 |---------|------|------|------|------|
 | 50A | 6 AWG | 4 AWG | 2 AWG | 1 AWG |
@@ -381,7 +382,7 @@ String 2 ──┘   parallel
 
 ---
 
-## Battery Management Systems (BMS)
+## Battery Mgmt Sys
 
 ### Purpose
 
@@ -404,14 +405,12 @@ String 2 ──┘   parallel
 
 **LiFePO4 BMS** (required features):
 
-| Parameter | Specification |
-|-----------|---------------|
-| **Cell count** | 4S (12V), 8S (24V), 16S (48V) |
-| **Max charge voltage** | 3.65V/cell (14.6V for 12V) |
-| **Low cutoff voltage** | 2.5V/cell (10V for 12V) |
-| **Balancing current** | 50-100mA typical |
-| **Overload protection** | 1.5-2× rated current |
-| **Temperature sensor** | NTC thermistor (charge cutoff <0°C) |
+****Cell count**:** 4S (12V), 8S (24V), 16S (48V)
+****Max charge voltage**:** 3.65V/cell (14.6V for 12V)
+****Low cutoff voltage**:** 2.5V/cell (10V for 12V)
+****Balancing current**:** 50-100mA typical
+****Overload protection**:** 1.5-2× rated current
+****Temperature sensor**:** NTC thermistor (charge cutoff <0°C)
 
 **Cost**: $50-150 for 100A BMS (built into some pre-made LiFePO4 batteries)
 
@@ -444,6 +443,7 @@ Cell 4 (3.2V) ─┴─ Balance wire 4 ──┘
 
 **Lead-acid capacity vs temperature**:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Temperature | Capacity | Charge Voltage Adjustment |
 |-------------|----------|---------------------------|
 | -20°C (-4°F) | 50% | +0.005V/°C (higher) |
@@ -482,8 +482,8 @@ Voltage = 14.4V + 0.6V = 15.0V
 **Cold weather** (<0°C):
 - Lead-acid: Insulate battery box, heating pad for extreme cold
 - LiFePO4: **Must not charge below 0°C** (lithium plating = fire risk)
-  - Use BMS with low-temp cutoff
-  - Add heating blanket with thermostat (expensive solution)
+- Use BMS with low-temp cutoff
+- Add heating blanket with thermostat (expensive solution)
 
 **Hot weather** (>35°C):
 - Ventilate battery enclosure (passive vents minimum)
@@ -564,8 +564,8 @@ CFM required = (Battery Ah ÷ 100) × (Charge Current ÷ 10)
 1. Disconnect immediately (open main disconnect)
 2. Evacuate area (fire risk)
 3. Do NOT use water (Class D fire)
-  - Use Class D extinguisher (metal fires)
-  - Or sand/dirt to smother
+- Use Class D extinguisher (metal fires)
+- Or sand/dirt to smother
 4. Call fire department for large battery banks
 
 **Prevention**:
@@ -576,7 +576,7 @@ CFM required = (Battery Ah ÷ 100) × (Charge Current ÷ 10)
 
 ---
 
-## Common Mistakes & Solutions
+## Common Errors
 
 ### ❌ **Mistake 1**: Mixing old and new batteries
 
@@ -697,8 +697,9 @@ See **l3-tech-battery-maintenance** for detailed procedures.
 
 ---
 
-## Quick Reference: Battery Bank Sizing
+## Battery Bank Sizing
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Daily Load | System Voltage | Days Autonomy | Lead-Acid (50% DoD) | LiFePO4 (80% DoD) |
 |------------|----------------|---------------|---------------------|-------------------|
 | 1 kWh | 12V | 1 | 167 Ah | 104 Ah |
@@ -708,7 +709,7 @@ See **l3-tech-battery-maintenance** for detailed procedures.
 | 5 kWh | 24V | 3 | 1250 Ah | 781 Ah |
 | 5 kWh | 48V | 3 | 625 Ah | 391 Ah |
 
-*Values rounded for standard battery sizes*
+Values rounded for standard battery sizes
 
 ---
 
@@ -752,5 +753,5 @@ See **l3-tech-battery-maintenance** for detailed procedures.
 
 ---
 
-*Last updated: 2026-02-19*
-*Layer: L3 Materials & Technology | Category: Energy/Power*
+Last updated: 2026-02-19
+Layer: L3 Materials & Technology | Category: Energy/Power

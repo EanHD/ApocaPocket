@@ -100,9 +100,9 @@ Choking occurs when an object blocks the airway, preventing breathing. The brain
 - Perform up to 5 thrusts
 - Check if object expelled after each thrust
 - Repeat cycles of 5 until:
-  - Object expelled
-  - Victim starts coughing/breathing
-  - Victim becomes unconscious
+- Object expelled
+- Victim starts coughing/breathing
+- Victim becomes unconscious
 
 #### 3. If Victim Becomes Unconscious
 
@@ -110,9 +110,9 @@ Choking occurs when an object blocks the airway, preventing breathing. The brain
 - Call 911 if not already called
 - **Begin CPR immediately** (start with compressions)
 - Before each rescue breath cycle:
-  - Look in mouth
-  - Remove object if visible (only if you can see it)
-  - Do NOT do blind finger sweep
+- Look in mouth
+- Remove object if visible (only if you can see it)
+- Do NOT do blind finger sweep
 - Continue CPR until EMS arrives or object expelled
 
 ### For Conscious Infants (<1 Year)
@@ -147,9 +147,9 @@ Choking occurs when an object blocks the airway, preventing breathing. The brain
 - Alternate 5 back blows + 5 chest thrusts
 - Check mouth after each cycle
 - Continue until:
-  - Object expelled
-  - Infant starts crying/coughing
-  - Infant becomes unconscious
+- Object expelled
+- Infant starts crying/coughing
+- Infant becomes unconscious
 
 #### 6. If Infant Becomes Unconscious
 - Place on firm surface
@@ -196,7 +196,7 @@ Choking occurs when an object blocks the airway, preventing breathing. The brain
 - **Cycles:** 5 back blows + 5 chest thrusts (infants)
 - **Heimlich repetitions:** Up to 5 thrusts per cycle
 
-## Common Mistakes to Avoid
+## Common Mistakes
 - ❌ Performing abdominal thrusts on mild obstruction (victim coughing effectively)
 - ❌ Blind finger sweeps (can push object deeper)
 - ❌ Thrusting too high (on ribcage - can break ribs)
@@ -210,10 +210,10 @@ Choking occurs when an object blocks the airway, preventing breathing. The brain
 **After successful object removal:**
 - Call 911 or go to emergency room
 - Abdominal thrusts can cause internal injuries:
-  - Ruptured stomach
-  - Ruptured spleen
-  - Broken ribs
-  - Internal bruising
+- Ruptured stomach
+- Ruptured spleen
+- Broken ribs
+- Internal bruising
 - Medical evaluation required even if victim "feels fine"
 - Watch for abdominal pain, difficulty swallowing, persistent coughing
 
@@ -225,7 +225,7 @@ Choking occurs when an object blocks the airway, preventing breathing. The brain
 - Keep small objects away from infants/toddlers
 - Avoid hard candy, nuts, grapes for children <4 years
 
-## High-Risk Foods (Most Common Causes)
+## High-Risk Foods
 **Adults:**
 - Meat (especially steak, hot dogs)
 - Hard candy

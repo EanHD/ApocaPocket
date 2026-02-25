@@ -6,13 +6,13 @@ tags: ["asthma", "respiratory", "breathing", "inhaler", "bronchospasm", "emergen
 confidence: "high"
 region: "global"
 sources:
-  - "nhlbi-asthma-guidelines"
-  - "american-lung-association"
-  - "emergency-medicine-respiratory"
+- "nhlbi-asthma-guidelines"
+- "american-lung-association"
+- "emergency-medicine-respiratory"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-medical-choking-airway"
-  - "l1-medical-medication-dosing-table"
+- "l1-medical-cpr-basics"
+- "l1-medical-choking-airway"
+- "l1-medical-medication-dosing-table"
 ---
 
 # Asthma - Severe Attack Management
@@ -25,10 +25,11 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 ---
 
-## Attack Recognition & Severity
+## Attack Recog
 
 ### Peak Flow Zones (If Meter Available)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Zone | Peak Flow | Symptoms | Action |
 |------|-----------|----------|--------|
 | **GREEN** | 80-100% personal best | Breathing well, no symptoms | Continue routine meds |
@@ -65,7 +66,7 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 ---
 
-## Emergency Treatment Protocol
+## Emergency Protocols
 
 ### Step 1: Rescue Inhaler (Albuterol/Salbutamol)
 
@@ -127,7 +128,7 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 ---
 
-## Inhaler Alternatives (No Electricity/Medical Supplies)
+## Inhaler Alt
 
 **CRITICAL:** These are FAR inferior to real inhalers, but may help in desperate situations.
 
@@ -153,7 +154,7 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 ---
 
-## Status Asthmaticus (Life-Threatening)
+## Status Asthmaticus
 
 **Definition:** Severe asthma attack that does NOT respond to standard treatment (albuterol + steroids).
 
@@ -177,7 +178,7 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 ---
 
-## When to Attempt Rescue Breathing vs CPR
+## Rescue Breathing vs CP
 
 **Rescue breathing ONLY (no chest compressions):**
 - If they stop breathing BUT have a pulse (check carotid artery 10 seconds)
@@ -200,15 +201,14 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 **Common triggers:**
 
-| Trigger | Avoidance Strategy |
-|---------|-------------------|
-| **Smoke** | Stay upwind of fires, avoid smoke-filled areas |
-| **Cold air** | Cover mouth/nose with scarf, breathe through nose |
-| **Dust/allergens** | Avoid dusty areas, clean bedding regularly |
-| **Exercise** | Pre-treat with 2 puffs albuterol 15 min before activity |
-| **Stress/panic** | Practice breathing exercises, stay calm |
-| **Strong odors** | Avoid perfumes, chemicals, strong-smelling foods |
-| **Weather changes** | Be prepared during temp swings, humidity changes |
+**Trigger:** Avoidance Strategy
+****Smoke**:** Stay upwind of fires, avoid smoke-filled areas
+****Cold air**:** Cover mouth/nose with scarf, breathe through nose
+****Dust/allergens**:** Avoid dusty areas, clean bedding regularly
+****Exercise**:** Pre-treat with 2 puffs albuterol 15 min before activity
+****Stress/panic**:** Practice breathing exercises, stay calm
+****Strong odors**:** Avoid perfumes, chemicals, strong-smelling foods
+****Weather changes**:** Be prepared during temp swings, humidity changes
 
 **In survival scenarios:**
 - Fire smoke is MAJOR trigger → stay upwind, use mask/cloth over face
@@ -217,7 +217,7 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 ---
 
-## Medication Storage & Rationing
+## Medication Storage
 
 **Albuterol inhaler storage:**
 - **Shelf life:** 18-24 months if stored properly

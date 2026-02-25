@@ -1,4 +1,4 @@
-# Crop Rotation - L4 Agriculture
+# Crop Rot
 
 **Priority: HIGH** | **Difficulty: Medium** | **Impact: Prevent disease, build soil, increase yields**
 
@@ -6,7 +6,7 @@
 
 Crop rotation is the practice of growing different crops in sequence on the same land. It breaks pest/disease cycles, balances soil nutrients, improves soil structure, and increases yields without external inputs. This is the difference between depleted, disease-prone soil and regenerative, productive land. Ancient farmers knew this; modern industrial agriculture forgot it. You won't.
 
-## Why Crop Rotation Works
+## Crop Rot
 
 **Problem with Monoculture (Same Crop Every Year):**
 - ❌ Pests/diseases build up in soil (host available every season)
@@ -25,7 +25,7 @@ Crop rotation is the practice of growing different crops in sequence on the same
 
 **The Principle:** Different crops = different needs, pests, root systems. Rotate = break bad cycles, create good cycles.
 
-## The 4-Year Rotation Plan (Standard)
+## 4YR Rotn Std
 
 Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
@@ -110,8 +110,9 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Soil Prep:** Loose, deep soil (root crops need room)
 
-## 4-Year Rotation Example (4 Beds)
+## 4Yr Rotate (4Beds)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Year | Bed A | Bed B | Bed C | Bed D |
 |------|-------|-------|-------|-------|
 | **1** | Legumes | Brassicas | Solanaceae | Roots |
@@ -124,10 +125,10 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **After Year 4:** Cycle repeats (back to starting pattern).
 
-## Nitrogen Fixing: The Engine of Rotation
+## N-Fix
 
 **How It Works:**
-1. Legume roots host *Rhizobium* bacteria (in nodules)
+1. Legume roots host Rhizobium bacteria (in nodules)
 2. Bacteria convert N₂ (atmospheric nitrogen) → NH₃ (ammonia)
 3. Plant uses some nitrogen, stores rest in roots/nodules
 4. When legume dies/is tilled in → nitrogen released to soil
@@ -135,6 +136,7 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Nitrogen Contribution:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Legume | N Fixed (lbs/acre) | Equivalent Fertilizer |
 |--------|-------------------|----------------------|
 | Peas | 50-80 | $20-30 value |
@@ -149,12 +151,12 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 - Till in legume residue before flowering (maximum nitrogen)
 - Or harvest crop, then plant legume cover crop
 
-## Disease & Pest Prevention
+## Disease Pest Prev
 
 **How Rotation Breaks Cycles:**
 
 **Example 1: Tomato Blight**
-- **Problem:** *Phytophthora* (late blight) overwinters in soil
+- **Problem:** Phytophthora (late blight) overwinters in soil
 - **Solution:** Plant tomatoes in different bed (pathogen dies without host in 2-3 years)
 
 **Example 2: Cabbage Root Maggot**
@@ -181,10 +183,11 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 - Add compost (beneficial microbes outcompete pathogens)
 - Resistant varieties (genetic resistance to specific diseases)
 
-## Soil Improvement Through Rotation
+## Soil Rot
 
 **Different Roots = Better Soil:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Root Type | Crop Examples | Benefit |
 |-----------|--------------|---------|
 | **Fibrous** (shallow, dense) | Grasses, onions, lettuce | Hold topsoil, prevent erosion |
@@ -202,7 +205,7 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 - Variety of residues = diverse soil food web (bacteria, fungi, protozoa)
 - More diversity = healthier soil
 
-## Cover Crops: The Rotation Multiplier
+## Cover Crops
 
 **Cover crops** = plants grown not for harvest, but for soil benefit.
 
@@ -235,15 +238,15 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 ### Cover Crop Protocol
 
 1. **Plant:** Immediately after harvest (don't leave soil bare)
-   - Fall: Winter rye, crimson clover, hairy vetch (overwinter)
-   - Spring/Summer: Buckwheat, oats (quick-growing)
+- Fall: Winter rye, crimson clover, hairy vetch (overwinter)
+- Spring/Summer: Buckwheat, oats (quick-growing)
 
 2. **Grow:** 6-12 weeks (or overwinter)
 
 3. **Terminate:** Before flowering (seeds = weed problem)
-   - **Method 1:** Mow/cut, leave as mulch (no-till)
-   - **Method 2:** Till in (green manure - nutrients return to soil)
-   - **Timing:** 2-4 weeks before planting next crop (allow decomposition)
+- **Method 1:** Mow/cut, leave as mulch (no-till)
+- **Method 2:** Till in (green manure - nutrients return to soil)
+- **Timing:** 2-4 weeks before planting next crop (allow decomposition)
 
 4. **Plant Cash Crop:** As scheduled in rotation
 
@@ -256,12 +259,13 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Effect:** Never bare soil. Always building.
 
-## Green Manure: Maximum Nutrient Cycling
+## Green Manure
 
 **Green manure** = growing a crop specifically to till in (not harvest).
 
 **Best Green Manures:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Crop | C:N Ratio | Decomposition Speed | N Contribution |
 |------|-----------|---------------------|----------------|
 | **Vetch** | 10:1 | Fast (2-3 weeks) | Very high |
@@ -287,7 +291,7 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 - Before planting heavy feeders (brassicas, corn, tomatoes)
 - Building new beds (transition from lawn/weeds)
 
-## Companion Planting Within Rotation
+## Companion Planting
 
 **Companion planting** = growing beneficial combinations together in same bed.
 
@@ -317,39 +321,38 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Same crop in same bed every year | 4-year minimum rotation |
-| Tomatoes → Potatoes (same family) | Separate nightshades by 3+ years |
-| No cover crops (bare soil) | Cover crop between cash crops |
-| Tilling in mature cover crop (woody) | Terminate before flowering (tender) |
-| Ignoring weed seeds in rotation | Pull weeds before seeding (break weed cycles too) |
-| No records (forget what grew where) | Keep garden journal (map + dates) |
-| Rotating crops but not families | Rotate FAMILIES, not individual crops |
+**❌ Wrong:** ✓ Right
+**Same crop in same bed every year:** 4-year minimum rotation
+**Tomatoes → Potatoes (same family):** Separate nightshades by 3+ years
+**No cover crops (bare soil):** Cover crop between cash crops
+**Tilling in mature cover crop (woody):** Terminate before flowering (tender)
+**Ignoring weed seeds in rotation:** Pull weeds before seeding (break weed cycles too)
+**No records (forget what grew where):** Keep garden journal (map + dates)
+**Rotating crops but not families:** Rotate FAMILIES, not individual crops
 
-## Advanced: Integrating Perennials
+## Advanced Perennials
 
 **Challenge:** Rotation requires moving crops. Perennials stay put.
 
 **Solutions:**
 
 1. **Dedicate beds to perennials:**
-   - Asparagus, rhubarb, artichoke, perennial herbs
-   - Don't include in rotation (permanent)
+- Asparagus, rhubarb, artichoke, perennial herbs
+- Don't include in rotation (permanent)
 
 2. **Edge planting:**
-   - Place perennials at garden edges (don't disrupt rotation)
+- Place perennials at garden edges (don't disrupt rotation)
 
 3. **Food forest integration:**
-   - Perennials in food forest (see [l4-agriculture-food-forests.md])
-   - Annuals in rotation beds (separate systems)
+- Perennials in food forest (see [l4-agriculture-food-forests.md])
+- Annuals in rotation beds (separate systems)
 
 4. **Alley cropping:**
-   - Rows of perennials (fruit trees, berries)
-   - Annual crops in alleys between rows
-   - Rotate annuals, perennials stay
+- Rows of perennials (fruit trees, berries)
+- Annual crops in alleys between rows
+- Rotate annuals, perennials stay
 
-## Scaling: From Backyard to Field
+## Scaling
 
 **Backyard (4 beds, 100 sq ft each):**
 - Simple 4-year rotation (1 family per bed)
@@ -366,7 +369,7 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Principle stays same:** Don't grow same family in same place consecutively. Scale up by adding beds/fields.
 
-## Why Crop Rotation is Critical
+## Crop Rot
 
 **Yield Increases:**
 - 20-30% higher yields (average, vs monoculture)

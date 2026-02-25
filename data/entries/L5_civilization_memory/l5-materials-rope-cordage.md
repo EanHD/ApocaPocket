@@ -154,8 +154,8 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 1. **Prepare**: Three strands, each already 2-ply
 2. **Twist each strand** tightly (same direction, e.g., Z-twist)
 3. **Ply together** in opposite direction (S-twist):
-   - Hold two strands, twist third over and between
-   - Rotate, repeat with next strand
+- Hold two strands, twist third over and between
+- Rotate, repeat with next strand
 4. **Maintain twist**: Each strand stays twisted while plying
 
 **Professional method**: Use rope-walk or spindle with hooks
@@ -199,7 +199,7 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 
 ---
 
-## Splicing (Joining Ropes)
+## Splicing
 
 ### Eye Splice (Loop at End)
 **Uses**: Permanent loops, attachment points
@@ -233,22 +233,22 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 
 ---
 
-## Tensile Strength & Load Ratings
+## Tensile Strength
 
 ### Fiber Strength (Approximate)
 
-| Fiber | Tensile Strength (lbs/inch diameter) |
-|-------|--------------------------------------|
-| Agave/Sisal | 1000-1200 |
-| Hemp | 800-1000 |
-| Yucca | 800-1000 |
-| Flax (linen) | 700-900 |
-| Cedar bark | 600-800 |
-| Willow bark | 400-600 |
-| Cattail | 200-400 |
+**Fiber:** Tensile Strength (lbs/inch diameter)
+**Agave/Sisal:** 1000-1200
+**Hemp:** 800-1000
+**Yucca:** 800-1000
+**Flax (linen):** 700-900
+**Cedar bark:** 600-800
+**Willow bark:** 400-600
+**Cattail:** 200-400
 
 ### Rope Diameter & Strength (3-ply hemp, for reference)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Diameter | Working Load | Breaking Strength |
 |----------|--------------|-------------------|
 | 1/4 inch | 50 lbs | 300 lbs |
@@ -305,7 +305,7 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 
 ---
 
-## Civilization Multiplier Effect
+## Civilization Multiplie
 
 **Why rope is exponential**:
 
@@ -327,8 +327,9 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 
 ---
 
-## Common Mistakes & Fixes
+## Common Errors
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | Rope unravels | Wrong twist direction | Use counter-twist (Z-ply on S-strand) |
@@ -340,7 +341,7 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 
 ---
 
-## DIAGRAM: Fiber Twisting & Splicing
+## Fiber Twist/Splice
 
 ```
 THREE-PLY ROPE CONSTRUCTION:
@@ -436,12 +437,12 @@ Final: ═══════╋═══════
 
 ---
 
-## References & Further Study
+## References
 
-- *Primitive Technology: A Book of Earth Skills* (Society of Primitive Technology)
-- *The Ashley Book of Knots* by Clifford Ashley (comprehensive knots, splices, rope work)
-- *Braiding Fine Leather* by David Morgan (braiding techniques, applicable to fiber)
-- *Colonial Ropewalk* (Mystic Seaport Museum, historical methods)
+- Primitive Technology: A Book of Earth Skills (Society of Primitive Technology)
+- The Ashley Book of Knots by Clifford Ashley (comprehensive knots, splices, rope work)
+- Braiding Fine Leather by David Morgan (braiding techniques, applicable to fiber)
+- Colonial Ropewalk (Mystic Seaport Museum, historical methods)
 
 ---
 

@@ -52,7 +52,7 @@ Spinal cord injuries are devastating - they can cause permanent paralysis, loss 
 
 **Critical concept:** The initial trauma causes primary injury. Improper handling causes secondary injury. Your goal is to prevent secondary injury.
 
-## Spinal Anatomy Quick Reference
+## Spinal Anatomy
 
 **Vertebral regions:**
 - Cervical (C1-C7): Neck - most vulnerable
@@ -66,10 +66,11 @@ Spinal cord injuries are devastating - they can cause permanent paralysis, loss 
 - T1-L2: Paraplegia (legs only)
 - Below L2: Variable leg/bowel/bladder function
 
-## When to Suspect Spinal Injury
+## Spinal Injury
 
 ### High-Risk Mechanisms
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Mechanism | Risk Level | Notes |
 |-----------|-----------|-------|
 | Fall from >10 feet (3m) | **HIGH** | Height = kinetic energy |
@@ -109,7 +110,7 @@ Spinal cord injuries are devastating - they can cause permanent paralysis, loss 
 
 **Rule of thumb:** When in doubt, immobilize
 
-## Neurological Assessment (BEFORE and AFTER any movement)
+## Neuro Assess
 
 ### Motor Function (Movement)
 **Upper extremities:**
@@ -141,22 +142,22 @@ Pain: Y / N - Location: _____
 
 **Recheck after any movement or intervention**
 
-## Manual Inline Stabilization (MIS)
+## Manual Inline Stab
 
 **The foundation of spinal care - do this IMMEDIATELY**
 
 ### Technique
 1. **Approach from above victim's head** if possible
 2. **Place hands on both sides of head**
-   - Palms over ears
-   - Fingers spread along jaw/skull
-   - Thumbs at back of head
+- Palms over ears
+- Fingers spread along jaw/skull
+- Thumbs at back of head
 3. **Hold in neutral position**
-   - Face forward
-   - No flexion (chin to chest)
-   - No extension (head tilted back)
-   - No rotation (turned left/right)
-   - No lateral bend (ear to shoulder)
+- Face forward
+- No flexion (chin to chest)
+- No extension (head tilted back)
+- No rotation (turned left/right)
+- No lateral bend (ear to shoulder)
 4. **Gentle, firm pressure** - do not pull/traction
 5. **Maintain until immobilization device applied**
 
@@ -168,7 +169,7 @@ Pain: Y / N - Location: _____
 - Gently move toward neutral IF no resistance
 - If resistance, pain, or muscle spasm: STOP - immobilize in position found
 
-## Emergency Movement (Immediate Danger Only)
+## Emergency Move
 
 **Move ONLY if:**
 - Fire, explosion, chemical hazard
@@ -189,7 +190,7 @@ Pain: Y / N - Location: _____
 3. Second rescuer pulls blanket
 4. Better control than clothes drag
 
-## Non-Emergency Movement: Log-Roll Technique
+## Log-Roll
 
 **Requires MINIMUM 3 people (4-5 ideal)**
 
@@ -215,7 +216,7 @@ Pain: Y / N - Location: _____
 - "On three, we roll toward me. One, two, three, ROLL."
 - Everyone moves together, no one leads
 
-## Improvised Cervical Collar
+## Cervical Collar
 
 **Purpose:** Limits neck flexion/extension/rotation
 **NOT a substitute for manual stabilization initially**
@@ -244,7 +245,7 @@ Pain: Y / N - Location: _____
 
 **Check:** Should not compress airway or restrict breathing
 
-## Full Spinal Immobilization
+## Full Spine Immob
 
 ### Backboard/Rigid Surface
 **Options:**
@@ -283,7 +284,7 @@ Pain: Y / N - Location: _____
 - Water bottles
 - Tape across forehead to board
 
-## Helmet Removal (Two-Person Technique)
+## Helmet Removal
 
 **Remove helmet ONLY if:**
 - Helmet interferes with airway management
@@ -295,19 +296,19 @@ Pain: Y / N - Location: _____
 
 ### Removal Steps
 1. **Rescuer 1:** Stabilize helmet/head from below
-   - Hands along jaw/skull
-   - Support weight of head through helmet
+- Hands along jaw/skull
+- Support weight of head through helmet
 2. **Rescuer 2:** Cut/remove chin strap
 3. **Rescuer 2:** Gently spread helmet sides
 4. **Rescuer 2:** Slowly slide helmet off
-   - Tilt back slightly to clear nose
-   - Tilt forward to clear back of head
+- Tilt back slightly to clear nose
+- Tilt forward to clear back of head
 5. **As helmet clears, Rescuer 1 transitions to manual inline stabilization**
 6. **Rescuer 2 applies cervical collar**
 
 **Sports helmets with face mask:** Cut face mask bolts to allow airway access without removing helmet
 
-## Monitoring During Immobilization
+## Monitoring
 
 **Check every 15-30 minutes:**
 - Neurological status (motor/sensory) - document changes
@@ -341,7 +342,7 @@ Pain: Y / N - Location: _____
 - Maintain neutral spine during extraction
 - See l1-medical-drowning-rescue
 
-## Evacuation Considerations
+## Evac Consider
 
 **All suspected spinal injuries require hospital evaluation:**
 - X-ray/CT scan to rule out fracture
@@ -360,7 +361,7 @@ Pain: Y / N - Location: _____
 - IV access if trained/available
 - High-flow oxygen if available
 
-## Common Mistakes to Avoid
+## Common Mistakes
 
 - ❌ Not suspecting injury based on mechanism
 - ❌ Trusting "I feel fine" after high-risk mechanism
@@ -374,7 +375,7 @@ Pain: Y / N - Location: _____
 - ❌ Not padding appropriately for body type
 - ❌ Forgetting to reassess neuro status after movement
 
-## Clearing the Spine (When Immobilization NOT Needed)
+## Clearing Spine
 
 **Can clear spine (no immobilization) if ALL criteria met:**
 - No high-risk mechanism
@@ -422,8 +423,9 @@ _____|_______|_________|________|______
 Evacuation: Time _____ Method _____
 ```
 
-## Summary Quick Reference
+## Summary Ref
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Priority | Action | Check |
 |----------|--------|-------|
 | 1 | Suspect based on mechanism | High-risk MOI? |

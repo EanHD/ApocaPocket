@@ -7,6 +7,7 @@
 
 ## Priority Hazard Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
 |--------|----------|-----------|--------|----------------------|-----------|
 | Heat stroke | EXTREME | Daily (summer) | May-Sep | Moderate | l1-heat-management.md |
@@ -20,13 +21,14 @@
 
 ---
 
-## 1. HEAT STROKE & HEAT INDEX
+## Heat Stroke
 
 ### The Heat Index Formula
 **Heat Index = Temperature + Humidity Effect**
 
 Real temperature + Southeast humidity = dangerous combined effect.
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Temperature | 60% Humidity | 70% Humidity | 80% Humidity | 90% Humidity |
 |-------------|--------------|--------------|--------------|--------------|
 | 85°F | 90°F | 93°F | 97°F | 102°F |
@@ -72,9 +74,9 @@ Real temperature + Southeast humidity = dangerous combined effect.
 2. Move to shade IMMEDIATELY
 3. Remove clothing
 4. Cool AGGRESSIVELY:
-   - Immerse in cold water if available
-   - Wet skin and fan continuously
-   - Ice packs on neck, armpits, groin
+- Immerse in cold water if available
+- Wet skin and fan continuously
+- Ice packs on neck, armpits, groin
 5. DO NOT give fluids if unconscious (choking risk)
 6. Monitor breathing
 
@@ -94,9 +96,9 @@ Night: Sleep in ventilated shelter
 - Drink BEFORE thirsty (thirst = already dehydrated)
 - 1 gallon minimum per day (more if working)
 - Urine color = hydration indicator:
-  - Clear/pale yellow = good
-  - Dark yellow = dehydrated
-  - Brown/orange = DANGEROUSLY dehydrated
+- Clear/pale yellow = good
+- Dark yellow = dehydrated
+- Brown/orange = DANGEROUSLY dehydrated
 - Add salt to water (1/4 tsp per quart) if sweating heavily
 
 **Clothing:**
@@ -125,6 +127,7 @@ Night: Sleep in ventilated shelter
 
 ### Saffir-Simpson Scale
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Category | Wind Speed | Storm Surge | Damage Potential | Survival Strategy |
 |----------|------------|-------------|------------------|-------------------|
 | 1 | 74-95 mph | 4-5 ft | Minor structure damage | Shelter in place (inland) |
@@ -163,15 +166,15 @@ Night: Sleep in ventilated shelter
 #### 24 Hours Before (Hurricane Warning)
 - **EVACUATE if coastal + Cat 3+** (last chance)
 - If sheltering: Final preparations
-  - Board windows or move inside away from glass
-  - Fill bathtubs with water (backup supply)
-  - Charge devices (power will fail)
-  - Move to interior room on lowest floor
+- Board windows or move inside away from glass
+- Fill bathtubs with water (backup supply)
+- Charge devices (power will fail)
+- Move to interior room on lowest floor
 - Identify shelter location:
-  - Central interior room (bathroom, closet)
-  - Ground floor (NOT basement in coastal areas - flooding)
-  - Away from windows and doors
-  - Under sturdy structure (avoid mobile homes)
+- Central interior room (bathroom, closet)
+- Ground floor (NOT basement in coastal areas - flooding)
+- Away from windows and doors
+- Under sturdy structure (avoid mobile homes)
 
 #### During Hurricane
 - Stay in shelter location
@@ -179,18 +182,18 @@ Night: Sleep in ventilated shelter
 - Monitor weather radio for updates
 - Avoid windows (flying debris, glass)
 - If water entering structure:
-  - Move to higher floor if safe
-  - If flooding severe and structure failing: LAST RESORT - attic with tools to break through roof (escape route)
-  - NEVER go into enclosed attic without axe/hatchet (can be trapped)
+- Move to higher floor if safe
+- If flooding severe and structure failing: LAST RESORT - attic with tools to break through roof (escape route)
+- NEVER go into enclosed attic without axe/hatchet (can be trapped)
 
 #### After Hurricane
 - Wait for ALL-CLEAR from authorities
 - Hazards after storm:
-  - Downed power lines (assume ALL are live)
-  - Structural damage (unstable buildings)
-  - Flooding (contaminated water)
-  - Displaced wildlife (snakes, alligators in flood water)
-  - No services (power, water, roads may be out for weeks)
+- Downed power lines (assume ALL are live)
+- Structural damage (unstable buildings)
+- Flooding (contaminated water)
+- Displaced wildlife (snakes, alligators in flood water)
+- No services (power, water, roads may be out for weeks)
 
 ### Tornado Risk During Hurricanes
 Hurricanes spawn tornadoes (especially in outer rain bands):
@@ -249,10 +252,10 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 2. **Abandon vehicle if water rising** (more people drown in cars than on foot)
 3. **Never walk through moving water >6 inches** (you will fall)
 4. **If swept away:**
-   - Float on back, feet downstream
-   - Angle toward shore
-   - Grab stationary objects (trees, rocks)
-   - AVOID strainers (trees/debris that trap you underwater)
+- Float on back, feet downstream
+- Angle toward shore
+- Grab stationary objects (trees, rocks)
+- AVOID strainers (trees/debris that trap you underwater)
 
 #### After Flood
 - **Water contamination:** Flood water = sewage, chemicals, bacteria (purify before drinking)
@@ -482,15 +485,15 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 
 #### If Grabbed by Alligator:
 1. **FIGHT BACK AGGRESSIVELY**
-   - Gouge eyes (most sensitive area)
-   - Hit snout repeatedly
-   - Punch gills (behind jaw)
+- Gouge eyes (most sensitive area)
+- Hit snout repeatedly
+- Punch gills (behind jaw)
 2. **If in death roll:**
-   - Roll WITH the gator (not against)
-   - Try to get on its back (weight may cause release)
+- Roll WITH the gator (not against)
+- Try to get on its back (weight may cause release)
 3. **If dragged underwater:**
-   - Attack eyes/snout
-   - Try to pry jaws open (nearly impossible due to closing strength)
+- Attack eyes/snout
+- Try to pry jaws open (nearly impossible due to closing strength)
 
 **Opening Jaws:** Easy (weak opening muscles) - if jaws closed, you can hold them shut with hands. But once open, impossible to keep open.
 
@@ -511,7 +514,7 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 
 ---
 
-## 6. FIRE ANTS (Solenopsis invicta)
+## FIRE ANTS
 
 ### Species Profile
 **Type:** Invasive (South American), established throughout Southeast  
@@ -532,10 +535,10 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 - Pustule forms in 24 hours (white, fluid-filled)
 - Pustules last 7-10 days
 - **Allergic reaction:** Anaphylaxis in ~1-5% of people
-  - Swelling
-  - Difficulty breathing
-  - Hives
-  - Can be FATAL without epinephrine
+- Swelling
+- Difficulty breathing
+- Hives
+- Can be FATAL without epinephrine
 
 **Annual Impact:**
 - 80+ deaths per year in US (anaphylaxis)
@@ -618,7 +621,7 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 
 ---
 
-## 7. MOLD & FUNGUS (Humid Environment)
+## Mold & Fungus
 
 ### Southeast Humidity Problem
 - **60-90% year-round humidity**
@@ -683,12 +686,13 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 ### Tornado Alley (Southeast Extension)
 - Alabama, Mississippi, Tennessee particularly vulnerable
 - "Dixie Alley" - more deadly than Great Plains Alley due to:
-  - Night tornadoes (can't see approaching)
-  - Dense forests (hide funnel cloud)
-  - Mobile homes (inadequate shelter)
+- Night tornadoes (can't see approaching)
+- Dense forests (hide funnel cloud)
+- Mobile homes (inadequate shelter)
 
 ### Enhanced Fujita Scale
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Rating | Wind Speed | Damage | Survival Strategy |
 |--------|------------|--------|-------------------|
 | EF0 | 65-85 mph | Minor (branches, shingles) | Sturdy shelter sufficient |
@@ -756,10 +760,11 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 
 ---
 
-## Regional Hazard Summary
+## Regional Hazards
 
 ### Monthly Hazard Calendar
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Month | Primary Threats | Secondary Threats | Activity Guidance |
 |-------|----------------|-------------------|-------------------|
 | Jan | Cold snaps, ice storms | Hunting accidents | Good for travel, low hazard |

@@ -53,6 +53,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Blacksmithing Fundamentals — Forge, Anvil, Techniques
+# Blacksmith Basics
 
 Blacksmithing is the most critical rebuilding skill — it produces tools, hardware, weapons, and repairs. A basic forge can be built from clay and a pipe. Master four operations: drawing out, upsetting, bending, and punching, and you can make almost anything from steel.

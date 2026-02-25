@@ -46,6 +46,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# 15 Navigation Stars — Identification and Use
+# NavStars ID&Use
 
 Fifteen key navigation stars visible from different hemispheres and seasons. Knowing these stars lets you determine direction, approximate latitude, and time without instruments. Polaris gives true north; the Southern Cross gives true south; other stars rise due east and set due west.

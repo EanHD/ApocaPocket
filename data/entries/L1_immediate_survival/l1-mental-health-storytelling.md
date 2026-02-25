@@ -7,7 +7,7 @@
 
 ---
 
-## Why Storytelling Is Survival Technology
+## Storytelling
 
 **Historical Truth:** For 95% of human existence (200,000+ years), we had no writing. ALL knowledge passed through stories. We evolved to remember this way.
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Story Types & Their Functions
+## Story Types
 
 ### Origin Stories (Identity & Belonging)
 
@@ -191,7 +191,7 @@ Shares knowledge (listener = new learner)
 
 ---
 
-## Mnemonic Devices: The Memory Technologies
+## Mnemonic Devices
 
 ### Memory Palace (Method of Loci)
 
@@ -283,7 +283,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## Storytelling Night: Community Protocol
+## StoryNight
 
 ### Structure (2-3 Hours)
 
@@ -351,7 +351,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## Teaching Storytelling: Skill Development
+## Teaching Storytelling
 
 ### For Children (Age 3-12)
 
@@ -401,7 +401,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## Preserving Stories: Emergency Protocols
+## Preserve Stories
 
 ### If Writing Available
 
@@ -444,7 +444,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## Modern Application: Starting NOW
+## Modern App: Start
 
 ### Capture Family Stories (Before Crisis)
 
@@ -452,10 +452,10 @@ Three months without hope (keep spirits high)
 - Record if possible (video, audio)
 - Write down if not
 - Ask open questions:
-  - "Tell me about your childhood"
-  - "What's the hardest thing you survived?"
-  - "What advice would you give?"
-  - "What should our family remember?"
+- "Tell me about your childhood"
+- "What's the hardest thing you survived?"
+- "What advice would you give?"
+- "What should our family remember?"
 
 **Document local history:**
 - How town/neighborhood formed
@@ -487,7 +487,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## Warning Signs: When Stories Die
+## Warning Signs
 
 **Community indicators:**
 - No storytelling gatherings
@@ -511,7 +511,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## Historical Examples: When Stories Saved People
+## Historic Tales
 
 **Cherokee Trail of Tears:**
 - Oral tradition preserved language, medicine, identity
@@ -539,7 +539,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## The Science: Why It Works
+## The Science
 
 **Neural encoding:**
 - Story activates sensory cortex (as if experiencing)
@@ -561,7 +561,7 @@ Three months without hope (keep spirits high)
 
 ---
 
-## Conclusion: Tell or Forget
+## Conclusion
 
 **Remember:**
 - Writing is 5,000 years old; storytelling is 200,000+ years old
@@ -593,4 +593,4 @@ Three months without hope (keep spirits high)
 
 ---
 
-*Last Updated: 2026 | Sources: Cognitive Psychology (2009), Trauma Psychology (2014), Anthropological Studies of Oral Tradition (ongoing), Neuroscience of Narrative (2018)*
+Last Updated: 2026 | Sources: Cognitive Psychology (2009), Trauma Psychology (2014), Anthropological Studies of Oral Tradition (ongoing), Neuroscience of Narrative (2018)

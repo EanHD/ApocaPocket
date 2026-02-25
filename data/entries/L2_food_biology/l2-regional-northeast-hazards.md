@@ -7,6 +7,7 @@
 
 ## Priority Hazard Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
 |--------|----------|-----------|--------|----------------------|-----------|
 | Hypothermia/cold | EXTREME | Daily (winter) | Dec-Feb | Moderate | l1-cold-weather-survival.md |
@@ -25,6 +26,7 @@ Let me complete the Northeast hazards file:
 
 ## Priority Hazard Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
 |--------|----------|-----------|--------|----------------------|-----------|
 | Hypothermia/cold | EXTREME | Daily (winter) | Dec-Feb | Moderate | l1-cold-weather-survival.md |
@@ -38,7 +40,7 @@ Let me complete the Northeast hazards file:
 
 ---
 
-## 1. NOR'EASTERS - Multi-Day Coastal Storms
+## NOR'EASTERS
 
 ### What is a Nor'easter?
 **Definition:** Low-pressure system that moves up the Atlantic coast, producing northeast winds over coastal areas.
@@ -58,6 +60,7 @@ Let me complete the Northeast hazards file:
 
 ### Nor'easter Categories (Unofficial Scale)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Category | Snow | Wind (Coastal) | Impact | Historical Examples |
 |----------|------|----------------|--------|---------------------|
 | Minor | 6-12" | 30-45 mph | Local closures, brief outages | Common (10-20/year) |
@@ -96,10 +99,10 @@ Let me complete the Northeast hazards file:
 #### Power Outages
 - **Duration:** Days to weeks (widespread damage, hard to access repair sites)
 - **Cascading effects:**
-  - No heat (in winter storm = life-threatening)
-  - No water (pumps down, frozen pipes)
-  - No communication (cell towers down, internet out)
-  - No food refrigeration (actually less of an issue - outdoor temps freezing)
+- No heat (in winter storm = life-threatening)
+- No water (pumps down, frozen pipes)
+- No communication (cell towers down, internet out)
+- No food refrigeration (actually less of an issue - outdoor temps freezing)
 
 ---
 
@@ -108,11 +111,11 @@ Let me complete the Northeast hazards file:
 #### 48-72 Hours Before (Watch Issued)
 - Monitor NOAA Weather Radio / NWS forecasts
 - Stock supplies:
-  - **Food:** 7-14 days (no power, no travel)
-  - **Water:** 1 gal/person/day x 7 days (pipes may freeze)
-  - **Firewood:** Bring 2+ weeks indoors (can't access outdoor pile in 4 ft snow)
-  - **Medications:** Full supply
-  - **Batteries, flashlights, radio**
+- **Food:** 7-14 days (no power, no travel)
+- **Water:** 1 gal/person/day x 7 days (pipes may freeze)
+- **Firewood:** Bring 2+ weeks indoors (can't access outdoor pile in 4 ft snow)
+- **Medications:** Full supply
+- **Batteries, flashlights, radio**
 - Charge all devices (power WILL fail)
 - Fill bathtubs (backup water)
 - Bring pets indoors
@@ -130,14 +133,14 @@ Let me complete the Northeast hazards file:
 1. **STAY INSIDE:** Zero visibility, deadly cold, risk of disorientation even 50 ft from door
 2. **Central room:** If power fails, gather in one room (easier to heat)
 3. **Heat priority:**
-   - Fireplace/wood stove (if available)
-   - Kerosene heater (MUST have ventilation - CO risk)
-   - Propane heater (ventilation critical)
-   - NEVER use gas stove/oven for heat (CO poisoning)
+- Fireplace/wood stove (if available)
+- Kerosene heater (MUST have ventilation - CO risk)
+- Propane heater (ventilation critical)
+- NEVER use gas stove/oven for heat (CO poisoning)
 4. **Conserve heat:**
-   - Close off unused rooms
-   - Hang blankets over windows
-   - Seal gaps (towels under doors)
+- Close off unused rooms
+- Hang blankets over windows
+- Seal gaps (towels under doors)
 5. **Ventilation:** If using any combustion heat, crack window (CO poisoning kills)
 6. **Hydration:** Dehydration sneaky in winter (less thirst sensation)
 7. **Check on neighbors:** Especially elderly, disabled
@@ -151,8 +154,8 @@ Let me complete the Northeast hazards file:
 - **Wait for official all-clear** (drifts, downed lines, continued snow)
 - **Downed power lines:** Assume ALL are live (stay 30+ feet away)
 - **Roof snow removal:** If 3+ feet accumulated (collapse risk)
-  - Work from ground with roof rake if possible
-  - If must go on roof: Safety rope, partner watching, avoid sudden removal (shock load)
+- Work from ground with roof rake if possible
+- If must go on roof: Safety rope, partner watching, avoid sudden removal (shock load)
 - **Check on neighbors:** Especially vulnerable populations
 - **Frozen pipes:** If heat failed, pipes may burst when thawing (shut off water main)
 
@@ -160,7 +163,7 @@ Let me complete the Northeast hazards file:
 
 ---
 
-## 2. ICE STORMS - Freezing Rain Events
+## ICE STORMS
 
 ### Ice Storm Profile
 **Mechanism:** Warm air aloft, freezing air at surface = rain freezes on contact with ground/objects
@@ -258,7 +261,7 @@ Let me complete the Northeast hazards file:
 
 ---
 
-## 3. LYME DISEASE & TICK-BORNE ILLNESSES
+## LYME & TICK-BORNE
 
 ### Northeast = Lyme Disease Capital of US
 
@@ -270,15 +273,15 @@ Let me complete the Northeast hazards file:
 
 ---
 
-### Blacklegged Tick (Deer Tick) - *Ixodes scapularis*
+### Blacklegged Tick (Deer Tick) - Ixodes scapularis
 
 **Primary Lyme Vector**
 
 **Identification:**
 - **Size:** TINY
-  - Larva: Pinhead
-  - Nymph: Poppy seed (1-2mm) - MOST COMMON biter
-  - Adult: Sesame seed (3-5mm)
+- Larva: Pinhead
+- Nymph: Poppy seed (1-2mm) - MOST COMMON biter
+- Adult: Sesame seed (3-5mm)
 - **Color:** Dark brown/black legs, reddish-brown body
 - **Features:** 8 legs, no antennae (arachnid)
 
@@ -296,9 +299,9 @@ Let me complete the Northeast hazards file:
 - Crawls upward (seeks warm, hidden areas)
 
 **Diseases Carried:**
-1. **Lyme disease** (*Borrelia burgdorferi*) - 20-30% of nymphs infected in endemic areas
-2. **Anaplasmosis** (*Anaplasma phagocytophilum*)
-3. **Babesiosis** (*Babesia microti*) - Blood parasite, malaria-like
+1. **Lyme disease** (Borrelia burgdorferi) - 20-30% of nymphs infected in endemic areas
+2. **Anaplasmosis** (Anaplasma phagocytophilum)
+3. **Babesiosis** (Babesia microti) - Blood parasite, malaria-like
 4. **Powassan virus** - Rare but SERIOUS (can be fatal, no treatment)
 
 ---
@@ -354,10 +357,10 @@ Let me complete the Northeast hazards file:
 **Chronic Lyme (if untreated for months/years):**
 - **Chronic arthritis:** Persistent joint swelling (knees most common)
 - **Neurological problems:**
-  - Memory impairment ("brain fog")
-  - Concentration difficulties
-  - Sleep disturbances
-  - Mood changes (depression, anxiety)
+- Memory impairment ("brain fog")
+- Concentration difficulties
+- Sleep disturbances
+- Mood changes (depression, anxiety)
 - **Chronic fatigue:** Disabling exhaustion
 - **Numbness, tingling in extremities**
 
@@ -374,9 +377,9 @@ Let me complete the Northeast hazards file:
 
 #### Clothing & Repellent
 1. **Permethrin treatment:** Spray clothing, boots (kills ticks on contact)
-   - Lasts 6 weeks or 6 washes
-   - Treat before season (April)
-   - Most effective prevention tool
+- Lasts 6 weeks or 6 washes
+- Treat before season (April)
+- Most effective prevention tool
 2. **Light-colored clothing:** Easier to spot ticks (dark brown on white/khaki)
 3. **Long pants tucked into socks:** Physical barrier
 4. **Long sleeves**
@@ -454,7 +457,7 @@ Let me complete the Northeast hazards file:
 
 **Immediate (within 24-48 hours):**
 - Tick was attached >24 hours AND you're in endemic area
-  - **Prophylactic doxycycline:** Single 200mg dose (reduces Lyme risk by 87%)
+- **Prophylactic doxycycline:** Single 200mg dose (reduces Lyme risk by 87%)
 - Bull's-eye rash appears (ANY time after bite, 3-30 days)
 - Flu-like symptoms within 30 days of tick bite
 
@@ -469,7 +472,7 @@ Let me complete the Northeast hazards file:
 
 ---
 
-## 4. BLACK BEAR ENCOUNTERS
+## Black Bear
 
 ### Black Bear Population (Rebounding)
 
@@ -544,14 +547,14 @@ Let me complete the Northeast hazards file:
 
 #### Prevention (Best Defense)
 1. **Make noise while hiking:** Talk, clap, "Hey bear!" every minute
-   - Bears avoid humans if they hear you coming
-   - Surprise encounters most dangerous
+- Bears avoid humans if they hear you coming
+- Surprise encounters most dangerous
 2. **Travel in groups:** Groups rarely attacked
 3. **Avoid dawn/dusk/night:** Peak bear activity
 4. **Food storage:**
-   - **Bear canisters** (hard-sided, approved)
-   - **Bear bag hang:** 12+ ft high, 6+ ft from trunk (difficult, less reliable)
-   - **Never in tent:** Food, toiletries, scented items OUT
+- **Bear canisters** (hard-sided, approved)
+- **Bear bag hang:** 12+ ft high, 6+ ft from trunk (difficult, less reliable)
+- **Never in tent:** Food, toiletries, scented items OUT
 5. **Clean camp:** No food smells (wash dishes, store trash)
 
 #### If You See a Bear (Distance >100 ft)
@@ -579,21 +582,21 @@ Let me complete the Northeast hazards file:
 
 #### If Bear Contacts You (Defensive Attack)
 - **PLAY DEAD:**
-  - Lie flat on stomach OR curl in ball
-  - Hands behind neck (protect neck/head)
-  - Legs spread (harder to flip over)
-  - Stay still and silent
-  - Bear usually leaves once threat neutralized (you're "dead")
+- Lie flat on stomach OR curl in ball
+- Hands behind neck (protect neck/head)
+- Legs spread (harder to flip over)
+- Stay still and silent
+- Bear usually leaves once threat neutralized (you're "dead")
 - **Wait several minutes after bear leaves** (may be watching)
 
 #### If Bear Continues Attack (Predatory - Very Rare)
 - **FIGHT BACK:**
-  - This is NOT defensive (bear is hunting you)
-  - Signs: Stalking before attack, continues attacking despite playing dead
-  - Use everything: Rocks, sticks, fists, kick
-  - Target: Eyes, nose (sensitive areas)
-  - Yell, scream (makes you seem not worth the effort)
-  - **Do NOT give up** (your life depends on it)
+- This is NOT defensive (bear is hunting you)
+- Signs: Stalking before attack, continues attacking despite playing dead
+- Use everything: Rocks, sticks, fists, kick
+- Target: Eyes, nose (sensitive areas)
+- Yell, scream (makes you seem not worth the effort)
+- **Do NOT give up** (your life depends on it)
 
 ---
 
@@ -613,7 +616,7 @@ Let me complete the Northeast hazards file:
 
 ---
 
-## 5. MOOSE ENCOUNTERS & COLLISIONS
+## Moose Encounters
 
 ### Moose Profile (Northern Northeast)
 
@@ -657,15 +660,15 @@ Let me complete the Northeast hazards file:
 - **Give 50+ ft space** (100+ ft if cow with calf or bull in rut)
 - **Never approach:** For photos, closer look
 - **Watch for warning signs:**
-  - Ears pinned back
-  - Raised hackles on neck
-  - Licking lips
-  - Aggressive posture (head down, eyes wide)
+- Ears pinned back
+- Raised hackles on neck
+- Licking lips
+- Aggressive posture (head down, eyes wide)
 - **If moose charges:**
-  - RUN and hide behind tree, large rock
-  - Moose won't follow around obstacle (usually)
-  - If knocked down: Curl in ball, protect head/neck
-  - Wait for moose to leave
+- RUN and hide behind tree, large rock
+- Moose won't follow around obstacle (usually)
+- If knocked down: Curl in ball, protect head/neck
+- Wait for moose to leave
 
 #### Vehicle Collisions (Major Hazard)
 
@@ -702,7 +705,7 @@ Let me complete the Northeast hazards file:
 
 ---
 
-## 6. COLD EXPOSURE (See Midwest for detailed cold protocols)
+## Cold Exposure
 
 **Northeast-specific factors:**
 - Mountains (White, Green, Adirondacks): Severe, rapid weather changes
@@ -718,10 +721,11 @@ Let me complete the Northeast hazards file:
 
 ---
 
-## Regional Hazard Summary
+## Regional Hazards
 
 ### Monthly Hazard Calendar
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Month | Primary Threats | Secondary Threats | Activity Guidance |
 |-------|----------------|-------------------|-------------------|
 | Jan | Nor'easters, extreme cold | Ice storms, cold exposure | Highest winter danger |

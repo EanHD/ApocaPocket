@@ -178,11 +178,11 @@
 - **l3-communication-radio-protocols.md:** Example of procedural learning
 
 ## Sources
-- Ebbinghaus, H. (1885). *Memory: A Contribution to Experimental Psychology*
+- Ebbinghaus, H. (1885). Memory: A Contribution to Experimental Psychology
 - Miller, G. A. (1956). "The Magical Number Seven, Plus or Minus Two"
 - Roediger & Karpicke (2006). "Test-Enhanced Learning"
-- Kaufman, J. (2013). *The First 20 Hours*
-- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*
+- Kaufman, J. (2013). The First 20 Hours
+- Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience
 
 ## Quick Reference Card
 

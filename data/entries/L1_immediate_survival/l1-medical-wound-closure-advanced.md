@@ -100,6 +100,7 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ### "Golden Period" for Primary Closure
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Body Location | Maximum Time Since Injury | Reason |
 |---------------|---------------------------|---------|
 | Face/scalp | 24 hours | Excellent blood supply, low infection risk |
@@ -112,20 +113,20 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ---
 
-## Pre-Closure Preparation
+## Pre-Closure
 
 ### 1. Anesthesia (Pain Control)
 
 **Local anesthetic options:**
 - **Lidocaine 1%** (most common)
-  - Onset: 2-5 minutes
-  - Duration: 1-2 hours
-  - Maximum dose: 4.5 mg/kg (plain) or 7 mg/kg (with epinephrine)
-  - Example: 70kg adult = 315mg max (plain) = 31.5mL of 1% solution
+- Onset: 2-5 minutes
+- Duration: 1-2 hours
+- Maximum dose: 4.5 mg/kg (plain) or 7 mg/kg (with epinephrine)
+- Example: 70kg adult = 315mg max (plain) = 31.5mL of 1% solution
 - **Lidocaine with epinephrine** (1:100,000 or 1:200,000)
-  - Epinephrine causes vasoconstriction (less bleeding, longer duration)
-  - **NEVER use on fingers, toes, nose, ears, penis** (can cause tissue death from lack of blood flow)
-  - Duration: 3-6 hours
+- Epinephrine causes vasoconstriction (less bleeding, longer duration)
+- **NEVER use on fingers, toes, nose, ears, penis** (can cause tissue death from lack of blood flow)
+- Duration: 3-6 hours
 
 **Injection technique:**
 - Use 25-27 gauge needle (small, less painful)
@@ -149,17 +150,17 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 **Irrigation:**
 - **Pressure:** 8-12 PSI (pounds per square inch) - forceful jet
-  - Use 30-60mL syringe with 18-19 gauge needle/catheter
-  - Or: Squeeze water bottle with small hole poked in cap
+- Use 30-60mL syringe with 18-19 gauge needle/catheter
+- Or: Squeeze water bottle with small hole poked in cap
 - **Volume:** Minimum 200-500mL (more for dirty wounds)
-  - 1L+ for heavily contaminated wounds
+- 1L+ for heavily contaminated wounds
 - **Solution:** 
-  - Sterile saline or clean tap water (equally effective)
-  - NOT hydrogen peroxide or betadine inside wound (damages tissue)
+- Sterile saline or clean tap water (equally effective)
+- NOT hydrogen peroxide or betadine inside wound (damages tissue)
 - **Technique:**
-  - Direct jet across wound at 45-degree angle (flushes debris out)
-  - Irrigate all wound surfaces and depths
-  - Continue until water runs clear
+- Direct jet across wound at 45-degree angle (flushes debris out)
+- Irrigate all wound surfaces and depths
+- Continue until water runs clear
 
 **Scrubbing:**
 - Use sterile gauze or soft brush
@@ -186,6 +187,7 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ### Suture Types
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Examples | Absorption | Tensile Strength | Best For |
 |------|----------|------------|------------------|----------|
 | **Absorbable (dissolve)** | Vicryl, Dexon, Monocryl | 60-90 days | Moderate, decreases over time | Deep layers, mucous membranes, areas hard to remove sutures (children, mouth) |
@@ -245,19 +247,19 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 ### Universal Suture Principles
 
 1. **Evert wound edges** (roll outward slightly)
-   - Edges that touch heal better than inverted edges
-   - Inverted edges = depressed scar
+- Edges that touch heal better than inverted edges
+- Inverted edges = depressed scar
 2. **Match dermis to dermis** (deep layer to deep layer)
-   - Reduces tension on skin sutures
+- Reduces tension on skin sutures
 3. **Equal bites** (same depth/width on each side)
-   - Prevents lopsided scars
+- Prevents lopsided scars
 4. **Appropriate spacing:**
-   - Distance between sutures = width of suture from wound edge
-   - Too close = ischemia (tissue death)
-   - Too far = gaping, poor healing
+- Distance between sutures = width of suture from wound edge
+- Too close = ischemia (tissue death)
+- Too far = gaping, poor healing
 5. **Minimal tension:**
-   - Knots should just approximate edges (not strangle tissue)
-   - "Just kiss the edges together"
+- Knots should just approximate edges (not strangle tissue)
+- "Just kiss the edges together"
 
 ### 1. Simple Interrupted Suture (Most Common)
 
@@ -289,14 +291,14 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 **Technique:**
 1. **Far-far bite (wide and deep):**
-   - Insert needle 8-10mm from wound edge
-   - Pass deep through dermis and subcutaneous tissue
-   - Exit 8-10mm from opposite edge
+- Insert needle 8-10mm from wound edge
+- Pass deep through dermis and subcutaneous tissue
+- Exit 8-10mm from opposite edge
 2. **Reverse direction** - come back across wound
 3. **Near-near bite (shallow and close):**
-   - Re-insert 2-3mm from edge (same side as exit)
-   - Pass shallow through dermis only
-   - Exit 2-3mm from opposite edge (starting side)
+- Re-insert 2-3mm from edge (same side as exit)
+- Pass shallow through dermis only
+- Exit 2-3mm from opposite edge (starting side)
 4. Tie knot on starting side
 
 **Spacing:** 8-12mm apart
@@ -389,11 +391,11 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 **Technique:**
 1. Tie knot at bottom of wound (inverted stitch)
-   - Enter at base of wound on one side
-   - Exit at surface of dermis (do not penetrate skin)
-   - Cross wound
-   - Enter at surface of dermis opposite side
-   - Exit at base of wound
+- Enter at base of wound on one side
+- Exit at surface of dermis (do not penetrate skin)
+- Cross wound
+- Enter at surface of dermis opposite side
+- Exit at base of wound
 2. Tie knot - knot gets buried (won't poke out of skin)
 3. Close deeper layer before superficial
 
@@ -493,7 +495,7 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ---
 
-## Tissue Adhesive (Dermabond, Liquid Stitches)
+## Tissue Adhesive
 
 ### When to Use Tissue Adhesive
 
@@ -544,9 +546,9 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 **Field alternative:** Super glue (cyanoacrylate)
 - Dermabond IS medical-grade cyanoacrylate
 - Regular super glue (Krazy Glue, Loctite) works but:
-  - More toxic (formaldehyde release)
-  - More exothermic (heat generation - burns)
-  - Less flexible (cracks easier)
+- More toxic (formaldehyde release)
+- More exothermic (heat generation - burns)
+- Less flexible (cracks easier)
 - **Use ONLY if no other option** - medical grade much safer
 
 ---
@@ -585,7 +587,7 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ---
 
-## Wound Care and Suture Removal
+## Wound Care & Suture
 
 ### Post-Closure Instructions
 
@@ -607,6 +609,7 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ### Suture Removal Timing
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Location | Days Until Removal | Reason |
 |----------|-------------------|---------|
 | **Face** | 3-5 days | Excellent blood supply, minimal tension, early removal prevents suture marks |
@@ -735,20 +738,19 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Closing contaminated wound immediately | Clean thoroughly, consider delayed closure in 3-5 days |
-| Tying sutures too tight (blanching skin) | Just approximate edges - skin should remain pink |
-| Placing sutures too close together (<3mm) | Space 5-10mm apart (prevents ischemia) |
-| Using absorbable suture on skin | Non-absorbable (nylon, Prolene) for skin (absorbable loses strength too fast) |
-| Inverting wound edges (edges roll inward) | Evert edges (roll outward slightly) - heals better, less depression |
-| Closing wounds under tension | Undermine or accept smaller closure (tension = dehiscence) |
-| Removing all sutures at once | Remove every other suture first (test wound strength) |
-| Not using deep sutures in deep wounds | Deep sutures reduce tension, close dead space |
-| Suturing bites (body/extremities) | Bites have 50% infection rate - leave open, delayed closure, antibiotics |
-| Shaving skin around wound | Trim long hair, don't shave (increases infection risk) |
+**❌ Mistake:** ✓ Correct
+**Closing contaminated wound immediately:** Clean thoroughly, consider delayed closure in 3-5 days
+**Tying sutures too tight (blanching skin):** Just approximate edges - skin should remain pink
+**Placing sutures too close together (<3mm):** Space 5-10mm apart (prevents ischemia)
+**Using absorbable suture on skin:** Non-absorbable (nylon, Prolene) for skin (absorbable loses strength too fast)
+**Inverting wound edges (edges roll inward):** Evert edges (roll outward slightly) - heals better, less depression
+**Closing wounds under tension:** Undermine or accept smaller closure (tension = dehiscence)
+**Removing all sutures at once:** Remove every other suture first (test wound strength)
+**Not using deep sutures in deep wounds:** Deep sutures reduce tension, close dead space
+**Suturing bites (body/extremities):** Bites have 50% infection rate - leave open, delayed closure, antibiotics
+**Shaving skin around wound:** Trim long hair, don't shave (increases infection risk)
 
 ---
 
@@ -816,7 +818,7 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ---
 
-## When to Seek Advanced Medical Care
+## Seek Advanced Care
 
 **Immediate evacuation needed:**
 - Signs of necrotizing fasciitis (gas gangrene): Rapid spreading redness, severe pain out of proportion, blistering, crepitus (crackling under skin), fever, shock

@@ -33,6 +33,6 @@ steps:
 - 'CALENDAR: Know frost dates. Plant cool-season crops (lettuce, peas) early spring and fall. Warm-season (tomatoes, peppers) after last frost.'
 ---
 
-# Vegetable Garden Planning — Layout, Crop Selection, Rotation
+# Veg Garden Plan
 
 Plan garden for continuous harvest and soil health. Crop rotation prevents disease. Succession planting (plant every 2 weeks) provides steady supply. Prioritize high-calorie, storable crops (potatoes, beans, squash). Consider climate and season length.

@@ -6,13 +6,13 @@ tags: ["heart-attack", "cardiac", "chest-pain", "myocardial-infarction", "aspiri
 confidence: "high"
 region: "global"
 sources:
-  - "american-heart-association-stemi-guidelines"
-  - "aha-heart-attack-warning-signs"
-  - "emergency-cardiology-protocols"
+- "american-heart-association-stemi-guidelines"
+- "aha-heart-attack-warning-signs"
+- "emergency-cardiology-protocols"
 related:
-  - "l1-medical-cpr-basics"
-  - "l1-medical-stroke-recognition"
-  - "l1-medical-shock-recognition"
+- "l1-medical-cpr-basics"
+- "l1-medical-stroke-recognition"
+- "l1-medical-shock-recognition"
 ---
 
 # Heart Attack Recognition & Response
@@ -25,7 +25,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ---
 
-## Classic vs Atypical Symptoms
+## Classic vs Atyp
 
 ### Classic Symptoms (60% of cases)
 
@@ -53,6 +53,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 **Women are MORE likely to have atypical symptoms:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Symptom | Women | Men |
 |---------|-------|-----|
 | **Chest pain** | 60% | 80% |
@@ -71,10 +72,11 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ---
 
-## Differentiating from Other Conditions
+## Differentiating
 
 ### Heart Attack vs Angina
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Angina | Heart Attack |
 |---------|--------|--------------|
 | **Duration** | <5 minutes | >5 minutes (often 20-30+ min) |
@@ -88,6 +90,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ### Heart Attack vs Anxiety/Panic Attack
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Anxiety | Heart Attack |
 |---------|---------|--------------|
 | **Chest pain type** | Sharp, stabbing, localized | Pressure, squeezing, diffuse |
@@ -102,6 +105,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ### Heart Attack vs GERD (Heartburn)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | GERD | Heart Attack |
 |---------|------|--------------|
 | **Location** | Behind breastbone, upper abdomen | Chest center, may radiate |
@@ -114,17 +118,15 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ---
 
-## HEART Score (Risk Stratification)
+## HEART Score
 
 **Estimate risk of Major Adverse Cardiac Event (MACE) in next 6 weeks:**
 
-| Factor | Points |
-|--------|--------|
-| **History:** Low risk = 0, Moderate = 1, High = 2 | 0-2 |
-| **EKG:** Normal = 0, Non-specific changes = 1, Significant = 2 | 0-2 |
-| **Age:** <45 = 0, 45-64 = 1, ≥65 = 2 | 0-2 |
-| **Risk factors:** None = 0, 1-2 factors = 1, ≥3 factors = 2 | 0-2 |
-| **Troponin:** Normal = 0, 1-3x normal = 1, >3x normal = 2 | 0-2 |
+****History:** Low risk = 0, Moderate = 1, High = 2:** 0-2
+****EKG:** Normal = 0, Non-specific changes = 1, Significant = 2:** 0-2
+****Age:** <45 = 0, 45-64 = 1, ≥65 = 2:** 0-2
+****Risk factors:** None = 0, 1-2 factors = 1, ≥3 factors = 2:** 0-2
+****Troponin:** Normal = 0, 1-3x normal = 1, >3x normal = 2:** 0-2
 
 **Risk factors:** Hypertension, high cholesterol, diabetes, smoking, family history, obesity
 
@@ -139,7 +141,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ---
 
-## Emergency Treatment (First 30 Minutes)
+## Emergency Care
 
 ### Step 1: Aspirin (IMMEDIATELY)
 
@@ -220,6 +222,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 **Heart attack can progress to cardiac arrest:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Time | Event | Action |
 |------|-------|--------|
 | 0-15 min | Chest pain, stable | Aspirin, nitroglycerin, monitor |
@@ -247,6 +250,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 **"Time is Muscle":**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Time to Treatment | Mortality | Heart Damage |
 |-------------------|-----------|--------------|
 | **<1 hour** | 5% | Minimal (10-20% of muscle) |
@@ -285,7 +289,7 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ---
 
-## Risk Factors (Know Your Risk)
+## Risk Factors
 
 **Major risk factors:**
 - Age (men >45, women >55)

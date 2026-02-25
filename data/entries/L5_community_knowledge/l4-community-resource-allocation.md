@@ -1,4 +1,4 @@
-# Community Resource Allocation
+# Community Resources
 
 **Category:** L4 - Community Dynamics  
 **Survival Importance:** CRITICAL - Unfair distribution destroys communities faster than scarcity  
@@ -9,7 +9,7 @@
 
 ## Why This Matters
 
-**The Allocation Paradox:** Communities often have enough resources to survive, but fail because of how they distribute them. History shows that *perceived unfairness* causes more conflict than actual scarcity.
+**The Allocation Paradox:** Communities often have enough resources to survive, but fail because of how they distribute them. History shows that perceived unfairness causes more conflict than actual scarcity.
 
 **Research Foundation:**
 - **Equity Theory (Adams, 1965):** People compare inputs (work) to outputs (rewards). Perceived unfairness triggers resentment.
@@ -24,7 +24,7 @@
 
 ---
 
-## Core Allocation Methods
+## Core Alloc Meth
 
 ### Method 1: Equal Shares (Egalitarian)
 **Principle:** Everyone gets exactly the same, regardless of contribution
@@ -144,16 +144,16 @@ Total: 100 labor credits worth of goods
 
 **Tiered Allocation Model:**
 1. **Tier 1 - Basic Survival Needs:** Equal or need-based
-   - Water, staple food, basic shelter, essential medicine
-   - Principle: "No one goes without"
+- Water, staple food, basic shelter, essential medicine
+- Principle: "No one goes without"
 
 2. **Tier 2 - Standard Living:** Contribution-based with floor
-   - Better food, clothing, personal items
-   - Principle: "Contribute to get more, but everyone gets minimum"
+- Better food, clothing, personal items
+- Principle: "Contribute to get more, but everyone gets minimum"
 
 3. **Tier 3 - Luxuries:** Pure contribution-based or market
-   - Coffee, chocolate, alcohol, entertainment
-   - Principle: "Extras are earned"
+- Coffee, chocolate, alcohol, entertainment
+- Principle: "Extras are earned"
 
 **Pros:**
 - Balances fairness and motivation
@@ -214,6 +214,7 @@ Tier 3 (Earned):
 
 **Labor Credit Multipliers:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Work Type | Multiplier | Reasoning |
 |-----------|------------|-----------|
 | **Standard work** (gardening, cooking, cleaning) | 1.0x | Baseline |
@@ -296,6 +297,7 @@ Week 11: Back to Person A
 
 **Example Matrix:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Person | Skills | Prefers | Assigned |
 |--------|--------|---------|----------|
 | Alex | Medical, teaching | Medical | 70% medical, 20% teaching, 10% garden |
@@ -384,10 +386,10 @@ Transaction:
 3. **Buffer stocks:** Emergency reserves reduce scarcity panic
 4. **Random audits:** Knowing checks happen deters theft
 5. **Graduated sanctions (Ostrom):**
-   - 1st offense: Warning + return item
-   - 2nd offense: Loss of privileges (Tier 2 access)
-   - 3rd offense: Serious consequences (extra work, temporary exile)
-   - Violence/dangerous theft: Immediate separation
+- 1st offense: Warning + return item
+- 2nd offense: Loss of privileges (Tier 2 access)
+- 3rd offense: Serious consequences (extra work, temporary exile)
+- Violence/dangerous theft: Immediate separation
 
 **Cultural Prevention:**
 - Normalize asking for help (reduce shame → reduce secret hoarding)
@@ -396,7 +398,7 @@ Transaction:
 
 ---
 
-## Rationing Protocols (Scarcity Management)
+## Ration Protocols
 
 ### When to Trigger Rationing
 
@@ -488,6 +490,7 @@ Must present at distribution
 
 **Tiered Reduction Protocol:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Severity | Tier 1 (Survival) | Tier 2 (Standard) | Tier 3 (Luxury) |
 |----------|-------------------|-------------------|-----------------|
 | **Normal** | 100% (2000 cal) | Available | Available |
@@ -506,7 +509,7 @@ Must present at distribution
 
 ---
 
-## Abundance Management (The Opposite Problem)
+## Abundance Management
 
 **Surprise Reality:** Abundance can also cause problems (spoilage, waste, conflict over surplus distribution)
 
@@ -565,7 +568,7 @@ Exchange surplus for other needs with neighboring communities
 
 ---
 
-## Inter-Community Trade Systems
+## Inter-Comm Trade
 
 ### Barter Economy Basics
 
@@ -639,7 +642,7 @@ You have chickens, need medicine → Must find someone who has medicine AND want
 
 ---
 
-## Dispute Resolution for Allocation Conflicts
+## Dispute Resol
 
 ### Common Disputes
 
@@ -753,7 +756,7 @@ You have chickens, need medicine → Must find someone who has medicine AND want
 
 ---
 
-## Emergency Reserve Management
+## Emergency Reserves
 
 ### The Reserve Principle
 **"Hope for the best, plan for the worst"**
@@ -793,7 +796,7 @@ You have chickens, need medicine → Must find someone who has medicine AND want
 
 ---
 
-## Documentation and Record-Keeping
+## Doc & Rec
 
 ### Essential Records
 
@@ -922,7 +925,7 @@ Next count: Mar 1, 2026
 
 ---
 
-## Quick Reference: Resource Allocation Decision Tree
+## QRD
 
 ```
 NEW RESOURCE ACQUIRED
@@ -944,7 +947,7 @@ Document allocation + distribute + monitor
 
 ---
 
-## Critical Principles Summary
+## Critical Summ
 
 ✓ **Fairness perception matters more than actual fairness** - Communicate clearly  
 ✓ **Hybrid systems work best** - Different methods for different resources  
@@ -958,28 +961,28 @@ Document allocation + distribute + monitor
 
 ---
 
-## Sources & Further Reading
+## Sources
 
 **Economic Theory:**
-- Adams, J. S. (1965). "Inequity in Social Exchange" in *Advances in Experimental Social Psychology*
-- Hardin, G. (1968). "The Tragedy of the Commons" in *Science*
-- Ostrom, E. (1990). *Governing the Commons*
+- Adams, J. S. (1965). "Inequity in Social Exchange" in Advances in Experimental Social Psychology
+- Hardin, G. (1968). "The Tragedy of the Commons" in Science
+- Ostrom, E. (1990). Governing the Commons
 
 **Historical Case Studies:**
-- Bradford, W. (1651). *Of Plymouth Plantation* (first-hand account)
-- Kanter, R. M. (1972). *Commitment and Community*
-- Whyte, W. F., & Whyte, K. K. (1991). *Making Mondragon*
+- Bradford, W. (1651). Of Plymouth Plantation (first-hand account)
+- Kanter, R. M. (1972). Commitment and Community
+- Whyte, W. F., & Whyte, K. K. (1991). Making Mondragon
 
 **Behavioral Economics:**
 - Kahneman, D., & Tversky, A. (1979). "Prospect Theory"
-- Thaler, R. H. (2015). *Misbehaving: The Making of Behavioral Economics*
+- Thaler, R. H. (2015). Misbehaving: The Making of Behavioral Economics
 
 **Practical Guides:**
-- Axelrod, R. (1984). *The Evolution of Cooperation*
-- Bollier, D. (2014). *Think Like a Commoner*
+- Axelrod, R. (1984). The Evolution of Cooperation
+- Bollier, D. (2014). Think Like a Commoner
 
 ---
 
-*Last Updated: 2026-02-19*  
-*Version: 1.0*  
-*Tested in: Cooperatives, intentional communities, disaster response, resource commons*
+Last Updated: 2026-02-19  
+Version: 1.0  
+Tested in: Cooperatives, intentional communities, disaster response, resource commons

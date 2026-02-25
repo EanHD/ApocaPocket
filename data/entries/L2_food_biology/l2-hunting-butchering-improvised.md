@@ -18,7 +18,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## Why Learn Primitive Butchering?
+## Learn Butchery
 
 **Scenarios Where This Matters:**
 1. Knife is lost, broken, or stolen
@@ -31,7 +31,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🔪 Stone Knives (Primary Cutting Tool)
+## Stone Knives
 
 ### Finding & Selecting Stone
 
@@ -158,7 +158,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🧤 Hide Removal (No Knife)
+## Hide Removal
 
 **Stone Knife Method** (Standard):
 - Use stone blade same as steel knife
@@ -184,7 +184,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🥩 Butchering Techniques (Stone Tools)
+## Butchering Tech
 
 ### Quartering (Breaking Down Carcass)
 
@@ -225,7 +225,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🪢 Sinew Extraction (Critical Survival Material)
+## Sinew Extraction
 
 **What is Sinew?**
 - Tendon (connects muscle to bone)
@@ -260,7 +260,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🦴 Bone Tool Materials (What to Save)
+## Bone Tools
 
 **High-Value Bones**:
 
@@ -292,7 +292,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🧠 Brain Tanning (Hide Preservation)
+## Brain Tanning
 
 **Why Brains?**
 - Every animal has enough brain to tan its own hide (nature's rule)
@@ -311,8 +311,9 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## ⚡ Efficiency Comparison (Stone vs Steel)
+## Eff Comp
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Task | Steel Knife | Stone Knife | Stone + No Knife |
 |------|-------------|-------------|------------------|
 | **Field Dressing** | 20-30 min | 40-60 min | 60-90 min |
@@ -325,7 +326,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🛠️ Improvised Tool Kit (One Animal Processed)
+## Improvised Tool Kit
 
 **After butchering one deer with stone tools, you can make:**
 
@@ -355,7 +356,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🪨 Stone Tool Maintenance
+## Stone Tools
 
 **Resharpening Stone Blades:**
 - Strike edge with hammerstone (knocks off dull edge, exposes fresh sharp edge)
@@ -371,7 +372,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 📋 Primitive Butchering Checklist
+## Butcher Chk
 
 **Before Starting:**
 - [ ] Stone blade or sharp flake (multiple backups)
@@ -397,7 +398,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🧑‍🏫 Learning Progression
+## Learning Progression
 
 **Beginner** (Practice at Home, Modern Backup Available):
 1. Try butchering chicken with stone flake (low stakes, small animal)
@@ -423,7 +424,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ---
 
-## 🌍 Historical Context (Our Ancestors Were Efficient)
+## Historical Context
 
 **Paleolithic Humans (30,000 years ago):**
 - Processed mammoths, woolly rhinos, bison (10,000+ lb animals)
@@ -442,16 +443,16 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ## 📚 Sources
 
-- *Primitive Wilderness Living & Survival Skills*, John & Geri McPherson (comprehensive primitive butchering, tool making)
-- *The Archaeology of Weapons*, R. Ewart Oakeshott (stone tool evolution, efficiency)
-- *Deerskins into Buckskins*, Matt Richards (brain-tanning process, hide work)
-- *Brain Tan Buckskin*, Traditional Tanners (step-by-step hide processing)
-- *Participating in Nature*, Thomas J. Elpel (stone tool making, primitive skills)
+- Primitive Wilderness Living & Survival Skills, John & Geri McPherson (comprehensive primitive butchering, tool making)
+- The Archaeology of Weapons, R. Ewart Oakeshott (stone tool evolution, efficiency)
+- Deerskins into Buckskins, Matt Richards (brain-tanning process, hide work)
+- Brain Tan Buckskin, Traditional Tanners (step-by-step hide processing)
+- Participating in Nature, Thomas J. Elpel (stone tool making, primitive skills)
 - Archaeological evidence (Clovis sites, mammoth kills, tool analysis)
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Stone Blade Types - Flake Selection"**
 - 5-6 stone flakes (different shapes, sizes)
@@ -495,7 +496,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 **Final Thought**: Modern tools are a luxury, not a necessity. Humans thrived for 200,000 years with stone, bone, and ingenuity. 
 
-**You don't need to go primitive by choice.** But knowing you *could* is powerful. When your knife breaks 50 miles from help, you'll remember this.
+**You don't need to go primitive by choice.** But knowing you could is powerful. When your knife breaks 50 miles from help, you'll remember this.
 
 **Our ancestors weren't helpless. Neither are you.**
 

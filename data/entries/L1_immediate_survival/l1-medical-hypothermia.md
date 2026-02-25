@@ -41,6 +41,7 @@ Hypothermia occurs when core body temperature drops below 95°F (35°C). Without
 
 **Hypothermia stages:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stage | Core Temp | Signs | Mental Status | Shivering |
 |-------|-----------|-------|---------------|-----------|
 | **Mild** | 90-95°F (32-35°C) | Cold skin, shivering, pale | Alert, confused | Strong |
@@ -78,7 +79,7 @@ Hypothermia occurs when core body temperature drops below 95°F (35°C). Without
 
 **Critical rule:** "No one is dead until they are warm and dead" - continue CPR until victim reaches hospital
 
-## Step-by-Step Treatment Protocol
+## Step-by-Step Protocol
 
 ### 1. Remove from Cold Environment (Immediate)
 - Get victim out of wind, rain, snow
@@ -138,94 +139,94 @@ Hypothermia occurs when core body temperature drops below 95°F (35°C). Without
 **Active rewarming is safe:**
 
 1. **Warm drinks** (if fully alert):
-   - Hot, sweet liquids (hot chocolate, sugar water, tea with sugar)
-   - 8-12 oz every 15 minutes
-   - Do NOT give alcohol (causes vasodilation, worsens hypothermia)
-   - Do NOT give caffeine (increases urine output, causes dehydration)
+- Hot, sweet liquids (hot chocolate, sugar water, tea with sugar)
+- 8-12 oz every 15 minutes
+- Do NOT give alcohol (causes vasodilation, worsens hypothermia)
+- Do NOT give caffeine (increases urine output, causes dehydration)
 
 2. **High-energy food:**
-   - Chocolate, candy, energy bars
-   - Simple carbs for quick energy
-   - Fat/protein for sustained energy
+- Chocolate, candy, energy bars
+- Simple carbs for quick energy
+- Fat/protein for sustained energy
 
 3. **Heat sources:**
-   - Chemical heat packs to core areas:
-     - Neck (carotid arteries)
-     - Armpits (axillary arteries)
-     - Groin (femoral arteries)
-   - **NOT directly on skin** (wrap in cloth)
-   - Warm water bottles (100-110°F / 38-43°C)
-   - Body-to-body heat (skin-to-skin in sleeping bag)
+- Chemical heat packs to core areas:
+- Neck (carotid arteries)
+- Armpits (axillary arteries)
+- Groin (femoral arteries)
+- **NOT directly on skin** (wrap in cloth)
+- Warm water bottles (100-110°F / 38-43°C)
+- Body-to-body heat (skin-to-skin in sleeping bag)
 
 4. **Light exercise:**
-   - Only if fully alert and coordinated
-   - Gentle movements (arm circles, leg lifts)
-   - Generates internal heat through shivering
+- Only if fully alert and coordinated
+- Gentle movements (arm circles, leg lifts)
+- Generates internal heat through shivering
 
 #### Moderate Hypothermia (Drowsy, Shivering Stopped)
 
 **Passive rewarming only:**
 
 1. **Insulate aggressively:**
-   - Sleeping bag + blankets
-   - Head covering
-   - Ground insulation
-   - Vapor barrier
+- Sleeping bag + blankets
+- Head covering
+- Ground insulation
+- Vapor barrier
 
 2. **Body-to-body heat:**
-   - Two rescuers, one on each side
-   - Skin-to-skin contact inside sleeping bag
-   - Focus on core (chest, back)
+- Two rescuers, one on each side
+- Skin-to-skin contact inside sleeping bag
+- Focus on core (chest, back)
 
 3. **Do NOT:**
-   - ❌ Give anything by mouth (aspiration risk)
-   - ❌ Apply direct heat (hot packs, fire) - causes "afterdrop"
-   - ❌ Rub or massage limbs
-   - ❌ Give alcohol
-   - ❌ Allow victim to walk
+- ❌ Give anything by mouth (aspiration risk)
+- ❌ Apply direct heat (hot packs, fire) - causes "afterdrop"
+- ❌ Rub or massage limbs
+- ❌ Give alcohol
+- ❌ Allow victim to walk
 
 4. **Monitor closely:**
-   - Check pulse/breathing every 5 minutes
-   - Watch for further deterioration
-   - Be ready to start CPR
+- Check pulse/breathing every 5 minutes
+- Watch for further deterioration
+- Be ready to start CPR
 
 5. **Evacuate urgently:**
-   - Arrange helicopter rescue if available
-   - Carry victim on stretcher (do not let walk)
-   - Keep horizontal during transport
+- Arrange helicopter rescue if available
+- Carry victim on stretcher (do not let walk)
+- Keep horizontal during transport
 
 #### Severe Hypothermia (Unconscious, No Shivering)
 
 **This is a medical emergency - survival depends on advanced care**
 
 1. **Check for pulse/breathing (60 seconds):**
-   - Pulse may be very slow, very weak
-   - Breathing may be very shallow
-   - Check carotid pulse for full 60 seconds
+- Pulse may be very slow, very weak
+- Breathing may be very shallow
+- Check carotid pulse for full 60 seconds
 
 2. **If pulse present (alive):**
-   - Handle EXTREMELY gently
-   - Keep horizontal at all times
-   - Insulate aggressively
-   - Do NOT attempt active rewarming
-   - Immediate evacuation
-   - Monitor continuously
+- Handle EXTREMELY gently
+- Keep horizontal at all times
+- Insulate aggressively
+- Do NOT attempt active rewarming
+- Immediate evacuation
+- Monitor continuously
 
 3. **If no pulse detected:**
-   - **Start CPR immediately**
-   - Hypothermic hearts can be restarted after hours
-   - Continue CPR until:
-     - Victim reaches hospital
-     - You are physically exhausted
-     - Definite signs of death (rigor mortis)
-   - Do NOT stop CPR in field
+- **Start CPR immediately**
+- Hypothermic hearts can be restarted after hours
+- Continue CPR until:
+- Victim reaches hospital
+- You are physically exhausted
+- Definite signs of death (rigor mortis)
+- Do NOT stop CPR in field
 
 4. **CPR modifications for severe hypothermia:**
-   - Check pulse for 60 seconds before starting (slow pulse may exist)
-   - Standard compression rate (100-120/min)
-   - Standard depth (2-2.4 inches)
-   - May feel "stiff" - compress anyway
-   - Continue even if appears futile
+- Check pulse for 60 seconds before starting (slow pulse may exist)
+- Standard compression rate (100-120/min)
+- Standard depth (2-2.4 inches)
+- May feel "stiff" - compress anyway
+- Continue even if appears futile
 
 ## Critical DO NOTs
 
@@ -266,9 +267,9 @@ Hypothermia occurs when core body temperature drops below 95°F (35°C). Without
 ### Immersion Hypothermia (Cold Water)
 - Much faster onset than air exposure
 - "1-10-1 rule":
-  - 1 minute: cold shock, gasping
-  - 10 minutes: useful movement
-  - 1 hour: unconsciousness
+- 1 minute: cold shock, gasping
+- 10 minutes: useful movement
+- 1 hour: unconsciousness
 - Get victim out of water immediately
 - Remove wet clothes and rewarm
 - Monitor for hours (delayed complications)

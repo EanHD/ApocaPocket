@@ -53,6 +53,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Beekeeping — Top-Bar Hive Construction and Management
+# Beekeeping: Top-Bar Hives
 
 Bees provide honey (long-term calorie storage), beeswax (candles, waterproofing, lubricant), and pollination (increases crop yields 30-70%). A top-bar hive requires no special equipment — just a wooden box with angled bars. Bees can be captured from wild colonies.

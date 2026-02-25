@@ -1,4 +1,4 @@
-# Animal Husbandry: Goats - L4 Agriculture
+# Goat Husb
 
 **Priority: HIGH** | **Difficulty: Medium** | **Impact: Milk, meat, leather, brush clearing**
 
@@ -30,10 +30,11 @@ Goats are the versatile homestead animal: milk, meat, fiber, leather, and brush 
 - Goats vs Cows: 1/10 feed, 1/4 milk, 1/10 space, easier handling
 - Goats vs Sheep: Better browsers, less wool, higher milk production, more personable
 
-## Breeds: Choose Your Purpose
+## Choose Your Breed
 
 ### Dairy Breeds (Milk Production)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Breed | Milk/Day | Fat % | Size | Temperament | Notes |
 |-------|----------|-------|------|-------------|-------|
 | **Saanen** | 1-2 gal | 3-4% | Large (150 lbs) | Calm | Highest producer, white, heat-sensitive |
@@ -46,6 +47,7 @@ Goats are the versatile homestead animal: milk, meat, fiber, leather, and brush 
 
 ### Meat Breeds
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Breed | Mature Weight | Growth Rate | Notes |
 |-------|--------------|-------------|-------|
 | **Boer** | 200-340 lbs | Fast | Purpose-bred for meat, muscular |
@@ -56,6 +58,7 @@ Goats are the versatile homestead animal: milk, meat, fiber, leather, and brush 
 
 ### Fiber Breeds
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Breed | Fiber Type | Yield/Year | Notes |
 |-------|-----------|------------|-------|
 | **Angora** | Mohair | 8-16 lbs | Requires shearing 2x/year |
@@ -75,23 +78,23 @@ Goats are the versatile homestead animal: milk, meat, fiber, leather, and brush 
 
 **Features:**
 1. **Three-sided structure** (minimum)
-   - Protects from wind, rain, snow
-   - Open side facing away from prevailing winds
-   - Full barn not required (goats are hardy)
+- Protects from wind, rain, snow
+- Open side facing away from prevailing winds
+- Full barn not required (goats are hardy)
 
 2. **Dry bedding:** Straw, wood shavings (deep litter method)
-   - Change/add weekly (keep dry)
-   - Remove completely 1-2x/year
+- Change/add weekly (keep dry)
+- Remove completely 1-2x/year
 
 3. **Elevated sleeping platforms** (optional but preferred)
-   - Goats like to be off ground
-   - 2-4 ft high, sturdy (goats jump)
+- Goats like to be off ground
+- 2-4 ft high, sturdy (goats jump)
 
 4. **Ventilation:** Good airflow (prevent respiratory disease)
-   - No drafts at goat level
+- No drafts at goat level
 
 5. **Separate kidding pen** (10×10 ft)
-   - Quiet, clean, warm (for birthing)
+- Quiet, clean, warm (for birthing)
 
 ### Fencing (CRITICAL)
 
@@ -100,25 +103,25 @@ Goats are the versatile homestead animal: milk, meat, fiber, leather, and brush 
 **Options (ranked):**
 
 1. **Woven wire (best):**
-   - 4-5 ft high (goats jump)
-   - Small openings (goats squeeze through)
-   - Buried 6" or apron (prevent digging under)
-   - Electric wire on top (prevent jumping/climbing)
+- 4-5 ft high (goats jump)
+- Small openings (goats squeeze through)
+- Buried 6" or apron (prevent digging under)
+- Electric wire on top (prevent jumping/climbing)
 
 2. **Electric fence (effective if trained):**
-   - 5-6 strands, 8-12" spacing
-   - Lowest wire 6" from ground
-   - Train goats young (they learn to respect it)
-   - **Requires maintenance** (weeds short, charger working)
+- 5-6 strands, 8-12" spacing
+- Lowest wire 6" from ground
+- Train goats young (they learn to respect it)
+- **Requires maintenance** (weeds short, charger working)
 
 3. **Chain link (expensive but permanent):**
-   - 5-6 ft high
-   - Very secure
+- 5-6 ft high
+- Very secure
 
 4. **Cattle panels (temporary/moveable):**
-   - 4×16 ft panels, 4" openings
-   - Sturdy, good for rotational grazing
-   - Zip-tie to T-posts
+- 4×16 ft panels, 4" openings
+- Sturdy, good for rotational grazing
+- Zip-tie to T-posts
 
 **❌ DON'T USE:**
 - Barbed wire (injury risk, goats tangle)
@@ -206,8 +209,8 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 2. **Gestation:** 5 months (145-155 days)
 3. **Kidding:** Spring (Feb-May)
 4. **Lactation:** 10-12 months (begins after kidding)
-   - **Peak:** 6-8 weeks after kidding (1.5-2 gal/day)
-   - **Decline:** Gradually decreases over 10 months
+- **Peak:** 6-8 weeks after kidding (1.5-2 gal/day)
+- **Decline:** Gradually decreases over 10 months
 5. **Dry period:** 2 months before next kidding (rest udder)
 
 **To Maintain Milk:**
@@ -216,6 +219,7 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 
 ### Milk Production by Stage
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stage | Weeks After Kidding | Milk/Day (Average Doe) |
 |-------|---------------------|------------------------|
 | Early lactation | 0-2 | 1/2 - 1 quart |
@@ -235,7 +239,7 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 
 **Setup:**
 1. **Milk stand:** Elevated platform with head stanchion
-   - Goat steps up, head secured (eats grain during milking)
+- Goat steps up, head secured (eats grain during milking)
 2. **Clean udder:** Warm water + cloth or udder wipes
 3. **Strip first squirts:** Into separate container (check for mastitis)
 
@@ -258,7 +262,7 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 **Immediately After Milking:**
 1. **Strain:** Through milk filter or cheesecloth (remove hair, debris)
 2. **Chill rapidly:** Ice bath or refrigerator (within 30 minutes)
-   - Prevents "goaty" flavor (bacteria growth)
+- Prevents "goaty" flavor (bacteria growth)
 3. **Store:** Glass jars, refrigerate (7-10 days fresh)
 
 **Taste:**
@@ -289,15 +293,15 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 
 **Options:**
 1. **Own a buck:**
-   - **Pros:** Immediate breeding, genetic control
-   - **Cons:** Smell (STRONG), separate housing, aggressive
+- **Pros:** Immediate breeding, genetic control
+- **Cons:** Smell (STRONG), separate housing, aggressive
    
 2. **Rent/borrow a buck:**
-   - Take doe to buck's location for 24-48 hours
+- Take doe to buck's location for 24-48 hours
    
 3. **Artificial insemination (AI):**
-   - Access to superior genetics
-   - Requires training or vet
+- Access to superior genetics
+- Requires training or vet
 
 **Buck-to-Doe Ratio:** 1 buck can breed 20-30 does (in season)
 
@@ -317,15 +321,15 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 **Labor Stages:**
 1. **Stage 1 (2-12 hours):** Restless, contractions (not visible)
 2. **Stage 2 (30 min - 2 hours):** Active labor, kid(s) born
-   - Normal presentation: Front hooves + nose (diving position)
-   - **Call vet if:** Breech, stuck, no progress after 30 min hard labor
+- Normal presentation: Front hooves + nose (diving position)
+- **Call vet if:** Breech, stuck, no progress after 30 min hard labor
 3. **Stage 3 (within 1 hour):** Placenta passes
 
 **Newborn Care:**
 1. **Clear airway:** Wipe mucus from nose/mouth (doe usually does this)
 2. **Dip navel:** Iodine (prevent infection)
 3. **First milk (colostrum):** Within 1 hour (critical for immunity)
-   - If kid doesn't nurse, bottle-feed colostrum (2-4 oz)
+- If kid doesn't nurse, bottle-feed colostrum (2-4 oz)
 4. **Monitor:** Kid standing/nursing within 2 hours
 
 **Kids Per Birth:** Usually 1-3 (twins most common)
@@ -378,6 +382,7 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 
 ### Common Problems
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Issue | Symptoms | Cause | Treatment |
 |-------|----------|-------|-----------|
 | **Bloat** | Distended left side, discomfort | Overeating grain/lush forage (gas buildup) | Baking soda, walk goat, tube/trochar (vet) |
@@ -429,15 +434,14 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 
 ## Common Mistakes
 
-| ❌ Wrong | ✓ Right |
-|---------|---------|
-| Weak fencing (goats escape) | Woven wire + electric, 5 ft high, buried/apron |
-| Only 1 goat (lonely, stressed) | Minimum 2 goats (herd animals) |
-| Sheep minerals (copper deficiency) | Goat-specific minerals (higher copper) |
-| Inconsistent milking times | 12 hours apart, daily (production drops) |
-| No hoof trimming (foot rot, lameness) | Trim every 6-8 weeks |
-| Buck near milk does (taints flavor) | Separate buck 100+ ft upwind |
-| Overfeeding grain (bloat, urinary stones) | Hay-based diet, grain as supplement only |
+**❌ Wrong:** ✓ Right
+**Weak fencing (goats escape):** Woven wire + electric, 5 ft high, buried/apron
+**Only 1 goat (lonely, stressed):** Minimum 2 goats (herd animals)
+**Sheep minerals (copper deficiency):** Goat-specific minerals (higher copper)
+**Inconsistent milking times:** 12 hours apart, daily (production drops)
+**No hoof trimming (foot rot, lameness):** Trim every 6-8 weeks
+**Buck near milk does (taints flavor):** Separate buck 100+ ft upwind
+**Overfeeding grain (bloat, urinary stones):** Hay-based diet, grain as supplement only
 
 ## Cross-References
 - **[l4-agriculture-animal-husbandry-chickens.md]** - Starter livestock comparison

@@ -39,7 +39,7 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 
 ---
 
-## 💀 The Chris McCandless Case
+## McCandless Case
 
 **August 1992, Stampede Trail, Alaska:**
 
@@ -56,14 +56,14 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 - Seeds look virtually identical between species
 - Flowers are similar (both pink/purple pea-like)
 - Both grow in same habitat
-- He relied on book (*Tanaina Plantlore*) that mentioned edible "wild potato" but didn't specify **roots only**
+- He relied on book (Tanaina Plantlore) that mentioned edible "wild potato" but didn't specify **roots only**
 
 **The Lesson:**
 - **Never eat wild potato seeds, even from confirmed H. alpinum**
 - **Only harvest and eat the roots**
 - **Absolutely certain ID required** before consuming ANY part
 
-**Source**: Jon Krakauer, *Into the Wild* + subsequent research by toxicologists confirming ODAP presence in H. mackenzii
+**Source**: Jon Krakauer, Into the Wild + subsequent research by toxicologists confirming ODAP presence in H. mackenzii
 
 ---
 
@@ -71,6 +71,7 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 
 ### Side-by-Side Comparison
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | H. alpinum (SAFE roots) | H. mackenzii (TOXIC seeds) |
 |---------|-------------------------|----------------------------|
 | **Height** | 6-16 inches | 12-24 inches (taller) |
@@ -118,7 +119,7 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 
 ---
 
-## 🛡️ Safe Harvesting Protocol
+## Safe Harvest
 
 ### Best Harvest Times
 
@@ -206,7 +207,7 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 
 ---
 
-## ☠️ Toxicity Details (ODAP)
+## Toxicity ODAP
 
 ### What is ODAP?
 
@@ -271,7 +272,7 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 
 ---
 
-## 📚 Nutritional Information
+## Nutrition
 
 **Per 100g of raw roots (approximate):**
 - Calories: 60-80 kcal
@@ -314,16 +315,16 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 
 ## 📚 Sources
 
-- Jon Krakauer, *Into the Wild* (Chris McCandless case analysis)
-- Kari, Priscilla Russell, *Tanaina Plantlore: Dena'ina K'et'una* (original reference, insufficient toxicity warning)
-- Claus Bech Jørgensen, "The Potential for Harmful Effects of Ingestion of Hedysarum alpinum Seeds," *Wilderness & Environmental Medicine*, 2008
+- Jon Krakauer, Into the Wild (Chris McCandless case analysis)
+- Kari, Priscilla Russell, Tanaina Plantlore: Dena'ina K'et'una (original reference, insufficient toxicity warning)
+- Claus Bech Jørgensen, "The Potential for Harmful Effects of Ingestion of Hedysarum alpinum Seeds," Wilderness & Environmental Medicine, 2008
 - Alaska Native Knowledge Network, Traditional Plant Use Database
 - USDA PLANTS Database (botanical descriptions)
-- *Edible and Medicinal Plants of the West*, Gregory Tilford
+- Edible and Medicinal Plants of the West, Gregory Tilford
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Side-by-Side Comparison - H. alpinum vs H. mackenzii"**
 - Two columns showing both species

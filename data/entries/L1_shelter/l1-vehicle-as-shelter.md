@@ -6,13 +6,13 @@ tags: ["vehicle", "shelter", "sleeping", "ventilation", "condensation", "securit
 confidence: "high"
 region: "global"
 sources:
-  - "vehicle-dwelling-safety-guides"
-  - "cold-weather-camping-standards"
-  - "co-poisoning-prevention"
+- "vehicle-dwelling-safety-guides"
+- "cold-weather-camping-standards"
+- "co-poisoning-prevention"
 related:
-  - "l1-vehicle-winter-survival"
-  - "l1-shelter-thermal-management"
-  - "l1-medical-hypothermia"
+- "l1-vehicle-winter-survival"
+- "l1-shelter-thermal-management"
+- "l1-medical-hypothermia"
 ---
 
 # Using Vehicle as Shelter

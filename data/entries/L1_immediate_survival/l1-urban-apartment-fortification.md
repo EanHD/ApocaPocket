@@ -9,9 +9,9 @@ time_required: "2-4 hours initial setup"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "FEMA Home Security Guidelines"
-  - "FBI Active Threat Response Protocols"
-  - "Department of Homeland Security - Shelter in Place"
+- "FEMA Home Security Guidelines"
+- "FBI Active Threat Response Protocols"
+- "Department of Homeland Security - Shelter in Place"
 ---
 
 # Apartment Fortification - Security Zones
@@ -28,7 +28,7 @@ sources:
 
 ---
 
-## Security Layers (Defense in Depth)
+## Security Layers
 
 ```
 LAYER 1: Building Perimeter (limited control)
@@ -44,7 +44,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Layer 1: Building Perimeter Assessment
+## Layer 1: Perim. Assess
 
 ### Entry Points to Monitor
 
@@ -77,7 +77,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Layer 2: Apartment Door Fortification (PRIMARY DEFENSE)
+## Layer 2: Door Fortific
 
 ### Door Assessment
 
@@ -200,7 +200,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Layer 3: Interior Safe Room
+## Layer 3
 
 ### Concept
 
@@ -283,7 +283,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Noise & Light Discipline
+## Noise/Light
 
 ### Noise
 
@@ -311,7 +311,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Deception & Misdirection
+## Deception
 
 ### Appearing Abandoned (if you're bugging in)
 
@@ -345,7 +345,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Communication Protocols
+## Communications
 
 ### Safe Knock / Password
 
@@ -371,22 +371,21 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Advertising supplies (talking about food, water) | Operational security - tell no one |
-| Relying only on door lock | Multiple layers (wedge + deadbolt + barricade) |
-| No escape plan | Pre-identify 2+ escape routes, practice |
-| Turning on all lights at night | Blackout windows, interior lights only |
-| Opening door to check | Use peephole or talk through door |
-| Forgetting fire escape as threat vector | Secure fire escape window/door same as entry |
-| Not coordinating with neighbors | Mutual defense is stronger than solo |
-| Making noise (TV, music, arguments) | Noise discipline - appear abandoned |
+**❌ Mistake:** ✓ Correct
+**Advertising supplies (talking about food, water):** Operational security - tell no one
+**Relying only on door lock:** Multiple layers (wedge + deadbolt + barricade)
+**No escape plan:** Pre-identify 2+ escape routes, practice
+**Turning on all lights at night:** Blackout windows, interior lights only
+**Opening door to check:** Use peephole or talk through door
+**Forgetting fire escape as threat vector:** Secure fire escape window/door same as entry
+**Not coordinating with neighbors:** Mutual defense is stronger than solo
+**Making noise (TV, music, arguments):** Noise discipline - appear abandoned
 
 ---
 
-## When to Abandon Apartment
+## Abandon Apt
 
 **Evacuate if:**
 - Fire in building (smoke, smell, visible flames)
@@ -404,7 +403,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Legal & Ethical Considerations
+## Legal Ethics
 
 ### Force Continuum
 
@@ -424,7 +423,7 @@ LAYER 4: Escape Routes (if breach occurs)
 
 ---
 
-## Fortification Checklist
+## Fortify Check
 
 **Basic (2-4 hours):**
 - [ ] Door wedge installed

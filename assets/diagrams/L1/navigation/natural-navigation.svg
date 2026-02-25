@@ -1,0 +1,60 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="15" text-anchor="middle" fill="cyan" font-size="13" font-family="monospace">SHADOW-STICK METHOD</text>
+  
+  <!-- Ground (brown circle for level area) -->
+  <ellipse cx="120" cy="140" rx="100" ry="40" fill="#3a2a1a" stroke="#5a4a2a" stroke-width="1"/>
+  
+  <!-- Stick (vertical) -->
+  <line x1="120" y1="140" x2="120" y2="80" stroke="white" stroke-width="4"/>
+  <text x="105" y="75" fill="white" font-size="8" font-family="monospace">Stick</text>
+  
+  <!-- Sun position -->
+  <circle cx="200" cy="35" r="15" fill="yellow" stroke="orange" stroke-width="2"/>
+  <text x="200" y="40" text-anchor="middle" fill="black" font-size="12">☼</text>
+  
+  <!-- Sun rays -->
+  <line x1="190" y1="45" x2="120" y2="80" stroke="yellow" stroke-width="1" opacity="0.6" stroke-dasharray="3,2"/>
+  
+  <!-- First shadow (longer) -->
+  <line x1="120" y1="140" x2="50" y2="155" stroke="gray" stroke-width="6" opacity="0.5"/>
+  <!-- First marker -->
+  <circle cx="50" cy="155" r="5" fill="white" stroke="cyan" stroke-width="2"/>
+  <text x="35" y="152" fill="cyan" font-size="8" font-family="monospace">1st</text>
+  <text x="30" y="163" fill="cyan" font-size="7" font-family="monospace">WEST</text>
+  
+  <!-- Second shadow (shorter, moved) -->
+  <line x1="120" y1="140" x2="75" y2="150" stroke="gray" stroke-width="6" opacity="0.7"/>
+  <!-- Second marker -->
+  <circle cx="75" cy="150" r="5" fill="white" stroke="yellow" stroke-width="2"/>
+  <text x="60" y="147" fill="yellow" font-size="8" font-family="monospace">2nd</text>
+  <text x="58" y="158" fill="yellow" font-size="7" font-family="monospace">EAST</text>
+  
+  <!-- Direction line E-W -->
+  <line x1="50" y1="155" x2="75" y2="150" stroke="white" stroke-width="2"/>
+  <text x="55" y="175" fill="white" font-size="9" font-family="monospace">EAST ←—→ WEST</text>
+  
+  <!-- N-S perpendicular -->
+  <line x1="120" y1="115" x2="120" y2="165" stroke="cyan" stroke-width="2" stroke-dasharray="4,2"/>
+  <polygon points="120,115 117,120 123,120" fill="cyan"/>
+  <text x="125" y="115" fill="cyan" font-size="9" font-family="monospace">N</text>
+  <text x="125" y="170" fill="cyan" font-size="9" font-family="monospace">S</text>
+  
+  <!-- Time indicator -->
+  <rect x="10" y="30" width="75" height="35" fill="#1a1a1a" stroke="white" stroke-width="1"/>
+  <text x="47" y="43" text-anchor="middle" fill="white" font-size="8" font-family="monospace">WAIT TIME:</text>
+  <text x="47" y="54" text-anchor="middle" fill="yellow" font-size="9" font-family="monospace">15-20 min</text>
+  <text x="47" y="63" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">(longer=better)</text>
+  
+  <!-- Accuracy indicator -->
+  <rect x="155" y="180" width="80" height="35" fill="#1a1a1a" stroke="cyan" stroke-width="1"/>
+  <text x="195" y="192" text-anchor="middle" fill="cyan" font-size="8" font-family="monospace">ACCURACY:</text>
+  <text x="195" y="203" text-anchor="middle" fill="white" font-size="9" font-family="monospace">±5-10°</text>
+  <text x="195" y="212" text-anchor="middle" fill="gray" font-size="7" font-family="monospace">(15 min wait)</text>
+  
+  <!-- Instructions bottom -->
+  <text x="10" y="225" fill="white" font-size="8" font-family="monospace">① Mark shadow tip</text>
+  <text x="10" y="236" fill="white" font-size="8" font-family="monospace">② Wait 15+ min → ③ Mark again</text>
+</svg>

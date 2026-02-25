@@ -10,6 +10,7 @@
 
 ### Temperature Ranges (Altitude-Dependent)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Elevation | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
 |-----------|-------------|------------|-------------|------------|-------------|
 | 6,000 ft | 75-85°F | 45-55°F | 30-40°F | 10-20°F | -20°F |
@@ -105,6 +106,7 @@
 
 ### Edible Plants (by season & elevation)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | Season | Elevation | Parts Used | Calories/lb | Preparation | Cross-ref |
 |-------|--------|-----------|------------|-------------|-------------|-----------|
 | Pine nuts (pinyon, whitebark) | Sep-Oct | 6,000-10,000 ft | Seeds (cones) | 3000+ | Extract from cones, roast, high fat | l1-pine-nuts.md |
@@ -124,17 +126,17 @@
 
 **Summer (June-August) - ONLY GROWING SEASON**
 - **Berry harvest (critical):** Raspberry, huckleberry, thimbleberry, serviceberry
-  - Peak: July-August
-  - Dry for winter (high elevation = low humidity, sun-drying effective)
+- Peak: July-August
+- Dry for winter (high elevation = low humidity, sun-drying effective)
 - **Pine nut scouting:** Check cones forming (harvest in fall)
 - **Roots:** Yampa, biscuitroot (high elevation meadows)
 - **Greens:** Dandelion, fireweed shoots (early summer)
 
 **Fall (September-October)**
 - **PINE NUT HARVEST:** Before squirrels take them all
-  - Whitebark pine (high elevation, 8,000-11,000 ft)
-  - Pinyon pine (lower elevation, 6,000-8,000 ft)
-  - Collect cones, extract seeds, store (winter calories)
+- Whitebark pine (high elevation, 8,000-11,000 ft)
+- Pinyon pine (lower elevation, 6,000-8,000 ft)
+- Collect cones, extract seeds, store (winter calories)
 - **Late berries:** Rose hips (after frost, sweeter)
 - **Last foraging before winter** (snow arrives September-October)
 
@@ -152,18 +154,18 @@
 
 ### Toxic Look-alikes
 
-**DEADLY - Water Hemlock (*Cicuta*)**
+**DEADLY - Water Hemlock (Cicuta)**
 - Looks like yampa root, wild carrot, parsnip
 - **Most poisonous plant in North America**
 - Causes violent seizures, death in hours
 - Positive ID critical (smell like parsnip when cut, chambered root)
 
-**Death Camas (*Zigadenus*):**
+**Death Camas (Zigadenus):**
 - Looks like wild onion (but no onion smell)
 - Causes vomiting, seizures, death
 - **Test:** Crush leaf - if no onion smell, DO NOT EAT
 
-**False Hellebore (*Veratrum*):**
+**False Hellebore (Veratrum):**
 - Large, broad leaves (early spring)
 - Causes vomiting, heart problems
 - Avoid any plant that doesn't positively ID
@@ -185,6 +187,7 @@
 
 ### Large Game
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
 |--------|--------|--------|---------|---------------|------------------|
 | Elk | 500-800 lbs | Sep-Oct | Montane forests, meadows | Bugling (rut), high-altitude | 200-350 |
@@ -225,12 +228,14 @@
 ### Fish (Cold Water Species)
 
 **Mountain Streams:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Size | Season | Method | Notes |
 |---------|------|--------|--------|-------|
 | Trout (cutthroat, brook, rainbow, brown) | 6"-16" | Jun-Oct | Fly, spinner, worms | Native + stocked, excellent eating, freeze solid in winter |
 | Grayling (arctic) | 8"-14" | Jun-Sep | Fly | Rare, northern Rockies only, beautiful fish |
 
 **Alpine Lakes:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Size | Season | Method | Notes |
 |---------|------|--------|--------|-------|
 | Trout (cutthroat, golden) | 6"-18" | Jun-Oct | Fly, spinner | High elevation, crystal-clear water, golden trout rare |
@@ -252,7 +257,7 @@
 
 ---
 
-## Water Sources & Purification
+## Water Sources
 
 ### Water Availability (Altitude & Season-Dependent)
 
@@ -283,6 +288,7 @@
 ### Altitude Effects on Water
 
 **Boiling Point Decreases with Altitude:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Elevation | Boiling Point | Boil Time (Purification) |
 |-----------|--------------|--------------------------|
 | Sea level | 212°F | 1 minute |
@@ -301,7 +307,7 @@
 1. **Boil:** Most reliable (but longer at altitude, fuel-intensive)
 2. **Filter:** 0.2-micron (removes bacteria, parasites, NOT viruses - but viruses rare in backcountry)
 3. **Chemical:** Iodine/chlorine (COLD water slows effectiveness - need longer wait time)
-   - 35°F water = 60+ minutes wait time (vs 30 minutes at 70°F)
+- 35°F water = 60+ minutes wait time (vs 30 minutes at 70°F)
 
 **Cold Water Issue:**
 - Iodine/chlorine reactions slow in cold water
@@ -436,19 +442,20 @@ Design: Semi-underground or heavily insulated structure
 
 ---
 
-## Fire Making & Management
+## Fire Mgmt
 
 ### Altitude Effects on Fire
 - **Thinner air = Less oxygen = Harder to start/maintain fire**
 - **Wood burns differently:**
-  - At 10,000 ft: 30% less oxygen than sea level
-  - Fire requires MORE fuel, MORE airflow
-  - Coals burn cooler, less efficiently
+- At 10,000 ft: 30% less oxygen than sea level
+- Fire requires MORE fuel, MORE airflow
+- Coals burn cooler, less efficiently
 
 ---
 
 ### Wood Selection (Altitude-Specific)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Wood Type | Elevation | BTU/cord | Burn Rate | Availability | Notes |
 |-----------|-----------|----------|-----------|--------------|-------|
 | Ponderosa pine | 6,000-8,000 ft | 17-19M | Fast | Common | Lower elevations, resinous |
@@ -513,9 +520,9 @@ Overnight: Smoldering coals (restart in morning)
 - **Altitude = less oxygen = incomplete combustion = MORE CO**
 - Symptoms same as altitude sickness (headache, nausea, confusion)
 - **Prevention:**
-  - ALWAYS have chimney/vent
-  - Crack window for fresh air intake
-  - CO detector (battery-powered)
+- ALWAYS have chimney/vent
+- Crack window for fresh air intake
+- CO detector (battery-powered)
 - **If headache develops:** Get outside immediately, check for CO source
 
 **Lightning Strikes:**
@@ -534,7 +541,7 @@ Overnight: Smoldering coals (restart in morning)
 
 ---
 
-## Seasonal Survival Strategies
+## Seasonal Survival
 
 ### Summer (June-August) - SHORT WINDOW
 
@@ -585,10 +592,10 @@ Overnight: Smoldering coals (restart in morning)
 2. **Elk hunting:** September rut = prime time (one elk = 3+ months meat)
 3. **Final firewood:** Complete 5-6 cord stockpile
 4. **Shelter winterization:**
-   - Final insulation (pack all gaps)
-   - Roof inspection (4-6 ft snow load coming)
-   - Storm shutters (protect windows)
-   - Snow stakes (mark shelter location in deep snow)
+- Final insulation (pack all gaps)
+- Roof inspection (4-6 ft snow load coming)
+- Storm shutters (protect windows)
+- Snow stakes (mark shelter location in deep snow)
 5. **Last foraging:** Rose hips (after frost)
 6. **Move to lower elevation (if high-altitude):** Above 10,000 ft = death trap in winter
 
@@ -664,7 +671,7 @@ Evening (4-5 PM): Already dark, banking fire, meal, long night
 
 ---
 
-## Regional Hazards Summary
+## Regional Hazards
 
 **Primary Killers:**
 1. **Altitude sickness:** High Altitude Pulmonary Edema (HAPE), High Altitude Cerebral Edema (HACE) - Fatal

@@ -37,6 +37,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ## 🪤 Trap Types Overview
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Trap Type | Target Size | Kill Method | Skill Level | Materials |
 |-----------|-------------|-------------|-------------|-----------|
 | **Deadfall** | Small-medium | Crushing weight | Intermediate | Logs, rocks, trigger |
@@ -48,7 +49,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ---
 
-## 🪵 Advanced Deadfall Traps
+## AdvDeadfall
 
 ### Figure-4 Trigger (Classic)
 
@@ -62,9 +63,9 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 **Assembly:**
 1. Cut notches (1/4 inch deep) at specific points:
-   - Vertical: Notch near bottom (3 inches from end)
-   - Horizontal: Notches at both ends (90° to each other)
-   - Diagonal: Notches at both ends (45° angles)
+- Vertical: Notch near bottom (3 inches from end)
+- Horizontal: Notches at both ends (90° to each other)
+- Diagonal: Notches at both ends (45° angles)
 2. Lock vertical and horizontal sticks (horizontal notch hooks vertical notch)
 3. Insert diagonal to stabilize (forms "4" shape)
 4. Balance weight on vertical stick
@@ -128,7 +129,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ---
 
-## ⚙️ Conibear Traps (Body-Grip)
+## Conibear Traps
 
 **What They Are**: Spring-loaded metal frames that snap shut, crushing animal's chest cavity
 
@@ -146,6 +147,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ### Common Sizes
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Size | Jaw Spread | Target Animals |
 |------|------------|----------------|
 | **110** | 4.5 inches | Mink, muskrat, squirrel |
@@ -188,7 +190,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ---
 
-## 🪢 Advanced Snare Techniques
+## AdvSnareTech
 
 ### Materials
 
@@ -213,6 +215,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 **Snare Sizing:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Loop Diameter | Height Above Ground |
 |--------|---------------|---------------------|
 | Squirrel | 3-4 inches | 1-2 inches |
@@ -241,7 +244,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ---
 
-## 🎯 Bait Selection & Scent Control
+## Bait Sel/Scent Ctrl
 
 ### Effective Baits by Species
 
@@ -279,7 +282,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ---
 
-## 📅 Trap Checking & Maintenance
+## Trap Check
 
 ### The 24-Hour Rule
 
@@ -342,7 +345,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ---
 
-## ⚖️ Ethics & Regulations
+## Ethics & Regs
 
 ### Ethical Trapping Principles
 
@@ -407,7 +410,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ---
 
-## 🧰 Trap Kit Essentials (Survival Cache)
+## Trap Kit Essentials
 
 **Minimum Trap Kit:**
 - 6x 110 Conibear traps (squirrel, marten)
@@ -432,16 +435,16 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ## 📚 Sources
 
-- *Trapping Handbook*, Paul Krausman & James Cain
+- Trapping Handbook, Paul Krausman & James Cain
 - Alaska Department of Fish & Game, "Trapper Education Manual"
-- *Primitive Wilderness Living & Survival Skills*, John & Geri McPherson
+- Primitive Wilderness Living & Survival Skills, John & Geri McPherson
 - Fur Harvesters Auction, "Trapper's Guide"
-- *The Trapper's Bible*, Eustace Hazard Livingston
+- The Trapper's Bible, Eustace Hazard Livingston
 - National Trappers Association, "Best Management Practices for Trapping"
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Figure-4 Trigger - Assembly Steps"**
 - 4-panel step-by-step illustration

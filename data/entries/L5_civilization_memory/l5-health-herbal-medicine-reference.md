@@ -63,6 +63,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Evidence-Based Herbal Medicine — 15 Key Plants
+# Herbal Medicine
 
 Fifteen medicinal plants with the strongest scientific evidence for efficacy. Ordered by usefulness in a survival/grid-down scenario. All are common in temperate regions or easily cultivated. Evidence ratings based on systematic reviews and WHO monographs.

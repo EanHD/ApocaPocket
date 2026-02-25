@@ -18,7 +18,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ---
 
-## Why Lookalikes Are So Dangerous
+## Lookalikes Risk
 
 **The Problem:**
 - Deadly plants often resemble common edibles
@@ -35,9 +35,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ---
 
-## 💀 Pair 1: Wild Carrot vs. Poison Hemlock
+## WC vs PH
 
-### ✅ SAFE: Wild Carrot (Queen Anne's Lace, *Daucus carota*)
+### ✅ SAFE: Wild Carrot (Queen Anne's Lace, Daucus carota)
 
 **Edible Part**: Taproot (first year only)  
 **Identification:**
@@ -49,7 +49,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 **Habitat**: Fields, roadsides, disturbed soil
 
-### ❌ DEADLY: Poison Hemlock (*Conium maculatum*)
+### ❌ DEADLY: Poison Hemlock (Conium maculatum)
 
 **Toxin**: Coniine alkaloids (paralyzes muscles, respiratory failure)  
 **Fatal Dose**: 100-300mg (small handful of leaves or roots)  
@@ -67,6 +67,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ### How to Tell Them Apart
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Wild Carrot (SAFE) | Poison Hemlock (DEADLY) |
 |---------|-------------------|------------------------|
 | **Stem** | Green, hairy, solid | Purple blotches, smooth, hollow |
@@ -82,9 +83,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ---
 
-## 💀 Pair 2: Wild Onion vs. Death Camas
+## Pair 2
 
-### ✅ SAFE: Wild Onion/Garlic (*Allium* species)
+### ✅ SAFE: Wild Onion/Garlic (Allium species)
 
 **Edible Part**: Bulbs, stems, flowers  
 **Identification:**
@@ -96,7 +97,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 **Habitat**: Meadows, forests, prairies (wide range)
 
-### ❌ DEADLY: Death Camas (*Zigadenus* / *Toxicoscordion* species)
+### ❌ DEADLY: Death Camas (Zigadenus / Toxicoscordion species)
 
 **Toxin**: Zygacine alkaloids (heart failure, respiratory arrest)  
 **Fatal Dose**: 1-2 bulbs  
@@ -113,6 +114,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ### How to Tell Them Apart
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Wild Onion (SAFE) | Death Camas (DEADLY) |
 |---------|------------------|---------------------|
 | **Smell (crushed)** | **STRONG ONION/GARLIC** | No onion smell |
@@ -126,9 +128,9 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ---
 
-## 💀 Pair 3: Elderberry vs. Water Hemlock
+## Elderberry vs. Water H
 
-### ✅ SAFE: Elderberry (*Sambucus* species)
+### ✅ SAFE: Elderberry (Sambucus species)
 
 **Edible Part**: COOKED berries, flowers (raw berries cause nausea)  
 **Identification:**
@@ -140,7 +142,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 **Habitat**: Moist areas, stream banks, forest edges
 
-### ❌ DEADLY: Water Hemlock (*Cicuta* species)
+### ❌ DEADLY: Water Hemlock (Cicuta species)
 
 **Toxin**: Cicutoxin (violent seizures, respiratory failure)  
 **Fatal Dose**: One mouthful of root  
@@ -159,6 +161,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ### How to Tell Them Apart
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Elderberry (SAFE) | Water Hemlock (DEADLY) |
 |---------|------------------|------------------------|
 | **Plant type** | Woody shrub | Herbaceous (non-woody) |
@@ -173,7 +176,7 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ---
 
-## 💀 Pair 4: Edible Mushrooms vs. Death Cap / Destroying Angel
+## Pair 4
 
 ### ⚠️ WARNING: Mushroom identification is EXTREMELY difficult. Do not forage mushrooms without expert training.
 
@@ -189,7 +192,7 @@ Examples: Chanterelles, Morels, Puffballs, Oyster Mushrooms
 
 **Critical**: Every edible has poisonous lookalikes
 
-### ❌ DEADLY: Death Cap (*Amanita phalloides*)
+### ❌ DEADLY: Death Cap (Amanita phalloides)
 
 **Toxin**: Amatoxins (destroys liver and kidneys)  
 **Fatal Dose**: One mushroom (50g)  
@@ -205,7 +208,7 @@ Examples: Chanterelles, Morels, Puffballs, Oyster Mushrooms
 
 **Habitat**: Near oak, chestnut, pine trees (introduced in US, spreading)
 
-### ❌ DEADLY: Destroying Angel (*Amanita* species)
+### ❌ DEADLY: Destroying Angel (Amanita species)
 
 **Toxin**: Same as Death Cap  
 **Identification:**
@@ -245,7 +248,7 @@ Examples: Chanterelles, Morels, Puffballs, Oyster Mushrooms
 
 ---
 
-## 🧪 Universal Foraging Safety Rules
+## Forage Safe
 
 ### The Certainty Rule
 - **100% certain** = Safe to eat
@@ -296,7 +299,7 @@ Use at least 3-4 features:
 
 ---
 
-## 🚨 Poisoning Symptoms & Actions
+## PoisonSymptoms
 
 ### Immediate Symptoms (Minutes to Hours):
 - Nausea, vomiting, diarrhea
@@ -333,10 +336,10 @@ Use at least 3-4 features:
 ## 📚 Learning Resources
 
 **Field Guides (Recommended):**
-- *A Field Guide to Edible Wild Plants* - Lee Allen Peterson
-- *Edible and Medicinal Plants of the West* - Gregory Tilford
-- *Medicinal Plants of the Pacific West* - Michael Moore
-- *National Audubon Society Field Guide to Mushrooms*
+- A Field Guide to Edible Wild Plants - Lee Allen Peterson
+- Edible and Medicinal Plants of the West - Gregory Tilford
+- Medicinal Plants of the Pacific West - Michael Moore
+- National Audubon Society Field Guide to Mushrooms
 
 **Online:**
 - USDA PLANTS Database (plants.usda.gov)
@@ -351,7 +354,7 @@ Use at least 3-4 features:
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Wild Carrot vs Poison Hemlock - Multi-Panel Comparison"**
 - Side-by-side photos/illustrations
@@ -394,8 +397,8 @@ Use at least 3-4 features:
 
 - USDA Forest Service, "Poisonous Plants of the United States"
 - CDC, "Plant Poisoning" (Emergency Response Guides)
-- *Deadly Harvest: The Intimate Relationship Between Our Health and Our Food*, Geoff Tansey & Tasmin Rajotte
-- *A Field Guide to Poisonous Plants and Mushrooms of North America*, Nancy J. Turner & Adam F. Szczawinski
+- Deadly Harvest: The Intimate Relationship Between Our Health and Our Food, Geoff Tansey & Tasmin Rajotte
+- A Field Guide to Poisonous Plants and Mushrooms of North America, Nancy J. Turner & Adam F. Szczawinski
 - Alaska Poison Control, "Common Poisonous Plants in Alaska"
 - North American Mycological Association, "Mushroom Poisoning Syndromes"
 

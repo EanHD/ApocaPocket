@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <defs>
+    <style>
+      .title { font: bold 14px monospace; fill: #fff; }
+      .label { font: 10px monospace; fill: #fff; }
+      .danger { fill: #ff4444; }
+      .safe { fill: #00dddd; }
+      .bg-danger { fill: #330000; }
+      .bg-safe { fill: #003333; }
+      .cap-death { fill: #9aaa77; stroke: #6a7a47; stroke-width: 1.5; }
+      .cap-button { fill: #e8d8c0; stroke: #b8a890; stroke-width: 1.5; }
+      .gills { fill: #fff; stroke: #ccc; stroke-width: 0.5; }
+      .stem { fill: #e8e8d0; stroke: #a8a890; stroke-width: 1; }
+      .ring { fill: none; stroke: #d8d8c0; stroke-width: 2; }
+      .volva { fill: #f0f0e0; stroke: #c0c0b0; stroke-width: 1; }
+    </style>
+  </defs>
+  
+  <!-- DEATH CAP (LEFT - DANGER) -->
+  <rect x="0" y="0" width="240" height="240" class="bg-danger"/>
+  <text x="120" y="20" text-anchor="middle" class="title danger">⚠ DEATH CAP ⚠</text>
+  <text x="120" y="35" text-anchor="middle" class="label">(Amanita phalloides)</text>
+  
+  <!-- Cap -->
+  <ellipse cx="120" cy="80" rx="40" ry="15" class="cap-death"/>
+  <text x="10" y="65" class="label danger">Greenish-yellow</text>
+  <text x="10" y="77" class="label danger">to olive cap</text>
+  <text x="10" y="89" class="label danger">(3-6 inches)</text>
+  
+  <!-- Gills (white) -->
+  <path d="M 85,80 L 90,95" stroke="#fff" stroke-width="1"/>
+  <path d="M 90,80 L 93,95" stroke="#fff" stroke-width="1"/>
+  <path d="M 95,80 L 96,95" stroke="#fff" stroke-width="1"/>
+  <path d="M 100,80 L 99,95" stroke="#fff" stroke-width="1"/>
+  <path d="M 145,80 L 140,95" stroke="#fff" stroke-width="1"/>
+  <path d="M 150,80 L 147,95" stroke="#fff" stroke-width="1"/>
+  <path d="M 155,80 L 154,95" stroke="#fff" stroke-width="1"/>
+  <text x="165" y="88" class="label danger">WHITE gills</text>
+  <text x="165" y="100" class="label danger">(free from stem)</text>
+  
+  <!-- Stem with ring -->
+  <rect x="112" y="95" width="16" height="90" rx="2" class="stem"/>
+  <ellipse cx="120" cy="130" rx="12" ry="4" class="ring"/>
+  <text x="140" y="125" class="label danger">→ Ring</text>
+  <text x="140" y="136" class="label danger">(skirt-like)</text>
+  
+  <!-- Volva (bulbous base) -->
+  <ellipse cx="120" cy="185" rx="18" ry="12" class="volva"/>
+  <path d="M 102,185 Q 102,175 108,170" stroke="#c0c0b0" stroke-width="1.5" fill="none"/>
+  <path d="M 138,185 Q 138,175 132,170" stroke="#c0c0b0" stroke-width="1.5" fill="none"/>
+  <text x="10" y="178" class="label danger">VOLVA</text>
+  <text x="10" y="190" class="label danger">(cup/sac</text>
+  <text x="10" y="202" class="label danger">at base)</text>
+  
+  <!-- Warning label -->
+  <text x="120" y="220" text-anchor="middle" class="label danger">SINGLE MUSHROOM</text>
+  <text x="120" y="232" text-anchor="middle" class="label danger">CAN KILL!</text>
+  
+  <!-- BUTTON MUSHROOM (RIGHT - SAFE) -->
+  <rect x="240" y="0" width="240" height="240" class="bg-safe"/>
+  <text x="360" y="20" text-anchor="middle" class="title safe">✓ BUTTON MUSHROOM ✓</text>
+  <text x="360" y="35" text-anchor="middle" class="label">(Agaricus bisporus - cultivated)</text>
+  
+  <!-- Cap -->
+  <ellipse cx="360" cy="80" rx="40" ry="15" class="cap-button"/>
+  <text x="250" y="70" class="label safe">White to brown</text>
+  <text x="250" y="82" class="label safe">smooth cap</text>
+  
+  <!-- Gills (PINK to brown) -->
+  <path d="M 325,80 L 330,95" stroke="#dda0a0" stroke-width="1"/>
+  <path d="M 330,80 L 333,95" stroke="#dda0a0" stroke-width="1"/>
+  <path d="M 335,80 L 336,95" stroke="#dda0a0" stroke-width="1"/>
+  <path d="M 340,80 L 339,95" stroke="#dda0a0" stroke-width="1"/>
+  <path d="M 385,80 L 380,95" stroke="#dda0a0" stroke-width="1"/>
+  <path d="M 390,80 L 387,95" stroke="#dda0a0" stroke-width="1"/>
+  <path d="M 395,80 L 394,95" stroke="#dda0a0" stroke-width="1"/>
+  <text x="405" y="83" class="label safe">PINK gills</text>
+  <text x="405" y="95" class="label safe">(turn brown</text>
+  <text x="405" y="107" class="label safe">with age)</text>
+  
+  <!-- Stem with ring -->
+  <rect x="352" y="95" width="16" height="90" rx="2" class="stem"/>
+  <ellipse cx="360" cy="130" rx="12" ry="4" class="ring"/>
+  <text x="380" y="130" class="label safe">→ Ring</text>
+  
+  <!-- NO volva - just base -->
+  <rect x="352" y="185" width="16" height="5" rx="1" class="stem"/>
+  <text x="250" y="195" class="label safe">NO volva/cup</text>
+  <text x="250" y="207" class="label safe">at base</text>
+  
+  <!-- Safety note -->
+  <text x="360" y="220" text-anchor="middle" class="label safe">If foraging wild:</text>
+  <text x="360" y="232" text-anchor="middle" class="label safe">Check for VOLVA!</text>
+  
+  <!-- Bottom comparison note -->
+  <rect x="0" y="0" width="480" height="0" fill="#000"/>
+  <text x="10" y="50" class="label danger">↓ Check base!</text>
+  <line x1="50" y1="52" x2="100" y2="175" stroke="#ff4444" stroke-width="2" stroke-dasharray="3,3"/>
+  <text x="410" y="50" class="label safe">↓ No cup</text>
+  <line x1="430" y1="52" x2="380" y2="185" stroke="#00dddd" stroke-width="2" stroke-dasharray="3,3"/>
+</svg>

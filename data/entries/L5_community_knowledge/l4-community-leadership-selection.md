@@ -1,4 +1,4 @@
-# Community Leadership Selection
+# Community Lead
 
 **Category:** L4 - Community Dynamics  
 **Survival Importance:** CRITICAL - Leadership quality determines community success or failure  
@@ -24,7 +24,7 @@
 
 ---
 
-## Leadership Models (Comparative Analysis)
+## Leadership Models
 
 ### Model 1: Democratic Election
 **Method:** Community votes for leaders (simple majority or ranked choice)
@@ -145,7 +145,7 @@
 
 ---
 
-## Hybrid Recommendation: Specialized Domain Leadership
+## Hybrid Rec: Spec Dom L
 
 **System:** Different leaders for different functional areas, coordinated by rotating council
 
@@ -173,7 +173,7 @@ COORDINATION COUNCIL:
 
 ---
 
-## Selection Criteria: What Makes a Good Leader?
+## Selection Criteria
 
 ### The 5 Essential Competencies
 
@@ -254,6 +254,7 @@ COORDINATION COUNCIL:
 
 ### Selection Criteria Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Role | Competence | Fairness | Communication | EQ | Stamina |
 |------|------------|----------|---------------|-----|---------|
 | Medical Lead | 95% | 80% | 70% | 60% | 80% |
@@ -263,11 +264,11 @@ COORDINATION COUNCIL:
 | General Leadership | 70% | 95% | 85% | 90% | 75% |
 | Conflict Mediator | 60% | 95% | 80% | 95% | 65% |
 
-*Percentages = Minimum threshold for role*
+Percentages = Minimum threshold for role
 
 ---
 
-## Selection Process: Step-by-Step
+## Selection Process
 
 ### Phase 1: Nomination (Week 1)
 **Who can nominate:** Any community member  
@@ -334,7 +335,7 @@ COORDINATION COUNCIL:
 
 ---
 
-## Term Limits & Power Safeguards
+## Term Limits
 
 ### Why Term Limits Matter
 
@@ -351,6 +352,7 @@ COORDINATION COUNCIL:
 
 ### Term Limit Guidelines
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Role Type | Term Length | Max Terms | Cooling Off Period |
 |-----------|-------------|-----------|-------------------|
 | General Leadership | 1 year | 2 consecutive | 1 year break |
@@ -448,10 +450,11 @@ Primary Leader: Jane Doe
 
 ---
 
-## Warning Signs of Bad Leadership
+## Bad Leader
 
 ### Red Flags (Intervene Immediately)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Behavior | What It Means | Action |
 |----------|---------------|--------|
 | **Favoritism** | Playing favorites, rewarding loyalty over competence | Council review + warning |
@@ -487,7 +490,7 @@ Primary Leader: Jane Doe
 
 ---
 
-## Developing Leadership Capacity
+## Developing Leaders
 
 ### Leadership Training Program
 
@@ -618,7 +621,7 @@ Primary Leader: Jane Doe
 
 ---
 
-## Quick Reference: Leadership Selection Checklist
+## Leadership Selection
 
 ### Pre-Selection
 - [ ] Define role clearly (responsibilities, time commitment, term length)
@@ -649,7 +652,7 @@ Primary Leader: Jane Doe
 
 ---
 
-## Critical Principles Summary
+## Critical Principles
 
 ✓ **No single "best" leadership model** - Context matters  
 ✓ **Selection criteria:** Competence + Fairness + Communication + EQ + Stamina  
@@ -662,29 +665,29 @@ Primary Leader: Jane Doe
 
 ---
 
-## Sources & Further Reading
+## Sources
 
 **Leadership Theory:**
-- Bass, B. M. (1985). *Leadership and Performance Beyond Expectations*
-- Greenleaf, R. K. (1970). *The Servant as Leader*
-- Heifetz, R. A. (1994). *Leadership Without Easy Answers*
+- Bass, B. M. (1985). Leadership and Performance Beyond Expectations
+- Greenleaf, R. K. (1970). The Servant as Leader
+- Heifetz, R. A. (1994). Leadership Without Easy Answers
 
 **Organizational Psychology:**
-- Acemoglu, D., & Robinson, J. A. (2012). *Why Nations Fail*
-- Collins, J. (2001). *Good to Great*
-- Rosenthal, S. A., & Pittinsky, T. L. (2006). "Narcissistic leadership" in *The Leadership Quarterly*
+- Acemoglu, D., & Robinson, J. A. (2012). Why Nations Fail
+- Collins, J. (2001). Good to Great
+- Rosenthal, S. A., & Pittinsky, T. L. (2006). "Narcissistic leadership" in The Leadership Quarterly
 
 **Historical Case Studies:**
-- Whyte, W. F., & Whyte, K. K. (1991). *Making Mondragon* (Mondragon Cooperative)
-- Mann, B. A. (2000). *Iroquoian Women: The Gantowisas*
-- Wessinger, C. (2000). *How the Millennium Comes Violently* (Jonestown analysis)
+- Whyte, W. F., & Whyte, K. K. (1991). Making Mondragon (Mondragon Cooperative)
+- Mann, B. A. (2000). Iroquoian Women: The Gantowisas
+- Wessinger, C. (2000). How the Millennium Comes Violently (Jonestown analysis)
 
 **Practical Guides:**
-- Avery, M., et al. (1981). *Building United Judgment: A Handbook for Consensus Decision Making*
-- Heathfield, S. M. (2019). *Leadership Skills for Every Manager*
+- Avery, M., et al. (1981). Building United Judgment: A Handbook for Consensus Decision Making
+- Heathfield, S. M. (2019). Leadership Skills for Every Manager
 
 ---
 
-*Last Updated: 2026-02-19*  
-*Version: 1.0*  
-*Tested in: Cooperatives, intentional communities, disaster response, organizational leadership*
+Last Updated: 2026-02-19  
+Version: 1.0  
+Tested in: Cooperatives, intentional communities, disaster response, organizational leadership

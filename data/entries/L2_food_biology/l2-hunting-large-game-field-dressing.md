@@ -16,7 +16,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## Why Field Dress Immediately?
+## Why Dress Now
 
 **Reasons:**
 1. **Heat buildup**: Internal organs generate heat (100-105°F), spoiling meat from inside
@@ -52,7 +52,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## 🦌 Field Dressing Protocol (Standard)
+## Field Dressing
 
 ### Step 1: Positioning (5-10 minutes)
 
@@ -123,7 +123,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## 🥶 Cooling the Meat (IMMEDIATE)
+## Cool Meat
 
 **Target**: Get meat below 40°F within 2-4 hours
 
@@ -141,7 +141,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## 🪓 Quartering for Transport
+## Qtrng
 
 **When to Quarter:**
 - Animal too large to drag whole (moose, elk)
@@ -168,6 +168,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 **Estimated Weights:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Total Meat | Per Quarter (Avg) | Trips Needed (50 lb capacity) |
 |--------|------------|-------------------|-------------------------------|
 | Moose | 400-600 lbs | 50-75 lbs | 8-12 trips |
@@ -205,7 +206,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## 🐻 Bear Safety During Field Dressing
+## Bear Safety
 
 **Field dressing attracts predators** (smell of blood, organs)
 
@@ -235,8 +236,9 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## 🕐 Time Estimates by Species
+## Time Est
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Field Dress (Gut) | Quartering | Total Time (1 Person) |
 |--------|-------------------|------------|----------------------|
 | Deer | 20-30 minutes | 15-20 minutes | 35-50 minutes |
@@ -249,7 +251,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## 🩸 Sanitation & Food Safety
+## Sanitation
 
 ### Preventing Contamination:
 
@@ -286,7 +288,7 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ---
 
-## 🧊 Field Dressing in Different Conditions
+## Field Dress
 
 ### Hot Weather (60°F+)
 - **Priority**: Speed and cooling (race against spoilage)
@@ -342,14 +344,14 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 - Alaska Department of Fish & Game, "Big Game Field Care Guide"
 - USDA Food Safety and Inspection Service (FSIS), "Wild Game Handling"
-- *The Complete Guide to Hunting, Butchering, and Cooking Wild Game: Volume 1*, Steven Rinella
+- The Complete Guide to Hunting, Butchering, and Cooking Wild Game: Volume 1, Steven Rinella
 - U.S. Army Survival Manual FM 21-76, Chapter 8
-- *Bushcraft 101*, Dave Canterbury, Chapter 8
+- Bushcraft 101, Dave Canterbury, Chapter 8
 - Montana Fish, Wildlife & Parks, "Field Dressing Big Game"
 
 ---
 
-## 📐 Diagram Specifications
+## Diagram Specs
 
 **Diagram 1: "Opening Cuts - Ventral View"**
 - Deer/moose body outline, belly-up

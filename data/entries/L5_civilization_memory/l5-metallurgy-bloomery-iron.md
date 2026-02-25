@@ -16,11 +16,12 @@ Iron smelting is **THE TECHNOLOGY THAT DEFINED CIVILIZATION** for 3,000+ years. 
 
 ---
 
-## Iron Ore Identification
+## Iron ID
 
 ### What Is Iron Ore?
 **Iron oxide minerals** (iron + oxygen, must be separated by smelting):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Ore Type | Formula | Iron Content | Appearance | Location |
 |----------|---------|--------------|------------|----------|
 | **Hematite** | Fe₂O₃ | 70% | Red/brown, heavy, rust-like | Most common, widespread |
@@ -100,7 +101,7 @@ Iron smelting is **THE TECHNOLOGY THAT DEFINED CIVILIZATION** for 3,000+ years. 
 
 ---
 
-## Bloomery Furnace Construction
+## Bloomery Furnace
 
 ### What Is a Bloomery?
 **Low-shaft furnace** (3-4 feet tall) that produces **spongy iron "bloom"** (not molten—iron's melting point is 2800°F, unattainable with charcoal/air blast). Carbon from charcoal reduces iron oxide to metallic iron.
@@ -128,33 +129,33 @@ Iron smelting is **THE TECHNOLOGY THAT DEFINED CIVILIZATION** for 3,000+ years. 
 ### Construction Steps
 
 1. **Foundation**:
-   - Dig pit or build stone platform (level, stable)
-   - Create slag run-off channel (shallow trench)
+- Dig pit or build stone platform (level, stable)
+- Create slag run-off channel (shallow trench)
 
 2. **Build walls**:
-   - **Option A** (Clay): Form clay-sand mixture around mold (barrel, logs)
-     - Dry slowly over 1-2 weeks (crack = failure)
-     - Fire empty furnace gently to harden clay
-   - **Option B** (Brick): Stack fire bricks with clay mortar
-     - Circular interior, square exterior
+- **Option A** (Clay): Form clay-sand mixture around mold (barrel, logs)
+- Dry slowly over 1-2 weeks (crack = failure)
+- Fire empty furnace gently to harden clay
+- **Option B** (Brick): Stack fire bricks with clay mortar
+- Circular interior, square exterior
 
 3. **Tuyere installation**:
-   - Insert pipe (clay, stone, or iron) through wall at 45° downward angle
-   - Pipe diameter: 1-2 inches (connects to bellows)
-   - Seal around pipe with clay (airtight except through pipe)
+- Insert pipe (clay, stone, or iron) through wall at 45° downward angle
+- Pipe diameter: 1-2 inches (connects to bellows)
+- Seal around pipe with clay (airtight except through pipe)
 
 4. **Slag tap**:
-   - Arch-shaped opening at base (4-6 inches wide, 3-4 inches tall)
-   - Plug with clay before smelting (breaks through when slag ready)
+- Arch-shaped opening at base (4-6 inches wide, 3-4 inches tall)
+- Plug with clay before smelting (breaks through when slag ready)
 
 5. **Curing**:
-   - Dry furnace 1-2 weeks (cracks = rebuild)
-   - Fire gently with wood for 2-4 hours (first use)
-   - Let cool, inspect for cracks, repair with clay
+- Dry furnace 1-2 weeks (cracks = rebuild)
+- Fire gently with wood for 2-4 hours (first use)
+- Let cool, inspect for cracks, repair with clay
 
 ---
 
-## Bellows (Air Supply) — CRITICAL
+## Bellows Air Supply
 
 **Why necessary**: Charcoal needs **forced air** to reach 2300-2500°F (temperature required for iron reduction)
 
@@ -183,7 +184,7 @@ Iron smelting is **THE TECHNOLOGY THAT DEFINED CIVILIZATION** for 3,000+ years. 
 
 ---
 
-## DIAGRAM: Bloomery Furnace (Cross-Section)
+## Bloomery Furnace
 
 ```
     [Open Top - Load ore/charcoal]
@@ -255,16 +256,16 @@ Temperature Gradient:
 - **Bloom grows** at furnace bottom (above slag pool)
 - Spongy iron mass + slag + unburned charcoal
 - **Signs bloom is ready**:
-  - Furnace sounds "dead" (less vigorous burning)
-  - Less slag production
-  - Steady charcoal consumption
+- Furnace sounds "dead" (less vigorous burning)
+- Less slag production
+- Steady charcoal consumption
 
 **6. Extraction**:
 - **Stop bellows**, let temperature drop slightly (1-2 hours)
 - **Break open furnace** (if single-use) or extract through top (if reusable design)
 - **Pull bloom**: Use iron tongs/hooks
-  - Bloom is red-hot (1800-2000°F), **glowing**
-  - **EXTREME BURN HAZARD**
+- Bloom is red-hot (1800-2000°F), **glowing**
+- **EXTREME BURN HAZARD**
 
 **7. Initial consolidation**:
 - Place bloom on anvil or flat stone
@@ -274,7 +275,7 @@ Temperature Gradient:
 
 ---
 
-## Bloom Processing (To Usable Iron)
+## Bloom to Iron
 
 ### Step 1: Remove Slag
 - Heat bloom to yellow-hot (2000°F+) in forge
@@ -297,7 +298,7 @@ Temperature Gradient:
 
 ---
 
-## Safety (EXTREME HAZARDS)
+## Safety Hazards
 
 ### Molten Slag
 ⚠️ **Slag is 1800-2000°F liquid rock** → severe burns, melts clothing/skin
@@ -325,8 +326,9 @@ Temperature Gradient:
 
 ---
 
-## Common Mistakes & Fixes
+## Common Mistakes
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | Bloom doesn't form | Temperature too low | More airflow, better charcoal, preheat longer |
@@ -338,7 +340,7 @@ Temperature Gradient:
 
 ---
 
-## Uses for Bloomery Iron (Wrought Iron)
+## Bloomery Iron
 
 ### Tools
 - **Farming**: Plow blades, hoes, sickles, scythes
@@ -358,7 +360,7 @@ Temperature Gradient:
 
 ---
 
-## Civilization Unlock: The Iron Age
+## Iron Age
 
 **Before iron** (Bronze Age, 3000-1200 BCE):
 - Tools: Bronze (rare, expensive)
@@ -389,12 +391,12 @@ Temperature Gradient:
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *The Mastery and Uses of Fire in Antiquity* by J.E. Rehder (archaeological iron smelting)
-- *Iron and Steel in Ancient Times* by Vagn Fabritius Buchwald (comprehensive history/techniques)
-- *Experimental Iron Smelting* by EXARC (modern experimental archaeology)
-- *Colonial Williamsburg* archives (18th-century bloomery techniques)
+- The Mastery and Uses of Fire in Antiquity by J.E. Rehder (archaeological iron smelting)
+- Iron and Steel in Ancient Times by Vagn Fabritius Buchwald (comprehensive history/techniques)
+- Experimental Iron Smelting by EXARC (modern experimental archaeology)
+- Colonial Williamsburg archives (18th-century bloomery techniques)
 
 ---
 

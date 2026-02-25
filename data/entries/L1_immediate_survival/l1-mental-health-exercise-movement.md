@@ -7,15 +7,15 @@
 
 ---
 
-## Why Movement Is Non-Negotiable
+## Why Move
 
 **Biological Truth:** Your body evolved for 10-15 miles of movement daily. Modern sedentary life is the anomaly, not the norm.
 
 **Research Evidence (The Science Is Overwhelming):**
 - **Depression:** Exercise as effective as SSRIs for mild-moderate depression (Cochrane Review, 2013)
-  - 30 min cardio 5x/week = 47% reduction in depression symptoms
-  - Strength training 2x/week = 38% reduction
-  - Effect sustained with continued practice
+- 30 min cardio 5x/week = 47% reduction in depression symptoms
+- Strength training 2x/week = 38% reduction
+- Effect sustained with continued practice
 - **Anxiety:** 60% reduction in panic symptoms with regular exercise (Anxiety & Depression Association, 2019)
 - **PTSD:** Exercise improves symptoms 32% (particularly with group format) (Journal of Traumatic Stress, 2017)
 - **Sleep:** Exercise improves sleep quality 65% (National Sleep Foundation, 2015)
@@ -25,8 +25,8 @@
 **Neurochemistry:**
 - **Endorphins:** Natural opioids (pain relief, euphoria) - "runner's high"
 - **BDNF (Brain-Derived Neurotrophic Factor):** Exercise increases 300% - "miracle-gro for brain"
-  - Promotes neurogenesis (new brain cells)
-  - Improves learning, memory, mood regulation
+- Promotes neurogenesis (new brain cells)
+- Improves learning, memory, mood regulation
 - **Dopamine:** Increases motivation, pleasure, reward processing
 - **Serotonin:** Mood stabilization, reduces depression
 - **Norepinephrine:** Alertness, focus, stress response regulation
@@ -40,7 +40,7 @@
 
 ---
 
-## Bodyweight Training: Your Gym Is Your Body
+## Bodyweight Training
 
 **Advantage:** No equipment needed. Scalable. Anywhere, anytime.
 
@@ -167,7 +167,7 @@
 
 ---
 
-## Complete Bodyweight Workout Circuit
+## Bodyweight Circuit
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -204,7 +204,7 @@
 
 ---
 
-## Functional Fitness: Work as Exercise
+## Functional Fitness
 
 **Reality:** In survival scenarios, you'll get more exercise from functional work than structured workouts.
 
@@ -260,7 +260,7 @@
 
 ---
 
-## Stretching & Mobility: Injury Prevention
+## Stretch & Mobility
 
 **Why critical:**
 - Prevents injury (mobility = safety)
@@ -292,7 +292,7 @@
 
 ---
 
-## Group Movement Activities
+## Group Movements
 
 ### Dancing: Universal Human Behavior
 
@@ -348,7 +348,7 @@
 
 ---
 
-## Mental Health Benefits: The Research
+## Mental Health
 
 ### Depression Treatment Protocol
 
@@ -413,7 +413,7 @@
 
 ---
 
-## Historical Context: Hunter-Gatherer Fitness
+## Hunter-Fitness
 
 **Activity Profile:**
 - **Walking:** 8-15 miles daily (gathering, travel)
@@ -433,7 +433,7 @@
 
 ---
 
-## Warning Signs: When Inactivity Becomes Dangerous
+## Inact.
 
 **Physical indicators:**
 - Difficulty standing from sitting (strength loss)
@@ -460,7 +460,7 @@
 
 ---
 
-## Building a Movement Culture
+## Build Movemnt
 
 ### Daily Rhythm
 
@@ -509,7 +509,7 @@
 
 ---
 
-## Conclusion: Move or Die
+## Conclusion
 
 **Remember:**
 - Exercise is medicine (most effective anti-depressant)
@@ -540,4 +540,4 @@
 
 ---
 
-*Last Updated: 2026 | Sources: Cochrane Review (2013), Anxiety & Depression Association (2019), Journal of Traumatic Stress (2017), National Sleep Foundation (2015), Lancet Neurology (2020), WHO (2020), American Journal of Preventive Medicine (2014)*
+Last Updated: 2026 | Sources: Cochrane Review (2013), Anxiety & Depression Association (2019), Journal of Traumatic Stress (2017), National Sleep Foundation (2015), Lancet Neurology (2020), WHO (2020), American Journal of Preventive Medicine (2014)

@@ -51,6 +51,6 @@ steps:
   meal times). (4) Locals often know safe passages - hire guide if possible.'
 ---
 
-# Checkpoint & Roadblock Navigation — Safe Passage Tactics
+# Checkpoint Nav
 
 Checkpoints appear during unrest, martial law, war, or border crossings. May be official (military, police) or unofficial (militias, gangs, bandits). Survival priorities: assess threat level, comply or evade based on risk, negotiate if possible. Based on military survival training.

@@ -1,4 +1,4 @@
-# Community Conflict Resolution
+# Community Conflict
 
 **Category:** L4 - Community Dynamics  
 **Survival Importance:** CRITICAL - Groups fail from internal conflict more often than external threats  
@@ -17,7 +17,7 @@
 
 ---
 
-## Understanding Conflict Types
+## Conflict Types
 
 ### Resource Disputes
 **Trigger:** Competition over limited goods (food, water, shelter, tools)  
@@ -41,7 +41,7 @@
 
 ---
 
-## Conflict Prevention (First Line of Defense)
+## Conflict Prevention
 
 ### Clear Rules and Processes
 ```
@@ -56,7 +56,7 @@ ESSENTIAL DOCUMENTED RULES:
 **Why It Works:** Clarity prevents 70% of conflicts. When everyone knows the rules and processes, there's less room for misunderstanding and perceived unfairness.
 
 ### Fair Processes Matter More Than Fair Outcomes
-**Research Finding (Thibaut & Walker, 1975):** People accept unfavorable outcomes if they believe the *process* was fair. This is called "procedural justice."
+**Research Finding (Thibaut & Walker, 1975):** People accept unfavorable outcomes if they believe the process was fair. This is called "procedural justice."
 
 **Implementation:**
 - Everyone gets to speak
@@ -84,7 +84,7 @@ Discomfort → Annoyance → Frustration → Anger → Rage → Violence
 
 ---
 
-## Conflict Resolution Protocol (Intervention Ladder)
+## Conflict Resol Prot
 
 ### Level 1: Direct Conversation (1-on-1)
 **When to Use:** First instance, minor issues, both parties willing  
@@ -206,18 +206,16 @@ Discomfort → Annoyance → Frustration → Anger → Rage → Violence
 
 ---
 
-## Restorative Justice Approach
+## Restorative Justice
 
-**Philosophy:** Conflict harms relationships and community. Resolution should *repair harm*, not just punish wrongdoing.
+**Philosophy:** Conflict harms relationships and community. Resolution should repair harm, not just punish wrongdoing.
 
 ### Traditional Justice vs Restorative Justice
 
-| Traditional | Restorative |
-|-------------|-------------|
-| Who broke the rule? | Who was harmed? |
-| What punishment do they deserve? | What do they need to be made whole? |
-| Offender vs community | Offender + victim + community together |
-| Focus on past | Focus on future |
+**Who broke the rule?:** Who was harmed?
+**What punishment do they deserve?:** What do they need to be made whole?
+**Offender vs community:** Offender + victim + community together
+**Focus on past:** Focus on future
 
 ### Restorative Circle Process
 
@@ -246,10 +244,11 @@ Discomfort → Annoyance → Frustration → Anger → Rage → Violence
 
 ---
 
-## Warning Signs of Escalating Conflict
+## Escalating Conflict
 
 ### Behavioral Red Flags
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Sign | What It Means | Urgency |
 |------|---------------|---------|
 | **Cliques forming** | Community fragmenting into factions | HIGH |
@@ -263,6 +262,7 @@ Discomfort → Annoyance → Frustration → Anger → Rage → Violence
 
 ### Intervention Decision Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Conflict Stage | Intervention | Timeline |
 |----------------|--------------|----------|
 | Discomfort/tension | Facilitate 1-on-1 conversation | Within 2 days |
@@ -273,7 +273,7 @@ Discomfort → Annoyance → Frustration → Anger → Rage → Violence
 
 ---
 
-## Cultural Sensitivity in Conflict Resolution
+## Cultural Sensitivity
 
 **Research Insight:** Conflict styles vary dramatically across cultures. What works in one cultural context may fail or offend in another.
 
@@ -306,7 +306,7 @@ Discomfort → Annoyance → Frustration → Anger → Rage → Violence
 
 ---
 
-## Building Conflict Resolution Capacity
+## Conflict Resolve
 
 ### Train Community Mediators
 **Who:** 3-5 people per 30-person community  
@@ -337,7 +337,7 @@ MINIMUM DOCUMENTATION:
 
 ---
 
-## Emergency De-Escalation Techniques
+## Emergency De-escalatio
 
 ### When Violence Is Imminent
 
@@ -364,7 +364,7 @@ MINIMUM DOCUMENTATION:
 
 ---
 
-## Long-Term Conflict Prevention Culture
+## Long-term Conflict Pre
 
 ### The Social Contract
 Document and revisit quarterly:
@@ -471,24 +471,24 @@ Practices:
 
 ---
 
-## Sources & Further Reading
+## Sources
 
 **Academic Research:**
-- Thibaut, J., & Walker, L. (1975). *Procedural Justice: A Psychological Analysis*
-- Zehr, H. (2002). *The Little Book of Restorative Justice*
-- Hofstede, G. (2001). *Culture's Consequences*
-- Moore, C. W. (2014). *The Mediation Process* (4th ed.)
+- Thibaut, J., & Walker, L. (1975). Procedural Justice: A Psychological Analysis
+- Zehr, H. (2002). The Little Book of Restorative Justice
+- Hofstede, G. (2001). Culture's Consequences
+- Moore, C. W. (2014). The Mediation Process (4th ed.)
 
 **Historical Case Studies:**
-- Kanter, R. M. (1972). *Commitment and Community: Communes and Utopias in Sociological Perspective*
-- Lansing, A. (1959). *Endurance: Shackleton's Incredible Voyage*
+- Kanter, R. M. (1972). Commitment and Community: Communes and Utopias in Sociological Perspective
+- Lansing, A. (1959). Endurance: Shackleton's Incredible Voyage
 
 **Practical Guides:**
-- Fisher, R., & Ury, W. (1981). *Getting to Yes: Negotiating Agreement Without Giving In*
-- Stone, D., Patton, B., & Heen, S. (2010). *Difficult Conversations*
+- Fisher, R., & Ury, W. (1981). Getting to Yes: Negotiating Agreement Without Giving In
+- Stone, D., Patton, B., & Heen, S. (2010). Difficult Conversations
 
 ---
 
-*Last Updated: 2026-02-19*  
-*Version: 1.0*  
-*Tested in: Intentional communities, disaster response, organizational settings*
+Last Updated: 2026-02-19  
+Version: 1.0  
+Tested in: Intentional communities, disaster response, organizational settings

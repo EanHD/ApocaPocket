@@ -53,6 +53,6 @@ steps:
   Create meaning. Help others. These are not luxuries — they''re what keep you human.'
 ---
 
-# Survival → Thriving → Building — The 1/7/30/365 Day Framework
+# Survive → Thrive → Build
 
 You survived the first day. Now what? This entry provides milestone goals for Day 1, Week 1, Month 1, and Year 1. Each phase has different priorities. This roadmap turns survival into sustainable living, then into rebuilding.

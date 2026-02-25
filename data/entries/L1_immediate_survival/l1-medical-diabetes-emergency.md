@@ -6,13 +6,13 @@ tags: ["diabetes", "insulin", "hypoglycemia", "hyperglycemia", "blood-sugar", "e
 confidence: "high"
 region: "global"
 sources:
-  - "ada-diabetes-emergency-guidelines"
-  - "cdc-diabetes-management"
-  - "wilderness-medicine-endocrine"
+- "ada-diabetes-emergency-guidelines"
+- "cdc-diabetes-management"
+- "wilderness-medicine-endocrine"
 related:
-  - "l1-medical-basic-pharmacology"
-  - "l1-medical-medication-dosing-table"
-  - "l1-strategy-common-fatal-mistakes"
+- "l1-medical-basic-pharmacology"
+- "l1-medical-medication-dosing-table"
+- "l1-strategy-common-fatal-mistakes"
 ---
 
 # Diabetes Emergency Management
@@ -25,11 +25,12 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Hypoglycemia (Low Blood Sugar) - IMMEDIATE DANGER
+## Hypoglycemia
 
 ### Recognition
 **Symptoms by severity:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Stage | Blood Sugar | Symptoms | Time to Treat |
 |-------|------------|----------|---------------|
 | Mild | 55-70 mg/dL | Shakiness, sweating, hunger, anxiety | 15 minutes |
@@ -48,10 +49,10 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 **The "Rule of 15":**
 1. **Give 15 grams fast-acting carbs** (choose one):
-   - 4 glucose tablets (4g each)
-   - ½ cup (4 oz) fruit juice
-   - 1 tablespoon honey or sugar
-   - 5-6 hard candies
+- 4 glucose tablets (4g each)
+- ½ cup (4 oz) fruit juice
+- 1 tablespoon honey or sugar
+- 5-6 hard candies
 2. **Wait 15 minutes**
 3. **Recheck symptoms**
 4. **If no improvement:** Repeat 15g carbs
@@ -67,11 +68,12 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Hyperglycemia (High Blood Sugar) - SLOWER BUT DANGEROUS
+## Hyperglycemia
 
 ### Recognition
 **Symptoms (develop over hours to days):**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Blood Sugar | Symptoms | Danger Level |
 |------------|----------|--------------|
 | 180-250 mg/dL | Thirst, frequent urination, fatigue | Monitor |
@@ -96,16 +98,16 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 **Moderate to severe (>250 mg/dL or symptoms present):**
 1. **Aggressive hydration:** 16-32 oz water per hour
 2. **Insulin if available:**
-   - Type 1: Give correction dose per sliding scale
-   - Type 2: Extra oral medication dose if prescribed
+- Type 1: Give correction dose per sliding scale
+- Type 2: Extra oral medication dose if prescribed
 3. **Monitor ketones** (urine strips if available)
 4. **NO exercise** (makes DKA worse)
 
 **DKA treatment (if medical care unavailable - VERY RISKY):**
 1. **Fluids:** 1-2 liters water in first hour, then 500mL/hr
 2. **Insulin:**
-   - IV access: 0.1 units/kg/hr continuous
-   - IM injection: 0.15 units/kg, then 0.1 units/kg/hr
+- IV access: 0.1 units/kg/hr continuous
+- IM injection: 0.15 units/kg, then 0.1 units/kg/hr
 3. **Electrolytes:** Add salt to water (1/4 tsp per liter)
 4. **Evacuate urgently** - DKA has 5-10% mortality even with treatment
 
@@ -113,7 +115,7 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Insulin Storage Without Refrigeration
+## Insulin Storage
 
 **Storage timeline:**
 - **Unopened vials:** Can last 28 days at room temp (59-86°F / 15-30°C)
@@ -123,18 +125,18 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 **Storage methods:**
 1. **Evaporative cooling:**
-   - Wrap vial in wet cloth in shade
-   - Maintain 60-70°F / 15-21°C
+- Wrap vial in wet cloth in shade
+- Maintain 60-70°F / 15-21°C
 2. **Zeer pot (clay pot cooler):**
-   - Nest small pot in larger pot, fill gap with sand, pour water on sand
-   - Evaporation cools inner pot to 50-60°F / 10-15°C
+- Nest small pot in larger pot, fill gap with sand, pour water on sand
+- Evaporation cools inner pot to 50-60°F / 10-15°C
 3. **Underground storage:**
-   - Bury in waterproof container 2-3 feet deep
-   - Maintains 50-60°F / 10-15°C year-round
+- Bury in waterproof container 2-3 feet deep
+- Maintains 50-60°F / 10-15°C year-round
 4. **Avoid:**
-   - Direct sunlight (degrades in hours)
-   - Car glove box (can hit 120°F / 49°C+)
-   - Metal containers (conduct heat)
+- Direct sunlight (degrades in hours)
+- Car glove box (can hit 120°F / 49°C+)
+- Metal containers (conduct heat)
 
 **Testing insulin quality:**
 - **Visual check:** Should be clear (or uniformly cloudy for NPH)
@@ -144,7 +146,7 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Emergency Glucose Sources (No Glucometer)
+## Emergency Glucose
 
 **High-sugar foods (15g carbs):**
 - Honey: 1 tablespoon (20g)
@@ -162,8 +164,9 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Type 1 vs Type 2 Differences
+## Type 1/2 Diff
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Aspect | Type 1 | Type 2 |
 |--------|--------|--------|
 | **Insulin production** | None (pancreas destroyed) | Reduced or ineffective |
@@ -175,16 +178,16 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Medication Rationing (If Supply Limited)
+## Med Ration
 
 **Type 1 (insulin-dependent) - CRITICAL:**
 - **Minimum dose:** 0.3-0.5 units/kg/day (survival minimum)
 - **Example:** 150 lb (70 kg) person needs 21-35 units/day minimum
 - **Rationing strategy:**
-  - Focus on basal (long-acting) insulin first (0.2-0.3 units/kg/day)
-  - Ration bolus (fast-acting) for high-carb meals
-  - Reduce carb intake to 50-100g/day to minimize bolus needs
-  - Accept higher blood sugars (180-250 mg/dL) temporarily
+- Focus on basal (long-acting) insulin first (0.2-0.3 units/kg/day)
+- Ration bolus (fast-acting) for high-carb meals
+- Reduce carb intake to 50-100g/day to minimize bolus needs
+- Accept higher blood sugars (180-250 mg/dL) temporarily
 
 **Type 2 (oral medications):**
 - **Metformin:** Can skip doses, focus on diet control
@@ -195,17 +198,16 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Monitoring Without Glucometer
+## Monitoring w/o Glucome
 
 **Symptom-based assessment:**
 
-| Blood Sugar Range | Physical Signs |
-|-------------------|---------------|
-| **<70 mg/dL (low)** | Shakiness, sweating, rapid heart, confusion |
-| **70-180 mg/dL (normal)** | Feel normal, stable energy |
-| **180-250 mg/dL (mild high)** | Thirst, frequent urination, fatigue |
-| **250-400 mg/dL (high)** | Very thirsty, nausea, fruity breath |
-| **>400 mg/dL (extreme)** | Confusion, rapid breathing, altered consciousness |
+**Blood Sugar Range:** Physical Signs
+****<70 mg/dL (low)**:** Shakiness, sweating, rapid heart, confusion
+****70-180 mg/dL (normal)**:** Feel normal, stable energy
+****180-250 mg/dL (mild high)**:** Thirst, frequent urination, fatigue
+****250-400 mg/dL (high)**:** Very thirsty, nausea, fruity breath
+****>400 mg/dL (extreme)**:** Confusion, rapid breathing, altered consciousness
 
 **Urine testing (if strips available):**
 - **Glucose in urine:** Blood sugar >180 mg/dL (kidneys spill excess)
@@ -213,7 +215,7 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Exercise & Activity Impact
+## Exercise Impact
 
 **Exercise lowers blood sugar:**
 - **Moderate activity:** Drops 20-40 mg/dL per 30 minutes
@@ -233,7 +235,7 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Evacuation Considerations
+## Evac Consider
 
 **Evacuate immediately if:**
 - Severe hypoglycemia (unconscious, seizing) and no glucagon
@@ -251,7 +253,7 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ---
 
-## Prevention & Long-Term Management
+## Prevention & LT Mgmt
 
 **Preventing emergencies:**
 1. **Consistent carb intake:** Same amount at same times

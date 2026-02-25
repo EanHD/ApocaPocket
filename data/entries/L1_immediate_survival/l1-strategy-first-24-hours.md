@@ -34,27 +34,27 @@ warnings:
 - Group dynamics change priorities — more people = more needs but also more capabilities
 ---
 
-## TIMELINE-BASED PLANNING
+## Timeline Planning
 
 ### FIRST HOUR (Minutes 0-60) — STABILIZE & ASSESS
 
 **Immediate Actions:**
 - **Minutes 0-5 — INJURY TRIAGE:** Check yourself and group for life-threatening injuries:
-  - Severe bleeding (arterial = spurting blood) → Tourniquet/pressure NOW
-  - Not breathing → CPR if recently occurred, otherwise assess if viable
-  - Chest wounds → Seal with plastic/tape (sucking chest wound)
-  - Head injury with unconsciousness → Monitor, stabilize neck
-  - Shock symptoms (pale, cold, rapid pulse) → Lie flat, keep warm
+- Severe bleeding (arterial = spurting blood) → Tourniquet/pressure NOW
+- Not breathing → CPR if recently occurred, otherwise assess if viable
+- Chest wounds → Seal with plastic/tape (sucking chest wound)
+- Head injury with unconsciousness → Monitor, stabilize neck
+- Shock symptoms (pale, cold, rapid pulse) → Lie flat, keep warm
 - **Minutes 5-15 — ENVIRONMENTAL THREAT ASSESSMENT:**
-  - **Cold/Wet:** Hypothermia timeline = 1-6 hours depending on conditions
-  - **Heat/Sun:** Heat stroke timeline = 3-8 hours without shade/water
-  - **Incoming weather:** Check sky, wind direction, temperature trend
-  - **Nightfall:** How many hours until dark? This is your hard deadline for shelter.
-  - **Wildlife/Human threats:** Any immediate dangers? Signs of predators, hostile humans?
+- **Cold/Wet:** Hypothermia timeline = 1-6 hours depending on conditions
+- **Heat/Sun:** Heat stroke timeline = 3-8 hours without shade/water
+- **Incoming weather:** Check sky, wind direction, temperature trend
+- **Nightfall:** How many hours until dark? This is your hard deadline for shelter.
+- **Wildlife/Human threats:** Any immediate dangers? Signs of predators, hostile humans?
 - **Minutes 15-60 — CRITICAL DECISION: STAY OR MOVE?**
-  - **STAY if:** Weather threatening, injured, lost with no idea where help is, search party likely
-  - **MOVE if:** Know location of help < 2 hours away, current location is deadly (avalanche zone, flood plain), weather permits
-  - **DEFAULT RULE:** If in doubt, stay put. Moving people are harder to find and often get more lost.
+- **STAY if:** Weather threatening, injured, lost with no idea where help is, search party likely
+- **MOVE if:** Know location of help < 2 hours away, current location is deadly (avalanche zone, flood plain), weather permits
+- **DEFAULT RULE:** If in doubt, stay put. Moving people are harder to find and often get more lost.
 
 **First Hour Checklist:**
 - [ ] All injuries identified and stabilized
@@ -126,9 +126,9 @@ Not a perfect shelter — a shelter that prevents death through the coming night
 
 **Fire Starting Process:**
 1. **Gather materials FIRST** (most people fail here — they try to start fire without prep):
-   - **Tinder:** Dry grass, inner bark (cedar, birch), pine needles, char cloth, bird nest — needs to catch spark (fist-sized bundle)
-   - **Kindling:** Pencil-thick dry twigs, feather sticks (wood shavings still attached), resinous wood — burns fast and hot (two armfuls)
-   - **Fuel:** Wrist-thick to arm-thick dry wood — sustains fire (large pile, will burn faster than you expect)
+- **Tinder:** Dry grass, inner bark (cedar, birch), pine needles, char cloth, bird nest — needs to catch spark (fist-sized bundle)
+- **Kindling:** Pencil-thick dry twigs, feather sticks (wood shavings still attached), resinous wood — burns fast and hot (two armfuls)
+- **Fuel:** Wrist-thick to arm-thick dry wood — sustains fire (large pile, will burn faster than you expect)
 2. **Fire lay:** Teepee (easy to start) or log cabin (sustains better) — start small, build up
 3. **Ignition:** Lighter/matches (use wisely, only 1-2 attempts), ferro rod (practice before crisis), friction (bow drill, hand drill — takes skill and energy), flint and steel, fire plow
 4. **Nursing:** Once tinder catches, add kindling gradually (too much smothers, too little starves), blow gently to add oxygen
@@ -145,13 +145,13 @@ Not a perfect shelter — a shelter that prevents death through the coming night
 
 **Signaling (if rescue is desired):**
 - **Visual signals:**
-  - Signal fire (3 fires in triangle = universal distress, or large smoke generator)
-  - Bright cloth/tarp hung in open area
-  - Ground signals: SOS in rocks/logs (minimum 3 meters tall per letter)
-  - Mirror/reflective material (signal aircraft)
+- Signal fire (3 fires in triangle = universal distress, or large smoke generator)
+- Bright cloth/tarp hung in open area
+- Ground signals: SOS in rocks/logs (minimum 3 meters tall per letter)
+- Mirror/reflective material (signal aircraft)
 - **Audio signals:**
-  - 3 of anything = distress (3 whistle blasts, 3 gunshots, 3 shouts)
-  - Save energy — signal when you hear aircraft or see movement
+- 3 of anything = distress (3 whistle blasts, 3 gunshots, 3 shouts)
+- Save energy — signal when you hear aircraft or see movement
 - **Stay visible:** Open areas, high ground, contrast against environment
 
 **Camp Organization:**
@@ -202,7 +202,7 @@ See [l1-strategy-mental-health-acute] for detailed crisis response. Quick checkl
 - [ ] Sleep attempted (exhaustion impairs judgment)
 - [ ] Emotional release allowed (crying, anger are normal — acknowledge and move forward)
 
-## DECISION MATRIX: ENVIRONMENT-SPECIFIC PRIORITIES
+## DEC MATRIX
 
 ### Arctic/Winter (Below Freezing):
 1. **Shelter** (hypothermia = 1-3 hours)
@@ -239,7 +239,7 @@ See [l1-strategy-mental-health-acute] for detailed crisis response. Quick checkl
 4. Signaling (coastguard, aircraft, boats)
 5. Food (abundant if you can fish/forage tidal zones)
 
-## GROUP DYNAMICS CONSIDERATIONS
+## GROUP DYNAMICS
 
 ### Solo Survival:
 - **Advantage:** Only yourself to care for
@@ -263,7 +263,7 @@ See [l1-strategy-mental-health-acute] for detailed crisis response. Quick checkl
 - **Psychological care:** Children sense adult panic — stay calm, explain actions
 - **Injured members:** Stabilize first, then assign sedentary tasks (tool making, fire watch)
 
-## MENTAL HEALTH PROTOCOLS
+## Mental Health Protocol
 
 ### Acute Crisis Response (First Hours):
 
@@ -300,7 +300,7 @@ See [l1-strategy-mental-health-acute] for detailed crisis response. Quick checkl
 - **Emotional release:** Crying, venting, grieving losses is NORMAL and HEALTHY — allow it, then move forward
 - **Warning signs:** Suicidal thoughts, complete withdrawal, reckless behavior, psychosis → See [l1-medical-mental-health-crisis]
 
-## COMMON FATAL MISTAKES (AND HOW TO AVOID THEM)
+## Common Mistakes
 
 ### 1. PANIC PARALYSIS OR PANIC RUNNING
 - **Mistake:** Freezing in place doing nothing, OR running blindly away from danger without thinking
@@ -383,7 +383,7 @@ See attached diagram: `diagrams/first-24hr-decision-tree.svg`
 
 The Rule of 3s: 3 minutes without air, 3 hours without shelter (in harsh conditions), 3 days without water, 3 weeks without food. This framework guides ALL survival decisions. Most people prioritize wrong — they look for food when they're hours from hypothermia. This entry is the master checklist.
 
-## DECISION FRAMEWORK CHECKLIST
+## DECISION CHECK
 
 Before making ANY survival decision, run through this 30-second assessment:
 
@@ -393,4 +393,4 @@ Before making ANY survival decision, run through this 30-second assessment:
 - [ ] **PLAN** — What will kill you fastest? Address that first.
 - [ ] **ACT** — Complete one priority task before starting another.
 
-## TIMELINE-BASED PLANNING
+## Timeline Planning

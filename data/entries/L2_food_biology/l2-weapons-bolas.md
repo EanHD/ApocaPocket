@@ -60,30 +60,30 @@ Modern people think bolas are exotic toys from South American cowboys. Wrong. Th
 ### Build Instructions (3-ball bolas)
 
 1. **Prepare weights:**
-   - Select 3 stones (2 large, 1 small) or cast lead balls
-   - Wrap in leather pouches (4" x 4" squares)
-   - Fold leather around stone, gather at top, tie securely
-   - Leave 2" of gathered leather at top (attachment point)
+- Select 3 stones (2 large, 1 small) or cast lead balls
+- Wrap in leather pouches (4" x 4" squares)
+- Fold leather around stone, gather at top, tie securely
+- Leave 2" of gathered leather at top (attachment point)
 
 2. **Cut cords:**
-   - Two long cords: 3-4 feet each
-   - One short cord: 1-2 feet
-   - Add 6" to each for knots
+- Two long cords: 3-4 feet each
+- One short cord: 1-2 feet
+- Add 6" to each for knots
 
 3. **Attach weights to cords:**
-   - Thread cord through leather pouch gathering
-   - Tie double overhand knot
-   - Test: Swing weight in circle (knot must hold)
+- Thread cord through leather pouch gathering
+- Tie double overhand knot
+- Test: Swing weight in circle (knot must hold)
 
 4. **Join cords at center:**
-   - Braid all three cords together for 2-3" at center
-   - Tie tight knot
-   - Optional: Wrap with leather or tape for grip
+- Braid all three cords together for 2-3" at center
+- Tie tight knot
+- Optional: Wrap with leather or tape for grip
 
 5. **Test balance:**
-   - Hold center, spin gently
-   - All balls should orbit smoothly (no wobble)
-   - Adjust cord lengths if needed
+- Hold center, spin gently
+- All balls should orbit smoothly (no wobble)
+- Adjust cord lengths if needed
 
 ## Throwing Techniques
 
@@ -135,7 +135,7 @@ Modern people think bolas are exotic toys from South American cowboys. Wrong. Th
 - **Effect:** Tangling + blunt trauma from impacts
 - **Legal warning:** Bolas is considered a weapon (assault charges possible)
 
-## Advantages Over Other Tools
+## Advantages
 
 ### Vs. Bow & Arrow
 1. **Capture alive:** Bolas tangles, arrow kills (live game stays fresh longer)
@@ -283,9 +283,9 @@ Modern people think bolas are exotic toys from South American cowboys. Wrong. Th
 - Ineffective targets (hard to wrap: compact animals, hard surfaces)
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Musters, G. C. (1871).** *At Home with the Patagonians*. - Historical gaucho bolas use
+- **Musters, G. C. (1871).** At Home with the Patagonians. - Historical gaucho bolas use
 - **Boas, F. (1888).** "The Central Eskimo." - Inuit hunting techniques with bolas
 - **Ratto, N. (2003).** "Bolas de Piedra: Variabilidad Tipologica." - Archaeological analysis of South American bolas
 - **Mason, O. T. (1884).** "Throwing-Sticks in the National Museum." - Smithsonian study of throwing weapons

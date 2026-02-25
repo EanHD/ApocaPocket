@@ -39,6 +39,6 @@ steps:
   for infection signs.'
 ---
 
-# Wound Care — Herbal Poultices & Antiseptics
+# Herbal Poultices
 
 Certain wild plants have antimicrobial properties and can be used as poultices for wound care when modern first aid is unavailable. Not a replacement for proper wound cleaning and antibiotics but better than nothing.

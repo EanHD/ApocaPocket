@@ -8,6 +8,7 @@
 ## Climate Profile
 
 ### Temperature Ranges
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Avg High | Avg Low | Extreme High | Extreme Low |
 |--------|----------|---------|--------------|-------------|
 | Summer (Jun-Aug) | 90-100°F | 70-80°F | 110°F+ | 65°F |
@@ -62,6 +63,7 @@
 
 ### Edible Plants (by season)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
 |-------|--------|------------|-------------|-------------|-----------|
 | Cattail | Year-round | Roots, shoots, pollen | 800-1200 | Raw/cooked roots, pollen as flour | l1-cattail-guide.md |
@@ -93,6 +95,7 @@
 
 ### Large Game
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
 |--------|--------|--------|---------|---------------|------------------|
 | White-tailed deer | 100-200 lbs | Nov-Jan (varies by state) | Edge habitat, oak forests | Most abundant game | 40-80 |
@@ -103,6 +106,7 @@
 
 ### Fish & Aquatic
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Avg Weight | Season | Habitat | Method | Notes |
 |---------|------------|--------|---------|--------|-------|
 | Catfish (channel, blue) | 5-30 lbs | Year-round | Rivers, lakes | Trotlines, juglines | Bottom feeders, strong fighters |
@@ -125,7 +129,7 @@
 - **Wild hogs:** Can be aggressive, dangerous tusks, unpredictable
 - **Fire ants:** Aggressive swarms, anaphylaxis risk, painful stings
 
-## Water Sources & Purification
+## Water Sources
 
 ### Source Types
 - **Rivers/streams:** Abundant year-round, fast-flowing sources safer than stagnant
@@ -144,6 +148,7 @@
 
 ### Seasonal Water Strategies
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Availability | Temperature | Concerns | Strategy |
 |--------|--------------|-------------|----------|----------|
 | Summer | Abundant | 70-85°F | Bacteria bloom, algae, low flow in drought | Prefer flowing water, boil minimum 1 min |
@@ -204,7 +209,7 @@ Design: Enclosed structure with moderate insulation
 - **Cordage:** Kudzu vines, inner bark strips, Spanish moss (dried/twisted)
 - **Waterproofing:** Pine resin/pitch, mud daub
 
-## Fire Making & Management
+## Fire Mgmt
 
 ### Humid Environment Challenges
 - **High humidity:** 60-90% makes tinder difficult to ignite
@@ -235,6 +240,7 @@ Design: Enclosed structure with moderate insulation
 
 ### Wood Selection (BTU & Burn Characteristics)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Wood Type | BTU/cord | Burn Rate | Smoke | Coals | Best Use | Availability |
 |-----------|----------|-----------|-------|-------|----------|--------------|
 | Oak (white, red) | 24-30M | Slow | Low | Excellent | Long-term heat, cooking | Abundant |
@@ -282,7 +288,7 @@ Design: Enclosed structure with moderate insulation
 - **Signaling:** Green pine boughs on hot fire = dense white smoke
 - **Insect repellent:** Damp wood/moss creates smoke (mosquitoes)
 
-## Seasonal Survival Strategies
+## Seasonal Survival
 
 ### Spring (March-May)
 **Advantages:**
@@ -373,7 +379,7 @@ Design: Enclosed structure with moderate insulation
 - **Stored food:** Rely on fall nut harvest
 - **Clothing:** Layering, avoid cotton (deadly when wet)
 
-## Regional Hazards Summary
+## Regional Hazards
 
 **Primary Killers:**
 1. **Heat stroke:** Summer heat + humidity (May-Sep)

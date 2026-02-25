@@ -25,14 +25,14 @@ Pottery is one of humanity's oldest technologies (10,000+ years) and a **civiliz
 
 ### Plasticity Test (Field Test)
 1. **Roll test**: Roll a small ball between palms, then roll into a "snake" 1/4 inch diameter
-   - ✓ Good clay: Bends without cracking
-   - ❌ Poor clay: Crumbles or breaks
+- ✓ Good clay: Bends without cracking
+- ❌ Poor clay: Crumbles or breaks
 2. **Coil test**: Wrap the snake around your finger
-   - ✓ Good clay: Smooth bend, no cracks
-   - ❌ Poor clay: Breaks apart
+- ✓ Good clay: Smooth bend, no cracks
+- ❌ Poor clay: Breaks apart
 3. **Ribbon test**: Roll flat and thin
-   - ✓ Good clay: Holds shape, some flexibility
-   - ❌ Poor clay: Falls apart immediately
+- ✓ Good clay: Holds shape, some flexibility
+- ❌ Poor clay: Falls apart immediately
 
 ### Clay Colors & Properties
 - **Red clay**: High iron content, fires to terracotta (earthenware)
@@ -114,7 +114,7 @@ Pottery is one of humanity's oldest technologies (10,000+ years) and a **civiliz
 
 ---
 
-## Drying (Critical: Prevents Cracking)
+## Drying Prevents Cracki
 
 ### Stage 1: Leather-Hard (12-24 hours)
 - Clay is firm but can be carved/trimmed
@@ -280,8 +280,9 @@ Pottery is one of humanity's oldest technologies (10,000+ years) and a **civiliz
 
 ---
 
-## Common Mistakes & Fixes
+## Common Errors
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | Cracks during drying | Too fast, uneven thickness | Dry slowly under plastic, even walls |
@@ -293,7 +294,7 @@ Pottery is one of humanity's oldest technologies (10,000+ years) and a **civiliz
 
 ---
 
-## DIAGRAM: Downdraft Kiln Cross-Section
+## Downdraft Kiln
 
 ```
     [CHIMNEY/FLUE]
@@ -341,11 +342,11 @@ Temperature zones:
 
 ---
 
-## References & Further Study
+## References
 
-- *The Potter's Bible* by Marylin Scott (comprehensive techniques)
-- *Primitive Pottery* by Hal Riegger (hand-building methods)
-- *Ceramics: A Potter's Handbook* by Glenn C. Nelson (technical reference)
+- The Potter's Bible by Marylin Scott (comprehensive techniques)
+- Primitive Pottery by Hal Riegger (hand-building methods)
+- Ceramics: A Potter's Handbook by Glenn C. Nelson (technical reference)
 - Archaeological pottery studies (Smithsonian, British Museum archives)
 
 ---

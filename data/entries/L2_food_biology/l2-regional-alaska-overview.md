@@ -12,18 +12,21 @@
 ### Temperature Ranges (Regional Variation)
 
 #### Interior (Fairbanks, Denali)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
 |--------|-------------|------------|-------------|------------|-------------|
 | Summer (Jun-Aug) | 65-75°F | 50-60°F | - | - | - |
 | Winter (Nov-Mar) | -10-10°F | -20 to -40°F | 40°F (Chinook) | -60°F | -80°F (Prospect Creek, 1971) |
 
 #### Arctic (North Slope, Barrow/Utqiaġvik)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
 |--------|-------------|------------|-------------|------------|-------------|
 | Summer (Jun-Aug) | 40-50°F | 30-40°F | - | - | - |
 | Winter (Nov-Mar) | -10 to -30°F | -20 to -40°F | - | -50°F | -70°F |
 
 #### Southeast (Juneau, Sitka - Coastal Rainforest)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Season | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
 |--------|-------------|------------|-------------|------------|-------------|
 | Summer (Jun-Aug) | 55-65°F | 45-55°F | - | - | - |
@@ -38,6 +41,7 @@
 
 ### Daylight Hours (Latitude Effects)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Location | Latitude | Summer Solstice (Jun 21) | Winter Solstice (Dec 21) |
 |----------|----------|--------------------------|--------------------------|
 | Ketchikan (SE) | 55°N | 17.5 hours | 6.5 hours |
@@ -128,6 +132,7 @@
 
 ### Edible Plants (by region & season)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Plant | Region | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
 |-------|--------|--------|------------|-------------|-------------|-----------|
 | Blueberry (wild) | All | Jul-Aug | Berries | 250-300 | Fresh, dry, jam | l1-wild-berries.md |
@@ -161,8 +166,8 @@
 
 **Summer (June-August) - HARVEST WINDOW**
 - **Berry picking (CRITICAL):** Blueberry, salmonberry, crowberry (dry for winter)
-  - Peak: July-August
-  - Must harvest aggressively (short season, bears compete)
+- Peak: July-August
+- Must harvest aggressively (short season, bears compete)
 - Wild potato roots (before seeds form - SEEDS DEADLY)
 - Fireweed shoots
 - **This is IT:** 2-3 months to collect year's plant foods
@@ -210,6 +215,7 @@
 
 ### Large Game
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
 |--------|--------|--------|---------|---------------|------------------|
 | Moose | 800-1600 lbs | Sep-Oct | Taiga, willow thickets, wetlands | Largest game, one moose = 6+ months meat | 400-800 |
@@ -235,6 +241,7 @@
 ### Fish (CRITICAL Alaska Resource)
 
 **Salmon Runs (June-September) - PRIMARY FOOD SOURCE:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Species | Size | Peak Run | Habitat | Notes |
 |---------|------|----------|---------|-------|
 | King (Chinook) | 10-50 lbs | Jun-Jul | Large rivers | Biggest, fattiest, best eating |
@@ -301,7 +308,7 @@
 
 ---
 
-## Water Sources & Purification
+## Water Sources
 
 ### Water Availability (Season-Dependent)
 
@@ -463,10 +470,11 @@ Design: Log cabin, but focused on WATER RESISTANCE
 
 ---
 
-## Fire Making & Management
+## Fire Mgmt
 
 ### Firewood (Taiga Only - Tundra has NO TREES)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Wood Type | Region | BTU/cord | Burn Rate | Availability | Notes |
 |-----------|--------|----------|-----------|--------------|-------|
 | White spruce | Interior | 15-17M | Fast | Very common | Taiga staple, resinous |
@@ -543,22 +551,22 @@ Midnight-6 AM: Fire burns down (wake every 2-3 hours to reload, or accept cold)
 
 **Traditional Inuit/Native Methods:**
 1. **Seal oil lamp (qulliq):**
-   - Burns seal/whale blubber (rendered fat)
-   - Soapstone lamp, moss wick
-   - Provides heat, light, cooking
-   - Can keep shelter above freezing
+- Burns seal/whale blubber (rendered fat)
+- Soapstone lamp, moss wick
+- Provides heat, light, cooking
+- Can keep shelter above freezing
 2. **Animal fat candles:**
-   - Rendered caribou, bear fat
-   - Slow burn
+- Rendered caribou, bear fat
+- Slow burn
 3. **Driftwood:**
-   - Coastal tundra (ocean brings wood from Siberia, Alaska rivers)
-   - Collect in summer, store for winter
+- Coastal tundra (ocean brings wood from Siberia, Alaska rivers)
+- Collect in summer, store for winter
 4. **Peat/tundra sod:**
-   - Burns slowly (like coal)
-   - Smoky, low heat, but better than nothing
+- Burns slowly (like coal)
+- Smoky, low heat, but better than nothing
 5. **Willow (dwarf):**
-   - Grows along streams (even on tundra)
-   - Small, but usable for cooking fire
+- Grows along streams (even on tundra)
+- Small, but usable for cooking fire
 
 **Modern (If Available):**
 - Kerosene heaters (fuel must be flown in - expensive, logistically challenging)
@@ -569,7 +577,7 @@ Midnight-6 AM: Fire burns down (wake every 2-3 hours to reload, or accept cold)
 
 ---
 
-## Seasonal Survival Strategies
+## Seasonal Surv
 
 ### Summer (June-August) - SHORT, CRITICAL WINDOW
 
@@ -584,16 +592,16 @@ Midnight-6 AM: Fire burns down (wake every 2-3 hours to reload, or accept cold)
 
 **Challenges:**
 - **Mosquitoes:** BIBLICAL PLAGUE (clouds of millions, drive humans insane)
-  - Peak: June-July
-  - Density: 50-100 bites per minute in still air (unprotected)
-  - Solution: Netting, DEET, smoke, wind (hilltops), accept suffering
+- Peak: June-July
+- Density: 50-100 bites per minute in still air (unprotected)
+- Solution: Netting, DEET, smoke, wind (hilltops), accept suffering
 - **No darkness:** Sleep disruption (melatonin production affected)
 - **Short season:** 10-12 weeks total (lower than lower 48)
 
 **Priorities (EVERYTHING happens in summer):**
 1. **SALMON FISHING (CRITICAL):** One week = entire winter's protein
-   - Catch: Hundreds of fish (if on good stream)
-   - Preserve: Smoke, dry (strips), salt (if available)
+- Catch: Hundreds of fish (if on good stream)
+- Preserve: Smoke, dry (strips), salt (if available)
 2. **Berry harvest:** Dry for winter (blueberry, salmonberry, cranberry)
 3. **Firewood:** Cut/split/stack 8-12 cords (before ground freezes)
 4. **Build/repair shelter:** Before snow (September)
@@ -622,10 +630,10 @@ Midnight-6 AM: Fire burns down (wake every 2-3 hours to reload, or accept cold)
 1. **Final hunting:** Moose = 6-12 months meat (one animal = survival)
 2. **Complete firewood:** 8-12 cords minimum (stack, cover, near shelter)
 3. **Shelter winterization:**
-   - Final insulation (R-60+)
-   - Chink all gaps (moss, mud, modern caulk)
-   - Test wood stove, chimney (clean creosote)
-   - Storm supplies (food, fuel, water access plan)
+- Final insulation (R-60+)
+- Chink all gaps (moss, mud, modern caulk)
+- Test wood stove, chimney (clean creosote)
+- Storm supplies (food, fuel, water access plan)
 4. **Fat harvest:** Bears fattening (render fat = cooking oil, calories, lamp fuel)
 5. **Cache meat:** Dig permafrost cache (natural freezer)
 6. **Mental preparation:** 6+ months of darkness, isolation coming
@@ -645,9 +653,9 @@ Midnight-6 AM: Fire burns down (wake every 2-3 hours to reload, or accept cold)
 
 **Priorities:**
 1. **FIRE MAINTENANCE:** 24/7 vigilance (life depends on it)
-   - Reload stove every 3-4 hours (around the clock)
-   - Never let fire die completely
-   - Keep 2+ weeks firewood INDOORS (can't fetch from outdoor pile in -50°F)
+- Reload stove every 3-4 hours (around the clock)
+- Never let fire die completely
+- Keep 2+ weeks firewood INDOORS (can't fetch from outdoor pile in -50°F)
 2. **Water:** Melt ice/snow (daily chore, fuel-intensive)
 3. **Food rationing:** Make stored fish/meat/berries last 6 months
 4. **Mental health:** Darkness (SAD lamps if available), routine, purpose
@@ -705,7 +713,7 @@ Midnight-6 AM: Fire burns down (wake every 2-3 hours to reload, or accept cold)
 
 ---
 
-## Regional Hazards Summary
+## Regional Hazards
 
 **Primary Killers:**
 1. **Hypothermia/cold exposure:** -40°F to -60°F, equipment failure, frostbite in minutes

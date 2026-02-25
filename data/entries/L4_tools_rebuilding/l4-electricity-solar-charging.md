@@ -46,6 +46,6 @@ steps:
   but sensitive to deep discharge — never let voltage drop below 2.5V per cell.'
 ---
 
-# Solar Panel Systems for Off-Grid Power
+# Solar Panel Systems
 
 A basic solar system for survival: panel → charge controller → battery → loads. Even a single 20W panel can charge radios, flashlights, phones (communication), and medical devices. Understanding the math prevents wasted panels and dead batteries.

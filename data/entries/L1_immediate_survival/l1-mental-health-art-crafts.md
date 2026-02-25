@@ -35,7 +35,7 @@
 
 ---
 
-## Drawing & Sketching: The Most Accessible Art
+## Drawing & Sketching
 
 ### Materials (Post-Collapse Available)
 
@@ -128,7 +128,7 @@
 
 ---
 
-## Carving: Functional Beauty
+## Carving
 
 ### Materials & Tools
 
@@ -223,7 +223,7 @@
 
 ---
 
-## Weaving: Pattern as Meditation
+## Weaving: Pattern
 
 ### Basket Weaving (Most Practical)
 
@@ -408,7 +408,7 @@ DIAGRAM: Twill Pattern (2/2 Twill)
 
 ---
 
-## Group Art Projects: Community Bonding
+## Group Art
 
 ### Collaborative Quilting
 
@@ -477,7 +477,7 @@ DIAGRAM: Twill Pattern (2/2 Twill)
 
 ---
 
-## Art as Therapy: Clinical Applications
+## Art Therapy
 
 ### Trauma Processing
 
@@ -528,7 +528,7 @@ DIAGRAM: Twill Pattern (2/2 Twill)
 
 ---
 
-## Teaching Art: Everyone Can Create
+## Teaching Art
 
 ### "I Can't Draw" → "I Can Create"
 
@@ -562,7 +562,7 @@ DIAGRAM: Twill Pattern (2/2 Twill)
 
 ---
 
-## Historical Examples: Art in Extremity
+## Art in Extremis
 
 **WWII Concentration Camps:**
 - Secret drawings (documented horror)
@@ -583,7 +583,7 @@ DIAGRAM: Twill Pattern (2/2 Twill)
 
 ---
 
-## Conclusion: Create or Despair
+## Conclusion
 
 **Remember:**
 - Beauty is not frivolous - it's hope made visible
@@ -615,4 +615,4 @@ DIAGRAM: Twill Pattern (2/2 Twill)
 
 ---
 
-*Last Updated: 2026 | Sources: Art Therapy Journal (2016), American Art Therapy Association (2018), Environmental Psychology (2012), Csikszentmihalyi's Flow Research (1990-2020)*
+Last Updated: 2026 | Sources: Art Therapy Journal (2016), American Art Therapy Association (2018), Environmental Psychology (2012), Csikszentmihalyi's Flow Research (1990-2020)

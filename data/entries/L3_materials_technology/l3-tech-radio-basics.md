@@ -4,41 +4,41 @@ title: "Radio Basics: Emergency Communication Bands"
 layer: L3_materials_technology
 category: communications
 tags:
-  - radio
-  - emergency_communications
-  - FRS
-  - GMRS
-  - CB
-  - ham_radio
-  - marine_radio
+- radio
+- emergency_communications
+- FRS
+- GMRS
+- CB
+- ham_radio
+- marine_radio
 region_relevance:
-  - global
+- global
 summary: "Overview of radio services for emergency communication: FRS/GMRS (0.5-5W, 0.5-5 miles), CB radio (4W, 1-10 miles), Amateur Radio (1-1500W, local to worldwide), Marine VHF (1-25W, 5-60 miles), and NOAA Weather Radio. Includes frequency allocations, power limits, licensing requirements, and range expectations for each service."
 steps:
-  - "Understand the radio spectrum: VHF (30-300 MHz) for local line-of-sight, HF (3-30 MHz) for long-distance skywave propagation"
-  - "Select appropriate radio service based on needs: FRS for unlicensed family use, GMRS for extended family networks, CB for vehicle-to-vehicle, Ham for emergency preparedness, Marine VHF for waterborne operations"
-  - "Learn frequency allocations and channel assignments for your chosen service"
-  - "Understand power limits and range expectations under typical conditions"
-  - "Obtain required licenses (GMRS, Ham, Marine) or operate under emergency exemptions"
-  - "Program radios with emergency channels and test communications before crisis"
+- "Understand the radio spectrum: VHF (30-300 MHz) for local line-of-sight, HF (3-30 MHz) for long-distance skywave propagation"
+- "Select appropriate radio service based on needs: FRS for unlicensed family use, GMRS for extended family networks, CB for vehicle-to-vehicle, Ham for emergency preparedness, Marine VHF for waterborne operations"
+- "Learn frequency allocations and channel assignments for your chosen service"
+- "Understand power limits and range expectations under typical conditions"
+- "Obtain required licenses (GMRS, Ham, Marine) or operate under emergency exemptions"
+- "Program radios with emergency channels and test communications before crisis"
 warnings:
-  - "LEGAL: Operating without proper license can result in $10,000+ fines per violation. FCC actively enforces during emergencies when interference disrupts public safety communications"
-  - "RANGE LIMITS: Advertised ranges (e.g., '36 mile range') are theoretical maximum under perfect conditions (mountaintop to mountaintop, no obstructions). Real-world urban range is 10-20% of advertised"
-  - "PRIVACY: All analog radio transmissions are PUBLICLY AUDIBLE to anyone with a receiver. Never transmit sensitive information (passwords, locations of valuables, medical details) without encryption"
-  - "INTERFERENCE: Using wrong frequencies or excessive power can interfere with emergency services, aviation, or public safety. Know your authorized frequencies"
-  - "RF EXPOSURE: Handheld radios are safe at rated power. Fixed/mobile installations >10W require RF exposure evaluation per FCC OET Bulletin 65. Keep antenna >20cm from body during transmission"
-  - "BATTERY LIFE: Transmitting consumes 10-20× more power than receiving. A 5W transmission drains battery in 1-2 hours of continuous use. Limit transmissions, use lower power when possible"
+- "LEGAL: Operating without proper license can result in $10,000+ fines per violation. FCC actively enforces during emergencies when interference disrupts public safety communications"
+- "RANGE LIMITS: Advertised ranges (e.g., '36 mile range') are theoretical maximum under perfect conditions (mountaintop to mountaintop, no obstructions). Real-world urban range is 10-20% of advertised"
+- "PRIVACY: All analog radio transmissions are PUBLICLY AUDIBLE to anyone with a receiver. Never transmit sensitive information (passwords, locations of valuables, medical details) without encryption"
+- "INTERFERENCE: Using wrong frequencies or excessive power can interfere with emergency services, aviation, or public safety. Know your authorized frequencies"
+- "RF EXPOSURE: Handheld radios are safe at rated power. Fixed/mobile installations >10W require RF exposure evaluation per FCC OET Bulletin 65. Keep antenna >20cm from body during transmission"
+- "BATTERY LIFE: Transmitting consumes 10-20× more power than receiving. A 5W transmission drains battery in 1-2 hours of continuous use. Limit transmissions, use lower power when possible"
 related_entries:
-  - l3-tech-antenna-construction
-  - l3-tech-propagation
-  - l3-tech-emergency-comms
-  - l3-tech-digital-radio
+- l3-tech-antenna-construction
+- l3-tech-propagation
+- l3-tech-emergency-comms
+- l3-tech-digital-radio
 sources:
-  - FCC Part 95 (Personal Radio Services)
-  - FCC Part 97 (Amateur Radio Service)
-  - ARRL Handbook for Radio Communications
-  - FEMA AUXCOMM Program
-  - ITU Radio Regulations
+- FCC Part 95 (Personal Radio Services)
+- FCC Part 97 (Amateur Radio Service)
+- ARRL Handbook for Radio Communications
+- FEMA AUXCOMM Program
+- ITU Radio Regulations
 audit_status: verified
 last_verified: 2026-02-19
 confidence: high
@@ -51,7 +51,7 @@ Radio communication is the most reliable long-distance communication method when
 
 Each service operates on different frequencies, has different power limits, range capabilities, and licensing requirements. Understanding these differences is critical for selecting the right system for your emergency communication needs.
 
-## Radio Frequency Bands Overview
+## RF Bands
 
 Radio waves are electromagnetic radiation, categorized by frequency:
 
@@ -65,7 +65,7 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - **VHF/UHF** (30-3000 MHz): Local-area communications (5-50 miles). Requires line-of-sight or near-line-of-sight. Blocked by terrain and dense structures
 - **HF** (3-30 MHz): Regional-to-worldwide communications (100-10,000+ miles). Reflects off ionosphere. Requires larger antennas and higher power
 
-## FRS (Family Radio Service)
+## FRS
 
 **UNLICENSED** consumer radio service for short-range personal communications.
 
@@ -76,6 +76,7 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - **Shared channels**: 1-7, 15-22 (462 and 467 MHz)
 
 ### Channel Assignments (Primary)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Channel | Frequency (MHz) | Power Limit | Notes |
 |---------|----------------|-------------|-------|
 | 1 | 462.5625 | 2W | Shared with GMRS |
@@ -120,7 +121,7 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - ❌ **Broadcasting music or commercial content**: Prohibited
 - ✓ **Voice and data communications only**: Personal/business communications
 
-## GMRS (General Mobile Radio Service)
+## GMRS
 
 **LICENSED** consumer radio service for family/group communications with higher power and repeater access.
 
@@ -131,6 +132,7 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - **Repeater Outputs**: 462.5500-462.7250 MHz (channels 15-22)
 
 ### Channel Assignments
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Channel | Frequency (MHz) | Max Power | Use Type |
 |---------|----------------|-----------|----------|
 | 1-7 | 462.5625-462.7125 | 5W | Simplex (direct) |
@@ -140,9 +142,9 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 
 ### Technical Specifications
 - **Power Limits**:
-  - Handheld: 5W maximum
-  - Mobile/Base (channels 15-22): 50W maximum
-  - Mobile/Base (channels 1-14): 5W maximum
+- Handheld: 5W maximum
+- Mobile/Base (channels 15-22): 50W maximum
+- Mobile/Base (channels 1-14): 5W maximum
 - **Modulation**: FM, 20 kHz bandwidth (25 kHz for channels 15-22)
 - **Antenna**: Removable allowed (unlike FRS)
 - **Repeaters**: Allowed on channels 15-22 (enables 20-50+ mile range)
@@ -157,6 +159,7 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - **Callsign**: Issued by FCC (format: WRKXXXX). Must identify with callsign every 15 minutes and at end of transmission
 
 ### Range Expectations
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Scenario | Power | Expected Range |
 |----------|-------|----------------|
 | Handheld-to-handheld (urban) | 5W | 1-3 miles |
@@ -192,7 +195,7 @@ GMRS repeaters extend range by receiving on one frequency (467 MHz input) and si
 - ❌ **Using wrong repeater tone**: Won't access repeater
 - ✓ **Program correct CTCSS/DCS code**: Check repeater directory
 
-## CB (Citizens Band) Radio
+## CB Radio
 
 **UNLICENSED** radio service for short-to-medium range vehicle and base station communications.
 
@@ -202,6 +205,7 @@ GMRS repeaters extend range by receiving on one frequency (467 MHz input) and si
 - **Channel Spacing**: 10 kHz
 
 ### Channel Assignments (Key Channels)
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Channel | Frequency (MHz) | Common Use |
 |---------|----------------|------------|
 | 9 | 27.065 | **EMERGENCY CHANNEL** (official) |
@@ -219,9 +223,9 @@ GMRS repeaters extend range by receiving on one frequency (467 MHz input) and si
 - **Modulation**: AM (amplitude modulation) or SSB (single sideband)
 - **Antenna**: External antenna required (mobile whip, base vertical, beam)
 - **Range**:
-  - Local (AM): 1-5 miles (urban), 5-15 miles (rural, good antenna)
-  - Skip (HF propagation): 100-3000+ miles when ionosphere cooperates (sporadic)
-  - SSB: 2× range of AM (12W vs 4W, more efficient modulation)
+- Local (AM): 1-5 miles (urban), 5-15 miles (rural, good antenna)
+- Skip (HF propagation): 100-3000+ miles when ionosphere cooperates (sporadic)
+- SSB: 2× range of AM (12W vs 4W, more efficient modulation)
 
 ### Licensing & Operation
 - **License**: NONE required (unlicensed since 1983)
@@ -275,13 +279,14 @@ CB performance is **heavily antenna-dependent**. Poor antenna = poor performance
 - ❌ **Using illegal linear amplifiers**: "Linears" boost power to 100-1000W. Illegal, causes interference, FCC enforces
 - ✓ **Stick to 4W AM limit**: Legal and adequate for intended range
 
-## Amateur Radio (Ham Radio)
+## Amateur Radio
 
 **LICENSED** radio service with the **widest frequency privileges**, **highest power limits**, and **most capabilities** of any emergency communication system. Ham radio operators provide critical communications during disasters through ARES (Amateur Radio Emergency Service) and RACES (Radio Amateur Civil Emergency Service).
 
 ### Frequency Allocations
 Amateur radio has access to **25+ frequency bands** from 1.8 MHz (160 meters) to 275 GHz (1.2mm). Most emergency communications occur on:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Band | Frequency Range | Wavelength | Primary Use | Range |
 |------|----------------|------------|-------------|-------|
 | **160m** | 1.8-2.0 MHz | HF | Regional nighttime (100-1000 miles) | 100-1000 mi |
@@ -298,6 +303,7 @@ Amateur radio has access to **25+ frequency bands** from 1.8 MHz (160 meters) to
 ### Licensing Tiers
 Amateur radio requires passing FCC exam(s). Three license classes with increasing privileges:
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | License | Exam | Question Pool | Pass Score | Privileges |
 |---------|------|--------------|-----------|------------|
 | **Technician** | Element 2 | 35 questions | 26 correct (74%) | VHF/UHF all modes, limited HF (10m, 15m, 40m) |
@@ -322,6 +328,7 @@ Amateur radio requires passing FCC exam(s). Three license classes with increasin
 - **Practical**: Most stations run 5-100W (handheld 5W, mobile 50W, base 100W). 100W is adequate for worldwide HF communications with good antenna
 
 ### Range Capabilities
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Radio Type | Power | Frequency | Range | Use Case |
 |------------|-------|-----------|-------|----------|
 | HT (handheld) | 5W | VHF 2m | 2-10 miles simplex | Local direct comms |
@@ -336,6 +343,7 @@ Amateur radio requires passing FCC exam(s). Three license classes with increasin
 **DX**: Long-distance communications (>500 miles)
 
 ### Emergency Frequencies
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Frequency | Band | Mode | Use |
 |-----------|------|------|-----|
 | **146.520 MHz** | 2m VHF | FM | **National Simplex Calling** (most monitored VHF frequency) |
@@ -395,6 +403,7 @@ Amateur radio requires passing FCC exam(s). Three license classes with increasin
 - **Channel Spacing**: 25 kHz
 
 ### Key Marine Channels
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Channel | Frequency (MHz) | Use |
 |---------|----------------|-----|
 | **16** | 156.800 | **DISTRESS, SAFETY, CALLING** (monitored by Coast Guard) |
@@ -417,9 +426,9 @@ Amateur radio requires passing FCC exam(s). Three license classes with increasin
 - **Power**: 1W (low), 25W (high)
 - **Modulation**: FM (16 kHz bandwidth)
 - **Range**:
-  - Boat-to-boat (both moving): 5-10 miles (25W)
-  - Boat-to-Coast Guard shore station: 20-60 miles (depends on shore station antenna height)
-  - Boat-to-commercial repeater: 30-80 miles (tall repeater sites)
+- Boat-to-boat (both moving): 5-10 miles (25W)
+- Boat-to-Coast Guard shore station: 20-60 miles (depends on shore station antenna height)
+- Boat-to-commercial repeater: 30-80 miles (tall repeater sites)
 - **Line-of-sight**: VHF is limited by horizon. Range increases with antenna height
 
 **Range Formula** (nautical miles):
@@ -459,14 +468,14 @@ Modern marine VHF radios include **DSC** capability on Channel 70 (data channel)
 1. Turn radio to **Channel 16**
 2. Press and hold microphone button
 3. Speak slowly and clearly:
-   - "MAYDAY, MAYDAY, MAYDAY"
-   - "This is [vessel name] three times"
-   - "MAYDAY [vessel name]"
-   - "Position: [GPS coordinates or description]"
-   - "Nature of distress: [sinking, fire, medical emergency]"
-   - "Number of persons on board: [X]"
-   - "Description of vessel: [length, color, type]"
-   - "Over"
+- "MAYDAY, MAYDAY, MAYDAY"
+- "This is [vessel name] three times"
+- "MAYDAY [vessel name]"
+- "Position: [GPS coordinates or description]"
+- "Nature of distress: [sinking, fire, medical emergency]"
+- "Number of persons on board: [X]"
+- "Description of vessel: [length, color, type]"
+- "Over"
 4. Release microphone, listen for response
 5. Repeat every few minutes if no response
 6. **If radio has DSC distress button**: Press and hold for 3-5 seconds to send automated distress (includes GPS position)
@@ -558,8 +567,9 @@ NOAA Weather Radio uses **SAME** technology to target warnings to specific count
 - ❌ **Placing radio in basement or interior room**: Poor reception (VHF is line-of-sight)
 - ✓ **Place radio near window or with external antenna**: Improves reception
 
-## Radio Service Comparison Table
+## Radio Comp
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Service | Frequency | License | Cost (Radio) | Power | Typical Range | Best For |
 |---------|-----------|---------|-------------|-------|---------------|----------|
 | **FRS** | 462-467 MHz | ❌ None | $20-80 (pair) | 0.5-2W | 0.5-2 mi (urban), 2-5 mi (open) | Casual family use, hiking |
@@ -570,7 +580,7 @@ NOAA Weather Radio uses **SAME** technology to target warnings to specific count
 | **Marine VHF** | 156-163 MHz | ✓ (intl. only) | $80-400 | 1-25W | 5-60 mi (boat-to-coast) | Boating, maritime, coastal |
 | **NOAA WX** | 162 MHz | ❌ (RX only) | $25-70 | N/A (RX) | 40-70 mi | Weather alerts, emergency warnings |
 
-## Emergency Communication Strategy
+## Emerg Comm Strat
 
 ### Recommended Preparedness Plan
 **Layer 1 — Unlicensed Local (0-5 miles)**:

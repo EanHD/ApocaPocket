@@ -57,6 +57,6 @@ steps:
   Ask for help if others are present (raising children is community work). YOU must stay healthy — if you collapse, they all die.'
 ---
 
-# Children in Survival Situations — Ages 0-18
+# Children in Survival
 
 Children change everything. They can't forage, can't work long hours, need more food per body weight, and are more vulnerable to exposure. But they're also the future. This entry covers: keeping kids safe, age-appropriate tasks, education in survival, and psychological needs.

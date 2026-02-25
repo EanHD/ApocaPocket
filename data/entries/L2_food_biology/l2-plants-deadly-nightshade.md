@@ -54,7 +54,7 @@ steps:
 
 Deadly nightshade (Atropa belladonna) is one of the most poisonous plants in Europe and parts of North America. Contains tropane alkaloids (atropine, scopolamine) that cause severe nervous system effects. The attractive black berries are especially dangerous to children. Related nightshade species (black nightshade, bittersweet nightshade) have varying toxicity levels.
 
-## Step-by-step Identification
+## Identification
 
 ### DEADLY NIGHTSHADE (Atropa belladonna)
 
@@ -86,7 +86,7 @@ Deadly nightshade (Atropa belladonna) is one of the most poisonous plants in Eur
 - **BERRIES:** Green → yellow → orange → red when ripe. Oval, 0.3 inch, hang in clusters. All stages toxic
 - **HABITAT:** Moist areas, hedges, woodland edges
 
-## Identification Keys to Distinguish from Edibles
+## ID Keys
 
 ### DEADLY NIGHTSHADE vs BLUEBERRY/HUCKLEBERRY:
 - **Flowers:** Nightshade = bell-shaped dull purple; Blueberry = white/pink urn-shaped
@@ -98,7 +98,7 @@ Deadly nightshade (Atropa belladonna) is one of the most poisonous plants in Eur
 - **Stem:** Nightshade = solid pith; Elderberry = hollow
 - **Flowers:** Nightshade = bell-shaped purple; Elderberry = tiny white in flat clusters
 
-## Symptoms of Nightshade Poisoning
+## Nightshade Poison
 
 **ONSET:** 15 minutes to several hours
 

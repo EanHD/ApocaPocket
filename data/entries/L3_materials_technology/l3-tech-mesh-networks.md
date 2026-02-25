@@ -4,42 +4,42 @@ title: "Mesh Networks: Decentralized Local Communications"
 layer: L3_materials_technology
 category: communications
 tags:
-  - mesh_networking
-  - Meshtastic
-  - LoRa
-  - WiFi_mesh
-  - Bluetooth_mesh
-  - OLSR
-  - Batman
-  - decentralized_networks
+- mesh_networking
+- Meshtastic
+- LoRa
+- WiFi_mesh
+- Bluetooth_mesh
+- OLSR
+- Batman
+- decentralized_networks
 region_relevance:
-  - global
+- global
 summary: "Mesh networking creates decentralized communication networks where each node relays data for others, eliminating single points of failure. Covers Meshtastic (LoRa, 5-50 mile range), Wi-Fi mesh (OLSR/Batman protocols, 100-500 meter range), Bluetooth mesh (10-100 meter range), node placement strategies, encryption, and emergency deployment for neighborhood-scale communications."
 steps:
-  - "Select mesh technology based on range and bandwidth: Meshtastic/LoRa for long-range low-bandwidth (1-10 kbps), Wi-Fi mesh for medium-range high-bandwidth (1-50 Mbps), Bluetooth for short-range low-power"
-  - "Deploy minimum 3-5 nodes for reliable mesh (2 nodes = single point of failure, 3+ enables redundant paths)"
-  - "Optimize node placement for line-of-sight or near-line-of-sight between nodes (elevation, clear Fresnel zone)"
-  - "Configure mesh parameters: channel, encryption key, hop limit, routing protocol"
-  - "Test mesh connectivity and measure signal strength between nodes, add nodes to fill coverage gaps"
+- "Select mesh technology based on range and bandwidth: Meshtastic/LoRa for long-range low-bandwidth (1-10 kbps), Wi-Fi mesh for medium-range high-bandwidth (1-50 Mbps), Bluetooth for short-range low-power"
+- "Deploy minimum 3-5 nodes for reliable mesh (2 nodes = single point of failure, 3+ enables redundant paths)"
+- "Optimize node placement for line-of-sight or near-line-of-sight between nodes (elevation, clear Fresnel zone)"
+- "Configure mesh parameters: channel, encryption key, hop limit, routing protocol"
+- "Test mesh connectivity and measure signal strength between nodes, add nodes to fill coverage gaps"
 warnings:
-  - "LINE-OF-SIGHT: Mesh networks (especially LoRa, Wi-Fi) require line-of-sight or near-line-of-sight between nodes. Buildings, hills, dense foliage block signals. Deploy nodes on rooftops, hills, or elevated poles. A single blocked path can isolate entire neighborhood"
-  - "HOP LIMIT: Each relay (hop) adds latency (50-500ms per hop) and reduces effective bandwidth (50% per hop for Wi-Fi). Keep hop count <4 for usable real-time communications. 10-hop mesh has 10-20 second latency"
-  - "ENCRYPTION: Unencrypted mesh traffic is readable by anyone with compatible receiver. Always enable encryption (AES-256 for Meshtastic, WPA2/WPA3 for Wi-Fi mesh). Default encryption keys widely known — change immediately"
-  - "POWER: Mesh nodes require continuous power (solar + battery or grid). Single dead node can partition network. Plan battery capacity for 24-72 hours autonomy (LoRa: 1-5Ah, Wi-Fi: 20-100Ah)"
-  - "FREQUENCY REGULATIONS: LoRa operates on unlicensed ISM bands (915 MHz US, 868 MHz EU) with duty cycle limits (1-10% in EU, unlimited in US). Exceeding duty cycle violates regulations and degrades network performance"
-  - "BANDWIDTH LIMITS: Meshtastic/LoRa limited to 1-10 kbps (text messaging only, no voice/video). Wi-Fi mesh degrades rapidly with >10-20 active users per node. Bluetooth mesh limited to sensor data and short messages"
+- "LINE-OF-SIGHT: Mesh networks (especially LoRa, Wi-Fi) require line-of-sight or near-line-of-sight between nodes. Buildings, hills, dense foliage block signals. Deploy nodes on rooftops, hills, or elevated poles. A single blocked path can isolate entire neighborhood"
+- "HOP LIMIT: Each relay (hop) adds latency (50-500ms per hop) and reduces effective bandwidth (50% per hop for Wi-Fi). Keep hop count <4 for usable real-time communications. 10-hop mesh has 10-20 second latency"
+- "ENCRYPTION: Unencrypted mesh traffic is readable by anyone with compatible receiver. Always enable encryption (AES-256 for Meshtastic, WPA2/WPA3 for Wi-Fi mesh). Default encryption keys widely known — change immediately"
+- "POWER: Mesh nodes require continuous power (solar + battery or grid). Single dead node can partition network. Plan battery capacity for 24-72 hours autonomy (LoRa: 1-5Ah, Wi-Fi: 20-100Ah)"
+- "FREQUENCY REGULATIONS: LoRa operates on unlicensed ISM bands (915 MHz US, 868 MHz EU) with duty cycle limits (1-10% in EU, unlimited in US). Exceeding duty cycle violates regulations and degrades network performance"
+- "BANDWIDTH LIMITS: Meshtastic/LoRa limited to 1-10 kbps (text messaging only, no voice/video). Wi-Fi mesh degrades rapidly with >10-20 active users per node. Bluetooth mesh limited to sensor data and short messages"
 related_entries:
-  - l3-tech-radio-basics
-  - l3-tech-antenna-construction
-  - l3-tech-digital-radio
-  - l3-tech-propagation
+- l3-tech-radio-basics
+- l3-tech-antenna-construction
+- l3-tech-digital-radio
+- l3-tech-propagation
 sources:
-  - Meshtastic documentation (meshtastic.org)
-  - OLSR Protocol RFC 3626
-  - B.A.T.M.A.N. protocol documentation (open-mesh.org)
-  - LoRa Alliance specifications
-  - Bluetooth SIG mesh specifications
-  - FEMA AUXCOMM guidance on mesh networks
+- Meshtastic documentation (meshtastic.org)
+- OLSR Protocol RFC 3626
+- B.A.T.M.A.N. protocol documentation (open-mesh.org)
+- LoRa Alliance specifications
+- Bluetooth SIG mesh specifications
+- FEMA AUXCOMM guidance on mesh networks
 audit_status: verified
 last_verified: 2026-02-19
 confidence: high
@@ -69,8 +69,9 @@ This guide covers **three primary mesh technologies** for emergency local commun
 2. **Wi-Fi Mesh**: 100-500 meter range, high bandwidth (1-50 Mbps), voice/video/data, power-hungry
 3. **Bluetooth Mesh**: 10-100 meter range, ultra-low power, sensor networks and short messaging
 
-## Mesh Technology Comparison
+## Mesh Tech Comp
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Technology | Range (per hop) | Bandwidth | Power | Use Case | Cost per Node |
 |------------|-----------------|-----------|-------|----------|--------------|
 | **Meshtastic (LoRa)** | 5-50 miles | 1-10 kbps | 0.1-0.5W | Long-range text, GPS tracking, low-bandwidth sensor data | $30-80 |
@@ -82,7 +83,7 @@ This guide covers **three primary mesh technologies** for emergency local commun
 - **Medium-range, high-bandwidth** (voice calls, video, file sharing within neighborhood): **Wi-Fi Mesh**
 - **Short-range, ultra-low-power** (building automation, sensor monitoring, indoor): **Bluetooth Mesh**
 
-## Technology 1: Meshtastic (LoRa)
+## Meshtastic
 
 **Meshtastic** is open-source mesh networking firmware running on LoRa (Long Range) radio hardware. Designed for **off-grid text messaging and GPS tracking** with extreme range and minimal power consumption.
 
@@ -91,15 +92,15 @@ This guide covers **three primary mesh technologies** for emergency local commun
 **LoRa Technology**:
 - **Modulation**: Chirp Spread Spectrum (CSS), extremely resistant to interference and fading
 - **Frequency**: 
-  - **North America**: 902-928 MHz (ISM band, unlicensed, no duty cycle limit)
-  - **Europe**: 863-870 MHz (ISM band, 1-10% duty cycle limit)
-  - **Asia/Pacific**: 915-928 MHz (varies by country)
+- **North America**: 902-928 MHz (ISM band, unlicensed, no duty cycle limit)
+- **Europe**: 863-870 MHz (ISM band, 1-10% duty cycle limit)
+- **Asia/Pacific**: 915-928 MHz (varies by country)
 - **Data Rate**: 0.3-10 kbps (depending on spreading factor and bandwidth)
 - **Range**: 
-  - Urban (buildings, obstacles): 0.5-5 miles per hop
-  - Suburban (moderate obstacles): 2-10 miles per hop
-  - Rural (open terrain, elevated nodes): 5-30 miles per hop
-  - Line-of-sight (mountaintop-to-mountaintop): 50-100+ miles (record: 254 miles)
+- Urban (buildings, obstacles): 0.5-5 miles per hop
+- Suburban (moderate obstacles): 2-10 miles per hop
+- Rural (open terrain, elevated nodes): 5-30 miles per hop
+- Line-of-sight (mountaintop-to-mountaintop): 50-100+ miles (record: 254 miles)
 
 **Meshtastic Features**:
 - **Text Messaging**: Point-to-point, broadcast, or group messages
@@ -144,8 +145,8 @@ This guide covers **three primary mesh technologies** for emergency local commun
 **Antenna Types**:
 - **Stock Antenna** (included with dev boards): 3dBi gain, 1-5 mile range typical
 - **Upgraded 915 MHz Antenna** (5-9dBi): $10-25, 2-3× range improvement
-  - Taoglas FXP840 (5dBi, $15)
-  - Pulse Larsen NMO915 (6dBi, $20)
+- Taoglas FXP840 (5dBi, $15)
+- Pulse Larsen NMO915 (6dBi, $20)
 - **Directional Antenna** (Yagi, 8-15dBi): $30-80, 3-5× range in one direction
 - **Base Station Antenna** (Collinear, 8-12dBi): $40-100, omnidirectional, requires mounting on mast
 
@@ -218,9 +219,9 @@ This guide covers **three primary mesh technologies** for emergency local commun
 1. Settings → Channels → Add Channel
 2. Set **Name** (e.g., "Family", "EMCOMM", "Neighborhood Watch")
 3. Set **PSK** (Pre-Shared Key, encryption key)
-   - Default: `AQ==` (widely known, not secure)
-   - Generate random key: Use app's "Generate" button
-   - Share key with authorized users (QR code or URL)
+- Default: `AQ==` (widely known, not secure)
+- Generate random key: Use app's "Generate" button
+- Share key with authorized users (QR code or URL)
 4. Configure **Uplink/Downlink** (optional, for gateway nodes with internet)
 
 **Primary Channel**: All nodes must share same primary channel to communicate. Additional channels (secondary) can be added for multi-group operations.
@@ -307,7 +308,7 @@ This guide covers **three primary mesh technologies** for emergency local commun
 - ❌ **Expecting real-time voice**: LoRa is text-only, 1-10 second latency per message
 - ✓ **Use for text messaging and GPS tracking**: Not suitable for voice/video
 
-## Technology 2: Wi-Fi Mesh Networks
+## Wi-Fi Mesh
 
 **Wi-Fi mesh** uses standard 2.4 GHz or 5 GHz Wi-Fi radios with mesh routing protocols (OLSR, Batman) to create multi-hop networks. Provides high bandwidth (voice, video, file sharing) over moderate range (100-500 meters per hop).
 
@@ -328,6 +329,7 @@ This guide covers **three primary mesh technologies** for emergency local commun
 - **Use Case**: Community networks, neighborhood mesh, internet-sharing
 
 **Comparison**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | OLSR | B.A.T.M.A.N. |
 |---------|------|-------------|
 | **Layer** | Layer 3 (IP) | Layer 2 (Ethernet) |
@@ -343,9 +345,9 @@ This guide covers **three primary mesh technologies** for emergency local commun
 **Option 1: Consumer Routers with OpenWrt** ($30-80)
 - Flash OpenWrt firmware (open-source router firmware with mesh support)
 - Models:
-  - **TP-Link Archer C7**: $60, dual-band, 450 Mbps, popular OpenWrt target
-  - **GL.iNet GL-AR750S**: $70, pre-installed OpenWrt, travel router form factor
-  - **Linksys WRT1900ACS**: $80, high-performance, dual-band, 1900 Mbps
+- **TP-Link Archer C7**: $60, dual-band, 450 Mbps, popular OpenWrt target
+- **GL.iNet GL-AR750S**: $70, pre-installed OpenWrt, travel router form factor
+- **Linksys WRT1900ACS**: $80, high-performance, dual-band, 1900 Mbps
 
 **Advantages**: Inexpensive, widely available, good performance
 **Disadvantages**: Indoor-only (not weatherproof), AC power required
@@ -378,8 +380,8 @@ This guide covers **three primary mesh technologies** for emergency local commun
 1. Connect to OpenWrt router via SSH or web interface (LuCI)
 2. System → Software → Update Lists
 3. Install packages:
-   - `kmod-batman-adv` (B.A.T.M.A.N. kernel module)
-   - `batctl` (B.A.T.M.A.N. control utility)
+- `kmod-batman-adv` (B.A.T.M.A.N. kernel module)
+- `batctl` (B.A.T.M.A.N. control utility)
 4. Reboot
 
 **Step 3: Configure Mesh Interface**
@@ -411,13 +413,13 @@ This guide covers **three primary mesh technologies** for emergency local commun
 **Node Placement**:
 - **Line-of-Sight**: Wi-Fi is **highly** sensitive to obstacles. Trees, buildings, hills block signals
 - **Fresnel Zone**: 60% of Fresnel zone must be clear (ellipsoid volume between antennas)
-  - Fresnel radius (meters) ≈ 17.3 × √(distance_km / frequency_GHz)
-  - Example: 500m link at 2.4 GHz → Fresnel radius ≈ 5 meters (10-meter wide clear path required)
+- Fresnel radius (meters) ≈ 17.3 × √(distance_km / frequency_GHz)
+- Example: 500m link at 2.4 GHz → Fresnel radius ≈ 5 meters (10-meter wide clear path required)
 - **Elevation**: Raise nodes above obstacles (rooftops, poles, trees)
 - **Spacing**: 
-  - **Urban** (buildings, clutter): 100-300 meters per hop
-  - **Suburban** (houses, trees): 200-500 meters per hop
-  - **Rural** (open terrain): 500-2000 meters per hop (with directional antennas)
+- **Urban** (buildings, clutter): 100-300 meters per hop
+- **Suburban** (houses, trees): 200-500 meters per hop
+- **Rural** (open terrain): 500-2000 meters per hop (with directional antennas)
 
 **Network Topology**:
 
@@ -480,9 +482,9 @@ This guide covers **three primary mesh technologies** for emergency local commun
 2. Configure mesh ESSID: `wildfire-mesh`
 3. Each home connects to mesh via Wi-Fi (ESSID: `EmergencyNet`, password shared)
 4. Deploy services:
-   - Mumble VoIP server (voice calls)
-   - Matrix messaging server (text chat)
-   - File server with evacuation maps (offline access)
+- Mumble VoIP server (voice calls)
+- Matrix messaging server (text chat)
+- File server with evacuation maps (offline access)
 5. Test weekly (voice call, send messages, download maps)
 
 **Post-Event Operations**:
@@ -514,7 +516,7 @@ This guide covers **three primary mesh technologies** for emergency local commun
 - ❌ **No encryption**: Open Wi-Fi mesh, anyone can connect and eavesdrop
 - ✓ **WPA2/WPA3 on client AP**: Mesh interface can be open (between trusted nodes), but client access should be encrypted
 
-## Technology 3: Bluetooth Mesh
+## Bluetooth Mesh
 
 **Bluetooth Mesh** (BLE Mesh) is low-power mesh networking standard for IoT devices. Ideal for **indoor sensor networks**, **building automation**, and **short-range messaging**.
 
@@ -612,7 +614,7 @@ This guide covers **three primary mesh technologies** for emergency local commun
 - ❌ **No redundant paths**: Linear topology (single chain of nodes), one dead node breaks mesh
 - ✓ **Grid topology**: Each node connects to 2-4 neighbors, creates redundant paths
 
-## Node Placement & Coverage Planning
+## Node Placement
 
 **General Principles** (applies to all mesh technologies):
 
@@ -713,6 +715,7 @@ Range (miles) ≈ 1.17 × √(height_feet)
 - **Disadvantages**: Higher cost ($50-200 per node), requires sunlight, larger installation
 
 **Power Requirements**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Technology | Power Draw | Battery Life (10000mAh) | Solar Panel Size |
 |------------|-----------|------------------------|------------------|
 | **Meshtastic** | 0.1-0.5W | 3-7 days | 5W panel + 5Ah battery |

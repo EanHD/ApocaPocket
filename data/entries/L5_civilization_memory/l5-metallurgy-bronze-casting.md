@@ -30,6 +30,7 @@ Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 
 
 ### Variations (By Application)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Copper % | Tin % | Other | Properties | Uses |
 |------|----------|-------|-------|------------|------|
 | **Standard bronze** | 90 | 10 | — | Hard, durable, castable | General tools, weapons, art |
@@ -63,9 +64,9 @@ Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 
 **Cassiterite** (SnO₂):
 - **Appearance**: Black/brown, heavy, metallic luster
 - **Locations**: Tin is RARE (only specific mining regions)
-  - Cornwall, England (historic source)
-  - Bolivia, Malaysia, China
-  - Alluvial deposits (riverbeds in tin-bearing regions)
+- Cornwall, England (historic source)
+- Bolivia, Malaysia, China
+- Alluvial deposits (riverbeds in tin-bearing regions)
 - **Smelting**: Heat with charcoal, similar to copper
 
 **Modern scrap**:
@@ -77,7 +78,7 @@ Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 
 
 ---
 
-## Smelting Copper & Tin (If Using Ore)
+## Smelt Copper & Tin
 
 ### Copper Smelting (Small Scale)
 1. **Crush ore** to pea-sized pieces
@@ -94,7 +95,7 @@ Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 
 
 ---
 
-## Crucibles (Containers for Molten Metal)
+## Crucibles
 
 ### Materials
 **Clay crucibles** (DIY):
@@ -119,7 +120,7 @@ Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 
 
 ---
 
-## Furnace for Bronze Melting
+## Furnace Bronze
 
 ### Requirements
 - **Temperature**: 1900-2000°F sustained
@@ -224,7 +225,7 @@ Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 
 
 ---
 
-## DIAGRAM: Lost-Wax Casting Process
+## Lost-Wax Casting
 
 ```
 STEP 1: WAX MODEL
@@ -283,7 +284,7 @@ STEP 5: BREAK MOLD, REVEAL CASTING
 
 ---
 
-## Pouring Technique (Safety & Quality)
+## Pouring Tech
 
 ### Preparation
 1. **Dry everything**: Molds, tools, workspace (moisture + molten metal = EXPLOSION)
@@ -294,15 +295,15 @@ STEP 5: BREAK MOLD, REVEAL CASTING
 ### Melting Bronze
 1. **Load crucible**: Copper + tin (pre-weighed, correct ratio)
 2. **Heat slowly**: 30-60 minutes to 1950-2000°F
-   - **Color**: Golden-orange, fluid (like water)
-   - **Test**: Dip iron rod—should flow smoothly off rod
+- **Color**: Golden-orange, fluid (like water)
+- **Test**: Dip iron rod—should flow smoothly off rod
 3. **Skim dross**: Remove oxide layer from surface (scoop with iron spoon)
 
 ### Pouring
 1. **Lift crucible** with tongs (firm grip, test balance before lifting)
 2. **Pour steadily**: Smooth stream (not drips, not waterfall)
-   - **Too slow**: Bronze cools, doesn't fill mold completely
-   - **Too fast**: Turbulence traps air bubbles
+- **Too slow**: Bronze cools, doesn't fill mold completely
+- **Too fast**: Turbulence traps air bubbles
 3. **Fill mold completely**: Overfill slightly (shrinkage during cooling)
 4. **Don't stop mid-pour** (cold shuts = weak joint)
 
@@ -313,7 +314,7 @@ STEP 5: BREAK MOLD, REVEAL CASTING
 
 ---
 
-## Safety (EXTREME HAZARDS)
+## Safety Hazards
 
 ### Molten Metal
 ⚠️ **Bronze at 1950°F = instant severe burns**, melts through clothing/skin
@@ -341,8 +342,9 @@ STEP 5: BREAK MOLD, REVEAL CASTING
 
 ---
 
-## Common Casting Defects & Fixes
+## Common Cast Defects
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Problem | Cause | Solution |
 |---------|-------|----------|
 | **Incomplete casting** (voids) | Bronze cooled too fast, mold too cold | Preheat mold higher, pour hotter, faster pour |
@@ -404,7 +406,7 @@ Bronze naturally oxidizes to green/brown. **Accelerate** for desired finish:
 
 ---
 
-## Why Bronze Before Iron?
+## Bronze vs Iron
 
 **Timeline**:
 - **3000 BCE**: Bronze Age begins (Mesopotamia)
@@ -436,12 +438,12 @@ Bronze naturally oxidizes to green/brown. **Accelerate** for desired finish:
 
 ---
 
-## References & Further Study
+## Refs & Study
 
-- *The Complete Metalsmith* by Tim McCreight (casting, finishing, professional techniques)
-- *Practical Casting* by Tim McCreight (detailed casting methods)
-- *Bronze Age Metalworking* by Stuart W. Fleming (archaeological techniques)
-- *Lost Wax Casting* by Fred R. Miller (comprehensive guide)
+- The Complete Metalsmith by Tim McCreight (casting, finishing, professional techniques)
+- Practical Casting by Tim McCreight (detailed casting methods)
+- Bronze Age Metalworking by Stuart W. Fleming (archaeological techniques)
+- Lost Wax Casting by Fred R. Miller (comprehensive guide)
 
 ---
 

@@ -9,11 +9,11 @@ time_required: "continuous supervision required"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "American Academy of Pediatrics (AAP) Water Safety Guidelines"
-  - "American Red Cross Water Safety Program"
-  - "Safe Kids Worldwide Drowning Prevention"
-  - "WHO Global Report on Drowning Prevention"
-  - "U.S. Coast Guard Life Jacket Safety Standards"
+- "American Academy of Pediatrics (AAP) Water Safety Guidelines"
+- "American Red Cross Water Safety Program"
+- "Safe Kids Worldwide Drowning Prevention"
+- "WHO Global Report on Drowning Prevention"
+- "U.S. Coast Guard Life Jacket Safety Standards"
 ---
 
 # Child Water Safety - Drowning Prevention and Rescue
@@ -140,7 +140,7 @@ sources:
 
 ---
 
-## Drowning Recognition - What It Actually Looks Like
+## Drowning Recog
 
 **Hollywood drowning:** Splashing, waving arms, yelling "HELP!"  
 **Actual drowning:** Silent, motionless, vertical in water
@@ -159,16 +159,15 @@ sources:
 
 **Signs of drowning (Francisco Pia IDR signs):**
 
-| **Drowning Sign** | **What You See** |
-|-------------------|------------------|
-| **Vertical position** | Body upright in water, not horizontal like swimming |
-| **Head back, mouth open** | Tilted back, gasping when mouth above water |
-| **Eyes glassy, unfocused** | Cannot focus on you or anything, "thousand-yard stare" |
-| **Hair in eyes** | No attempt to clear hair from face (all effort on breathing) |
-| **Not using legs** | Vertical, no kicking |
-| **Hyperventilating or gasping** | Rapid, shallow breathing when mouth surfaces |
-| **Attempting to swim but no progress** | Arm movement but not going anywhere |
-| **Attempting to roll to back** | Trying to get mouth above water, failing |
+****Drowning Sign**:** **What You See**
+****Vertical position**:** Body upright in water, not horizontal like swimming
+****Head back, mouth open**:** Tilted back, gasping when mouth above water
+****Eyes glassy, unfocused**:** Cannot focus on you or anything, "thousand-yard stare"
+****Hair in eyes**:** No attempt to clear hair from face (all effort on breathing)
+****Not using legs**:** Vertical, no kicking
+****Hyperventilating or gasping**:** Rapid, shallow breathing when mouth surfaces
+****Attempting to swim but no progress**:** Arm movement but not going anywhere
+****Attempting to roll to back**:** Trying to get mouth above water, failing
 
 **In children specifically:**
 - May appear to be "climbing an invisible ladder" (arms moving up and down)
@@ -202,7 +201,7 @@ sources:
 
 ---
 
-## Supervision Protocols by Environment
+## Supervision Protocols
 
 ### Pool Supervision (Backyard, Community)
 
@@ -214,9 +213,9 @@ sources:
 
 **Layers of protection:**
 1. **Fencing:** 4-sided isolation fence (not house as 4th side)
-   - 4 feet minimum height
-   - Vertical bars <4 inches apart (child can't slip through)
-   - Self-closing, self-latching gate (latch at adult height)
+- 4 feet minimum height
+- Vertical bars <4 inches apart (child can't slip through)
+- Self-closing, self-latching gate (latch at adult height)
 2. **Alarms:** Door alarm on house exits leading to pool area
 3. **Pool cover:** Safety cover (not solar cover - child can slip under and not be seen)
 4. **Rescue equipment:** Life hook and flotation device within reach
@@ -242,6 +241,7 @@ sources:
 
 **Environmental hazards:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hazard | Recognition | Protocol |
 |--------|-------------|----------|
 | **Rip current** | Narrow strip of choppy, discolored water moving seaward | Swim parallel to shore until out of current, then swim to shore |
@@ -274,12 +274,13 @@ sources:
 
 ---
 
-## Personal Flotation Devices (PFDs / Life Jackets)
+## Personal Flotation
 
 ### PFD Types and Uses
 
 **U.S. Coast Guard Classification:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Name | Use | Child Appropriate? |
 |------|------|-----|-------------------|
 | **Type I** | Offshore life jacket | Open ocean, high waves, unconscious flotation | Yes (turns face-up) |
@@ -300,6 +301,7 @@ sources:
 
 **Sizing is by WEIGHT, not age** (manufacturers vary - always check label).
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Weight Range | Chest Size (approx) | Fit Test |
 |------|--------------|---------------------|----------|
 | **Infant** | 0-30 lbs (0-14 kg) | <20 inches (50 cm) | Head support collar, crotch strap mandatory |
@@ -375,7 +377,7 @@ sources:
 
 ---
 
-## Water Rescue Techniques
+## Water Rescue
 
 ### Primary Rule: Reach, Throw, Don't Go
 
@@ -474,7 +476,7 @@ sources:
 
 ---
 
-## Drowning Rescue and Resuscitation
+## Drownin
 
 ### Immediate Actions Upon Rescue
 
@@ -532,7 +534,7 @@ sources:
 
 ---
 
-## Secondary Drowning / Delayed Complications
+## Secondary Drowning
 
 **Secondary drowning:** Water in lungs causes delayed breathing problems (4-24 hours later)
 
@@ -567,7 +569,7 @@ sources:
 
 ---
 
-## Cold Water Drowning - Special Considerations
+## Cold Water
 
 **Hypothermia protective effect:** Cold water (<70°F / 21°C) slows metabolism, preserves brain.
 
@@ -599,7 +601,7 @@ sources:
 
 ---
 
-## Water Safety Rules by Age
+## Water Safety
 
 ### Toddlers (1-3 Years)
 
@@ -641,7 +643,7 @@ sources:
 
 ---
 
-## Improvised Flotation Devices (Disaster Situations)
+## Improvised Flotation
 
 **If commercial PFDs unavailable:**
 
@@ -677,7 +679,7 @@ sources:
 
 ---
 
-## Post-Disaster Water Hazards
+## Post-Disaster Water
 
 ### Flood Water
 
@@ -713,24 +715,23 @@ sources:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| "He knows how to swim, he doesn't need supervision" | Even Olympic swimmers drown - always supervise |
-| "The life jacket is somewhere in the boat" | Life jacket ON before boarding |
-| "Just for a second..." (leaving child in bath/pool) | Never leave, not even for a second |
-| Jumping in to rescue without flotation | Reach, throw, row - don't go without flotation |
-| Assuming splashing/noise means drowning | Drowning is silent - watch for vertical body position |
-| CPR before rescue breaths in drowning | 5 rescue breaths FIRST (respiratory arrest, needs oxygen) |
-| Buying life jacket child will "grow into" | Must fit NOW (too big = slips off) |
-| Teaching child to swim = safe without supervision | Swimming skills don't eliminate drowning risk |
-| Assuming child can't drown in shallow water | 50% of child drownings in <6 inches of water |
-| Relying on swimming aids (floaties, water wings) | NOT Coast Guard approved - provide false security |
+**❌ Mistake:** ✓ Correct
+**"He knows how to swim, he doesn't need supervision":** Even Olympic swimmers drown - always supervise
+**"The life jacket is somewhere in the boat":** Life jacket ON before boarding
+**"Just for a second..." (leaving child in bath/pool):** Never leave, not even for a second
+**Jumping in to rescue without flotation:** Reach, throw, row - don't go without flotation
+**Assuming splashing/noise means drowning:** Drowning is silent - watch for vertical body position
+**CPR before rescue breaths in drowning:** 5 rescue breaths FIRST (respiratory arrest, needs oxygen)
+**Buying life jacket child will "grow into":** Must fit NOW (too big = slips off)
+**Teaching child to swim = safe without supervision:** Swimming skills don't eliminate drowning risk
+**Assuming child can't drown in shallow water:** 50% of child drownings in <6 inches of water
+**Relying on swimming aids (floaties, water wings):** NOT Coast Guard approved - provide false security
 
 ---
 
-## Emergency Water Safety Kit
+## Emergency Water Kit
 
 **Essential items:**
 - [ ] Life jackets for all children (properly sized, inspected)
@@ -752,7 +753,7 @@ sources:
 
 ---
 
-## Swimming Lessons - When and What Type
+## Swim Lessons
 
 **AAP recommendations:**
 - Age 1-4: Swimming lessons reduce drowning risk by 88%

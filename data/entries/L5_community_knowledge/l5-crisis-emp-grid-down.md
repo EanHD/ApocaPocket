@@ -34,7 +34,7 @@ warnings:
 - Most deaths are indirect (medical device failure, violence, starvation) not from the event itself
 ---
 
-# EMP & Grid-Down Scenarios — Electronics Failure & Recovery
+# EMP & Grid-Down
 
 Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable electronics and power grid over large areas. Grid-down from other causes (cyberattack, physical damage, fuel shortage) has similar effects. The modern world runs on electricity — when it stops, civilization has 72 hours before chaos begins.
 
@@ -66,7 +66,7 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 - **Aging infrastructure** (transformers failing, no replacements available)
 - **Economic crisis** (utilities can't afford maintenance)
 
-## IMMEDIATE ACTIONS (FIRST HOUR)
+## IMM ACT
 
 ### Recognition & Assessment (First 5 Minutes):
 - [ ] **STOP and assess:** What failed? (lights, phone, car, everything?)
@@ -77,20 +77,20 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 
 ### Immediate Security (Minutes 5-15):
 - [ ] **STAY HOME** - Do NOT get in car and drive (even if car works)
-  - Roads will be chaos within minutes (disabled cars, crashes, panic)
-  - Getting trapped away from home in first hours = major vulnerability
-  - Exception: If you're at work and home is < 30 min walk, consider going NOW before chaos peaks
+- Roads will be chaos within minutes (disabled cars, crashes, panic)
+- Getting trapped away from home in first hours = major vulnerability
+- Exception: If you're at work and home is < 30 min walk, consider going NOW before chaos peaks
 - [ ] **Lock all doors/windows** immediately
 - [ ] **Arm yourself** (firearms, knives, improvised weapons)
 - [ ] **Close curtains/blinds** (don't advertise lights or supplies)
 
 ### Water Priority (Minutes 15-60):
 - [ ] **FILL EVERY CONTAINER NOW** while municipal pressure lasts:
-  - Bathtubs (100+ gallons)
-  - Sinks
-  - Pots, pitchers, bottles, buckets
-  - Washing machine (clean)
-  - Any waterproof container
+- Bathtubs (100+ gallons)
+- Sinks
+- Pots, pitchers, bottles, buckets
+- Washing machine (clean)
+- Any waterproof container
 - **This is THE most critical first-hour action** — city water stops when pumps fail (hours) or elevated tanks empty (6-24 hours)
 
 ### Inventory & Planning (Remaining Hour):
@@ -103,7 +103,7 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 - [ ] **Light:** Flashlights, batteries, candles, lighters
 - [ ] **Communication:** Battery radio, walkie-talkies, ham radio (if operator)
 
-## TIMELINE-BASED PLANNING
+## TIMEPLAN
 
 ### FIRST 24 HOURS — Lockdown & Assessment
 
@@ -111,10 +111,10 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 
 **Water:**
 - After initial fill, identify ongoing sources:
-  - Well (manual pump or bucket drop)
-  - Stream/river (purify before drinking)
-  - Rain collection (set up tarps/gutters to barrels)
-  - Pool/hot tub (non-potable, use for washing/toilets)
+- Well (manual pump or bucket drop)
+- Stream/river (purify before drinking)
+- Rain collection (set up tarps/gutters to barrels)
+- Pool/hot tub (non-potable, use for washing/toilets)
 
 **Food:**
 - **Eat perishables FIRST** (refrigerator food spoils in 4-8 hours without power)
@@ -185,11 +185,11 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 **Community Structure:**
 - **Block/neighborhood level** (10-50 houses)
 - Designate roles:
-  - Security (armed watch, patrols)
-  - Food (coordinating gardens, foraging, hunting)
-  - Water (maintaining shared sources)
-  - Medical (best-trained person treats injuries)
-  - Communications (radio operator, messengers)
+- Security (armed watch, patrols)
+- Food (coordinating gardens, foraging, hunting)
+- Water (maintaining shared sources)
+- Medical (best-trained person treats injuries)
+- Communications (radio operator, messengers)
 - **Decision-making:** Elect temporary leadership or council
 
 **Resource Pooling & Trade:**
@@ -317,7 +317,7 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 - **Result:** Suicide, reckless behavior, giving up on survival tasks
 - **Avoid:** Small goals, daily wins, community support, future focus. Humans survived millennia without electricity.
 
-## RESOURCE ASSESSMENT MATRIX
+## RA Matrix
 
 ### What You NEED (Priority Order):
 
@@ -370,7 +370,7 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 - [ ] Books (survival, medical, agriculture)
 - [ ] Skills (inventory what you/neighbors know)
 
-## MENTAL HEALTH PROTOCOLS
+## Mental Health Protocol
 
 **Acute Stress (First 72 Hours):**
 - **Shock/Denial:** "This can't last" → Action plan (even if uncertain) combats paralysis
@@ -387,7 +387,7 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 - Remove means (lock up guns), 24/7 watch, intensive support, assign purpose/role
 - "You matter to us. We need you. Hold on."
 
-## DECISION MATRIX: Stay or Go?
+## Stay/Go
 
 **STAY if:**
 - Urban/suburban with defensible home
@@ -408,7 +408,7 @@ Electromagnetic pulse (EMP) from nuclear detonation or solar storm can disable e
 - Hope of "finding something better"
 - Highways (death traps — stranded cars, ambushes, mobs)
 
-## LONG-TERM SURVIVAL SKILLS PRIORITY
+## Long-term Skills
 
 1. **Water sourcing & purification**
 2. **Gardening/agriculture**

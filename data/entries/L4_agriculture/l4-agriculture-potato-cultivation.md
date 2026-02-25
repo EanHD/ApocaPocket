@@ -6,16 +6,16 @@ tags: ["potato", "cultivation", "storage", "staple-crop", "food-security"]
 confidence: "high"
 region: "global"
 sources:
-  - "university-extension-potato-guides"
-  - "usda-potato-production"
-  - "root-cellar-storage-practices"
+- "university-extension-potato-guides"
+- "usda-potato-production"
+- "root-cellar-storage-practices"
 related:
-  - "l4-agriculture-seed-saving"
-  - "l2-food-preservation-basics"
-  - "l4-soil-fertility-management"
+- "l4-agriculture-seed-saving"
+- "l2-food-preservation-basics"
+- "l4-soil-fertility-management"
 ---
 
-# Potato Cultivation & Storage
+# Potato Farming
 
 ## Overview
 Potatoes are high-yield staples with strong calorie return and practical storage potential.
@@ -25,7 +25,7 @@ Potatoes are high-yield staples with strong calorie return and practical storage
 - Typical spacing: 25–30 cm (10–12 in) in-row, 75–90 cm (30–36 in) between rows.
 - Plant depth commonly ~10 cm (4 in), adjusted for soil/climate.
 
-## Hilling and Canopy Management
+## Hill & Canopy Mgmt
 - Hill soil as plants grow to protect tubers from light.
 - Exposed tubers turn green (glycoalkaloid risk) and should not be eaten.
 

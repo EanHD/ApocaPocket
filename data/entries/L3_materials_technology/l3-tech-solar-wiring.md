@@ -19,7 +19,7 @@ Proper wiring connects solar panels to charge controllers and battery banks safe
 
 ---
 
-## Series vs Parallel Configuration
+## Series/Parallel
 
 ### Series Connection (Voltage Addition)
 
@@ -110,6 +110,7 @@ String 2 ──┘
 
 **Temperature derating** (ambient + solar heating):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Ambient Temp | Conduit/Roof | Free Air |
 |--------------|--------------|----------|
 | 30°C (86°F) | 0.91 | 0.94 |
@@ -139,6 +140,7 @@ Voltage Drop (V) = 2 × Length (ft) × Current (A) × Resistance (Ω/1000ft) ÷ 
 
 **Copper wire resistance** (AWG, at 75°C):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | AWG | Ω/1000 ft | Ampacity (75°C) | Max Amps (60°C) |
 |-----|-----------|-----------------|-----------------|
 | **4** | 0.321 | 85A | 70A |
@@ -192,6 +194,7 @@ Drop = 2 × 25 × 10 × 1.29 ÷ 1000 = 0.645V
 
 **12V Systems** (2% drop, one-way distance):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Current | 10 ft | 20 ft | 30 ft | 50 ft |
 |---------|-------|-------|-------|-------|
 | 5A | 14 AWG | 12 AWG | 10 AWG | 8 AWG |
@@ -201,6 +204,7 @@ Drop = 2 × 25 × 10 × 1.29 ÷ 1000 = 0.645V
 
 **24V Systems** (2% drop):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Current | 10 ft | 20 ft | 30 ft | 50 ft |
 |---------|-------|-------|-------|-------|
 | 5A | 14 AWG | 14 AWG | 12 AWG | 10 AWG |
@@ -210,6 +214,7 @@ Drop = 2 × 25 × 10 × 1.29 ÷ 1000 = 0.645V
 
 **48V Systems** (2% drop):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Current | 10 ft | 20 ft | 30 ft | 50 ft |
 |---------|-------|-------|-------|-------|
 | 5A | 14 AWG | 14 AWG | 14 AWG | 12 AWG |
@@ -219,7 +224,7 @@ Drop = 2 × 25 × 10 × 1.29 ÷ 1000 = 0.645V
 
 ---
 
-## Wire Types & Specifications
+## Wire Types
 
 ### Approved Wire Types
 
@@ -330,7 +335,7 @@ Drop = 2 × 25 × 10 × 1.29 ÷ 1000 = 0.645V
 
 ---
 
-## Charge Controller Integration
+## Charge Ctrl Int
 
 ### PWM (Pulse Width Modulation) Controllers
 
@@ -368,8 +373,8 @@ Panel 1 (40V, 8A) ─┬─ Series ─┬─ Panel 2 (40V, 8A)
 **Voltage limits**:
 - **Maximum input voltage**: Check controller spec (typically 100-150V)
 - **Cold weather boost**: Voc increases ~0.4%/°C below 25°C
-  - Example: Panel Voc 45V at 25°C → 54V at -25°C
-  - 3-panel string: 54V × 3 = **162V** (may exceed 150V controller!)
+- Example: Panel Voc 45V at 25°C → 54V at -25°C
+- 3-panel string: 54V × 3 = **162V** (may exceed 150V controller!)
 - **Design rule**: Keep string Voc × 1.25 below controller max (safety margin)
 
 ---
@@ -380,12 +385,12 @@ Panel 1 (40V, 8A) ─┬─ Series ─┬─ Panel 2 (40V, 8A)
 
 1. **Disconnect everything** (panels covered, battery disconnected)
 2. **Connect battery first** (controller needs voltage reference)
-   - Battery + → Controller battery +
-   - Battery - → Controller battery -
-   - Verify controller powers on, displays battery voltage
+- Battery + → Controller battery +
+- Battery - → Controller battery -
+- Verify controller powers on, displays battery voltage
 3. **Connect array** (panels still covered or disconnect open)
-   - Panel + → Controller PV +
-   - Panel - → Controller PV -
+- Panel + → Controller PV +
+- Panel - → Controller PV -
 4. **Check polarity** with multimeter before exposing panels
 5. **Uncover panels** or close array disconnect
 6. **Monitor controller** for proper bulk charging
@@ -394,7 +399,7 @@ Panel 1 (40V, 8A) ─┬─ Series ─┬─ Panel 2 (40V, 8A)
 
 ---
 
-## Fusing and Circuit Protection
+## Fuse & Protect
 
 ### Why Fuses Are Required
 
@@ -461,7 +466,7 @@ Fuse Rating = Isc (short circuit current) × 1.56 (NEC 690.8)
 
 ---
 
-## Common Mistakes & Solutions
+## Common Errors
 
 ### ❌ **Mistake 1**: Using AC-rated breakers for DC circuits
 
@@ -525,7 +530,7 @@ Wire U          Wire ─┘  (water enters)
 
 ---
 
-## Wiring Diagram Examples
+## Wiring Diagrams
 
 ### Small System (12V, 2 Panels, PWM)
 
@@ -764,5 +769,5 @@ Panel 1──Panel 2            Panel 3──Panel 4
 
 ---
 
-*Last updated: 2026-02-19*
-*Layer: L3 Materials & Technology | Category: Energy/Power*
+Last updated: 2026-02-19
+Layer: L3 Materials & Technology | Category: Energy/Power

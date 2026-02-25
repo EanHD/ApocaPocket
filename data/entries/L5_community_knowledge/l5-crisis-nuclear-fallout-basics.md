@@ -31,7 +31,7 @@ steps:
 - 'IMMEDIATE ACTION (within 10 minutes of detonation): (1) GET INSIDE immediately. Any building is better than outside. (2) GO TO BASEMENT or center of building (farthest from outside walls/roof). (3) CLOSE
   DOORS AND WINDOWS. Turn off ventilation (prevents fallout particles entering). (4) REMOVE OUTER CLOTHING (fallout particles on clothing). Place in plastic bag, seal, move away from living area. (5) SHOWER
   if possible (washes off fallout particles) - do not scrub hard (damages skin), use lukewarm water, shampoo hair. (6) STAY INSIDE for at least 24 hours (preferably 48-72 hours). Radiation decays rapidly
-  - after 48 hours, radiation is 1 percent of initial level.'
+- after 48 hours, radiation is 1 percent of initial level.'
 - 'SHELTER SELECTION: BEST: Basement of large multi-story concrete building (thick walls and floors above provide shielding). GOOD: Center rooms of single-story concrete/brick building. Interior rooms (bathrooms,
   closets). POOR: Wood-frame house (some protection, better than nothing). WORST: Vehicles, tents, outside. SHIELDING PRINCIPLE: Dense material blocks radiation. Earth, concrete, water, lead. More mass
   between you and fallout = less radiation exposure.'
@@ -51,6 +51,6 @@ steps:
   for contamination). (4) Evacuate if instructed. (5) Medical screening (check for radiation exposure, cancer risk). Recovery will take years to decades.'
 ---
 
-# Nuclear Fallout Survival — Shelter, Decontamination, Radiation Sickness
+# Nuclear Survival
 
 Nuclear detonation produces blast, heat, EMP, and fallout (radioactive particles that rain down for hours to days). Immediate survival: shelter in place for 24-72 hours in a thick-walled structure. Minimize radiation exposure. Based on CDC and FEMA nuclear emergency guidelines.

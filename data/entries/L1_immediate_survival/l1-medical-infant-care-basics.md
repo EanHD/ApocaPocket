@@ -9,10 +9,10 @@ time_required: "continuous care"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "American Academy of Pediatrics (AAP) Newborn Care Guidelines"
-  - "WHO Essential Newborn Care and Breastfeeding"
-  - "UNICEF Infant Feeding in Emergencies"
-  - "CDC Infant Care and Safety Guidelines"
+- "American Academy of Pediatrics (AAP) Newborn Care Guidelines"
+- "WHO Essential Newborn Care and Breastfeeding"
+- "UNICEF Infant Feeding in Emergencies"
+- "CDC Infant Care and Safety Guidelines"
 ---
 
 # Infant Care Basics - Post-Disaster Survival
@@ -27,8 +27,9 @@ sources:
 
 ---
 
-## Age Categories & Development
+## Age Groups
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Age Range | Term | Weight Range | Key Vulnerabilities |
 |-----------|------|--------------|---------------------|
 | 0-7 days | Newborn | 5.5-10 lbs (2.5-4.5 kg) | Umbilical infection, hypothermia, feeding failure |
@@ -41,7 +42,7 @@ sources:
 
 ---
 
-## Umbilical Cord Care (0-14 Days)
+## Umbilical Cord Care
 
 ### Normal Healing Timeline
 - **Days 0-3:** Cord is white/gray, soft, moist (attached to belly)
@@ -54,21 +55,21 @@ sources:
 **Dry cord care method (AAP recommended):**
 
 1. **Keep cord dry and exposed**
-   - Fold diaper below cord (prevent urine contact)
-   - No covering with clothing if possible
-   - Air exposure accelerates drying
+- Fold diaper below cord (prevent urine contact)
+- No covering with clothing if possible
+- Air exposure accelerates drying
 
 2. **Clean 2-3 times per day:**
-   - Plain water ONLY (no alcohol, no antibiotics unless infection present)
-   - Use clean cloth or gauze
-   - Gently clean base where cord meets skin
-   - Pat completely dry
+- Plain water ONLY (no alcohol, no antibiotics unless infection present)
+- Use clean cloth or gauze
+- Gently clean base where cord meets skin
+- Pat completely dry
 
 3. **Do NOT:**
-   - Pull on cord (let it fall off naturally)
-   - Cover with bandages
-   - Submerge in bath water (sponge baths only until cord falls off)
-   - Apply powders, lotions, or oils
+- Pull on cord (let it fall off naturally)
+- Cover with bandages
+- Submerge in bath water (sponge baths only until cord falls off)
+- Apply powders, lotions, or oils
 
 ### Infection Warning Signs ⚠️
 
@@ -107,6 +108,7 @@ sources:
 
 ### Feeding Schedule by Age
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Age | Frequency | Duration Each Side | Total per 24h |
 |-----|-----------|-------------------|---------------|
 | 0-3 days | Every 2-3 hours | 10-15 minutes | 8-12 feedings |
@@ -179,7 +181,7 @@ sources:
 
 ---
 
-## Formula Preparation (When Breastfeeding Impossible)
+## Formula Prep
 
 ### When to Use Formula
 
@@ -203,34 +205,35 @@ sources:
 **Step-by-step protocol:**
 
 1. **Boil water:** 
-   - Rolling boil for 1 minute (sea level) or 3 minutes (high altitude >2000m)
-   - Let cool to 70°C / 158°F (hot to touch but not boiling - wait ~5 min)
-   - **Why 70°C:** Kills bacteria in powdered formula (formula is NOT sterile)
+- Rolling boil for 1 minute (sea level) or 3 minutes (high altitude >2000m)
+- Let cool to 70°C / 158°F (hot to touch but not boiling - wait ~5 min)
+- **Why 70°C:** Kills bacteria in powdered formula (formula is NOT sterile)
 
 2. **Clean hands:**
-   - Wash with soap and water for 20 seconds
-   - Or use hand sanitizer if water unavailable
+- Wash with soap and water for 20 seconds
+- Or use hand sanitizer if water unavailable
 
 3. **Measure water FIRST:**
-   - Use bottle markings (add water before powder)
-   - **Exact measurements critical:** Too concentrated = dehydration, too dilute = malnutrition
+- Use bottle markings (add water before powder)
+- **Exact measurements critical:** Too concentrated = dehydration, too dilute = malnutrition
 
 4. **Add formula powder:**
-   - Use ONLY scoop from that formula container
-   - Level scoop (not heaping, not packed)
-   - Standard ratio: 1 scoop per 2 oz (60 mL) water
+- Use ONLY scoop from that formula container
+- Level scoop (not heaping, not packed)
+- Standard ratio: 1 scoop per 2 oz (60 mL) water
 
 5. **Mix thoroughly:**
-   - Cap bottle, shake vigorously for 30 seconds
-   - Check for lumps
+- Cap bottle, shake vigorously for 30 seconds
+- Check for lumps
 
 6. **Cool to body temperature:**
-   - Test on inside of wrist (should feel barely warm)
-   - **Never microwave** (creates hot spots that can burn)
-   - Cool quickly: Place bottle in cold water bath
+- Test on inside of wrist (should feel barely warm)
+- **Never microwave** (creates hot spots that can burn)
+- Cool quickly: Place bottle in cold water bath
 
 ### Feeding Amount by Age
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Age | Amount per Feeding | Frequency | Total per 24h |
 |-----|-------------------|-----------|---------------|
 | 0-1 week | 1-2 oz (30-60 mL) | Every 2-3 hours | 8-12 feedings |
@@ -246,12 +249,11 @@ sources:
 
 ### Formula Storage (No Refrigeration)
 
-| Condition | Safe Duration |
-|-----------|---------------|
-| Mixed formula (room temp 68-77°F) | 1 hour maximum |
-| Mixed formula (cooler with ice) | 24 hours |
-| Dry powder (unopened) | Until expiration date |
-| Dry powder (opened can) | 1 month (keep dry, covered) |
+**Condition:** Safe Duration
+**Mixed formula (room temp 68-77°F):** 1 hour maximum
+**Mixed formula (cooler with ice):** 24 hours
+**Dry powder (unopened):** Until expiration date
+**Dry powder (opened can):** 1 month (keep dry, covered)
 
 **In hot weather (>85°F / 30°C):** Mix immediately before feeding, discard any leftovers after 1 hour
 
@@ -290,7 +292,7 @@ sources:
 
 ---
 
-## Diaper Care & Rash Prevention
+## Diaper Care
 
 ### Diapering Frequency
 - **Newborns (0-1 month):** Change every 2-3 hours or after each feeding
@@ -308,35 +310,36 @@ sources:
 ### Diaper Changing Protocol
 
 1. **Gather supplies first:**
-   - Clean diaper
-   - Wipes or clean wet cloth
-   - Barrier cream (if available)
-   - Change mat or clean towel
+- Clean diaper
+- Wipes or clean wet cloth
+- Barrier cream (if available)
+- Change mat or clean towel
 
 2. **Remove soiled diaper:**
-   - Lay baby on back on safe surface
-   - Open diaper, use front to wipe bulk of stool
-   - Fold soiled diaper under baby (clean side up)
+- Lay baby on back on safe surface
+- Open diaper, use front to wipe bulk of stool
+- Fold soiled diaper under baby (clean side up)
 
 3. **Clean thoroughly:**
-   - Wipe front to back (especially girls - prevents UTI)
-   - Lift legs gently (hold ankles together)
-   - Clean all skin folds
-   - Pat dry completely
+- Wipe front to back (especially girls - prevents UTI)
+- Lift legs gently (hold ankles together)
+- Clean all skin folds
+- Pat dry completely
 
 4. **Apply barrier cream** (if available):
-   - Zinc oxide cream (Desitin, Balmex)
-   - Petroleum jelly (Vaseline)
-   - Thin layer (visible but not thick)
+- Zinc oxide cream (Desitin, Balmex)
+- Petroleum jelly (Vaseline)
+- Thin layer (visible but not thick)
 
 5. **Put on clean diaper:**
-   - Front tabs should reach belly button level
-   - Should fit snugly but not tight (2 fingers fit under waistband)
+- Front tabs should reach belly button level
+- Should fit snugly but not tight (2 fingers fit under waistband)
 
 ### Diaper Rash - Prevention & Treatment
 
 **Severity levels:**
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Severity | Appearance | Treatment |
 |----------|-----------|-----------|
 | **Mild** | Pink/red skin, no texture change | Change frequently, barrier cream, air dry |
@@ -347,29 +350,29 @@ sources:
 **Treatment protocol for moderate-severe rash:**
 
 1. **Increase air exposure:**
-   - 15-30 minutes naked time, 3-4 times per day
-   - Lay baby on waterproof pad (will urinate/defecate)
-   - Warm room (prevent hypothermia)
+- 15-30 minutes naked time, 3-4 times per day
+- Lay baby on waterproof pad (will urinate/defecate)
+- Warm room (prevent hypothermia)
 
 2. **Change immediately when soiled:**
-   - Don't wait even 10 minutes
-   - Check every 1-2 hours
+- Don't wait even 10 minutes
+- Check every 1-2 hours
 
 3. **Clean gently:**
-   - Plain water on soft cloth (no wipes - irritating)
-   - Pat dry, do not rub
-   - Can use hairdryer on cool setting (12+ inches away)
+- Plain water on soft cloth (no wipes - irritating)
+- Pat dry, do not rub
+- Can use hairdryer on cool setting (12+ inches away)
 
 4. **Barrier cream - thick layer:**
-   - "Frosting thickness" - visible white layer
-   - Zinc oxide most effective
-   - Apply at every diaper change
+- "Frosting thickness" - visible white layer
+- Zinc oxide most effective
+- Apply at every diaper change
 
 5. **Avoid:**
-   - ❌ Plastic pants over diaper (traps moisture)
-   - ❌ Tight diapers
-   - ❌ Scented wipes
-   - ❌ Talcum powder (inhalation risk)
+- ❌ Plastic pants over diaper (traps moisture)
+- ❌ Tight diapers
+- ❌ Scented wipes
+- ❌ Talcum powder (inhalation risk)
 
 **When to seek medical care:**
 - Rash not improving after 3 days of treatment
@@ -382,8 +385,8 @@ sources:
 
 **Cloth diaper method:**
 1. Cut absorbent fabric into 24" x 24" (60 x 60 cm) square
-   - Best: Cotton T-shirts, flannel, towels
-   - Layer 2-3 squares for absorbency
+- Best: Cotton T-shirts, flannel, towels
+- Layer 2-3 squares for absorbency
 2. Fold into triangle or rectangle
 3. Secure with safety pins (4 pins, one at each corner)
 4. Cover with waterproof layer (plastic bag, trash bag)
@@ -399,7 +402,7 @@ sources:
 
 ---
 
-## Common Infant Emergencies
+## Common Infant Emerg
 
 ### Choking
 
@@ -421,10 +424,10 @@ sources:
 
 **Temperature taking methods:**
 - **Rectal (most accurate for infants):** 
-  - Lubricate thermometer with petroleum jelly
-  - Insert 1/2 inch (1.3 cm)
-  - Hold in place 2 minutes
-  - Add 0°F (same reading)
+- Lubricate thermometer with petroleum jelly
+- Insert 1/2 inch (1.3 cm)
+- Hold in place 2 minutes
+- Add 0°F (same reading)
 - **Axillary (armpit):** Add 1°F (0.6°C) to reading
 - **Forehead (temporal):** Less accurate but non-invasive
 
@@ -466,7 +469,7 @@ sources:
 
 ---
 
-## Infant Sleep Safety (SIDS Prevention)
+## Infant Sleep Safety
 
 **SIDS (Sudden Infant Death Syndrome):** Unexplained death of baby <1 year, usually during sleep. Peak risk 2-4 months.
 
@@ -475,8 +478,8 @@ sources:
 1. **Back to sleep:** Always place on back (not side, not stomach)
 2. **Firm surface:** Crib mattress or firm pad (no soft surfaces)
 3. **Nothing in sleep space:** 
-   - No pillows, blankets, stuffed animals, bumper pads
-   - Only baby and fitted sheet
+- No pillows, blankets, stuffed animals, bumper pads
+- Only baby and fitted sheet
 4. **Room sharing:** Baby in same room as adult (not same bed) for first 6-12 months
 5. **Temperature:** Room 68-72°F (20-22°C), dress in light sleeper (no blankets)
 6. **Smoke-free environment**
@@ -495,7 +498,7 @@ sources:
 
 ---
 
-## When to Seek Immediate Medical Care
+## Seek Immed Med Care
 
 **Life-threatening emergencies (call 911 or evacuate immediately):**
 - Difficulty breathing (flaring nostrils, retractions, grunting)
@@ -513,23 +516,22 @@ sources:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Pulling umbilical cord to remove it | Let cord fall off naturally (7-14 days) |
-| Using alcohol on cord | Plain water only (alcohol delays healing) |
-| Bathing baby before cord falls off | Sponge baths only until cord detaches |
-| Overfeeding ("more is better") | Follow age-appropriate amounts (see tables) |
-| Saving formula leftovers | Discard after 1 hour (bacteria growth) |
-| Using regular cow's milk <12 months | Breast milk or infant formula only |
-| Changing diapers every 6+ hours | Every 2-4 hours (rash prevention) |
-| Sleeping with baby in bed | Room-sharing (different sleep surfaces) |
-| Overdressing baby | Dress in one more layer than adult wears |
+**❌ Mistake:** ✓ Correct
+**Pulling umbilical cord to remove it:** Let cord fall off naturally (7-14 days)
+**Using alcohol on cord:** Plain water only (alcohol delays healing)
+**Bathing baby before cord falls off:** Sponge baths only until cord detaches
+**Overfeeding ("more is better"):** Follow age-appropriate amounts (see tables)
+**Saving formula leftovers:** Discard after 1 hour (bacteria growth)
+**Using regular cow's milk <12 months:** Breast milk or infant formula only
+**Changing diapers every 6+ hours:** Every 2-4 hours (rash prevention)
+**Sleeping with baby in bed:** Room-sharing (different sleep surfaces)
+**Overdressing baby:** Dress in one more layer than adult wears
 
 ---
 
-## Infant Care Kit - Essential Supplies
+## Infant Care Kit
 
 **Feeding:**
 - [ ] Bottles (4-6) with nipples (various flow rates)

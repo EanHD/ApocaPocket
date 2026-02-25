@@ -7,6 +7,7 @@
 
 ## Priority Hazard Matrix
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
 |--------|----------|-----------|--------|----------------------|-----------|
 | Altitude sickness (HAPE/HACE) | FATAL | Common >10,000 ft | Year-round | Moderate (acclimatization) | l2-altitude-sickness.md |
@@ -20,11 +21,12 @@
 
 ---
 
-## 1. ALTITUDE SICKNESS - The Silent Killer
+## Altitude Sickness
 
 ### Why Altitude Kills
 
 **Atmospheric Pressure Decreases with Elevation:**
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Elevation | Oxygen Available (vs Sea Level) | Breathing Rate Increase |
 |-----------|----------------------------------|------------------------|
 | Sea level | 100% | Baseline |
@@ -95,14 +97,14 @@
 
 **Treatment:**
 1. **DESCEND IMMEDIATELY** (1,000-3,000 ft minimum, more is better)
-   - **ONLY treatment that works reliably**
-   - Symptoms improve DURING descent
-   - Descent = life-saving (waiting = death)
+- **ONLY treatment that works reliably**
+- Symptoms improve DURING descent
+- Descent = life-saving (waiting = death)
 2. Supplemental oxygen if available (4-6 L/min)
 3. Hyperbaric bag (Gamow bag) if available, no other option (simulates descent)
 4. Medications (if available, but NOT substitute for descent):
-   - Nifedipine 30mg extended-release (reduces pulmonary pressure)
-   - Dexamethasone 8mg initial, then 4mg every 6 hours
+- Nifedipine 30mg extended-release (reduces pulmonary pressure)
+- Dexamethasone 8mg initial, then 4mg every 6 hours
 
 **Timeline to Death:** 6-12 hours from advanced symptoms if no descent
 
@@ -121,9 +123,9 @@
 **Symptoms:**
 - **Severe headache** (unrelieved by medication)
 - **Ataxia (loss of coordination):**
-  - Can't walk straight line heel-to-toe
-  - Stumbling, falling
-  - Can't touch finger to nose
+- Can't walk straight line heel-to-toe
+- Stumbling, falling
+- Can't touch finger to nose
 - Confusion, disorientation (what day is it, where am I)
 - Altered mental status (irrational behavior, combative)
 - Vomiting
@@ -140,8 +142,8 @@
 
 **Treatment:**
 1. **DESCEND IMMEDIATELY** (even at night, even in storm - HACE = imminent death)
-   - Carry person if necessary (can't walk themselves)
-   - Descent must be RAPID (every minute counts)
+- Carry person if necessary (can't walk themselves)
+- Descent must be RAPID (every minute counts)
 2. Dexamethasone 8mg initial, then 4mg every 6 hours (if available)
 3. Supplemental oxygen (if available)
 4. Hyperbaric bag (if no other option)
@@ -157,8 +159,8 @@
 **Acclimatization Rules:**
 1. **"Climb high, sleep low":** Day trips to higher elevation OK, but sleep lower
 2. **Ascent rate above 8,000 ft:**
-   - Increase sleeping elevation by MAX 1,000-1,500 ft per day
-   - Rest day every 3,000 ft gain (sleep at same elevation 2 nights)
+- Increase sleeping elevation by MAX 1,000-1,500 ft per day
+- Rest day every 3,000 ft gain (sleep at same elevation 2 nights)
 3. **Hydration:** 1+ gallon water per day (altitude = dehydration)
 4. **Avoid alcohol:** Depresses respiration (worsens altitude effects)
 5. **Carb-heavy diet:** Easier to metabolize at altitude
@@ -166,9 +168,9 @@
 
 **Medication (Preventive, if available):**
 - **Acetazolamide (Diamox):** 125-250mg twice daily
-  - Starts 24 hours before ascent
-  - Speeds acclimatization (makes you pee, increases breathing rate)
-  - Side effects: Tingling fingers/toes, frequent urination, carbonation tastes flat
+- Starts 24 hours before ascent
+- Speeds acclimatization (makes you pee, increases breathing rate)
+- Side effects: Tingling fingers/toes, frequent urination, carbonation tastes flat
 
 **Reality Check:**
 - If you live at sea level, ascending to 10,000 ft+ in ONE day = high AMS risk
@@ -179,7 +181,7 @@
 
 ---
 
-## 2. AVALANCHES - The White Death
+## Avalanches
 
 ### Avalanche Facts
 - **25-30 deaths per year in US** (90% in Rockies)
@@ -267,15 +269,15 @@
 
 **Required Equipment (Rescue Trinity):**
 1. **Avalanche transceiver (beacon):**
-   - Transmits signal if buried (other rescuers locate you)
-   - Everyone carries, everyone knows how to use
-   - TEST before every outing
+- Transmits signal if buried (other rescuers locate you)
+- Everyone carries, everyone knows how to use
+- TEST before every outing
 2. **Probe (collapsible pole):**
-   - 10-12 feet long
-   - Pinpoint buried victim after beacon search
+- 10-12 feet long
+- Pinpoint buried victim after beacon search
 3. **Shovel:**
-   - Metal blade, extendable handle
-   - Dig out victim (must be fast)
+- Metal blade, extendable handle
+- Dig out victim (must be fast)
 
 **Group Protocol:**
 - One person crosses avalanche terrain at a time (others watch)
@@ -298,8 +300,8 @@
 
 **Last Seconds (Avalanche Stopping):**
 - **CRITICAL:** Create air pocket in front of face
-  - Cup hands over mouth/nose
-  - Try to expand chest (avalanche debris sets like concrete)
+- Cup hands over mouth/nose
+- Try to expand chest (avalanche debris sets like concrete)
 - Thrust one arm toward surface (rescue signal)
 
 #### If Buried
@@ -324,9 +326,9 @@
 5. **Bracket search:** Get within 1-2 feet of victim
 6. **Probe:** Pinpoint exact location (probe every 12 inches)
 7. **Dig FAST:**
-   - Dig from downhill side (easier)
-   - Clear airway FIRST (face)
-   - Then fully extract
+- Dig from downhill side (easier)
+- Clear airway FIRST (face)
+- Then fully extract
 8. **First aid:** Check breathing, pulse, CPR if needed, treat hypothermia
 
 **DO NOT:**
@@ -337,7 +339,7 @@
 
 ---
 
-## 3. LIGHTNING - Daily Threat
+## LIGHTNING
 
 ### Rockies = Lightning Capital of US
 - **Afternoon thunderstorms DAILY:** June-August
@@ -394,10 +396,10 @@
 1. **Get off summit/ridge IMMEDIATELY** (even if mid-ascent, descend NOW)
 2. **Drop metal objects:** Backpack frame, trekking poles, ice axe (20+ feet away)
 3. **Assume lightning position:**
-   - Crouch on balls of feet (minimize ground contact)
-   - Feet together (reduces stride potential)
-   - Hands over ears (protect from thunder shockwave)
-   - Head down
+- Crouch on balls of feet (minimize ground contact)
+- Feet together (reduces stride potential)
+- Hands over ears (protect from thunder shockwave)
+- Head down
 4. **Spread out:** If in group, 50+ feet apart (one strike doesn't hit everyone)
 5. **Avoid touching others:** Don't hold hands (conducts electricity)
 
@@ -419,7 +421,7 @@
 
 ---
 
-## 4. GRIZZLY BEARS - Apex Predator
+## Grizzlies
 
 ### Grizzly Bear Range (Rockies Only)
 - **Montana:** Glacier National Park, Northern Continental Divide, Cabinet-Yaak
@@ -431,6 +433,7 @@
 
 ### Grizzly vs Black Bear (Critical Distinction)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Grizzly Bear | Black Bear |
 |---------|--------------|------------|
 | Size | 300-600 lbs (males), 200-400 lbs (females) | 150-350 lbs |
@@ -532,7 +535,7 @@
 
 ---
 
-## 5. MOUNTAIN LIONS (Cougars, Pumas)
+## Mountain Lions
 
 ### Mountain Lion Profile
 **Size:** 80-150 lbs (males), 60-100 lbs (females)  
@@ -560,9 +563,9 @@
 1. **Stop, don't run** (triggers chase instinct)
 2. **Face the lion** (don't turn back)
 3. **Look big:**
-   - Raise arms
-   - Open jacket
-   - Wave slowly
+- Raise arms
+- Open jacket
+- Wave slowly
 4. **Speak firmly, loudly:** "Go away, get out of here"
 5. **Maintain eye contact** (shows you're not prey)
 6. **Back away slowly** (don't turn around)
@@ -589,10 +592,11 @@
 
 ---
 
-## Regional Hazard Summary
+## Regional Hazards
 
 ### Altitude Hazard Zones
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Elevation | Primary Hazards | Activity Restrictions |
 |-----------|----------------|----------------------|
 | 6,000-8,000 ft | Lightning, bears, cold | Minimal altitude effects |
@@ -603,6 +607,7 @@
 
 ### Monthly Hazard Calendar
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Month | Primary Threats | Secondary Threats | Activity Guidance |
 |-------|----------------|-------------------|-------------------|
 | Jan | Extreme cold, avalanches | Hypothermia, isolation | Most dangerous winter month |

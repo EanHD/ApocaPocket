@@ -80,14 +80,14 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## Scene Safety and Approach (FIRST PRIORITY)
+## Scene Safety
 
 ### Tactical Assessment
 
 **BEFORE approaching victim:**
 1. **Active threat?** Gunfire continuing? Shooter still present?
-   - **YES:** Do NOT approach. Wait for law enforcement to secure scene.
-   - **NO:** Proceed with caution.
+- **YES:** Do NOT approach. Wait for law enforcement to secure scene.
+- **NO:** Proceed with caution.
 2. **Secondary hazards?** Fire, structural collapse, chemical exposure?
 3. **Multiple victims?** Triage (see mass casualty entry).
 
@@ -170,7 +170,7 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## Hemorrhage Control (PRIORITY #1)
+## Hemorrhage Control
 
 ### External Bleeding Control
 
@@ -191,10 +191,10 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 2. **Expose wound** (cut away clothing, irrigate debris if time permits)
 3. **Identify bleeding source** (bright red = arterial, dark red = venous)
 4. **Pack directly onto bleeder:**
-   - Insert gauze into wound cavity
-   - Pack TIGHTLY (firm pressure)
-   - Fill entire wound depth
-   - Use entire gauze roll if needed (don't be shy)
+- Insert gauze into wound cavity
+- Pack TIGHTLY (firm pressure)
+- Fill entire wound depth
+- Use entire gauze roll if needed (don't be shy)
 5. **Apply direct pressure OVER packing** (3 minutes minimum, 5-10 minutes ideal)
 6. **Do NOT remove packing** to check (breaks clot)
 7. **Apply pressure dressing** over packing (wrap firmly with elastic bandage)
@@ -228,7 +228,7 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## Body Region-Specific Management
+## Body Management
 
 ### 1. Extremity Gunshot Wounds (Arms, Legs)
 
@@ -288,8 +288,8 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 - **Signs:** Hissing/sucking sound with breathing, blood bubbling from wound
 - **Treatment:**
   1. **Occlusive dressing** (seals wound)
-     - Commercial chest seal (Halo, Bolin, Asherman) preferred
-     - Improvised: Plastic (bag, packaging), tape on 3 sides (flutter valve - lets air out but not in)
+- Commercial chest seal (Halo, Bolin, Asherman) preferred
+- Improvised: Plastic (bag, packaging), tape on 3 sides (flutter valve - lets air out but not in)
   2. Position patient sitting up or wounded side down (improves breathing)
   3. Monitor closely (can progress to tension pneumothorax)
 
@@ -297,43 +297,43 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 - Air enters chest with each breath but can't escape
 - Pressure builds → collapses lung → shifts heart → obstructs blood return → shock → death
 - **Signs:**
-  - Severe respiratory distress (gasping, can't breathe)
-  - Trachea deviated away from injured side
-  - Distended neck veins (if not in shock)
-  - Absent breath sounds on injured side
-  - Hyperresonant (drum-like) sound on injured side
-  - Shock (rapid pulse, low BP, confusion)
+- Severe respiratory distress (gasping, can't breathe)
+- Trachea deviated away from injured side
+- Distended neck veins (if not in shock)
+- Absent breath sounds on injured side
+- Hyperresonant (drum-like) sound on injured side
+- Shock (rapid pulse, low BP, confusion)
 - **Treatment:** **NEEDLE DECOMPRESSION** (life-saving, do immediately if suspected)
-  - Insert 14-16 gauge needle (3.25 inch length minimum) into 2nd intercostal space (between ribs 2 and 3), mid-clavicular line (nipple line), just above 3rd rib
-  - Aim perpendicular to chest wall (straight in)
-  - Rush of air = confirms tension pneumothorax
-  - Leave catheter in place, tape securely
-  - Patient should improve immediately (if not, may need second decompression or wrong diagnosis)
-  - Needle decompression buys time - surgical chest tube still needed
+- Insert 14-16 gauge needle (3.25 inch length minimum) into 2nd intercostal space (between ribs 2 and 3), mid-clavicular line (nipple line), just above 3rd rib
+- Aim perpendicular to chest wall (straight in)
+- Rush of air = confirms tension pneumothorax
+- Leave catheter in place, tape securely
+- Patient should improve immediately (if not, may need second decompression or wrong diagnosis)
+- Needle decompression buys time - surgical chest tube still needed
 
 **c) Massive Hemothorax (Blood in Chest):**
 - Blood fills chest cavity (up to 1.5-2L can accumulate)
 - **Signs:**
-  - Shock (rapid pulse, low BP, pale, weak)
-  - Decreased breath sounds on injured side
-  - Dull sound on percussion (vs hyperresonant in pneumothorax)
+- Shock (rapid pulse, low BP, pale, weak)
+- Decreased breath sounds on injured side
+- Dull sound on percussion (vs hyperresonant in pneumothorax)
 - **Treatment:**
-  - Position patient wounded side down (gravity drains blood away from good lung)
-  - Large-bore IV x2 (fluid resuscitation - see IV entry)
-  - Permissive hypotension (target systolic BP 80-90 mmHg - too much fluid increases bleeding)
-  - Urgent surgery (chest tube, possible thoracotomy)
+- Position patient wounded side down (gravity drains blood away from good lung)
+- Large-bore IV x2 (fluid resuscitation - see IV entry)
+- Permissive hypotension (target systolic BP 80-90 mmHg - too much fluid increases bleeding)
+- Urgent surgery (chest tube, possible thoracotomy)
 
 **d) Cardiac Tamponade (Blood Around Heart):**
 - Blood accumulates in pericardial sac (around heart)
 - Compresses heart → can't pump effectively → shock → death
 - **Signs (Beck's triad):**
-  - Muffled heart sounds (hard to hear)
-  - Distended neck veins
-  - Hypotension (low blood pressure)
+- Muffled heart sounds (hard to hear)
+- Distended neck veins
+- Hypotension (low blood pressure)
 - **Treatment:**
-  - Urgent pericardiocentesis (needle into pericardial sac) - advanced skill, high risk
-  - OR urgent thoracotomy (open chest surgery) - only option if cardiac arrest imminent
-  - **Field treatment limited** - rapid evacuation is key
+- Urgent pericardiocentesis (needle into pericardial sac) - advanced skill, high risk
+- OR urgent thoracotomy (open chest surgery) - only option if cardiac arrest imminent
+- **Field treatment limited** - rapid evacuation is key
 
 **General chest GSW management:**
 1. Seal sucking wounds (occlusive dressing)
@@ -359,15 +359,15 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 1. **Do NOT explore wound** (finger, instrument) - causes more damage
 2. **Do NOT push organs back in** if eviscerated
 3. **If evisceration:**
-   - Cover organs with moist sterile dressing (saline-soaked gauze)
-   - Cover with occlusive dressing (plastic wrap or bag)
-   - Do NOT let organs dry out (causes necrosis)
+- Cover organs with moist sterile dressing (saline-soaked gauze)
+- Cover with occlusive dressing (plastic wrap or bag)
+- Do NOT let organs dry out (causes necrosis)
 4. **NPO (nothing by mouth)** - patient will need surgery (anesthesia risk if stomach full)
 5. **IV fluid resuscitation** (see below)
 6. **Position patient supine with knees bent** (relaxes abdominal muscles, reduces pain)
 7. **Antibiotics** (broad-spectrum - see antibiotic guide):
-   - Ceftriaxone 1-2g IV + Metronidazole 500mg IV OR
-   - Ciprofloxacin 400mg IV + Metronidazole 500mg IV
+- Ceftriaxone 1-2g IV + Metronidazole 500mg IV OR
+- Ciprofloxacin 400mg IV + Metronidazole 500mg IV
 8. **Urgent surgical evacuation**
 
 **Complications:**
@@ -384,9 +384,9 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 **Cranial (skull/brain):**
 - **Prognosis poor** if:
-  - Unresponsive (GCS <8)
-  - Bilateral pupil dilation (both pupils large, non-reactive)
-  - Posturing (abnormal rigid posturing - decerebrate/decorticate)
+- Unresponsive (GCS <8)
+- Bilateral pupil dilation (both pupils large, non-reactive)
+- Posturing (abnormal rigid posturing - decerebrate/decorticate)
 - **If conscious and responsive:** Chance of survival exists
 - **Management:**
   1. Control scalp bleeding (scalp bleeds heavily - direct pressure, wrap head)
@@ -444,9 +444,9 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 **Management:**
 1. **External bleeding control:**
-   - Direct pressure in groin (compress femoral artery against pelvis)
-   - Wound packing (deep, tight)
-   - Junctional tourniquet if available
+- Direct pressure in groin (compress femoral artery against pelvis)
+- Wound packing (deep, tight)
+- Junctional tourniquet if available
 2. **Pelvic stabilization** if pelvic fracture suspected (wrap sheet around pelvis tightly)
 3. **IV resuscitation** (blood loss often massive)
 4. **Antibiotics** (broad-spectrum, covers coliforms)
@@ -456,7 +456,7 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## Internal Bleeding Recognition
+## Internal Bleed
 
 **Key concept:** External bleeding you can see and treat. Internal bleeding is silent killer.
 
@@ -517,7 +517,7 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## DO NOT Remove Embedded Objects
+## Embedded
 
 **Critical rule:** Impaled objects (bullets, fragments, shrapnel, debris) should **NOT** be removed in field.
 
@@ -533,9 +533,9 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 **Management of embedded object:**
 1. **Stabilize object in place:**
-   - Bulky dressings around object (donut-shaped padding)
-   - Tape to secure (prevent movement)
-   - Do NOT cut object shorter (vibration from sawing = more damage)
+- Bulky dressings around object (donut-shaped padding)
+- Tape to secure (prevent movement)
+- Do NOT cut object shorter (vibration from sawing = more damage)
 2. **Control bleeding around object** (direct pressure, NOT on object)
 3. **Splint if in extremity** (immobilize entire limb)
 4. **Document object location** (photo if possible, detailed description)
@@ -543,7 +543,7 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## Antibiotics for Gunshot Wounds
+## Antibiotics for GSWs
 
 **All gunshot wounds are contaminated** (clothing, skin bacteria, environmental debris driven into wound by bullet).
 
@@ -603,7 +603,7 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## Positioning and Monitoring
+## Positio
 
 ### Patient Positioning
 
@@ -685,15 +685,15 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 1. **Continue hemorrhage control** (pack wounds, pressure dressings)
 2. **Antibiotics:** Broad-spectrum, continue until infection signs resolve (7-14 days)
 3. **Wound care:**
-   - Day 2-3: Remove packing if bleeding controlled, irrigate wound (see wound cleaning entry)
-   - Delayed primary closure (3-5 days) OR allow to heal by secondary intention
-   - Daily dressing changes
+- Day 2-3: Remove packing if bleeding controlled, irrigate wound (see wound cleaning entry)
+- Delayed primary closure (3-5 days) OR allow to heal by secondary intention
+- Daily dressing changes
 4. **Pain control:** Oral pain ladder (ibuprofen → tramadol → opioids)
 5. **Fluid support:** Oral if conscious, IV if needed (maintain hydration)
 6. **Monitor for complications:**
-   - Infection (fever, pus, increasing redness)
-   - Compartment syndrome (severe pain, tense swelling)
-   - Abscess formation (localized swelling, pus)
+- Infection (fever, pus, increasing redness)
+- Compartment syndrome (severe pain, tense swelling)
+- Abscess formation (localized swelling, pus)
 7. **Nutrition:** High protein diet (promotes healing)
 
 **Expected outcomes:**
@@ -719,23 +719,22 @@ Gunshot wounds (GSWs) are penetrating injuries caused by projectiles fired from 
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Approaching hot zone (active gunfire) | Wait for scene to be secured before providing care |
-| Removing embedded bullets/objects | Stabilize in place (removal in OR only) |
-| Exploring wound with finger/instrument | Leave wound alone (causes more damage, bleeding) |
-| Pushing eviscerated organs back into abdomen | Cover with moist dressing, do NOT push back in |
-| Giving fluids to conscious patient with palpable pulse | Permissive hypotension (minimal fluids until surgery) |
-| Attempting CPR on GSW cardiac arrest in field | Futile without blood products and surgery (use resources elsewhere) |
-| Missing back wounds (not log-rolling patient) | Completely undress and examine ALL surfaces (front, back, sides) |
-| Applying tourniquet to neck/groin | Direct pressure, wound packing, or junctional tourniquet (NOT standard tourniquet) |
-| Delaying evacuation to "stabilize" | Scoop and run (rapid transport > prolonged scene time for penetrating trauma) |
+**❌ Mistake:** ✓ Correct
+**Approaching hot zone (active gunfire):** Wait for scene to be secured before providing care
+**Removing embedded bullets/objects:** Stabilize in place (removal in OR only)
+**Exploring wound with finger/instrument:** Leave wound alone (causes more damage, bleeding)
+**Pushing eviscerated organs back into abdomen:** Cover with moist dressing, do NOT push back in
+**Giving fluids to conscious patient with palpable pulse:** Permissive hypotension (minimal fluids until surgery)
+**Attempting CPR on GSW cardiac arrest in field:** Futile without blood products and surgery (use resources elsewhere)
+**Missing back wounds (not log-rolling patient):** Completely undress and examine ALL surfaces (front, back, sides)
+**Applying tourniquet to neck/groin:** Direct pressure, wound packing, or junctional tourniquet (NOT standard tourniquet)
+**Delaying evacuation to "stabilize":** Scoop and run (rapid transport > prolonged scene time for penetrating trauma)
 
 ---
 
-## When Survival is Unlikely (Expectant Category)
+## When Survival's Unlike
 
 **Injuries incompatible with survival in field setting:**
 - Massive head trauma (unresponsive, bilateral dilated pupils, brain tissue exposed)

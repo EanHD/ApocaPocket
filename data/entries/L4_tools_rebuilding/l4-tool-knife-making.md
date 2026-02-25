@@ -51,6 +51,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Making a Knife — Forging and Stock Removal
+# Forging & Stock
 
 A knife is the most important survival tool. Two methods: forging (hammering hot steel to shape) and stock removal (grinding a blade from flat steel). Stock removal is easier for beginners. Good steel sources: old files, leaf springs, lawnmower blades, saw blades.

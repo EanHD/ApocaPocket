@@ -6,13 +6,13 @@ tags: ["navigation", "urban", "city", "landmarks", "grid", "wayfinding"]
 confidence: "high"
 region: "global"
 sources:
-  - "usgs-map-reading"
-  - "urban-search-and-rescue-wayfinding"
-  - "orienteering-handbook"
+- "usgs-map-reading"
+- "urban-search-and-rescue-wayfinding"
+- "orienteering-handbook"
 related:
-  - "l1-navigation-without-compass"
-  - "l1-urban-grid-down-navigation"
-  - "l1-weather-field-prediction"
+- "l1-navigation-without-compass"
+- "l1-urban-grid-down-navigation"
+- "l1-weather-field-prediction"
 ---
 
 # Urban Navigation Without GPS
@@ -38,7 +38,7 @@ Pick 3 escalating landmarks:
 
 Move from one to the next; update at each checkpoint.
 
-## Dead-Reckoning in Cities
+## Dead-Reckoning
 - Count blocks + turns: e.g., N 6 blocks, E 2 blocks.
 - Record route shorthand on paper.
 - If disoriented: return to last confirmed point.

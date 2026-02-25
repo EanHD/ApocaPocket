@@ -107,7 +107,7 @@
 #define VBAT_MIN  3.0f   // Empty battery voltage
 #define VBAT_MAX  4.2f   // Full battery voltage
 
-// -- Input timing --
+// -- Bookmarks --
 #define EMERGENCY_COMBO_MS  400  // Hold UP+DN for 400ms to trigger emergency
 #define BUTTON_HOLD_MS      500  // Hold button for section jump
 #define BUTTON_REPEAT_MS    120  // Auto-repeat interval

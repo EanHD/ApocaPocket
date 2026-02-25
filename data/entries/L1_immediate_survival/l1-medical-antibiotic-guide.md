@@ -82,10 +82,11 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## Bacterial vs. Viral Infections
+## Bac vs Viral
 
 ### Key Differences
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Feature | Bacterial Infection | Viral Infection |
 |---------|-------------------|-----------------|
 | **Onset** | Gradual (over days) | Sudden (hours to 1 day) |
@@ -129,7 +130,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## First-Line Antibiotic Selection by Infection Type
+## First-Line Antibiotics
 
 ### 1. Respiratory Infections
 
@@ -343,7 +344,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## Common Antibiotics: Spectrum and Characteristics
+## Common Antibiotics
 
 ### Beta-Lactams (Penicillins, Cephalosporins)
 
@@ -354,8 +355,8 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 - **Advantages:** Cheap, well-tolerated, safe in pregnancy
 - **Disadvantages:** Doesn't cover MRSA, resistance increasing
 - **Dosing:** 
-  - Adults: 500-1000mg 2-3x daily
-  - Children: 45-90 mg/kg/day divided 2-3x daily (max 3g/day)
+- Adults: 500-1000mg 2-3x daily
+- Children: 45-90 mg/kg/day divided 2-3x daily (max 3g/day)
 - **Side effects:** Diarrhea, rash (10% if mononucleosis - NOT allergy)
 - **Allergy:** 10% report penicillin allergy, but only 1% true allergy (anaphylaxis risk)
 
@@ -363,16 +364,16 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 - **Spectrum:** Broader than amoxicillin (clavulanate blocks bacterial resistance enzymes)
 - **Best for:** Sinusitis, animal bites, skin infections (not MRSA), resistant pneumonia
 - **Dosing:**
-  - Adults: 875mg/125mg 2x daily OR 500mg/125mg 3x daily
-  - Children: 45 mg/kg/day (amoxicillin component) divided 2x daily
+- Adults: 875mg/125mg 2x daily OR 500mg/125mg 3x daily
+- Children: 45 mg/kg/day (amoxicillin component) divided 2x daily
 - **Side effects:** Diarrhea (more than amoxicillin), nausea
 
 #### **Cephalexin (Keflex)**
 - **Spectrum:** Streptococcus, Staphylococcus (not MRSA), some Gram-negatives
 - **Best for:** Skin infections, UTIs, wound infections
 - **Dosing:**
-  - Adults: 500mg 4x daily
-  - Children: 25-50 mg/kg/day divided 4x daily (max 4g/day)
+- Adults: 500mg 4x daily
+- Children: 25-50 mg/kg/day divided 4x daily (max 4g/day)
 - **Side effects:** GI upset (diarrhea, nausea)
 - **Cross-reactivity:** ~5-10% cross-allergy with penicillin (if anaphylaxis to penicillin, avoid cephalosporins)
 
@@ -382,9 +383,9 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 - **Spectrum:** Broad (Gram-positive, Gram-negative, atypical bacteria, some parasites)
 - **Best for:** Atypical pneumonia, Lyme disease, malaria, tick-borne illnesses, acne, MRSA skin infections
 - **Dosing:**
-  - Adults: 100mg 2x daily
-  - Children ≥8 years: 2-4 mg/kg/day divided 2x daily (max 200mg/day)
-  - **DO NOT use <8 years** (permanent tooth staining)
+- Adults: 100mg 2x daily
+- Children ≥8 years: 2-4 mg/kg/day divided 2x daily (max 200mg/day)
+- **DO NOT use <8 years** (permanent tooth staining)
 - **Side effects:** Photosensitivity (severe sunburn), GI upset, esophagitis (take with food and water, remain upright 30 min)
 - **Contraindications:** Pregnancy, breastfeeding, children <8 years
 - **Advantages:** Cheap, once/twice daily dosing, broad spectrum
@@ -395,8 +396,8 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 - **Spectrum:** Streptococcus, atypical bacteria (Mycoplasma, Chlamydia), some Gram-negatives
 - **Best for:** Atypical pneumonia, strep throat (if penicillin allergy), STIs (chlamydia), traveler's diarrhea
 - **Dosing:**
-  - Adults: 500mg day 1, then 250mg days 2-5 (total 5 days)
-  - Children: 10-12 mg/kg day 1, then 5-6 mg/kg days 2-5 (max 500mg/250mg)
+- Adults: 500mg day 1, then 250mg days 2-5 (total 5 days)
+- Children: 10-12 mg/kg day 1, then 5-6 mg/kg days 2-5 (max 500mg/250mg)
 - **Side effects:** GI upset, QT prolongation (heart rhythm - caution if heart disease)
 - **Advantages:** Short course (5 days), once daily, well-tolerated
 
@@ -406,8 +407,8 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 - **Spectrum:** Broad Gram-negative coverage, some Gram-positive, atypical
 - **Best for:** UTIs, traveler's diarrhea, some pneumonia, anthrax exposure
 - **Dosing:**
-  - Adults: 250-750mg 2x daily (varies by infection)
-  - Children: Generally avoided (cartilage damage risk in growing bones)
+- Adults: 250-750mg 2x daily (varies by infection)
+- Children: Generally avoided (cartilage damage risk in growing bones)
 - **Side effects:** Tendon rupture (Achilles tendon especially), QT prolongation, photosensitivity
 - **Contraindications:** Pregnancy, <18 years (relative - use if benefits outweigh risks)
 - **Black box warning:** FDA warns of serious side effects (tendon rupture, nerve damage, aortic rupture)
@@ -418,8 +419,8 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 - **Spectrum:** Broad, including MRSA, many Gram-negatives, Pneumocystis
 - **Best for:** MRSA skin infections, UTIs, some pneumonia
 - **Dosing:**
-  - Adults: 160mg/800mg (one "DS" = double-strength tablet) 2x daily
-  - Children >2 months: 8-10 mg/kg/day (TMP component) divided 2x daily (max 320mg TMP/day)
+- Adults: 160mg/800mg (one "DS" = double-strength tablet) 2x daily
+- Children >2 months: 8-10 mg/kg/day (TMP component) divided 2x daily (max 320mg TMP/day)
 - **Side effects:** Rash, GI upset, photosensitivity
 - **Contraindications:** Sulfa allergy (10% of population - rash, Stevens-Johnson syndrome risk)
 
@@ -429,17 +430,18 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 - **Spectrum:** Anaerobic bacteria (Clostridium, Bacteroides), some parasites (Giardia)
 - **Best for:** Anaerobic infections (abscesses, abdominal infections, C. diff), Giardia
 - **Dosing:**
-  - Adults: 500mg 3-4x daily (or 750mg 3x daily)
-  - Children: 15-30 mg/kg/day divided 3x daily (max 4g/day)
+- Adults: 500mg 3-4x daily (or 750mg 3x daily)
+- Children: 15-30 mg/kg/day divided 3x daily (max 4g/day)
 - **Side effects:** Metallic taste, nausea, **disulfiram reaction** (severe nausea/vomiting if alcohol consumed - avoid alcohol during and 3 days after treatment)
 - **Advantages:** Excellent anaerobic coverage (complements other antibiotics)
 
 ---
 
-## Dosing Tables (Quick Reference)
+## Dosing Tables
 
 ### Adult Dosing (Average 70kg / 154lb)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Antibiotic | Infection Type | Dose | Frequency | Duration |
 |------------|---------------|------|-----------|----------|
 | Amoxicillin | Strep throat, ear infection | 500-1000mg | 2-3x daily | 10 days |
@@ -453,6 +455,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ### Pediatric Dosing (by Weight)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Antibiotic | mg/kg/day | Divided | Max Dose | Notes |
 |------------|-----------|---------|----------|-------|
 | Amoxicillin | 45-90 | 2-3x daily | 3000mg/day | Higher dose (90) for resistant infections |
@@ -467,7 +470,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## Allergy and Cross-Reactivity
+## Allergy & Cross
 
 ### Penicillin Allergy
 
@@ -496,7 +499,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## Treatment Duration and Resistance Prevention
+## Treatment Duration
 
 ### Why Full Course Matters
 
@@ -511,6 +514,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ### Recommended Treatment Durations
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Infection Type | Minimum Duration | Notes |
 |----------------|------------------|-------|
 | Strep throat | 10 days | Prevents rheumatic fever, kidney damage |
@@ -539,10 +543,11 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## Side Effects and Adverse Reactions
+## Side Effects
 
 ### Common Side Effects (Usually Mild)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Side Effect | Cause | Management |
 |-------------|-------|------------|
 | **Diarrhea** | All antibiotics (kill gut bacteria) | Take probiotics, eat yogurt, stay hydrated; if severe/bloody → C. difficile (seek care) |
@@ -552,6 +557,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ### Serious Adverse Reactions (STOP ANTIBIOTIC IMMEDIATELY)
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Reaction | Symptoms | Action |
 |----------|----------|--------|
 | **Anaphylaxis** | Throat swelling, difficulty breathing, hives, low blood pressure | **EPINEPHRINE** 0.3mg IM immediately, call 911 |
@@ -588,7 +594,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## Antibiotic Resistance: Prevention Strategies
+## Antibiotic Resist
 
 ### How Resistance Develops
 
@@ -666,7 +672,7 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## When Medical Care Is Required
+## Medical Care Needed
 
 **Seek immediate medical care if:**
 - Signs of sepsis (severe infection): Fever + confusion, rapid breathing, rapid heart rate, low blood pressure
@@ -686,22 +692,21 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| Using antibiotics for cold/flu | Antibiotics ineffective for viruses - rest, fluids, symptom management |
-| Stopping antibiotics when feeling better | Complete full course (prevents resistance, relapse) |
-| Using someone else's leftover antibiotics | Wrong dose, wrong drug, incomplete course = resistance risk |
-| Not taking with food (if recommended) | Many antibiotics cause nausea - take with food unless contraindicated |
-| Demanding antibiotics from doctor for viral infection | Trust diagnosis - misuse accelerates resistance |
-| Using expired tetracyclines | TOXIC (Fanconi syndrome) - discard expired tetracyclines |
-| Taking doxycycline with dairy | Binds antibiotic (reduces effectiveness) - separate by 2 hours |
-| Drinking alcohol on metronidazole | Severe disulfiram reaction (vomiting, rapid heart rate) |
+**❌ Mistake:** ✓ Correct
+**Using antibiotics for cold/flu:** Antibiotics ineffective for viruses - rest, fluids, symptom management
+**Stopping antibiotics when feeling better:** Complete full course (prevents resistance, relapse)
+**Using someone else's leftover antibiotics:** Wrong dose, wrong drug, incomplete course = resistance risk
+**Not taking with food (if recommended):** Many antibiotics cause nausea - take with food unless contraindicated
+**Demanding antibiotics from doctor for viral infection:** Trust diagnosis - misuse accelerates resistance
+**Using expired tetracyclines:** TOXIC (Fanconi syndrome) - discard expired tetracyclines
+**Taking doxycycline with dairy:** Binds antibiotic (reduces effectiveness) - separate by 2 hours
+**Drinking alcohol on metronidazole:** Severe disulfiram reaction (vomiting, rapid heart rate)
 
 ---
 
-## Antibiotic Stockpile Priorities
+## Antibio Stock
 
 **Essential antibiotics for emergency stockpile:**
 

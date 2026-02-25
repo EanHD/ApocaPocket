@@ -61,11 +61,11 @@ warnings:
 - Children, elderly, and immunocompromised are most vulnerable - protect them first
 ---
 
-# Pandemic Response — Isolation, Infection Control, Community Health
+# Pandemic Response
 
 Pandemic response prioritizes: (1) Avoiding infection (isolation, hygiene, PPE). (2) Caring for sick while protecting caregivers. (3) Maintaining essential services. Based on CDC and WHO pandemic preparedness guidelines. Lessons from COVID-19, influenza, and historical pandemics.
 
-## RECOGNITION SIGNS: When "Flu Season" Becomes "Pandemic"
+## RECOGNISE FLU PANDEMIC
 
 ### Early Warning Indicators:
 - **Unusual severity:** Previously healthy people dying or becoming critically ill
@@ -94,44 +94,44 @@ Pandemic response prioritizes: (1) Avoiding infection (isolation, hygiene, PPE).
 - High mortality (20-90% depending on strain)
 - Healthcare settings = high risk (caring for sick)
 
-## IMMEDIATE ACTIONS (FIRST HOUR)
+## IMM ACT
 
 When you recognize pandemic threat:
 
 ### FOR INDIVIDUALS/FAMILIES:
 
 1. **ASSESS YOUR HOUSEHOLD:**
-   - [ ] Who is sick currently? (Isolate them NOW)
-   - [ ] Who has been exposed? (Quarantine separately)
-   - [ ] Who is vulnerable? (Elderly, chronic illness, pregnant, young children)
-   - [ ] What supplies do you have? (Food, water, medicine, masks)
+- [ ] Who is sick currently? (Isolate them NOW)
+- [ ] Who has been exposed? (Quarantine separately)
+- [ ] Who is vulnerable? (Elderly, chronic illness, pregnant, young children)
+- [ ] What supplies do you have? (Food, water, medicine, masks)
 
 2. **STOP NON-ESSENTIAL CONTACT:**
-   - [ ] Cancel social plans
-   - [ ] Pull children from school if still open
-   - [ ] Work from home if possible
-   - [ ] Avoid public spaces (stores, transit, gatherings)
+- [ ] Cancel social plans
+- [ ] Pull children from school if still open
+- [ ] Work from home if possible
+- [ ] Avoid public spaces (stores, transit, gatherings)
 
 3. **IMMEDIATE STOCKPILE (if stores are accessible):**
-   - [ ] Food: 2-4 weeks of shelf-stable items
-   - [ ] Water: 1 gallon per person per day for 14 days
-   - [ ] Medicine: Fever reducers (acetaminophen, ibuprofen), electrolytes, any prescriptions
-   - [ ] Hygiene: Soap, hand sanitizer, bleach, disinfecting wipes
-   - [ ] PPE: Masks (N95 best, surgical acceptable, cloth better than nothing), gloves, eye protection
+- [ ] Food: 2-4 weeks of shelf-stable items
+- [ ] Water: 1 gallon per person per day for 14 days
+- [ ] Medicine: Fever reducers (acetaminophen, ibuprofen), electrolytes, any prescriptions
+- [ ] Hygiene: Soap, hand sanitizer, bleach, disinfecting wipes
+- [ ] PPE: Masks (N95 best, surgical acceptable, cloth better than nothing), gloves, eye protection
 
 4. **ESTABLISH SICK ROOM:**
-   - [ ] Designate one room with door for sick isolation
-   - [ ] If possible, dedicated bathroom for sick person
-   - [ ] Remove unnecessary items (easier to disinfect)
-   - [ ] Stock with tissues, trash bags, thermometer, fluids, medications
+- [ ] Designate one room with door for sick isolation
+- [ ] If possible, dedicated bathroom for sick person
+- [ ] Remove unnecessary items (easier to disinfect)
+- [ ] Stock with tissues, trash bags, thermometer, fluids, medications
 
 5. **INFORMATION GATHERING:**
-   - [ ] Identify official information sources (CDC, WHO, local health department)
-   - [ ] Note disease characteristics (symptoms, transmission, incubation)
-   - [ ] Track local case numbers (helps predict timeline)
-   - [ ] Identify community mutual aid networks (for later supply sharing)
+- [ ] Identify official information sources (CDC, WHO, local health department)
+- [ ] Note disease characteristics (symptoms, transmission, incubation)
+- [ ] Track local case numbers (helps predict timeline)
+- [ ] Identify community mutual aid networks (for later supply sharing)
 
-## TIMELINE-BASED PLANNING
+## TIMEPLAN
 
 ### DAY 1-3: LOCKDOWN & ISOLATION
 
@@ -190,24 +190,24 @@ When you recognize pandemic threat:
 
 **Home Care for Sick:**
 - **Symptom management:**
-  - Fever: Acetaminophen or ibuprofen per package directions, cooling cloths, light clothing
-  - Cough: Honey (if available), steam inhalation, propped-up sleeping position
-  - Dehydration: Water, electrolyte solution (1L water + 6 tsp sugar + ½ tsp salt), broth
-  - Breathing difficulty: Propped-up position (45° angle), fresh air, calm breathing
+- Fever: Acetaminophen or ibuprofen per package directions, cooling cloths, light clothing
+- Cough: Honey (if available), steam inhalation, propped-up sleeping position
+- Dehydration: Water, electrolyte solution (1L water + 6 tsp sugar + ½ tsp salt), broth
+- Breathing difficulty: Propped-up position (45° angle), fresh air, calm breathing
   
 - **Monitoring (check twice daily):**
-  - Temperature (record in log)
-  - Breathing rate (count breaths for 15 sec, multiply by 4; normal = 12-20/min)
-  - Oxygen level if pulse oximeter available (< 92% = urgent concern)
-  - Mental status (alert, confused, unresponsive)
-  - Fluid intake/output (tracking hydration)
+- Temperature (record in log)
+- Breathing rate (count breaths for 15 sec, multiply by 4; normal = 12-20/min)
+- Oxygen level if pulse oximeter available (< 92% = urgent concern)
+- Mental status (alert, confused, unresponsive)
+- Fluid intake/output (tracking hydration)
 
 - **Warning signs requiring immediate medical attention (if available):**
-  - Difficulty breathing (gasping, can't complete sentences)
-  - Persistent chest pain/pressure
-  - Confusion or inability to wake
-  - Blue lips or face (cyanosis = low oxygen)
-  - Severe dehydration (no urination for 12+ hours, sunken eyes, very dry mouth)
+- Difficulty breathing (gasping, can't complete sentences)
+- Persistent chest pain/pressure
+- Confusion or inability to wake
+- Blue lips or face (cyanosis = low oxygen)
+- Severe dehydration (no urination for 12+ hours, sunken eyes, very dry mouth)
 
 **DIY PPE (when commercial unavailable):**
 - **Masks:** Multi-layer tightly-woven cotton (t-shirt, pillowcase), add filter layer (HEPA vacuum bag, coffee filter, HVAC filter) between fabric
@@ -286,7 +286,7 @@ When you recognize pandemic threat:
 - Restore services (reopen schools, markets, work)
 - Honor the dead (memorials, record-keeping)
 
-## MENTAL HEALTH PROTOCOLS
+## Mental Health Protocol
 
 ### Acute Crisis Responses:
 
@@ -378,7 +378,7 @@ When you recognize pandemic threat:
 - **Result:** Malnutrition (supplies ran out), social atrophy, missing window for rebuilding
 - **Avoid:** Monitor case numbers, wait for 2-4 weeks of declining cases, cautiously resume contact while maintaining hygiene habits
 
-## PANDEMIC DECISION MATRIX
+## PANDEMIC DECISION
 
 ```
 DISEASE SEVERITY × TRANSMISSION = RESPONSE LEVEL
@@ -421,6 +421,6 @@ Adjust your response based on disease characteristics, not fear or denial.
 **REMEMBER:** Pandemics are survivable with preparation, discipline, and community cooperation. Most deaths occur from panic, misinformation, and breakdown of social order — not the disease itself. Stay calm, follow protocols, support each other.
 ---
 
-# Pandemic Response — Isolation, Infection Control, Community Health
+# Pandemic Response
 
 Pandemic response prioritizes: (1) Avoiding infection (isolation, hygiene, PPE). (2) Caring for sick while protecting caregivers. (3) Maintaining essential services. Based on CDC and WHO pandemic preparedness guidelines. Lessons from COVID-19, influenza, and historical pandemics.

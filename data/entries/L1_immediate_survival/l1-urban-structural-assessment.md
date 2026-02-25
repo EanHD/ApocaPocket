@@ -9,10 +9,10 @@ time_required: "5-15 minutes per assessment"
 audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
-  - "FEMA P-154 Rapid Visual Screening of Buildings"
-  - "ATC-20 Post-Earthquake Building Safety Evaluation"
-  - "NFPA 921 Fire and Explosion Investigation Guide"
-  - "ASCE Structural Damage Assessment Standards"
+- "FEMA P-154 Rapid Visual Screening of Buildings"
+- "ATC-20 Post-Earthquake Building Safety Evaluation"
+- "NFPA 921 Fire and Explosion Investigation Guide"
+- "ASCE Structural Damage Assessment Standards"
 ---
 
 # Building Structural Assessment - Damage Recognition
@@ -32,7 +32,7 @@ sources:
 
 ---
 
-## FEMA Rapid Assessment Protocol (5-Point Check)
+## FEMA Rapid Assessment
 
 ### 1. Building Lean Assessment (60-90 seconds)
 
@@ -279,7 +279,7 @@ sources:
 
 ---
 
-## Earthquake-Specific Damage Indicators
+## Earthquake Damage
 
 ### Seismic Damage Patterns
 
@@ -291,16 +291,16 @@ sources:
 - **Brick/masonry:** Stair-step pattern (following mortar joints)
 - **Concrete:** Diagonal cracks (straight through material)
 - **Severity:**
-  - Cracks <1/4 inch: YELLOW (minor damage)
-  - Cracks >1/4 inch: RED (major structural damage)
+- Cracks <1/4 inch: YELLOW (minor damage)
+- Cracks >1/4 inch: RED (major structural damage)
 
 #### Soft-Story Collapse
 - First floor collapses, upper floors intact ("pancake collapse")
 - Common in buildings with open first floor (parking, retail)
 - **Indicators:**
-  - First floor shorter than it should be (compressed)
-  - Upper floors tilted or sagging
-  - Doors/windows on first floor crushed (shorter opening)
+- First floor shorter than it should be (compressed)
+- Upper floors tilted or sagging
+- Doors/windows on first floor crushed (shorter opening)
 - **Risk:** Total collapse imminent, DO NOT ENTER
 
 #### Foundation Offset
@@ -393,7 +393,7 @@ sources:
 
 ---
 
-## Explosive Damage Assessment
+## Explosive Damage
 
 ### Blast Damage Patterns
 
@@ -474,7 +474,7 @@ sources:
 
 ---
 
-## Tagging System (FEMA ATC-20)
+## Tagging System
 
 **Mark assessed buildings with spray paint (on door or wall near entrance):**
 
@@ -500,9 +500,9 @@ sources:
 - DO NOT ENTER for ANY reason
 - Extreme collapse risk
 - Mark with additional details if possible:
-  - "LEANING"
-  - "GAS LEAK"
-  - "FIRE DAMAGE"
+- "LEANING"
+- "GAS LEAK"
+- "FIRE DAMAGE"
 
 **Additional markings (optional):**
 - Date of assessment (top of box)
@@ -511,7 +511,7 @@ sources:
 
 ---
 
-## Self-Assessment Decision Matrix
+## Self-Assess Dec
 
 **Use this flowchart:**
 
@@ -548,7 +548,7 @@ sources:
 
 ---
 
-## Time-Critical Assessment (60-Second Version)
+## Time-Critical Assessme
 
 **If you must assess FAST (active danger, fire, threat):**
 
@@ -562,7 +562,7 @@ sources:
 
 ---
 
-## Post-Assessment Actions
+## Post-Assess Actions
 
 ### If GREEN (Safe):
 - Enter normally
@@ -585,22 +585,21 @@ sources:
 
 ---
 
-## Common Mistakes ❌ → ✓ Correct Approach
+## Common Mistakes
 
-| ❌ Mistake | ✓ Correct |
-|-----------|----------|
-| "I'll just run in and grab one thing" | Even 30 seconds = collapse risk, not worth it |
-| Ignoring lean (looks minor) | 3° lean = imminent collapse, evacuate |
-| Entering despite gas smell (holding breath) | Gas = explosion risk, one spark = death |
-| Trusting building because it survived initial event | Aftershocks, degradation = delayed collapse |
-| Going upstairs (valuables on 2nd floor) | Upper floors = highest risk, ground floor only |
-| Assessing alone (no one to call for help) | Buddy system always (one watches, one enters) |
-| Re-entering after initial exit (forgot phone) | NEVER re-enter (increased collapse risk each entry) |
-| Assuming concrete = safe | Fire-damaged concrete = weakened, spalling = danger |
+**❌ Mistake:** ✓ Correct
+**"I'll just run in and grab one thing":** Even 30 seconds = collapse risk, not worth it
+**Ignoring lean (looks minor):** 3° lean = imminent collapse, evacuate
+**Entering despite gas smell (holding breath):** Gas = explosion risk, one spark = death
+**Trusting building because it survived initial event:** Aftershocks, degradation = delayed collapse
+**Going upstairs (valuables on 2nd floor):** Upper floors = highest risk, ground floor only
+**Assessing alone (no one to call for help):** Buddy system always (one watches, one enters)
+**Re-entering after initial exit (forgot phone):** NEVER re-enter (increased collapse risk each entry)
+**Assuming concrete = safe:** Fire-damaged concrete = weakened, spalling = danger
 
 ---
 
-## When to Call Professionals
+## Call Pros
 
 **Structural engineers needed if:**
 - Building is YELLOW but you need long-term occupancy (repair assessment)

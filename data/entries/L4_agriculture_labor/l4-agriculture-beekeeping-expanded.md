@@ -36,6 +36,6 @@ steps:
   cold.'
 ---
 
-# Beekeeping Expanded — Hive Management, Honey Harvest, Swarm Capture
+# Beekeeping
 
 Beyond basic beekeeping - managing hive health, preventing swarming, capturing wild swarms, extracting honey without equipment. Bees provide honey, wax, pollination. One hive produces 30-60 lbs honey per year. Requires weekly inspections during active season.

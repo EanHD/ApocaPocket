@@ -56,6 +56,6 @@ steps:
   supervision, involve trusted group members, remove means of self-harm, focus on tiny goals (survive today, survive this hour).'
 ---
 
-# Long-Term Survival — Psychological Resilience & Mental Health
+# Long-term Survival
 
 Your body can be fine while your mind collapses. Depression, anxiety, PTSD, grief, and hopelessness kill survivors. This entry covers: recognizing mental health crises, self-care practices, group support, and creating meaning in survival. Survival is not just physical — it's existential.

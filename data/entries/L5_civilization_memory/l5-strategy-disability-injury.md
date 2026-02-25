@@ -55,6 +55,6 @@ steps:
   to prevent resentment). Have open conversations about capabilities and limitations. In crisis, make difficult decisions based on group survival, but approach with compassion.'
 ---
 
-# Disability & Major Injury Contingencies
+# Disab/Major Inj
 
 You broke your leg, lost vision, or have a group member with disability. How do you survive? This entry covers: adapting tasks, mobility aids, psychological adaptation, and group support systems. Disability doesn't mean death — it means different strategies.

@@ -4,43 +4,43 @@ title: "Emergency Communications Protocols: Operating Procedures"
 layer: L3_materials_technology
 category: communications
 tags:
-  - emergency_communications
-  - protocols
-  - phonetic_alphabet
-  - brevity_codes
-  - net_control
-  - ARES
-  - RACES
-  - ICS
+- emergency_communications
+- protocols
+- phonetic_alphabet
+- brevity_codes
+- net_control
+- ARES
+- RACES
+- ICS
 region_relevance:
-  - global
+- global
 summary: "Standardized emergency communication protocols ensure clear, efficient message exchange during crises. Covers NATO phonetic alphabet (pronunciation guide), brevity codes (10-codes, Q-codes, prowords), distress signals (MAYDAY, PAN-PAN, SÉCURITÉ urgency levels), radio discipline (clear speech, brevity, listening protocols), net control operations (check-ins, message traffic, priority handling), and integration with ARES/RACES amateur radio emergency services and ICS (Incident Command System)."
 steps:
-  - "Learn and practice NATO phonetic alphabet for spelling names, locations, callsigns without ambiguity (Alpha, Bravo, Charlie...)"
-  - "Memorize essential brevity codes: 10-4 (acknowledged), 10-20 (location), 10-33 (emergency traffic), Q-codes for ham radio"
-  - "Understand distress signal hierarchy: MAYDAY (life-threatening), PAN-PAN (urgent non-life-threatening), SÉCURITÉ (safety information)"
-  - "Practice radio discipline: Listen before transmitting, speak clearly and slowly, use brevity, avoid unnecessary transmissions"
-  - "Participate in practice nets weekly: Learn net control procedures, check-in protocols, message handling (preamble, text, signature)"
-  - "Complete ICS training (ICS-100, ICS-200, ICS-700) for integration with formal emergency management (FEMA free online courses)"
+- "Learn and practice NATO phonetic alphabet for spelling names, locations, callsigns without ambiguity (Alpha, Bravo, Charlie...)"
+- "Memorize essential brevity codes: 10-4 (acknowledged), 10-20 (location), 10-33 (emergency traffic), Q-codes for ham radio"
+- "Understand distress signal hierarchy: MAYDAY (life-threatening), PAN-PAN (urgent non-life-threatening), SÉCURITÉ (safety information)"
+- "Practice radio discipline: Listen before transmitting, speak clearly and slowly, use brevity, avoid unnecessary transmissions"
+- "Participate in practice nets weekly: Learn net control procedures, check-in protocols, message handling (preamble, text, signature)"
+- "Complete ICS training (ICS-100, ICS-200, ICS-700) for integration with formal emergency management (FEMA free online courses)"
 warnings:
-  - "FALSE DISTRESS CALLS: Transmitting MAYDAY or activating EPIRB (Emergency Position Indicating Radio Beacon) when no emergency exists is federal crime (FCC/Coast Guard fine $10,000-100,000, possible imprisonment). Use correct urgency level: MAYDAY = life-threatening only, PAN-PAN = urgent but not life-threatening"
-  - "HOAX EMERGENCY TRAFFIC: Falsely claiming emergency status to gain priority on frequency disrupts real emergencies and violates FCC Part 97.113. Penalties include license revocation and criminal prosecution"
-  - "EAVESDROPPING ON EMERGENCY TRAFFIC: Legal to monitor, but DO NOT retransmit/relay without authorization (violates third-party traffic rules in many jurisdictions). Exception: Immediate life-threatening situation where you are the only relay available"
-  - "OPERATIONAL SECURITY (OPSEC): Never transmit sensitive information unencrypted (locations of resources, personnel names, medical details, security plans). Use coded messages, pre-arranged brevity codes, or secure communications (Winlink with AES, phone via VOIP). Adversaries/criminals monitor emergency frequencies"
-  - "NET DISCIPLINE VIOLATIONS: Transmitting out of turn, interrupting net control, excessive transmissions (rag-chewing) degrades emergency net efficiency. Follow net control instructions exactly. If you must interrupt for emergency, use 'BREAK BREAK BREAK' prefix only"
-  - "FATIGUE & ERRORS: Extended net operations (12-24+ hour shifts) cause operator fatigue, increased errors (wrong frequencies, missed messages, poor copy). Rotate operators every 4-6 hours, enforce rest periods, maintain alertness"
+- "FALSE DISTRESS CALLS: Transmitting MAYDAY or activating EPIRB (Emergency Position Indicating Radio Beacon) when no emergency exists is federal crime (FCC/Coast Guard fine $10,000-100,000, possible imprisonment). Use correct urgency level: MAYDAY = life-threatening only, PAN-PAN = urgent but not life-threatening"
+- "HOAX EMERGENCY TRAFFIC: Falsely claiming emergency status to gain priority on frequency disrupts real emergencies and violates FCC Part 97.113. Penalties include license revocation and criminal prosecution"
+- "EAVESDROPPING ON EMERGENCY TRAFFIC: Legal to monitor, but DO NOT retransmit/relay without authorization (violates third-party traffic rules in many jurisdictions). Exception: Immediate life-threatening situation where you are the only relay available"
+- "OPERATIONAL SECURITY (OPSEC): Never transmit sensitive information unencrypted (locations of resources, personnel names, medical details, security plans). Use coded messages, pre-arranged brevity codes, or secure communications (Winlink with AES, phone via VOIP). Adversaries/criminals monitor emergency frequencies"
+- "NET DISCIPLINE VIOLATIONS: Transmitting out of turn, interrupting net control, excessive transmissions (rag-chewing) degrades emergency net efficiency. Follow net control instructions exactly. If you must interrupt for emergency, use 'BREAK BREAK BREAK' prefix only"
+- "FATIGUE & ERRORS: Extended net operations (12-24+ hour shifts) cause operator fatigue, increased errors (wrong frequencies, missed messages, poor copy). Rotate operators every 4-6 hours, enforce rest periods, maintain alertness"
 related_entries:
-  - l3-tech-radio-basics
-  - l3-tech-antenna-construction
-  - l3-tech-digital-radio
-  - l3-tech-propagation
+- l3-tech-radio-basics
+- l3-tech-antenna-construction
+- l3-tech-digital-radio
+- l3-tech-propagation
 sources:
-  - ARRL Emergency Communications Handbook
-  - FEMA ICS training materials (ICS-100, ICS-200, ICS-700, ICS-800)
-  - ARRL ARES Field Resources Manual
-  - FEMA AUXCOMM guidance
-  - ITU Radio Regulations Appendix (phonetic alphabet, Q-codes)
-  - U.S. Coast Guard Communications Manual
+- ARRL Emergency Communications Handbook
+- FEMA ICS training materials (ICS-100, ICS-200, ICS-700, ICS-800)
+- ARRL ARES Field Resources Manual
+- FEMA AUXCOMM guidance
+- ITU Radio Regulations Appendix (phonetic alphabet, Q-codes)
+- U.S. Coast Guard Communications Manual
 audit_status: verified
 last_verified: 2026-02-19
 confidence: high
@@ -72,6 +72,7 @@ This guide covers **six essential protocol categories**:
 **Purpose**: Spell words letter-by-letter without confusion. Critical for callsigns, names, locations, grid coordinates.
 
 **Alphabet**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Letter | Word | Pronunciation | Letter | Word | Pronunciation |
 |--------|------|---------------|--------|------|---------------|
 | **A** | Alpha | AL-FAH | **N** | November | NO-VEM-BER |
@@ -89,6 +90,7 @@ This guide covers **six essential protocol categories**:
 | **M** | Mike | MIKE | **Z** | Zulu | ZOO-LOO |
 
 **Numbers**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Number | Word | Pronunciation | Number | Word | Pronunciation |
 |--------|------|---------------|--------|------|---------------|
 | **0** | Zero | ZEE-RO | **5** | Five | FIFE |
@@ -142,6 +144,7 @@ This guide covers **six essential protocol categories**:
 ### 10-Codes (Law Enforcement / Public Safety Origin)
 
 **Common 10-Codes**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Code | Meaning | Usage |
 |------|---------|-------|
 | **10-4** | Acknowledged, understood | "10-4, message received" |
@@ -166,6 +169,7 @@ This guide covers **six essential protocol categories**:
 **Q-codes** originated in maritime radio, now used extensively in amateur radio. Internationally recognized.
 
 **Common Q-Codes**:
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Code | Question | Answer/Statement |
 |------|----------|------------------|
 | **QRL** | Is this frequency in use? | This frequency is in use (QRL = "occupied") |
@@ -209,25 +213,23 @@ This guide covers **six essential protocol categories**:
 **Prowords** are voice procedure words used to structure radio transmissions. Military and aviation origin.
 
 **Common Prowords**:
-| Proword | Meaning |
-|---------|---------|
-| **Over** | My transmission is ended, I expect a response (like "your turn" in conversation) |
-| **Out** | My transmission is ended, I do not expect a response (end of conversation) |
-| **Roger** | I have received all of your last transmission (NOT "yes" or "I agree") |
-| **Wilco** | I have received your message, understand it, and will comply (WILl COmply) |
-| **Say Again** | Repeat your last transmission (not "repeat" — "repeat" means "fire again" in military) |
-| **Break** | I am separating portions of my message (indicates pause, next part coming) |
-| **Break Break Break** | I have urgent traffic, all other stations cease transmissions |
-| **Correction** | An error has been made in this transmission, the correct version is... |
-| **Read Back** | Repeat the message back to me exactly as received (for verification) |
-| **Wait** | I must pause, stand by for a few seconds |
-| **Wait Out** | I must pause for longer than a few seconds, I will call you when ready |
-| **This is** | This transmission is from the station whose callsign immediately follows |
-| **From** | Message originator (in formal message handling) |
-| **To** | Message addressee (in formal message handling) |
-| **Time** | The time immediately following is UTC (Coordinated Universal Time) |
-| **Figures** | Numbers follow (alerts listener to write down numbers) |
-| **Spell** | Phonetic spelling follows |
+****Over**:** My transmission is ended, I expect a response (like "your turn" in conversation)
+****Out**:** My transmission is ended, I do not expect a response (end of conversation)
+****Roger**:** I have received all of your last transmission (NOT "yes" or "I agree")
+****Wilco**:** I have received your message, understand it, and will comply (WILl COmply)
+****Say Again**:** Repeat your last transmission (not "repeat" — "repeat" means "fire again" in military)
+****Break**:** I am separating portions of my message (indicates pause, next part coming)
+****Break Break Break**:** I have urgent traffic, all other stations cease transmissions
+****Correction**:** An error has been made in this transmission, the correct version is...
+****Read Back**:** Repeat the message back to me exactly as received (for verification)
+****Wait**:** I must pause, stand by for a few seconds
+****Wait Out**:** I must pause for longer than a few seconds, I will call you when ready
+****This is**:** This transmission is from the station whose callsign immediately follows
+****From**:** Message originator (in formal message handling)
+****To**:** Message addressee (in formal message handling)
+****Time**:** The time immediately following is UTC (Coordinated Universal Time)
+****Figures**:** Numbers follow (alerts listener to write down numbers)
+****Spell**:** Phonetic spelling follows
 
 **Usage Examples**:
 
@@ -286,9 +288,9 @@ Station C: "Wilco, standing by, over"
 
 **Procedure** (voice):
 1. **Select emergency frequency**:
-   - Marine: Channel 16 (156.8 MHz)
-   - Aviation: 121.5 MHz (civilian), 243.0 MHz (military)
-   - Ham radio: Calling frequency (146.520 MHz VHF, 7.285 MHz HF)
+- Marine: Channel 16 (156.8 MHz)
+- Aviation: 121.5 MHz (civilian), 243.0 MHz (military)
+- Ham radio: Calling frequency (146.520 MHz VHF, 7.285 MHz HF)
 2. **Transmit**:
    ```
    "MAYDAY, MAYDAY, MAYDAY"
@@ -598,6 +600,7 @@ NCS: "Roger, net is clear, standing by for further traffic. Over"
 
 **Four Levels** (ICS/FEMA standard):
 
+<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Precedence | Use | Example |
 |------------|-----|---------|
 | **EMERGENCY** | Life-threatening, immediate action required | "EMERGENCY: Fire spreading, immediate evacuation shelter Alpha" |
@@ -633,7 +636,7 @@ NCS: "All stations, this net is for emergency traffic only. Non-emergency discus
 NCS: "Station causing interference, you are not authorized on this frequency. Cease transmissions immediately. All other stations, ignore interfering station, continue operations. Over"
 ```
 
-## ARES & RACES Integration
+## ARES-RACES
 
 **ARES** (Amateur Radio Emergency Service): ARRL-sponsored volunteer program providing emergency communications.
 
@@ -713,7 +716,7 @@ NCS: "Station causing interference, you are not authorized on this frequency. Ce
 
 **Qualification**: ICS training + technical proficiency + background check (FEMA credentials).
 
-## Emergency Communications Best Practices
+## Emergency Comms
 
 ### Pre-Event Preparation
 
@@ -780,7 +783,7 @@ NCS: "Station causing interference, you are not authorized on this frequency. Ce
 2. Update SOPs (Standard Operating Procedures) if protocols changed
 3. Schedule training on identified gaps (antenna construction, digital modes, ICS forms)
 
-## Common Emergency Communications Mistakes
+## Common Errors
 
 - ❌ **Not listening before transmitting**: Doubling over other stations, missed traffic
 - ✓ **Listen 10-30 seconds, ensure frequency clear**

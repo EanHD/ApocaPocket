@@ -6,13 +6,13 @@ tags: ["water", "snow", "ice", "melting", "cold-weather", "hydration"]
 confidence: "high"
 region: "global"
 sources:
-  - "mountaineering-hydration-guides"
-  - "cold-weather-survival-manual"
-  - "military-arctic-field-guide"
+- "mountaineering-hydration-guides"
+- "cold-weather-survival-manual"
+- "military-arctic-field-guide"
 related:
-  - "l1-medical-hypothermia"
-  - "l1-water-boiling-and-purification"
-  - "l1-water-storage-safety"
+- "l1-medical-hypothermia"
+- "l1-water-boiling-and-purification"
+- "l1-water-storage-safety"
 ---
 
 # Ice & Snow Melting for Water

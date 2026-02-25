@@ -89,10 +89,10 @@ Cardiopulmonary resuscitation (CPR) for sudden cardiac arrest. Immediate chest c
 - **30 compressions : 2 breaths** (if giving breaths)
 - **Continuous compressions** (if compression-only)
 - Do not stop until:
-  - AED arrives
-  - Victim shows signs of life (breathing, movement)
-  - Emergency responders take over
-  - You are physically unable to continue
+- AED arrives
+- Victim shows signs of life (breathing, movement)
+- Emergency responders take over
+- You are physically unable to continue
 
 ### 8. AED Use (when available)
 - Turn on AED, follow voice prompts
@@ -127,7 +127,7 @@ Cardiopulmonary resuscitation (CPR) for sudden cardiac arrest. Immediate chest c
 - Standard CPR technique
 - If advanced pregnancy, manually displace uterus to left
 
-## Common Mistakes to Avoid
+## Common Mistakes
 - ❌ Compressions too shallow (<2 inches)
 - ❌ Not allowing full chest recoil
 - ❌ Compressions too slow (<100/min)

@@ -81,7 +81,7 @@ Modern people think "fishing = rod and reel or net." They forget that fish traps
 - **Bait chamber:** Optional (attracts fish to enter)
 - **Anchor:** Stone weight (keeps trap submerged)
 
-## Construction: River Weir (Stone)
+## River Weir
 
 ### Site Selection
 1. **Current speed:** Moderate flow (too fast = fish avoid, too slow = poor funneling)
@@ -124,7 +124,7 @@ Modern people think "fishing = rod and reel or net." They forget that fish traps
 - **Repair gaps:** Stones shift over time (especially spring floods)
 - **Seasonal rebuild:** Winter ice, spring floods damage traps (rebuild annually)
 
-## Construction: Basket Trap (Woven)
+## Basket Trap
 
 ### Materials
 - **Withes:** Flexible branches (willow, alder, reed, bamboo)
@@ -198,7 +198,7 @@ Modern people think "fishing = rod and reel or net." They forget that fish traps
 - **Falling water:** Fish move downstream (reposition weir)
 - **Cold fronts:** Fish less active (lower catch rates)
 
-## Advantages Over Other Methods
+## Advantages
 
 ### Vs. Rod & Reel
 1. **Passive:** No active fishing required (24/7 operation)
@@ -323,12 +323,12 @@ Modern people think "fishing = rod and reel or net." They forget that fish traps
 - Dimensions (18-24" long, 8-12" diameter)
 ```
 
-## Sources & Further Reading
+## Sources
 
-- **Kroeber, A. L. (1925).** *Handbook of the Indians of California*. - Native fish weir systems (scale and efficiency)
-- **Hunn, E. S. (1990).** *Nch'i-Wána, "The Big River": Mid-Columbia Indians and Their Land*. - Columbia River weirs (10+ million salmon annually)
+- **Kroeber, A. L. (1925).** Handbook of the Indians of California. - Native fish weir systems (scale and efficiency)
+- **Hunn, E. S. (1990).** Nch'i-Wána, "The Big River": Mid-Columbia Indians and Their Land. - Columbia River weirs (10+ million salmon annually)
 - **Bernick, K. (1998).** "Stylistic Characteristics of Basketry Fish Traps." - Archaeological analysis of ancient traps
-- **Von Brandt, A. (2005).** *Fish Catching Methods of the World*. - Comprehensive global fish trap designs
+- **Von Brandt, A. (2005).** Fish Catching Methods of the World. - Comprehensive global fish trap designs
 - **Historical accounts:** Lewis & Clark journals describe Celilo Falls weirs (1805) - most productive fishing site in North America
 
 ## Final Notes

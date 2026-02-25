@@ -52,6 +52,6 @@ steps:
   must stop snoring''). Creative solutions. If resolution fails: separation (assign people to different tasks/areas) or exile in extreme cases. Violence is contagious — stop it immediately.'
 ---
 
-# Group Survival Dynamics — From Family to Community
+# Group Survival
 
 Solo survival is hard. Group survival is harder in different ways. 2-3 people = force multiplier. 10+ people = community with governance needs. 50+ people = civilization with specialization and politics. This entry covers group dynamics, decision-making, conflict resolution, and leadership at each scale.
