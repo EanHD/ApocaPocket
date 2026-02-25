@@ -1,6 +1,6 @@
 ---
 id: l2-fish-bass-identification
-title: Bass — Largemouth & Smallmouth Identification
+title: Bass Field ID
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

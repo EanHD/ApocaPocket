@@ -1,6 +1,6 @@
 ---
 id: l2-food-black-walnut
-title: Black Walnut — Foraging & Processing
+title: Black Walnut Foraging
 category: L2_food_biology
 subtopic: edible_plants
 tags:

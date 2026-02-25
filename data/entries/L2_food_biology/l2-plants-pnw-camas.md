@@ -1,6 +1,6 @@
 ---
 id: l2-plants-pnw-camas
-title: Camas — Staple Root Crop of Indigenous PNW
+title: Camas (PNW Staple)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

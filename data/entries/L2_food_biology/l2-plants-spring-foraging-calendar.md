@@ -1,6 +1,6 @@
 ---
 id: l2-plants-spring-foraging-calendar
-title: Spring Foraging Calendar (Temperate N. America)
+title: Spring Foraging Calendar
 category: L2_food_biology
 subtopic: edible_plants
 tags:

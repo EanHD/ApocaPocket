@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-hen-of-the-woods
-title: Hen of the Woods / Maitake (Grifola frondosa)
+title: Hen of Woods / Maitake
 category: L2_food_biology
 subtopic: mushrooms
 tags:

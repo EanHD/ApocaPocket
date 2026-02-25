@@ -1,6 +1,6 @@
 ---
 id: l2-plants-southwest-prickly-pear
-title: Prickly Pear Cactus — Desert Staple
+title: Prickly Pear Cactus
 category: L2_food_biology
 subtopic: edible_plants
 tags:

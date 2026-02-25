@@ -1,6 +1,6 @@
 ---
 id: l2-animal-behavior-seasons
-title: Animal Seasonal Behavior and Migration Patterns
+title: Animal Seasonal Migration
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

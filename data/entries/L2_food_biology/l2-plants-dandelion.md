@@ -1,6 +1,6 @@
 ---
 id: l2-plants-dandelion
-title: Dandelion (Taraxacum officinale)
+title: Dandelion (Taraxacum)
 category: L2_food_biology
 subtopic:
 - "edible_plants tags:"

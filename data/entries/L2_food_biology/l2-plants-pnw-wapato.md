@@ -1,6 +1,6 @@
 ---
 id: l2-plants-pnw-wapato
-title: Wapato — Indigenous Staple Tuber
+title: Wapato (Staple Tuber)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

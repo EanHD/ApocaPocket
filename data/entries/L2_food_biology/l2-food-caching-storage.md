@@ -1,6 +1,6 @@
 ---
 id: l2-food-caching-storage
-title: Food Caching — Long-Term Storage Without Refrigeration
+title: Food Caching
 category: L2_food_biology
 subtopic: food_preparation
 tags:

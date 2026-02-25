@@ -1,6 +1,6 @@
 ---
 id: l2-plants-southwest-mesquite
-title: Mesquite — Desert Bean & Flour
+title: Mesquite (Desert Bean)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

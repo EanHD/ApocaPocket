@@ -1,6 +1,6 @@
 ---
 id: l2-fish-identification-freshwater
-title: Common Edible Freshwater Fish
+title: Edible Freshwater Fish
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

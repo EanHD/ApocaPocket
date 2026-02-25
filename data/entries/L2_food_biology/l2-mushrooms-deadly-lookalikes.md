@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-deadly-lookalikes
-title: Deadly Mushroom Lookalikes Reference
+title: Mushroom Lookalikes
 category: L2_food_biology
 subtopic: mushrooms
 tags:

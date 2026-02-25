@@ -1,6 +1,6 @@
 ---
 id: l2-fish-catfish-identification
-title: Catfish — Bottom Feeder Survival Fish
+title: Catfish Identification
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

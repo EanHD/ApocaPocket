@@ -233,7 +233,7 @@ if __name__ == "__main__":
     script_dir  = Path(__file__).parent
     project_dir = script_dir.parent
     entries_dir = project_dir / "data" / "entries"
-    output_dir  = project_dir / "exports"
+    output_dir  = project_dir / "data" / "index"
 
     print("=== ApocaPocket Index Builder ===")
     print(f"Entries dir: {entries_dir}")
@@ -246,8 +246,8 @@ if __name__ == "__main__":
 
     total = build_index(entries_dir, output_dir)
 
-    print(f"\n✅ Done — {total} entries indexed")
+        print(f"\n✅ Done — {total} entries indexed")
     print("\nNext steps:")
-    print("  1. Copy exports/entries.idx  → /your/sd/index/entries.idx")
-    print("  2. Copy exports/metadata.json → /your/sd/index/metadata.json")
+    print("  1. Drag the repo's data/ folder to your SD card root")
+    print("  2. SD card should have: data/entries/, data/diagrams/, data/index/")
     print("  3. Flash firmware and boot the device")

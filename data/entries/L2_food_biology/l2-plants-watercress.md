@@ -1,6 +1,6 @@
 ---
 id: l2-plants-watercress
-title: Watercress (Nasturtium officinale)
+title: Watercress (Nasturtium)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

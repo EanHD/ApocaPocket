@@ -1,6 +1,6 @@
 ---
 id: l2-plants-pnw-salal
-title: Salal — Pacific Northwest Staple Berry
+title: Salal (Pacific NW Berry)
 category: L2_food_biology
 subtopic: edible_plants
 tags: [salal, berries, PNW, foraging, Pacific-Northwest]

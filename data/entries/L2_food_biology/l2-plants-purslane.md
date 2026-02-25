@@ -1,6 +1,6 @@
 ---
 id: l2-plants-purslane
-title: Purslane (Portulaca oleracea)
+title: Purslane (Portulaca)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

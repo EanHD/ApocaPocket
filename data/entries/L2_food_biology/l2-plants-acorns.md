@@ -1,6 +1,6 @@
 ---
 id: l2-plants-acorns
-title: Acorns (Quercus spp.) — Oak Tree Nuts
+title: Acorns (Quercus spp.)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

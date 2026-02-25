@@ -1,6 +1,6 @@
 ---
 id: l2-plants-stinging-nettle
-title: Stinging Nettle (Urtica dioica)
+title: Stinging Nettle
 category: L2_food_biology
 subtopic: edible_plants
 tags:

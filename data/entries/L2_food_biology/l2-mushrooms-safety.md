@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-safety
-title: Mushroom Safety and Spore Print Workflow
+title: Mushroom Safety Protocol
 category: L2_food_biology
 subtopic: mushrooms
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l2-plants-chickweed
-title: Chickweed (Stellaria media)
+title: Chickweed (Stellaria)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

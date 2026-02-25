@@ -1,6 +1,6 @@
 ---
 id: l2-trapping-small-game
-title: Passive Small Game Trapping Principles
+title: Small Game Trapping
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

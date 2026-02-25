@@ -1,1 +1,4 @@
 .pio
+audit_results.csv
+data/index/*.idx
+data/index/*.json

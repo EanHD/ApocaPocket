@@ -1,6 +1,6 @@
 ---
 id: l2-fish-panfish-identification
-title: Panfish — Bluegill, Sunfish, Crappie
+title: Panfish Identification
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

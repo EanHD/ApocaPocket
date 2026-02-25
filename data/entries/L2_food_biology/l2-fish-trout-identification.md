@@ -1,6 +1,6 @@
 ---
 id: l2-fish-trout-identification
-title: Trout — Identification & Field Dressing
+title: Trout ID & Field Dressing
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

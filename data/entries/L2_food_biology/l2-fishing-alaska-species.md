@@ -1,6 +1,6 @@
 ---
 id: l2-fishing-alaska-species
-title: "Alaska Fish Species - Identification & Harvest"
+title: Alaska Fish Species
 category: fishing
 level: 2
 priority: high

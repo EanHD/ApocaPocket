@@ -1,6 +1,6 @@
 ---
 id: l2-plants-death-camas
-title: Death Camas — DEADLY Camas Lookalike
+title: Death Camas Lookalike
 category: L2_food_biology
 subtopic: toxic_plants
 tags:

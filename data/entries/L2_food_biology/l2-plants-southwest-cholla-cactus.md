@@ -1,6 +1,6 @@
 ---
 id: l2-plants-southwest-cholla-cactus
-title: Cholla Cactus — Edible Buds & Fruit
+title: Cholla Cactus
 category: L2_food_biology
 subtopic: edible_plants
 tags:

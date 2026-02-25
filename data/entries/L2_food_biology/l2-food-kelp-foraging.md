@@ -1,6 +1,6 @@
 ---
 id: l2-food-kelp-foraging
-title: Kelp — Coastal Seaweed Foraging & Uses
+title: Kelp Foraging
 category: L2_food_biology
 subtopic: edible_plants
 tags:

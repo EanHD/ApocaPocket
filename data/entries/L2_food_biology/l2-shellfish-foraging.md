@@ -1,6 +1,6 @@
 ---
 id: l2-shellfish-foraging
-title: Coastal Shellfish Safety and Foraging
+title: Coastal Shellfish Safety
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

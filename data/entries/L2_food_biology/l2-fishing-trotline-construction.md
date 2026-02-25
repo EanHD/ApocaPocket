@@ -1,6 +1,6 @@
 ---
 id: l2-fishing-trotline-construction
-title: Trotline — Passive Multi-Hook Fishing System
+title: Trotline Fishing
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

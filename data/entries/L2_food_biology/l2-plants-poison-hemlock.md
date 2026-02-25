@@ -1,6 +1,6 @@
 ---
 id: l2-plants-poison-hemlock
-title: Poison Hemlock & Water Hemlock — DEADLY Identification
+title: Poison & Water Hemlock
 category: L2_food_biology
 subtopic: toxic_plants
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l2-plants-wild-garlic
-title: Wild Garlic / Ramps (Allium spp.)
+title: Wild Garlic / Ramps
 category: L2_food_biology
 subtopic: edible_plants
 tags:

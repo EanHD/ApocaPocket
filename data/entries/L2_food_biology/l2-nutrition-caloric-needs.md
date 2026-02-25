@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-caloric-needs
-title: Caloric Budgeting Under Exertion
+title: Caloric Budgeting
 category: L2_food_biology
 subtopic: nutrition
 tags:

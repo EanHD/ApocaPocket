@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-large-game-shot-placement
-title: "Large Game Shot Placement - Ethical Kills"
+title: Large Game Shot Placement
 category: hunting
 level: 2
 priority: high

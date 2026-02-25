@@ -1,6 +1,6 @@
 ---
 id: l2-trapping-snare-designs
-title: Five Essential Snare and Trap Designs
+title: Essential Snare Designs
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

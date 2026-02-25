@@ -1,6 +1,6 @@
 ---
 id: l2-plants-wild-teas
-title: Wild Tea Guide — 20 Species
+title: Wild Tea Guide
 category: L2_food_biology
 subtopic: edible_plants
 tags:

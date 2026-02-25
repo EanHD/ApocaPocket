@@ -1,6 +1,6 @@
 ---
 id: l2-insect-foraging-detailed
-title: Insect Foraging — Identification and Preparation
+title: Insect Foraging
 category: L2_food_biology
 subtopic: nutrition
 tags:

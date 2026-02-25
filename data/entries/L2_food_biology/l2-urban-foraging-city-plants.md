@@ -1,5 +1,5 @@
 ---
-title: "Urban Foraging - City Plants and Trees"
+title: Urban Foraging
 layer: "L2_food_biology"
 category: "plants"
 subcategory: "urban_foraging"

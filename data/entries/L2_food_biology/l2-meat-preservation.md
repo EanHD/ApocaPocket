@@ -1,6 +1,6 @@
 ---
 id: l2-meat-preservation
-title: 'Meat Preservation: Drying and Smoking'
+title: Meat Preservation
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

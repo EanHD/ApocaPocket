@@ -1,6 +1,6 @@
 ---
 id: l2-plants-lambs-quarters
-title: Lamb's Quarters (Chenopodium album)
+title: Lamb's Quarters
 category: L2_food_biology
 subtopic: edible_plants
 tags:

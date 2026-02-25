@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-bow-basics
-title: "Bow Hunting Basics - Silent Survival Hunting"
+title: Bow Hunting Basics
 category: hunting
 level: 2
 priority: medium

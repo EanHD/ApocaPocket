@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-large-game-field-dressing
-title: "Large Game Field Dressing - Moose, Caribou, Deer"
+title: Large Game Field Dressing
 category: hunting
 level: 2
 priority: high

@@ -1,6 +1,6 @@
 ---
 id: l2-food-acorn-processing
-title: Acorn Processing — Leaching Tannins for Edibility
+title: Acorn Processing
 category: L2_food_biology
 subtopic: edible_plants
 tags:

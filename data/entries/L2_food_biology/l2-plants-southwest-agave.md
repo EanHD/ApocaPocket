@@ -1,6 +1,6 @@
 ---
 id: l2-plants-southwest-agave
-title: Agave — Desert Staple Carbohydrate
+title: Agave (Desert Staple)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

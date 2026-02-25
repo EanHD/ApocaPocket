@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-puffball
-title: Giant Puffball (Calvatia gigantea)
+title: Giant Puffball
 category: L2_food_biology
 subtopic: mushrooms
 tags:

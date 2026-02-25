@@ -1,6 +1,6 @@
 ---
 id: l2-plants-toxic-plant-symptoms
-title: Toxic Plant Poisoning — Symptom Recognition by Toxin Class
+title: Toxic Plant Symptoms
 category: L2_food_biology
 subtopic: edible_plants
 tags:

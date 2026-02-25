@@ -1,6 +1,6 @@
 ---
 id: l2-food-fishing-methods
-title: Fishing Methods — Pole, Net, Trap, Spear
+title: Fishing Methods
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

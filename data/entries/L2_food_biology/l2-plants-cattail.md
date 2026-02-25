@@ -1,6 +1,6 @@
 ---
 id: l2-plants-cattail
-title: Cattail (Typha latifolia & T. angustifolia)
+title: Cattail (Typha spp.)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

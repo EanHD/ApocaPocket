@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-lions-mane
-title: Lion's Mane (Hericium erinaceus)
+title: Lion's Mane
 category: L2_food_biology
 subtopic: mushrooms
 tags:

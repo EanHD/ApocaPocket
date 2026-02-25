@@ -1,6 +1,6 @@
 ---
 id: l2-plants-plantain-broadleaf
-title: Broadleaf Plantain (Plantago major)
+title: Broadleaf Plantain
 category: L2_food_biology
 subtopic: edible_plants
 tags:

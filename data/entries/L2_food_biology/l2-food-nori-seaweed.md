@@ -1,6 +1,6 @@
 ---
 id: l2-food-nori-seaweed
-title: Nori (Laver) — Coastal Red Seaweed
+title: Nori (Laver) Seaweed
 category: L2_food_biology
 subtopic: edible_plants
 tags:

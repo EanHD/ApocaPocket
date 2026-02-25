@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-deficiency-signs
-title: Recognizing Vitamin and Mineral Deficiencies
+title: Nutrient Deficiency Signs
 category: L2_food_biology
 subtopic: nutrition
 tags:

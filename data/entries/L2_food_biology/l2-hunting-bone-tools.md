@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-bone-tools
-title: Bone, Antler, and Shell Tools
+title: Bone & Antler Tools
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

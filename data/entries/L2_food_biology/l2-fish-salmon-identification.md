@@ -1,6 +1,6 @@
 ---
 id: l2-fish-salmon-identification
-title: Salmon — Anadromous Fish Field Identification
+title: Salmon Field ID
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

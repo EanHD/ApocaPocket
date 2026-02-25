@@ -1,6 +1,6 @@
 ---
 id: l2-plants-alaska-wild-potato
-title: "Alaska Wild Potato - Identification & Deadly Lookalike"
+title: Alaska Wild Potato
 category: foraging
 level: 2
 priority: critical

@@ -1,6 +1,6 @@
 ---
 id: l2-plants-deadly-lookalikes
-title: "Deadly Plant Lookalikes - When Edible Plants Kill"
+title: Deadly Plant Lookalikes
 category: foraging
 level: 2
 priority: critical

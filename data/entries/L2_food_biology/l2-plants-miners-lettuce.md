@@ -1,6 +1,6 @@
 ---
 id: l2-plants-miners-lettuce
-title: Miners Lettuce — Abundant Spring Green
+title: Miners Lettuce
 category: L2_food_biology
 subtopic: edible_plants
 tags:

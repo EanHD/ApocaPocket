@@ -1,6 +1,6 @@
 ---
 id: l2-insect-foraging
-title: Edible Insect Identification and Preparation
+title: Edible Insect ID
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

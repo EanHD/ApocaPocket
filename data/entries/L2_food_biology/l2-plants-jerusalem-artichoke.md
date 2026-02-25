@@ -1,6 +1,6 @@
 ---
 id: l2-plants-jerusalem-artichoke
-title: Jerusalem Artichoke / Sunchoke (Helianthus tuberosus)
+title: Jerusalem Artichoke
 category: L2_food_biology
 subtopic: edible_plants
 tags:

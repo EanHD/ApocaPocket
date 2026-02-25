@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-oyster
-title: Oyster Mushroom (Pleurotus ostreatus)
+title: Oyster Mushroom
 category: L2_food_biology
 subtopic: mushrooms
 tags:

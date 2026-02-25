@@ -1,6 +1,6 @@
 ---
 id: l2-plants-wild-asparagus
-title: Wild Asparagus (Asparagus officinalis)
+title: Wild Asparagus
 category: L2_food_biology
 subtopic: edible_plants
 tags:

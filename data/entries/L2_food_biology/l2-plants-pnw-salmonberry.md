@@ -1,6 +1,6 @@
 ---
 id: l2-plants-pnw-salmonberry
-title: Salmonberry — Early Spring Berry
+title: Salmonberry
 category: L2_food_biology
 subtopic: edible_plants
 tags:

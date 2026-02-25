@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-chicken-of-the-woods
-title: Chicken of the Woods (Laetiporus sulphureus)
+title: Chicken of the Woods
 category: L2_food_biology
 subtopic: mushrooms
 tags:

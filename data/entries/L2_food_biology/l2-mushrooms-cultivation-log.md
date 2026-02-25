@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-cultivation-log
-title: Log Cultivation — Shiitake and Oyster Mushrooms
+title: Log Mushroom Cultivation
 category: L2_food_biology
 subtopic: mushrooms
 tags:

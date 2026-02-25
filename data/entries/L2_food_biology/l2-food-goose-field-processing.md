@@ -1,6 +1,6 @@
 ---
 id: l2-food-goose-field-processing
-title: Geese — Large Waterfowl Processing
+title: Goose Field Processing
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

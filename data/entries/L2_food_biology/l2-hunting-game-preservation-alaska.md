@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-game-preservation-alaska
-title: "Game Preservation in Alaska Wilderness"
+title: Alaska Game Preservation
 category: hunting
 level: 2
 priority: critical

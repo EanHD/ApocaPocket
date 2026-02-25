@@ -1,6 +1,6 @@
 ---
 id: l2-plants-alaska-comprehensive
-title: "Alaska Edible Plants - Comprehensive Field Guide"
+title: Alaska Edible Plants
 category: foraging
 level: 2
 priority: high

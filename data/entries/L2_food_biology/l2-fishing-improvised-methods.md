@@ -1,6 +1,6 @@
 ---
 id: l2-fishing-improvised-methods
-title: Improvised Fishing Methods
+title: Improvised Fishing
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

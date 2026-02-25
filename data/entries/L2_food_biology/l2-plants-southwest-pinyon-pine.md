@@ -1,6 +1,6 @@
 ---
 id: l2-plants-southwest-pinyon-pine
-title: Pinyon Pine — High-Calorie Desert Nut
+title: Pinyon Pine (Desert Nut)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

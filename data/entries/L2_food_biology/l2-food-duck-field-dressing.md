@@ -1,6 +1,6 @@
 ---
 id: l2-food-duck-field-dressing
-title: Ducks — Waterfowl Field Processing
+title: Duck Field Processing
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

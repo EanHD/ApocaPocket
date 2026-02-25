@@ -1,6 +1,6 @@
 ---
 id: l2-food-preservation-comprehensive
-title: Food Preservation Methods — Drying, Smoking, Salting, Fermenting
+title: Food Preservation Methods
 category: L2_food_biology
 subtopic: food_preparation
 tags:

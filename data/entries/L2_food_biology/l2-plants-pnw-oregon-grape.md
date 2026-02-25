@@ -1,6 +1,6 @@
 ---
 id: l2-plants-pnw-oregon-grape
-title: Oregon Grape — Tart Berry & Medicinal Root
+title: Oregon Grape
 category: L2_food_biology
 subtopic: edible_plants
 tags:

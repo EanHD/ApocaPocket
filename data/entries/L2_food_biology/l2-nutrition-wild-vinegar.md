@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-wild-vinegar
-title: Making Vinegar from Wild Fruit
+title: Wild Fruit Vinegar
 category: L2_food_biology
 subtopic: nutrition
 tags:

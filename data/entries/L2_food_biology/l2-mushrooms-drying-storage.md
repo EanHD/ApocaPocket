@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-drying-storage
-title: Mushroom Preservation — Drying and Storage
+title: Mushroom Preservation
 category: L2_food_biology
 subtopic: mushrooms
 tags:

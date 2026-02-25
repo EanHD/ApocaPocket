@@ -1,6 +1,6 @@
 ---
 id: l2-food-wild-turkey-processing
-title: Wild Turkey — Field Dressing & Cooking
+title: Wild Turkey Processing
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

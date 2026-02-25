@@ -1,6 +1,6 @@
 ---
 id: l2-plants-pnw-thimbleberry
-title: Thimbleberry — Pacific Northwest Delicate Berry
+title: Thimbleberry
 category: L2_food_biology
 subtopic: edible_plants
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-jerky
-title: Meat Jerky — Drying Techniques and Safety
+title: Jerky Drying & Safety
 category: L2_food_biology
 subtopic: nutrition
 tags:

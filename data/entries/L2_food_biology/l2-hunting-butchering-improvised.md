@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-butchering-improvised
-title: "Improvised Butchering - Primitive Processing Without Modern Tools"
+title: Improvised Butchering
 category: hunting
 level: 2
 priority: medium

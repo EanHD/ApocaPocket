@@ -1,6 +1,6 @@
 ---
 id: l2-food-water-storage-methods
-title: Water Storage — Clean Collection, Long-Term Storage, Rotation
+title: Water Storage Methods
 category: L2_food_biology
 subtopic: water
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l2-food-hickory-nuts
-title: Hickory Nuts — High-Fat Wild Nut
+title: Hickory Nuts
 category: L2_food_biology
 subtopic: edible_plants
 tags:

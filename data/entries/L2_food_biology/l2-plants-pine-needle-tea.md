@@ -1,6 +1,6 @@
 ---
 id: l2-plants-pine-needle-tea
-title: Pine Needle Tea (Pinus spp.)
+title: Pine Needle Tea
 category: L2_food_biology
 subtopic: edible_plants
 tags:

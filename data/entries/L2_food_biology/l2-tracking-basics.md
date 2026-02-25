@@ -1,6 +1,6 @@
 ---
 id: l2-tracking-basics
-title: Animal Tracking and Seasonal Behavior
+title: Animal Tracking
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

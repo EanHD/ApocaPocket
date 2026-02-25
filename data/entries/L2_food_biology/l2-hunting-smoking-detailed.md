@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-smoking-detailed
-title: Smoking Meat and Fish — Hot Smoke vs Cold Smoke
+title: Smoking Meat and Fish
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

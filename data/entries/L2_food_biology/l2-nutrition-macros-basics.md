@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-macros-basics
-title: Macronutrient Requirements Under Survival Conditions
+title: Survival Macronutrients
 category: L2_food_biology
 subtopic: nutrition
 tags:

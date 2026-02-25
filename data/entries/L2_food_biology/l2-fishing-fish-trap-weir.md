@@ -1,6 +1,6 @@
 ---
 id: l2-fishing-fish-trap-weir
-title: Fish Trap Weir — Stream Weir and Basket Trap Construction
+title: Fish Trap & Weir
 category: L2_food_biology
 subtopic: fishing
 tags:

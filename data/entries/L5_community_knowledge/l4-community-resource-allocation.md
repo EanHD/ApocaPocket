@@ -511,7 +511,7 @@ Must present at distribution
 - Level 3: 80% (1600 cal) / 0% / 0%
 - Critical: 70% (1400 cal)* / 0% / 0%
 
-*1400 cal is absolute minimum for extended survival with light activity
+Note: 1400 cal min for survival w/ light activity
 
 **Communication is Critical:**
 - Explain WHY rationing is happening

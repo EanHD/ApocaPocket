@@ -1,6 +1,6 @@
 ---
 id: l2-plants-flour-from-wild
-title: Making Flour from Wild Plants — Acorns, Cattail, Amaranth
+title: Flour from Wild Plants
 category: L2_food_biology
 subtopic: edible_plants
 tags:

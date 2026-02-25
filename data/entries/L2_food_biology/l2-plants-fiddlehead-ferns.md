@@ -1,6 +1,6 @@
 ---
 id: l2-plants-fiddlehead-ferns
-title: Fiddlehead Ferns — Spring Delicacy
+title: Fiddlehead Ferns
 category: L2_food_biology
 subtopic: edible_plants
 tags:

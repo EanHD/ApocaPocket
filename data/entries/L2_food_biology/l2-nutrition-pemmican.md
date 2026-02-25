@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-pemmican
-title: Pemmican — Ultimate Survival Food
+title: Pemmican Survival Food
 category: L2_food_biology
 subtopic: nutrition
 tags:

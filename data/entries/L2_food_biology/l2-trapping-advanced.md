@@ -1,6 +1,6 @@
 ---
 id: l2-trapping-advanced
-title: "Advanced Trapping - Humane & Effective Techniques"
+title: Advanced Trapping
 category: hunting
 level: 2
 priority: medium

@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-food-safety-field
-title: Preventing Foodborne Illness in Field Conditions
+title: Field Food Safety
 category: L2_food_biology
 subtopic: nutrition
 tags:

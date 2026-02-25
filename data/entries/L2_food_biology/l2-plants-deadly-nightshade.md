@@ -1,6 +1,6 @@
 ---
 id: l2-plants-deadly-nightshade
-title: Deadly Nightshade (Belladonna) — Highly Toxic Identification
+title: Deadly Nightshade
 category: L2_food_biology
 subtopic: toxic_plants
 tags:

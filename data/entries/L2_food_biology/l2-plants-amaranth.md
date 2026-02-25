@@ -1,6 +1,6 @@
 ---
 id: l2-plants-amaranth
-title: Amaranth (Amaranthus spp.)
+title: Amaranth (Amaranthus)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

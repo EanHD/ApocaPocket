@@ -1,6 +1,6 @@
 ---
 id: l2-hunting-hide-processing
-title: Complete Hide Processing — Brain Tanning
+title: Complete Hide Processing
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

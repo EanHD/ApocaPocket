@@ -1,6 +1,6 @@
 ---
 id: l2-plants-southwest-yucca
-title: Yucca — Desert Multi-Use Plant
+title: Yucca (Desert Multi-Use)
 category: L2_food_biology
 subtopic: edible_plants
 tags:

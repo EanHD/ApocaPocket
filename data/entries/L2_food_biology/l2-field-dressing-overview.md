@@ -1,6 +1,6 @@
 ---
 id: l2-field-dressing-overview
-title: Field Dressing Hygiene Overview
+title: Field Dressing Hygiene
 category: L2_food_biology
 subtopic: fishing_hunting_knowledge
 tags:

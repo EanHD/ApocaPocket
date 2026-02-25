@@ -1,6 +1,6 @@
 ---
 id: l2-food-trap-making-comprehensive
-title: Trap & Snare Making — Passive Hunting Techniques
+title: Trap & Snare Making
 category: L2_food_biology
 subtopic: hunting_fishing
 tags:

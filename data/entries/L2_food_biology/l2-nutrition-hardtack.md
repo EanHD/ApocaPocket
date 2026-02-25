@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-hardtack
-title: Hardtack — Indefinite Shelf-Life Survival Bread
+title: Hardtack Survival Bread
 category: L2_food_biology
 subtopic: nutrition
 tags:

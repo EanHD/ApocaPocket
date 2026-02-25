@@ -1,6 +1,6 @@
 ---
 id: l2-mushrooms-chanterelle
-title: Chanterelle (Cantharellus cibarius)
+title: Chanterelle Mushroom
 category: L2_food_biology
 subtopic: mushrooms
 tags:

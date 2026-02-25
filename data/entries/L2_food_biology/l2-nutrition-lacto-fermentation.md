@@ -1,6 +1,6 @@
 ---
 id: l2-nutrition-lacto-fermentation
-title: Lacto-Fermentation — Preserving Food Without Refrigeration
+title: Lacto-Fermentation
 category: L2_food_biology
 subtopic: nutrition
 tags:

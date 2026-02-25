@@ -11,27 +11,27 @@ static uint8_t subNameCount = 0;
 
 // Sorted alphabetically — MUST match the order used by tools/build_index.py
 static const char* const FOLDERS[] = {
-    "/data/data/entries/L1_disaster",            // 0
-    "/data/data/entries/L1_immediate_survival",  // 1
-    "/data/data/entries/L1_medical",             // 2
-    "/data/data/entries/L1_navigation",          // 3
-    "/data/data/entries/L1_shelter",             // 4
-    "/data/data/entries/L1_strategy",            // 5
-    "/data/data/entries/L1_urban",               // 6
-    "/data/data/entries/L1_water",               // 7
-    "/data/data/entries/L1_wilderness",          // 8
-    "/data/data/entries/L2_food_biology",        // 9
-    "/data/data/entries/L2_nutrition",           // 10
-    "/data/data/entries/L3_materials_chemistry", // 11
-    "/data/data/entries/L3_materials_elements",  // 12
-    "/data/data/entries/L3_materials_technology",// 13
-    "/data/data/entries/L3_water",               // 14
-    "/data/data/entries/L4_agriculture",         // 15
-    "/data/data/entries/L4_agriculture_labor",   // 16
-    "/data/data/entries/L4_tools_rebuilding",    // 17
-    "/data/data/entries/L5_civilization_memory", // 18
-    "/data/data/entries/L5_community_knowledge", // 19
-    "/data/data/entries/L5_sanitation"           // 20
+    "/data/entries/L1_disaster",            // 0
+    "/data/entries/L1_immediate_survival",  // 1
+    "/data/entries/L1_medical",             // 2
+    "/data/entries/L1_navigation",          // 3
+    "/data/entries/L1_shelter",             // 4
+    "/data/entries/L1_strategy",            // 5
+    "/data/entries/L1_urban",               // 6
+    "/data/entries/L1_water",               // 7
+    "/data/entries/L1_wilderness",          // 8
+    "/data/entries/L2_food_biology",        // 9
+    "/data/entries/L2_nutrition",           // 10
+    "/data/entries/L3_materials_chemistry", // 11
+    "/data/entries/L3_materials_elements",  // 12
+    "/data/entries/L3_materials_technology",// 13
+    "/data/entries/L3_water",               // 14
+    "/data/entries/L4_agriculture",         // 15
+    "/data/entries/L4_agriculture_labor",   // 16
+    "/data/entries/L4_tools_rebuilding",    // 17
+    "/data/entries/L5_civilization_memory", // 18
+    "/data/entries/L5_community_knowledge", // 19
+    "/data/entries/L5_sanitation"           // 20
 };
 // NUM_FOLDERS now defined in config.h
 
@@ -247,7 +247,7 @@ bool sdInit() {
 
 // -- Index loading --
 bool Index::load() {
-    File f = SDFS.open("/index/entries.idx", "r");
+    File f = SDFS.open("/data/index/entries.idx", "r");
     if (!f) return false;
 
     uint8_t hdr[2];
@@ -295,7 +295,7 @@ uint8_t Index::folderIdx(uint16_t i) const {
 bool Index::readEid(uint16_t i, char* eidOut, size_t eidSize) {
     if (i >= _count) return false;
 
-    File f = SDFS.open("/index/entries.idx", "r");
+    File f = SDFS.open("/data/index/entries.idx", "r");
     if (!f) return false;
 
     // FIX #3: Ensure file is closed on ALL exit paths
@@ -625,7 +625,7 @@ int searchTitles(const Index& idx, const char* query,
 
 // -- Metadata (subfolder names) --
 bool loadMetadata() {
-    File f = SDFS.open("/index/metadata.json", "r");
+    File f = SDFS.open("/data/index/metadata.json", "r");
     if (!f) return false;
 
     // 2KB buffer: metadata.json holds ~9 subfolder names, each ~40 chars
