@@ -1,5 +1,5 @@
 ---
-title: "Child Water Safety - Drowning Prevention and Rescue"
+title: "Child Water Safety"
 layer: "L1_immediate_survival"
 category: "safety"
 subcategory: "pediatric"

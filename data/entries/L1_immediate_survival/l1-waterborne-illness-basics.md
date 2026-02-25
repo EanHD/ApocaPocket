@@ -1,6 +1,6 @@
 ---
 id: l1-waterborne-illness-basics
-title: Waterborne Disease Recognition
+title: "Waterborne Disease ID"
 category: L1_immediate_survival
 subtopic: water
 tags:

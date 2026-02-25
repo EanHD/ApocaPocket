@@ -1,6 +1,6 @@
 ---
 id: l1-knots-comprehensive
-title: Essential Knots — Bowline, Clove Hitch, Taut-Line, Figure-8
+title: "Essential Knots"
 category: L1_immediate_survival
 subtopic: skills
 tags:
@@ -35,6 +35,45 @@ steps:
 - 'TRUCKER HITCH: Mechanical advantage for tightening loads. Creates 3:1 pulley. Securing cargo.'
 ---
 
-# Essential Knots — Bowline, Clove Hitch, Taut-Line, Figure-8
+# Essential Knots
 
-A dozen knots cover 90 percent of needs. Bowline (fixed loop), clove hitch (attach to pole), taut-line hitch (adjustable loop), figure-8 (stopper knot), square knot (join ropes). Practice until you can tie in dark.
+## Bowline — Fixed Loop
+- Creates a loop that does not slip tight
+- Uses: rescue throw, securing loads,
+  tie to anchor (will not choke)
+- Method: rabbit comes out of hole,
+  goes around tree, back down the hole
+- Practice until you can tie in the dark
+
+## Clove Hitch — Pole Attach
+- Attach rope to post, tree, or rail
+- Quick to tie and adjust
+- Two wraps, second crosses over first
+- Add half hitches if load varies
+
+## Sheet Bend — Join Two Ropes
+- Best for joining ropes of unequal size
+- Works where square knot would slip
+- Thicker rope forms the loop (the bight)
+- Thinner rope wraps and passes through
+
+## Taut-Line Hitch — Adjustable
+- Creates adjustable tension in a line
+- Slides to adjust, grips hard under load
+- Essential for tent guylines
+- Will not hold if rope is slippery (use
+  double taut-line for nylon cord)
+
+## Prusik — Friction Safety
+- Wraps smaller cord around main rope
+- Slides freely until loaded, then grips
+- For: climbing safety, hauling systems
+- Requires cord significantly smaller
+  than main rope (use 5mm on 10mm)
+
+## Practice Rule
+- Tie each knot until it takes under
+  10 seconds, in daylight
+- Then practice in the dark
+- A knot you cannot tie under stress
+  is a knot you do not know

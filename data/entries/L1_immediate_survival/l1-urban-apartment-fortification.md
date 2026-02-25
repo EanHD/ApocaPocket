@@ -1,5 +1,5 @@
 ---
-title: "Apartment Fortification - Security Zones"
+title: "Apartment Security"
 layer: "L1_immediate_survival"
 category: "shelter"
 subcategory: "urban_survival"

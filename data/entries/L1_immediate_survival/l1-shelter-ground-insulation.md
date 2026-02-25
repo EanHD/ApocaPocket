@@ -49,44 +49,93 @@ steps:
 
 # Ground Insulation
 
-## Why Ground Matters
-- You lose heat to ground 50x faster than air
-- Ground insulation beats a blanket in cold
-- You need R-5 minimum at 0C
-- R-8+ below -10C
-- Commercial sleeping pad: R-2 to R-7
+## R-Value Concept
+- **R-value** = thermal resistance
+- Higher R-value = better insulation
+- Bare ground = **R-0**
+- **Minimums needed:**
+  - 0°C (32°F): R-5 minimum
+  - Below -10°C (14°F): R-8+
+- Commercial sleeping pad = R-2 to R-7
+- Natural materials can **match or exceed**
+  commercial pads with enough depth
+- Ground steals heat **50× faster** than
+  air — insulation here is critical
 
-## Leaf and Debris Bed
-- Pile DRY leaves, pine needles, or grass
-- 12-18 inches deep (compresses to 4-6)
-- Approx. R-5 to R-8 insulation value
-- More is always better
-- Pile between two logs to hold shape
+## Leaf & Debris Bed
+- Material: **dry leaves, pine needles,
+  or dry grass** — moisture kills value
+- Pile **12-18 inches** deep (compresses
+  to 4-6 inches under body weight)
+- Provides **R-5 to R-8** depending on
+  material and compression
+- More is better — you cannot have
+  too much ground insulation
+- Pile between two logs to prevent
+  spreading while you sleep
 
-## Evergreen Bough Bed
-- Lay spruce/fir/pine boughs in layers
-- Tips toward feet, butt ends to ground
-- Layer like shingles, 6-8 inches deep
-- Approx. R-4 to R-6 insulation value
-- Resin repels moisture
+## Bough Bed
+- Use **evergreen boughs** (spruce,
+  fir, pine) — resin repels moisture
+- Layer like shingles:
+  - Tips pointing toward your feet
+  - Butts of branches into ground
+- **6-8 inches** of compressed boughs
+  = R-4 to R-6
+- Overlap layers fully — no bare gaps
+- Replace if boughs compress too much
+  overnight
+
+## Grass & Bark
+- **Grass bundle mattress:**
+  roll long grass into 4-6" rolls,
+  lay side by side as a mattress
+  Better compression resistance than
+  loose material — R-3 to R-5
+- **Flat bark slabs:**
+  lay on ground first as moisture
+  barrier and insulator
+  Approximately R-1 per inch of bark
+- Use bark as the **bottom layer**
+  under all other insulation types
+
+## Best System
+- Optimal layers (ground to top):
+  1. **Bark slabs** — moisture barrier
+  2. **6" dry debris** (leaves, needles,
+     grass)
+  3. **Bough layer** on top
+- Total R-value: **R-8 to R-12**
+- Rivals commercial sleeping pads and
+  air mattresses
+- In severe cold: add more debris depth
+  and more bough layers on top
+- Takes 30-60 min to build — time
+  well invested
 
 ## Hot Rock Bed
-- Heat flat rocks in fire 1-2 hours
-- Scrape coals aside, lay rocks flat
-- Cover with 4-6 inches of dirt
-- Place insulation on top
-- Radiates heat upward for 6-8 hours
-- Test with hand on dirt before sleeping
-
-## Combined System (Best)
-- Layer 1: bark slabs (moisture barrier)
-- Layer 2: 6 inches dry debris
-- Layer 3: evergreen boughs on top
-- Total: R-8 to R-12
-- Rivals commercial sleeping pads
+1. Heat **large flat rocks** in fire
+   for **1-2 hours**
+2. **Scrape coals aside** — clear area
+3. Lay rocks in body-length area
+4. Cover with **4-6 inches of dirt**
+5. Place your insulation bed on top
+6. Rocks radiate heat upward **6-8 hours**
+7. **Test:** press hand on dirt layer —
+   if you can hold it comfortably,
+   it is safe to sleep on
 
 ## Emergency Minimum
-- Even a backpack under you helps
-- Any barrier reduces heat loss
-- Rope coils, extra clothing, leaves
-- Never sleep on bare cold ground
+- **Any barrier is better than nothing**
+- Backpack, coiled rope, tarp, clothing
+  — all dramatically better than
+  bare ground contact
+- Every layer reduces **conductive
+  heat loss** — even a thin one helps
+- Priority when time is short:
+  1. Get off the ground first
+  2. Cover top second
+  3. Improve both as time allows
+- Do NOT skip ground insulation to
+  save time — it costs sleep and
+  possibly your life

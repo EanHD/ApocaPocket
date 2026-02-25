@@ -50,41 +50,78 @@ steps:
 # Natural Waterproofing
 
 ## Pine Pitch Sealant
-- Collect hardened resin from tree wounds
-- Melt over low heat in a container
-- Mix 3 parts resin + 1 part charcoal
-  + 1 part dry fiber or dung
-- Apply hot with a stick to seal seams
-- Waterproof, strong, gap-filling
-- EXTREMELY flammable — keep away from fire
+- Collect **hardened resin** from wound
+  sites on pine or spruce trees
+  (amber-colored lumps on bark)
+- Melt in a container over low heat
+  — work in open air (toxic fumes)
+- **Mix ratio:**
+  - 3 parts melted resin
+  - 1 part crushed charcoal
+  - 1 part dry plant fiber or dung
+- Apply **hot with a stick** to seal
+  seams, repair containers, waterproof
+  joints — **extremely flammable**
 
-## Birch Bark
-- Gold standard of natural waterproofing
-- Peel large sheets from DEAD birch trees
-- White side UP (the waterproof layer)
-- Layer like shingles on shelter roofs
-- Overlap sheets by 6+ inches
-- Pin with wooden pegs or weight with poles
+## Birch Bark Roofing
+- Use dead or fallen birch trees
+  (bark stays waterproof for years)
+- Do NOT strip living trees —
+  take only small patches from large
+  healthy trees to avoid killing them
+- Peel large sheets, **white side UP**
+  (this is the waterproof exterior)
+- Overlap sheets **6+ inches**
+  like shingles, bottom to top
+- Pin with wooden pegs or weight
+  down with poles
 
 ## Thatch Roofing
-- Bundle dried grass, reeds, or palm fronds
-- Tight bundles 4-6 inches thick
-- Layer bottom to top like shingles
-- Each row overlaps previous by 2/3
-- Minimum 6-8 inches total thickness
-- Minimum 45 degree pitch to shed rain
-- Lasts 2-5 years when done properly
+- Bundle dried grass, reeds, or palm
+  fronds into **4-6 inch thick** bundles
+- Layer **bottom to top** — each row
+  overlaps the one below by 2/3
+- Minimum **6-8 inches** total thickness
+- Roof pitch must be **45° or steeper**
+  — below 40°, water seeps through
+- A properly thatched roof at 45°
+  sheds rain for **2-5 years**
+- More layers = longer life and better
+  insulation in winter
 
 ## Clay Daubing
-- Mix clay + straw + water to thick paste
-- Apply 2-3 inch layer over woven stick walls
-- Let dry 1-2 weeks, apply second coat
-- Creates waterproof, insulating wall
+- Mix: **clay + dried grass + water**
+  to a thick paste consistency
+- Apply **2-3 inch thick** layer over
+  woven stick walls (wattle-and-daub)
+- Let dry **completely** (1-2 weeks)
+- Apply a **second coat** after first
+- Creates a waterproof + insulating +
+  windproof wall surface
 - Re-apply after heavy rain seasons
+- Works on bark, log, and stick walls
 
-## Leather and Fabric
-- Rub animal fat, beeswax, or pitch into leather
-- Work thoroughly by hand
-- Makes boots and bags water-resistant for weeks
-- Test: water should bead and run off
-- Re-apply when water stops beading
+## Sealing Containers
+- **Bark containers:** seal seams with
+  pitch glue — holds water, safe for
+  hot-rock boiling
+- **Leather (boots, bags, clothing):**
+  rub in animal fat (tallow), beeswax,
+  or pine pitch thoroughly by hand
+- **Reapply** when water stops beading
+  off the surface
+- Pitch glue is most durable; fat and
+  beeswax need more frequent reapplication
+
+## Emergency Cover
+- **Emergency poncho:** fold and pin a
+  large birch bark sheet with wooden
+  pegs — temporary but effective
+- **Leaf layer:** layer large leaves
+  (burdock, maple) on a string framework
+  — neither lasts long but provides cover
+- **Testing your waterproofing:**
+  pour water on the treated surface
+  - **Pass:** water beads and runs off
+  - **Fail:** soaks in within seconds
+    — add another layer of sealant

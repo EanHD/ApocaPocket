@@ -1,6 +1,6 @@
 ---
 id: l1-fire-wet-weather
-title: Fire Starting in Rain and Snow
+title: "Fire in Wet Weather"
 category: L1_immediate_survival
 subtopic: fire
 tags:
@@ -50,6 +50,50 @@ steps:
   core body temperature.'
 ---
 
-# Fire Starting in Rain and Snow
+# Fire in Wet Weather
 
-Rain and snow make fire starting dramatically harder. Success requires finding dry fuel sources, creating a dry platform, using a top-down fire lay, and protecting the fire from wind and precipitation during the critical ignition phase.
+## Dry Tinder Sources
+- Birch bark (outer layer is waterproof)
+- Inner bark of dead cedar or juniper
+  (shred finely with fingers or knife)
+- Pine resin lumps from tree wounds
+- Fatwood: resin-soaked pine heartwood
+  from old stumps (pink/orange inside)
+- Dead grass or weeds under canopy
+- Vaseline-soaked cotton balls (carry these)
+
+## Dry Kindling
+- Snap dead twigs off STANDING trees
+  (drier than anything on the ground)
+- Split larger sticks to expose dry interior
+- Pencil-thick and thinner, two handfuls
+
+## Build a Platform
+- Lay 3-4 arm-thick green logs side by side
+- Build your fire ON the platform
+- Prevents ground moisture from wicking
+  up and killing the fire
+- Essential in snow and mud
+
+## Top-Down Fire Lay
+- Lay largest fuel logs on platform first
+- Medium kindling perpendicular on top
+- Small kindling on top of that
+- Tinder on the very top
+- Light the tinder — fire burns downward,
+  drying each layer before igniting it
+
+## Feather Sticks
+- Shave long thin curls on dry stick
+  without detaching them (like feathers)
+- Make 3-5 sticks with 15-20 curls each
+- Bridge between tinder and kindling
+- Catch flame from even weak ignition
+
+## Wet Weather Ignition
+- Ferro rod first choice (works wet,
+  thousands of strikes, can't get ruined)
+- Aim sparks at fine birch bark shavings
+  or fatwood dust scraping
+- Shield young flame with your body
+- Feed kindling SLOWLY, don't smother

@@ -1,6 +1,6 @@
 ---
 id: l1-strategy-common-fatal-mistakes
-title: What Kills Experienced Survivors — Avoiding Preventable Deaths
+title: "Common Fatal Mistakes"
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -53,6 +53,47 @@ steps:
   for extinguishing.'
 ---
 
-# What Kills Experienced Survivors — Avoiding Preventable Deaths
+# Common Fatal Mistakes
 
-Beginners die from exposure and panic. Experienced people die from complacency, overconfidence, and small mistakes that compound. This entry catalogs the most common preventable causes of death in long-term survival situations, learned from historical accounts and wilderness medicine data.
+## The Pattern
+- Most survival deaths come from small
+  mistakes that compound over time
+- NOT dramatic injuries or catastrophes
+- A blister → infection → sepsis → death
+- Know the pattern to break it early
+
+## Infected Minor Wounds
+- Small cut, thorn puncture, blister
+- Ignored or poorly cleaned
+- Becomes red, swollen, warm, pus-filled
+- Red streaks extending = lymphangitis
+- Sepsis and death in 1-2 weeks
+- Clean ALL wounds immediately, check
+  daily, treat red streaks as emergency
+
+## Carbon Monoxide Poisoning
+- Burning anything in enclosed space
+  produces CO — no odor, no warning
+- Symptoms: headache, nausea, confusion,
+  sleepiness — then you do not wake up
+- Snow shelters, sealed cabins, tents
+  with heaters are all death traps
+- ALWAYS ventilate. If headache in
+  enclosed space with fire = GET OUT
+
+## Hypothermia from Wet
+- You wade a stream, sweat inside coat,
+  get caught in rain — seems minor
+- Lose heat faster than you generate it
+- Shivering STOPS = bad sign
+- Confusion → poor decisions → death
+- Change out of wet clothes IMMEDIATELY
+- Wring, hang, dry — no exceptions
+
+## Falls and Dehydration
+- Falls: 3 points of contact on all climbs
+  — test holds before weighting them
+  If it looks dangerous, find another way
+- Dehydration: drink before you are thirsty
+  — thirst = already behind on fluids
+  Dark urine = emergency, not a sign

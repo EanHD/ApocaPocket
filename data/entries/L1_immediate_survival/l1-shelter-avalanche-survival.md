@@ -22,41 +22,57 @@ steps:
 # Avalanche Survival
 
 ## Terrain Recognition
-- Slopes 30-45 degrees are most dangerous
-- Red flags: fresh snow 12+ inches,
-  wind-loaded slopes, warming after cold,
-  convex slopes, previous slide paths
-- Safe: ridges, dense forest, flat ground,
-  slopes under 25 or over 50 degrees
+- Slopes **30-45°** are most dangerous
+- **RED FLAGS:**
+  - Fresh snow (12"+ in 24 hours)
+  - Wind-loaded slopes (lee of ridges)
+  - Warming temps after cold period
+  - Convex slopes, prior slide paths
+  - Slopes directly above you
+- **SAFE ZONES:** ridges, dense forest,
+  slopes under 25° or over 50°
 
-## If One Starts
-- Yell to warn others
-- Escape to the SIDE — edges move slower
-- Fight to stay on surface: swim/backstroke
-- Discard poles, skis, pack immediately
-- As it slows: thrust one arm UP
-- Cup hand over mouth — make air pocket
-- Take a big breath before snow hardens
+## Caught In Avalanche
+1. **YELL** to warn others
+2. Escape to the **SIDE** — edges move
+   slower than center
+3. **Discard** poles, skis, pack
+4. **Swimming motions** to stay on surface
+   — backstroke, roll, fight
+5. As motion slows, **THRUST ONE ARM UP**
+   cup other hand over mouth/nose
+6. Take a **HUGE BREATH** before snow
+   hardens — creates air pocket
 
-## Buried — Stay Alive
-- Stay calm — panic uses oxygen
-- To find up: spit. If it runs toward your
-  face, you are upside down
-- Try to dig if close to surface
-- If deep: stay calm, wait for rescue
-- Yelling wastes precious air
+## If You Are Buried
+1. **CONSERVE AIR** — slow, calm breaths.
+   Panic burns oxygen fast.
+2. **Spit test:** if spit runs toward
+   your face, you are upside down
+3. If close to surface (light or hand
+   breaks through): dig toward it
+4. If deep: stay calm, wait for rescue
+   — yelling wastes critical air
+5. Create space around face before
+   snow hardens — you have seconds
 
 ## Rescue Protocol
-- Mark the last-seen point immediately
-- Turn beacon to RECEIVE mode
-- Search downhill from last-seen point
-- Probe in grid pattern
-- Dig fast when located
-- Clear airway first — speed saves lives
+1. **Mark last-seen point** immediately
+2. Check for secondary slide hazard
+3. Switch all beacons to **RECEIVE**
+4. Search downhill from last-seen point
+5. Look for visual clues (gear, clothing)
+6. **Probe in grid pattern** when close
+7. **Dig fast** when located
+8. **Clear airway FIRST** then check
+   breathing — speed is everything
 
-## Survival Gear
-- Avalanche beacon — ESSENTIAL
-- Probe pole and shovel
-- Avalanche airbag pack
-- Training beats any gear
-- Prevention beats rescue every time
+## Prevention & Gear
+- **Avalanche beacon** — always wear it
+- **Probe pole** — locates buried victims
+- **Shovel** — for fast extraction
+- **Airbag pack** — reduces burial depth
+- Take a formal avalanche safety course
+- **Prevention is 1000× better than
+  rescue** — most victims trigger the
+  slide themselves

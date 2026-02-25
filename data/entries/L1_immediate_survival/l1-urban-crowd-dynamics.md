@@ -1,5 +1,5 @@
 ---
-title: "Crowd Dynamics and Crush Prevention"
+title: "Crowd Safety"
 layer: "L1_immediate_survival"
 category: "safety"
 subcategory: "urban_survival"

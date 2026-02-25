@@ -1,5 +1,5 @@
 ---
-title: "Urban Water Sources - Emergency Extraction"
+title: "Urban Water Sources"
 layer: "L1_immediate_survival"
 category: "water"
 subcategory: "urban_survival"

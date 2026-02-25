@@ -1,6 +1,6 @@
 ---
 id: l1-strategy-mental-health-acute
-title: Mental Health Crisis — Acute Intervention in the Field
+title: "Acute Mental Health"
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

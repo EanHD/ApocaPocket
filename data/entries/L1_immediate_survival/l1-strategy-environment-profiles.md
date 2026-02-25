@@ -1,6 +1,6 @@
 ---
 id: l1-strategy-environment-profiles
-title: Survival Environment Profiles — Threats & Priorities by Biome
+title: "Environment Profiles"
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -53,6 +53,45 @@ steps:
   Biggest mistake: trusting strangers in desperation. Timeline: Social collapse = days to weeks of relative safety.'
 ---
 
-# Survival Environment Profiles — Threats & Priorities by Biome
+# Environment Profiles
 
-Each environment kills you differently. Temperate forests are forgiving; deserts and arctic are brutal. This entry profiles major biomes: primary threats, water sources, shelter priorities, food availability, and common mistakes. Know your environment to prioritize correctly.
+## What Kills You First
+- Every environment has a primary threat
+- Get this wrong and you die fast
+- Temperate: cold and wet (hypothermia)
+- Desert: heat and dehydration
+- Arctic: cold and wind (hours to death)
+- Jungle: infection and contaminated water
+- Coastal: cold water and tides
+
+## Temperate Forest
+- Primary threat: hypothermia (wet + cold)
+- Water: abundant (streams, springs)
+- Shelter: easy (natural materials)
+- Strategy: fire and dry shelter first
+- Food: moderate (forage, small game)
+- Survivable indefinitely with skill
+
+## Desert Survival
+- Primary threat: dehydration (1L/hr sweat)
+- Water: scarce — priority above all else
+- Shade: critical during 10am-4pm
+- Travel: ONLY dawn, dusk, or night
+- Deserts are COLD at night — prepare for
+  both heat and cold in same day
+
+## Arctic and Alpine
+- Primary threat: hypothermia in hours
+- Water: everywhere but costs fuel to melt
+- Shelter: must be insulated immediately
+- Sweat inside clothing = frozen moisture
+  = hypothermia — move slowly, stay dry
+- Wind chill multiplies cold danger 10x
+
+## Tropical Jungle
+- Primary threat: infection and disease
+- Water: abundant but all contaminated
+  (purify everything)
+- Shelter: elevated off wet ground
+- Insects carry malaria, dengue, parasites
+- Everything rots 5x faster than temperate

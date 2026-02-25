@@ -1,6 +1,6 @@
 ---
 id: l1-fire-bow-drill-detailed
-title: Bow Drill Fire Starting — Complete Guide
+title: "Bow Drill Complete Guide"
 category: L1_immediate_survival
 subtopic: fire
 tags:

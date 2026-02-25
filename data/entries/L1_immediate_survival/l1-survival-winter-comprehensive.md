@@ -1,6 +1,6 @@
 ---
 id: l1-survival-winter-comprehensive
-title: Winter Survival — Cold Weather Clothing, Shelter, Fire
+title: "Winter Survival"
 category: L1_immediate_survival
 subtopic: environment
 tags:
@@ -33,6 +33,49 @@ steps:
 - 'FROSTBITE: Watch for numb fingers, toes, nose, ears. Rewarm gradually (body heat, warm water). Do not rub (damages tissue).'
 ---
 
-# Winter Survival — Cold Weather Clothing, Shelter, Fire
+# Winter Survival
 
-Winter survival in temperate climates (0 to -20F). Hypothermia and frostbite are main threats. Layered clothing, insulated shelter, fire, dry socks. Water sources freeze - melt snow. Travel is exhausting in deep snow. Conserve energy.
+## Clothing Layers
+- Base: wicking layer (wool or synthetic)
+  — keeps skin dry even when sweating
+- Mid: insulation (wool, fleece, down)
+- Outer: windproof and waterproof shell
+- NEVER wear cotton — kills at 40F wet
+- Hat, gloves, warm boots, extra socks
+
+## Shelter
+- Windproof is more important than
+  insulation against moderate cold
+- Bank snow around shelter walls
+  (snow is excellent insulator)
+- Small shelters warm faster with body heat
+- See shelter entries for construction
+
+## Fire and Water
+- Build fire on platform (prevents sinking
+  into snow and extinguishing itself)
+- Gather dry wood from standing dead trees
+- Melt snow near fire — do not eat snow
+  (lowers core temp, causes dehydration)
+- Dehydration is common in winter —
+  cold dry air pulls moisture out fast
+
+## Frostbite Watch
+- Check numb fingers, toes, nose, ears
+- Early: pale or waxy skin, loss of feeling
+- Rewarm gradually (body warmth, warm
+  water) — do NOT rub (breaks tissue)
+- Do not let frostbitten areas refreeze
+
+## Winter Travel
+- Deep snow is exhausting — 5x more
+  calories than normal walking
+- Travel on ridges (less snow depth)
+- Avoid avalanche terrain at all costs
+
+## Common Kills
+- Wet cotton at 40F (hypothermia)
+- Snow blindness (UV from snow reflection)
+  — improvise eye protection (card slits)
+- Falling through ice — test every step,
+  avoid if unclear, carry ice picks

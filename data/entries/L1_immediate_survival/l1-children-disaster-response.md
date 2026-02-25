@@ -1,5 +1,5 @@
 ---
-title: "Children in Disasters - Psychological Response and Support"
+title: "Children in Disaster"
 layer: "L1_immediate_survival"
 category: "medical"
 subcategory: "pediatric"

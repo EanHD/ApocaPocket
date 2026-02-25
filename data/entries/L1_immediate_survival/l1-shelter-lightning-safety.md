@@ -55,49 +55,102 @@ steps:
 
 # Lightning Safety
 
-## 30-30 Rule
-- If you hear thunder = you are in danger
-- Flash to bang: count seconds, divide by 5
-  = distance in miles
-- Under 6 seconds (1 mile) = imminent danger
-- Hair standing up or skin tingling =
-  PRE-STRIKE WARNING — move NOW
-- Wait 30 min after last thunder to resume
+## Recognize Danger
+- **30-30 Rule:** if flash-to-bang is
+  <30 seconds, seek shelter NOW
+- Divide seconds by 5 = miles away
+- If <6 seconds (1 mile): danger imminent
+- **IMMEDIATE WARNING signs:**
+  - Hair standing on end
+  - Tingling skin
+  - Buzzing metal objects
+- These = pre-strike. **DROP NOW.**
+- If you hear thunder = in strike range
 
 ## Safe Locations
-- Inside a hard-sided building
-  (away from windows and plumbing)
-- Inside a metal-roofed vehicle
-  (close windows, do not touch metal)
-- NOT: tents, picnic shelters,
-  open-sided structures, motorcycles
+1. **Substantial building** — fully
+   enclosed, avoid windows and plumbing
+2. **Hard-top metal vehicle** — car or
+   truck, close windows, don't touch
+   metal interior surfaces
+3. **If no shelter:** move to low ground,
+   away from trees, ridges, and water
+- Cars are safe — lightning travels
+  through the outer metal skin to ground
 
-## Deadly Spots to Avoid
-- Open fields (you are the tallest object)
-- Under a tree — the most common mistake
-- Near or in water
-- Ridges and peaks
-- Near isolated tall objects
+## Dangerous Locations
+- **Open fields** — you become the
+  tallest object
+- **Under a tree** — current runs down
+  trunk and spreads through ground
+- **In or near water** — exit immediately
+- **Ridges or peaks** — highest points
+- **Tents or picnic shelters** — no
+  protection from ground current
+- **Near isolated tall objects**
+  (flagpoles, towers, single trees)
 
-## Lightning Position — No Shelter
-- Crouch on balls of feet
-- Heels together, head down
-- Hands over ears, arms tight
-- DO NOT lie flat (maximizes ground contact)
-- DO NOT put hands on ground
-- Spread group 15-20 feet apart
+## Lightning Position
+- Use ONLY if no shelter is available
+1. **Crouch on balls of feet**
+   (minimize ground contact area)
+2. **Heels together**, head down
+3. **Hands over ears**
+4. Do NOT lie flat — maximizes ground
+   contact and current risk
+5. Do NOT touch hands to ground
+6. **Insulate:** use foam pad, backpack,
+   or coiled rope under you
+7. Spread group **15-20 feet apart**
 
-## Help a Strike Victim
-- Victim is NOT electrified — safe to touch
-- Check breathing and pulse immediately
-- Start CPR if no pulse — most recover
-- Check for burns at entry/exit points
-- Check for fractures (concussive force)
-- All victims need medical evaluation
+## Group Protocol
+- Spread out **15-20 feet apart** —
+  if one is struck, others can help
+- Designate a CPR responder in advance
+- **Victims are NOT electrified** —
+  safe to touch immediately
+- Do NOT huddle (ground current can
+  hit multiple people at once)
+- After last thunder: wait **30 minutes**
+  before resuming activity
+- Account for all group members after
+  the storm
+
+## Strike Victim Care
+1. Check for **breathing and pulse**
+   (lightning often stops the heart)
+2. **Start CPR immediately** if no pulse
+   (see CPR entry)
+3. Lightning victims **often recover**
+   if CPR begins quickly
+4. Check for:
+   - Burns (entry and exit wounds)
+   - Fractures (concussive force)
+   - Paralysis or numbness
+5. All strike victims need medical
+   evaluation — even if they seem fine
 
 ## Ground Current Risk
-- Most injuries come from ground current
-- Keep feet together (reduces step potential)
-- Avoid long metal objects on ground
-- Stay away from groups of trees
-- Distance from strike point reduces danger
+- Most injuries = ground current,
+  NOT a direct strike
+- Current spreads in concentric circles
+  from the strike point outward
+- **To minimize risk:**
+  1. Keep feet **together** (reduces
+     step potential between your feet)
+  2. Crouch on balls of feet
+  3. Avoid long conductive objects on
+     ground (fences, pipes, rails)
+  4. Stay away from groups of trees
+
+## Camp Site Selection
+- Choose **low-lying areas** away from
+  tall single trees
+- In forest: choose areas with uniformly
+  tall trees (lightning hits the tallest)
+- Avoid ridge tops and exposed peaks
+- Avoid valleys prone to flash floods
+- Pitch tent at **2× height** of nearest
+  tree away from its base
+- Avoid single tall trees or rocky
+  outcrops as camp landmarks

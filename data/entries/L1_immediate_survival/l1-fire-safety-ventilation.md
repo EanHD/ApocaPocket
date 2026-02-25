@@ -1,6 +1,6 @@
 ---
 id: l1-fire-safety-ventilation
-title: Fire Safety in Enclosed Spaces
+title: "Fire Safety Enclosed"
 category: L1_immediate_survival
 subtopic: fire
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "High-Rise Evacuation - Multi-Story Escape"
+title: "High-Rise Evacuation"
 layer: "L1_immediate_survival"
 category: "evacuation"
 subcategory: "urban_survival"

@@ -1,6 +1,6 @@
 ---
 id: l1-survival-arctic-basics
-title: Arctic Survival — Cold, Shelter, Fire, Frostbite
+title: "Arctic Survival"
 category: L1_immediate_survival
 subtopic: environment
 tags:
@@ -37,6 +37,50 @@ steps:
 - 'CONSERVE ENERGY: Cold increases calorie needs. Eat high-fat foods. Limit exertion. Sweat cools you dangerously.'
 ---
 
-# Arctic Survival — Cold, Shelter, Fire, Frostbite
+# Arctic Survival
 
-Arctic survival priorities: stay warm, build insulated shelter, avoid frostbite, maintain fire, conserve energy. Cold (below -20F) kills fast. Wind chill multiplies cold danger. Layered clothing, windproof outer layer, insulated shelter essential.
+## The Threat
+- Wind chill kills at -20F in minutes
+- Sweating inside clothing = moisture
+  freezes = hypothermia — move slowly
+- Touching bare metal = instant freeze
+- Avalanches (see entry)
+- Frostbite: numb = already happening
+
+## Shelter First
+- Snow cave: dig into compacted snowbank
+  smooth ceiling (prevents drips)
+  block entrance partially with pack
+- Smaller shelter = easier to heat with
+  body warmth — don't build a palace
+- Must insulate from ground fully
+  (see Ground Insulation entry)
+
+## Layering System
+- Base: wicking layer (wool or synthetic)
+- Mid: insulation (fleece or down)
+- Outer: windproof and waterproof
+- NEVER wear cotton (kills when wet)
+- Cover face, ears, all skin
+
+## Fire and Water
+- Build fire on platform of green logs
+  (prevents melting into snow)
+- Collect dry wood from standing dead trees
+- Melt ice (more efficient than snow)
+- DO NOT eat snow — lowers core temp
+  and causes dehydration
+
+## Frostbite Prevention
+- Wiggle fingers and toes regularly
+- Check frequently for numbness
+- Early frostbite = white/waxy patch
+- Rewarm skin-to-skin (armpits, groin)
+- NEVER rewarm near direct fire
+- Do not rub frostbitten tissue
+
+## Conserve Energy
+- Cold requires 2x normal calories
+- Eat high-fat foods (fat burns longest)
+- Limit unnecessary exertion
+- Rest when you can — fatigue kills

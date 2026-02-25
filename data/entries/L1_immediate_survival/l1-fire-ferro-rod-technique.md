@@ -1,6 +1,6 @@
 ---
 id: l1-fire-ferro-rod-technique
-title: Ferro Rod and Tinder Preparation
+title: "Ferro Rod Technique"
 category: L1_immediate_survival
 subtopic: fire
 tags:

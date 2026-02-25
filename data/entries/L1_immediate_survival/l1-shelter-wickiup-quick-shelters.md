@@ -1,16 +1,37 @@
 ---
 id: l1-shelter-wickiup-quick-shelters
-title: "Wickiup Dome Shelter"
+title: Wickiup Dome Shelter
 category: L1_immediate_survival
 subtopic: shelter
-tags: [wickiup, dome-shelter, primitive-shelter, semi-permanent]
-region_relevance: [global, temperate, boreal, arid]
+tags:
+- wickiup
+- dome-shelter
+- primitive
+- long-term
+- frame-shelter
+region_relevance:
+- global
+- temperate
+- boreal
 confidence: high
-sources: [nols-wilderness-guide]
-related_entries: [l1-shelter-natural-materials, l1-shelter-site-selection]
-last_verified: 2026-02-18
-summary: A wickiup is a bent-sapling dome shelter. Warmer than a lean-to, faster than a log cabin, builds in 2-4 hours with no tools. Apache and Paiute used as semi-permanent homes.
+difficulty: moderate
+time_required: 2-4 hours
+summary: The wickiup is the Goldilocks survival shelter — warmer than a lean-to, faster than a cabin, sleeps 4-6 people. Apache and Paiute tribes used these as semi-permanent homes. A properly built wickiup is warmer than a modern tent and lasts 6-12 months.
+warnings:
+- Select green (living) saplings for the frame — dry branches snap under load
+- The dome must be fully covered — any gaps allow heat to escape and rain to enter
+- Test the frame by pushing on it before covering — it should flex, not crack
+related_entries:
+- l1-shelter-primitive-types
+- l1-shelter-natural-materials
+- l1-shelter-insulation-principles
+sources:
+- nols-wilderness-guide
+- us-army-fm-4-25-11
+last_verified: '2026-02-18'
+audit_status: verified
 ---
+
 
 # Wickiup Dome Shelter
 
@@ -37,7 +58,7 @@ summary: A wickiup is a bent-sapling dome shelter. Warmer than a lean-to, faster
   grass bundles, cattails, pine boughs)
 - Lashing: bark strips, paracord, rope
 
-## Step 1 — Frame the Dome
+## Step 1 — Frame Dome
 - Mark a circle 8-12 feet across on ground
 - Plant 20-30 saplings around perimeter,
   12-18 inches apart, 6-12 inches deep
@@ -54,14 +75,14 @@ summary: A wickiup is a bent-sapling dome shelter. Warmer than a lean-to, faster
 - Lash covering to horizontal hoops
 - Leave 12-18 inch smoke hole at apex
 
-## Step 3 — Seal and Set Up
+## Step 3 — Interior
 - Bank 6-12 inches of soil around base
   (blocks ground-level drafts)
 - Interior fire pit: center, ringed with stones
 - Sleeping: perimeter, feet toward fire
 - Ground insulation: 6-12 inches dry material
 
-## Cold Weather Upgrades
+## Cold Weather Mods
 - Double wall: inner dome 2-3 feet inside
   outer (air gap boosts R-value greatly)
 - 5-6 covering layers instead of 3-4

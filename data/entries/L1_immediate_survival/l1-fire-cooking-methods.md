@@ -1,6 +1,6 @@
 ---
 id: l1-fire-cooking-methods
-title: Field Cooking Methods Without Cookware
+title: "Field Cooking Methods"
 category: L1_immediate_survival
 subtopic: fire
 tags:
@@ -48,6 +48,45 @@ steps:
   meat for days to weeks. See smoking entry for details.'
 ---
 
-# Field Cooking Methods Without Cookware
+# Field Cooking Methods
 
-Cooking food increases caloric availability by 30-50%, kills pathogens, and improves digestibility. These methods work without pots, pans, or utensils — using only fire, rocks, sticks, leaves, and clay found in nature.
+## Why It Matters
+- Cooking increases calories 30-50%
+- Kills pathogens in meat and water
+- Improves digestibility of tough food
+- All methods work without cookware
+
+## Spit Roasting
+- Sharpen a green hardwood stick
+- Skewer meat, prop over COALS (not flame)
+  — flame chars outside, inside stays raw
+- Use Y-stick forks on each side
+- Rotate frequently, cook low and slow
+
+## Ember and Ash Cooking
+- Wrap food in large green leaves or clay
+- Bury directly in hot coals and ash
+- Tubers: 30-45 minutes
+- Small fish: 15-20 minutes
+- Clay-baked fish: crack clay off with skin
+
+## Hot Rock Boiling (No Pot)
+- Line a pit with bark or tightly woven
+  basket sealed with pine pitch
+- Heat rocks in fire 20-30 minutes
+- Transfer 3-5 hot rocks using green
+  stick tongs — brings a gallon to boil
+- Replace as rocks cool
+
+## Flat Rock Griddle
+- Find flat dense rock, 1-2 inches thick
+- Support over fire, heat 15-20 minutes
+- Cook meat slices, fish fillets, flat bread
+- Grease with animal fat to prevent sticking
+
+## Key Safety Rules
+- NEVER use river rocks (moisture inside
+  causes violent explosion when heated)
+- Avoid limestone, sandstone, layered rock
+- Wild meat must reach 165F (74C) inside
+- Toxic plants stay toxic after cooking

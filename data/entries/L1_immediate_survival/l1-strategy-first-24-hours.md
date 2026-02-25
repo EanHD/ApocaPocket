@@ -1,6 +1,6 @@
 ---
 id: l1-strategy-first-24-hours
-title: First 24 Hours — Priority Decision Tree
+title: "First 24 Hours"
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

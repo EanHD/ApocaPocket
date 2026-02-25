@@ -1,6 +1,6 @@
 ---
 id: l1-fire-signal-fires
-title: Signal Fire Construction — Day and Night Signaling
+title: "Signal Fire Construction"
 category: L1_immediate_survival
 subtopic: fire
 tags:

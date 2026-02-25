@@ -1,6 +1,6 @@
 ---
 id: l1-weather-prediction-field
-title: Weather Prediction — Cloud Types & Natural Signs
+title: "Field Weather Signs"
 category: L1_immediate_survival
 subtopic: weather
 tags:
@@ -31,6 +31,50 @@ steps:
 - 'RED SKY: Red sky at morning, sailors take warning (rain coming). Red sky at night, sailors delight (fair weather). Based on sunset light through moisture.'
 ---
 
-# Weather Prediction — Cloud Types & Natural Signs
+# Field Weather Signs
 
-Predicting weather without forecast: observe clouds, wind shifts, air pressure signs, animal behavior. High wispy clouds (cirrus) indicate weather change in 24 hours. Darkening clouds = storm approaching. Sudden wind shift = front moving through.
+## Cloud Types
+- Cirrus (high wispy streaks): weather
+  change in 24 hours — watch carefully
+- Cumulus (puffy white): fair morning,
+  but tall anvil tops = thunderstorms
+- Cumulonimbus (dark towering): storms
+  imminent — seek shelter NOW
+- Stratus (low gray flat sheet): drizzle
+  or snow for hours to days
+
+## Wind Signs
+- Steady wind from one direction = stable
+- Sudden shift or swirling = front moving
+  through — expect rain or storms soon
+- Wind increasing rapidly = approaching
+  system (storm, cold front)
+- Calm after sustained wind = eye or
+  cold air behind the front
+
+## Pressure Signs
+- Hard to start fire (damp air) = rain
+  coming (low pressure = moisture)
+- Sharp clear distant views = high
+  pressure, fair weather likely
+- Hazy distant views = moisture in air,
+  rain possible within 12-24 hours
+- Sound carries farther = low pressure,
+  weather change coming
+
+## Natural Signs
+- Birds flying very low = low pressure,
+  rain coming
+- Insects swarming = fair weather
+  (they avoid turbulent air in storms)
+- Pine cone scales open = dry weather,
+  close = humidity rising
+- Smoke rising straight up = high pressure
+  and fair; swirling down = storm coming
+
+## Red Sky Rule
+- Red sky at morning: light from east
+  reflects off moisture to west = rain
+- Red sky at night: setting sun lights
+  dust in dry air to west = fair tomorrow
+- General trend, not precise forecast

@@ -1,5 +1,5 @@
 ---
-title: "Childproofing and Poisoning Prevention"
+title: "Poison Prevention"
 layer: "L1_immediate_survival"
 category: "medical"
 subcategory: "pediatric"

@@ -1,5 +1,5 @@
 ---
-title: "Urban Scavenging Guide - Safe Salvage Operations"
+title: "Urban Scavenging"
 layer: "L1_immediate_survival"
 category: "resource_acquisition"
 subcategory: "urban_survival"

@@ -38,49 +38,101 @@ steps:
 
 # River Crossing Safety
 
-## When NOT to Cross
-- Water is opaque or muddy
-- Debris or ice flowing in current
-- After recent heavy rain
-- Afternoon glacial streams (peak melt)
-- If you would not confidently swim it
-- Wait — rivers drop fast after storms
+## When Not To Cross
+- Opaque or muddy water (no visible bottom)
+- **Debris or ice** in the current
+- After **recent heavy rain**
+- Glacial streams in the **afternoon**
+  (peak melt — cross in morning instead)
+- If you would not confidently swim it,
+  do not try to walk it
+- **Wait 12-24 hours** — rivers drop
+  quickly after storms
+- Rule: when in doubt, do not cross
 
 ## Site Selection
-- Wide, shallow sections (wider = slower)
-- Gravel bottom (not slippery rock)
-- Straight section, not a bend
-- Scout 100m both directions
-- Check 50m downstream: no falls or
-  logjams if you are swept away
+1. **Wide, shallow sections** (wide =
+   slower current)
+2. **Gravel bottom** (avoid slippery rock)
+3. **Straight section** — not a bend
+   (current fastest on outside of bends)
+4. Downstream clear of: waterfalls,
+   rapids, logjams, undercut banks
+5. Scout **100m up and downstream**
+   before committing — effort is worth it
 
 ## Preparation
-- Unbuckle pack straps (shed fast if needed)
-- Wading staff: strong chest-height stick
-- Remove pants if deep — they fill with
-  water and drag you under
-- Keep boots ON (foot protection)
+1. **Unbuckle pack straps** — shed pack
+   instantly if you fall
+2. Remove pants if deep (fill with water,
+   drag you down). Boots ON.
+3. Cut a **wading staff** — chest-height
+   stick, plant it upstream
+4. Secure critical gear in waterproof bag
+   (fire kit, electronics, documents)
+5. Plan your **exit point** on far bank
+   before you step in
 
-## Solo Crossing Technique
-- Face upstream at 45 degree angle to current
-- Shuffle feet — never lift (lose balance)
-- Staff upstream: plant, then move feet
-- Move diagonally downstream (ferry angle)
-- If you fall: drop pack, float on back
-  feet downstream, swim to shore at angle
+## Solo Technique
+1. Face **upstream at 45°** to current
+2. **Shuffle feet** — never fully lift
+   (lifting = immediate loss of balance)
+3. Move staff first, plant it upstream,
+   then transfer weight, then feet
+4. Use **ferry angle** in strong current —
+   move diagonally downstream, not against
+5. If you lose balance: **drop pack,**
+   roll onto back, feet downstream,
+   swim to shore at an angle
 
 ## Group Crossing
-- Line astern: single file, hands on
-  the person ahead's pack or shoulders
-- Strongest person leads, second at rear
-- Wedge: 3+ people facing current, strongest
-  at apex, others link arms behind
-- Move as a unit together
+- **Line astern (safest for 2+):** single
+  file, each holds person ahead at pack
+  or shoulders. Strongest leads,
+  2nd-strongest at rear.
+- **Wedge:** 3+ people, strongest at apex
+  breaking current, others link arms
+- Move as a **single unit** — never
+  step simultaneously
+- **Carry small children** chest-to-chest
+- Roped crossing requires training:
+  anchor shore, clip in, one at a time
 
-## If You Fall
-- Ditch pack immediately
-- Roll onto back, feet downstream, toes up
-- Swim at 45 degrees toward shore with current
-- DO NOT try to stand in fast current
-  (foot entrapment between rocks = fatal)
-- Only stand when current is slow and shallow
+## If You Fall In
+1. **Ditch pack immediately**
+2. Roll onto back, **feet downstream**,
+   toes up (feet absorb rock impacts
+   and protect your head)
+3. **Swim at 45° angle** toward shore —
+   use the current, not against it
+4. Do NOT stand in fast current —
+   **foot entrapment kills**
+   (foot wedges in rocks, current forces
+   you underwater — it is fatal)
+5. Only stand when water is slow and
+   shin-deep
+
+## Cold Water Risks
+- Below **15°C (60°F):** rapid heat loss
+  even in a shallow, quick crossing
+- **Symptoms:** gasping, rapid breathing,
+  loss of hand dexterity, confusion
+- You may become incapacitated mid-stream
+  before you realize the danger
+- **After crossing:**
+  - Change into dry clothes immediately
+  - Wring out wet clothes
+  - Move actively to generate heat
+  - Drink warm fluids if available
+
+## Swim vs Ford
+- If too deep to ford but **must cross:**
+  SWIM it — do not wade deep fast water
+- **Swimming = control.** Wading deep
+  fast water = falling, tumbling, panic.
+- **Swim technique:**
+  1. Enter **upstream** of target landing
+  2. Crawl stroke at **45°** angle to shore
+  3. Current carries you downstream —
+     aim to land 50-100m downstream
+  4. Use pack as flotation OR ditch it

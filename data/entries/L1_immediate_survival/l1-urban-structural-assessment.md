@@ -1,5 +1,5 @@
 ---
-title: "Building Structural Assessment - Damage Recognition"
+title: "Building Assessment"
 layer: "L1_immediate_survival"
 category: "safety"
 subcategory: "urban_survival"

@@ -1,6 +1,6 @@
 ---
 id: l1-navigation-without-compass
-title: Navigation Without Compass — Sun, Stars, Natural Signs
+title: "Navigation No Compass"
 category: L1_immediate_survival
 subtopic: navigation
 tags:

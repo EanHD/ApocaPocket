@@ -1,6 +1,6 @@
 ---
 id: l1-fire-tinder-identification
-title: Natural Tinder Materials — Identification & Preparation
+title: "Natural Tinder ID"
 category: L1_immediate_survival
 subtopic: fire
 tags:

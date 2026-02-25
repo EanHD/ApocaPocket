@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-long-term-cabin
-title: "Log Cabin Overview"
+title: "Log Cabin Construction"
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -49,48 +49,104 @@ steps:
 - 'A cabin built well lasts 30-50+ years. The critical maintenance: keep the roof intact, re-chink as needed, ensure drainage away from foundation, replace any rotting ground-contact logs.'
 ---
 
-# Log Cabin Overview
+# Log Cabin Construction
 
-## What to Expect
-- 10x12 foot cabin: 60-80 logs needed
-- 2 people working: 2-4 weeks of labor
-- Only tool required: an axe
-- Lasts 30-50+ years if maintained
-- NEVER seal completely with fire inside
-  (carbon monoxide is lethal)
+## Site Selection
+- Level ground or slight slope (drainage)
+- **South-facing** for passive solar heat
+- Near water but **above flood level**
+- Protected from wind by terrain or trees
+- 100+ straight trees within hauling
+  distance
+- Avoid: flood plains, avalanche paths,
+  dead-tree zones (widowmakers),
+  swampy ground
 
-## Site and Foundation
-- Level ground, south-facing for solar heat
-- Above flood level, near water source
-- Large flat rocks or rot-resistant sills
-- Elevate floor 6-12 inches above grade
-- Gravel bed under foundation for drainage
+## Foundation
+- Large flat rocks or rot-resistant logs
+  (cedar, locust) as ground sills
+- Elevate floor **6-12 inches** above
+  grade — prevents rot and moisture
+- Pack **gravel bed** under foundation
+  for drainage
+- No mortar needed for a survival build
+- Test rocks: stable, no wobble before
+  stacking
 
-## Logs and Walls
-- Straight, 6-10 inch diameter conifers
-- 40-50 wall logs + 15-20 for roof/floor
-- Saddle notch: scoop half-round in bottom
-  of each log to seat on log below
-- Alternate butt/tip to keep walls level
-- Build 8-10 rounds for ~7-foot walls
+## Log Selection
+- Straight, **6-10 inch** diameter
+  conifers (pine, spruce, fir) — light
+  and easy to work
+- For a 10×12 cabin:
+  - **40-50 wall logs** (14-16 ft for
+    long walls, 12-14 ft for short)
+  - **15-20 logs** for roof, floor,
+    and furniture
+- Avoid twisted or forked logs
 
-## Roof
-- Ridge pole on two forked posts at peak
-- Rafters lean from ridge to wall at 30-45
-- Cover with split shakes or bark slabs
-- Layer like shingles, 50 percent overlap
-- Overhang walls 12-18 inches for rain
+## Notching Logs
+- **Saddle notch** is the simplest cut
+1. Scoop a **half-round notch** in the
+   bottom of each log
+2. Notch seats over the log below it
+3. **Alternate butt/tip ends** each row
+   to keep walls level
+4. Chink gaps with moss, clay, or
+   wood strips
+- Test fit before stacking — notch
+  should be snug, not loose
 
-## Doors and Windows
-- Cut openings AFTER walls are built
-- Frame with vertical boards pinned to ends
-- Leave 2-inch gap at top for settling
-- Door: Z-braced planks, wooden pin hinges
-- Fit loosely (logs settle 1-2 inches/year)
+## Wall Construction
+- Build up **8-10 rounds** for ~7 ft
+  wall height
+- **Cut door AFTER walls are up** —
+  easier than framing as you go
+- Cut window openings as needed
+- Frame all openings with vertical boards
+  pinned to log ends
+- Leave **2" gap at top of frames**
+  for settling (logs shrink as they dry)
 
-## Chinking and Floor
-- Mix clay + dried grass + water, thick paste
-- Apply 2-3 inch layer in gaps between logs
-- Let dry 1-2 weeks, apply second coat
-- Floor: split logs flat-side-up or clay pack
+## Roof Construction
+- Ridge pole on **two forked posts**
+  at the peak
+- Rafters: 4-6" poles leaning ridge
+  to wall at **30-45° angle**
+- Cover with split shakes, bark slabs,
+  or thatch — **layer like shingles**
+- **Overlap 50%** — each row covers
+  half of the row below
+- **Overhang walls 12-18"** to protect
+  from rain and wall rot
+
+## Floor & Chinking
+- **Floor option A:** split logs,
+  flat-side up, fitted tightly together
+- **Floor option B:** packed clay floor
+  (faster and warmer than expected)
+- **Chinking:** mix clay + dried grass
+  + water to thick paste, apply 2-3"
+  thick over wall gaps
+- Let dry completely, apply second coat
 - Re-chink annually as logs settle
+
+## Door Construction
+- Split planks held with **Z-bracing**
+  (2 horizontal boards + 1 diagonal)
+- **Hinges:** wooden pin hinges OR
+  leather strap hinges
+- Fit **loosely** — allows for settling
+- Adjust fit after the first winter
+- Add a wooden latch pin for closure
+- Seal edges with clay daub in winter
+
+## Maintenance
+- **Critical:** keep the roof intact —
+  a leaking roof destroys the walls
+- Re-chink gaps every year
+- Ensure **drainage flows away** from
+  foundation at all times
+- Replace any rotting ground-contact
+  logs before rot spreads inward
+- A well-built cabin lasts **30-50+
+  years** with basic maintenance

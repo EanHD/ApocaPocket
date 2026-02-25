@@ -1,6 +1,6 @@
 ---
 id: l1-survival-desert-comprehensive
-title: Desert Survival — Water, Heat, Navigation, Hazards
+title: "Desert Survival"
 category: L1_immediate_survival
 subtopic: environment
 tags:
@@ -32,6 +32,50 @@ steps:
 - 'HAZARDS: Snakes and scorpions hide in shade (shake out boots, check before sitting). Flash floods in washes (move to high ground if rain visible). Quicksand (rare but possible near dry lakes).'
 ---
 
-# Desert Survival — Water, Heat, Navigation, Hazards
+# Desert Survival
 
-Desert survival priorities: water, shade, avoiding heat stress. Dehydration kills fast in desert heat (130F+). Travel at night, rest in shade by day. Conserve water - do not ration (drink when thirsty). Signal for rescue. Many desert hazards (snakes, scorpions, flash floods).
+## Water Is Everything
+- You lose 1 liter per hour sweating
+  in extreme desert heat
+- 1 gallon minimum per day when active
+- DO NOT ration water — drink when thirsty
+  Body needs water to cool itself
+- Dark urine = danger zone already
+
+## Heat Management
+- Rest from 10am to 4pm — find shade
+- Travel dawn, dusk, or night only
+- Shade: rock overhang, tarp, dig trench
+  and cover with branches or tarp
+- Deserts drop 40-50F at night —
+  prepare for cold too
+
+## Clothing Strategy
+- Cover ALL skin (sun + sweat reduction)
+- Light-colored loose clothing
+- Head covering — 40% heat loss from head
+- Do NOT strip off clothing in heat
+  (exposed skin burns and dehydrates faster)
+
+## Find Water
+- Rock crevices and shaded canyon walls
+- Dry riverbeds: dig 1-3 feet in outside
+  bend where water pooled last
+- Morning dew on rocks/plants
+- Barrel cactus (emergency source)
+- Do not follow animals at night —
+  they know water but travel far
+
+## Desert Hazards
+- Snakes and scorpions hide in shade —
+  shake out boots before putting on,
+  check before sitting on rocks/logs
+- Flash floods in washes — move
+  to high ground if rain visible anywhere
+- Quicksand near dry lake beds (rare)
+
+## Signaling
+- Open terrain = high visibility
+- Use mirror (day), fire (night)
+- Bright colored material on high ground
+- Stay visible — don't hide in vegetation

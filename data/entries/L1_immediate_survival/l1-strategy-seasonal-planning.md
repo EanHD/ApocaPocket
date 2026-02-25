@@ -1,6 +1,6 @@
 ---
 id: l1-strategy-seasonal-planning
-title: Seasonal Survival Planning — What to Do When
+title: "Seasonal Survival Plan"
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -52,6 +52,44 @@ steps:
   cold front coming. Insect activity ending = freeze imminent. These are more reliable than a calendar.'
 ---
 
-# Seasonal Survival Planning — What to Do When
+# Seasonal Survival Plan
 
-Nature has a calendar. Ignore it and winter kills you. This entry provides season-by-season priorities for temperate regions: what to gather, build, prepare, and when. The rule: prepare for the next season during the current one.
+## The Core Rule
+- Prepare for next season NOW
+- Winter is the great filter — those who
+  prepare in summer survive it
+- Spring abundance creates complacency
+  that kills people the following winter
+
+## Spring Tasks
+- Forage explosion: greens, shoots, roots
+- Fish spawning runs (major food source)
+- Repair winter shelter damage
+- Plant any garden (long-term)
+- Scout new areas while terrain is visible
+- Make tools while hands are not numb
+
+## Summer Tasks — Work Season
+- Every sunny day idle is a mistake
+- Preserve food: dry berries, smoke fish,
+  make jerky — for winter stores
+- Stockpile firewood (3-6 months seasoning)
+- Improve and build permanent structures
+- Make clothing while weather is warm
+- Scout winter water sources (won't freeze)
+
+## Fall Tasks
+- Race against first freeze for food
+- Nut harvest (acorns, hickory, walnut)
+- Root vegetables and late berries
+- Hunting: animals are fattest now
+- Winterize shelter: seal gaps, insulate
+- Test shelter in first cold snaps
+
+## Winter Tasks
+- Conserve energy (cold burns 2x calories)
+- Execute indoor projects (tools, repairs)
+- Use food stores, monitor reserves
+- Short winter days = plan outdoor tasks
+  for midday when warmest
+- Plan spring work while resting

@@ -1,6 +1,6 @@
 ---
 id: l1-fire-char-cloth
-title: Making Char Cloth for Flint and Steel
+title: "Making Char Cloth"
 category: L1_immediate_survival
 subtopic: fire
 tags:
@@ -44,6 +44,44 @@ steps:
 - 'STORAGE: keep char cloth absolutely dry in a sealed metal tin. A single Altoids tin holds enough char cloth for 30-50 fires. Make new batches whenever you have a campfire — it costs nothing.'
 ---
 
-# Making Char Cloth for Flint and Steel
+# Making Char Cloth
 
-Char cloth is cotton fabric converted to carbon through pyrolysis (heating without oxygen). It catches the smallest sparks from flint-and-steel, ferro rods, or even bow drill embers. One batch lasts months. Essential for primitive and traditional fire starting.
+## What Char Cloth Does
+- Cotton fabric charred to pure carbon
+- Catches the tiniest sparks from flint,
+  ferro rod, or bow drill ember
+- One batch = 30-50 fires
+- Essential for primitive fire starting
+
+## Materials
+- 100% cotton fabric only (t-shirt,
+  bandana, denim — NO synthetics)
+- Small metal tin with tight-fitting lid
+  (Altoids tin is classic)
+- Punch ONE pin-sized hole in the lid
+
+## Charring Process
+- Cut fabric into 1-2 inch squares
+- Pack loosely into tin (don't cram)
+- Place on hot coals (not in flame)
+- Smoke jet from pin hole = working
+- When smoke nearly stops, it is done
+  (10-20 minutes depending on tin size)
+- Plug the hole immediately with clay
+  or stick (air ignites hot char to ash)
+- Let cool completely before opening
+
+## Using Char Cloth
+- Place piece on flint near tinder
+- Strike steel against flint sharp edge
+  (carbon steel only — no stainless)
+- Spark on char cloth = growing ember
+- Fold char cloth into dry grass nest
+- Blow with steady breaths until flame
+
+## Storage and Alternatives
+- Store sealed in metal tin, bone dry
+- Punk wood (soft rotted wood) also chars
+- Cattail pith and dried fungi work too
+- Make new batches whenever you have
+  a campfire — costs nothing

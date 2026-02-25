@@ -1,6 +1,6 @@
 ---
 id: l1-strategy-resource-assessment
-title: Resource Assessment Matrix — What Can I Make?
+title: "Resource Assessment"
 category: L1_immediate_survival
 subtopic: shelter
 tags:

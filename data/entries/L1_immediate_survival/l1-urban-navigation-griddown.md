@@ -1,5 +1,5 @@
 ---
-title: "Urban Navigation Grid-Down - No GPS Wayfinding"
+title: "Urban Navigation"
 layer: "L1_immediate_survival"
 category: "navigation"
 subcategory: "urban_survival"
