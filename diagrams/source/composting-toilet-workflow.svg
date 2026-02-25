@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1100' height='700'>
+<rect width='100%' height='100%' fill='#08110b'/>
+<text x='40' y='60' fill='#86efac' font-size='34' font-family='Arial'>Composting Toilet Workflow</text>
+<rect x='80' y='120' width='220' height='90' rx='10' fill='#1f2937' stroke='#22c55e'/><text x='110' y='175' fill='white' font-size='22'>Use toilet</text>
+<rect x='320' y='120' width='260' height='90' rx='10' fill='#1f2937' stroke='#22c55e'/><text x='350' y='175' fill='white' font-size='22'>Add carbon cover</text>
+<rect x='600' y='120' width='220' height='90' rx='10' fill='#1f2937' stroke='#22c55e'/><text x='640' y='175' fill='white' font-size='22'>Seal/rotate</text>
+<rect x='840' y='120' width='220' height='90' rx='10' fill='#1f2937' stroke='#22c55e'/><text x='875' y='175' fill='white' font-size='22'>Curing phase</text>
+<line x1='300' y1='165' x2='320' y2='165' stroke='#94a3b8' stroke-width='3'/>
+<line x1='580' y1='165' x2='600' y2='165' stroke='#94a3b8' stroke-width='3'/>
+<line x1='820' y1='165' x2='840' y2='165' stroke='#94a3b8' stroke-width='3'/>
+<rect x='80' y='280' width='980' height='320' rx='12' fill='#111827' stroke='#34d399'/>
+<text x='110' y='330' fill='white' font-size='24'>Safety rules</text>
+<text x='110' y='370' fill='white' font-size='22'>• Handwashing station mandatory</text>
+<text x='110' y='405' fill='white' font-size='22'>• Keep away from wells/streams/flood paths</text>
+<text x='110' y='440' fill='white' font-size='22'>• Use PPE for handling</text>
+<text x='110' y='475' fill='white' font-size='22'>• Do not use immature compost on food crops</text>
+<text x='110' y='520' fill='#fda4af' font-size='22'>• If uncertain, extend curing time and use on non-food plants</text>
+</svg>
