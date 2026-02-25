@@ -45,26 +45,26 @@ steps:
   goes around tree, back down the hole
 - Practice until you can tie in the dark
 
-## Clove Hitch — Pole Attach
+## Clove Hitch — Pole
 - Attach rope to post, tree, or rail
 - Quick to tie and adjust
 - Two wraps, second crosses over first
 - Add half hitches if load varies
 
-## Sheet Bend — Join Two Ropes
+## Sheet Bend — Join Two
 - Best for joining ropes of unequal size
 - Works where square knot would slip
 - Thicker rope forms the loop (the bight)
 - Thinner rope wraps and passes through
 
-## Taut-Line Hitch — Adjustable
+## Taut-Line Hitch —
 - Creates adjustable tension in a line
 - Slides to adjust, grips hard under load
 - Essential for tent guylines
 - Will not hold if rope is slippery (use
   double taut-line for nylon cord)
 
-## Prusik — Friction Safety
+## Prusik — Friction
 - Wraps smaller cord around main rope
 - Slides freely until loaded, then grips
 - For: climbing safety, hauling systems

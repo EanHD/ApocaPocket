@@ -1,4 +1,4 @@
-# Storytelling & Oral Tradition: Memory Without Writing
+# Storytelling & Oral
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1 (Basic - anyone can start)  

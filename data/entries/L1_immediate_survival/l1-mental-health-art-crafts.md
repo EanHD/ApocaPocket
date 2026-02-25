@@ -1,4 +1,4 @@
-# Art & Crafts: Creating Beauty as Survival
+# Art & Crafts
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1-L2 (Basic to Intermediate)  

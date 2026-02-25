@@ -1,4 +1,4 @@
-# Midwest US Regional Survival Guide
+# Midwest US Regional
 
 **Region Coverage:** North Dakota, South Dakota, Nebraska, Kansas, Minnesota, Iowa, Missouri, Wisconsin, Illinois, Indiana, Ohio, Michigan  
 **USDA Hardiness Zones:** 3a-6b  

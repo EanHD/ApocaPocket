@@ -1,6 +1,6 @@
 ---
 id: l5-nav-weather-forecasting
-title: 'Weather Forecasting: Cloud Reading and Barometric Signs'
+title: Weather Forecasting
 category: L5_civilization_memory
 subtopic: navigation
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l5-edu-scientific-method
-title: 'Scientific Method: Observation, Hypothesis, and Testing'
+title: Scientific Method
 category: L5_civilization_memory
 subtopic: education
 tags:

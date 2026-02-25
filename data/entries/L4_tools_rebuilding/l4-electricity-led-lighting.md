@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-led-lighting
-title: Efficient LED Lighting Circuits
+title: Efficient LED Lighting
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

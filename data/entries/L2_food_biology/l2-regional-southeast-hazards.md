@@ -1,4 +1,4 @@
-# Southeast US Regional Hazards
+# Southeast US Regional
 
 **Life-Threatening Hazards Unique to Southeast United States**  
 **Region:** VA, NC, SC, GA, FL, AL, MS, LA, AR, TN, KY  

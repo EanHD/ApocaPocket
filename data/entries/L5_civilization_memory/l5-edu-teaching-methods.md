@@ -1,6 +1,6 @@
 ---
 id: l5-edu-teaching-methods
-title: 'Teaching Methods: Effective Knowledge Transfer Techniques'
+title: Teaching Methods
 category: L5_civilization_memory
 subtopic: education
 tags:

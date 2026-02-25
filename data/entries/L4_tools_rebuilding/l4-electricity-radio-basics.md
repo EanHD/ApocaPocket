@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-radio-basics
-title: Crystal Radio and AM Reception
+title: Crystal Radio and AM
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

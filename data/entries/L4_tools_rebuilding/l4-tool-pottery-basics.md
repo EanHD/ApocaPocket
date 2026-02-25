@@ -1,6 +1,6 @@
 ---
 id: l4-tool-pottery-basics
-title: Basic Pottery Without a Wheel
+title: Basic Pottery Without a
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

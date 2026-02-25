@@ -10,7 +10,7 @@ safety_level: life-saving
 related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-foraging-basics]
 ---
 
-# Deadly Plant Lookalikes - When Edible Plants Kill
+# Deadly Plant Lookalikes -
 
 **🚨 CRITICAL PRINCIPLE**: "When in doubt, throw it out." More people die from eating poisonous lookalikes than from starvation while foraging.
 
@@ -307,7 +307,7 @@ Use at least 3-4 features:
 - Confusion, hallucinations
 - Organ failure (liver, kidneys)
 
-### If You Suspect Poisoning:
+### If Poisoning Suspected:
 
 **Immediate Actions:**
 1. **Stop eating immediately**

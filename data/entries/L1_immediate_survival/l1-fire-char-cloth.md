@@ -79,7 +79,7 @@ steps:
 - Fold char cloth into dry grass nest
 - Blow with steady breaths until flame
 
-## Storage and Alternatives
+## Storage and
 - Store sealed in metal tin, bone dry
 - Punk wood (soft rotted wood) also chars
 - Cattail pith and dried fungi work too

@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-glass-basics
-title: Basic Glass Making from Sand
+title: Basic Glass Making from
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:
@@ -39,6 +39,6 @@ steps:
 - 'USES: bottles, jars, windows (cast and ground flat), beads, tools for working other materials'
 ---
 
-# Basic Glass Making from Sand
+# Basic Glass Making from
 
 Glass is melted silica (sand) + flux (soda ash or potash) + stabilizer (lime). Requires 1400-1600°C sustained temperature. Primitive glass (bottle green, full of bubbles) is achievable with a forced-air furnace and local materials.

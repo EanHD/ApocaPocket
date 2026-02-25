@@ -1,6 +1,6 @@
 ---
 id: l5-health-dental-care-basics
-title: 'Dental Care Basics: Preventive Dental Hygiene'
+title: Dental Care Basics
 category: L5_civilization_memory
 subtopic: public_health
 tags:

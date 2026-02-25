@@ -1,6 +1,6 @@
 ---
 id: l5-mech-bearings-and-lubrication
-title: 'Bearings and Lubrication: Friction Reduction'
+title: Bearings and Lubrication
 category: L5_civilization_memory
 subtopic: mechanical_engineering
 tags:

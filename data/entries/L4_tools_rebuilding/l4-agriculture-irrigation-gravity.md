@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-irrigation-gravity
-title: Gravity-Fed Irrigation Design
+title: Gravity-Fed Irrigation
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:

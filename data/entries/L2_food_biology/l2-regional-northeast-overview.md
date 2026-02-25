@@ -1,4 +1,4 @@
-# Northeast US Regional Survival Guide
+# Northeast US Regional
 
 **Region Coverage:** Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, Pennsylvania, New Jersey, Maryland, Delaware, West Virginia  
 **USDA Hardiness Zones:** 3b-7b  

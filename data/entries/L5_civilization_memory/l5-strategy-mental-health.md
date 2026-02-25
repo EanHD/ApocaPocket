@@ -1,6 +1,6 @@
 ---
 id: l5-strategy-mental-health
-title: Long-Term Survival — Psychological Resilience & Mental Health
+title: Long-Term Survival —
 category: L5_civilization_memory
 subtopic: public_health
 tags:

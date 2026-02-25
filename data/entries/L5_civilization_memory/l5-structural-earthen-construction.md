@@ -1,6 +1,6 @@
 ---
 id: l5-structural-earthen-construction
-title: 'Earthen Construction: Adobe, Rammed Earth, and Cob'
+title: Earthen Build
 category: L5_civilization_memory
 subtopic: structural_engineering
 tags:

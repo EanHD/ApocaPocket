@@ -1,6 +1,6 @@
 ---
 id: l3-wood-burn-quality
-title: Wood Burn Quality and Heat Management
+title: Wood Burn Quality and
 category: L3_materials_elements
 subtopic: wood_science
 tags:

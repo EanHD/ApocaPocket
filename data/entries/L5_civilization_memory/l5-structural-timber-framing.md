@@ -1,6 +1,6 @@
 ---
 id: l5-structural-timber-framing
-title: 'Timber Framing: Post-and-Beam Construction'
+title: Timber Framing
 category: L5_civilization_memory
 subtopic: structural_engineering
 tags:

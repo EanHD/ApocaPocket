@@ -1,6 +1,6 @@
 ---
 id: l5-governance-trade-barter
-title: 'Trade and Barter: Exchange Systems Without Currency'
+title: Trade and Barter
 category: L5_civilization_memory
 subtopic: governance
 tags:

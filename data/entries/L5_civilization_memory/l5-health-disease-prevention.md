@@ -1,6 +1,6 @@
 ---
 id: l5-health-disease-prevention
-title: 'Disease Prevention: Quarantine and Hygiene Principles'
+title: Disease Prevention
 category: L5_civilization_memory
 subtopic: public_health
 tags:

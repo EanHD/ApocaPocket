@@ -1,6 +1,6 @@
 ---
 id: l3-materials-clay-identification
-title: Clay Identification & Testing for Pottery
+title: Clay ID and Testing for
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -60,6 +60,6 @@ steps:
   Leach with water before use. TEST METHOD: Mix 10g clay with 50ml distilled water, let settle 1 hour, test supernatant with pH paper or meter.'
 ---
 
-# Clay Identification & Testing for Pottery
+# Clay ID and Testing for
 
 Clay is fine-grained soil that becomes plastic when wet and hard when fired. Used for pottery, bricks, plaster. Finding and testing clay: look near water, test for plasticity and shrinkage, fire a test piece. Not all clay is suitable for pottery (some crack or crumble when fired).

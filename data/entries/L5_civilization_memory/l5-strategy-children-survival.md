@@ -1,6 +1,6 @@
 ---
 id: l5-strategy-children-survival
-title: Children in Survival Situations — Ages 0-18
+title: Children in Survival
 category: L5_civilization_memory
 subtopic: education
 tags:

@@ -1,4 +1,4 @@
-# Visual Impairments: Survival Adaptations
+# Visual Impairments
 
 ## Overview
 

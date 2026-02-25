@@ -1,4 +1,4 @@
-# Southeast US Regional Survival Guide
+# Southeast US Regional
 
 **Region Coverage:** Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Arkansas, Tennessee, Kentucky  
 **USDA Hardiness Zones:** 6b-10b  

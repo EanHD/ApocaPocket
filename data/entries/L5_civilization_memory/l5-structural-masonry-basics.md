@@ -1,6 +1,6 @@
 ---
 id: l5-structural-masonry-basics
-title: 'Masonry Basics: Brick and Stone Wall Construction'
+title: Masonry Basics
 category: L5_civilization_memory
 subtopic: structural_engineering
 tags:

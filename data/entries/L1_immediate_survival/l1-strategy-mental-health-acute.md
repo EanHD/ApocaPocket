@@ -35,7 +35,7 @@ warnings:
 - Your own mental health matters — rotate caregivers, take breaks, process your emotions
 ---
 
-# Mental Health Crisis — Acute Intervention in the Field
+# Mental Health Crisis —
 
 Someone is having a panic attack, suicidal crisis, or psychotic break RIGHT NOW. Mental health emergencies are as dangerous as physical injuries — they just kill differently (suicide, reckless behavior, inability to care for self). When there's no 911, no hospital, no medication, YOU are the intervention.
 

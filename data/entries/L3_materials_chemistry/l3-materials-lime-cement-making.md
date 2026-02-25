@@ -1,6 +1,6 @@
 ---
 id: l3-materials-lime-cement-making
-title: Lime & Cement Making — Mortar for Construction
+title: Lime and Cement Making —
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -34,6 +34,6 @@ steps:
 - 'CEMENT (advanced): Lime + clay + high heat (1450C). Difficult to achieve primitive. Lime mortar is adequate for most construction.'
 ---
 
-# Lime & Cement Making — Mortar for Construction
+# Lime and Cement Making —
 
 Lime (calcium oxide) and cement are binders for mortar and concrete. Lime made by heating limestone (calcium carbonate) to 900C+. Mix lime with sand and water = mortar (binds bricks, stones). Portland cement is complex but lime mortar is achievable with primitive kiln.

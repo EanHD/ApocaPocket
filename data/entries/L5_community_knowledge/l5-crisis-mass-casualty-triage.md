@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-mass-casualty-triage
-title: Mass Casualty Triage — START System for Disaster Response
+title: Mass Casualty Triage —
 category: L5_community_knowledge
 subtopic: health
 tags:

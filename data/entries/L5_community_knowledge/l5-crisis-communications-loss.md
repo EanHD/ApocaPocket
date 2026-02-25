@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-communications-loss
-title: Communications Without Infrastructure — Runners, Signals, Radio
+title: Commss Without
 category: L5_community_knowledge
 subtopic: technology
 tags:

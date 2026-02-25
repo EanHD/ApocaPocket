@@ -15,7 +15,7 @@ related:
 - "l1-water-sources-and-collection"
 ---
 
-# Vehicle Breakdown in Remote Area
+# Vehicle Breakdown in
 
 ## Overview
 Stay with the vehicle unless there is **known, nearby, safe shelter**. A vehicle is easier for rescuers to spot than a person.

@@ -1,6 +1,6 @@
 ---
 id: l3-metalwork-blacksmith-basics
-title: Blacksmithing Basics — Forge, Anvil, First Projects
+title: Blacksmithing Basics —
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -32,6 +32,6 @@ steps:
 - 'TOOLS TO MAKE: Nails (cut and taper rod), knives (flatten, sharpen, harden), axes, hinges, chains.'
 ---
 
-# Blacksmithing Basics — Forge, Anvil, First Projects
+# Blacksmithing Basics —
 
 Blacksmithing shapes iron and steel by heating and hammering. Essential for making durable tools (knives, axes, nails, hinges). Requires forge (high-temp fire), anvil (striking surface), hammer, tongs. Learning curve but invaluable long-term skill.

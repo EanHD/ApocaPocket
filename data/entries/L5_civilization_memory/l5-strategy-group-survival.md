@@ -1,6 +1,6 @@
 ---
 id: l5-strategy-group-survival
-title: Group Survival Dynamics — From Family to Community
+title: Group Survival Dynamics —
 category: L5_civilization_memory
 subtopic: governance
 tags:

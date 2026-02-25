@@ -1,4 +1,4 @@
-# Rocky Mountains Regional Survival Guide
+# Rocky Mountains Regional
 
 **Region Coverage:** Montana, Idaho, Wyoming, Colorado, northern New Mexico (mountain regions)  
 **Elevation Range:** 6,000-14,000+ feet  

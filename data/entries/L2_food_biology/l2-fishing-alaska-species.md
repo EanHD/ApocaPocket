@@ -10,7 +10,7 @@ safety_level: important
 related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procurement]
 ---
 
-# Alaska Fish Species - Identification & Harvest
+# Alaska Fish Species - ID
 
 **🎣 ALASKA FISHING REALITY**: World-class freshwater and saltwater fishing. Salmon runs provide MASSIVE seasonal protein (June-September). Trout, char, and grayling available year-round. Focus on high-yield opportunities.
 

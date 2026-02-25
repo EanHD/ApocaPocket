@@ -1,6 +1,6 @@
 ---
 id: l5-comm-morse-code
-title: Morse Code — Complete Reference and Training
+title: Morse Code — Complete
 category: L5_civilization_memory
 subtopic: communication
 tags:

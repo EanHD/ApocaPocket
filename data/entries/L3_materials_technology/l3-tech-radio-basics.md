@@ -1,6 +1,6 @@
 ---
 id: l3-tech-radio-basics
-title: "Radio Basics: Emergency Communication Bands"
+title: Radio Basics
 layer: L3_materials_technology
 category: communications
 tags:

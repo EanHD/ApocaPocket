@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-soil-basics
-title: Soil Science Basics for Crop Resilience
+title: Soil Science Basics for
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:

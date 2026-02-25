@@ -1,6 +1,6 @@
 ---
 id: l5-celestial-navigation-basics
-title: Celestial Navigation Basics
+title: Celestial Navigation
 category: L5_civilization_memory
 subtopic: navigation
 tags:

@@ -15,7 +15,7 @@ related:
 - "l1-weather-field-prediction"
 ---
 
-# Urban Navigation Without GPS
+# Urban Navigation Without
 
 ## Overview
 Use a layered method: **macro orientation (sun/cardinal)** + **street logic** + **landmark chain**.

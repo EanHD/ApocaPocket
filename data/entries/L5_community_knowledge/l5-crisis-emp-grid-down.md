@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-emp-grid-down
-title: EMP & Grid-Down Scenarios — Electronics Failure & Recovery
+title: EMP and Grid-Down
 category: L5_community_knowledge
 subtopic: technology
 tags:

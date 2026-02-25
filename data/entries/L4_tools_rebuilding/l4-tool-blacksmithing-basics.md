@@ -1,6 +1,6 @@
 ---
 id: l4-tool-blacksmithing-basics
-title: Blacksmithing Fundamentals — Forge, Anvil, Techniques
+title: Blacksmithing Basics —
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

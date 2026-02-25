@@ -1,6 +1,6 @@
 ---
 id: l3-materials-rope-making
-title: Rope Making — Field Cordage from Natural Materials
+title: Rope Making — Field
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -41,6 +41,6 @@ steps:
 - 'PRESERVATION: Natural cordage rots when wet. DRY THOROUGHLY after use. Store in dry place. Treat with fat/oil (waterproofs and preserves). Replace when frayed, weak, or rotted.'
 ---
 
-# Rope Making — Field Cordage from Natural Materials
+# Rope Making — Field
 
 Rope is essential for shelter, traps, tools, climbing, hauling. Natural cordage can be made from plant fibers, bark, roots, sinew, rawhide. Quick field methods for emergency cordage. Techniques: simple twist, reverse-wrap, braiding.

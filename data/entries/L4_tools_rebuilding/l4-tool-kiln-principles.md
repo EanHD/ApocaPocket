@@ -1,6 +1,6 @@
 ---
 id: l4-tool-kiln-principles
-title: 'Kiln Design: Pit and Updraft'
+title: Kiln Design
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

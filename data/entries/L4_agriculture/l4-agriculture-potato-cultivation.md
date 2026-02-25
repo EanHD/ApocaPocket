@@ -1,5 +1,5 @@
 ---
-title: "Potato Cultivation & Storage"
+title: Potato Cultivation and
 category: "L4"
 subcategory: "agriculture"
 tags: ["potato", "cultivation", "storage", "staple-crop", "food-security"]

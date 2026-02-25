@@ -51,7 +51,7 @@ steps:
 diagram: /assets/diagrams/L1/navigation/natural-navigation.svg
 ---
 
-# Navigation Without Compass — Sun, Stars, Natural Signs
+# Navigation Without
 
 When compass and GPS fail, natural navigation using sun, stars, and terrain features provides reliable direction finding. Sun rises east (±23° seasonal variation), sets west. North Star (Polaris) marks true north in northern hemisphere within 1°. Southern Cross indicates south. Shadow-stick method accurate within 5-10° with proper technique. Natural signs (moss, tree growth) are supplementary only.
 

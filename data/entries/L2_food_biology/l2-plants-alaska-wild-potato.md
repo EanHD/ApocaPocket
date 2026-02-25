@@ -10,7 +10,7 @@ safety_level: life-saving
 related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foraging-basics]
 ---
 
-# Alaska Wild Potato - Identification & Deadly Lookalike
+# Alaska Wild Potato - ID
 
 **🚨 CRITICAL WARNING**: The Alaska wild potato (Eskimo potato) has a deadly lookalike. **ROOTS ARE SAFE. SEEDS ARE DEADLY.** This distinction killed Chris McCandless.
 

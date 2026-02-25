@@ -1,4 +1,4 @@
-# Rocky Mountains Regional Hazards
+# Rocky Mountains Regional
 
 **Life-Threatening Hazards Unique to Rocky Mountains**  
 **Region:** MT, ID, WY, CO, northern NM (mountain regions, 6,000-14,000+ ft)  

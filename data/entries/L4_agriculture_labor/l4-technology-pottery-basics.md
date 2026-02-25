@@ -1,6 +1,6 @@
 ---
 id: l4-technology-pottery-basics
-title: Pottery Basics — Hand-Building & Pit Firing
+title: Pottery Basics —
 category: L4_agriculture_labor
 subtopic: technology
 tags:

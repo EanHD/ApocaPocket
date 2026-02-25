@@ -1,6 +1,6 @@
 ---
 id: l4-tool-bellows
-title: Bellows for Metalwork Air Supply
+title: Bellows for Metalwork Air
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

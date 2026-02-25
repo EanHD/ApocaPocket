@@ -1,4 +1,4 @@
-# Stone Knapping (Flintknapping) ⭐⭐⭐
+# Stone Knapping
 
 **Level:** L3 (Advanced)  
 **Category:** Tools & Manufacturing  

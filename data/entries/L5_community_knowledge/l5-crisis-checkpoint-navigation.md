@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-checkpoint-navigation
-title: Checkpoint & Roadblock Navigation — Safe Passage Tactics
+title: Checkpoint and Roadblock
 category: L5_community_knowledge
 subtopic: security
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l5-metallurgy-casting-basics
-title: 'Metal Casting: Sand Casting and Mold Making'
+title: Metal Casting
 category: L5_civilization_memory
 subtopic: metallurgy
 tags:

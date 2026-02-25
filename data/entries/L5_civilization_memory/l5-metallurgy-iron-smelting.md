@@ -1,6 +1,6 @@
 ---
 id: l5-metallurgy-iron-smelting
-title: 'Iron Smelting: Bloomery Iron from Ore'
+title: Iron Smelting
 category: L5_civilization_memory
 subtopic: metallurgy
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l4-tool-knife-making
-title: Making a Knife — Forging and Stock Removal
+title: Making a Knife — Forging
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

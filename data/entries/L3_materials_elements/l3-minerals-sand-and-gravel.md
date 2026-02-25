@@ -1,6 +1,6 @@
 ---
 id: l3-minerals-sand-and-gravel
-title: Sand and Gravel Assessment for Construction
+title: Sand and Gravel
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

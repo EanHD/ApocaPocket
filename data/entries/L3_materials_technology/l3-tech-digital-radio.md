@@ -1,6 +1,6 @@
 ---
 id: l3-tech-digital-radio
-title: "Digital Radio Modes: Data Communications Without Internet"
+title: Digital Radio Modes
 layer: L3_materials_technology
 category: communications
 tags:

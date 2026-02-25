@@ -1,4 +1,4 @@
-# Exercise & Movement: Physical Action as Mental Medicine
+# Exercise & Movement
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1 (Basic - anyone can start)  

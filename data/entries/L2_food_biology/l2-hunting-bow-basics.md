@@ -10,7 +10,7 @@ safety_level: important
 related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dressing, l1-hunting-basics]
 ---
 
-# Bow Hunting Basics - Silent Survival Hunting
+# Bow Hunting Basics -
 
 **🏹 ADVANTAGE**: Silence. No gunshot to alert other game, predators, or people. Reusable ammunition (arrows). Effective tool when firearms are unavailable or impractical.
 

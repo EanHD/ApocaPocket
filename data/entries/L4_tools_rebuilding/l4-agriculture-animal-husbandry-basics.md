@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-animal-husbandry-basics
-title: Small Livestock Fundamentals
+title: Small Livestock Basics
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:

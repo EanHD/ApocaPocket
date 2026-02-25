@@ -1,4 +1,4 @@
-# ApocaPocket Device Maintenance & Longevity
+# ApocaPocket Device
 
 ## Why This Matters
 **This device is your knowledge vault.** In a world where books burn, libraries collapse, and internet dies, the ApocaPocket holds centuries of survival knowledge in your pocket. Protect it. Maintain it. Make it last.

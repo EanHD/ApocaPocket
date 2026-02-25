@@ -1,6 +1,6 @@
 ---
 id: l3-minerals-flint-and-chert
-title: Locating Flint and Chert for Knapping
+title: Locating Flint and Chert
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

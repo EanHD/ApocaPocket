@@ -1,6 +1,6 @@
 ---
 id: l3-minerals-ore-recognition
-title: Field Recognition of Metal Ores
+title: Field Recognition of
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l5-mech-materials-strength
-title: 'Materials Strength: Stress, Strain, and Safety Factors'
+title: Materials Strength
 category: L5_civilization_memory
 subtopic: mechanical_engineering
 tags:

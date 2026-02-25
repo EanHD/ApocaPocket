@@ -71,7 +71,7 @@ steps:
 - Clean ALL wounds immediately, check
   daily, treat red streaks as emergency
 
-## Carbon Monoxide Poisoning
+## Carbon Monoxide
 - Burning anything in enclosed space
   produces CO — no odor, no warning
 - Symptoms: headache, nausea, confusion,

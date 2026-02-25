@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Maintenance Basics"
+title: Vehicle Maint Basics
 layer: L3_materials_technology
 category: vehicles
 tags: [vehicle, car, maintenance, oil-change, tires, battery, fluids, jump-start]
@@ -8,7 +8,7 @@ time_to_read: 25 minutes
 practical_time: 1-3 hours (oil change + inspection)
 ---
 
-# Vehicle Maintenance Basics
+# Vehicle Maint Basics
 
 ## Overview
 

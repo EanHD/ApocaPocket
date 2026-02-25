@@ -51,7 +51,7 @@ steps:
 - 'HISTORICAL CONTEXT: Death camas poisoning has killed countless livestock (sheep, cattle, horses) and caused human deaths throughout history. Indigenous peoples were well aware of death camas and developed strict protocols for camas harvesting - ONLY during flowering season. European settlers who ignored these protocols often died.'
 ---
 
-# Death Camas — DEADLY Camas Lookalike
+# Death Camas — DEADLY
 
 Death camas (Zigadenus/Toxicoscordion species) is a DEADLY plant that looks nearly identical to edible camas (Camassia) when not flowering. Contains potent cardiac alkaloids that cause heart failure. This is the PRIMARY reason you must NEVER harvest camas bulbs unless you have positively identified the plant while flowering.
 

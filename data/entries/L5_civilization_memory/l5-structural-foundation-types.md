@@ -1,6 +1,6 @@
 ---
 id: l5-structural-foundation-types
-title: 'Foundation Types: Footings, Piers, and Slabs'
+title: Foundation Types
 category: L5_civilization_memory
 subtopic: structural_engineering
 tags:

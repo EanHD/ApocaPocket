@@ -47,7 +47,7 @@ steps:
 - 'REGIONAL DISTRIBUTION: Poison Hemlock: Throughout North America (introduced from Europe), especially Pacific Northwest, California, eastern states. Europe and temperate zones worldwide. Water Hemlock: Native to North America - all wet areas throughout the continent. C. douglasii (Western), C. maculata (Eastern).'
 ---
 
-# Poison Hemlock & Water Hemlock — DEADLY Identification
+# Poison Hemlock and Water
 
 Poison hemlock (Conium maculatum) and water hemlock (Cicuta species) are among the most deadly plants in North America and Europe. Both are easily confused with edible plants like wild carrot, parsnip, and parsley. A single mistake can be FATAL. Learn these identification features before foraging ANY wild umbellifers.
 

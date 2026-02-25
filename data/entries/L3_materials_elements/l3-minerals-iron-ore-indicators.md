@@ -1,6 +1,6 @@
 ---
 id: l3-minerals-iron-ore-indicators
-title: Field Indicators for Iron Deposits
+title: Field Indicators for Iron
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:
@@ -39,6 +39,6 @@ steps:
 - 'Economically workable deposits need: surface access, nearby fuel source (wood for charcoal), limestone for flux, and water. Primitive iron production is extremely labor and fuel-intensive.'
 ---
 
-# Field Indicators for Iron Deposits
+# Field Indicators for Iron
 
 Recognizing iron deposits in the field. Magnetite and hematite are the primary ores. Limonite and bog iron are easier to smelt but lower grade. Surface indicators help locate workable deposits for primitive iron production.

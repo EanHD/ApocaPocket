@@ -10,7 +10,7 @@ safety_level: important
 related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-hunting-basics]
 ---
 
-# Large Game Shot Placement - Ethical Kills
+# Large Game Shot Placement
 
 **🎯 GOAL**: One shot, instant death, no suffering, no tracking, no wounded animal escaping.
 

@@ -1,4 +1,4 @@
-# Alaska Regional Survival Guide
+# Alaska Regional Survival
 
 **Region Coverage:** All of Alaska (subarctic, arctic, coastal rainforest, interior taiga)  
 **Size:** 663,300 square miles (2.5x Texas, 1/5 of entire US)  

@@ -1,4 +1,4 @@
-# How to Study: Learning New Skills Fast
+# How to Study
 
 ## Why This Matters
 **In survival scenarios, the ability to learn quickly = competitive advantage.** New threats require new solutions. The faster you can acquire and apply knowledge, the better your odds.

@@ -38,7 +38,7 @@ audit_status: verified
 offline_assets: []
 ---
 
-# Medication Storage and Stability
+# Medication Storage and
 
 ## Overview
 

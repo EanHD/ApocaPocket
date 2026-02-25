@@ -10,7 +10,7 @@ safety_level: important
 related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised, l2-hunting-large-game-shot-placement]
 ---
 
-# Large Game Field Dressing - Moose, Caribou, Deer
+# Large Game Field Dressing
 
 **⏱️ TIME CRITICAL**: Field dressing must begin within 30 minutes of kill to preserve meat quality and prevent spoilage. In warm weather (>50°F), every minute counts.
 

@@ -1,6 +1,6 @@
 ---
 id: l3-clay-identification
-title: Field Clay Identification for Ceramic and Sealing Use
+title: Field Clay ID for Ceramic
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

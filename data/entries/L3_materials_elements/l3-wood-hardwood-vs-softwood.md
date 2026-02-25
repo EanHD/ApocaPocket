@@ -1,6 +1,6 @@
 ---
 id: l3-wood-hardwood-vs-softwood
-title: Hardwood vs Softwood Fundamentals
+title: Hardwood vs Softwood
 category: L3_materials_elements
 subtopic: wood_science
 tags:

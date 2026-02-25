@@ -1,6 +1,6 @@
 ---
 id: l5-governance-principles
-title: Governance Principles for Small Communities
+title: Governance Principles for
 category: L5_civilization_memory
 subtopic: governance
 tags:

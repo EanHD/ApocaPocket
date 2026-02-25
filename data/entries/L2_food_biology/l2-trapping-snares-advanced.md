@@ -1,4 +1,4 @@
-# Advanced Snares & Trapping ⭐⭐⭐
+# Advanced Snares &
 
 **Level:** L2 (Intermediate)  
 **Category:** Trapping & Hunting  

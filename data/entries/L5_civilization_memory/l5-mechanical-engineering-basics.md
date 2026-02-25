@@ -1,6 +1,6 @@
 ---
 id: l5-mechanical-engineering-basics
-title: Mechanical Engineering Core Concepts
+title: Mechanical Engineering
 category: L5_civilization_memory
 subtopic: mechanical_engineering
 tags:

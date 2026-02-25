@@ -1,6 +1,6 @@
 ---
 id: l5-mech-gear-and-linkage
-title: 'Gears and Linkages: Power Transmission Mechanisms'
+title: Gears and Linkages
 category: L5_civilization_memory
 subtopic: mechanical_engineering
 tags:

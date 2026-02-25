@@ -1,6 +1,6 @@
 ---
 id: l5-health-sanitation-systems
-title: 'Sanitation Systems: Latrine Design and Waste Management'
+title: Sanitation Systems
 category: L5_civilization_memory
 subtopic: public_health
 tags:

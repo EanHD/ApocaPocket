@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-fermentation
-title: 'Fermentation: Alcohol and Vinegar Production'
+title: Fermentation
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l3-wood-preservation
-title: Wood Preservation and Rot Prevention
+title: Wood Preserve and Rot
 category: L3_materials_elements
 subtopic: wood_science
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Vitamin C Sources & Scurvy Prevention"
+title: Vitamin C Sources and
 category: "L2"
 subcategory: "nutrition"
 tags: ["vitamin-c", "scurvy", "deficiency", "foraging", "nutrition"]
@@ -15,7 +15,7 @@ related:
 - "l2-foraging-seasonal-strategy"
 ---
 
-# Vitamin C Sources & Scurvy Prevention
+# Vitamin C Sources and
 
 ## Overview
 Vitamin C deficiency (scurvy) can appear after prolonged low intake. Prevention is straightforward with planning.

@@ -1,6 +1,6 @@
 ---
 id: l4-tool-waterwheel
-title: Basic Waterwheel for Power
+title: Basic Waterwheel for
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-greenhouse-simple
-title: Cold Frames and Hoop Houses
+title: Cold Frames and Hoop
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:

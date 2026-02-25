@@ -1,5 +1,5 @@
 ---
-title: "Well Pump Repair & Troubleshooting"
+title: Well Pump Repair and
 category: "L3"
 subcategory: "water"
 tags: ["well", "pump", "repair", "water-systems", "maintenance"]
@@ -15,7 +15,7 @@ related:
 - "l4-community-water-governance"
 ---
 
-# Well Pump Repair & Troubleshooting
+# Well Pump Repair and
 
 ## Overview
 Reliable pumping depends on seals, valves, priming, and routine maintenance.

@@ -379,7 +379,7 @@ See attached diagram: `diagrams/first-24hr-decision-tree.svg`
 **The first 24 hours set the foundation for everything that follows. Get these priorities right, and you've bought yourself time to solve the next problems. Get them wrong, and nothing else matters.**
 ---
 
-# First 24 Hours — Priority Decision Tree
+# First 24 Hours — Priority
 
 The Rule of 3s: 3 minutes without air, 3 hours without shelter (in harsh conditions), 3 days without water, 3 weeks without food. This framework guides ALL survival decisions. Most people prioritize wrong — they look for food when they're hours from hypothermia. This entry is the master checklist.
 

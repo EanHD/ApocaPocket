@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-ohms-law
-title: Ohm's Law and Basic Circuit Diagnostics
+title: Ohm's Law and Basic
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

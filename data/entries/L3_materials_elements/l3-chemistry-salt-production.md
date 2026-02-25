@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-salt-production
-title: 'Salt Production: Evaporation and Mining'
+title: Salt Making
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

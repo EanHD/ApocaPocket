@@ -1,6 +1,6 @@
 ---
 id: l3-minerals-limestone-uses
-title: Limestone and Calcium Carbonate Applications
+title: Limestone and Calcium
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

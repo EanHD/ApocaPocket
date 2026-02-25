@@ -1,4 +1,4 @@
-# Documentation Methods: External Memory Systems
+# Documentation Methods
 
 ## Why This Matters
 **Human memory is fallible. Groups need shared records. Write it down or lose it.**

@@ -1,6 +1,6 @@
 ---
 id: l5-math-trigonometry
-title: Trigonometry for Angle and Distance Calculation
+title: Trigonometry for Angle
 category: L5_civilization_memory
 subtopic: math
 tags:

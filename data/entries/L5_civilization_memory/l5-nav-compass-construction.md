@@ -1,6 +1,6 @@
 ---
 id: l5-nav-compass-construction
-title: 'Compass Construction: Making a Magnetic Compass'
+title: Compass Build
 category: L5_civilization_memory
 subtopic: navigation
 tags:

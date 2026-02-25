@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-community-defense
-title: Community Defense & Perimeter Security
+title: Community Defense and
 category: L5_community_knowledge
 subtopic: security
 tags:

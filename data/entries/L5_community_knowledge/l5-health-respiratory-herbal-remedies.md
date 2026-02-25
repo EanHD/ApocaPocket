@@ -1,6 +1,6 @@
 ---
 id: l5-health-respiratory-herbal-remedies
-title: Respiratory Issues — Wild Herbal Remedies
+title: Respiratory Issues — Wild
 category: L5_community_knowledge
 subtopic: health
 tags:

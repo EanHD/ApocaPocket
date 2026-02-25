@@ -1,6 +1,6 @@
 ---
 id: l5-strategy-disability-injury
-title: Disability & Major Injury Contingencies
+title: Disability and Major
 category: L5_civilization_memory
 subtopic: public_health
 tags:

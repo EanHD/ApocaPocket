@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-solar-principles
-title: Solar Photovoltaic Basics and Panel Care
+title: Solar Photovoltaic Basics
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

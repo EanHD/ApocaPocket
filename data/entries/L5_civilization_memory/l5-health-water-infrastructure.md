@@ -1,6 +1,6 @@
 ---
 id: l5-health-water-infrastructure
-title: 'Water Infrastructure: Community Water System Design'
+title: Water Infrastructure
 category: L5_civilization_memory
 subtopic: public_health
 tags:

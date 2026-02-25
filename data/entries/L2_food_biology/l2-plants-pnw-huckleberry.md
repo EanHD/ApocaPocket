@@ -64,7 +64,7 @@ audit_status: verified
 - Quick energy carbohydrates
 - Anti-inflammatory compounds
 
-## Storage and Preservation
+## Storage Methods
 
 - Eat fresh same day for best nutrition
 - Dry: spread on flat rock in sun 2 days

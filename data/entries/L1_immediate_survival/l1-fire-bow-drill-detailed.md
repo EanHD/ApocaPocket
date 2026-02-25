@@ -64,7 +64,7 @@ steps:
 diagram: /assets/diagrams/L1/fire/bow-drill-technique.svg
 ---
 
-# Bow Drill Fire Starting — Complete Guide
+# Bow Drill Fire Starting —
 
 The bow drill is the most reliable primitive friction fire method. Success depends on wood selection, proper dimensions, correct technique, and prepared tinder. Most failures come from wrong wood, wet materials, or insufficient speed/pressure. Success rate exceeds 80% with practice and proper materials.
 

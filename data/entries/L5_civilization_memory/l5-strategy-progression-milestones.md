@@ -1,6 +1,6 @@
 ---
 id: l5-strategy-progression-milestones
-title: Survival → Thriving → Building — The 1/7/30/365 Day Framework
+title: Survival → Thriving →
 category: L5_civilization_memory
 subtopic: governance
 tags:

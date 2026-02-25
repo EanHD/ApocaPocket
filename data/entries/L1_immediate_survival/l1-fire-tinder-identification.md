@@ -54,7 +54,7 @@ steps:
 diagram: /assets/diagrams/L1/fire/tinder-types.svg
 ---
 
-# Natural Tinder Materials — Identification & Preparation
+# Natural Tinder Materials
 
 Tinder is the finest, most flammable material that catches spark or ember and transitions to flame. Natural tinder materials are abundant but must be bone-dry and properly prepared. Success rate: 90%+ with correct identification and preparation. Carry prepared tinder always.
 

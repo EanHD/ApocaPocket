@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-civil-unrest-survival
-title: Civil Unrest & Riot Survival — Urban Survival Tactics
+title: Civil Unrest and Riot
 category: L5_community_knowledge
 subtopic: security
 tags:

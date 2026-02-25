@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-ph-basics
-title: pH, Acids, and Bases in Field Systems
+title: pH, Acids, and Bases in
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

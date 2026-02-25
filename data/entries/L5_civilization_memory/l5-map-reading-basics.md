@@ -1,6 +1,6 @@
 ---
 id: l5-map-reading-basics
-title: Topographic Map Reading and Route Planning
+title: Topographic Map Reading
 category: L5_civilization_memory
 subtopic: navigation
 tags:

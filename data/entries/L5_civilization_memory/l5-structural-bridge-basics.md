@@ -1,6 +1,6 @@
 ---
 id: l5-structural-bridge-basics
-title: 'Bridge Basics: Beam, Arch, and Suspension Principles'
+title: Bridge Basics
 category: L5_civilization_memory
 subtopic: structural_engineering
 tags:

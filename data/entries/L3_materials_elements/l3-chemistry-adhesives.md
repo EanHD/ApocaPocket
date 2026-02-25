@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-adhesives
-title: 'Natural Adhesives: Glues and Resins'
+title: Natural Adhesives
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

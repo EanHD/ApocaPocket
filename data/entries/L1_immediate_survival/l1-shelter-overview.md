@@ -37,7 +37,7 @@ In cold or wet weather it becomes priority 1 — you
 can die of exposure in under 3 hours.
 Match shelter type to your situation and materials.
 
-## Time vs Warmth Tradeoff
+## Time vs Warmth
 
 **15-30 min — Emergency warmth:**
 Debris pile, hollow log, leaf pile.
@@ -89,7 +89,7 @@ Without floor insulation, any shelter fails
 in cold weather — you will lose heat faster
 than your body can produce it.
 
-## Site Selection Priorities
+## Site Selection
 
 1. Drainage — never build in a low spot
 2. Wind protection — behind a hill or trees

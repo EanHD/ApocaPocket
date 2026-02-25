@@ -1,6 +1,6 @@
 ---
 id: l5-nav-star-identification
-title: 15 Navigation Stars — Identification and Use
+title: 15 Navigation Stars — ID
 category: L5_civilization_memory
 subtopic: navigation
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-beekeeping-basics
-title: Beekeeping — Top-Bar Hive Construction and Management
+title: Beekeeping — Top-Bar Hive
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:

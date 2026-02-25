@@ -1,6 +1,6 @@
 ---
 id: l5-metallurgy-welding-basics
-title: Forge Welding Fundamentals
+title: Forge Welding Basics
 category: L5_civilization_memory
 subtopic: metallurgy
 tags:

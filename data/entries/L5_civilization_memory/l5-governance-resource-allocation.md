@@ -1,6 +1,6 @@
 ---
 id: l5-governance-resource-allocation
-title: 'Resource Allocation: Fair Distribution Systems'
+title: Resource Allocation
 category: L5_civilization_memory
 subtopic: governance
 tags:

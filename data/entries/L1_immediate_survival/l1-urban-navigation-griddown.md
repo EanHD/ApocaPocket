@@ -15,7 +15,7 @@ sources:
 - "National Geographic Urban Wayfinding Research"
 ---
 
-# Urban Navigation Grid-Down - No GPS Wayfinding
+# Urban Navigation
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 id: l3-minerals-salt-extraction
-title: Salt Extraction from Deposits and Seawater
+title: Salt Extraction from
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

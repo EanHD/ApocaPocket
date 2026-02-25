@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-aquaculture-basics
-title: Aquaculture Basics — Fish Ponds for Food Production
+title: Aquaculture Basics — Fish
 category: L4_agriculture_labor
 subtopic: agriculture
 tags:

@@ -1,4 +1,4 @@
-# Literacy Circles: Reading, Writing, Learning Together
+# Literacy Circles
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1-L2 (Basic to Intermediate)  

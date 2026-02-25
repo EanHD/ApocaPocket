@@ -1,4 +1,4 @@
-# Rituals & Celebrations: Marking Time, Creating Meaning
+# Rituals & Celebrations
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1 (Basic - universal human practice)  

@@ -1,6 +1,6 @@
 ---
 id: l3-tech-antenna-construction
-title: "Antenna Construction: DIY Emergency Radio Antennas"
+title: Antenna Build
 layer: L3_materials_technology
 category: communications
 tags:

@@ -1,4 +1,4 @@
-# Knowledge Retention: Keeping What You Learn
+# Knowledge Retention
 
 ## Why This Matters
 **Knowledge without retention = wasted effort.** In survival scenarios, you can't Google things. What's in your head (and accessible) is what you have. Master retention = never lose hard-won knowledge.

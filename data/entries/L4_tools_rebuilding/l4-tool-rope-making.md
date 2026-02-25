@@ -1,6 +1,6 @@
 ---
 id: l4-tool-rope-making
-title: Rope and Cordage from Plant Fibers
+title: Rope and Cordage from
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

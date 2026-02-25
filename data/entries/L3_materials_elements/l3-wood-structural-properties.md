@@ -1,6 +1,6 @@
 ---
 id: l3-wood-structural-properties
-title: Structural Properties of Wood
+title: Structural Properties of
 category: L3_materials_elements
 subtopic: wood_science
 tags:

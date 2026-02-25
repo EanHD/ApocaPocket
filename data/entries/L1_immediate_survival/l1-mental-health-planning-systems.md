@@ -1,4 +1,4 @@
-# Planning Systems: Survive Today, Build Tomorrow
+# Planning Systems
 
 ## Why This Matters
 **Reactive = survive. Proactive = thrive.**

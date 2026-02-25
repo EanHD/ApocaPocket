@@ -1,4 +1,4 @@
-# Hearing Impairments: Survival Adaptations
+# Hearing Impairments
 
 ## Overview
 

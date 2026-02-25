@@ -15,7 +15,7 @@ sources:
 - "National Poison Control Center Protocols"
 ---
 
-# Childproofing and Poisoning Prevention
+# Childproofing and
 
 ## Overview
 

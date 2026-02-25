@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-charcoal-activated
-title: Activated Charcoal for Filtration
+title: Activated Charcoal for
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

@@ -1,4 +1,4 @@
-# General Fabrication: Making Custom Tools and Solutions
+# General Fabrication
 
 ## Why This Matters
 **Store-bought tools break. Supply chains fail. Knowledge of fabrication = infinite tools.**

@@ -1,4 +1,4 @@
-# Music & Instrument Making: Sound as Survival
+# Music & Instrument Making
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1-L2 (Basic to Intermediate)  

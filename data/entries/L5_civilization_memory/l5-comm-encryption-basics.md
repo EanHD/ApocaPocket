@@ -1,6 +1,6 @@
 ---
 id: l5-comm-encryption-basics
-title: 'Encryption Basics: Simple Ciphers for Secure Messaging'
+title: Encryption Basics
 category: L5_civilization_memory
 subtopic: communication
 tags:

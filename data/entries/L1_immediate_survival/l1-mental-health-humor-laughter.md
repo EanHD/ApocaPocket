@@ -1,4 +1,4 @@
-# Humor & Laughter: The Survival Reflex
+# Humor & Laughter
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1 (Basic - innate human capacity)  

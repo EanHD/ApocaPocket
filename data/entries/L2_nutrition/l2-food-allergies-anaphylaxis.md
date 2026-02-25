@@ -1,5 +1,5 @@
 ---
-title: "Food Allergies & Anaphylaxis Management"
+title: Food Allergies and
 category: "L2"
 subcategory: "nutrition"
 tags: ["allergies", "anaphylaxis", "epi-pen", "food-safety", "cross-contamination", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l2-food-preservation-general"
 ---
 
-# Food Allergies & Anaphylaxis Management
+# Food Allergies and
 
 ## Overview
 

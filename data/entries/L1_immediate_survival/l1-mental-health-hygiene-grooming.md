@@ -1,4 +1,4 @@
-# Hygiene & Grooming: Self-Care as Survival
+# Hygiene & Grooming
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1 (Basic - everyone can and must)  

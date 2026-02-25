@@ -1,6 +1,6 @@
 ---
 id: l5-mech-fluid-mechanics-basics
-title: 'Fluid Mechanics: Pipe Flow, Hydraulics, and Pumps'
+title: Fluid Mechanics
 category: L5_civilization_memory
 subtopic: mechanical_engineering
 tags:

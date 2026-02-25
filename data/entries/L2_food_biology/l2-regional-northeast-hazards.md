@@ -1,4 +1,4 @@
-# Northeast US Regional Hazards
+# Northeast US Regional
 
 **Life-Threatening Hazards Unique to Northeast United States**  
 **Region:** ME, NH, VT, MA, RI, CT, NY, PA, NJ, MD, DE, WV  

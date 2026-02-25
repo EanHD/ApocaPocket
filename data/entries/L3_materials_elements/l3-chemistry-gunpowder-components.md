@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-gunpowder-components
-title: 'Gunpowder Components: Identification and Chemistry'
+title: Gunpowder Components
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

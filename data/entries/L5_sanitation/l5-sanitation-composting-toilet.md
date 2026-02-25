@@ -1,5 +1,5 @@
 ---
-title: "Composting Toilet Construction & Use"
+title: Composting Toilet Build
 category: "L5"
 subcategory: "sanitation"
 tags: ["sanitation", "toilet", "composting", "waste", "hygiene", "disease-prevention"]

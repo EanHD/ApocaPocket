@@ -10,7 +10,7 @@ safety_level: important
 related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-procurement]
 ---
 
-# Advanced Trapping - Humane & Effective Techniques
+# Advanced Trapping -
 
 **🎯 GOAL**: Passive hunting. Set traps, check daily, harvest small-to-medium game with minimal active hunting effort.
 

@@ -16,7 +16,7 @@ sources:
 - "U.S. Coast Guard Life Jacket Safety Standards"
 ---
 
-# Child Water Safety - Drowning Prevention and Rescue
+# Child Water Safety -
 
 ## Overview
 

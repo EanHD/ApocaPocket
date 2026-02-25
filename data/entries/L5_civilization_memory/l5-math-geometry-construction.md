@@ -1,6 +1,6 @@
 ---
 id: l5-math-geometry-construction
-title: Practical Geometry with Compass and Straightedge
+title: Practical Geometry with
 category: L5_civilization_memory
 subtopic: math
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-garden-planning
-title: Vegetable Garden Planning — Layout, Crop Selection, Rotation
+title: Vegetable Garden Planning
 category: L4_agriculture_labor
 subtopic: agriculture
 tags:

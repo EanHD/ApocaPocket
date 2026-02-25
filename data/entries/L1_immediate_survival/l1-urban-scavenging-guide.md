@@ -15,7 +15,7 @@ sources:
 - "NFPA Building Safety Assessment Standards"
 ---
 
-# Urban Scavenging Guide - Safe Salvage Operations
+# Urban Scavenging Guide -
 
 ## Overview
 

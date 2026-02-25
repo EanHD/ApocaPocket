@@ -69,7 +69,7 @@ steps:
 - Scout new areas while terrain is visible
 - Make tools while hands are not numb
 
-## Summer Tasks — Work Season
+## Summer Tasks — Work
 - Every sunny day idle is a mistake
 - Preserve food: dry berries, smoke fish,
   make jerky — for winter stores

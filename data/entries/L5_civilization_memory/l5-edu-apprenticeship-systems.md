@@ -1,6 +1,6 @@
 ---
 id: l5-edu-apprenticeship-systems
-title: 'Apprenticeship Systems: Skill Transfer Frameworks'
+title: Apprenticeship Systems
 category: L5_civilization_memory
 subtopic: education
 tags:

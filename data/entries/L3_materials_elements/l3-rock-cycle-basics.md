@@ -1,6 +1,6 @@
 ---
 id: l3-rock-cycle-basics
-title: Igneous, Sedimentary, Metamorphic Rock Basics
+title: Igneous, Sedimentary,
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l5-health-herbal-medicine-reference
-title: Evidence-Based Herbal Medicine — 15 Key Plants
+title: Evidence-Based Herbal
 category: L5_civilization_memory
 subtopic: public_health
 tags:

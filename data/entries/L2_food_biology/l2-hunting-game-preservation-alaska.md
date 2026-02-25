@@ -10,7 +10,7 @@ safety_level: life-saving
 related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised, l1-food-safety-basics]
 ---
 
-# Game Preservation in Alaska Wilderness
+# Game Preserve in Alaska
 
 **🚨 CRITICAL WARNING**: You can starve surrounded by meat if you don't preserve it properly. In Alaska's summer, a 600 lb moose spoils in 48 hours. This killed Chris McCandless.
 

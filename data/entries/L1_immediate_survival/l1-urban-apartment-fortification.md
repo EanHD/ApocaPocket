@@ -14,7 +14,7 @@ sources:
 - "Department of Homeland Security - Shelter in Place"
 ---
 
-# Apartment Fortification - Security Zones
+# Apartment Fortification -
 
 ## Overview
 

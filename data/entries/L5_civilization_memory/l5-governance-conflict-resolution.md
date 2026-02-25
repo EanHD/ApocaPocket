@@ -1,6 +1,6 @@
 ---
 id: l5-governance-conflict-resolution
-title: 'Conflict Resolution: Mediation and De-escalation'
+title: Conflict Resolution
 category: L5_civilization_memory
 subtopic: governance
 tags:

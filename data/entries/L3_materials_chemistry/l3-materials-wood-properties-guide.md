@@ -1,6 +1,6 @@
 ---
 id: l3-materials-wood-properties-guide
-title: Wood Properties — Selecting Wood by Use Case
+title: Wood Properties —
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -45,6 +45,6 @@ steps:
   oak smells tannic. WEIGHT: Hardwoods are heavier than softwoods of same size.'
 ---
 
-# Wood Properties — Selecting Wood by Use Case
+# Wood Properties —
 
 Different wood species have different properties (hardness, flexibility, rot resistance, workability). Selecting the right wood for each application improves durability and reduces labor. Field guide to common wood types and their best uses.

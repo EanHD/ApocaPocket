@@ -15,7 +15,7 @@ related:
 - "l1-water-storage-safety"
 ---
 
-# Ice & Snow Melting for Water
+# Ice and Snow Melting for
 
 ## Overview
 Do **not** eat snow directly. Melt and treat water efficiently to avoid hypothermia and fuel waste.

@@ -1,4 +1,4 @@
-# Cognitive Disabilities: Survival Adaptations
+# Cognitive Disabilities
 
 ## Overview
 

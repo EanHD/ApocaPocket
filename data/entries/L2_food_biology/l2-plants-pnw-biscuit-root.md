@@ -45,7 +45,7 @@ audit_status: verified
 - Spring flowering: March-May
 - Often on south-facing rocky outcrops
 
-## DANGER: Carrot Family ID
+## Carrot Family Danger
 
 - Poison hemlock: purple-blotched stem
 - Water hemlock: in wet areas, chambered root

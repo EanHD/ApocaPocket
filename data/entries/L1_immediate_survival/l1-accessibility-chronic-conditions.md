@@ -1,4 +1,4 @@
-# Chronic Conditions: Survival Management
+# Chronic Conditions
 
 ## Overview
 

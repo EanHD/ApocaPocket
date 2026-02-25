@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-ethanol-distillation
-title: Ethanol Distillation — Fuel and Antiseptic
+title: Ethanol Distillation —
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:
@@ -51,6 +51,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Ethanol Distillation — Fuel and Antiseptic
+# Ethanol Distillation —
 
 Ethanol distillation concentrates fermented sugars into high-proof alcohol for use as wound antiseptic (60-90% concentration), fuel, solvent, and preservative. A simple pot still can be built from scavenged materials.

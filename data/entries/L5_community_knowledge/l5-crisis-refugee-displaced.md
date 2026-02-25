@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-refugee-displaced
-title: Refugee & Displaced Person Survival — Border Crossing, Hiding, Evading
+title: Refugee and Displaced
 category: L5_community_knowledge
 subtopic: security
 tags:

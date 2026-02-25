@@ -16,7 +16,7 @@ Work through in order:
 3. Shock → recognize and treat
 4. Then find the specific entry
 
-## Life-Threatening Bleeding
+## Life-Threatening
 - Wound Packing — deep cavity wounds
 - Tourniquet: 2-3 inches above wound
   (commercial or improvised)
@@ -43,13 +43,13 @@ Work through in order:
 - Gunshot — Gunshot Wound Care
 - Chest — Chest Seal Technique
 
-## Environmental Emergencies
+## Environ Emergencies
 - Too cold: Hypothermia Treatment
 - Hot + confusion: Heat Stroke Response
 - Cold water: Cold Water Immersion
 - High altitude: Altitude Sickness
 
-## Envenomation / Poisoning
+## Envenomation /
 - Snake: Snakebite Treatment
 - Spider/scorpion: Spider and Scorpion
 - Toxic plants: Poisonous Plants ID

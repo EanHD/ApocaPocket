@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-cement-basics
-title: Lime Cement and Basic Concrete
+title: Lime Cement and Basic
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:
@@ -50,6 +50,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Lime Cement and Basic Concrete
+# Lime Cement and Basic
 
 Lime cement (hydraulic lime) was used for millennia before Portland cement. Made by burning limestone, slaking with water, mixing with sand and optional pozzolans (volcanic ash, brick dust, or wood ash). Creates durable mortar and concrete for structures, cisterns, and foundations.

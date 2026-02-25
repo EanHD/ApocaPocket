@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-biodiesel-basics
-title: Biodiesel from Vegetable Oil
+title: Biodiesel from Vegetable
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:
@@ -36,6 +36,6 @@ steps:
 - Use in any diesel engine without modification (B100) or blend with petroleum diesel
 ---
 
-# Biodiesel from Vegetable Oil
+# Biodiesel from Vegetable
 
 Transesterification converts vegetable oil into biodiesel that runs in diesel engines. Requires methanol, lye, and a settling period. 10 gallons of oil yields ~9 gallons of biodiesel plus glycerin byproduct.

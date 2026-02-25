@@ -1,6 +1,6 @@
 ---
 id: l5-metallurgy-copper-working
-title: 'Copper Working: Native Copper and Simple Smelting'
+title: Copper Working
 category: L5_civilization_memory
 subtopic: metallurgy
 tags:

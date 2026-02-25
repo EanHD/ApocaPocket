@@ -1,6 +1,6 @@
 ---
 id: l5-math-foundations
-title: Mathematics Foundations for Engineering
+title: Mathematics Foundations
 category: L5_civilization_memory
 subtopic: math
 tags:

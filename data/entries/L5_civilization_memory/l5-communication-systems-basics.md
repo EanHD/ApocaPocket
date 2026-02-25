@@ -1,6 +1,6 @@
 ---
 id: l5-communication-systems-basics
-title: Communication Systems Basics
+title: Comms Systems Basics
 category: L5_civilization_memory
 subtopic: communication
 tags:

@@ -16,7 +16,7 @@ sources:
 - "Crowd Dynamics Research - G. Keith Still, PhD"
 ---
 
-# Crowd Dynamics and Crush Prevention
+# Crowd Dynamics and Crush
 
 ## Overview
 

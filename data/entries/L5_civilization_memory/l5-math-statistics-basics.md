@@ -1,6 +1,6 @@
 ---
 id: l5-math-statistics-basics
-title: Basic Statistics for Decision-Making
+title: Basic Statistics for
 category: L5_civilization_memory
 subtopic: math
 tags:

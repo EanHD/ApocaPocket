@@ -1,5 +1,5 @@
 ---
-title: "Off-Grid Power Troubleshooting"
+title: Off-Grid Power Fixes
 layer: L3_materials_technology
 category: energy/power
 tags: [troubleshooting, diagnostics, electrical, solar, off-grid, repair]
@@ -9,7 +9,7 @@ prerequisites: ["l3-tech-solar-panel-basics", "l3-tech-battery-bank", "l3-tech-c
 related: ["l3-tech-battery-maintenance", "l3-tech-solar-wiring"]
 ---
 
-# Off-Grid Power Troubleshooting
+# Off-Grid Power Fixes
 
 ## Overview
 

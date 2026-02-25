@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-mushroom-cultivation
-title: 'Mushroom Cultivation: Log and Substrate'
+title: Mushroom Cultivation
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:

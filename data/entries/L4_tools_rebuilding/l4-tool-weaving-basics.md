@@ -1,6 +1,6 @@
 ---
 id: l4-tool-weaving-basics
-title: Basic Weaving and Basketry
+title: Basic Weaving and
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

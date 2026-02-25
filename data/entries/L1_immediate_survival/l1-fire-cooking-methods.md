@@ -70,7 +70,7 @@ steps:
 - Small fish: 15-20 minutes
 - Clay-baked fish: crack clay off with skin
 
-## Hot Rock Boiling (No Pot)
+## Hot Rock Boiling (No
 - Line a pit with bark or tightly woven
   basket sealed with pine pitch
 - Heat rocks in fire 20-30 minutes

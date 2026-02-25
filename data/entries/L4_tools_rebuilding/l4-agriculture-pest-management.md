@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-pest-management
-title: Integrated Pest Management Basics
+title: Integrated Pest Mgmt
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:

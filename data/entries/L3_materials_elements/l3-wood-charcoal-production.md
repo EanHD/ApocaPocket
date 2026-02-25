@@ -1,6 +1,6 @@
 ---
 id: l3-wood-charcoal-production
-title: Charcoal Production Methods
+title: Charcoal Making Methods
 category: L3_materials_elements
 subtopic: wood_science
 tags:

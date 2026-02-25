@@ -1,6 +1,6 @@
 ---
 id: l5-comm-signal-methods
-title: 'Signal Methods: Visual and Audio Signaling'
+title: Signal Methods
 category: L5_civilization_memory
 subtopic: communication
 tags:

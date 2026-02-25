@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-simple-generators
-title: Hand-Crank and Bicycle Generators
+title: Hand-Crank and Bicycle
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

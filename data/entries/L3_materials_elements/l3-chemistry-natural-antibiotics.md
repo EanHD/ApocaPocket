@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-natural-antibiotics
-title: Evidence-Based Natural Antimicrobials
+title: Evidence-Based Natural
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:
@@ -35,6 +35,6 @@ steps:
 - These are adjuncts — always combine with proper wound care, drainage, and clean dressing changes
 ---
 
-# Evidence-Based Natural Antimicrobials
+# Evidence-Based Natural
 
 Natural compounds with documented antimicrobial activity. NOT substitutes for antibiotics when available, but useful when pharmaceutical antibiotics are unavailable.

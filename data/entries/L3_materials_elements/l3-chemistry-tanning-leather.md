@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-tanning-leather
-title: 'Leather Tanning: Hide Preservation'
+title: Leather Tanning
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l5-structural-load-paths
-title: Structural Engineering Load Paths
+title: Structural Engineering
 category: L5_civilization_memory
 subtopic: structural_engineering
 tags:

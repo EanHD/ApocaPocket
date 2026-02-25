@@ -1,6 +1,6 @@
 ---
 id: l4-tool-bow-and-drill
-title: Bow Drill and Rotary Tools
+title: Bow Drill and Rotary
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

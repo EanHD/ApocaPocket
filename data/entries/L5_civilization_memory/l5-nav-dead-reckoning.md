@@ -1,6 +1,6 @@
 ---
 id: l5-nav-dead-reckoning
-title: 'Dead Reckoning: Pace Counting and Direction Tracking'
+title: Dead Reckoning
 category: L5_civilization_memory
 subtopic: navigation
 tags:

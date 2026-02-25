@@ -1,6 +1,6 @@
 ---
 id: l4-tool-blade-sharpening
-title: Blade Sharpening and Edge Geometry
+title: Blade Sharpening and Edge
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

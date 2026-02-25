@@ -1,6 +1,6 @@
 ---
 id: l5-metallurgy-tempering-hardening
-title: 'Heat Treatment: Tempering and Hardening for Tools'
+title: Heat Treatment
 category: L5_civilization_memory
 subtopic: metallurgy
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l3-materials-natural-fibers
-title: Natural Fibers — Plant Fibers for Cordage & Textiles
+title: Natural Fibers — Plant
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -43,6 +43,6 @@ steps:
   into mesh (fishing nets, carrying nets). (6) CLOTH: Weaving (requires loom - advanced). Flax and hemp make linen fabric.'
 ---
 
-# Natural Fibers — Plant Fibers for Cordage & Textiles
+# Natural Fibers — Plant
 
 Many plants produce strong fibers suitable for cordage (rope, string), textiles (cloth, baskets), and other uses. Best fibers: flax, hemp, nettle, yucca, cattail, milkweed, dogbane, inner bark of trees. Processing: harvest, ret (rot away non-fiber material), dry, twist into cordage.

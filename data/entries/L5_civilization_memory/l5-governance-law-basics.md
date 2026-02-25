@@ -1,6 +1,6 @@
 ---
 id: l5-governance-law-basics
-title: 'Law Basics: Establishing Rules and Enforcement'
+title: Law Basics
 category: L5_civilization_memory
 subtopic: governance
 tags:

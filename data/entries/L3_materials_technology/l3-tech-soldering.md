@@ -1,5 +1,5 @@
 ---
-title: "Electronics Basics - Soldering"
+title: Electronics Basics -
 layer: L3_materials_technology
 category: electronics
 tags: [soldering, electronics, repair, through-hole, SMD, desoldering, flux]
@@ -8,7 +8,7 @@ time_to_read: 20 minutes
 practical_time: 1-2 hours (practice required)
 ---
 
-# Electronics Basics - Soldering
+# Electronics Basics -
 
 ## Overview
 

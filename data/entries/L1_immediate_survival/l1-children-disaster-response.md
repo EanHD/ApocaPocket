@@ -16,7 +16,7 @@ sources:
 - "CDC Children and Disasters Guidelines"
 ---
 
-# Children in Disasters - Psychological Response and Support
+# Children in Disasters -
 
 ## Overview
 

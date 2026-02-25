@@ -1,6 +1,6 @@
 ---
 id: l5-nav-time-keeping
-title: 'Time Keeping: Sundials and Simple Clocks'
+title: Time Keeping
 category: L5_civilization_memory
 subtopic: navigation
 tags:

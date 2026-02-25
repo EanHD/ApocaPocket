@@ -1,6 +1,6 @@
 ---
 id: l4-tool-wood-joinery
-title: Wood Joinery for Low-Tech Construction
+title: Wood Joinery for Low-Tech
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

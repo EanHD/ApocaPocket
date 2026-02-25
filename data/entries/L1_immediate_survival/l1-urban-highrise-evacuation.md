@@ -15,7 +15,7 @@ sources:
 - "Council on Tall Buildings and Urban Habitat - Emergency Protocols"
 ---
 
-# High-Rise Evacuation - Multi-Story Escape
+# High-Rise Evacuation -
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Midwest US Regional Hazards
+# Midwest US Regional
 
 **Life-Threatening Hazards Unique to Midwest United States**  
 **Region:** ND, SD, NE, KS, MN, IA, MO, WI, IL, IN, OH, MI  

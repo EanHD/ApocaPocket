@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-lye-from-ash
-title: Making Lye from Hardwood Ash
+title: Making Lye from Hardwood
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:
@@ -50,6 +50,6 @@ audit_status: verified
 last_verified: '2026-02-19'
 ---
 
-# Making Lye from Hardwood Ash
+# Making Lye from Hardwood
 
 Potassium hydroxide (lye) from wood ash is essential for soap making, food processing (nixtamalization), and leather tanning. Hardwood ash produces the strongest lye. A simple leaching setup produces usable lye in 24-48 hours.

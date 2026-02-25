@@ -246,7 +246,7 @@ if __name__ == "__main__":
 
     total = build_index(entries_dir, output_dir)
 
-        print(f"\n✅ Done — {total} entries indexed")
+    print(f"\n✅ Done — {total} entries indexed")
     print("\nNext steps:")
     print("  1. Drag the repo's data/ folder to your SD card root")
     print("  2. SD card should have: data/entries/, data/diagrams/, data/index/")

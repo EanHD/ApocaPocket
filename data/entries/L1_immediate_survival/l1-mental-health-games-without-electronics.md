@@ -1,4 +1,4 @@
-# Games Without Electronics: Psychological Survival Through Play
+# Games Without Electronics
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1 (Basic)  

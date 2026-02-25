@@ -56,7 +56,7 @@ steps:
   Arctic = prioritize insulation, fire tools, fur processing. Adapt the matrix to your environment.'
 ---
 
-# Resource Assessment Matrix — What Can I Make?
+# Resource Assessment
 
 You have rocks, sticks, and plant material. What can you actually build? This matrix maps available resources to achievable projects, prioritized by survival value. Prevents wasting time on low-value or impossible projects.
 

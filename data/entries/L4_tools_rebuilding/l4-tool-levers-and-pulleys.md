@@ -1,6 +1,6 @@
 ---
 id: l4-tool-levers-and-pulleys
-title: Levers, Pulleys, and Mechanical Advantage
+title: Levers, Pulleys, and
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

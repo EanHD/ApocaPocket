@@ -1,6 +1,6 @@
 ---
 id: l5-mech-thermodynamics-basics
-title: 'Thermodynamics Basics: Heat Engines and Energy Conversion'
+title: Thermodynamics Basics
 category: L5_civilization_memory
 subtopic: mechanical_engineering
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l5-health-pain-herbal-remedies
-title: Pain Management — Wild Herbal Remedies
+title: Pain Mgmt — Wild Herbal
 category: L5_community_knowledge
 subtopic: health
 tags:

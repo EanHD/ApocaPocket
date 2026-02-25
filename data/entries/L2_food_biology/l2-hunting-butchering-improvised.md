@@ -10,7 +10,7 @@ safety_level: important
 related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-alaska, l1-hunting-basics]
 ---
 
-# Improvised Butchering - Primitive Processing Without Modern Tools
+# Improvised Butchering -
 
 **🪨 REALITY CHECK**: Your ancestors processed entire mammoths with stone, bone, and patience. You can butcher a deer with a sharp rock if you know how.
 

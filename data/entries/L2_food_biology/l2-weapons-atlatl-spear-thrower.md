@@ -1,4 +1,4 @@
-# Atlatl (Spear Thrower) ⭐⭐⭐
+# Atlatl (Spear Thrower)
 
 **Level:** L2 (Intermediate)  
 **Category:** Weapons & Hunting  

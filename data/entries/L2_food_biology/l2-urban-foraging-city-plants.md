@@ -14,7 +14,7 @@ sources:
 - "Edible Wild Plants of North America (Peterson Field Guide)"
 ---
 
-# Urban Foraging - City Plants and Trees
+# Urban Foraging - City
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-battery-chemistry
-title: Battery Chemistry and Lifecycle Basics
+title: Battery Chemistry and
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

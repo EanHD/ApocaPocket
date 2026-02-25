@@ -1,4 +1,4 @@
-# Bark Containers & Baskets ⭐⭐⭐
+# Bark Containers & Baskets
 
 **Level:** L3 (Advanced)  
 **Category:** Tools & Manufacturing  

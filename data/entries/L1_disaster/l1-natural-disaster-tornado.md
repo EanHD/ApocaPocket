@@ -15,7 +15,7 @@ related:
 - "l1-medical-trauma-basics"
 ---
 
-# Tornado Survival Protocols
+# Tornado Survival
 
 ## Overview
 Tornadoes can destroy structures in seconds. Survival depends on **immediate shelter positioning**.

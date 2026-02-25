@@ -1,6 +1,6 @@
 ---
 id: l3-minerals-hardness-and-streak
-title: 'Mineral ID: Hardness, Streak, Cleavage'
+title: Mineral ID
 category: L3_materials_elements
 subtopic: rock_mineral_id
 tags:

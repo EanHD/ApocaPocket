@@ -1,6 +1,6 @@
 ---
 id: l5-governance-record-keeping
-title: 'Record Keeping: Documentation and Archives'
+title: Record Keeping
 category: L5_civilization_memory
 subtopic: governance
 tags:

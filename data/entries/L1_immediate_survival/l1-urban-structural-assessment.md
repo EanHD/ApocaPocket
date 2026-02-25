@@ -15,7 +15,7 @@ sources:
 - "ASCE Structural Damage Assessment Standards"
 ---
 
-# Building Structural Assessment - Damage Recognition
+# Building Structural
 
 ## Overview
 

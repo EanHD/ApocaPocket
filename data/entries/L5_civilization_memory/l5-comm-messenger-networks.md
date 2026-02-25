@@ -1,6 +1,6 @@
 ---
 id: l5-comm-messenger-networks
-title: 'Messenger Networks: Relay and Courier Systems'
+title: Messenger Networks
 category: L5_civilization_memory
 subtopic: communication
 tags:

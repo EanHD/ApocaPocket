@@ -1,6 +1,6 @@
 ---
 id: l3-chemistry-lime-production
-title: Quicklime and Slaked Lime from Limestone
+title: Quicklime and Slaked Lime
 category: L3_materials_elements
 subtopic: basic_chemistry
 tags:

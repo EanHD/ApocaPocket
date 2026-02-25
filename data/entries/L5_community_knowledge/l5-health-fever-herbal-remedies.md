@@ -1,6 +1,6 @@
 ---
 id: l5-health-fever-herbal-remedies
-title: Fever Management — Herbal Antipyretics
+title: Fever Mgmt — Herbal
 category: L5_community_knowledge
 subtopic: health
 tags:

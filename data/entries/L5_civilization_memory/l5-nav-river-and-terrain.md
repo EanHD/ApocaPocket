@@ -1,6 +1,6 @@
 ---
 id: l5-nav-river-and-terrain
-title: 'River and Terrain Navigation: Using Water Features for Orientation'
+title: River and Terrain
 category: L5_civilization_memory
 subtopic: navigation
 tags:

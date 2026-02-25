@@ -1,4 +1,4 @@
-# Fermentation & Brewing: Morale, Nutrition, Community
+# Fermentation & Brewing
 
 **Category:** Mental Health & Quality of Life  
 **Skill Level:** L1-L2 (Basic to Intermediate)  

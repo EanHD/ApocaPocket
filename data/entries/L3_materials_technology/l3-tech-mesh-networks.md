@@ -1,6 +1,6 @@
 ---
 id: l3-tech-mesh-networks
-title: "Mesh Networks: Decentralized Local Communications"
+title: Mesh Networks
 layer: L3_materials_technology
 category: communications
 tags:

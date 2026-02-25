@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-solar-charging
-title: Solar Panel Systems for Off-Grid Power
+title: Solar Panel Systems for
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

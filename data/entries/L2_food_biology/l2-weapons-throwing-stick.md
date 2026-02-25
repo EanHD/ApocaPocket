@@ -1,4 +1,4 @@
-# Throwing Stick (Rabbit Stick, Kylie) ⭐⭐⭐
+# Throwing Stick (Rabbit
 
 **Level:** L2 (Intermediate)  
 **Category:** Weapons & Hunting  

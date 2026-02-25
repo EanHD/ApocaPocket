@@ -1,6 +1,6 @@
 ---
 id: l3-tech-emergency-comms
-title: "Emergency Communications Protocols: Operating Procedures"
+title: Emergency Commss
 layer: L3_materials_technology
 category: communications
 tags:

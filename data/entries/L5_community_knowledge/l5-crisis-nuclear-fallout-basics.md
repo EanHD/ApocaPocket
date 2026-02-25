@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-nuclear-fallout-basics
-title: Nuclear Fallout Survival — Shelter, Decontamination, Radiation Sickness
+title: Nuclear Fallout Survival
 category: L5_community_knowledge
 subtopic: safety
 tags:

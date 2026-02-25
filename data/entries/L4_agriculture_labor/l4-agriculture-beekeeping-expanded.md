@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-beekeeping-expanded
-title: Beekeeping Expanded — Hive Management, Honey Harvest, Swarm Capture
+title: Beekeeping Expanded —
 category: L4_agriculture_labor
 subtopic: agriculture
 tags:

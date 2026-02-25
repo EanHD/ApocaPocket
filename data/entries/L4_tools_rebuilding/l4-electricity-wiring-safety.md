@@ -1,6 +1,6 @@
 ---
 id: l4-electricity-wiring-safety
-title: Basic Electrical Wiring and Grounding
+title: Basic Electrical Wiring
 category: L4_tools_rebuilding
 subtopic: electricity_basics
 tags:

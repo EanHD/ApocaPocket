@@ -50,7 +50,7 @@ steps:
 - 'REGIONAL DISTRIBUTION: DEADLY NIGHTSHADE (Atropa belladonna): Native to Europe, North Africa, Western Asia. Naturalized in parts of North America (northeastern US, Pacific Northwest). Rare but present. BLACK NIGHTSHADE (Solanum nigrum complex): Worldwide distribution, very common weed in temperate and tropical regions. BITTERSWEET NIGHTSHADE (Solanum dulcamara): Europe, naturalized throughout North America. Common in moist areas.'
 ---
 
-# Deadly Nightshade (Belladonna) — Highly Toxic Identification
+# Deadly Nightshade
 
 Deadly nightshade (Atropa belladonna) is one of the most poisonous plants in Europe and parts of North America. Contains tropane alkaloids (atropine, scopolamine) that cause severe nervous system effects. The attractive black berries are especially dangerous to children. Related nightshade species (black nightshade, bittersweet nightshade) have varying toxicity levels.
 

@@ -1,6 +1,6 @@
 ---
 id: l5-comm-writing-systems
-title: 'Writing Systems: Preserving Written Language'
+title: Writing Systems
 category: L5_civilization_memory
 subtopic: communication
 tags:

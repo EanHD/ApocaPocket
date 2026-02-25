@@ -1,6 +1,6 @@
 ---
 id: l5-crisis-pandemic-response
-title: Pandemic Response — Isolation, Infection Control, Community Health
+title: Pandemic Response —
 category: L5_community_knowledge
 subtopic: health
 tags:

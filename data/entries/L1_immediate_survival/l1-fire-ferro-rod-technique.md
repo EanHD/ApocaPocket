@@ -52,7 +52,7 @@ steps:
 diagram: /assets/diagrams/L1/fire/ferro-rod-technique.svg
 ---
 
-# Ferro Rod and Tinder Preparation
+# Ferro Rod and Tinder Prep
 
 A ferrocerium rod (ferro rod) is the most reliable fire starter for field use — works when wet, at altitude, in wind, and produces 3000°C sparks. Success depends entirely on tinder preparation. The rod lasts thousands of strikes.
 

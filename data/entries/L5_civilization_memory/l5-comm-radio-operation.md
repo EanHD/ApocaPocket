@@ -1,6 +1,6 @@
 ---
 id: l5-comm-radio-operation
-title: 'Radio Operation: Basic Protocols and Frequencies'
+title: Radio Operation
 category: L5_civilization_memory
 subtopic: communication
 tags:

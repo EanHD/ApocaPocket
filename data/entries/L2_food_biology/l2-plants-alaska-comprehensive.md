@@ -10,7 +10,7 @@ safety_level: important
 related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging-basics]
 ---
 
-# Alaska Edible Plants - Comprehensive Field Guide
+# Alaska Edible Plants -
 
 **🌲 ALASKA FORAGING REALITY**: Short growing season (May-September), but abundant wild edibles. Focus on berries (high calories), greens (vitamins), and roots (carbs).
 

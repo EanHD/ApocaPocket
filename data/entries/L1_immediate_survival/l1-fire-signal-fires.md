@@ -55,7 +55,7 @@ steps:
 diagram: /assets/diagrams/L1/signal/signal-fires.svg
 ---
 
-# Signal Fire Construction — Day and Night Signaling
+# Signal Fire Build — Day
 
 Signal fires are the most visible long-range rescue signal — visible up to 20 miles (aircraft) during day (smoke) and 5-10 miles at night (flame). Three fires in triangle = international distress signal. Smoke column needs to contrast with environment (white smoke vs dark forest, dark smoke vs snow).
 

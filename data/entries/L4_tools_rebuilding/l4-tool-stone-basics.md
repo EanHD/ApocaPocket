@@ -1,6 +1,6 @@
 ---
 id: l4-tool-stone-basics
-title: Stone Tool Edge and Platform Basics
+title: Stone Tool Edge and
 category: L4_tools_rebuilding
 subtopic: tool_making
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l3-materials-natural-dyes
-title: Natural Dyes from Plants — Coloring Fabric & Materials
+title: Natural Dyes from Plants
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -44,6 +44,6 @@ steps:
   if settling long-term (cultivate best dye plants).'
 ---
 
-# Natural Dyes from Plants — Coloring Fabric & Materials
+# Natural Dyes from Plants
 
 Many plants produce natural dyes for coloring fabric, leather, cordage, and baskets. Common sources: onion skins (yellow/orange), walnut hulls (brown), indigo (blue), madder root (red), lichens (various). Process: extract dye by boiling plant material, mordant fabric (fixes dye), dye bath, rinse.

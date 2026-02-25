@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-aquaponics-basics
-title: 'Aquaponics: Combined Fish and Plant Systems'
+title: Aquaponics
 category: L4_tools_rebuilding
 subtopic: agriculture
 tags:
