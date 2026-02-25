@@ -1,3 +1,8 @@
+---
+id: l2-weapons-atlatl-spear-thrower
+title: Atlatl (Spear Thrower)
+category: L2_food_biology
+---
 # Atlatl (Spear Thrower)
 
 **Level:** L2 (Intermediate)  

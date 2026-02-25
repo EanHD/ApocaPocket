@@ -55,7 +55,46 @@ steps:
 - 'WHEN TO SEEK HELP (if civilization still exists): Suicidal ideation lasting >2 weeks, psychosis, violence toward self/others, complete inability to function for >1 month. If help is unavailable: increase
   supervision, involve trusted group members, remove means of self-harm, focus on tiny goals (survive today, survive this hour).'
 ---
+# Mental Health Field Guide
 
-# Long-term Survival
+## Acute Stress Response
 
-Your body can be fine while your mind collapses. Depression, anxiety, PTSD, grief, and hopelessness kill survivors. This entry covers: recognizing mental health crises, self-care practices, group support, and creating meaning in survival. Survival is not just physical — it's existential.
+- Normal: shock, numbness, confusion
+- Peaks in 24-72 hours
+- Most people recover without help
+- Physical symptoms are normal
+
+## Signs of Crisis
+
+- Unable to perform basic tasks
+- Extreme panic or dissociation
+- Aggressive behavior change
+- Suicidal statements: take seriously
+
+## Psychological First Aid
+
+- Connect: calm non-intrusive presence
+- Safety: provide physical security
+- Calm: slow breathing together
+- Self-efficacy: give meaningful task
+
+## Helping Children
+
+- Children need normalcy and routine
+- Honest but age-appropriate info
+- Play is therapeutic, allow it
+- Watch for regression behaviors
+
+## Group Morale
+
+- Name what is happening honestly
+- Celebrate survival milestones
+- Humor when appropriate
+- Creative expression (stories, song)
+
+## Trauma vs Normal Stress
+
+- Trauma: 4+ weeks impairment after event
+- Normal: improving over days and weeks
+- Flashbacks, avoidance, numbing = trauma
+- Long-term trauma needs specialist care

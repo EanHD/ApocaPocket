@@ -54,7 +54,46 @@ steps:
 - 'GROUP DYNAMICS: Disabled members are not dead weight — they''re humans with skills, knowledge, and value. Assign tasks that match ability. Distribute extra work among able-bodied (rotate heavy tasks
   to prevent resentment). Have open conversations about capabilities and limitations. In crisis, make difficult decisions based on group survival, but approach with compassion.'
 ---
+# Disability in Survival
 
-# Disab/Major Inj
+## Initial Assessment
 
-You broke your leg, lost vision, or have a group member with disability. How do you survive? This entry covers: adapting tasks, mobility aids, psychological adaptation, and group support systems. Disability doesn't mean death — it means different strategies.
+- What mobility limitations exist?
+- What medications are required?
+- What equipment is needed daily?
+- What can the person do independently?
+
+## Mobility Adaptations
+
+- Walking poles for joint/balance support
+- Improvised crutch from straight branch
+- Litter carry: poles through sleeping bags
+- Modify tasks to seated position
+
+## Wheelchair Considerations
+
+- Manual wheelchair difficult on rough terrain
+- Carry ramps in emergency kit
+- Alternative: improvised travois
+- Snow: sled base for rough ground
+
+## Medication Management
+
+- Document all prescriptions and doses
+- Calculate 30-day supply minimum
+- Know drug class for substitution
+- Refrigeration alternatives for insulin
+
+## Communication Needs
+
+- Non-verbal alternatives pre-planned
+- Picture boards for non-speakers
+- Written communication backup
+- Signal systems for location and need
+
+## Group Responsibility
+
+- Assign buddy to each high-need person
+- No person left without a plan
+- Adjust group speed to slowest member
+- Regular check-ins throughout day

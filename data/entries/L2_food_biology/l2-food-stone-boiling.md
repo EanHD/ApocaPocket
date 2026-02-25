@@ -1,5 +1,6 @@
 ---
 id: l2-food-stone-boiling
+id: l2-food-stone-boiling
 title: Stone Boiling
 category: L2_food_biology
 subtopic: food-preparation

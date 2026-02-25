@@ -1,5 +1,6 @@
 ---
 id: l2-hunting-meat-cooling
+id: l2-hunting-meat-cooling
 title: Cooling Meat in Field
 category: L2_food_biology
 subtopic: hunting

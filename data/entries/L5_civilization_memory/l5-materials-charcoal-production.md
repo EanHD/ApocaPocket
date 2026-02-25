@@ -1,3 +1,8 @@
+---
+id: l5-materials-charcoal-production
+title: Charcoal Production
+category: L5_civilization_memory
+---
 # Charcoal Production
 **Level 5: Materials & Manufacturing**
 

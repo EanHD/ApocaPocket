@@ -52,7 +52,46 @@ steps:
 - 'PSYCHOLOGICAL MILESTONES: Day 1 = survive. Week 1 = routine. Month 1 = hope. Month 6 = acceptance. Year 1 = competence. Year 5 = legacy planning. Mental health is a survival skill. Celebrate milestones.
   Create meaning. Help others. These are not luxuries — they''re what keep you human.'
 ---
+# Survival Milestones
 
-# Survive → Thrive → Build
+## Hour 1-24 Acute Phase
 
-You survived the first day. Now what? This entry provides milestone goals for Day 1, Week 1, Month 1, and Year 1. Each phase has different priorities. This roadmap turns survival into sustainable living, then into rebuilding.
+- Shelter from immediate danger
+- Stop any bleeding
+- Secure water source
+- Signal or plan for rescue
+
+## 72 Hours Stabilize
+
+- Food source identified
+- Water purification working
+- Shelter weatherproof
+- Group roles assigned
+
+## One Week Goals
+
+- Calories reliably sourced
+- Sleep rotation established
+- Tools inventoried and maintained
+- Communication method set up
+
+## One Month Goals
+
+- Garden or food cultivation started
+- Long-term water secured
+- Medical supplies inventoried
+- Group governance functional
+
+## Three Month Goals
+
+- First harvest if gardened
+- Animal husbandry started
+- Skills teaching underway
+- Community relationships built
+
+## One Year Goals
+
+- Full seasonal food cycle complete
+- Preserve and store winter food
+- Infrastructure improvements done
+- Document what was learned

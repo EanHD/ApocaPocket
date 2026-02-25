@@ -59,7 +59,46 @@ steps:
 - 'PH TESTING: Most pottery clays are pH 5-8. ACIDIC CLAY (pH <5.5): May contain organic acids, test fire before use. ALKALINE CLAY (pH >8.5): May contain soluble salts (causes white scum on fired surface).
   Leach with water before use. TEST METHOD: Mix 10g clay with 50ml distilled water, let settle 1 hour, test supernatant with pH paper or meter.'
 ---
+# Clay Identification
 
-# Clay ID and Testing for
+## What Makes Clay Useful
 
-Clay is fine-grained soil that becomes plastic when wet and hard when fired. Used for pottery, bricks, plaster. Finding and testing clay: look near water, test for plasticity and shrinkage, fire a test piece. Not all clay is suitable for pottery (some crack or crumble when fired).
+- Fine particle size under 2 microns
+- Plasticity when wet, holds shape
+- Shrinks and hardens when fired
+- Found in riverbeds, cut banks
+
+## Field Test — Plasticity
+
+- Take small amount, wet thoroughly
+- Roll into thin rope (pencil thick)
+- Wrap rope around finger
+- No cracks = good clay
+
+## Settling Test
+
+- Mix clay sample in jar of water
+- Let settle 2-3 hours
+- Sand settles first to bottom
+- Clay stays suspended, settles last
+
+## Shrinkage Test
+
+- Roll wet clay into 10cm bar
+- Mark 10cm precisely
+- Air dry and fire sample bar
+- 10-15% shrinkage is typical
+
+## Common Clay Locations
+
+- Stream and river bends (inner bank)
+- Road cuts through hillsides
+- Dried pond and lake beds
+- Bright colored soils: red, gray, yellow
+
+## Firing Temperature
+
+- Low-fire 600-900C: basic utility ware
+- Mid-fire 1000-1100C: stronger
+- Charcoal pit: 600-800C achievable
+- Test small sample before full production

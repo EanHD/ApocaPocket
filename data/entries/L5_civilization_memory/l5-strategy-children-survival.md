@@ -56,7 +56,46 @@ steps:
 - 'LONE PARENT WITH CHILDREN: Exhaustion is your biggest enemy. Sleep when they sleep. Prioritize safety over progress. Involve older children in caring for younger. Create a tight routine that runs itself.
   Ask for help if others are present (raising children is community work). YOU must stay healthy — if you collapse, they all die.'
 ---
-
 # Children in Survival
 
-Children change everything. They can't forage, can't work long hours, need more food per body weight, and are more vulnerable to exposure. But they're also the future. This entry covers: keeping kids safe, age-appropriate tasks, education in survival, and psychological needs.
+## Age-Appropriate Tasks
+
+- Age 3-5: carry light pack, simple tasks
+- Age 6-9: fire watching, water carrying
+- Age 10-13: cooking, shelter, navigation
+- Teen: full adult tasks with guidance
+
+## Keeping Children Calm
+
+- Tell truth at child comprehension level
+- Avoid adult panic in front of children
+- Give them jobs, purpose reduces fear
+- Maintain routines as much as possible
+
+## Nutrition Priorities
+
+- Children dehydrate faster than adults
+- Caloric needs per kg higher than adults
+- Prioritize protein and fat for energy
+- Avoid unfamiliar foods during stress
+
+## Medical Vulnerabilities
+
+- Hypoglycemia more rapid in children
+- Temperature regulation less efficient
+- Signs of shock appear faster
+- Fast breathing rate: serious sign
+
+## Education During Crisis
+
+- Stories and games maintain morale
+- Teach practical skills as needed
+- Keep learning to reduce fear
+- Daily reading if materials available
+
+## Movement Considerations
+
+- Children tire faster, need more rest
+- Carry small children when needed
+- Set pace around youngest member
+- Rest every 30-45 min when hiking

@@ -49,7 +49,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Lime Cement Basics
 
-# Lime Cement and Basic
+## What Is Lime Cement
 
-Lime cement (hydraulic lime) was used for millennia before Portland cement. Made by burning limestone, slaking with water, mixing with sand and optional pozzolans (volcanic ash, brick dust, or wood ash). Creates durable mortar and concrete for structures, cisterns, and foundations.
+- Made from burned limestone (CaCO3)
+- Sets by reacting with CO2 in air
+- Used 5000+ years in construction
+- Flexible but weaker than Portland
+
+## Burning Limestone
+
+- Heat limestone to 900C in kiln
+- Produces quicklime (CaO) and CO2
+- Quicklime is caustic, wear protection
+- 1kg limestone yields ~0.5kg quicklime
+
+## Slaking
+
+- Add water slowly to quicklime
+- Reaction is violent and extremely hot
+- Result is calcium hydroxide putty
+- Store putty covered, improves with age
+
+## Making Mortar
+
+- Mix 1 part lime putty, 3 parts sand
+- Add water until workable consistency
+- Stronger with coarser aggregate
+- Sets slowly, keep moist for weeks
+
+## Hydraulic Lime
+
+- Limestone with clay sets faster
+- Sets underwater (hydraulic property)
+- Better for wet environments
+- Found naturally in some regions
+
+## Safety
+
+- Quicklime causes severe burns
+- Slaking produces steam and splatter
+- Always eye protection and gloves
+- Neutralize spills with water

@@ -45,7 +45,46 @@ steps:
 - 'MAINTENANCE: lead-acid batteries need water top-up (use distilled/rainwater only) every 1-3 months. Check terminals for corrosion (clean with baking soda + water). Lithium batteries are maintenance-free
   but sensitive to deep discharge — never let voltage drop below 2.5V per cell.'
 ---
+# Solar Charging
 
-# Solar Panel Systems
+## System Components
 
-A basic solar system for survival: panel → charge controller → battery → loads. Even a single 20W panel can charge radios, flashlights, phones (communication), and medical devices. Understanding the math prevents wasted panels and dead batteries.
+- Solar panels: generate DC electricity
+- Charge controller: regulates charging
+- Battery bank: stores electricity
+- Inverter optional: converts to AC
+
+## Panel Types
+
+- Monocrystalline: most efficient, rigid
+- Polycrystalline: cheaper, slightly less
+- Flexible: lightweight, curved surfaces
+- Portable folding: easy to move
+
+## Charge Controller Types
+
+- PWM (cheaper): 70-75% efficient
+- MPPT (better): 93-97% efficient
+- MPPT worth it for systems over 100W
+- Match voltage rating to battery type
+
+## Battery Options
+
+- Lead-acid: cheap, heavy, 50% usable
+- AGM: sealed, vibration resistant
+- Lithium LiFePO4: best, 80-90% usable
+- Size in amp-hours (Ah)
+
+## Wiring Basics
+
+- Wire gauge must match current (amps)
+- 12V: 10 AWG for runs under 3m
+- Connect battery before panels
+- Fuse between battery and controller
+
+## Maintenance
+
+- Keep panels clean, dust cuts output 20%
+- Check connections for corrosion
+- Battery state of charge: monitor
+- Equalize lead-acid batteries monthly

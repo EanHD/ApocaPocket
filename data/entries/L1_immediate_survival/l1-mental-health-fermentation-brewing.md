@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-fermentation-brewing
+title: Fermentation & Brewing
+category: L1_immediate_survival
+---
 # Fermentation & Brewing
 
 **Category:** Mental Health & Quality of Life  

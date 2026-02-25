@@ -1,4 +1,5 @@
 ---
+id: l1-natural-disaster-tornado
 title: "Tornado Survival"
 category: "L1"
 subcategory: "disaster"

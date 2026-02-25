@@ -32,7 +32,46 @@ steps:
 - 'SUCCESSION PLANTING: Plant lettuce every 2 weeks (continuous harvest). Plant beans 3 times per season.'
 - 'CALENDAR: Know frost dates. Plant cool-season crops (lettuce, peas) early spring and fall. Warm-season (tomatoes, peppers) after last frost.'
 ---
+# Garden Planning
 
-# Veg Garden Plan
+## Site Selection
 
-Plan garden for continuous harvest and soil health. Crop rotation prevents disease. Succession planting (plant every 2 weeks) provides steady supply. Prioritize high-calorie, storable crops (potatoes, beans, squash). Consider climate and season length.
+- Minimum 6 hours direct sun daily
+- Near water source for irrigation
+- Slight slope prevents waterlogging
+- Wind protection on north side
+
+## Bed Layout
+
+- Raised beds: 1.2m wide for easy reach
+- Pathways: 60cm minimum between beds
+- Companion planting: Three Sisters layout
+- Perennials in permanent zones
+
+## Crop Priorities
+
+- Calories first: potatoes, corn, beans
+- Nutrition: greens, squash, root veg
+- Preservation crops: tomatoes, peppers
+- Medicine: herbs throughout garden
+
+## Planting Calendar
+
+- Know last frost date for your region
+- Start warm crops inside 6-8 weeks early
+- Succession plant greens every 2 weeks
+- Cover crops in winter beds
+
+## Spacing Guide
+
+- Potatoes: 30cm apart, 60cm rows
+- Corn: 30cm apart, 90cm rows
+- Tomatoes: 60cm apart, trellised
+- Greens: broadcast seed, thin to 15cm
+
+## Water Management
+
+- Drip irrigation most efficient
+- Water at base, not leaves
+- Mulch 5-8cm reduces water needs half
+- Morning watering reduces disease

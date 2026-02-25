@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-animal-husbandry-goats
+title: Goat Husb
+category: L4_agriculture_labor
+---
 # Goat Husb
 
 **Priority: HIGH** | **Difficulty: Medium** | **Impact: Milk, meat, leather, brush clearing**

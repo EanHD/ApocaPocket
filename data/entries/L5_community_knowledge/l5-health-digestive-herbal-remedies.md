@@ -36,7 +36,46 @@ steps:
 - 'PREPARATION: Most herbal teas: steep 1-2 tsp dried herb (or 1 Tbsp fresh) in 1 cup boiling water for 10 min. Strain. Drink warm. Dosage: 1-3 cups per day. Effects are mild and gradual.'
 - 'LIMITATIONS: Herbal remedies work slowly. For severe diarrhea causing dehydration, prioritize ORS (oral rehydration solution). For persistent vomiting/diarrhea, seek medical care if possible.'
 ---
+# Digestive Herbal Remedies
 
-# Digestive Issues
+## Nausea and Vomiting
 
-Many wild plants have traditional use for digestive issues (diarrhea, nausea, stomach cramps). Not replacements for modern medicine but can provide relief when medical care is unavailable. Learn identification carefully.
+- Ginger tea: most studied antiemetic herb
+- Peppermint tea: soothes stomach spasms
+- Chamomile: gentle, calms gut
+- Bland diet: rice, toast, bananas
+
+## Diarrhea
+
+- Blackberry root or leaf tea: astringent
+- Activated charcoal: binds toxins
+- Strong black tea (tannins): slows motility
+- Rehydration first: most important
+
+## Constipation
+
+- Senna leaf tea: stimulant laxative
+- Cascara bark: gentle, overnight action
+- Flaxseed in water: bulk-forming
+- Prunes or dried fruit if available
+
+## Gas and Bloating
+
+- Fennel seed tea: carminative
+- Peppermint oil or tea
+- Chamomile: antispasmodic
+- Avoid legumes initially if severe
+
+## Stomach Cramps
+
+- Chamomile tea: antispasmodic
+- Slippery elm powder: coats gut
+- Warm compress on abdomen
+- Avoid dairy and fatty foods
+
+## Warning Signs
+
+- Blood in stool: seek medical help
+- Severe dehydration: electrolytes first
+- Fever with diarrhea: possible infection
+- Cramping without relief after 48 hours

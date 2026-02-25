@@ -1,3 +1,8 @@
+---
+id: l4-education-writing-record-keeping
+title: Writing & Record-Keeping
+category: L4_tools_rebuilding
+---
 # Writing & Record-Keeping
 **Level 4: Education & Knowledge Transfer**
 

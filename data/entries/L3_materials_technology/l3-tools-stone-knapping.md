@@ -1,3 +1,8 @@
+---
+id: l3-tools-stone-knapping
+title: Stone Knapping
+category: L3_materials_technology
+---
 # Stone Knapping
 
 **Level:** L3 (Advanced)  

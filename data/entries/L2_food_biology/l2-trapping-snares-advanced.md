@@ -1,3 +1,8 @@
+---
+id: l2-trapping-snares-advanced
+title: Advanced Snares &
+category: L2_food_biology
+---
 # Advanced Snares &
 
 **Level:** L2 (Intermediate)  

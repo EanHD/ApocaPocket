@@ -36,7 +36,46 @@ steps:
 - 'WHEN TO SEEK HELP: Fever over 103F, fever lasting more than 3 days, fever with severe headache/stiff neck (meningitis), fever with difficulty breathing, fever with confusion. These indicate serious infection
   requiring medical care.'
 ---
+# Fever Herbal Remedies
 
-# Fever Management
+## Fever Overview
 
-Fever is the body fighting infection. Mild fever (under 102F) helps immune response. High fever (over 103F) is dangerous. Some herbs reduce fever by promoting sweating (diaphoretics) or contain aspirin-like compounds. Hydration is most important.
+- Fever is immune system working
+- Under 39C (102F): support, watch
+- Over 40C (104F): reduce aggressively
+- Hydration is most important action
+
+## Willow Bark
+
+- Contains salicylates (aspirin precursor)
+- Boil bark 15 min, steep, drink tea
+- 1-2 cups per day for adults
+- Do not use in children
+
+## Elderflower
+
+- Promotes sweating to lower fever
+- Tea from dried flowers
+- Pleasant taste, widely used
+- Safe for children in small amounts
+
+## Yarrow
+
+- Diaphoretic, promotes sweating
+- Combine with elderflower for stronger effect
+- Tea from dried herb
+- Also antimicrobial if infection present
+
+## Peppermint
+
+- Cooling sensation topically and internally
+- Tea helps reduce perceived fever
+- Topical: diluted to forehead and wrists
+- Widely available, safe
+
+## Supportive Care
+
+- Drink 2-4L fluid per day minimum
+- Tepid sponge bath if very high
+- Rest is essential
+- Watch for rash, stiff neck, confusion

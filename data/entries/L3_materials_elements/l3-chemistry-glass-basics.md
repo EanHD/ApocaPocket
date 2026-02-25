@@ -38,7 +38,46 @@ steps:
 - Expect green tint (from iron impurities in sand) and bubbles (dissolved gases). Refined glass requires purer ingredients and skilled technique.
 - 'USES: bottles, jars, windows (cast and ground flat), beads, tools for working other materials'
 ---
+# Glass Making Basics
 
-# Basic Glass Making from
+## What Glass Is Made Of
 
-Glass is melted silica (sand) + flux (soda ash or potash) + stabilizer (lime). Requires 1400-1600°C sustained temperature. Primitive glass (bottle green, full of bubbles) is achievable with a forced-air furnace and local materials.
+- Silica sand (SiO2), primary ingredient
+- Soda ash lowers melting point
+- Lime adds stability
+- Mix: 70% silica, 15% soda, 10% lime
+
+## Heat Requirements
+
+- Sand melts at 1700C alone, too high
+- Soda ash reduces melting to ~1000C
+- Achievable in charcoal kiln with bellows
+- Sustained high heat critical for clarity
+
+## Melting Process
+
+- Grind ingredients, mix thoroughly
+- Load into clay crucible
+- Heat slowly to avoid cracking crucible
+- Stir melt with clay rod to remove bubbles
+
+## Blowing Basics
+
+- Gather glowing molten glass on rod
+- Blow gently to form bubble
+- Rotate constantly to maintain shape
+- Open end while hot for vessel shapes
+
+## Casting Alternative
+
+- Pour melt into sand molds
+- Simpler than blowing, less control
+- Good for flat pieces (lenses, tiles)
+- Anneal by cooling very slowly
+
+## Common Uses
+
+- Water containers, preserving jars
+- Optical lenses for magnification
+- Windows, lamp chimneys
+- Transparent panels for solar heating

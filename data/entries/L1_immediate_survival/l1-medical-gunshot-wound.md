@@ -1,4 +1,5 @@
 ---
+id: l1-medical-gunshot-wound
 title: "Gunshot Wound Care"
 category: L1_immediate_survival
 subtopic: medical_trauma

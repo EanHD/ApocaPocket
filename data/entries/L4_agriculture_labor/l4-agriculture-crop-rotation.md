@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-crop-rotation
+title: Crop Rot
+category: L4_agriculture_labor
+---
 # Crop Rot
 
 **Priority: HIGH** | **Difficulty: Medium** | **Impact: Prevent disease, build soil, increase yields**

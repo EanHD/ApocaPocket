@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-animal-husbandry-rabbits
+title: Rabbit Husb
+category: L4_agriculture_labor
+---
 # Rabbit Husb
 
 **Priority: HIGH** | **Difficulty: Easy-Medium** | **Impact: Most efficient meat per lb feed**

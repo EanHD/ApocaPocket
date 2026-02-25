@@ -35,7 +35,46 @@ steps:
 - 'DOSAGE AND EFFECTS: Herbal pain relievers are weak. Expect 20-40 percent pain reduction, not complete relief. Takes 1-2 hours to work. Best for chronic low-level pain (headaches, arthritis) not acute
   severe pain.'
 ---
+# Pain Herbal Remedies
 
-# Pain Mgmt
+## Willow Bark
 
-Several wild plants contain compounds that reduce pain and inflammation. Not as effective as modern painkillers but can provide relief for headaches, muscle pain, minor injuries when pharmaceuticals are unavailable.
+- Contains salicin (aspirin analog)
+- Effective for headache, back pain
+- Boil bark 15 min, steep, drink tea
+- Not for children or aspirin-sensitive
+
+## Clove for Dental Pain
+
+- Eugenol: powerful dental analgesic
+- Bite whole clove on painful tooth
+- Clove oil on cotton swab: stronger
+- Numbness within minutes
+
+## Arnica — Topical Only
+
+- Bruises, sprains, muscle soreness
+- Apply cream or diluted tincture
+- Never take internally, toxic in quantity
+- Effective topically, well-studied
+
+## Turmeric for Inflammation
+
+- Curcumin: anti-inflammatory
+- Better absorbed with fat and pepper
+- Paste for topical joint pain
+- Long-term use for chronic inflammation
+
+## Valerian for Sleep and Tension
+
+- Reduces anxiety and muscle tension
+- Tea or tincture before sleep
+- Not for acute sharp pain
+- Useful for tension headache
+
+## Pain Warning Signs
+
+- Chest pain: cardiac emergency
+- Abdominal pain with fever: surgical
+- Severe head pain (worst of life): urgent
+- Pain from unknown injury: assess first

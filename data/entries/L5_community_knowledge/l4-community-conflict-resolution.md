@@ -1,3 +1,8 @@
+---
+id: l4-community-conflict-resolution
+title: Community Conflict
+category: L5_community_knowledge
+---
 # Community Conflict
 
 **Category:** L4 - Community Dynamics  

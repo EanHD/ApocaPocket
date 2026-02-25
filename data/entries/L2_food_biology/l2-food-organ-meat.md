@@ -1,5 +1,6 @@
 ---
 id: l2-food-organ-meat
+id: l2-food-organ-meat
 title: Organ Meat Nutrition
 category: L2_food_biology
 subtopic: food-preparation

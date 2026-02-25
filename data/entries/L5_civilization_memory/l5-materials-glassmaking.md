@@ -1,3 +1,8 @@
+---
+id: l5-materials-glassmaking
+title: Glassmaking
+category: L5_civilization_memory
+---
 # Glassmaking
 **Level 5: Materials & Manufacturing**
 

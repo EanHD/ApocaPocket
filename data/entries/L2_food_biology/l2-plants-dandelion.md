@@ -1,5 +1,6 @@
 ---
 id: l2-plants-dandelion
+id: l2-plants-dandelion
 title: Dandelion (Taraxacum)
 category: L2_food_biology
 subtopic:

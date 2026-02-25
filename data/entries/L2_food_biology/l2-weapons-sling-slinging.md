@@ -1,3 +1,8 @@
+---
+id: l2-weapons-sling-slinging
+title: Sling (Slinging) ⭐⭐⭐
+category: L2_food_biology
+---
 # Sling (Slinging) ⭐⭐⭐
 
 **Level:** L2 (Intermediate)  

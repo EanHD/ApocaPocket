@@ -1,3 +1,8 @@
+---
+id: l4-education-library-curation
+title: Library Curation
+category: L4_tools_rebuilding
+---
 # Library Curation
 **Level 4: Education & Knowledge Transfer**
 

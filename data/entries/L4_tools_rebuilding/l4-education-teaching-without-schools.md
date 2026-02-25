@@ -1,3 +1,8 @@
+---
+id: l4-education-teaching-without-schools
+title: Teaching Without Schools
+category: L4_tools_rebuilding
+---
 # Teaching Without Schools
 **Level 4: Education & Knowledge Transfer**
 

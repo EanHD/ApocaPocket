@@ -1,5 +1,6 @@
 ---
 id: l3-chemistry-candle-making
+id: l3-chemistry-candle-making
 title: Tallow and Beeswax Candle Making
 category: L3_materials_elements
 subtopic:
@@ -42,3 +43,46 @@ summary: "Candles provide reliable light without electricity. Tallow (rendered a
 - 'BURN CHARACTERISTICS: "TALLOW CANDLE (19mm diameter × 150mm tall, 80g weight): Burn time 4-6 hours. Light output 12-15 lumens (enough to read at 30cm distance). Fuel consumption 13-20g per hour. Slight smoke, mild odor (fatty acids, acrolein from incomplete combustion). Flame height 25-40mm. BEESWAX CANDLE (same size, 70g weight): Burn time 6-8 hours. Light output 20-25 lumens (brighter, better color rendering). Fuel consumption 9-12g per hour. Minimal smoke, pleasant honey scent. Flame height 30-50mm. 50/50 BLEND: Performance midway between pure types. FUEL EFFICIENCY: 1kg tallow = 50-75 candle-hours of light (varies with candle size). For reference: Modern 60W incandescent bulb = 800 lumens (40-50× brighter than one candle). WICK MAINTENANCE: Trim wick to 6-8mm every 2-3 hours of burning (prevents mushrooming—carbon buildup on wick tip causes excess smoke and large flame)."
 - 'STORAGE AND SHELF LIFE: "Store in cool (10-20°C), dark, dry location. Wrap in paper or cloth (prevents dust accumulation). AVOID: Plastic wrap (traps moisture). SHELF LIFE: Properly rendered and stored tallow candles last 2-5 years. Beeswax candles last 10+ years (more stable). DEGRADATION: Rancidity (fat oxidation) causes off odor and discoloration (yellow → brown). Accelerated by: heat (>25°C), light (UV), oxygen, humidity. ANTIOXIDANTS: Adding vitamin E (1g per kg tallow) extends shelf life 50-100%. Traditional: Add rosemary extract (natural antioxidant). BLOOM (white coating on beeswax): Normal, harmless crystallization. Wipe with soft cloth or briefly warm to remove."
 ---
+# Candle Making
+
+## Tallow vs Beeswax
+
+- Tallow: rendered animal fat
+- Beeswax: honeycomb scrapings
+- Tallow burns well, slight smell
+- Beeswax brighter, longer burn
+
+## Rendering Tallow
+
+- Cut fat into small pieces
+- Slow heat in pot, fat melts out
+- Strain through cloth into molds
+- Impurities sink to bottom, discard
+
+## Making a Wick
+
+- Cotton string twisted tight
+- Pre-soak in borax solution (optional)
+- Dry fully before use
+- Thicker wick equals larger flame
+
+## Dip Method
+
+- Tie wick to stick
+- Dip into melted wax, lift out
+- Allow to cool 30 seconds
+- Repeat until candle is 1cm thick
+
+## Pour Method
+
+- Insert wick in mold, hold centered
+- Pour melted fat or wax slowly
+- Top up as wax shrinks on cooling
+- Release from mold when fully cool
+
+## Burn Basics
+
+- Trim wick to 6mm before each use
+- Extinguish by smothering, not blowing
+- 1 candle lasts 4-8 hours typically
+- Store in cool, dark place

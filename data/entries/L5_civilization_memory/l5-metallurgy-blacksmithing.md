@@ -1,3 +1,8 @@
+---
+id: l5-metallurgy-blacksmithing
+title: Blacksmithing
+category: L5_civilization_memory
+---
 # Blacksmithing
 **Level 5: Metallurgy & Manufacturing**
 

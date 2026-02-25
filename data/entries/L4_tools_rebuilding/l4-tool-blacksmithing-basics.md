@@ -52,7 +52,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Blacksmithing Basics
 
-# Blacksmith Basics
+## Fire and Forge
 
-Blacksmithing is the most critical rebuilding skill — it produces tools, hardware, weapons, and repairs. A basic forge can be built from clay and a pipe. Master four operations: drawing out, upsetting, bending, and punching, and you can make almost anything from steel.
+- Coal or charcoal fire in forge
+- Forced air needed (bellows or blower)
+- Build nest of coals, bury metal in center
+- Remove clinker (fused slag) regularly
+
+## Heat Colors
+
+- Dark red: 700C, only light forming
+- Cherry red: 900C, good for bending
+- Bright orange: 1100C, best for shaping
+- Yellow-white: 1300C+, welding heat
+
+## Basic Tools
+
+- Anvil: working surface, must be heavy
+- Hammer: cross peen for drawing out
+- Tongs: hold hot metal safely
+- Hardie: cutting tool in anvil hole
+
+## Drawing Out Metal
+
+- Hammer at 45-degree angle
+- Rotate work and hammer opposite side
+- Work from hot center outward
+- Reheat when color goes dark red
+
+## Bending
+
+- Heat bend point to bright orange
+- Use horn of anvil for curves
+- Use flat of anvil corner for angles
+- Work quickly, narrow reheating window
+
+## Hardening and Tempering
+
+- High-carbon steel: quench in water or oil
+- Fast quench = harder but more brittle
+- Temper: reheat to straw or blue color
+- Low-carbon steel does not harden

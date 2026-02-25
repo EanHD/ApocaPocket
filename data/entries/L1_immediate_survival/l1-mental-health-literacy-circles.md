@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-literacy-circles
+title: Literacy Circles
+category: L1_immediate_survival
+---
 # Literacy Circles
 
 **Category:** Mental Health & Quality of Life  

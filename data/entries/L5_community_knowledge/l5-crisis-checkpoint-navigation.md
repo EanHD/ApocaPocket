@@ -50,7 +50,46 @@ steps:
 - 'AVOIDING CHECKPOINTS: (1) Scout routes in advance (ask locals where checkpoints are). (2) Use back roads, trails, or cross-country travel. (3) Travel at times checkpoints are less active (early morning,
   meal times). (4) Locals often know safe passages - hire guide if possible.'
 ---
+# Checkpoint Navigation
 
-# Checkpoint Nav
+## Before Moving
 
-Checkpoints appear during unrest, martial law, war, or border crossings. May be official (military, police) or unofficial (militias, gangs, bandits). Survival priorities: assess threat level, comply or evade based on risk, negotiate if possible. Based on military survival training.
+- Check with locals on checkpoint locations
+- Know alternative routes in advance
+- Carry all identification documents
+- Keep cover story simple and consistent
+
+## At a Checkpoint
+
+- Approach slowly, clearly visible
+- Hands visible at all times
+- Be cooperative and calm
+- Do not lie, inconsistencies are dangerous
+
+## Vehicle Checkpoints
+
+- Stop fully, engine off if directed
+- Follow all instructions immediately
+- Do not reach for anything unexplained
+- Let officer control the interaction
+
+## Avoiding Unsafe Checkpoints
+
+- Travel at low-activity hours
+- Use trails, waterways, back roads
+- Move in small groups or solo
+- Know exit routes from each location
+
+## Documentation Tips
+
+- Laminate important documents
+- Carry copies, originals secured elsewhere
+- Medical documentation can help passage
+- Children documents especially important
+
+## Understanding the System
+
+- Checkpoints control movement
+- Document checks are standard
+- Behavior affects outcome significantly
+- Know what documents are required

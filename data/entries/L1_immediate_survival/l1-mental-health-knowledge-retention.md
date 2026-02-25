@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-knowledge-retention
+title: Knowledge Retention
+category: L1_immediate_survival
+---
 # Knowledge Retention
 
 ## Why This Matters

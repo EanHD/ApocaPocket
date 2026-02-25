@@ -1,4 +1,5 @@
 ---
+id: l1-medical-epilepsy-management
 title: "Seizure Management"
 category: "L1"
 subcategory: "medical"

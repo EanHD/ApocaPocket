@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-seed-saving
+title: Seed Save
+category: L4_agriculture_labor
+---
 # Seed Save
 
 **Priority: CRITICAL** | **Difficulty: Medium** | **Impact: One harvest → infinite food**

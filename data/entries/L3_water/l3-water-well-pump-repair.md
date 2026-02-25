@@ -1,4 +1,5 @@
 ---
+id: l3-water-well-pump-repair
 title: Well Pump Repair and
 category: "L3"
 subcategory: "water"

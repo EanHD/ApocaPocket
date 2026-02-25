@@ -1,5 +1,6 @@
 ---
 id: l4-agriculture-goat-keeping
+id: l4-agriculture-goat-keeping
 title: Goat Keeping — Milk, Meat, & Small Ruminants
 category: L4_agriculture_labor
 subtopic:
@@ -35,3 +36,46 @@ summary:
 - 'FIBER GOATS (specialized): "ANGORA: Produce mohair fiber (shear 2× per year, 3-5kg per shearing). Fiber length 10-15cm per 6 months. Mohair is lustrous, strong, dye-receptive (excellent for textiles). Angoras are delicate (require shelter, susceptible to cold stress after shearing). CASHMERE: Undercoat of many goat breeds (harvest by combing in spring when shedding). Yield 100-300g per goat per year. Ultra-fine fiber (diameter 15-19 microns vs mohair 25-45 microns). Very valuable but labor-intensive. FIBER PROCESSING: Shear or comb, wash (remove lanolin/dirt), card (align fibers), spin into yarn."
 - 'HEALTH MANAGEMENT: "VACCINATION: CDT (Clostridium perfringens types C & D + Tetanus) annually. Kids at 6-8 weeks, booster 3-4 weeks later, then annual boosters. Prevents enterotoxemia (\"overeating disease\") and tetanus. DEWORMING: Based on FAMACHA score (eyelid color indicates anemia from worms) and fecal egg counts. Dewormers: fenbendazole, ivermectin, moxidectin (rotate classes to prevent resistance). HOOF CARE: Trim every 6-12 weeks. COMMON DISEASES: Mastitis (udder infection), pneumonia (respiratory infection from cold/damp), enterotoxemia (sudden death from grain overload), bloat (excess gas in rumen), acidosis (rumen pH too low), listeriosis (brain infection, \"circling disease\"), caseous lymphadenitis (abscesses), sore mouth (contagious ecthyma, viral lesions). SIGNS OF ILLNESS: Isolation from herd, lack of appetite, dull eyes, abnormal posture (hunched, head down), labored breathing, diarrhea, abnormal temperature (normal: 38.5-40°C rectal). ACT QUICKLY—goats decline rapidly when ill. RECORD KEEPING: Track breeding dates, kidding dates, weights, milk production, deworm ing dates, illness/treatment (essential for management and productivity analysis)."
 ---
+# Goat Keeping
+
+## Housing
+
+- 1.5 sqm indoor space per goat
+- 10 sqm outdoor area per goat
+- Three-sided shelter minimum
+- Goats must stay dry, wet cold is deadly
+
+## Browse and Feed
+
+- Goats prefer browse: leaves, shrubs
+- Hay: primary feed, unlimited access
+- Grain: 0.5-1 kg/day for milking does
+- Minerals: loose mineral free-choice
+
+## Milking
+
+- Breed: Nigerian Dwarf, Alpine, Nubian
+- Milk 2x daily, 12 hours apart
+- Sanitize teats before and after
+- 1-3 liters per day depending on breed
+
+## Health Basics
+
+- Hooves trim every 6-8 weeks
+- Deworming: test before treating
+- Vaccinations: CDT annually
+- Body condition score monthly
+
+## Kids
+
+- Doe pregnant 150 days
+- 1-3 kids typical per birth
+- Colostrum critical in first 4 hours
+- Wean at 8-12 weeks
+
+## Breeding
+
+- Buck needed for 20-25 does
+- Breeding season: fall, short daylight
+- Nigerian Dwarf breeds year-round
+- Record dates to predict kidding

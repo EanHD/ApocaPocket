@@ -1,4 +1,5 @@
 ---
+id: l3-tech-charge-controllers
 title: "Solar Charge Controllers"
 layer: L3_materials_technology
 category: energy/power

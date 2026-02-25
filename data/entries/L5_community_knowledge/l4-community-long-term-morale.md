@@ -1,3 +1,8 @@
+---
+id: l4-community-long-term-morale
+title: Community Morale
+category: L5_community_knowledge
+---
 # Community Morale
 
 **Category:** L4 - Community Dynamics  

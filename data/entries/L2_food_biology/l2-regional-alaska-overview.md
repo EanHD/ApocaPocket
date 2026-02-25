@@ -1,3 +1,8 @@
+---
+id: l2-regional-alaska-overview
+title: Alaska Regional Survival
+category: L2_food_biology
+---
 # Alaska Regional Survival
 
 **Region Coverage:** All of Alaska (subarctic, arctic, coastal rainforest, interior taiga)  

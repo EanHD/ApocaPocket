@@ -1,3 +1,8 @@
+---
+id: l5-materials-rope-cordage
+title: Rope & Cordage
+category: L5_civilization_memory
+---
 # Rope & Cordage
 **Level 5: Materials & Manufacturing**
 

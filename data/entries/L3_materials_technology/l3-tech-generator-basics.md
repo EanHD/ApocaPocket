@@ -1,4 +1,5 @@
 ---
+id: l3-tech-generator-basics
 title: "Generator Basics"
 layer: L3_materials_technology
 category: machinery

@@ -1,4 +1,5 @@
 ---
+id: l1-vehicle-as-shelter
 title: "Using Vehicle as Shelter"
 category: "L1"
 subcategory: "shelter"

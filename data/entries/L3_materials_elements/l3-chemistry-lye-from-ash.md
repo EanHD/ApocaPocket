@@ -49,7 +49,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Lye from Wood Ash
 
-# Making Lye from Hardwood
+## What Lye Is
 
-Potassium hydroxide (lye) from wood ash is essential for soap making, food processing (nixtamalization), and leather tanning. Hardwood ash produces the strongest lye. A simple leaching setup produces usable lye in 24-48 hours.
+- Potassium hydroxide from wood ash
+- Strong alkaline, pH 12-14
+- Essential for soap making
+- Also used for food prep (hominy)
+
+## Materials Needed
+
+- Hardwood ash (oak, hickory best)
+- Barrel or bucket with drain hole
+- Gravel layer at bottom for filtering
+- Rainwater or clean water
+
+## Leaching Setup
+
+- Drill small hole in bucket bottom
+- Layer gravel, then straw, then ash
+- Pour water slowly over ash
+- Collect drips in container below
+
+## Testing Strength
+
+- Egg or potato floats means strong enough
+- Sinks means too weak, concentrate more
+- Feather test: dissolves tip means strong
+- Traditional test still reliable
+
+## Concentrating Lye
+
+- Boil solution to evaporate water
+- Stronger lye for soap making
+- Careful of splatter when boiling
+- Boil outdoors with face protection
+
+## Safety
+
+- Lye causes instant deep burns
+- Eye protection essential at all times
+- Flush spills immediately with water
+- Keep away from children and animals

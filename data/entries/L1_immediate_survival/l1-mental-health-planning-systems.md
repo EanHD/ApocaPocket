@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-planning-systems
+title: Planning Systems
+category: L1_immediate_survival
+---
 # Planning Systems
 
 ## Why This Matters

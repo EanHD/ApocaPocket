@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-games-without-electronics
+title: Games Without Electronics
+category: L1_immediate_survival
+---
 # Games Without Electronics
 
 **Category:** Mental Health & Quality of Life  

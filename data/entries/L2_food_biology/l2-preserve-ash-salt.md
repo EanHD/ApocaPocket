@@ -1,5 +1,6 @@
 ---
 id: l2-preserve-ash-salt
+id: l2-preserve-ash-salt
 title: Ash Salt Preservation
 category: L2_food_biology
 subtopic: preservation

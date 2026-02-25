@@ -40,7 +40,46 @@ steps:
   apply to natural cordage.'
 - 'PRESERVATION: Natural cordage rots when wet. DRY THOROUGHLY after use. Store in dry place. Treat with fat/oil (waterproofs and preserves). Replace when frayed, weak, or rotted.'
 ---
+# Rope Making
 
-# Rope Making — Field
+## Fiber Selection
 
-Rope is essential for shelter, traps, tools, climbing, hauling. Natural cordage can be made from plant fibers, bark, roots, sinew, rawhide. Quick field methods for emergency cordage. Techniques: simple twist, reverse-wrap, braiding.
+- Plant bast fibers: nettle, hemp, dogbane
+- Inner bark: basswood, willow, cedar
+- Animal: sinew, rawhide strips
+- Dry plant: grass, sedge (weaker)
+
+## Reverse Twist Method
+
+- Take bundle of fibers
+- Twist clockwise (Z-twist) until tight
+- While maintaining twist, fold in half
+- Folded rope counter-twists itself
+
+## Two-Strand Cord
+
+- Two bundles twisted Z
+- Ply together counter-clockwise (S-twist)
+- Add new fibers at staggered points
+- Ends overlap 5-8cm for strength
+
+## Three-Strand Rope
+
+- Three 2-strand cords
+- Twist each clockwise
+- Braid together: over-under pattern
+- Tighter braid means stronger rope
+
+## Testing Strength
+
+- Hang 2x expected load for 5 minutes
+- Inspect for unraveling or weak spots
+- Replace if fibers fraying under load
+- Wet ropes: test again when dry
+
+## Maintenance
+
+- Dry before storage, mold weakens
+- Inspect before each high-stakes use
+- Splicing: interweave strands at break
+- Store coiled, away from UV light

@@ -1,4 +1,5 @@
 ---
+id: l1-medical-medication-storage
 title: "Medication Storage"
 category: L1_immediate_survival
 subtopic: medical_advanced

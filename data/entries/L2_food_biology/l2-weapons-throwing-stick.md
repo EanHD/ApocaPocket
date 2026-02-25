@@ -1,3 +1,8 @@
+---
+id: l2-weapons-throwing-stick
+title: Throwing Stick (Rabbit
+category: L2_food_biology
+---
 # Throwing Stick (Rabbit
 
 **Level:** L2 (Intermediate)  

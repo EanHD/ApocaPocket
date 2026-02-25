@@ -1,4 +1,5 @@
 ---
+id: l3-tech-solar-wiring
 title: "Solar System Wiring"
 layer: L3_materials_technology
 category: energy/power

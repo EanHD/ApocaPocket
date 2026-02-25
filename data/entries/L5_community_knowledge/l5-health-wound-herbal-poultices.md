@@ -38,7 +38,46 @@ steps:
 - 'WOUND CLEANING: Before applying any plant remedy, clean wound with cleanest water available. Boiled and cooled water if possible. Remove debris. Pat dry. Then apply poultice. Change daily and monitor
   for infection signs.'
 ---
+# Wound Herbal Poultices
 
-# Herbal Poultices
+## Plantain Leaf
 
-Certain wild plants have antimicrobial properties and can be used as poultices for wound care when modern first aid is unavailable. Not a replacement for proper wound cleaning and antibiotics but better than nothing.
+- Most common effective wound herb
+- Chew leaf to paste, apply to wound
+- Draws infection and reduces swelling
+- Widely available in most regions
+
+## Yarrow
+
+- Antimicrobial and hemostatic
+- Crush fresh leaves, apply directly
+- Traditional battlefield wound herb
+- Dried powder also effective
+
+## Honey Poultice
+
+- Raw honey best, not processed
+- Apply thick layer, cover with bandage
+- Antimicrobial, draws fluid
+- Change daily, rinse wound first
+
+## Pine Pitch
+
+- Antiseptic, seals small wounds
+- Warm pitch slightly to soften
+- Apply thin layer over cleaned wound
+- Hardens as sealant and bandage
+
+## Comfrey
+
+- Accelerates tissue healing
+- Topical only, not for deep wounds
+- Can seal surface before infection clears
+- Tea for bruises and sprains
+
+## Wound Care Priorities
+
+- Clean before applying herbs
+- Remove debris, rinse with clean water
+- Deep puncture wounds: medical attention
+- Red streaks from wound: emergency

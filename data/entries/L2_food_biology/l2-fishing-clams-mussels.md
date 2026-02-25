@@ -1,5 +1,6 @@
 ---
 id: l2-fishing-clams-mussels
+id: l2-fishing-clams-mussels
 title: Clams and Mussels
 category: L2_food_biology
 subtopic: fishing

@@ -1,4 +1,5 @@
 ---
+id: l3-tech-offgrid-troubleshooting
 title: Off-Grid Power Fixes
 layer: L3_materials_technology
 category: energy/power

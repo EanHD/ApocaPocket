@@ -1,3 +1,8 @@
+---
+id: l3-tools-bark-containers-baskets
+title: Bark Containers & Baskets
+category: L3_materials_technology
+---
 # Bark Containers & Baskets
 
 **Level:** L3 (Advanced)  

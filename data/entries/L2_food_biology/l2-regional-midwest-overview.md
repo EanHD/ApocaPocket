@@ -1,3 +1,8 @@
+---
+id: l2-regional-midwest-overview
+title: Midwest US Regional
+category: L2_food_biology
+---
 # Midwest US Regional
 
 **Region Coverage:** North Dakota, South Dakota, Nebraska, Kansas, Minnesota, Iowa, Missouri, Wisconsin, Illinois, Indiana, Ohio, Michigan  

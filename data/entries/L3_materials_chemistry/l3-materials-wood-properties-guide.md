@@ -44,7 +44,46 @@ steps:
 - 'IDENTIFYING WOOD: BARK: Unique to each species (oak has ridged bark, birch has papery bark). LEAVES/NEEDLES: Best identifier. GRAIN: Hardwoods have visible grain patterns. SMELL: Cedar smells aromatic,
   oak smells tannic. WEIGHT: Hardwoods are heavier than softwoods of same size.'
 ---
+# Wood Properties Guide
 
-# Wood Properties —
+## Hardness
 
-Different wood species have different properties (hardness, flexibility, rot resistance, workability). Selecting the right wood for each application improves durability and reduces labor. Field guide to common wood types and their best uses.
+- Soft: pine, cedar, willow
+- Medium: cherry, walnut
+- Hard: oak, hickory, maple
+- Very hard: osage orange, locust
+
+## Splitting Properties
+
+- Straight grain splits cleanly: ash, oak
+- Interlocked grain resists: elm
+- Best for shingles: cedar, pine
+- Avoid for splitting: cherry, sycamore
+
+## Burning Properties
+
+- High BTU: hickory, oak, locust, apple
+- Easy start: pine (resin ignites easily)
+- Long burn: oak, hickory (dense)
+- Avoid: elm, poplar (low heat, smoke)
+
+## Tool Handle Uses
+
+- Shock absorption: ash, hickory (best)
+- Axe handles: hickory traditional
+- Hammer handles: ash
+- Avoid: oak (cracks under impact)
+
+## Water Resistance
+
+- High: cedar, black locust, osage orange
+- Medium: oak, black walnut
+- Low: pine, maple, poplar
+- Use resistant species for boat ribs
+
+## Construction Uses
+
+- Load-bearing: oak, fir, douglas fir
+- Flexible: ash, hickory
+- Decay resistant: cedar, black locust
+- Carving: basswood, butternut

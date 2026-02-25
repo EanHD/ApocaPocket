@@ -1,3 +1,8 @@
+---
+id: l1-accessibility-mobility-adaptations
+title: Mobility Adapt for
+category: L1_immediate_survival
+---
 # Mobility Adapt for
 
 ## Overview

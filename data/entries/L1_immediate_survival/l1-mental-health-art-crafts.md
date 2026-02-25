@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-art-crafts
+title: Art & Crafts
+category: L1_immediate_survival
+---
 # Art & Crafts
 
 **Category:** Mental Health & Quality of Life  

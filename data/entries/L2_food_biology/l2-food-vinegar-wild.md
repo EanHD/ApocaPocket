@@ -1,5 +1,6 @@
 ---
 id: l2-food-vinegar-wild
+id: l2-food-vinegar-wild
 title: Improvised Vinegar
 category: L2_food_biology
 subtopic: food-preparation

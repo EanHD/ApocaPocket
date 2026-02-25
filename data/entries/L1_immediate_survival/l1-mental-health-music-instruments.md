@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-music-instruments
+title: Music & Instrument Making
+category: L1_immediate_survival
+---
 # Music & Instrument Making
 
 **Category:** Mental Health & Quality of Life  

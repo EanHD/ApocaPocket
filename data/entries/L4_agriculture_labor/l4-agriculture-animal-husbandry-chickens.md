@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-animal-husbandry-chickens
+title: Chicken Husb
+category: L4_agriculture_labor
+---
 # Chicken Husb
 
 **Priority: VERY HIGH** | **Difficulty: Easy** | **Impact: Reliable protein + eggs + manure**

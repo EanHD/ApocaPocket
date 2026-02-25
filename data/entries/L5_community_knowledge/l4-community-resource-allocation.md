@@ -1,3 +1,8 @@
+---
+id: l4-community-resource-allocation
+title: Community Resources
+category: L5_community_knowledge
+---
 # Community Resources
 
 **Category:** L4 - Community Dynamics  

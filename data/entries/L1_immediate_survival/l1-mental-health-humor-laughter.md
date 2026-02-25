@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-humor-laughter
+title: Humor & Laughter
+category: L1_immediate_survival
+---
 # Humor & Laughter
 
 **Category:** Mental Health & Quality of Life  

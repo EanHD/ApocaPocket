@@ -1,4 +1,5 @@
 ---
+id: l1-medical-asthma-severe-attack
 title: "Severe Asthma Attack"
 category: "L1"
 subcategory: "medical"

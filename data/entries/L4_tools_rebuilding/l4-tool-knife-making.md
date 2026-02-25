@@ -50,7 +50,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Knife Making Basics
 
-# Forging & Stock
+## Steel Selection
 
-A knife is the most important survival tool. Two methods: forging (hammering hot steel to shape) and stock removal (grinding a blade from flat steel). Stock removal is easier for beginners. Good steel sources: old files, leaf springs, lawnmower blades, saw blades.
+- High-carbon steel hardens well
+- 1084 or 1095 steel: beginner friendly
+- Old files or leaf springs: good sources
+- Stainless steel: harder to heat treat
+
+## Profile Grinding
+
+- Draw knife outline on steel
+- Cut rough shape with angle grinder
+- Refine with belt sander or file
+- Leave blade thick for heat treatment
+
+## Bevel Grinding
+
+- Bevel: angled face that creates edge
+- Flat grind: even taper spine to edge
+- Hollow grind: concave face
+- Stop grinding 0.5mm from edge early
+
+## Heat Treatment
+
+- Normalize: heat to non-magnetic, air cool
+- Harden: heat to non-magnetic, quench oil
+- Test: file should slide off hardened blade
+- Temper: oven 175-200C for 2 hours
+
+## Handle Making
+
+- Drill holes in tang for handle pins
+- Cut scales from wood, bone, or G10
+- Epoxy and pin scales to tang
+- Shape and sand handle to fit hand
+
+## Final Sharpening
+
+- Use progressively finer stones
+- Maintain consistent 15-20 degree angle
+- Strop on leather to align edge
+- Hair-shaving sharp is achievable

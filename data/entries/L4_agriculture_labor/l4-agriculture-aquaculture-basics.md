@@ -35,7 +35,46 @@ steps:
   blocks oxygen.'
 - 'HARVEST: Net fish as needed or drain pond (harvest all). Process like wild fish (gut, cook thoroughly).'
 ---
-
 # Aquaculture Basics
 
-Raise fish in ponds for food. Tilapia (warm water, easy), catfish (hardy, fast-growing), trout (cold water). Requires pond (natural or dig), feeding, water quality management. Harvest fish as needed. High protein yield from small space.
+## Overview
+
+- Raising fish in controlled water
+- Pond, tank, or cage system
+- Protein source year-round
+- Waste water fertilizes gardens
+
+## Best Species for Small Scale
+
+- Tilapia: fast, tolerates poor water
+- Catfish: hardy, easy to raise
+- Carp: widely raised worldwide
+- Trout: cooler water, cleaner needs
+
+## Water Quality
+
+- Oxygen: 5+ mg/L minimum
+- pH: 6.5-8.5 range
+- Ammonia: below 0.5 mg/L
+- Temperature: species dependent
+
+## Pond Setup
+
+- Minimum 0.1 acre for family production
+- 1-2 meters deep
+- Clay bottom or liner
+- Inlet and outlet for water control
+
+## Feeding
+
+- Commercial feed: 2-3% body weight/day
+- Natural: duckweed, insects, worms
+- Manure from animals supplements feed
+- Reduce feed if fish not eating
+
+## Harvest
+
+- Net harvest: seine net dragged through
+- Trap harvest: baited traps overnight
+- 6-12 months to harvest size typically
+- Leave breeding stock for next cycle

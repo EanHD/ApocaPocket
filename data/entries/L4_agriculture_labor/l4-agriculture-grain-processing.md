@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-grain-processing
+title: Grain Proc-L4 Agri
+category: L4_agriculture_labor
+---
 # Grain Proc-L4 Agri
 
 **Priority: HIGH** | **Difficulty: Medium** | **Impact: Grain → flour without electricity**

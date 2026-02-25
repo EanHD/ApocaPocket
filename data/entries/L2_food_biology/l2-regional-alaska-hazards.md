@@ -1,3 +1,8 @@
+---
+id: l2-regional-alaska-hazards
+title: Alaska Regional Hazards
+category: L2_food_biology
+---
 # Alaska Regional Hazards
 
 **Life-Threatening Hazards Unique to Alaska**  

@@ -1,4 +1,5 @@
 ---
+id: l1-medical-stroke-recognition
 title: "Stroke Response (FAST)"
 category: "L1"
 subcategory: "medical"

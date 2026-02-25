@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-exercise-movement
+title: Exercise & Movement
+category: L1_immediate_survival
+---
 # Exercise & Movement
 
 **Category:** Mental Health & Quality of Life  

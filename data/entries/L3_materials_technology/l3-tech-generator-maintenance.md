@@ -1,4 +1,5 @@
 ---
+id: l3-tech-generator-maintenance
 title: "Generator Maintenance"
 layer: L3_materials_technology
 category: machinery

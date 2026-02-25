@@ -1,4 +1,5 @@
 ---
+id: l1-urban-structural-assessment
 title: "Building Assessment"
 layer: "L1_immediate_survival"
 category: "safety"

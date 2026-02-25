@@ -42,7 +42,46 @@ steps:
 - 'USES: (1) ROPE: Thick twisted cordage. (2) FISHING LINE: Fine twisted fibers. (3) SEWING THREAD: Very fine fibers. (4) BASKETRY: Flat leaves (cattail, yucca) or split cordage. (5) NETS: Knot cordage
   into mesh (fishing nets, carrying nets). (6) CLOTH: Weaving (requires loom - advanced). Flax and hemp make linen fabric.'
 ---
+# Natural Fibers
 
-# Natural Fibers — Plant
+## Flax — Linen
 
-Many plants produce strong fibers suitable for cordage (rope, string), textiles (cloth, baskets), and other uses. Best fibers: flax, hemp, nettle, yucca, cattail, milkweed, dogbane, inner bark of trees. Processing: harvest, ret (rot away non-fiber material), dry, twist into cordage.
+- Grow in cool climates, 90-day crop
+- Ret stalks to loosen fibers: 2 weeks
+- Break and scutch to remove woody core
+- Hackle (comb) to align fibers
+
+## Hemp
+
+- Fast growing, 100-day crop
+- Stronger fiber than flax
+- Same retting and processing method
+- Very durable cloth and rope fibers
+
+## Stinging Nettle
+
+- Wild-harvested, no cultivation needed
+- Ret and process like flax
+- Fiber comparable to linen
+- Handle with gloves until retted
+
+## Milkweed
+
+- Fluffy seed fiber, kapok-like
+- Good for stuffing, insulation
+- Bast fiber from stem possible
+- Shorter fibers, harder to spin alone
+
+## Processing Overview
+
+- Retting: biological removal of pectin
+- Breaking: crushing woody core
+- Scutching: beating away woody bits
+- Hackling: combing parallel alignment
+
+## Spinning Basics
+
+- Distaff holds unspun fiber
+- Drop spindle: simple spinning tool
+- Twist from bottom, feed fiber in
+- Z-twist (clockwise) for singles

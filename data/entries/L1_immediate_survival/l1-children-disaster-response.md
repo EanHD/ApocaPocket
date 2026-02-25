@@ -1,4 +1,5 @@
 ---
+id: l1-children-disaster-response
 title: "Children in Disaster"
 layer: "L1_immediate_survival"
 category: "medical"

@@ -1,4 +1,5 @@
 ---
+id: l1-urban-apartment-fortification
 title: "Apartment Security"
 layer: "L1_immediate_survival"
 category: "shelter"

@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-composting
+title: Composting
+category: L4_agriculture_labor
+---
 # Composting
 
 **Priority: HIGH** | **Difficulty: Easy-Medium** | **Impact: Build topsoil in 3-5 years vs 100+ naturally**

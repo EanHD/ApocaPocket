@@ -52,7 +52,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Beekeeping Basics
 
-# Beekeeping: Top-Bar Hives
+## Hive Types
 
-Bees provide honey (long-term calorie storage), beeswax (candles, waterproofing, lubricant), and pollination (increases crop yields 30-70%). A top-bar hive requires no special equipment — just a wooden box with angled bars. Bees can be captured from wild colonies.
+- Langstroth: standard, removable frames
+- Top Bar: simpler, horizontal design
+- Warre: vertical, natural comb
+- Langstroth has most documentation
+
+## Getting Started
+
+- Order package bees or nucleus colony
+- Install package: shake bees into hive
+- Release queen from cage after 3 days
+- Feed sugar syrup until established
+
+## Basic Equipment
+
+- Hive tool: prying and scraping
+- Smoker: calms bees during inspection
+- Veil and gloves: minimum protection
+- Bee jacket: full protection option
+
+## First Inspection After 1 Week
+
+- Light smoker with dry material
+- Puff 2-3 times at entrance
+- Open hive slowly
+- Eggs visible means queen is present
+
+## Seasonal Calendar
+
+- Spring: add space, feed pollen
+- Summer: harvest surplus honey
+- Fall: reduce entrance, assess stores
+- Winter: minimal disturbance
+
+## Common Problems
+
+- No eggs: queen issue, assess and requeen
+- Aggressive behavior: more smoke, slow down
+- Wax moths in weak colony: combine
+- Pesticide kill: contact hive supplier

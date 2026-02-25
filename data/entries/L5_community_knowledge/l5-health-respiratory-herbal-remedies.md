@@ -35,7 +35,46 @@ steps:
 - 'LIMITATIONS: These remedies provide symptom relief but do not cure infections. Bacterial infections (pneumonia, strep throat) require antibiotics when available. Viral infections resolve on their own
   but can be dangerous in vulnerable people.'
 ---
+# Respiratory Herbal Remedies
 
-# Respiratory Issues
+## Steam Inhalation
 
-Wild plants with traditional use for coughs, congestion, sore throat. Steam inhalation and expectorant teas can provide symptomatic relief. Not a replacement for antibiotics if infection is bacterial.
+- Boil water, lean over bowl with towel
+- Add thyme or eucalyptus if available
+- Inhale for 10-15 minutes
+- Loosens mucus, reduces congestion
+
+## Thyme
+
+- Thymol: antimicrobial and expectorant
+- Tea for cough and bronchitis
+- Effective for chest infections
+- Combine with honey for cough syrup
+
+## Mullein
+
+- Traditional lung herb
+- Expectorant, helps expel mucus
+- Tea from dried leaves
+- Large fuzzy leaves easy to identify
+
+## Elecampane
+
+- Deep chest infections and chronic cough
+- Root decoction: boil 20 minutes
+- Antimicrobial and expectorant
+- Stronger action than mullein
+
+## Honey and Ginger Syrup
+
+- 2 tbsp honey, 1 tsp grated ginger
+- Add warm water or lemon juice
+- Take by spoonful as needed
+- Safe for children over 1 year
+
+## Serious Signs
+
+- Coughing blood: urgent care needed
+- Breathing difficulty at rest: emergency
+- High fever with chest pain: pneumonia
+- Blue lips or nails: oxygen emergency

@@ -1,4 +1,5 @@
 ---
+id: l1-medical-infant-care-basics
 title: "Infant Emergency Care"
 layer: "L1_immediate_survival"
 category: "medical"

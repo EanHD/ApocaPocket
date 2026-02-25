@@ -48,7 +48,46 @@ steps:
   sensitive words (do not say food, say winter supplies). (3) ONE-TIME PADS: Advanced encryption if you have training and materials (secure but complex). (4) AUTHENTICATION: Include code word in every message
   to verify sender (prevents false messages from enemies).'
 ---
+# Communications Blackout
 
-# Communications Without In
+## Immediate Response
 
-Grid-down or disaster scenarios eliminate phones, internet, and radio infrastructure. Communication methods: foot/bike messengers, visual signals, sound signals, ham radio (if equipment survives). Establishing communication networks is critical for survival coordination.
+- Assume comms may not return soon
+- Switch to local network and neighbors
+- Establish pre-agreed meeting points
+- Check-in times pre-agreed with group
+
+## Runner System
+
+- Designate reliable message carriers
+- Pre-planned routes between locations
+- Written messages for complex info
+- Return-receipt: messenger brings reply
+
+## Signal Methods
+
+- Mirror flashes: visible for miles
+- Smoke: white for OK, black for emergency
+- Flag patterns: pre-agree simple codes
+- Whistle: 3 blasts = emergency
+
+## Low-Power Radio
+
+- FRS/GMRS radios work without infrastructure
+- CB radio range 5-10 miles
+- Ham radio with license: much longer range
+- Battery conservation protocols essential
+
+## Written Communication
+
+- Bulletin boards at key locations
+- Cache boxes with messages
+- Coded systems for sensitive info
+- Date and origin every message
+
+## Information Priorities
+
+- Safety status of people
+- Resource availability and location
+- Movement and route updates
+- Threat information and warnings

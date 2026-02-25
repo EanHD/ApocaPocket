@@ -1,3 +1,8 @@
+---
+id: l4-agriculture-food-forests
+title: FoodForests
+category: L4_agriculture_labor
+---
 # FoodForests
 
 **Priority: HIGH** | **Difficulty: Medium-High** | **Impact: Plant once, harvest forever**

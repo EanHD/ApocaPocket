@@ -1,3 +1,8 @@
+---
+id: l1-accessibility-hearing-impairments
+title: Hearing Impairments
+category: L1_immediate_survival
+---
 # Hearing Impairments
 
 ## Overview

@@ -49,7 +49,46 @@ steps:
 - 'AVOIDING SIEGE: Defenders have advantage in short engagements but lose in prolonged siege (attackers can wait, starve you out). Strategies: (1) STOCKPILE: Months of food, water, ammo. (2) NEGOTIATE:
   Offer tribute (pay off attackers) or alliance (join larger group). (3) PREEMPTIVE RETREAT: If overwhelmed force approaches, evacuate before siege begins. Territory is not worth dying for.'
 ---
-
 # Community Defense
 
-Long-term survival in lawless conditions requires organized defense. Small groups (under 10 people) use concealment and evasion. Larger communities (50+ people) can defend territory. Priorities: early warning, hardened perimeter, armed guards, discipline. Based on military small-unit tactics.
+## Threat Assessment First
+
+- What is the nature of the threat?
+- Opportunistic crime vs organized threat
+- Resource-motivated vs ideological
+- Response must match threat level
+
+## Perimeter Awareness
+
+- Define defensible area boundaries
+- Natural barriers: water, terrain
+- Maintain sight lines, clear brush
+- Mark entry points clearly
+
+## Watch Schedule
+
+- 24-hour rotation in shifts
+- Never single-person watch at night
+- Overlap shifts 15 min for briefing
+- Written log of all observations
+
+## Early Warning Systems
+
+- String with cans at perimeter
+- Dog for alert (excellent early warning)
+- Elevated observation post
+- Signal protocol when threat seen
+
+## Non-Lethal Options First
+
+- Bright lights and noise can deter
+- Community visibility deters opportunists
+- Negotiation before confrontation
+- Show of force before use of force
+
+## Community Coordination
+
+- Shared plans, everyone knows role
+- Communication channel for alerts
+- Mutual aid with neighboring groups
+- Document all incidents

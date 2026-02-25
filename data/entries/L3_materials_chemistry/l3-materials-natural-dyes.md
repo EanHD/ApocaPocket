@@ -43,7 +43,46 @@ steps:
 - 'EXPERIMENTING: Different plants, mordants, and water chemistry produce different colors. EXPERIMENT: Try local plants. Keep notes (what plant, how much, which mordant, resulting color). Build a dye garden
   if settling long-term (cultivate best dye plants).'
 ---
+# Natural Dyes
 
-# Natural Dyes from Plants
+## Mordanting
 
-Many plants produce natural dyes for coloring fabric, leather, cordage, and baskets. Common sources: onion skins (yellow/orange), walnut hulls (brown), indigo (blue), madder root (red), lichens (various). Process: extract dye by boiling plant material, mordant fabric (fixes dye), dye bath, rinse.
+- Mordant fixes dye to fabric permanently
+- Alum (potassium aluminum sulfate): common
+- Iron: darkens colors
+- Dissolve mordant in hot water, simmer fabric
+
+## Yellow and Gold
+
+- Onion skins: strong yellow, easy to find
+- Goldenrod flowers: warm yellow
+- Marigold: bright yellow-orange
+- Birch leaves: golden yellow
+
+## Red and Pink
+
+- Madder root: warm orange-red
+- Pokeberry: bright red-pink, not colorfast
+- Sumac berries: pink to rust
+- Beets: pink, not colorfast
+
+## Blue Sources
+
+- Indigo plant: classic blue dye
+- Woad: European indigo alternative
+- Blueberries: purple-blue, not colorfast
+- Most blues require indigo for colorfast
+
+## Brown and Tan
+
+- Walnut hulls: very rich dark brown
+- Oak bark or galls: tan to brown
+- Coffee: warm brown, no mordant needed
+- Tea: tan, widely available
+
+## Process
+
+- Simmer plant material in water 1 hour
+- Strain out plant material
+- Add mordanted wet fabric
+- Simmer 1 hour, rinse, dry out of sun

@@ -46,7 +46,46 @@ steps:
   If checkpoint is hostile (non-official, armed gangs): (1) AVOID if possible. (2) Turn back or take alternate route. (3) If unavoidable, comply, give up valuables, do not resist. (4) If they try to detain
   you (kidnapping risk), RUN if you see opportunity.'
 ---
+# Civil Unrest Survival
 
-# Civil Unrest
+## Shelter in Place
 
-Civil unrest (protests, riots, looting, violence) can erupt suddenly due to political, economic, or social triggers. Survival priorities: avoid danger zones, secure home, escape if necessary. Based on DHS active threat response and historical unrest patterns.
+- Safer than moving through unrest
+- Stock 72-hour minimum supplies
+- Know multiple exit routes
+- Avoid windows and exterior walls
+
+## Early Warning Signs
+
+- Unusual military or police movement
+- Market goods disappearing rapidly
+- Utility disruptions increasing
+- Social media disruption patterns
+
+## Home Security Basics
+
+- Reinforce door frames and locks
+- Keep lights off if unrest nearby
+- Noise discipline at night
+- Avoid showing valuables or stores
+
+## Avoiding Crowds
+
+- Protests can turn without warning
+- Do not engage with any faction
+- Move away from confrontation
+- Crowds funnel into corners, avoid
+
+## Emergency Cache
+
+- Water 5 gallons minimum per person
+- 2 weeks food supply stored
+- Cash in small bills
+- Important documents ready to grab
+
+## If You Must Move
+
+- Travel in small group, low profile
+- Dress neutrally, no symbols
+- Move during calm periods
+- Have clear destination and backup route

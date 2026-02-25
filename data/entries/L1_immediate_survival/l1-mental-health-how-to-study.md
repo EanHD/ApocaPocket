@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-how-to-study
+title: How to Study
+category: L1_immediate_survival
+---
 # How to Study
 
 ## Why This Matters

@@ -1,5 +1,6 @@
 ---
 id: l2-food-clay-baking
+id: l2-food-clay-baking
 title: Clay Baking
 category: L2_food_biology
 subtopic: food-preparation

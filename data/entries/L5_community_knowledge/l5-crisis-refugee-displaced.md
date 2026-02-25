@@ -47,7 +47,46 @@ steps:
 - 'LONG-TERM: Displaced persons often live in camps or undocumented in cities for years. Priorities: (1) Documentation (refugee status, asylum claim). (2) Income (under-the-table work). (3) Children education.
   (4) Community support (other refugees from your country/region).'
 ---
+# Displaced Persons Survival
 
-# Refugee Survival
+## Immediate Priorities
 
-Forced displacement (war, persecution, disaster) requires survival skills for travel, hiding, border crossing, and evading threats. Based on military evasion tactics and refugee experiences. Priorities: stay hidden, move at night, avoid official checkpoints, find safe passage.
+- Water: 1 liter per hour when moving
+- Shelter: camp before dark, always
+- Documentation: keep on your person
+- Group cohesion: do not separate
+
+## Documentation Management
+
+- Carry ID, passport, birth certificates
+- Waterproof bag for documents
+- Memorize key numbers and contacts
+- Photograph documents stored digitally
+
+## Camp Selection
+
+- High ground near water
+- Natural windbreak and shelter
+- Exit routes in multiple directions
+- Not near obvious landmarks or roads
+
+## Resource Management
+
+- Inventory what group carries
+- Ration food from day one
+- Water purification priority tool
+- Trade skills, not just goods
+
+## Group Stability
+
+- Rotate leadership roles
+- Regular group meetings
+- Address conflict immediately
+- Celebrate daily surviving
+
+## Long-Term Displacement
+
+- Establish routines quickly
+- Maintain skills, teach others
+- Connect with local established groups
+- Plan transition from refugee to community

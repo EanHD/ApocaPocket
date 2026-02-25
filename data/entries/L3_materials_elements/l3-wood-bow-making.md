@@ -48,7 +48,46 @@ steps:
 - 'FINISHING: rub bow belly and back with animal fat or oil to prevent moisture gain/loss. Store bow unstrung. Re-tiller if one limb develops more bend over time.'
 - A well-made wooden bow can last 1-3 years with care. Expect 100-300+ shots before significant set develops.
 ---
+# Wood Bow Making
 
-# Wooden Bow Construction
+## Best Wood Species
 
-A properly made wooden bow is an effective hunting and defense tool. Best woods: yew, osage orange, black locust, hickory, elm, ash, maple. A simple flatbow can be made in 1-2 days from a seasoned stave.
+- Osage orange: best North American
+- Yew: traditional English longbow
+- Black locust, ash, maple: good options
+- Straight-grained, no knots essential
+
+## Stave Selection
+
+- Find straight section 150-180cm long
+- Heartwood side: belly (faces archer)
+- Sapwood side: back (faces away)
+- Dry wood 6-12 months before shaping
+
+## Roughing Out
+
+- Remove bark from back carefully
+- Leave sapwood on back intact
+- Shape limbs with drawknife or hatchet
+- Even taper from handle to tips
+
+## Tillering
+
+- Hang bow on hook, observe bend
+- Sand or scrape stiff spots to equalize
+- Both limbs must bend evenly
+- Check at 10cm pulls, increasing gradually
+
+## Brace Height
+
+- Strung bow: 15-18cm gap at handle
+- Too low: string slaps arm
+- Too high: more stress on limbs
+- Adjust by twisting string
+
+## String Options
+
+- Plant fiber: nettle, hemp, dogbane
+- Sinew: strongest natural option
+- Rawhide: backup option
+- Reverse twist: 2 strands opposite direction

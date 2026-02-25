@@ -1,4 +1,5 @@
 ---
+id: l5-sanitation-composting-toilet
 title: Composting Toilet Build
 category: "L5"
 subcategory: "sanitation"

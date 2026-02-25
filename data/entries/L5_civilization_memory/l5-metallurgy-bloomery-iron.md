@@ -1,3 +1,8 @@
+---
+id: l5-metallurgy-bloomery-iron
+title: Bloomery Iron Smelting
+category: L5_civilization_memory
+---
 # Bloomery Iron Smelting
 **Level 5: Metallurgy & Manufacturing**
 

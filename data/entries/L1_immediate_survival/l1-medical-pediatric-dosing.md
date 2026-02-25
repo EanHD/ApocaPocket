@@ -1,4 +1,5 @@
 ---
+id: l1-medical-pediatric-dosing
 title: "Pediatric Dosing Guide"
 layer: "L1_immediate_survival"
 category: "medical"

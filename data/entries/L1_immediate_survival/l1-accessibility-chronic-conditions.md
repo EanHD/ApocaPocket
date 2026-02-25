@@ -1,3 +1,8 @@
+---
+id: l1-accessibility-chronic-conditions
+title: Chronic Conditions
+category: L1_immediate_survival
+---
 # Chronic Conditions
 
 ## Overview

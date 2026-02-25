@@ -38,7 +38,46 @@ steps:
 - 'TESTING: streak test (hematite = red-brown, magnetite = black), magnet test, density (iron ores are heavy — sink in water, much heavier than most rocks).'
 - 'Economically workable deposits need: surface access, nearby fuel source (wood for charcoal), limestone for flux, and water. Primitive iron production is extremely labor and fuel-intensive.'
 ---
+# Iron Ore Identification
 
-# Field Indicators for Iron
+## Why Find Iron Ore
 
-Recognizing iron deposits in the field. Magnetite and hematite are the primary ores. Limonite and bog iron are easier to smelt but lower grade. Surface indicators help locate workable deposits for primitive iron production.
+- Iron essential for toolmaking
+- Smelting possible with charcoal kiln
+- Often found near surface
+- Key skill for long-term rebuilding
+
+## Magnetite
+
+- Black mineral, strong magnetic pull
+- Highest iron content (~72%)
+- Heavy for its size
+- Found in stream sediments as black sand
+
+## Hematite
+
+- Red-brown mineral, rust colored
+- Leaves red streak on unglazed tile
+- 70% iron content
+- Most common iron ore worldwide
+
+## Limonite
+
+- Yellow-brown, earthy appearance
+- Lower iron content (~60%)
+- Forms in wetland and bog environments
+- Often surface indicator of deeper deposits
+
+## Field Signs
+
+- Rust-brown staining in soil or rock
+- Springs with orange-red water
+- Heavy pebbles in stream beds
+- Vegetation changes near iron deposits
+
+## Testing
+
+- Scratch test on white tile, red = iron
+- Magnet test, strong pull = magnetite
+- Weight test, heavier than common rock
+- Smelt small sample to confirm

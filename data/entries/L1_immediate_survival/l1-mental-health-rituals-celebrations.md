@@ -1,3 +1,8 @@
+---
+id: l1-mental-health-rituals-celebrations
+title: Rituals & Celebrations
+category: L1_immediate_survival
+---
 # Rituals & Celebrations
 
 **Category:** Mental Health & Quality of Life  

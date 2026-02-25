@@ -1,3 +1,8 @@
+---
+id: l1-documentation-methods
+title: Documentation Methods
+category: L1_immediate_survival
+---
 # Documentation Methods
 
 ## Why This Matters

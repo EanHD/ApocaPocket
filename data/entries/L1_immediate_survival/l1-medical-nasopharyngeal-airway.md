@@ -1,4 +1,5 @@
 ---
+id: l1-medical-nasopharyngeal-airway
 title: "NPA Airway Insertion"
 category: L1_immediate_survival
 subtopic: medical_airway

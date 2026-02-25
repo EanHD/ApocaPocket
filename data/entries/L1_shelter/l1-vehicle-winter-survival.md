@@ -1,4 +1,5 @@
 ---
+id: l1-vehicle-winter-survival
 title: "Vehicle Winter Survival"
 category: "L1"
 subcategory: "shelter"

@@ -1,3 +1,8 @@
+---
+id: l5-materials-pottery-ceramics
+title: Pottery & Ceramics
+category: L5_civilization_memory
+---
 # Pottery & Ceramics
 **Level 5: Materials & Manufacturing**
 

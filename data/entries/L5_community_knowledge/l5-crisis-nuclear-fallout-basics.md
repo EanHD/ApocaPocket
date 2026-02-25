@@ -50,7 +50,46 @@ steps:
 - 'LONG-TERM (after initial fallout): (1) Avoid contaminated areas (government will map hotspots). (2) Decontaminate property (wash surfaces, remove topsoil). (3) Monitor food and water (government tests
   for contamination). (4) Evacuate if instructed. (5) Medical screening (check for radiation exposure, cancer risk). Recovery will take years to decades.'
 ---
+# Nuclear Fallout Basics
 
-# Nuclear Survival
+## First 24 Hours Critical
 
-Nuclear detonation produces blast, heat, EMP, and fallout (radioactive particles that rain down for hours to days). Immediate survival: shelter in place for 24-72 hours in a thick-walled structure. Minimize radiation exposure. Based on CDC and FEMA nuclear emergency guidelines.
+- Get indoors immediately
+- Go to basement or building center
+- Away from windows and exterior walls
+- Stay indoors minimum 24 hours
+
+## Best Shelter Types
+
+- Underground basement: best protection
+- Brick or concrete building center: good
+- Wood frame house: minimal protection
+- Vehicle: poor protection
+
+## Contamination Reduction
+
+- Shower with soap and water immediately
+- Remove and bag outer clothing
+- Removing clothes reduces dose 80%
+- Blow nose, wipe face and hands
+
+## Food and Water Safety
+
+- Water in sealed containers: safe
+- Water from taps: check authorities
+- Covered food: generally safe
+- Outdoor food or water: avoid initially
+
+## Exposure Signs
+
+- Nausea within hours: high dose
+- Hair loss after 2-3 weeks: high dose
+- Mild symptoms: monitor and rest
+- Severe symptoms: seek medical care
+
+## Shelter Duration
+
+- 24 hours reduces exposure by 90%
+- 7 days reduces to near-background
+- Listen to emergency broadcasts
+- Do not go outside until all-clear

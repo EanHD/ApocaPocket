@@ -1,5 +1,6 @@
 ---
 id: l4-soil-clay-heavy
+id: l4-soil-clay-heavy
 title: Clay Soil Fixes
 category: L4_agriculture_labor
 subtopic: soil

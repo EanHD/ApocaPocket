@@ -1,4 +1,5 @@
 ---
+id: l1-medical-wound-closure-advanced
 title: "Advanced Wound Closure"
 category: L1_immediate_survival
 subtopic: medical_advanced

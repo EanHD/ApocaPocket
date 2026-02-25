@@ -50,7 +50,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Ethanol Distillation
 
-# Ethanol Distillation —
+## Overview
 
-Ethanol distillation concentrates fermented sugars into high-proof alcohol for use as wound antiseptic (60-90% concentration), fuel, solvent, and preservative. A simple pot still can be built from scavenged materials.
+- Ethanol fermented from sugars/starches
+- Used as fuel, antiseptic, solvent
+- Distillation concentrates to 90%+
+- Fuel ethanol not safe to drink
+
+## Making the Mash
+
+- Grains: corn, wheat, barley, potato
+- Cook starch to sugar (mashing)
+- Add water, yeast, warm location
+- Ferments 3-7 days until bubbling stops
+
+## Simple Pot Still
+
+- Sealed pot, pressure cooker works
+- Copper or steel tube for vapor
+- Coil through cold water to condense
+- Collect distillate in clean container
+
+## Fractions to Know
+
+- First 50ml per batch: methanol, discard
+- Main run: ethanol (burns blue)
+- Last fraction: fusel oils, stop here
+- First and last fractions are toxic
+
+## Fuel Use
+
+- 99% ethanol needed for engine fuel
+- Blends 10-20% with gasoline work fine
+- Final dehydration with corn meal
+- Standard distillation max 95%
+
+## Safety
+
+- Ethanol vapor is highly flammable
+- No open flame near still
+- Pressure buildup is explosion risk
+- Methanol fraction: label and discard

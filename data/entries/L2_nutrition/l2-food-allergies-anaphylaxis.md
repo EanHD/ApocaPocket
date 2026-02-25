@@ -1,4 +1,5 @@
 ---
+id: l2-food-allergies-anaphylaxis
 title: Food Allergies and
 category: "L2"
 subcategory: "nutrition"

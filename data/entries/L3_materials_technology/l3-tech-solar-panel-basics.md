@@ -1,4 +1,5 @@
 ---
+id: l3-tech-solar-panel-basics
 title: "Solar Panel Basics"
 layer: L3_materials_technology
 category: energy/power

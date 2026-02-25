@@ -1,3 +1,8 @@
+---
+id: l1-device-maintenance-apocapocket
+title: ApocaPocket Device
+category: L1_immediate_survival
+---
 # ApocaPocket Device
 
 ## Why This Matters

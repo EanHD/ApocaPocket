@@ -1,3 +1,8 @@
+---
+id: l1-accessibility-visual-impairments
+title: Visual Impairments
+category: L1_immediate_survival
+---
 # Visual Impairments
 
 ## Overview

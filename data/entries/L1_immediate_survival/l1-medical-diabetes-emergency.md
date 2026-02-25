@@ -1,4 +1,5 @@
 ---
+id: l1-medical-diabetes-emergency
 title: "Diabetes Emergency"
 category: "L1"
 subcategory: "medical"

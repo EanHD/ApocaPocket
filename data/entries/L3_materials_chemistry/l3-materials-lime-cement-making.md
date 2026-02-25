@@ -33,7 +33,46 @@ steps:
 - 'USES: Mortar for stone/brick walls, plaster for walls, whitewash (thin lime paint - disinfects and reflects light).'
 - 'CEMENT (advanced): Lime + clay + high heat (1450C). Difficult to achieve primitive. Lime mortar is adequate for most construction.'
 ---
+# Lime Cement Making
 
-# Lime and Cement Making —
+## Source Material
 
-Lime (calcium oxide) and cement are binders for mortar and concrete. Lime made by heating limestone (calcium carbonate) to 900C+. Mix lime with sand and water = mortar (binds bricks, stones). Portland cement is complex but lime mortar is achievable with primitive kiln.
+- Limestone: calcium carbonate
+- Chalk and coral also work
+- Light-colored hard sedimentary rock
+- Shell mounds: compressed oyster shells
+
+## Kiln Construction
+
+- Stone or brick kiln, chimney design
+- Sustained 900C needed for conversion
+- Charcoal fuel packed around limestone
+- Firing: 6-12 hours minimum
+
+## Calcination
+
+- CaCO3 heated to 900C releases CO2
+- Remaining product: quicklime (CaO)
+- Quicklime: white, powdery, reactive
+- Test: very hot when water added
+
+## Slaking Process
+
+- Add water slowly to quicklime
+- Violent exothermic reaction
+- Produces calcium hydroxide putty
+- Age putty 3+ months for quality
+
+## Mixing Mortar
+
+- 1 part lime putty to 3 parts aggregate
+- Sand quality affects strength
+- Work quickly, sets when exposed to air
+- Keep moist during curing (days)
+
+## Hydraulic vs Air Lime
+
+- Air lime: sets slowly in air only
+- Hydraulic: sets underwater
+- Hydraulic: harder and faster setting
+- Better for foundations and damp areas

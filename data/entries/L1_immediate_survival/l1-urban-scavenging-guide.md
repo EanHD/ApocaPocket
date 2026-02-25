@@ -1,4 +1,5 @@
 ---
+id: l1-urban-scavenging-guide
 title: "Urban Scavenging"
 layer: "L1_immediate_survival"
 category: "resource_acquisition"

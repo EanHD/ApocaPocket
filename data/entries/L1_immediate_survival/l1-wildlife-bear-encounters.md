@@ -1,4 +1,5 @@
 ---
+id: l1-wildlife-bear-encounters
 title: "Bear Encounters & Safety"
 category: "L1"
 subcategory: "wilderness"

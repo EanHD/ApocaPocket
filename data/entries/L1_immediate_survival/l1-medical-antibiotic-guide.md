@@ -1,4 +1,5 @@
 ---
+id: l1-medical-antibiotic-guide
 title: "Antibiotic Guide"
 category: L1_immediate_survival
 subtopic: medical_advanced

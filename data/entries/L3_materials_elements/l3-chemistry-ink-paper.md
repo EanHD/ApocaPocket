@@ -37,7 +37,46 @@ steps:
 - 'ALTERNATIVE - PAPYRUS: slice papyrus stems lengthwise into thin strips. Lay parallel, slightly overlapping. Lay a second layer perpendicular on top. Pound with mallet and press under weight for 24 hours.
   Dries into a writing surface.'
 ---
-
 # Ink and Paper Making
 
-Writing materials made from local plants and minerals. Oak-gall ink (iron gall ink) is permanent and water-resistant. Paper from plant fiber pulp takes 1-2 days including drying.
+## Paper Pulp Process
+
+- Soak plant fibers 24 hours (rags, grass)
+- Beat softened fibers with mallet
+- Mix with water in basin (slurry)
+- Screen frame captures mat of fibers
+
+## Drying Paper
+
+- Lift screen slowly, even layer key
+- Transfer wet sheet to flat board
+- Press with weight overnight
+- Peel off when fully dry
+
+## Carbon Black Ink
+
+- Collect soot from oil lamp or fire
+- Mix with water and small amount gum
+- Gum arabic or pine sap works well
+- Ratio: 1 part soot, 2 parts gum, water
+
+## Oak Gall Ink
+
+- Collect oak galls (wasp growths)
+- Crush, boil in water 30 minutes
+- Add iron sulfate (rusty nails in vinegar)
+- Filter and bottle, darkens with age
+
+## Writing Tools
+
+- Bird feather: strip barbs, cut tip
+- Hollow tip acts as ink reservoir
+- Reed pens similar, cut from marsh reeds
+- Animal hair brush: tied to stick
+
+## Preservation
+
+- Store ink sealed from air
+- Paper lasts centuries if kept dry
+- Charcoal inks most stable
+- Iron gall inks can corrode paper over time

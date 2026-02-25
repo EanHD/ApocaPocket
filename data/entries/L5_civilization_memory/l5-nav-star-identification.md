@@ -45,7 +45,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Star Navigation
 
-# NavStars ID&Use
+## Finding North — Polaris
 
-Fifteen key navigation stars visible from different hemispheres and seasons. Knowing these stars lets you determine direction, approximate latitude, and time without instruments. Polaris gives true north; the Southern Cross gives true south; other stars rise due east and set due west.
+- Locate Big Dipper (visible N hemisphere)
+- Two stars at cup far edge: pointers
+- Follow pointer stars 5x their distance
+- Polaris is dim but steady, never moves
+
+## Big Dipper by Season
+
+- Spring: handle points up at dusk
+- Summer: handle points right
+- Fall: handle points down
+- Winter: handle points left
+
+## Cassiopeia Backup
+
+- W or M shape, opposite Big Dipper
+- Both rotate around Polaris
+- When Dipper is low, Cassiopeia is high
+- Midpoint of W points toward Polaris
+
+## Southern Hemisphere
+
+- Southern Cross points to south pole
+- No bright star at south pole
+- Extend long axis of cross 4.5x
+- True south is in that direction
+
+## Orion for East and West
+
+- Orion belt rises due east
+- Sets due west
+- Visible Nov-Feb from most latitudes
+- Useful for confirming direction
+
+## Moon Navigation
+
+- Crescent: line between horn tips
+- Extend line to horizon: south (N hemi)
+- Full moon rises roughly east, sets west
+- Combine with known stars for accuracy

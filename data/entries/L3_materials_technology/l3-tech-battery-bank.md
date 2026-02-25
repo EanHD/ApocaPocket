@@ -1,4 +1,5 @@
 ---
+id: l3-tech-battery-bank
 title: "Battery Bank Construction"
 layer: L3_materials_technology
 category: energy/power

@@ -1,3 +1,8 @@
+---
+id: l2-regional-rockies-hazards
+title: Rocky Mountains Regional
+category: L2_food_biology
+---
 # Rocky Mountains Regional
 
 **Life-Threatening Hazards Unique to Rocky Mountains**  

@@ -35,7 +35,46 @@ steps:
 - 'WINTER MANAGEMENT: Bees cluster for warmth (do not open hive in cold). Reduce hive entrance (keeps mice out). Check weight (lift hive - should feel heavy. Light = feed sugar syrup). Insulate if extreme
   cold.'
 ---
+# Beekeeping Advanced
 
-# Beekeeping
+## Hive Inspection
 
-Beyond basic beekeeping - managing hive health, preventing swarming, capturing wild swarms, extracting honey without equipment. Bees provide honey, wax, pollination. One hive produces 30-60 lbs honey per year. Requires weekly inspections during active season.
+- Inspect every 7-10 days spring/summer
+- Smoke puffed before opening
+- Move frames slowly and gently
+- Look for eggs, larvae, queen, disease
+
+## Reading the Brood
+
+- Healthy capped brood: uniform tan caps
+- Sunken or perforated caps: disease
+- Eggs visible: queen active recently
+- No eggs 3 weeks: queen may be gone
+
+## Swarm Management
+
+- Swarm means colony reproducing
+- Prevent by adding space early
+- Catch swarm in new box if possible
+- Split hive proactively in spring
+
+## Honey Harvest
+
+- Harvest late summer, frames are capped
+- Use uncapping fork or hot knife
+- Spin in extractor or crush and strain
+- Leave 40-60 lbs for winter colony
+
+## Varroa Mite Control
+
+- Most significant pest worldwide
+- Oxalic acid treatment in fall
+- Drone comb removal helps
+- Test mite load: alcohol wash method
+
+## Winter Preparation
+
+- Reduce entrance to mouse-guard size
+- Ensure 60+ lbs honey stores
+- Ventilate top to prevent moisture
+- Do not open hive below 10C (50F)

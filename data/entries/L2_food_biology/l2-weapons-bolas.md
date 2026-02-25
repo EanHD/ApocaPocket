@@ -1,3 +1,8 @@
+---
+id: l2-weapons-bolas
+title: Bolas (Boleadoras) ⭐⭐⭐
+category: L2_food_biology
+---
 # Bolas (Boleadoras) ⭐⭐⭐
 
 **Level:** L2 (Intermediate)  

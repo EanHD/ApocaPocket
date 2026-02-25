@@ -1,3 +1,8 @@
+---
+id: l1-accessibility-cognitive-disabilities
+title: Cognitive Disabilities
+category: L1_immediate_survival
+---
 # Cognitive Disabilities
 
 ## Overview

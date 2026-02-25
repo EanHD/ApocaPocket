@@ -51,7 +51,46 @@ steps:
 - 'CONFLICT RESOLUTION: Catch problems early (daily check-ins). Separate disputing parties, hear both sides privately. Neutral mediator. Focus on needs/interests, not positions (''I need to sleep'' vs ''You
   must stop snoring''). Creative solutions. If resolution fails: separation (assign people to different tasks/areas) or exile in extreme cases. Violence is contagious — stop it immediately.'
 ---
-
 # Group Survival
 
-Solo survival is hard. Group survival is harder in different ways. 2-3 people = force multiplier. 10+ people = community with governance needs. 50+ people = civilization with specialization and politics. This entry covers group dynamics, decision-making, conflict resolution, and leadership at each scale.
+## Roles and Responsibilities
+
+- Leader: decisions and morale
+- Security: perimeter and watch
+- Medic: first aid and health monitoring
+- Forage/scout: food and water finding
+
+## Decision Making
+
+- Fast decisions: leader authority
+- Major decisions: group input
+- Veto rights for safety concerns
+- Document decisions and reasons
+
+## Conflict Management
+
+- Address conflict early
+- Private conversations first
+- Focus on group interest not personal
+- Remove dangerous individuals if needed
+
+## Food and Resource Allocation
+
+- Children and medical needs first
+- Work contribution tracked fairly
+- Equal base ration with task bonuses
+- No hoarding policy enforced
+
+## Group Morale
+
+- Regular group meetings
+- Celebrate small wins
+- Rotate hard duties equally
+- Rest time is not optional
+
+## Group Size
+
+- 5-12 people: optimal manageable size
+- Smaller: insufficient skill diversity
+- Larger: harder to move, more food needs
+- Split groups with communication plan

@@ -1,5 +1,6 @@
 ---
 id: l2-preserve-rendered-seal
+id: l2-preserve-rendered-seal
 title: Sealed Fat Storage
 category: L2_food_biology
 subtopic: preservation

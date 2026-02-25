@@ -1,3 +1,8 @@
+---
+id: l2-regional-midwest-hazards
+title: Midwest US Regional
+category: L2_food_biology
+---
 # Midwest US Regional
 
 **Life-Threatening Hazards Unique to Midwest United States**  

@@ -1,3 +1,8 @@
+---
+id: l2-fishing-traps-weirs
+title: Fish Weirs & Traps ⭐⭐⭐
+category: L2_food_biology
+---
 # Fish Weirs & Traps ⭐⭐⭐
 
 **Level:** L2 (Intermediate)  

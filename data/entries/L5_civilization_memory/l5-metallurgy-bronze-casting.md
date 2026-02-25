@@ -1,3 +1,8 @@
+---
+id: l5-metallurgy-bronze-casting
+title: Bronze Casting
+category: L5_civilization_memory
+---
 # Bronze Casting
 **Level 5: Metallurgy & Manufacturing**
 

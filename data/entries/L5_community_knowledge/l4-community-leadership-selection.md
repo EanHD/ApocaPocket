@@ -1,3 +1,8 @@
+---
+id: l4-community-leadership-selection
+title: Community Lead
+category: L5_community_knowledge
+---
 # Community Lead
 
 **Category:** L4 - Community Dynamics  

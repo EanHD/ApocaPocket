@@ -31,7 +31,46 @@ steps:
 - 'SKILLS: Heating, hammer control, bending, cutting (chisel), punching holes, welding (joining two pieces). Start simple, practice.'
 - 'TOOLS TO MAKE: Nails (cut and taper rod), knives (flatten, sharpen, harden), axes, hinges, chains.'
 ---
+# Metalwork Basics
 
-# Blacksmithing Basics —
+## Basic Metal Identification
 
-Blacksmithing shapes iron and steel by heating and hammering. Essential for making durable tools (knives, axes, nails, hinges). Requires forge (high-temp fire), anvil (striking surface), hammer, tongs. Learning curve but invaluable long-term skill.
+- Iron vs steel: steel has 0.2-2% carbon
+- Wrought iron: soft, welds easily
+- High-carbon steel: hardens when quenched
+- Cast iron: brittle, cannot be hammered
+
+## Forge Fuel
+
+- Charcoal: cleanest, traditional
+- Coal: higher heat, more clinker
+- Propane: clean but fuel dependent
+- Hardwood charcoal preferred
+
+## Heat Management
+
+- Get metal to working heat fast
+- Work quickly, air cools metal rapidly
+- Return to fire before going dark red
+- Scale (oxidation) removed by hammer
+
+## Hammer Techniques
+
+- Face hammer: direct compression
+- Cross peen: draw out (lengthen)
+- Rounding hammer: smooth surfaces
+- Angle of blow changes metal direction
+
+## Joining Methods
+
+- Forge weld: white heat, hammered together
+- Rivets: cold clinching two pieces
+- Mechanical fit: wrapped joints, collars
+- Forge weld is strongest permanent join
+
+## Beginner Projects
+
+- S-hook: bend practice
+- Nail: draw out and point
+- Chisel: upset and grind edge
+- Fire poker: bends and taper practice

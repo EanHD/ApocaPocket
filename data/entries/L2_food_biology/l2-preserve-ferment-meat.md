@@ -1,5 +1,6 @@
 ---
 id: l2-preserve-ferment-meat
+id: l2-preserve-ferment-meat
 title: Fermented Meat
 category: L2_food_biology
 subtopic: preservation

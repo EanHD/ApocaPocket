@@ -62,7 +62,46 @@ steps:
 audit_status: verified
 last_verified: '2026-02-19'
 ---
+# Herbal Medicine Reference
 
-# Herbal Medicine
+## Antimicrobial Herbs
 
-Fifteen medicinal plants with the strongest scientific evidence for efficacy. Ordered by usefulness in a survival/grid-down scenario. All are common in temperate regions or easily cultivated. Evidence ratings based on systematic reviews and WHO monographs.
+- Garlic: allicin, broad spectrum
+- Oregano: carvacrol, antifungal
+- Thyme: thymol, respiratory
+- Echinacea: immune stimulation
+
+## Anti-Inflammatory
+
+- Turmeric: curcumin, joint pain
+- Ginger: digestive, nausea relief
+- Willow bark: salicylates, aspirin-like
+- Arnica: topical bruises, swelling
+
+## Wound Care Herbs
+
+- Plantain leaf: draws infection
+- Yarrow: stops bleeding, antiseptic
+- Comfrey: tissue healing (topical only)
+- Calendula: gentle healing, antifungal
+
+## Digestive Support
+
+- Peppermint: antispasmodic, IBS
+- Chamomile: calming, gas, cramps
+- Fennel: bloating, colic
+- Slippery elm: coats and soothes gut
+
+## Respiratory Support
+
+- Mullein: expectorant, lung herb
+- Thyme: antimicrobial, loosens mucus
+- Licorice root: soothing, anti-inflam
+- Elderflower: fever, cold onset
+
+## Important Cautions
+
+- Identify plants with 100% certainty
+- Dosage matters, more is not safer
+- Some herbs interact with medications
+- Pregnant women: avoid many herbs
