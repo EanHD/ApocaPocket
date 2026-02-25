@@ -3,6 +3,9 @@
 
 > This standard is derived from actual firmware constraints — not estimates.
 > All numbers come directly from the compiled code.
+>
+> Before applying any rule here, ask: does this support the **North Star**?
+> See [`docs/NORTH_STAR.md`](NORTH_STAR.md) for the full product vision.
 
 ---
 
