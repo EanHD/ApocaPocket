@@ -1,6 +1,6 @@
 ---
 id: l1-medical-snake-bite
-title: Venomous Snake Bite — Field Treatment
+title: Snakebite Treatment
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -52,6 +52,99 @@ steps:
   off the ground if possible. (6) Snakes avoid humans — most bites occur when people step on or attempt to handle snakes.'
 ---
 
-# Venomous Snake Bite — Field Treatment
+# Snakebite Treatment
 
-Venomous snake bites are painful, frightening, but rarely fatal IF treated correctly. North America: rattlesnakes, copperheads, cottonmouths, coral snakes. Key principles: keep calm, immobilize, get to medical care. DO NOT cut, suck, tourniquet, or apply ice.
+## Immediate Response
+- Move away from snake immediately
+- Sit or lie down, stay calm
+- Panic raises heart rate and
+  spreads venom faster
+- Remove rings, watches, tight
+  clothing near the bite
+- Swelling will occur -- act fast
+- Do not walk if you can avoid it
+- 30% of bites are dry (no venom)
+- Antivenom = only definitive cure
+
+## Assess the Bite
+- Two puncture wounds = venomous
+- Single row of teeth = non-venomous
+- Treat ALL bites as venomous
+  until proven otherwise
+- Photo snake safely from distance
+- DO NOT catch or harm the snake
+- Note color, pattern, head shape
+- Mark swelling edge with pen now
+- Swelling spread = venom injected
+
+## Immobilize
+- Splint the bitten arm or leg
+- Keep limb at or below heart level
+- Do NOT elevate above heart
+  (increases systemic spread)
+- Mark swelling edge with pen
+  every 15 minutes to track spread
+- Remove rings/watches before
+  swelling becomes severe
+- Evacuate to medical care ASAP
+
+## What NOT to Do
+- NO cutting and sucking the bite
+  (increases infection, no benefit)
+- NO tourniquet -- causes tissue
+  death and amputation risk
+- NO ice or cold packs
+  (worsens local tissue damage)
+- NO alcohol or stimulants
+- NO electric shock
+  (folklore cure -- does not work)
+- DO NOT attempt to catch the snake
+
+## Pressure Bandage
+- FOR CORAL/NEUROTOXIC SNAKES ONLY
+- NOT for pit vipers (rattlesnakes,
+  copperheads, cottonmouths)
+- Wrap entire limb firmly from
+  bite site toward heart
+- Wrap like an elastic bandage
+  for a sprain -- firm, not cutting
+- Then splint the limb
+- Check: fingertip pulse must
+  remain present after wrapping
+- On pit vipers, concentrates venom
+  locally and worsens damage
+
+## Symptoms to Watch
+- LOCAL: pain, swelling, bruising,
+  blistering at bite site
+- SYSTEMIC: nausea, vomiting,
+  weakness, blurred vision
+- Difficulty breathing, drooping
+  eyelids, tingling around mouth
+- Bleeding from gums or nose
+- Pit viper: symptoms in 15-60 min
+- Coral snake: delays up to 12+ hrs
+  -- still dangerous even if fine now
+
+## No Medical Care
+- Immobilize and rest 24-48 hrs
+- Ibuprofen for pain (NOT aspirin)
+  -- aspirin worsens bleeding
+- Keep well hydrated
+- Watch for wound infection in
+  first 24-48 hours
+- Most survive without antivenom
+  if they rest completely
+- If breathing difficulty develops:
+  life-threatening -- rescue breathe
+
+## Prevention
+- Wear boots and long pants
+  in snake country
+- Watch where you step and reach
+- Use stick to move logs/rocks
+  before reaching under them
+- Snakes are active at dawn/dusk
+- Sleep off the ground if possible
+- Most bites occur when people
+  step on or try to handle snakes

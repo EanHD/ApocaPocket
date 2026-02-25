@@ -1,6 +1,6 @@
 ---
 id: l1-medical-splint-types
-title: Improvised Splinting and Immobilization
+title: "Improvised Splinting"
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -44,6 +44,54 @@ steps:
 - 'Check circulation every 30 minutes: pulse below fracture, skin color, temperature, sensation, and ability to move fingers/toes.'
 ---
 
-# Improvised Splinting and Immobilization
+# Improvised Splinting
 
-Immobilize fractures and dislocations to prevent further injury, reduce pain, and enable transport. The rule: splint above and below the injury, immobilizing the joints on either side of the break.
+## When to Splint
+- Suspected fracture or dislocation
+- Severe sprain: if in doubt, splint
+- Splint BEFORE moving the patient
+- Check CSM before and after splinting
+- CSM: circulation, sensation, movement
+- Bone visible: cover wound first
+- Do not push bone back in
+- Splint in position found
+
+## Splint Materials
+Rigid supports:
+- Sticks, boards, folded cardboard
+- Trekking poles, tent poles
+- Rolled newspaper or magazine
+Padding:
+- Clothing, foam, leaves
+Securing:
+- Cloth strips, bandanas, shoelaces
+
+## How to Splint
+- Immobilize joint ABOVE the injury
+- Immobilize joint BELOW the injury
+- Pad all bony prominences
+- Position of comfort (not anatomical)
+- Secure with ties at 3-4 points
+- Not directly over fracture site
+- Check CSM every 30 minutes
+- Elevate if possible to reduce swelling
+
+## Upper Extremity
+- Sling from triangular bandage or shirt
+- Knot behind neck, forearm at 90 deg
+- Wrist/forearm: pad and wrap rigid
+- Finger: buddy-tape to next finger
+- Pad between fingers before taping
+- Shoulder/collarbone: sling and swath
+- Swath = belt around torso and arm
+- Prevents arm from swinging
+
+## Lower Extremity
+- Ankle: pillow wrap and figure-8 ties
+- Leg: 2 padded boards, inner/outer
+- Knee: splint in slight flexion
+- Do not straighten angulated fractures
+- Splint as found — in position found
+- Femur: traction needed (see entry)
+- Buddy splint: tie to the other leg
+- Toes exposed to monitor circulation

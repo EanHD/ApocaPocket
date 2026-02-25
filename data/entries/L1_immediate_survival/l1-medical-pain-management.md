@@ -1,5 +1,5 @@
 ---
-title: "Pain Management Ladder - WHO Stepwise Approach to Analgesia"
+title: "Field Pain Management"
 category: L1_immediate_survival
 subtopic: medical_advanced
 tags:
@@ -39,7 +39,7 @@ audit_status: verified
 offline_assets: []
 ---
 
-# Pain Management Ladder - WHO Stepwise Approach to Analgesia
+# Field Pain Management
 
 ## Overview
 

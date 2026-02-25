@@ -1,6 +1,6 @@
 ---
 id: l1-medical-cold-water-immersion
-title: Cold Water Immersion Survival — 1-10-1 Principle
+title: Cold Water Immersion
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -39,6 +39,96 @@ steps:
 - 'WATER TEMPERATURE SURVIVAL TIMES (rough estimates): 0C (32F, ice water): under 15 minutes. 5C (41F): 30-60 minutes. 10C (50F): 1-2 hours. 15C (60F): 2-4 hours. 20C (68F): 6-12 hours. These are for exhaustion/unconsciousness — death follows shortly after. Actual time depends on body size, clothing, activity level.'
 ---
 
-# Cold Water Immersion Survival — 1-10-1 Principle
+# Cold Water Immersion
 
-Cold water (below 15C/60F) kills fast. The 1-10-1 rule - 1 minute of cold shock (gasping, panic), 10 minutes of meaningful movement (swim to safety), 1 hour until unconsciousness. Most cold-water drowning victims die in the first minute from panic and gasping, NOT hypothermia. Knowing this saves lives.
+## The 1-10-1 Rule
+- Minute 1: cold shock -- gasping,
+  hyperventilating, panic
+- This is when most people drown
+- Minutes 2-10: you can still swim
+  -- act NOW while you can
+- Fine motor skills degrade fast:
+  fingers numb, strokes weaken
+- Minutes 10-60: hypothermia onset
+  -- exhaustion, confusion
+- After ~1 hour: unconsciousness
+  then drowning follows quickly
+
+## If You Fall In
+- DO NOT PANIC -- the gasp reflex
+  passes in about 60 seconds
+- Flip onto your back immediately
+  to keep your head above water
+- Get control of your breathing
+- Assess: can you touch bottom?
+  How far to shore? What to grab?
+- If close (under 10m): SWIM NOW
+  while you have motor control
+- If far from shore: FLOAT and
+  call for help
+
+## Swim or Float?
+- SWIM if shore under 25m or
+  no rescue is coming
+- FLOAT if far from shore or
+  rescue is coming
+- HELP position: knees to chest,
+  arms wrapped around legs
+- Swimming in very cold (<5C)
+  hastens hypothermia
+- Float to conserve heat and
+  energy until rescued
+- A PFD keeps you afloat if
+  you lose consciousness
+
+## Getting Out
+- Exit the water as fast as
+  possible -- every second counts
+- ICE: do NOT stand on edge
+  (it will break under your weight)
+- Kick legs to get horizontal,
+  spread arms wide
+- Pull onto ice like a seal
+- Once on ice, roll away from hole
+  to distribute your weight
+- SHORE: crawl out, move away
+  from water edge immediately
+
+## After Immersion
+- GET OUT OF WET CLOTHES NOW
+- Wring them out if no dry clothes
+- Insulate: dry clothes, sleeping
+  bag, blanket, even leaves/moss
+- Cover head (major heat loss)
+- Gradual rewarming: body-to-body
+  contact, warm fluids (NOT hot)
+- NO hot bath -- causes dangerous
+  blood pressure drop and cardiac
+  effects in hypothermic patients
+- Treat for hypothermia (see entry)
+
+## Rescuing Others
+- Do NOT enter water yourself
+  -- you become a second victim
+- Use pole, rope, throw bag, boat
+- Handle gently -- rough handling
+  can trigger cardiac arrest
+- Keep victim horizontal while
+  removing from water
+- Continue CPR until they are
+  warm and still unresponsive
+- Hypothermic victims can survive
+  prolonged submersion
+
+## Survival Times
+- 0C (32F): under 15 minutes
+- 5C (41F): 30-60 minutes
+- 10C (50F): 1-2 hours
+- 15C (60F): 2-4 hours
+- 20C (68F): 6-12 hours
+- Times are until exhaustion and
+  unconsciousness -- death follows
+- Actual time varies: body size,
+  clothing, activity level
+- A PFD extends survival by
+  keeping head above water

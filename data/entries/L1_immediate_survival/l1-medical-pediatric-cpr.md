@@ -1,5 +1,5 @@
 ---
-title: "Pediatric CPR - Age-Specific Differences and Protocols"
+title: "Pediatric CPR"
 layer: "L1_immediate_survival"
 category: "medical"
 subcategory: "pediatric"
@@ -15,7 +15,7 @@ sources:
 - "European Resuscitation Council (ERC) Guidelines 2021"
 ---
 
-# Pediatric CPR - Age-Specific Differences and Protocols
+# Pediatric CPR
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 id: l1-medical-oral-rehydration-recipe
-title: Oral Rehydration Solution (ORS) — WHO Recipe
+title: Oral Rehydration (ORS)
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -41,6 +41,56 @@ steps:
 - 'Signs ORS is working: urine output increases, mouth becomes moist, skin turgor improves (pinched skin snaps back quickly).'
 ---
 
-# Oral Rehydration Solution (ORS) — WHO Recipe
+# Oral Rehydration (ORS)
 
-The WHO Oral Rehydration Solution is the single most effective treatment for dehydration from diarrhea, vomiting, or heat illness. It has saved millions of lives. The exact recipe matters — wrong ratios can worsen dehydration.
+## WHO Formula
+- 1 liter clean water
+- 6 level teaspoons sugar (30g)
+- 1/2 level teaspoon salt (2.5g)
+- EXACT ratio -- do not estimate
+- Taste test: should taste like
+  tears (slightly salty)
+- Saltier than tears: add water
+- Sweeter than tears: add tiny
+  pinch of salt
+- Discard unused solution after
+  24 hours (bacteria multiply fast)
+
+## No Measuring Spoons
+- 1 fistful of sugar
+- 3-finger pinch of salt per liter
+- Water must be boiled and cooled
+  (or otherwise treated) first
+- Mix until fully dissolved --
+  no granules should remain
+- Coconut water or broth can
+  substitute in a pinch
+- Add banana or orange juice
+  for potassium if available
+
+## How to Give It
+- Adults: 200-400ml after each
+  loose stool, sip slowly
+- Children: 50-100ml per kg
+  over 4 hours (by teaspoon)
+- Heat illness: 1 liter per hour
+- Sip slowly -- gulping causes
+  more vomiting
+- If vomits: wait 10 min, resume
+  with 1 teaspoon per minute
+- Minimum 3L/day adults with
+  active diarrhea
+
+## When ORS Is Not Enough
+- Patient cannot keep fluids down
+  after multiple attempts
+- Losing consciousness or confused
+- Bloody stool (dysentery)
+- No urine in 8+ hours
+- High fever (>39C / 102F)
+- Infant under 6 months with
+  severe diarrhea
+- All of these require IV fluids
+  or medical care
+- ORS is not a substitute for
+  emergency treatment

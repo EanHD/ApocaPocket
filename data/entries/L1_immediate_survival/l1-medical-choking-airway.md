@@ -1,6 +1,6 @@
 ---
 id: l1-medical-choking-airway
-title: Choking and Airway Obstruction
+title: Choking and Airway
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

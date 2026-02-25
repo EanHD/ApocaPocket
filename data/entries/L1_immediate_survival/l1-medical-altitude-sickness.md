@@ -1,6 +1,6 @@
 ---
 id: l1-medical-altitude-sickness
-title: Altitude Sickness — Recognition & Treatment
+title: Altitude Sickness
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -53,6 +53,86 @@ steps:
   1-2 weeks after descending.'
 ---
 
-# Altitude Sickness — Recognition & Treatment
+# Altitude Sickness
 
-Above 8,000 feet (2,400m), thin air causes altitude sickness (AMS). Symptoms: headache, nausea, fatigue. HACE (brain swelling) and HAPE (lung fluid) are life-threatening. The only cure is DESCENT. Prevent by ascending slowly (no more than 1,000 ft/day above 8,000 ft).
+## Altitude Overview
+- Sickness starts above 8,000 ft
+  (2,400m) due to low oxygen
+- Fitness does NOT protect you
+  -- healthy, fit people die from it
+- Types: AMS (mild), HACE (brain
+  swelling), HAPE (lung fluid)
+- HACE and HAPE are life-threatening
+- The ONLY cure for severe altitude
+  sickness is DESCENT
+- Medications help but do not
+  replace descent
+
+## AMS -- Mild Symptoms
+- Throbbing headache, worse at night
+- Nausea, loss of appetite, fatigue
+- Dizziness, difficulty sleeping
+- Starts 6-12 hours after ascending
+- TREATMENT: STOP ascending
+- Rest 24-48 hrs at current altitude
+- Hydrate aggressively (clear urine)
+- Ibuprofen for headache
+- Acetazolamide 125-250mg twice
+  daily speeds acclimatization
+- If symptoms worsen after 24 hrs:
+  DESCEND
+
+## HACE -- Brain Swelling
+- Severe headache, vomiting
+- Confusion, altered mental status
+- Ataxia: stumbling, loss of
+  coordination (heel-to-toe test)
+- Seizures, coma in advanced cases
+- DESCEND IMMEDIATELY
+  -- even 1,000 ft can save a life
+- Dexamethasone 8mg, then 4mg
+  every 6 hours (if available)
+- Oxygen if available
+- Fatal in 12-24 hrs without descent
+
+## HAPE -- Lung Fluid
+- Shortness of breath at REST
+  (not just with exertion)
+- Wet cough, pink/frothy sputum
+- Chest tightness, rapid heart rate
+- Bluish lips or fingernails
+- DESCEND IMMEDIATELY
+  -- most deadly altitude illness
+- Nifedipine 30mg ER every 12 hrs
+  reduces pulmonary artery pressure
+- Keep warm, minimize exertion
+- Be carried if possible
+- Fatal in 24 hrs without descent
+
+## Prevention
+- Ascend max 1,000 ft/night
+  above 8,000 ft elevation
+- Climb high, sleep low: day hike
+  higher, descend to sleep
+- Hydrate aggressively
+- Avoid alcohol and sleeping pills
+- Acetazolamide 125mg twice daily
+  starting 24 hrs before ascent
+- Allow 4-7 days to acclimatize
+  at each new altitude
+- Ego can be fatal at altitude
+
+## Descent Protocol
+- Even 1,000-1,500 ft descent
+  reverses symptoms dramatically
+- Descend NOW -- speed matters
+  more than method
+- If patient cannot walk, carry them
+- Monitor after -- symptoms recur
+  if you re-ascend too soon
+- Stuck at altitude (HACE):
+  dexamethasone 8mg, then 4mg/6hrs
+- Stuck at altitude (HAPE):
+  nifedipine 30mg ER every 12 hrs
+- Oxygen buys time -- does not
+  replace descent

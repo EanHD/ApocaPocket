@@ -33,7 +33,7 @@ tags:
 - spider
 - scorpion
 - tick
-title: Dangerous Insect Stings and Bites
+title: Insect Stings and Bites
 warnings:
 - Watch for anaphylaxis signs with ANY sting — can occur even without prior reaction
   history.

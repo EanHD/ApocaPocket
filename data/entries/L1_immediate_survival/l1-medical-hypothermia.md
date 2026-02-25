@@ -1,6 +1,6 @@
 ---
 id: l1-medical-hypothermia
-title: Hypothermia Recognition and Rewarming
+title: Hypothermia Treatment
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

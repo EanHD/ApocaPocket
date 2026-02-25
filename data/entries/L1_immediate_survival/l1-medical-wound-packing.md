@@ -1,6 +1,6 @@
 ---
 id: l1-medical-wound-packing
-title: Hemostatic Wound Packing for Severe Bleeding
+title: Wound Packing
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -42,6 +42,80 @@ steps:
 - Document time of packing — this information is critical for medical personnel who will eventually treat the wound.
 ---
 
-# Hemostatic Wound Packing for Severe Bleeding
+# Wound Packing
 
-Wound packing is the primary technique for controlling life-threatening bleeding from junctional wounds (groin, armpit, neck) and deep lacerations where tourniquets cannot be applied. Pack within 3 minutes — blood loss kills fast.
+## When to Pack
+- Life-threatening bleeding ONLY:
+  spurting blood, blood pooling
+  on ground, blood-soaked clothing
+- Junctional wounds: groin, armpit,
+  neck -- tourniquet won't work here
+- NOT for minor cuts or scrapes
+- Act within 3 minutes -- blood
+  loss is fatal fast
+- Expose the wound completely:
+  cut or tear clothing away
+
+## Materials
+- Hemostatic gauze preferred:
+  QuikClot, Celox, or similar
+- Otherwise: cleanest cloth you
+  can find -- torn cotton shirts,
+  gauze, or sanitary pads
+- NOT toilet paper or paper towels
+  (they disintegrate when wet)
+- A clean sock is better than
+  nothing in an emergency
+- Have extra material ready
+
+## How to Pack
+- Push material DIRECTLY into the
+  wound cavity with your fingers
+- Press firmly against the source
+  of bleeding
+- Start at the DEEPEST point
+  of the wound
+- Zigzag pattern -- fill the entire
+  cavity tightly
+- Deep wounds may need 3-5 feet
+  of gauze or cloth strips
+- Keep packing until wound is full
+  and firm to the touch
+
+## Maintaining Pressure
+- Hold direct pressure with both
+  hands for 3+ minutes minimum
+- 5+ minutes is better for deep
+  junctional wounds
+- DO NOT peek or lift to check
+  -- this disrupts clot formation
+- Pack until wound is firm, full,
+  and bleeding slows
+- If blood soaks through, add
+  MORE material on top -- never
+  remove the first layer
+
+## After Packing
+- Apply pressure dressing on top:
+  elastic bandage, belt, or cloth
+  strips wrapped tight
+- Tight enough to maintain pressure
+  but do not cut off distal pulse
+- Monitor for shock: pale skin,
+  rapid weak pulse, confusion,
+  rapid breathing
+- Lay patient flat, elevate legs
+  if no spinal injury suspected
+- Document time of packing
+
+## Critical Rules
+- Do NOT remove packing -- pulling
+  it out dislodges forming clots
+- If blood soaks through: add more
+  on top, do not remove first layer
+- Warn patient: wound packing
+  is extremely painful -- do it
+  anyway, pain is survivable
+- Abdominal organs visible: do NOT
+  pack -- cover with moist cloth
+- Record time packed for medics

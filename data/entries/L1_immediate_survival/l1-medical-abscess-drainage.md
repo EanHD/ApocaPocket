@@ -49,7 +49,7 @@ tags:
 - drainage
 - incision
 - boil
-title: Abscess Incision and Drainage
+title: Abscess Drainage
 warnings:
 - Abscesses near the eyes, nose bridge, or temple ('danger triangle of the face')
   should NOT be drained in the field — infection can spread to the brain via venous
@@ -61,6 +61,71 @@ warnings:
 - Do NOT squeeze an abscess — this forces bacteria deeper into tissue
 ---
 
-# Abscess Incision and Drainage
+# Abscess Drainage
 
-A skin abscess (boil) is a localized collection of pus that will not resolve with antibiotics alone — it must be drained. An undrained abscess can progress to sepsis. The procedure is simple but must be done with proper technique to prevent spread.
+## Is It Ready?
+- FLUCTUANT = ready to drain:
+  soft, fluid-filled, like a
+  water balloon when pressed
+- Hard and diffuse = NOT ready yet
+- If not ready: warm compresses
+  (cloth in warm water) 20 min,
+  4x daily, 1-3 days to ripen
+- DO NOT squeeze -- forces bacteria
+  deeper into tissue
+- Red streaking from abscess =
+  spreading infection, drain fast
+
+## Preparation
+- Clean skin with iodine, alcohol,
+  or soap and water
+- Sterilize blade: heat in flame
+  until red, cool in alcohol
+- Anesthetic: inject lidocaine
+  around (NOT into) the abscess
+- If no anesthetic: ice for 5 min
+  to partially numb the area
+- This WILL be painful regardless
+- Have clean cloths/gauze ready
+  to absorb drainage
+
+## The I&D Procedure
+- Make single linear incision
+  across most fluctuant point
+- Length: 1-2cm -- enough to drain,
+  small enough to heal
+- Cut through skin into cavity --
+  pus drains immediately
+- Gently press around (not on)
+  cavity to express remaining pus
+- Break up internal walls with
+  blunt probe or hemostat tip
+- Irrigate cavity with clean water
+  or dilute iodine solution
+
+## Packing and Aftercare
+- Large abscess (>2cm): loosely
+  pack cavity with gauze strip
+- Wick extends slightly from wound
+  -- prevents premature closure
+- Cover with clean absorbent dressing
+- Change packing and dressing daily
+- Re-irrigate at each change
+- Remove packing after 2-3 days
+  when drainage decreases
+- Continue daily changes until healed
+- Cavity heals inside-out: 1-3 weeks
+
+## When NOT to Drain
+- Face: near eyes, nose bridge,
+  temple (danger triangle) -- risk
+  of spread to brain via veins
+- Neck or jaw: risk of airway
+  compromise if it spreads
+- Hand: risk of tendon infection
+- Near major vessels: groin, armpit
+- Systemic symptoms: fever, chills,
+  confusion = possible sepsis
+  -- antibiotics critical
+- When in doubt, do NOT drain
+  -- evacuate for proper care

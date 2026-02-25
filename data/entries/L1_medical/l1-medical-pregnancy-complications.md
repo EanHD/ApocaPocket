@@ -1,5 +1,5 @@
 ---
-title: "Pregnancy Complications & Emergency Protocols"
+title: "Pregnancy Emergencies"
 category: "L1"
 subcategory: "medical"
 tags: ["pregnancy", "preeclampsia", "miscarriage", "ectopic", "preterm-labor", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l1-strategy-first-24-hours"
 ---
 
-# Pregnancy Complications & Emergency Protocols
+# Pregnancy Emergencies
 
 ## Overview
 

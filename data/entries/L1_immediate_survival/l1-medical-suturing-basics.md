@@ -43,7 +43,7 @@ tags:
 - stitches
 - needle
 - improvised
-title: Emergency Wound Closure and Suturing
+title: Emergency Suturing
 warnings:
 - NEVER suture a wound that is infected, contaminated, or more than 6 hours old —
   this traps bacteria and causes life-threatening infection
@@ -55,6 +55,65 @@ warnings:
 - Unsterilized needles can cause tetanus, sepsis, and death
 ---
 
-# Emergency Wound Closure and Suturing
+# Emergency Suturing
 
-Field suturing techniques for wound closure when no medical facility is available. Only close wounds that are clean, less than 6 hours old, and not caused by bites or contaminated objects.
+## When to Suture
+Suture if:
+- Wound gapes and won't stay closed
+- Wound is over a joint
+- Facial wound (cosmetic concern)
+Do NOT suture:
+- Infected or contaminated wounds
+- Animal or human bites
+- Puncture wounds
+- Wounds older than 8 hrs (12 face)
+
+## Equipment
+- Curved needle (or filed fish hook)
+- Sterilize: flame 10 sec, then cool
+- Thread: fishing line 2-4 lb mono
+- Or dental floss or thin waxed string
+- Forceps or tweezers
+- Scissors, clean dressing
+- Irrigate wound thoroughly first
+- Remove all debris before suturing
+
+## Simple Interrupted
+- Enter skin 3-4mm from wound edge
+- Insert at 90 degrees to skin
+- Pass under wound to other side
+- Exit same distance from edge
+- Square knot: L-over-R, R-over-L x2
+- Cut tails to 5-6mm length
+- Repeat every 4-5mm along wound
+- Most wounds need 3-8 stitches
+
+## Tension and Spacing
+- Sutures close wound without gaps
+- But NOT so tight skin turns white
+- Blanching = too tight = tissue death
+- Too loose = gap reopens
+- Aim for firm handshake pressure
+- Space 4-5mm apart evenly
+- Work from center outward
+- Check tension after each stitch
+
+## Aftercare
+- Cover with clean dressing
+- Change dressing daily
+- Face sutures: remove at 5 days
+- Body sutures: remove 7-10 days
+- Joints: remove at 10-14 days
+- Redness spreading or pus = infected
+- Fever with wound = infected
+- Remove sutures, start antibiotics
+
+## Closure Alternatives
+Closure strips (tape/Steri-strips):
+- Adequate if patient is not active
+- Apply across wound edges, press firm
+Super glue (cyanoacrylate):
+- Apply to skin EDGES only
+- Hold 60 seconds until bonded
+- Works for small, clean wounds
+- NOT inside the wound itself

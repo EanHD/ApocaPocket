@@ -1,6 +1,6 @@
 ---
 id: l1-medical-wound-cleaning
-title: Wound Irrigation and Cleaning
+title: Wound Irrigation
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

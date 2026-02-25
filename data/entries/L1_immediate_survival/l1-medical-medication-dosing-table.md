@@ -50,7 +50,7 @@ tags:
 - acetaminophen
 - antihistamine
 - otc
-title: Common OTC Medication Dosing Reference
+title: OTC Medication Dosing
 warnings:
 - Acetaminophen (Tylenol) overdose destroys the liver — NEVER exceed 3000mg/day (some
   sources say 4000mg). Damage is irreversible and fatal without transplant.
@@ -65,6 +65,54 @@ warnings:
   Do NOT combine acetaminophen with alcohol.'
 ---
 
-# Common OTC Medication Dosing Reference
+# OTC Medication Dosing
 
-Quick-reference dosing for common over-the-counter medications. These are the most useful drugs to stockpile for survival situations. All doses assume normal kidney and liver function.
+## Pain and Fever
+- Ibuprofen: 200-400mg every 4-6 hrs
+- Max 1200mg/day — take with food
+- Children: 5-10mg/kg every 6-8 hrs
+- Acetaminophen: 500-1000mg every 4-6h
+- Max 3000mg/day (liver risk if more)
+- Children: 10-15mg/kg every 4-6 hrs
+- Safe in pregnancy: acetaminophen
+- Do not combine multiple NSAIDs
+
+## Allergy and Itch
+- Diphenhydramine (Benadryl): 25-50mg
+- Every 4-6 hrs, max 300mg/day
+- Children 6-12: 12.5-25mg q4-6 hrs
+- Causes drowsiness — use with caution
+- Do not use when alertness is needed
+- Not for children under 2
+- Not a substitute for epinephrine
+- For anaphylaxis: give epi first
+
+## Stomach and GI
+- Loperamide (Imodium): 4mg first dose
+- Then 2mg after each loose stool
+- Max 16mg/day
+- Do NOT use if bloody stool or fever
+- Antacids: 500-1000mg as needed
+- Pepto-bismol: follow label dosing
+- ORS is more critical than most drugs
+- See ORS entry for exact recipe
+
+## Antibiotics
+General guidance only:
+- Always complete the full course
+- Don't share with others
+- For bacterial infections only
+- Not for viral illness (cold, flu)
+- Amoxicillin: common broad-spectrum
+- Metronidazole: dental/gut infections
+- Consult dosing entry for specifics
+
+## Storage and Expiration
+- Most meds retain 80%+ potency
+- 1-2 yrs past expiration if stored
+- Cool, dry, dark: best conditions
+- Avoid heat, humidity, and sunlight
+- Insulin and epi: always replace
+- Tetracycline antibiotics: EXCEPTION
+- Become toxic when expired — discard
+- Never use old tetracyclines

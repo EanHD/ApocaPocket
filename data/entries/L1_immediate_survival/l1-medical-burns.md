@@ -1,7 +1,7 @@
 ---
 audit_status: audited
 id: l1-medical-burns
-title: Burn Assessment and Initial Care
+title: Burn Assessment
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

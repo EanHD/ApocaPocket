@@ -1,6 +1,6 @@
 ---
 id: l1-medical-spider-scorpion
-title: Spider & Scorpion Envenomation
+title: Spider and Scorpion
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -53,6 +53,54 @@ steps:
   systemic symptoms. All require medical evacuation if possible.'
 ---
 
-# Spider & Scorpion Envenomation
+# Spider and Scorpion
 
-Most spiders and scorpions are harmless. A few cause serious symptoms. Black widow and brown recluse (North America), funnel-web (Australia), scorpions (global). Treatment focuses on pain management and symptom monitoring. Most bites resolve without intervention.
+## Black Widow
+- Shiny black, red hourglass underside
+- Bite: sharp pinprick or not felt
+- Symptoms 15-60 min: muscle cramps
+- Rigid abdomen, sweating, nausea
+- Treatment: pain control, ice pack
+- NOT ibuprofen — worsens symptoms
+- Most resolve 24-48 hrs
+- High risk: elderly, children
+
+## Brown Recluse
+- Brown body, dark violin shape on back
+- Bite: painless initially
+- 2-8 hrs: red, swollen, bullseye
+- 1-3 days: tissue necrosis spreads
+- Treatment: ice, elevation, pain meds
+- Do NOT cut or drain the wound
+- Let dead tissue slough naturally
+- 90% heal without intervention
+
+## Dangerous Scorpions
+- Bark scorpion: small, tan, AZ/SW USA
+- Severe pain, numbness, muscle spasms
+- Difficulty swallowing: danger sign
+- Most species: painful but not deadly
+- Treatment: ice and pain control
+- Immobilize the affected limb
+- Children at higher risk than adults
+- Watch for breathing trouble
+
+## When to Worry
+Seek care for any of these:
+- Difficulty breathing
+- Severe muscle rigidity or spasms
+- Altered mental status, confusion
+- Blurred vision
+- Drooling or trouble swallowing
+- Spreading redness and warmth
+- Children or elderly with symptoms
+
+## First Aid All Bites
+- Wash bite with soap and water
+- Ice pack: 20 min on, 20 min off
+- Pain control (acetaminophen)
+- Black widow: avoid ibuprofen
+- Elevate limb if bite is there
+- Mark redness edge and watch spread
+- Monitor for systemic symptoms
+- Evacuate if symptoms are severe

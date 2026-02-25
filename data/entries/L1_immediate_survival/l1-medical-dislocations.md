@@ -1,6 +1,6 @@
 ---
 id: l1-medical-dislocations
-title: Shoulder and Finger Dislocation Reduction
+title: Dislocation Reduction
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -42,6 +42,73 @@ steps:
   reduction urgently — the joint is compressing blood vessels.'
 ---
 
-# Shoulder and Finger Dislocation Reduction
+# Dislocation Reduction
 
-Dislocations occur when a bone is forced out of its joint socket. Shoulders and fingers are most common. Field reduction (putting the joint back) should only be attempted when medical care is unavailable — improper technique can cause nerve and blood vessel damage.
+## When to Attempt
+- Attempt only when medical care
+  is unavailable
+- Check before: pulse, sensation,
+  and movement in affected limb
+- NEVER if fracture suspected near
+  joint (crepitus, extreme bruising)
+- Hip dislocation: DO NOT attempt
+  -- high-energy, always evacuate
+- 2-3 gentle attempts max -- if it
+  won't reduce, splint and evacuate
+- Reduce shoulders within 1-2 hrs
+  -- spasm makes it harder over time
+
+## Shoulder: Cunningham
+- Safest field reduction method
+- Patient sits upright in a chair
+- Massage trapezius (upper back/neck)
+  firmly for 2-3 minutes
+- Then massage deltoid (shoulder
+  cap) for 2-3 minutes
+- Then massage bicep 2-3 minutes
+- Ask patient to slowly shrug
+  shoulders toward ears and pull
+  shoulder blades together
+- Shoulder often self-reduces
+  during this sequence
+
+## Shoulder: Stimson
+- Patient lies face-down on elevated
+  surface (table, log, boulder)
+- Affected arm hangs straight down
+- Hang 5-10 lbs from the wrist:
+  water bottle in a cloth bag
+- Wait 15-30 minutes
+- Gravity and muscle relaxation
+  do the work -- no force needed
+- Lowest risk of nerve/vessel
+  damage of all shoulder methods
+- Can combine with gentle
+  external rotation while waiting
+
+## Finger Reduction
+- Obvious deformity: finger bent
+  at wrong angle
+- Grasp dislocated segment firmly
+- Counter-traction: hold finger
+  base with other hand
+- Pull steady traction along the
+  axis of the finger
+- Gently guide back to alignment
+- Feel or hear a 'clunk' as it seats
+- Buddy-tape to adjacent finger
+  for 2-3 weeks after
+
+## After Reduction
+- Immediately check circulation:
+  pulse, skin color, sensation
+- Can patient wiggle fingers/toes?
+- If circulation was compromised
+  before reduction: urgent --
+  joint compresses blood vessels,
+  attempt reduction immediately
+- Shoulder: sling-and-swath
+  (arm against chest, bound)
+- Keep immobilized 2-3 weeks
+  -- joint re-dislocates easily
+- Evacuate for imaging if possible

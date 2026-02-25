@@ -1,5 +1,5 @@
 ---
-title: "Infant Care Basics - Post-Disaster Survival"
+title: "Infant Emergency Care"
 layer: "L1_immediate_survival"
 category: "medical"
 subcategory: "pediatric"
@@ -15,7 +15,7 @@ sources:
 - "CDC Infant Care and Safety Guidelines"
 ---
 
-# Infant Care Basics - Post-Disaster Survival
+# Infant Emergency Care
 
 ## Overview
 

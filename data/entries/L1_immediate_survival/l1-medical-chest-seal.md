@@ -1,7 +1,7 @@
 ---
 audit_status: audited
 id: l1-medical-chest-seal
-title: Tension Pneumothorax and Improvised Chest Seal
+title: Chest Seal Technique
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

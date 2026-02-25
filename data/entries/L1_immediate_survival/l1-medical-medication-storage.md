@@ -1,5 +1,5 @@
 ---
-title: "Medication Storage and Stability - Temperature, Light, and Expiration Management"
+title: "Medication Storage"
 category: L1_immediate_survival
 subtopic: medical_advanced
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Advanced Wound Closure - Suturing, Stapling, and Adhesives"
+title: "Advanced Wound Closure"
 category: L1_immediate_survival
 subtopic: medical_advanced
 tags:
@@ -38,7 +38,7 @@ audit_status: verified
 offline_assets: []
 ---
 
-# Advanced Wound Closure - Suturing, Stapling, and Adhesives
+# Advanced Wound Closure
 
 ## ⚠️ CRITICAL WARNING ⚠️
 

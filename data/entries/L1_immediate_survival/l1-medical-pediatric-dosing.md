@@ -1,5 +1,5 @@
 ---
-title: "Pediatric Medication Dosing - Weight-Based Reference"
+title: "Pediatric Dosing Guide"
 layer: "L1_immediate_survival"
 category: "medical"
 subcategory: "pediatric"
@@ -14,7 +14,7 @@ sources:
 - "Harriet Lane Handbook of Pediatric Emergency Care"
 ---
 
-# Pediatric Medication Dosing - Weight-Based Reference
+# Pediatric Dosing Guide
 
 ## Overview
 

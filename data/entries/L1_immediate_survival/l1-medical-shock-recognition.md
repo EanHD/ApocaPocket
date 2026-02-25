@@ -1,7 +1,7 @@
 ---
 audit_status: audited
 id: l1-medical-shock-recognition
-title: Recognizing and Managing Shock
+title: Shock Recognition
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

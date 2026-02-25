@@ -1,6 +1,6 @@
 ---
 id: l1-medical-poisonous-plants
-title: Deadly Poisonous Plants — Identification & Exposure
+title: Poisonous Plants ID
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -52,6 +52,64 @@ steps:
   Use multiple field guides to confirm ID — one book is not enough. (5) If in doubt, DON''T.'
 ---
 
-# Deadly Poisonous Plants — Identification & Exposure
+# Poisonous Plants ID
 
-Certain plants kill with tiny doses. Death camas, water hemlock, poison hemlock, deadly nightshade, and foxglove are the most dangerous. All edible plants have poisonous look-alikes. This entry covers recognition, symptoms, and emergency response.
+## Start Here
+- Unknown plant: do not eat it
+- Clear water does not mean clean
+- Learn 5 deadly plants in your region
+- Every edible has a toxic look-alike
+- Never eat white umbrella flowers
+- Not unless 100% certain of ID
+- Teach children: no wild plants
+- Without adult permission ever
+
+## Water Hemlock
+- Most violently toxic in N. America
+- White umbrella flowers, near water
+- Parsnip-like root, yellow oil inside
+- Lethal dose: one bite of root
+- Symptoms in 15 min: vomiting
+- Then seizures, respiratory failure
+- No field treatment is possible
+- Avoid ALL white umbrella plants
+
+## Poison Hemlock
+- Similar look to water hemlock
+- Purple-spotted hollow stems, musty
+- White umbrella flowers, 6-10 ft tall
+- All parts toxic — few leaves lethal
+- Symptoms: progressive leg paralysis
+- Then respiratory muscle paralysis
+- Death by suffocation: no antidote
+- Hollow stem and spots = this plant
+
+## Other Deadly Plants
+- Death camas: grass-like, white flowers
+- Onion-like bulb but NO onion smell
+- One bulb lethal: cardiac arrest
+- Deadly nightshade: shiny black berries
+- 2-5 berries lethal to children
+- Foxglove: tall spike, tubular flowers
+- Fuzzy leaves, pink or purple blooms
+- Cardiac toxin — all parts dangerous
+
+## Plant Ingestion
+Call poison control first if possible:
+- US: 800-222-1222
+- Identify the plant if possible
+- Do NOT induce vomiting by default
+- Only if instructed by poison control
+- Activated charcoal (if available)
+- Give within 1 hour to bind toxins
+- Keep airway open, monitor closely
+
+## Treatment
+- Most plant poisonings: no antidote
+- Supportive care only in the field
+- Symptoms appear 30 min to 4 hrs
+- Keep patient hydrated if conscious
+- Seizures (hemlock): protect airway
+- Benzodiazepines for seizures if avail
+- Evacuate to medical care ASAP
+- Time is critical — act fast

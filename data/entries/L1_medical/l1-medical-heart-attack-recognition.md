@@ -1,5 +1,5 @@
 ---
-title: "Heart Attack Recognition & Response"
+title: "Heart Attack Response"
 category: "L1"
 subcategory: "medical"
 tags: ["heart-attack", "cardiac", "chest-pain", "myocardial-infarction", "aspirin", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l1-medical-shock-recognition"
 ---
 
-# Heart Attack Recognition & Response
+# Heart Attack Response
 
 ## Overview
 

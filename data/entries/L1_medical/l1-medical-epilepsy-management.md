@@ -1,5 +1,5 @@
 ---
-title: "Epilepsy & Seizure Management"
+title: "Seizure Management"
 category: "L1"
 subcategory: "medical"
 tags: ["epilepsy", "seizure", "status-epilepticus", "convulsion", "anticonvulsant", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l1-medical-medication-dosing-table"
 ---
 
-# Epilepsy & Seizure Management
+# Seizure Management
 
 ## Overview
 

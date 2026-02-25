@@ -1,6 +1,6 @@
 ---
 id: l1-medical-eye-injuries
-title: Field Eye Injury Management
+title: Field Eye Injuries
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l1-medical-allergic-reactions
-title: Anaphylaxis and Allergic Reactions
+title: Anaphylaxis Response
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

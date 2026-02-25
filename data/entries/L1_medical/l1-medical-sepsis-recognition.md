@@ -1,5 +1,5 @@
 ---
-title: "Sepsis Recognition & Treatment"
+title: "Sepsis Recognition"
 category: "L1"
 subcategory: "medical"
 tags: ["sepsis", "infection", "septic-shock", "systemic-infection", "antibiotics", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l1-medical-antibiotic-guide"
 ---
 
-# Sepsis Recognition & Treatment
+# Sepsis Recognition
 
 ## Overview
 

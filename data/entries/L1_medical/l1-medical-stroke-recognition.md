@@ -1,5 +1,5 @@
 ---
-title: "Stroke Recognition & Response (FAST)"
+title: "Stroke Response (FAST)"
 category: "L1"
 subcategory: "medical"
 tags: ["stroke", "neurological", "fast-protocol", "tpa", "brain-attack", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l1-medical-seizure-management"
 ---
 
-# Stroke Recognition & Response (FAST)
+# Stroke Response (FAST)
 
 ## Overview
 

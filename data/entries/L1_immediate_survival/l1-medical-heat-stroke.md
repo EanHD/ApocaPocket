@@ -1,7 +1,7 @@
 ---
 audit_status: audited
 id: l1-medical-heat-stroke
-title: Heat Stroke and Heat Exhaustion
+title: Heat Stroke Response
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

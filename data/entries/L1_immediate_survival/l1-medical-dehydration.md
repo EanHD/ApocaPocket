@@ -1,6 +1,6 @@
 ---
 id: l1-medical-dehydration
-title: Dehydration Recognition and Oral Rehydration
+title: Dehydration and ORS
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

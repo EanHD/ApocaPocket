@@ -1,5 +1,5 @@
 ---
-title: "Diabetes Emergency Management"
+title: "Diabetes Emergency"
 category: "L1"
 subcategory: "medical"
 tags: ["diabetes", "insulin", "hypoglycemia", "hyperglycemia", "blood-sugar", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l1-strategy-common-fatal-mistakes"
 ---
 
-# Diabetes Emergency Management
+# Diabetes Emergency
 
 ## Overview
 

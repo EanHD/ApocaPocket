@@ -1,5 +1,5 @@
 ---
-title: "Asthma - Severe Attack Management"
+title: "Severe Asthma Attack"
 category: "L1"
 subcategory: "medical"
 tags: ["asthma", "respiratory", "breathing", "inhaler", "bronchospasm", "emergency"]
@@ -15,7 +15,7 @@ related:
 - "l1-medical-medication-dosing-table"
 ---
 
-# Asthma - Severe Attack Management
+# Severe Asthma Attack
 
 ## Overview
 

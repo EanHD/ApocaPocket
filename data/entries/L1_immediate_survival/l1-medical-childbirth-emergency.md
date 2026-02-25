@@ -1,6 +1,6 @@
 ---
 id: l1-medical-childbirth-emergency
-title: Emergency Childbirth Basics
+title: Emergency Childbirth
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

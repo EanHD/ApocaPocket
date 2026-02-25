@@ -1,6 +1,6 @@
 ---
 id: l1-medical-tooth-extraction
-title: Emergency Tooth Extraction
+title: "Tooth Extraction"
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:
@@ -43,6 +43,54 @@ steps:
 - 'ANTIBIOTICS: if available, amoxicillin 500mg every 8 hours for 7 days (or metronidazole 400mg every 8 hours if penicillin-allergic) for infected teeth.'
 ---
 
-# Emergency Tooth Extraction
+# Tooth Extraction
 
-Dental infections and abscesses can become life-threatening (Ludwig's angina, sepsis) without treatment. When no dentist is available, extraction of a severely infected tooth may be necessary. This is a LAST RESORT procedure.
+## When to Extract
+Extract ONLY when:
+- Severe pain, all treatment failed
+- Pain persists more than 48 hours
+- Tooth cracked to the gum line
+- Obvious abscess: tooth cannot be saved
+- No dental care for weeks or longer
+Extraction is a LAST RESORT.
+Try everything else first.
+
+## What to Try First
+- Ibuprofen 400mg + acetaminophen 1000mg
+- Alternate every 3 hours for pain
+- Clove oil on tooth and gum: anesthetic
+- Salt water rinse multiple times daily
+- Antibiotics if available:
+- Amoxicillin 500mg every 8 hrs
+- Metronidazole if penicillin allergy
+- Pack with clove oil soaked cotton
+
+## Preparation
+- Sterilize forceps with flame/alcohol
+- Give max pain meds 30-45 min before
+- Inject lidocaine if available
+- Explain procedure to patient
+- Have gauze ready for bleeding
+- Ensure patient is seated firmly
+- Good lighting is essential
+- Have suction or spit method ready
+
+## The Extraction
+- Grasp tooth firmly at base, not crown
+- Wiggle in figure-8 motion
+- Side-to-side and slight rotation
+- This breaks periodontal ligaments
+- Takes 1-3 minutes of steady work
+- Do NOT yank — gradual pressure only
+- Apply steady increasing traction
+- Pull when tooth is very mobile
+
+## After Extraction
+- Bite on gauze for 30-60 minutes
+- Blood clot is critical — protect it
+- No rinsing for 24 hours
+- No sucking through straws
+- No hot liquids for 24 hours
+- After 24 hrs: salt water rinse
+- Dry socket: pain 3-4 days after
+- Pack with clove oil gauze for relief

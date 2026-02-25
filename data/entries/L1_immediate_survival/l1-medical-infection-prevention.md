@@ -1,6 +1,6 @@
 ---
 id: l1-medical-infection-prevention
-title: Field Infection Prevention
+title: "Infection Prevention"
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

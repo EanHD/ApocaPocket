@@ -1,6 +1,6 @@
 ---
 id: l1-medical-basic-pharmacology
-title: Common Medication Dosages and Uses
+title: Common Medications
 category: L1_immediate_survival
 subtopic: medical_first_aid
 tags:

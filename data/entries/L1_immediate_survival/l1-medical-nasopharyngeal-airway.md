@@ -1,5 +1,5 @@
 ---
-title: "Nasopharyngeal Airway (NPA) - Insertion and Airway Management"
+title: "NPA Airway Insertion"
 category: L1_immediate_survival
 subtopic: medical_airway
 tags:
@@ -39,7 +39,7 @@ audit_status: verified
 offline_assets: []
 ---
 
-# Nasopharyngeal Airway (NPA) - Insertion and Airway Management
+# NPA Airway Insertion
 
 ## Overview
 

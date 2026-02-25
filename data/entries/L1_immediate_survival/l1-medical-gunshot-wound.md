@@ -1,5 +1,5 @@
 ---
-title: "Gunshot Wound Treatment - Assessment, Stabilization, and Field Management"
+title: "Gunshot Wound Care"
 category: L1_immediate_survival
 subtopic: medical_trauma
 tags:
@@ -40,7 +40,7 @@ audit_status: verified
 offline_assets: []
 ---
 
-# Gunshot Wound Treatment - Assessment, Stabilization, and Field Management
+# Gunshot Wound Care
 
 ## ⚠️ CRITICAL WARNING ⚠️
 
