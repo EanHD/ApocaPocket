@@ -544,9 +544,23 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
     int total = readEntry(eid, folderIdx, entryLines, MAX_LINES);
     if (total <= 0) { delete[] entryLines; return; }
 
+    // ── Resolve diagram EID (frontmatter > eid fallback) ─────────────────────
+    // Try frontmatter "diagram:" field first; fall back to bare eid match.
+    char diagEid[MAX_EID + 1];
+    diagEid[0] = '\0';
+    bool diagramAvail = false;
+    if (readDiagramEid(eid, folderIdx, diagEid, sizeof(diagEid)) && diagEid[0]) {
+        diagramAvail = hasDiagram(diagEid);
+    }
+    if (!diagramAvail) {
+        // fallback: check eid directly (for entries whose filename matches bmp)
+        diagramAvail = hasDiagram(eid);
+        if (diagramAvail) strncpy(diagEid, eid, sizeof(diagEid) - 1);
+    }
+
     // ── Parse into cards ──────────────────────────────────────────────────────
     Card cards[MAX_CARDS];
-    int  cardCount = parseCards(entryLines, total, cards, MAX_CARDS, title);
+    int  cardCount = parseCards(entryLines, total, cards, MAX_CARDS, title, diagramAvail);
     if (cardCount <= 0) {
         // Fallback: render as single scrollable card
         delete[] entryLines;
@@ -554,8 +568,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         return;
     }
 
-    bool bookmarked   = isBookmarked(eid);
-    bool diagramAvail = hasDiagram(eid);
+    bool bookmarked = isBookmarked(eid);
 
     // Truncate entry title for header (fits between chevron and counter)
     char hdr[MAX_TITLE + 1];
@@ -592,6 +605,14 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         int topPad = 0;
         if (!cur.scrollable && cur.lineCount < lpp) {
             topPad = ((lpp - cur.lineCount) * LINE_H) / 2;
+        }
+
+        // ── Diagram card: render fullscreen BMP, wait for nav, then advance ──
+        if (cur.isDiagram) {
+            showDiagram(diagEid[0] ? diagEid : eid, hdr);
+            // After user exits diagram, jump to next card (first text card)
+            if (cardIdx == 0 && cardCount > 1) { cardIdx = 1; prevCard = -1; }
+            continue;
         }
 
         // Card title row + body drawn together into canvas → single SPI push, zero flicker.
@@ -647,14 +668,16 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
                 if (btnDn.tapped())  { cardIdx = (cardIdx + 1) % cardCount;             break; }
             }
 
-            // OK long-press: context menu (bookmark, diagram, info)
+            // OK long-press: context menu (bookmark / close)
+            // Note: diagrams are now card 0 — no menu item needed
             if (btnOk.held()) {
-                const char* ctxItems[4];
+                const char* ctxItems[3];
                 int ctxCount = 0;
                 int idxBookmark = -1, idxDiagram = -1, idxClose = -1;
 
                 idxBookmark = ctxCount++;
                 ctxItems[idxBookmark] = bookmarked ? "Remove Bookmark" : "Add Bookmark";
+                // Re-view diagram (quick access even from text cards)
                 if (diagramAvail) {
                     idxDiagram = ctxCount++;
                     ctxItems[idxDiagram] = "View Diagram";
@@ -666,7 +689,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
                 if (ctx == idxBookmark)
                     bookmarked = toggleBookmark(eid);
                 else if (diagramAvail && ctx == idxDiagram)
-                    showDiagram(eid, title);
+                    showDiagram(diagEid[0] ? diagEid : eid, hdr);
 
                 prevCard = -1;  // force full redraw
                 break;

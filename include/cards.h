@@ -29,15 +29,18 @@
 
 struct Card {
     char     title[28];    // section heading stripped of "## "; "(cont.)" on splits
-    int      lineStart;    // first line index in the parent lines[] array
-    int      lineCount;    // number of lines belonging to this card
+    int      lineStart;    // first line index in the parent lines[] array (-1 = diagram card)
+    int      lineCount;    // number of lines belonging to this card (0 = diagram card)
     bool     scrollable;   // true only when lineCount in (CARD_MAX_LINES, CARD_SCROLL_MAX]
     uint16_t accentColor;  // auto-detected from title keywords (see parseCards)
+    bool     isDiagram;    // true = this card shows the entry diagram, not text
 };
 
 // Parse a loaded entry (lines[] array from readEntry()) into a Card array.
 // Returns the number of cards produced (≤ MAX_CARDS).
 // Content before the first "## " heading becomes card 0 titled with the entry title.
+// If hasDiag=true, a diagram card is prepended as card 0 (text cards follow).
 int parseCards(char (*lines)[LINE_LEN], int total,
                Card* cards, int maxCards,
-               const char* entryTitle);
+               const char* entryTitle,
+               bool hasDiag = false);

@@ -47,6 +47,12 @@ private:
 int readEntry(const char* eid, uint8_t folderIdx,
               char lines[][LINE_LEN], int maxLines);
 
+// Read the 'diagram:' frontmatter field from an entry, strip path prefix
+// and extension, write bare filename into diagEidOut (e.g. "cpr-technique").
+// Returns true if a diagram: field was found, false otherwise.
+bool readDiagramEid(const char* eid, uint8_t folderIdx,
+                    char* diagEidOut, size_t diagEidSize);
+
 // Search titles by substring (case-insensitive)
 int searchTitles(const Index& idx, const char* query,
                  uint16_t* results, int maxResults);

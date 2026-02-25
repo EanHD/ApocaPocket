@@ -526,7 +526,71 @@ int readEntry(const char* eid, uint8_t folderIdx,
     return count;
 }
 
+// -- Diagram EID from frontmatter --
+// Reads the 'diagram:' field from YAML frontmatter (if present).
+// Strips leading path components and .svg/.png/.bmp extension.
+// e.g.  "diagrams/cpr-technique.svg"  ->  "cpr-technique"
+//       "/assets/diagrams/L1/medical/cpr-technique.png" -> "cpr-technique"
+bool readDiagramEid(const char* eid, uint8_t folderIdx,
+                    char* diagEidOut, size_t diagEidSize) {
+    if (!diagEidOut || diagEidSize == 0) return false;
+    diagEidOut[0] = '\0';
+
+    if (folderIdx >= NUM_FOLDERS) return false;
+
+    char path[160];
+    int pathLen = snprintf(path, sizeof(path), "%s/%s.md", FOLDERS[folderIdx], eid);
+    if (pathLen >= (int)sizeof(path)) return false;
+
+    File f = SDFS.open(path, "r");
+    if (!f) return false;
+
+    char buf[256];
+    bool inFrontmatter = false;
+    bool found = false;
+
+    while (f.available()) {
+        int blen = readLine(f, buf, sizeof(buf));
+        while (blen > 0 && buf[blen-1] == '\r') buf[--blen] = '\0';
+
+        if (blen >= 3 && buf[0] == '-' && buf[1] == '-' && buf[2] == '-') {
+            if (!inFrontmatter) { inFrontmatter = true; continue; }
+            else break;  // end of frontmatter
+        }
+        if (!inFrontmatter) break;  // no frontmatter
+
+        // Look for "diagram:" key
+        if (strncmp(buf, "diagram:", 8) == 0) {
+            const char* val = buf + 8;
+            // Skip leading spaces/quotes
+            while (*val == ' ' || *val == '"' || *val == ''') val++;
+            // Strip trailing quotes/whitespace
+            char tmp[128];
+            strncpy(tmp, val, sizeof(tmp) - 1);
+            tmp[sizeof(tmp) - 1] = '\0';
+            int tlen = strlen(tmp);
+            while (tlen > 0 && (tmp[tlen-1] == '"' || tmp[tlen-1] == '\'' ||
+                                 tmp[tlen-1] == ' ' || tmp[tlen-1] == '\r')) {
+                tmp[--tlen] = '\0';
+            }
+            // Strip directory prefix — keep only basename
+            const char* slash = strrchr(tmp, '/');
+            const char* base = slash ? slash + 1 : tmp;
+            // Strip extension (.svg, .png, .bmp)
+            strncpy(diagEidOut, base, diagEidSize - 1);
+            diagEidOut[diagEidSize - 1] = '\0';
+            char* dot = strrchr(diagEidOut, '.');
+            if (dot) *dot = '\0';
+            found = true;
+            break;
+        }
+    }
+    f.close();
+    return found;
+}
+
 // -- Search --
+
 static char toLowerC(char c) {
     return (c >= 'A' && c <= 'Z') ? c + 32 : c;
 }
