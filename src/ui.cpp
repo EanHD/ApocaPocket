@@ -601,6 +601,13 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         int maxScroll = (cur.scrollable) ? max(0, cur.lineCount - lpp) : 0;
         if (scroll > maxScroll) scroll = maxScroll;
 
+        // Vertical centering: short cards sit in the middle of the body area
+        // so blank space is distributed evenly above and below (not all at bottom)
+        int topPad = 0;
+        if (!cur.scrollable && cur.lineCount < lpp) {
+            topPad = ((lpp - cur.lineCount) * LINE_H) / 2;
+        }
+
         // ── Diagram card: render fullscreen BMP, wait for nav, then advance ──
         if (cur.isDiagram) {
             showDiagram(diagEid[0] ? diagEid : eid, hdr);
@@ -620,7 +627,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
         for (int i = 0; i < lpp; i++) {
             int li = cur.lineStart + scroll + i;
             if (li >= cur.lineStart + cur.lineCount) break;
-            drawEntryLine(entryLines[li], bodyStartY + i * LINE_H);
+            drawEntryLine(entryLines[li], bodyStartY + topPad + i * LINE_H);
         }
         screen.pushCanvas();
 
