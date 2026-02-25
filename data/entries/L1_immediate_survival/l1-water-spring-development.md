@@ -1,6 +1,6 @@
 ---
 id: l1-water-spring-development
-title: Natural Spring Development and Protection
+title: Spring Development
 category: L1_immediate_survival
 subtopic: water
 tags:
@@ -46,6 +46,76 @@ steps:
   rain indicates surface contamination is entering — may need to improve protection.'
 ---
 
-# Natural Spring Development and Protection
+# Spring Development
 
-A natural spring is groundwater emerging at the surface — often the safest natural water source because the ground has filtered it. Developing and protecting a spring can provide reliable, clean water for a permanent settlement. A good spring produces 1-10+ gallons per minute.
+A natural spring is groundwater emerging at the surface.
+Often the safest natural source — ground has filtered it.
+Developing and protecting a spring provides reliable water
+for a permanent settlement.
+
+## Finding Springs
+
+Look for these indicators:
+- Green vegetation persisting through dry periods
+- Wet spots or seeps on hillsides
+- Water weeping from rock faces
+- Frog and mosquito concentration
+- Geological transitions — where permeable
+  rock meets impermeable clay
+
+Springs commonly emerge at the base of slopes
+where subsurface water reaches the surface.
+
+## Assess the Flow
+
+Measure output before committing to development:
+- Time how long to fill a 1-gallon container
+- **1 gal/min = 1,440 gal/day** (large group supply)
+- Even 1 gal/hour = 24 gal/day — enough for
+  5-10 people's drinking water needs
+- Observe through wet and dry seasons if possible
+
+## Develop the Source
+
+**Step 1 — Clear the area:**
+- Remove debris and organic matter
+- Dig to find actual source point in rock/gravel
+- Do not disturb the emergence more than needed
+
+**Step 2 — Build a spring box:**
+- Stone, concrete, or wood enclosure
+- Size: 2-3 ft square, 2-3 ft deep
+- Must include: overflow pipe, collection pipe,
+  sealed or screened top
+
+## Piping and Collection
+
+Install a pipe from spring box to collection:
+- PVC is ideal; bamboo or hollowed log works
+- Maintain continuous downhill slope
+- End at a collection basin or tap point
+
+**Settling basin** (if water carries sediment):
+- Rock-lined pool between spring and collection
+- Water slows, particles settle out
+- Clean sediment from basin monthly
+
+## Protection Zone
+
+Establish a no-go zone uphill of the spring:
+- **100 ft minimum** — no latrines, animal pens,
+  composting, or chemical storage
+- Build a diversion ditch above the spring
+  to route surface runoff away
+- Post markers or fencing if group is present
+
+## Maintenance
+
+Inspect spring box monthly:
+- Clear overflow pipe of debris
+- Monitor flow rate — sudden drop may mean
+  blockage (clean intake) or drought
+- Turbidity spike after rain = surface
+  contamination entering — improve protection
+- Even spring water should be boiled initially;
+  test taste/residue before full reliance

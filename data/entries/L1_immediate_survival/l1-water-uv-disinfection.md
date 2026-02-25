@@ -1,6 +1,6 @@
 ---
 id: l1-water-uv-disinfection
-title: Solar Water Disinfection (SODIS Method)
+title: SODIS Solar Disinfection
 category: L1_immediate_survival
 subtopic: water
 tags:
@@ -44,6 +44,65 @@ steps:
 - SODIS kills bacteria (E.coli, cholera, salmonella), viruses (rotavirus, hepatitis A), and most protozoa. Cryptosporidium requires higher UV doses — if suspected, combine SODIS with filtration.
 ---
 
-# Solar Water Disinfection (SODIS Method)
+# SODIS Solar Disinfection
 
-SODIS uses UV-A radiation and heat from sunlight to kill pathogens in water. Endorsed by WHO. Requires only clear PET plastic bottles and sunlight. Free, requires no chemicals or fuel.
+SODIS uses UV-A radiation and heat from sunlight to kill
+pathogens. Endorsed by WHO. Needs only clear PET bottles
+and sunlight — no chemicals or fuel required.
+
+## Bottle Selection
+
+Use only clear PET plastic bottles:
+- Look for recycle symbol **#1** on the bottom
+- 1-2 liter soda bottles are ideal
+- Must be unscratched and clear (scratches block UV)
+- **Max size: 2 liters** — UV can't penetrate larger
+- Remove all labels so sun reaches all sides
+- Do NOT use glass — it blocks UV-A radiation
+
+## Prepare the Water
+
+1. Pre-filter through cloth if any particles visible
+2. Let settle 1 hour if water is still cloudy
+3. Water must be clear enough to read newsprint
+   through the filled bottle — if not, filter more
+
+**Fill and oxygenate:**
+- Fill bottle 3/4 full, cap tightly
+- Shake vigorously for 20 seconds (oxygenates water)
+- Top off completely and recap
+
+## Exposure and Timing
+
+Lay bottles **horizontally** on a reflective surface:
+- Corrugated metal roof, aluminum foil, or
+  light-colored surface (maximizes UV exposure)
+
+**Required sun exposure:**
+- Clear sunny day: **6 hours minimum**
+- Partly cloudy: **2 full days**
+- More than 50% cloud cover: **unreliable —
+  use another method**
+
+## Temperature Boost
+
+If water reaches **50°C (122°F)**, only 1 hour needed:
+- Paint lower half of bottle black to increase heat
+- Metal roofs on hot days easily reach this temp
+- Combine heat + UV for faster, more reliable kill
+
+**Latitude limits:**
+- Works best in tropics (23°N to 23°S)
+- Above 50°N/S: may fail October through March
+  due to low UV intensity
+
+## After Treatment
+
+- Drink directly from the bottle, or
+- Pour into a clean container — do not
+  re-contaminate with dirty cups or water
+- **Kills:** bacteria (E.coli, cholera), viruses
+  (rotavirus, hepatitis A), most protozoa
+- **Cryptosporidium** needs higher UV doses —
+  combine SODIS with filtration if suspected
+- Does NOT remove chemicals, metals, or turbidity

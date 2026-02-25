@@ -1,6 +1,6 @@
 ---
 id: l1-water-bleach-dosing-table
-title: Water Disinfection with Bleach — Exact Dosing
+title: Chemical Water Treatment
 category: L1_immediate_survival
 subtopic: water
 tags:
@@ -42,6 +42,70 @@ steps:
 - Record your dosing and source water location for future reference. Some sources need consistent treatment; others may indicate upstream contamination.
 ---
 
-# Water Disinfection with Bleach — Exact Dosing
+# Chemical Water Treatment
 
-Household bleach (sodium hypochlorite) is the most widely available chemical water disinfectant. Correct dosing depends on bleach concentration and water turbidity. Too little fails to kill pathogens; too much is toxic.
+Household bleach (sodium hypochlorite) is the most widely
+available chemical water disinfectant. Correct dosing
+depends on bleach concentration and water turbidity.
+
+## Bleach Concentration
+
+Check the label before dosing:
+- Standard household bleach: **5-6%** sodium hypochlorite
+- Newer formulas: **8.25%** sodium hypochlorite
+- **Only use unscented regular bleach** — never
+  color-safe, splashless, or scented (toxic additives)
+- Bleach loses ~20% potency per year — rotate stock
+  and double-check old bottles
+
+## Bleach Dosing
+
+**Clear water:**
+- 5-6% bleach: **2 drops per liter** (8 drops/gal)
+- 8.25% bleach: **2 drops per liter** (6 drops/gal)
+
+**Cloudy/turbid water — pre-filter through cloth first:**
+- 5-6% bleach: **4 drops per liter** (16 drops/gal)
+- 8.25% bleach: **4 drops per liter** (12 drops/gal)
+
+1 drop ≈ 0.05 ml. Standard bleach cap ≈ 100 drops (1 tsp).
+For 5-gallon (19L) clear water: **1/4 tsp** of 5-6% bleach.
+
+## After Adding Bleach
+
+1. Mix thoroughly — stir or shake
+2. Wait **30 minutes minimum** before drinking
+3. Water should have a slight chlorine smell
+4. **No smell after 30 min?** Add same dose again,
+   wait 15 more minutes
+5. Still no smell? Water may be too contaminated —
+   boil instead
+
+**Temperature contact times:**
+- 25°C (77°F): 30 minutes
+- Below 10°C (50°F): 60 minutes
+- Below 5°C (41°F): 120 minutes — or boil instead
+
+## Pool Shock Storage
+
+Calcium hypochlorite (68%) lasts years vs bleach months:
+1. Dissolve 1 heaping tsp in 2 gallons water
+   — this makes a stock solution (~500 ppm)
+2. Treat drinking water with stock at the same
+   rate as regular bleach (2 drops/liter)
+3. Store stock solution in sealed dark container
+
+## Iodine Treatment
+
+**Iodine tablets:**
+- 1-2 tablets per liter, wait 30 min
+- Follow manufacturer instructions exactly
+
+**Iodine tincture (2%):**
+- 5 drops per liter of clear water
+- Wait 30 minutes before drinking
+
+**WARNING:** Do not use iodine long-term.
+Do not use if pregnant or have thyroid condition.
+Kills bacteria and viruses — less effective
+against Cryptosporidium.

@@ -1,6 +1,6 @@
 ---
 id: l1-water-boiling-disinfection
-title: Boiling for Water Disinfection
+title: Boiling for Safe Water
 category: L1_immediate_survival
 subtopic: water
 tags:
@@ -55,7 +55,7 @@ steps:
 diagram: /assets/diagrams/L1/water/boiling-process.svg
 ---
 
-# Boiling for Water Disinfection
+# Boiling for Safe Water
 
 Boiling is the most reliable and universally effective method for killing all waterborne pathogens including bacteria, viruses, protozoa, and parasites. Requires only heat and container. Effectiveness 99.99%+ against all biological threats. Does not remove chemicals or heavy metals.
 

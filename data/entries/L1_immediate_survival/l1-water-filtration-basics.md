@@ -1,6 +1,6 @@
 ---
 id: l1-water-filtration-basics
-title: Emergency Water Filtration Systems
+title: Field Water Filtration
 category: L1_immediate_survival
 subtopic: water
 tags:
@@ -52,11 +52,11 @@ steps:
 diagram: /assets/diagrams/L1/water/filtration-methods.svg
 ---
 
-# Emergency Water Filtration Systems
+# Field Water Filtration
 
 Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria through physical barriers. Pore size determines effectiveness: 0.1-0.2 micron filters remove protozoa and bacteria (99.99%+), 0.02 micron removes viruses. Improvised filters remove sediment only - must combine with boiling/chemical treatment. Filter first, then disinfect for maximum safety.
 
-## Filter Eff
+## Filter Effectiveness
 
 <!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Pore Size | Removes | Typical Use |
@@ -66,7 +66,7 @@ Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria thro
 | 0.02-0.1 micron | + Viruses | Advanced/hollow fiber |
 | <0.01 micron | All pathogens | Reverse osmosis |
 
-## Commercial Filter Comp
+## Commercial Filters
 
 <!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 | Type | Pore Size | Weight | Lifespan | Cost | Best For |

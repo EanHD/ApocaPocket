@@ -1,6 +1,6 @@
 ---
 id: l1-water-storage-safety
-title: Safe Water Storage Methods
+title: Safe Water Storage
 category: L1_immediate_survival
 subtopic: water
 tags:
