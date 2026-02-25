@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-waterproofing
-title: Natural Waterproofing Methods
+title: "Natural Waterproofing"
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -47,6 +47,44 @@ steps:
 - 'TESTING: pour water on the sealed surface. If it beads and runs off, the waterproofing is effective. If it soaks in within seconds, add another layer of sealant.'
 ---
 
-# Natural Waterproofing Methods
+# Natural Waterproofing
 
-Waterproofing shelters, containers, and clothing using natural materials found in the wild. Pine pitch is the most versatile sealant; birch bark is the best natural waterproof sheet; thatch layering sheds rain when properly angled.
+## Pine Pitch Sealant
+- Collect hardened resin from tree wounds
+- Melt over low heat in a container
+- Mix 3 parts resin + 1 part charcoal
+  + 1 part dry fiber or dung
+- Apply hot with a stick to seal seams
+- Waterproof, strong, gap-filling
+- EXTREMELY flammable — keep away from fire
+
+## Birch Bark
+- Gold standard of natural waterproofing
+- Peel large sheets from DEAD birch trees
+- White side UP (the waterproof layer)
+- Layer like shingles on shelter roofs
+- Overlap sheets by 6+ inches
+- Pin with wooden pegs or weight with poles
+
+## Thatch Roofing
+- Bundle dried grass, reeds, or palm fronds
+- Tight bundles 4-6 inches thick
+- Layer bottom to top like shingles
+- Each row overlaps previous by 2/3
+- Minimum 6-8 inches total thickness
+- Minimum 45 degree pitch to shed rain
+- Lasts 2-5 years when done properly
+
+## Clay Daubing
+- Mix clay + straw + water to thick paste
+- Apply 2-3 inch layer over woven stick walls
+- Let dry 1-2 weeks, apply second coat
+- Creates waterproof, insulating wall
+- Re-apply after heavy rain seasons
+
+## Leather and Fabric
+- Rub animal fat, beeswax, or pitch into leather
+- Work thoroughly by hand
+- Makes boots and bags water-resistant for weeks
+- Test: water should bead and run off
+- Re-apply when water stops beading

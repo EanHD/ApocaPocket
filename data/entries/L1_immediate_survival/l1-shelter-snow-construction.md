@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-snow-construction
-title: Snow Cave and Quinzhee Construction
+title: Snow Cave Construction
 category: L1_immediate_survival
 subtopic: shelter
 tags:

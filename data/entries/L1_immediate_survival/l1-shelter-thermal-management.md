@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-thermal-management
-title: Body Heat Retention Strategies
+title: Body Heat Retention
 category: L1_immediate_survival
 subtopic: shelter
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-tarp-configurations
-title: Tarp Shelter Configurations — 8 Setups
+title: Tarp Shelter Setups
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -65,7 +65,7 @@ steps:
 diagram: /assets/diagrams/L1/shelter/tarp-configurations.svg
 ---
 
-# Tarp Shelter Configurations — 8 Setups
+# Tarp Shelter Setups
 
 A tarp is the most versatile shelter tool — a single 8×10 or 10×10 tarp can create 8+ distinct shelter configurations depending on weather, terrain, and number of occupants. Weight: 1-2 lbs. Setup time: 5-15 minutes. Packed size: football-sized bundle.
 

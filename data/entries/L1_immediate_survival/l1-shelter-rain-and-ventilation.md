@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-rain-and-ventilation
-title: Rain Protection and Airflow
+title: Rain Protection
 category: L1_immediate_survival
 subtopic: shelter
 tags:

@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-long-term-cabin
-title: Simple Log Cabin Construction Overview
+title: "Log Cabin Overview"
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -49,6 +49,48 @@ steps:
 - 'A cabin built well lasts 30-50+ years. The critical maintenance: keep the roof intact, re-chink as needed, ensure drainage away from foundation, replace any rotting ground-contact logs.'
 ---
 
-# Simple Log Cabin Construction Overview
+# Log Cabin Overview
 
-A log cabin is the simplest permanent shelter that can be built with only an axe. A basic 10×12 foot single-room cabin requires 60-80 logs, 2-4 weeks of work for 2 people, and provides shelter for years. This overview covers the essential concepts.
+## What to Expect
+- 10x12 foot cabin: 60-80 logs needed
+- 2 people working: 2-4 weeks of labor
+- Only tool required: an axe
+- Lasts 30-50+ years if maintained
+- NEVER seal completely with fire inside
+  (carbon monoxide is lethal)
+
+## Site and Foundation
+- Level ground, south-facing for solar heat
+- Above flood level, near water source
+- Large flat rocks or rot-resistant sills
+- Elevate floor 6-12 inches above grade
+- Gravel bed under foundation for drainage
+
+## Logs and Walls
+- Straight, 6-10 inch diameter conifers
+- 40-50 wall logs + 15-20 for roof/floor
+- Saddle notch: scoop half-round in bottom
+  of each log to seat on log below
+- Alternate butt/tip to keep walls level
+- Build 8-10 rounds for ~7-foot walls
+
+## Roof
+- Ridge pole on two forked posts at peak
+- Rafters lean from ridge to wall at 30-45
+- Cover with split shakes or bark slabs
+- Layer like shingles, 50 percent overlap
+- Overhang walls 12-18 inches for rain
+
+## Doors and Windows
+- Cut openings AFTER walls are built
+- Frame with vertical boards pinned to ends
+- Leave 2-inch gap at top for settling
+- Door: Z-braced planks, wooden pin hinges
+- Fit loosely (logs settle 1-2 inches/year)
+
+## Chinking and Floor
+- Mix clay + dried grass + water, thick paste
+- Apply 2-3 inch layer in gaps between logs
+- Let dry 1-2 weeks, apply second coat
+- Floor: split logs flat-side-up or clay pack
+- Re-chink annually as logs settle

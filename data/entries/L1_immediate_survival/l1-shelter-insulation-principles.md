@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-insulation-principles
-title: Shelter Insulation and Wind Control
+title: Shelter Insulation
 category: L1_immediate_survival
 subtopic: shelter
 tags:

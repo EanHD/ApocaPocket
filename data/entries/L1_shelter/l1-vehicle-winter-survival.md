@@ -218,7 +218,7 @@ related:
 
 ---
 
-## Veh Bat Cons
+## Battery Conservation
 
 **Why it matters:** Dead battery = no heat, no lights, no signals
 

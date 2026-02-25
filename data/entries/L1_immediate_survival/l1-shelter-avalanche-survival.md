@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-avalanche-survival
-title: Avalanche Survival & Escape
+title: "Avalanche Survival"
 category: L1_immediate_survival
 subtopic: shelter
 tags: [avalanche, snow, mountains, safety, burial]
@@ -19,6 +19,44 @@ steps:
 - 'PREVENTION: (1) Avalanche beacon - ESSENTIAL. (2) Probe pole. (3) Shovel. (4) Avalanche airbag pack. (5) Training. Prevention is 1000× better than rescue.'
 ---
 
-# Avalanche Survival & Escape
+# Avalanche Survival
 
-Avalanches kill 150+ people globally each year. Survival depends on - not triggering one (terrain assessment), escaping if caught (swimming motions), surviving burial (air pocket, calm breathing). If buried over 15 minutes without an air pocket, survival is rare. Prevention is everything.
+## Terrain Recognition
+- Slopes 30-45 degrees are most dangerous
+- Red flags: fresh snow 12+ inches,
+  wind-loaded slopes, warming after cold,
+  convex slopes, previous slide paths
+- Safe: ridges, dense forest, flat ground,
+  slopes under 25 or over 50 degrees
+
+## If One Starts
+- Yell to warn others
+- Escape to the SIDE — edges move slower
+- Fight to stay on surface: swim/backstroke
+- Discard poles, skis, pack immediately
+- As it slows: thrust one arm UP
+- Cup hand over mouth — make air pocket
+- Take a big breath before snow hardens
+
+## Buried — Stay Alive
+- Stay calm — panic uses oxygen
+- To find up: spit. If it runs toward your
+  face, you are upside down
+- Try to dig if close to surface
+- If deep: stay calm, wait for rescue
+- Yelling wastes precious air
+
+## Rescue Protocol
+- Mark the last-seen point immediately
+- Turn beacon to RECEIVE mode
+- Search downhill from last-seen point
+- Probe in grid pattern
+- Dig fast when located
+- Clear airway first — speed saves lives
+
+## Survival Gear
+- Avalanche beacon — ESSENTIAL
+- Probe pole and shovel
+- Avalanche airbag pack
+- Training beats any gear
+- Prevention beats rescue every time

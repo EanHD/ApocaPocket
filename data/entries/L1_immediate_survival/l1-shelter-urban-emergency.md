@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-urban-emergency
-title: Urban Emergency Shelter Options
+title: Urban Emergency Shelter
 category: L1_immediate_survival
 subtopic: shelter
 tags:

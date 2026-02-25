@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-knots-and-lashing
-title: Essential Knots for Shelter Building
+title: Field Knots and Lashing
 category: L1_immediate_survival
 subtopic: shelter
 tags:

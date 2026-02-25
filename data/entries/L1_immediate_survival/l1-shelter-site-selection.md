@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-site-selection
-title: Choosing Safe Shelter Locations
+title: Shelter Site Selection
 category: L1_immediate_survival
 subtopic: shelter
 tags:

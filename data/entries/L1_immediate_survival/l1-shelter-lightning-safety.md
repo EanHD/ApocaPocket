@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-lightning-safety
-title: Lightning Safety & Storm Shelter
+title: "Lightning Safety"
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -53,6 +53,51 @@ steps:
   water). This diverts strikes away from the shelter. Requires copper wire or thick metal cable. Not practical for short-term survival but critical for permanent homesteads.'
 ---
 
-# Lightning Safety & Storm Shelter
+# Lightning Safety
 
-Lightning kills more people in the US than any other weather phenomenon except floods. You cannot outrun lightning (moves at 1/3 the speed of light). The only safety is proper positioning and shelter. If you can hear thunder, you're in danger. '30-30 rule': if time between flash and thunder is <30 seconds, seek shelter. Wait 30 minutes after last thunder before resuming activity.
+## 30-30 Rule
+- If you hear thunder = you are in danger
+- Flash to bang: count seconds, divide by 5
+  = distance in miles
+- Under 6 seconds (1 mile) = imminent danger
+- Hair standing up or skin tingling =
+  PRE-STRIKE WARNING — move NOW
+- Wait 30 min after last thunder to resume
+
+## Safe Locations
+- Inside a hard-sided building
+  (away from windows and plumbing)
+- Inside a metal-roofed vehicle
+  (close windows, do not touch metal)
+- NOT: tents, picnic shelters,
+  open-sided structures, motorcycles
+
+## Deadly Spots to Avoid
+- Open fields (you are the tallest object)
+- Under a tree — the most common mistake
+- Near or in water
+- Ridges and peaks
+- Near isolated tall objects
+
+## Lightning Position — No Shelter
+- Crouch on balls of feet
+- Heels together, head down
+- Hands over ears, arms tight
+- DO NOT lie flat (maximizes ground contact)
+- DO NOT put hands on ground
+- Spread group 15-20 feet apart
+
+## Help a Strike Victim
+- Victim is NOT electrified — safe to touch
+- Check breathing and pulse immediately
+- Start CPR if no pulse — most recover
+- Check for burns at entry/exit points
+- Check for fractures (concussive force)
+- All victims need medical evaluation
+
+## Ground Current Risk
+- Most injuries come from ground current
+- Keep feet together (reduces step potential)
+- Avoid long metal objects on ground
+- Stay away from groups of trees
+- Distance from strike point reduces danger

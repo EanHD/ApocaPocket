@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-river-crossing
-title: River Crossing Safety — Techniques & Hazards
+title: "River Crossing Safety"
 category: L1_immediate_survival
 subtopic: water
 tags:
@@ -36,6 +36,51 @@ steps:
 - 'SWIM VS FORD DECISION: If river is too deep to ford but you MUST cross: SWIM it, do not wade. Swimming gives you control. Wading in deep fast water leads to falling, tumbling, panic. Swimming technique: enter upstream of your target landing, swim at 45 degree angle toward shore (current carries you downstream), crawl stroke with pack as flotation or ditch pack. Aim to land 50-100m downstream.'
 ---
 
-# River Crossing Safety — Techniques & Hazards
+# River Crossing Safety
 
-Rivers kill more wilderness travelers than any other natural hazard. Fast-moving water is immensely powerful — waist-deep current can sweep you off your feet. Proper crossing technique, site selection, and knowing when NOT to cross are life-saving skills.
+## When NOT to Cross
+- Water is opaque or muddy
+- Debris or ice flowing in current
+- After recent heavy rain
+- Afternoon glacial streams (peak melt)
+- If you would not confidently swim it
+- Wait — rivers drop fast after storms
+
+## Site Selection
+- Wide, shallow sections (wider = slower)
+- Gravel bottom (not slippery rock)
+- Straight section, not a bend
+- Scout 100m both directions
+- Check 50m downstream: no falls or
+  logjams if you are swept away
+
+## Preparation
+- Unbuckle pack straps (shed fast if needed)
+- Wading staff: strong chest-height stick
+- Remove pants if deep — they fill with
+  water and drag you under
+- Keep boots ON (foot protection)
+
+## Solo Crossing Technique
+- Face upstream at 45 degree angle to current
+- Shuffle feet — never lift (lose balance)
+- Staff upstream: plant, then move feet
+- Move diagonally downstream (ferry angle)
+- If you fall: drop pack, float on back
+  feet downstream, swim to shore at angle
+
+## Group Crossing
+- Line astern: single file, hands on
+  the person ahead's pack or shoulders
+- Strongest person leads, second at rear
+- Wedge: 3+ people facing current, strongest
+  at apex, others link arms behind
+- Move as a unit together
+
+## If You Fall
+- Ditch pack immediately
+- Roll onto back, feet downstream, toes up
+- Swim at 45 degrees toward shore with current
+- DO NOT try to stand in fast current
+  (foot entrapment between rocks = fatal)
+- Only stand when current is slow and shallow

@@ -1,6 +1,6 @@
 ---
 id: l1-shelter-ground-insulation
-title: Ground Insulation and R-Value
+title: "Ground Insulation"
 category: L1_immediate_survival
 subtopic: shelter
 tags:
@@ -47,6 +47,46 @@ steps:
   available.'
 ---
 
-# Ground Insulation and R-Value
+# Ground Insulation
 
-You lose heat to the ground 50× faster than to air because the ground conducts heat away by direct contact. Ground insulation is more important than a blanket in cold conditions. Without it, no amount of covering keeps you warm.
+## Why Ground Matters
+- You lose heat to ground 50x faster than air
+- Ground insulation beats a blanket in cold
+- You need R-5 minimum at 0C
+- R-8+ below -10C
+- Commercial sleeping pad: R-2 to R-7
+
+## Leaf and Debris Bed
+- Pile DRY leaves, pine needles, or grass
+- 12-18 inches deep (compresses to 4-6)
+- Approx. R-5 to R-8 insulation value
+- More is always better
+- Pile between two logs to hold shape
+
+## Evergreen Bough Bed
+- Lay spruce/fir/pine boughs in layers
+- Tips toward feet, butt ends to ground
+- Layer like shingles, 6-8 inches deep
+- Approx. R-4 to R-6 insulation value
+- Resin repels moisture
+
+## Hot Rock Bed
+- Heat flat rocks in fire 1-2 hours
+- Scrape coals aside, lay rocks flat
+- Cover with 4-6 inches of dirt
+- Place insulation on top
+- Radiates heat upward for 6-8 hours
+- Test with hand on dirt before sleeping
+
+## Combined System (Best)
+- Layer 1: bark slabs (moisture barrier)
+- Layer 2: 6 inches dry debris
+- Layer 3: evergreen boughs on top
+- Total: R-8 to R-12
+- Rivals commercial sleeping pads
+
+## Emergency Minimum
+- Even a backpack under you helps
+- Any barrier reduces heat loss
+- Rope coils, extra clothing, leaves
+- Never sleep on bare cold ground
