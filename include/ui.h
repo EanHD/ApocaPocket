@@ -23,7 +23,8 @@ struct HistEntry {
     char eid[MAX_EID + 1];
     char title[TITLE_DISPLAY_LEN + 1];
     uint8_t folderIdx;
-    int scrollPos; // remember scroll position
+    int scrollPos;    // scroll position for fallback viewer
+    int8_t cardIdx;   // card position for card-deck viewer (0 = start)
 };
 extern HistEntry gHistory[MAX_HISTORY];
 extern uint8_t gHistoryCount;
@@ -51,10 +52,16 @@ struct ScrollAnim {
 // Signals that a full redraw is needed (set by poll() after battery warning)
 extern bool gNeedsRedraw;
 
-// Home menu — fluid single-column list replacing the grid.
-// Returns same values as homeGrid for main.cpp compatibility:
-//   0..numCats-1 = category, numCats=Search, numCats+1=Bookmarks,
-//   numCats+2=History, -2=Emergency, -1=back/error
+// Home menu — fluid single-column list.
+// Returns:
+//   0..numCats-1  = category
+//   numCats       = Search
+//   numCats+1     = Bookmarks
+//   numCats+2     = History
+//   -2            = Emergency
+//   -3            = Resume gHistory[0]  (Continue row)
+//   -4            = Resume gHistory[1]  (Continue row)
+//   -1            = back/error
 int homeList(const char** catNames, const uint16_t* catColors,
              const int* catCounts, int numCats, int bmCount);
 
@@ -67,7 +74,9 @@ void splash();
 int  menu(const char* title, const char** items, int count,
           uint16_t* badgeColors = nullptr, bool showBack = true);
 // Card-deck entry viewer (primary path — parses ## sections into swipeable cards)
-void showCardEntry(const char* eid, uint8_t folderIdx, const char* title);
+// startCard: which card to open to (0 = first). Used to resume from history.
+void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
+                   int startCard = 0);
 // Scroll-mode entry viewer (fallback: history resume, card-parse failure)
 void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos = nullptr);

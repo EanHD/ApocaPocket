@@ -225,6 +225,23 @@ void loop() {
     } else {
         c = homeList(CAT_NAMES, CAT_COLORS, catCounts, NUM_CATS, gBookmarkCount);
         if (gEmergency || c == -2) { gEmergency = true; return; }
+        if (c < 0 && c >= -4) {
+            // Continue rows: -3 = resume history[0], -4 = resume history[1]
+            int hi = (-c) - 3;  // 0 or 1
+            if (hi < gHistoryCount) {
+                // Snapshot before addHistory shifts the array
+                char eid[MAX_EID + 1];
+                strncpy(eid, gHistory[hi].eid, MAX_EID); eid[MAX_EID] = '\0';
+                uint8_t fi   = gHistory[hi].folderIdx;
+                int8_t  ci   = gHistory[hi].cardIdx;
+                char title[TITLE_DISPLAY_LEN + 1];
+                strncpy(title, gHistory[hi].title, TITLE_DISPLAY_LEN);
+                title[TITLE_DISPLAY_LEN] = '\0';
+                addHistory(eid, fi, title);
+                showCardEntry(eid, fi, title, (int)ci);
+            }
+            return;
+        }
         if (c < 0) return;
     }
 
@@ -300,8 +317,9 @@ void loop() {
             menuPtrs[i] = gHistory[i].title;
         int s = menu("History", menuPtrs, gHistoryCount);
         if (s >= 0 && !gGoHome && !gEmergency) {
-            showEntry(gHistory[s].eid, gHistory[s].folderIdx,
-                      gHistory[s].title, &gHistory[s].scrollPos);
+            // Resume at saved card position (card-deck viewer)
+            showCardEntry(gHistory[s].eid, gHistory[s].folderIdx,
+                          gHistory[s].title, (int)gHistory[s].cardIdx);
         }
     }
 }

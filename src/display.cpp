@@ -123,7 +123,58 @@ void Screen::topStrip(const char* title, bool showBack, const char* rightLabel) 
     }
 }
 
-// Draws header bg + divider only (no text, no bottom bar).
+// Card-deck progress indicator: dots (≤10 cards) or fraction (>10).
+// Draws directly into the already-rendered topStrip header area.
+// cur = 0-based card index, total = card count.
+void Screen::topStripDots(const char* title, bool showBack, int cur, int total,
+                           bool bookmarked) {
+    // Render the base header (title, battery, back chevron) with no rightLabel.
+    // Then overlay the dots/fraction in the same right-side space.
+    topStrip(title, showBack, nullptr);
+
+    int16_t baseline = CY + 9 + FONT_CAP_H;
+    _setFont(_tft);
+
+    // Battery already rendered by topStrip — we know it used TEXT_PAD_X+bw space.
+    // Re-measure battery string to find the right anchor.
+    int b = batteryPct();
+    char batBuf[8];
+    snprintf(batBuf, sizeof(batBuf), "%d%%", b);
+    int16_t x1, y1; uint16_t bw, bh;
+    _tft.getTextBounds(batBuf, 0, baseline, &x1, &y1, &bw, &bh);
+    int16_t rightEdge = (int16_t)DISP_W - TEXT_PAD_X - (int16_t)bw - 6; // 6px gap before battery
+
+    if (total <= 10) {
+        // Dots: filled circle = current, open ring = others
+        // Each dot: 6px diameter, 10px pitch → total width = (total-1)*10 + 6
+        const int PITCH = 10;
+        const int R     = 3;   // radius
+        int dotsW       = (total - 1) * PITCH + R * 2;
+        int16_t dx      = rightEdge - dotsW;
+        int16_t dy      = CY + HDR_H / 2;  // vertical center of header
+
+        for (int i = 0; i < total; i++) {
+            int16_t cx = dx + i * PITCH + R;
+            if (i == cur) {
+                _tft.fillCircle(cx, dy, R, bookmarked ? COL_YELLOW : COL_ACCENT);
+            } else {
+                _tft.drawCircle(cx, dy, R, COL_TER);
+            }
+        }
+    } else {
+        // Fraction fallback for long entries
+        char frac[12];
+        if (bookmarked) snprintf(frac, sizeof(frac), "* %d/%d", cur + 1, total);
+        else            snprintf(frac, sizeof(frac), "%d/%d",   cur + 1, total);
+        uint16_t rw, rh;
+        _tft.getTextBounds(frac, 0, baseline, &x1, &y1, &rw, &rh);
+        _tft.setTextColor(COL_SEC);
+        _tft.setCursor(rightEdge - (int16_t)rw, baseline);
+        _tft.print(frac);
+    }
+}
+
+
 // Used by diagram.cpp and any path that calls begin() + header() separately.
 void Screen::begin() {
     _tft.startWrite();
@@ -316,8 +367,14 @@ void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
     // Text colors
     uint16_t line1Color = selected ? COL_ACCENT : COL_PRI;
     uint16_t line2Color = selected ? COL_SEC    : COL_TER;
-    // Emergency (badgeColor==COL_WARN) gets red text when not selected
+    // Emergency (COL_WARN) → red text when unselected
     if (!selected && badgeColor == COL_WARN) line1Color = COL_WARN;
+    // Accented items (e.g. "Continue", COL_ACCENT) → colored text + left bar
+    if (!selected && badgeColor != 0 && badgeColor != COL_WARN) {
+        line1Color = badgeColor;
+        // 3px accent bar on left edge (mirrors card accent bar treatment)
+        _canvas->fillRect(0, yTop + 4, 3, MENU_LINE_H - 8, badgeColor);
+    }
 
     // Split into up to 2 lines — pixel-accurate, never truncates mid-word
     char line1[64], line2[64];

@@ -125,6 +125,7 @@ void addHistory(const char* eid, uint8_t fi, const char* title) {
     gHistory[0].title[TITLE_DISPLAY_LEN] = '\0';
     gHistory[0].folderIdx = fi;
     gHistory[0].scrollPos = 0;
+    gHistory[0].cardIdx   = 0;
 }
 
 // -- Poll (buttons + power + sleep/wake + combo) --
@@ -203,37 +204,67 @@ void waitAny() {
 // ─────────────────────────────────────────────────────────────
 int homeList(const char** catNames, const uint16_t* /*catColors*/,
              const int* /*catCounts*/, int numCats, int bmCount) {
-    static const char* items[12];
-    static uint16_t    colors[12];
+    // ── Build item list ──────────────────────────────────────────────────────
+    // Slot layout (dynamic based on history):
+    //   [0..nResume-1] Continue rows  (≤2, COL_ACCENT badge)
+    //   [nResume]      Emergency       (COL_WARN badge)
+    //   [nResume+1 .. nResume+numCats] Categories
+    //   then: Search, History, Bookmarks
+
+    static const char* items[16];
+    static uint16_t    colors[16];
+    // Buffers for "↺ Title" labels (truncated to fit one menu row)
+    static char resumeBuf[2][TITLE_DISPLAY_LEN + 4]; // "↺ " prefix + title
+
+    int n = 0;
+    int nResume = 0;
+
+    // ── Continue rows (last 2 history entries) ────────────────────────────
+    int histShow = min((int)gHistoryCount, 2);
+    for (int i = 0; i < histShow; i++) {
+        snprintf(resumeBuf[i], sizeof(resumeBuf[i]), "> %s", gHistory[i].title);
+        items[n]  = resumeBuf[i];
+        colors[n] = COL_ACCENT;
+        n++;
+        nResume++;
+    }
+
+    // ── Emergency ─────────────────────────────────────────────────────────
+    items[n] = "Emergency";  colors[n] = COL_WARN;  n++;
+
+    // ── Categories ────────────────────────────────────────────────────────
+    for (int i = 0; i < numCats; i++) {
+        items[n] = catNames[i];  colors[n] = 0;  n++;
+    }
+
+    // ── Utility items ─────────────────────────────────────────────────────
     static char histBuf[20];
     static char bmBuf[22];
-
-    items[0] = "Emergency";  colors[0] = COL_WARN;
-    for (int i = 0; i < numCats; i++) {
-        items[1 + i] = catNames[i];
-        colors[1 + i] = 0;
-    }
-    int n = 1 + numCats;
-
-    items[n] = "Search";   colors[n] = 0;  n++;
-
+    items[n] = "Search";  colors[n] = 0;  n++;
     if (gHistoryCount > 0) snprintf(histBuf, sizeof(histBuf), "History (%d)", gHistoryCount);
     else                   snprintf(histBuf, sizeof(histBuf), "History");
-    items[n] = histBuf;    colors[n] = 0;  n++;
-
+    items[n] = histBuf;  colors[n] = 0;  n++;
     if (bmCount > 0) snprintf(bmBuf, sizeof(bmBuf), "Bookmarks (%d)", bmCount);
     else             snprintf(bmBuf, sizeof(bmBuf), "Bookmarks");
-    items[n] = bmBuf;      colors[n] = 0;  n++;
+    items[n] = bmBuf;  colors[n] = 0;  n++;
 
     int sel = menu("ApocaPocket", items, n, colors, /*showBack=*/false);
     if (gEmergency || gGoHome || sel < 0) return -1;
 
-    if (sel == 0)          return -2;            // Emergency
-    if (sel <= numCats)    return sel - 1;        // category 0..numCats-1
-    sel -= (1 + numCats);                         // now: 0=Search,1=History,2=Bookmarks
-    if (sel == 0) return numCats;                 // Search
-    if (sel == 1) return numCats + 2;             // History
-    if (sel == 2) return numCats + 1;             // Bookmarks
+    // ── Map selection → return code ────────────────────────────────────────
+    if (sel < nResume) {
+        // Continue row: return -3 for history[0], -4 for history[1]
+        return -3 - sel;
+    }
+    sel -= nResume;  // strip continue rows
+
+    if (sel == 0)           return -2;            // Emergency
+    sel -= 1;
+    if (sel < numCats)      return sel;            // category 0..numCats-1
+    sel -= numCats;
+    if (sel == 0)           return numCats;        // Search
+    if (sel == 1)           return numCats + 2;    // History
+    if (sel == 2)           return numCats + 1;    // Bookmarks
     return -1;
 }
 
@@ -528,7 +559,8 @@ static void renderEntryContent(char (*lines)[LINE_LEN], int total, int scroll) {
 //  Parses entry into cards (by ## sections), navigates LEFT/RIGHT.
 //  UP/DOWN scrolls only on cards marked scrollable (13-CARD_SCROLL_MAX lines).
 // ─────────────────────────────────────────────────────────────
-void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
+void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
+                   int startCard) {
     // ── Load entry lines ──────────────────────────────────────────────────────
     char (*entryLines)[LINE_LEN] = new char[MAX_LINES][LINE_LEN];
     if (!entryLines) {
@@ -575,7 +607,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
     strncpy(hdr, title ? title : eid, MAX_TITLE);
     hdr[MAX_TITLE] = '\0';
 
-    int  cardIdx    = 0;
+    int  cardIdx    = max(0, min(startCard, cardCount - 1));
     int  scroll     = 0;   // scroll offset within current card (lines)
     int  prevCard   = -1;  // -1 forces full redraw on first iteration
 
@@ -588,11 +620,12 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
             scroll   = 0;
             prevCard = cardIdx;
 
-            // Unified header: title + card fraction + battery — redrawn on every card change
-            char frac[12];
-            if (bookmarked) snprintf(frac, sizeof(frac), "* %d/%d", cardIdx + 1, cardCount);
-            else            snprintf(frac, sizeof(frac), "%d/%d",   cardIdx + 1, cardCount);
-            screen.topStrip(hdr, true, frac);
+            // Save position so "Continue" on home screen can resume here
+            if (gHistoryCount > 0 && strcmp(gHistory[0].eid, eid) == 0)
+                gHistory[0].cardIdx = (int8_t)cardIdx;
+
+            // Progress dots (≤10 cards) or fraction (>10) in header
+            screen.topStripDots(hdr, true, cardIdx, cardCount, bookmarked);
         }
 
         int bodyStartY = TOP_Y + CARD_HDR_H;
@@ -649,9 +682,43 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title) {
                 else             { delete[] entryLines; return; }
             }
 
-            // Card navigation: RIGHT = next card (wraps)
+            // Card navigation: RIGHT
             if (btnRt.tapped()) {
-                cardIdx = (cardIdx + 1) % cardCount;
+                bool isLast = (cardIdx == cardCount - 1);
+                if (!isLast) {
+                    cardIdx++;
+                    break;
+                }
+                // ── Last card: show "See Also" if related entries exist ──────
+                // Find up to 4 entries in the same subfolder (same folderIdx)
+                static uint16_t rel[4];
+                int rc = 0;
+                for (uint16_t ri = 0; ri < gIndex.count() && rc < 4; ri++) {
+                    if (gIndex.folderIdx(ri) == folderIdx) {
+                        char rid[MAX_EID + 1];
+                        gIndex.readEid(ri, rid, sizeof(rid));
+                        if (strcmp(rid, eid) != 0) rel[rc++] = ri;
+                    }
+                }
+                if (rc > 0) {
+                    static const char* relPtrs[4];
+                    for (int ri = 0; ri < rc; ri++) relPtrs[ri] = gIndex.title(rel[ri]);
+                    int rs = menu("See Also", relPtrs, rc);
+                    if (rs >= 0 && !gGoHome && !gEmergency) {
+                        char reid[MAX_EID + 1];
+                        gIndex.readEid(rel[rs], reid, sizeof(reid));
+                        uint8_t rfi   = gIndex.folderIdx(rel[rs]);
+                        const char* rt = gIndex.title(rel[rs]);
+                        addHistory(reid, rfi, rt);
+                        delete[] entryLines;
+                        showCardEntry(reid, rfi, rt, 0);
+                        return;
+                    }
+                    prevCard = -1;  // redraw after menu exits
+                    break;
+                }
+                // No related entries: wrap to first card
+                cardIdx = 0;
                 break;
             }
 

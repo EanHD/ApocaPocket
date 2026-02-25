@@ -18,6 +18,10 @@ public:
     // Replaces the old begin() + header() + statusBar() / cardHeader() pattern.
     void topStrip(const char* title, bool showBack = false,
                   const char* rightLabel = nullptr);
+    // Card-deck variant: shows progress dots for <=10 cards, fraction for >10.
+    // Bookmarked entries show a star prefix on the fraction.
+    void topStripDots(const char* title, bool showBack, int cur, int total,
+                      bool bookmarked = false);
 
     // Draw chrome (header bg + divider only — no text). Use with direct header()
     // calls in diagram.cpp and legacy paths. Does NOT draw bottom bar.
