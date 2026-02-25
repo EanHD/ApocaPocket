@@ -34,6 +34,35 @@ steps:
 - 'NUTRITION: High protein, low fat (leaner than domestic poultry). Large bird provides 10-15 lbs of meat.'
 ---
 
-# Wild Turkey — Field Dressing & Cooking
+# Wild Turkey Processing
 
-Wild turkey (Meleagris gallopavo) is a large game bird (10-25 lbs). Excellent eating, similar to domestic turkey but leaner. Provides substantial meat. Must be plucked or skinned, gutted, and cooked thoroughly.
+## Overview
+
+- Wild turkey (Meleagris gallopavo) is a large game bird (10-25 lbs)
+- Excellent eating, similar to domestic turkey but leaner
+- Provides substantial meat
+- Must be plucked or skinned, gutted, and cooked thoroughly
+
+## Warnings
+
+- Wild turkeys can carry Salmonella and other bacteria - cook to 165F internal tem
+- Plucking is very time-consuming - skinning is faster but removes fat and flavor
+- Harvest regulations vary - legal hunting in some areas, protected in others
+- Turkeys are wary and difficult to hunt without experience
+
+## Field Dressing
+
+- (1) Cut around vent. (2) Cut up to breastbone. (3) Reach in, pull out 
+
+## Plucking
+
+- Dip bird in hot water (150-160F) for 30-60 seconds. Pluck feathers (pu
+
+## Cooking
+
+- (1) Roast whole (like domestic turkey) - stuff cavity with herbs, roas
+
+## Nutrition
+
+- High protein, low fat (leaner than domestic poultry). Large bird provi
+

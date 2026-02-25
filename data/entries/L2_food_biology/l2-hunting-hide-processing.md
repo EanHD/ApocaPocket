@@ -49,6 +49,43 @@ steps:
   for a shirt or two pairs of moccasins.'
 ---
 
-# Complete Hide Processing — Brain Tanning
+# Complete Hide Processing
 
-Brain tanning converts raw animal hide into soft, durable buckskin leather using only the animal's own brain. 'Every animal has enough brains to tan its own hide' is literally true. The process takes 3-5 days of intermittent work. Result: soft, washable leather for clothing, bags, and moccasins.
+## Overview
+
+- Brain tanning converts raw animal hide into soft, durable buckskin leather using
+- 'Every animal has enough brains to tan its own hide' is literally true
+- The process takes 3-5 days of intermittent work
+- Result: soft, washable leather for clothing, bags, and moccasins
+
+## Warnings
+
+- Raw hides harbor bacteria and parasites — wear gloves during fleshing. Wash hand
+- Brain tanning solution can cause eye and skin irritation — avoid splashing
+- The smoking step is essential — un-smoked brain-tanned leather becomes stiff whe
+- Hides left too long before processing (>24 hours in warm weather) begin to decom
+
+## Fleshing
+
+- stretch hide over a smooth log or beam, flesh side up. Using a dull bl
+
+## De-Hairing (
+
+- optional — skip for fur-on): soak hide in a lye/ash water solution (se
+
+## Membrane Removal
+
+- after de-hairing, scrape both sides again to remove the grain layer (t
+
+## Brain Solution
+
+- mix one brain (any animal brain works — deer, cow, pig) with 1 quart o
+
+## Braining
+
+- wring hide until damp but not dripping. Work brain solution into every
+
+## Wringing
+
+- wring the hide as dry as possible. The traditional method: loop the hi
+

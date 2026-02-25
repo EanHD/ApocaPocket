@@ -32,6 +32,33 @@ steps:
 - 'NUTRITIONAL VALUE: High vitamin C, moderate sugars. More of a treat than a staple food.'
 ---
 
-# Thimbleberry — Pacific Northwest Delicate Berry
+# Thimbleberry
 
-Thimbleberry (Rubus parviflorus) produces delicate, sweet red berries that fall apart when picked. Delicious raw, but too fragile to store. Leaves are edible cooked. Common in PNW forests and clearings.
+## Overview
+
+- Thimbleberry (Rubus parviflorus) produces delicate, sweet red berries that fall 
+- Delicious raw, but too fragile to store
+- Leaves are edible cooked
+- Common in PNW forests and clearings
+
+## Warnings
+
+- Berries are extremely delicate — eat immediately or make into jam
+- Stems have small prickles — handle carefully
+- Berries harbor small insects — shake before eating
+
+## Identification
+
+- LEAVES: large (4-8 inches), maple-like shape (5 lobes), soft/fuzzy. ST
+
+## Harvest
+
+- June-August. Berries are ripe when bright red and separate easily. Han
+- USES: (1) Raw (excellent flavor — sweet with slight tartness)
+- (2) Jam (cook immediately)
+- (3) Syrup
+
+## Nutritional Value
+
+- High vitamin C, moderate sugars. More of a treat than a staple food.
+

@@ -31,6 +31,35 @@ steps:
 - 'BAIT: Worms (dig in moist soil), insects (grasshoppers, beetles), small fish (minnows), meat scraps, dough balls.'
 ---
 
-# Fishing Methods — Pole, Net, Trap, Spear
+# Fishing Methods
 
-Multiple fishing methods increase success. Pole fishing (most common), nets (efficient for small fish), traps (passive), spears (requires skill). Use local bait (worms, insects, small fish).
+## Overview
+
+- Multiple fishing methods increase success
+- Pole fishing (most common), nets (efficient for small fish), traps (passive), sp
+- Use local bait (worms, insects, small fish)
+
+## Warnings
+
+- Regulations vary - fishing may require license even in survival
+- Some fish are toxic (pufferfish, certain tropical species) - research local spec
+- Fishing in polluted water produces contaminated fish
+
+## Overview
+
+- POLE: Line, hook, bait.
+- Cast into likely spots (near structure, shaded pools).
+- Patience.
+
+## Gill Net
+
+- Net stretched across stream. Fish swim into it, gills caught in mesh. 
+
+## Fish Trap
+
+- Funnel-shaped basket or rock enclosure. Fish enter, cannot find exit. 
+- SPEAR: Sharpened stick or multi-pronged spear.
+- Wade in shallow water, strike fish.
+- Aim low (refraction makes fish appear higher than actual position).
+- BAIT: Worms (dig in moist soil), insects (grasshoppers, beetles), small fish (mi
+

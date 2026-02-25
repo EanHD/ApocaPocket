@@ -52,6 +52,47 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Smoking Meat and Fish — Hot Smoke vs Cold Smoke
+# Smoking Meat and Fish
 
-Smoking preserves meat and fish through dehydration, antimicrobial smoke compounds, and surface protein coagulation. Two methods: hot smoking (cooks AND preserves, 1-6 hours) and cold smoking (preserves only, 1-7 days). Proper smoking can preserve food for weeks to months without refrigeration.
+## Overview
+
+- Smoking preserves meat and fish through dehydration, antimicrobial smoke compoun
+- Two methods: hot smoking (cooks AND preserves, 1-6 hours) and cold smoking (pres
+- Proper smoking can preserve food for weeks to months without refrigeration
+
+## Warnings
+
+- NEVER use resinous wood (pine, spruce, fir, cedar) for smoking food — resin depo
+- Cold smoking is DANGEROUS without prior salt-curing — temperatures in the danger
+- Improperly smoked meat can harbor botulism (anaerobic bacteria) — ensure thoroug
+- Smoke in well-ventilated area — carbon monoxide from smoldering fires is lethal 
+
+## Wood Selection
+
+- hardwoods only. BEST: hickory (strong, classic), oak (medium, versatil
+
+## Hot Smoking (
+
+- cook + preserve): Temperature 150-275°F (65-135°C) at meat level. Buil
+
+## Hot Smoke
+
+- — FIELD SMOKER: dig a pit 12 inches deep, build fire inside. Place a g
+
+## Cold Smoking (
+
+- preserve only): Temperature 68-86°F (20-30°C) — NOT hot enough to cook
+- COLD SMOKE PREREQUISITE — SALT CURE: before cold smoking, meat MUST be salt-cure
+- Rub meat generously with salt (1 lb salt per 10 lbs meat).
+- Pack in salt for 7-14 days in cool conditions.
+- Rinse off excess salt before smoking.
+- Without salt-curing, cold smoking is unsafe.
+
+## Meat Preparation
+
+- cut into strips 1/4 to 1/2 inch thick, cutting WITH the grain for jerk
+
+## Fire Management
+
+- the #1 mistake is too much flame and not enough smoke. Use smoldering 
+

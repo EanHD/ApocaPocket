@@ -47,6 +47,57 @@ steps:
   acid. Vinegar is one of the most versatile homestead products.'
 ---
 
-# Making Vinegar from Wild Fruit
+# Wild Fruit Vinegar
 
-Vinegar (acetic acid) is essential for food preservation (pickling), wound cleaning, and cooking. It's made in two stages: fruit → alcohol (yeast fermentation), then alcohol → vinegar (acetobacter fermentation). Takes 3-8 weeks total. Any fruit with sugar works.
+## Overview
+
+- Vinegar (acetic acid) is essential for food preservation (pickling), wound clean
+- It's made in two stages: fruit → alcohol (yeast fermentation), then alcohol → vi
+- Takes 3-8 weeks total
+- Any fruit with sugar works
+
+## Warnings
+
+- Vinegar must reach 4-5% acidity for safe food preservation — taste-test for stro
+- Keep fruit flies away during the first fermentation (they're welcome during the 
+- Methanol is not a concern in vinegar making — it converts to non-toxic compounds
+- Botulism can grow in improperly acidified pickled foods — ensure vinegar is stro
+
+## Fruit Selection
+
+- any sugary fruit works. Best: apples (classic), grapes, berries, pears
+- STAGE 1 — ALCOHOL: crush fruit and place in a wide-mouth container.
+- Add water to cover (ratio ~1:1 fruit to water by volume).
+- If fruit is not very sweet, add sugar or honey (2 tablespoons per quart of liqui
+- Cover with cloth (allows air, blocks insects).
+- Wild yeast on the fruit skin starts fermentation naturally.
+- Stir daily.
+- Fermentation takes 1-2 weeks.
+- You'll see bubbles.
+- When bubbling slows significantly, strain out fruit solids through cloth.
+
+## Overview
+
+- You now have a weak wine/cider (~4-8% alcohol).
+- STAGE 2 — VINEGAR: pour strained liquid into a wide container (wide opening = mo
+- Cover with cloth.
+- Store in warm (20-30°C) dark location.
+- Acetobacter bacteria (naturally present in air and on fruit) convert alcohol to 
+- A 'mother of vinegar' (gelatinous disc) will form on the surface — this is a liv
+- Don't disturb it.
+- If you have mother from a previous batch, add it to speed the process dramatical
+
+## Timing
+
+- vinegar conversion takes 3-6 weeks. Taste weekly. It's ready when it t
+
+## Testing Strength
+
+- commercial vinegar is 5% acetic acid. Yours should taste at least as s
+
+## Pasteurize (
+
+- optional, for storage): heat vinegar to 60-70°C (140-160°F) for 10 min
+- USES: food preservation (pickling vegetables — cover with vinegar + salt), wound
+- Vinegar is one of the most versatile homestead products.
+

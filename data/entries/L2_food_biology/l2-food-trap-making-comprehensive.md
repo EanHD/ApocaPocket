@@ -33,6 +33,45 @@ steps:
 - 'SET LOCATION: Game trails (look for tracks, droppings, worn paths). Near water, feeding areas, dens. Set 10+ traps (most will fail).'
 ---
 
-# Trap & Snare Making — Passive Hunting Techniques
+# Trap & Snare Making
 
-Traps catch game while you sleep or work. Snares (wire loops that tighten), deadfalls (weight crushes animal), pit traps. Set multiple traps (increase odds). Check daily. Illegal in most areas except survival.
+## Overview
+
+- Traps catch game while you sleep or work
+- Snares (wire loops that tighten), deadfalls (weight crushes animal), pit traps
+- Set multiple traps (increase odds)
+- Check daily
+- Illegal in most areas except survival
+
+## Warnings
+
+- Traps are indiscriminate - can catch pets, endangered species, or injure humans
+- Check legality - trapping is illegal in many jurisdictions
+- Trapped animals may be injured and dangerous when you approach
+- Set traps away from trails to avoid human encounters
+
+## Overview
+
+- SNARE: Wire loop on game trail.
+- Animal walks through, loop tightens around neck/body.
+- SETUP: (1) Bend sapling or use spring pole
+- (2) Attach wire loop to trigger stick
+- (3) Animal disturbs trigger, sapling springs up, tightens loop.
+- Check for rabbit, squirrel.
+
+## Deadfall
+
+- Heavy rock balanced on trigger sticks. Animal takes bait, trigger rele
+
+## Figure-
+
+- 4 DEADFALL: Three sticks form Figure-4 shape. Bait on one stick. Anima
+
+## Pit Trap
+
+- Dig hole, cover with sticks and leaves (concealment). Large game falls
+
+## Set Location
+
+- Game trails (look for tracks, droppings, worn paths). Near water, feed
+

@@ -46,6 +46,42 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Universal Edibility Test Protocol
+# Universal Edibility Test
 
-The Universal Edibility Test is a systematic 8-hour protocol for determining if an unknown plant part is safe to eat. Each body part is tested separately — leaves, stems, roots, flowers, and seeds may have different toxicity levels.
+## Overview
+
+- The Universal Edibility Test is a systematic 8-hour protocol for determining if 
+- Each body part is tested separately — leaves, stems, roots, flowers, and seeds m
+
+## Warnings
+
+- NEVER test mushrooms or fungi with this protocol — many deadly mushrooms taste p
+- Test ONLY ONE plant part at a time — a plant with edible leaves may have toxic r
+- Skip testing if you recognize the plant as belonging to known toxic families: wh
+- Do NOT eat anything during the 8-hour test period except the test plant — you ne
+- If any reaction occurs at ANY stage, stop immediately, induce vomiting if within
+
+## Preparation (H
+
+- our 0): Fast for 8 hours before starting the test. Separate the plant 
+
+## Contact Test (H
+
+- our 0, 15 min): Crush the plant part and rub it on your inner wrist. W
+
+## Lip Test (H
+
+- our 0:15, 15 min): Touch the plant part to the corner of your lip. Wai
+
+## Tongue Test (H
+
+- our 0:30, 15 min): Place a small piece on your tongue. Do NOT chew. Ho
+
+## Chew Test (H
+
+- our 0:45, 15 min): Chew a small piece thoroughly but do NOT swallow. H
+
+## Swallow Test (H
+
+- our 1): Swallow the small chewed portion. Wait 8 HOURS. Eat nothing el
+

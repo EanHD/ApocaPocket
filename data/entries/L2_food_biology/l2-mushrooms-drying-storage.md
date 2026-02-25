@@ -47,6 +47,42 @@ steps:
   sealed container.'
 ---
 
-# Mushroom Preservation — Drying and Storage
+# Mushroom Preservation
 
-Mushrooms are 90% water and spoil within days of harvest. Drying is the simplest and most effective preservation method — properly dried mushrooms retain nutritional value and flavor for 1-2 years. No equipment needed beyond sun, air, and a surface.
+## Overview
+
+- Mushrooms are 90% water and spoil within days of harvest
+- Drying is the simplest and most effective preservation method — properly dried m
+- No equipment needed beyond sun, air, and a surface
+
+## Warnings
+
+- Mushrooms must be positively identified BEFORE preservation — drying does NOT de
+- Improperly dried mushrooms (still flexible/leathery) will mold in storage — they
+- Store away from moisture — even brief exposure to humidity can restart mold grow
+- Rehydrated mushrooms should be used immediately — do not re-dry and re-store
+
+## Cleaning
+
+- brush off dirt with a dry brush or cloth. Do NOT wash mushrooms before
+
+## Slicing
+
+- slice mushrooms 1/4 inch (6mm) thick for even drying. Small mushrooms 
+
+## Sun Drying
+
+- lay slices on a clean elevated surface (screen, bamboo mat, clean clot
+
+## Fire/Heat Drying
+
+- place slices on a rack 2-3 feet above a low fire or near a wood stove.
+
+## Dehydrator
+
+- if available, set to 50°C (125°F). Single layer on trays. Takes 4-8 ho
+
+## Testing Dryness
+
+- properly dried mushrooms should SNAP cleanly when bent, not bend. They
+

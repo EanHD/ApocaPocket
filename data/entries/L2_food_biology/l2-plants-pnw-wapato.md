@@ -29,6 +29,29 @@ steps:
 - 'PREPARATION: Wash, peel. Boil 15-20 min, roast, or fry. Potato-like texture. High in carbs, winter staple.'
 ---
 
-# Wapato — Indigenous Staple Tuber
+# Wapato (Staple Tuber)
 
-Wapato (Sagittaria latifolia) was a major food source for PNW tribes. Starchy tuber tastes like potato. Traditional harvest: wade in, dislodge tubers with toes.
+## Overview
+
+- Wapato (Sagittaria latifolia) was a major food source for PNW tribes
+- Starchy tuber tastes like potato
+- Traditional harvest: wade in, dislodge tubers with toes
+
+## Warnings
+
+- Harvest from clean water only
+- Cook before eating
+- Cold labor-intensive work
+
+## Identification
+
+- Arrow-shaped leaves on long stems rising from water. White flowers in 
+
+## Harvest
+
+- Fall-spring. Wade into water, stomp to dislodge tubers, collect as the
+
+## Preparation
+
+- Wash, peel. Boil 15-20 min, roast, or fry. Potato-like texture. High i
+

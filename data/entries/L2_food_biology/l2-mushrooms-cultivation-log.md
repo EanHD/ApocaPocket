@@ -50,6 +50,44 @@ steps:
 - 'DRYING: slice mushrooms 1/4 inch thick and dry in sun, near a fire, or in a dehydrator at 45-55°C until crispy. Store in sealed containers. Dried mushrooms rehydrate in 30 minutes and last 1-2 years.'
 ---
 
-# Log Cultivation — Shiitake and Oyster Mushrooms
+# Log Mushroom Cultivation
 
-Growing mushrooms on logs requires only fresh-cut hardwood logs, mushroom spawn (or wild spawn transfer), a drill, and patience. A single inoculated log produces mushrooms for 3-6 years. Oyster mushrooms are easiest; shiitake produce the highest yields.
+## Overview
+
+- Growing mushrooms on logs requires only fresh-cut hardwood logs, mushroom spawn 
+- A single inoculated log produces mushrooms for 3-6 years
+- Oyster mushrooms are easiest; shiitake produce the highest yields
+
+## Warnings
+
+- Use ONLY freshly cut logs (2-6 weeks old) — older logs may already be colonized 
+- Never use softwood (pine, spruce, cedar) — mushroom mycelium cannot digest conif
+- Contamination by green mold (Trichoderma) is the main failure mode — keep spawn 
+- Wild-transferred spawn may carry parasites or competing organisms — commercial s
+
+## Log Selection
+
+- hardwoods with intact bark. Best for shiitake: oak, sweet gum, ironwoo
+- Wait 2-4 weeks after cutting before inoculating — this lets the tree's natural a
+- But don't wait more than 6 weeks or competing fungi colonize first.
+
+## Spawn Types
+
+- plug spawn (wooden dowels colonized with mycelium — easiest), sawdust 
+
+## Drilling
+
+- drill holes in a diamond pattern — rows 6 inches apart along the log, 
+
+## Inoculation
+
+- insert plug spawn with a hammer (tap flush with bark) or pack sawdust 
+
+## Incubation
+
+- stack logs in a shaded area (70-80% shade) with good airflow. Off the 
+
+## Colonization Time
+
+- oyster mushrooms — 6-12 months. Shiitake — 8-18 months. You'll see whi
+

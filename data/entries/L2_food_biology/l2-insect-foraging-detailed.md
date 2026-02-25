@@ -48,6 +48,54 @@ steps:
   for overcoming psychological resistance in group members).'
 ---
 
-# Insect Foraging — Identification and Preparation
+# Insect Foraging
 
-Insects are the most abundant and accessible animal protein source on Earth. Gram for gram, many insects contain more protein than beef. Over 2 billion people eat insects regularly. In a survival situation, overcoming squeamishness could mean the difference between adequate and inadequate protein intake.
+## Overview
+
+- Insects are the most abundant and accessible animal protein source on Earth
+- Gram for gram, many insects contain more protein than beef
+- Over 2 billion people eat insects regularly
+- In a survival situation, overcoming squeamishness could mean the difference betw
+
+## Warnings
+
+- AVOID: brightly colored insects (warning coloration = toxic), hairy caterpillars
+- Always COOK insects before eating — this kills parasites and bacteria. Raw insec
+- People with shellfish allergies may react to insects (similar chitin proteins) —
+- Do not eat insects found in areas treated with pesticides
+
+## Overview
+
+- CRICKETS AND GRASSHOPPERS: most widely eaten insects globally.
+- High protein (65% dry weight), good fat content.
+- Catch in early morning when cold and sluggish.
+- Remove legs (they have barbs that scratch the throat).
+- Roast on a hot rock, skewer over coals, or boil for 5 minutes.
+- Taste: nutty, mild.
+
+## Grubs And Larvae
+
+- beetle larvae found in rotting logs (especially palm, longhorn, and ba
+- ANTS: most species are edible.
+- Large species (carpenter ants, leafcutter ants) are worthwhile.
+- Place a stick in the nest — ants climb on, then shake into a container of water 
+- Boil for 5 minutes (destroys formic acid which causes stomach upset).
+- Taste: citrusy/sour (from formic acid).
+- Lemon ants (tropical) can be eaten raw.
+
+## Termites
+
+- extremely nutritious — 35% protein, 45% fat. Pound a stick into a term
+
+## Earthworms
+
+- purge for 24 hours in damp clean soil or grass (expels gut contents). 
+
+## Beetle Larvae (
+
+- mealworms): found in stored grain, under bark, in rotting wood. Roast 
+
+## Collection Methods
+
+- pitfall traps (cup buried flush with ground catches crawling insects o
+

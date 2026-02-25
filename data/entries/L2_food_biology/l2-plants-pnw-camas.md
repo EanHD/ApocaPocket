@@ -38,6 +38,43 @@ steps:
 - 'STORAGE: Dried roasted camas lasts months to years. Grind into flour or rehydrate for eating.'
 ---
 
-# Camas — Staple Root Crop of Indigenous PNW
+# Camas (PNW Staple)
 
-Camas (Camassia quamash) was a dietary staple for Pacific Northwest tribes. The bulb is sweet and nutritious when cooked (pit-roasted for 1-3 days). CRITICAL: Death camas is a deadly look-alike. Only harvest camas when flowers are present for positive ID.
+## Overview
+
+- Camas (Camassia quamash) was a dietary staple for Pacific Northwest tribes
+- The bulb is sweet and nutritious when cooked (pit-roasted for 1-3 days)
+- CRITICAL: Death camas is a deadly look-alike
+- Only harvest camas when flowers are present for positive ID
+
+## Warnings
+
+- DEATH CAMAS (Zigadenus) is DEADLY and looks nearly identical to camas when not f
+- NEVER harvest camas bulbs unless you have seen the plant in flower and are 100 p
+- Raw camas bulbs cause severe digestive upset — MUST be cooked
+- Camas takes 1-3 days of pit-roasting to break down inulin (complex carb) into di
+
+## Identification (
+
+- when flowering): FLOWERS: deep blue-purple, star-shaped, 6 petals, tal
+
+## Harvest
+
+- Dig bulbs after flowering, summer into fall. Bulbs are 1-2 inches, lay
+
+## Preparation (
+
+- traditional pit-roasting): Dig pit, line with rocks, heat rocks with f
+
+## Modern Cooking
+
+- Steam or boil for 2-4 hours until bulbs are soft and sweet. Or wrap in
+
+## Nutritional Value
+
+- High in carbohydrates (inulin becomes fructose when cooked). Sweet lik
+
+## Storage
+
+- Dried roasted camas lasts months to years. Grind into flour or rehydra
+

@@ -51,6 +51,47 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Pemmican — Ultimate Survival Food
+# Pemmican Survival Food
 
-Pemmican is a traditional concentrated survival food: dried meat powder + rendered fat + optional dried berries. Calorie density of ~135 cal/oz (3000+ cal/lb). Shelf life: months to years at room temperature. The ultimate portable field ration.
+## Overview
+
+- Pemmican is a traditional concentrated survival food: dried meat powder + render
+- Calorie density of ~135 cal/oz (3000+ cal/lb)
+- Shelf life: months to years at room temperature
+- The ultimate portable field ration
+
+## Warnings
+
+- Fat must be FULLY rendered (all water and meat particles removed) or pemmican wi
+- Use only LEAN meat for the jerky component — fat in the meat will go rancid (use
+- Rancid pemmican smells sour/paint-like and should NOT be eaten — rancid fats are
+- Botulism risk if moisture content is too high — meat must be completely dry (sna
+
+## Dry The Meat
+
+- slice lean meat (deer, elk, beef, rabbit, fish) into strips 1/8 to 1/4
+
+## Powder The Jerky
+
+- once bone-dry, pound jerky into powder/fine shreds using rocks or a he
+
+## Render The Fat
+
+- chop raw animal fat (suet/kidney fat is best — hard white fat, not sof
+- MIX: combine meat powder and warm (not hot) liquid tallow at approximately 1:1 r
+- Mix thoroughly.
+- The fat should completely coat all meat fibers.
+- It should hold together when squeezed but not be dripping wet.
+
+## Optional Additions
+
+- dried berries (blueberries, cranberries, serviceberries, chokecherries
+
+## Form And Store
+
+- press mixture firmly into bars, balls, or pack into intestine casings 
+
+## Nutritional Profile (
+
+- per pound): approximately 3000-3500 calories, 40-50g protein, 250-300g
+

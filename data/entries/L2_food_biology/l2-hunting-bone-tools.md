@@ -47,6 +47,45 @@ steps:
 - 'PRESERVATION: oil finished bone tools with animal fat to prevent drying and cracking. Store dry. A well-made bone needle or awl lasts months to years of regular use.'
 ---
 
-# Bone, Antler, and Shell Tools
+# Bone & Antler Tools
 
-Animal bones, antler, and shell are excellent tool materials — harder than wood, workable without metal tools, and abundantly available after processing game. Bone needles, awls, fishhooks, scrapers, and pressure flakers are among the most useful tools in a survival toolkit.
+## Overview
+
+- Animal bones, antler, and shell are excellent tool materials — harder than wood,
+- Bone needles, awls, fishhooks, scrapers, and pressure flakers are among the most
+
+## Warnings
+
+- Bone dust from grinding/sanding is an irritant — work outdoors and avoid breathi
+- Fresh bone splinters easily — let bones dry for 1-2 weeks before working, or boi
+- Bone tools are strong in compression but snap under sudden lateral force — don't
+- Always use the densest bone sections (long bone midshaft, antler tines) for tool
+
+## Bone Needle
+
+- essential for sewing hide, clothing, and shelter materials. Select a s
+- AWL: thick bone splinter ground to a sharp point, 3-4 inches long.
+- Used to punch holes in leather for sewing, basket-making, and lashing.
+- Handle: wrap the blunt end with cordage or set in a short wooden handle with pit
+- The most-used bone tool.
+
+## Fishhook
+
+- split a small bone (bird bone, rib tip, or dense fish bone) into thin 
+
+## Scraper
+
+- large flat piece of leg bone, broken to create a sharp edge. Use for h
+
+## Antler Tools
+
+- antler is denser than bone and more resistant to shattering. Antler ti
+
+## Antler Wedge
+
+- cut a 6-inch section of antler beam. Use as a wedge for splitting wood
+
+## Shell Tools
+
+- large freshwater mussel shells make excellent scrapers, spoons, and cu
+

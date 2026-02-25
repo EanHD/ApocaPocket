@@ -32,6 +32,38 @@ steps:
 - 'SEPARATION: Store by type and smell. Strong-smelling foods (onions, fish) separate from mild (grains). Apples separate from other produce (ethylene gas).'
 ---
 
-# Food Caching — Long-Term Storage Without Refrigeration
+# Food Caching
 
-Without refrigeration, use cool dry storage, underground caches, hanging (air circulation), and separation by type. Root cellars (underground, 0-10C) store root vegetables, apples months. Grain in sealed containers protects from rodents, moisture.
+## Overview
+
+- Without refrigeration, use cool dry storage, underground caches, hanging (air ci
+- Root cellars (underground, 0-10C) store root vegetables, apples months
+- Grain in sealed containers protects from rodents, moisture
+
+## Warnings
+
+- Rodents destroy food - use sealed metal or glass containers
+- Moisture causes mold - keep storage area dry
+- Some foods emit ethylene gas (apples) which spoils nearby foods - store separate
+- Check stored food regularly for spoilage
+
+## Root Cellar
+
+- Dig into hillside or underground (below frost line). Insulated door, v
+
+## Underground Cache
+
+- Dig hole, line with bark/plastic. Store food in sealed containers. Cov
+
+## Hanging
+
+- Suspend food from rafters (air circulates, rodents cannot reach). Good
+
+## Grain Storage
+
+- Sealed metal drums or glass jars. Add bay leaves (repels insects). Coo
+
+## Separation
+
+- Store by type and smell. Strong-smelling foods (onions, fish) separate
+

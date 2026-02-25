@@ -32,6 +32,38 @@ steps:
 - 'USES: Eat roasted agave like artichoke (chew fibers, spit out pulp). Or mash and make syrup. High in carbs.'
 ---
 
-# Agave — Desert Staple Carbohydrate
+# Agave (Desert Staple)
 
-Agave heart (piña) was roasted in earth ovens for 1-3 days by indigenous peoples. Sweet and calorie-dense when cooked. Labor-intensive but high-yield. Many species are edible.
+## Overview
+
+- Agave heart (piña) was roasted in earth ovens for 1-3 days by indigenous peoples
+- Sweet and calorie-dense when cooked
+- Labor-intensive but high-yield
+- Many species are edible
+
+## Warnings
+
+- Raw agave is inedible and toxic
+- Requires 1-3 days of pit-roasting or equivalent
+- Leaf edges have sharp spines
+- Sap can irritate skin
+
+## Identification
+
+- Rosette of thick fleshy leaves with sharp spines. Tall flower stalk ap
+
+## Harvest
+
+- Best to harvest just before flowering (piña is largest and sweetest). 
+
+## Traditional Roasting
+
+- Dig earth oven (pit with hot rocks). Roast piña for 1-3 days (slow coo
+
+## Modern Cooking
+
+- Wrap piña in foil, roast in coals/oven 12-24 hours at low temp (250-30
+- USES: Eat roasted agave like artichoke (chew fibers, spit out pulp).
+- Or mash and make syrup.
+- High in carbs.
+

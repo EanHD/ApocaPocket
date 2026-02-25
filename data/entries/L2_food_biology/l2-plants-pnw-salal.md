@@ -19,6 +19,37 @@ steps:
 - 'NUTRITIONAL VALUE: Moderate vitamin C, high tannins, some antioxidants. Calorie-dense when dried. Indigenous peoples relied on salal as a winter food source.'
 ---
 
-# Salal — Pacific Northwest Staple Berry
+# Salal (Pacific NW Berry)
 
-Salal (Gaultheria shallon) is the most abundant edible shrub in the Pacific Northwest coastal forests. Dark purple berries, similar to blueberries but mealier. Harvest August-October. Highly productive. Indigenous peoples made pemmican and fruit leather from salal.
+## Overview
+
+- Salal (Gaultheria shallon) is the most abundant edible shrub in the Pacific Nort
+- Dark purple berries, similar to blueberries but mealier
+- Harvest August-October
+- Highly productive
+- Indigenous peoples made pemmican and fruit leather from salal
+
+## Warnings
+
+- Salal berries are edible raw but somewhat bland and mealy
+- Heavy consumption can cause mild constipation (high tannin content)
+- Salal leaves are tough and evergreen — do not eat leaves
+
+## Identification
+
+- Evergreen shrub, 1-6 feet tall, forms dense thickets. LEAVES: thick, g
+
+## Harvest
+
+- July-October (peak in August). Berries ripen unevenly — pick the darke
+- USES: (1) Raw (mildly sweet, mealy)
+- (2) Dried (make fruit leather — mash berries, spread thin on bark or cloth, sun-
+- Roll into scrolls.
+- Lasts 6-12 months)
+- (3) Cooked in stews
+- (4) Mashed and mixed with fat to make pemmican
+
+## Nutritional Value
+
+- Moderate vitamin C, high tannins, some antioxidants. Calorie-dense whe
+

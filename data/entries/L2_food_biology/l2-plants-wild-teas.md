@@ -53,6 +53,42 @@ steps:
   months.'
 ---
 
-# Wild Tea Guide — 20 Species
+# Wild Tea Guide
 
-Wild teas provide hydration, vitamins, medicinal benefits, and psychological comfort. Most require only hot water and 5-10 minutes steeping. This guide covers 20 common wild tea plants, their preparation, and uses.
+## Overview
+
+- Wild teas provide hydration, vitamins, medicinal benefits, and psychological com
+- Most require only hot water and 5-10 minutes steeping
+- This guide covers 20 common wild tea plants, their preparation, and uses
+
+## Warnings
+
+- Positive plant identification is ESSENTIAL — several poisonous plants resemble t
+- Pregnant women should avoid most herbal teas — many stimulate uterine contractio
+- Pine needle tea from Ponderosa, Yew, and Norfolk Island pine is TOXIC — know you
+- Start with small amounts of any new tea to test for allergic reactions
+
+## Pine Needle Tea
+
+- any Pinus species except Ponderosa. Chop fresh green needles, steep in
+
+## Nettle Tea
+
+- steep dried or fresh young leaves (use gloves to harvest) in boiling w
+
+## Dandelion Root Tea
+
+- roast dug roots at medium heat until dark brown and brittle (30-40 min
+
+## Chamomile
+
+- dry flower heads. Steep 1 tablespoon per cup for 5-10 min. Calming, ai
+
+## Rose Hip Tea
+
+- crush dried rose hips (remove seeds). Steep 1 tbsp per cup, 15 min. Ve
+
+## Mint (
+
+- wild): any Mentha species. Steep fresh or dried leaves 5-7 min. Digest
+

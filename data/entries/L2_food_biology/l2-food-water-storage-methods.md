@@ -34,6 +34,41 @@ steps:
 - 'LONG-TERM BULK STORAGE: 55-gallon drums (food-grade). Water tanks (500+ gallons) for homesteads. Rainwater cisterns (filter and treat before use).'
 ---
 
-# Water Storage — Clean Collection, Long-Term Storage, Rotation
+# Water Storage Methods
 
-Store water for emergencies or when municipal supply is unreliable. Clean food-grade containers, treat water before storage (bleach or boil), rotate every 6-12 months. Minimum 1 gallon per person per day for 3 days (emergency kit). Long-term: 30+ gallons per person.
+## Overview
+
+- Store water for emergencies or when municipal supply is unreliable
+- Clean food-grade containers, treat water before storage (bleach or boil), rotate
+- Minimum 1 gallon per person per day for 3 days (emergency kit)
+- Long-term: 30+ gallons per person
+
+## Warnings
+
+- Non-food-grade containers (used for chemicals) contaminate water
+- Algae grows in stored water if exposed to light - use opaque containers
+- Stored water can harbor bacteria if not treated before storage
+
+## Containers
+
+- Food-grade plastic (HDPE #2 or PET #1), glass, stainless steel. Clean 
+- WATER TREATMENT BEFORE STORAGE: (1) Municipal tap water - no treatment needed (a
+- (2) Well water or untreated source - boil 1 min, cool, then store.
+- OR add bleach (8 drops unscented bleach per gallon, mix, wait 30 min).
+
+## Filling
+
+- Fill containers to top (minimizes air, reduces bacterial growth). Seal
+
+## Storage Location
+
+- Cool, dark place. Avoid direct sunlight (promotes algae). Keep off con
+
+## Rotation
+
+- Replace stored water every 6-12 months. Use old water for plants, clea
+
+## Long-Term Bulk Storage
+
+- 55-gallon drums (food-grade). Water tanks (500+ gallons) for homestead
+

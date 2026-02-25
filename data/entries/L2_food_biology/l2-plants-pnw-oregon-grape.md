@@ -36,6 +36,43 @@ steps:
 - 'NUTRITIONAL/MEDICINAL: Berries high in vitamin C and antioxidants. Root contains berberine (antimicrobial, studied for diabetes and infection).'
 ---
 
-# Oregon Grape — Tart Berry & Medicinal Root
+# Oregon Grape
 
-Oregon grape (Mahonia aquifolium) is the state flower of Oregon. Blue-purple berries are VERY tart but edible and high in vitamin C. Yellow root contains berberine (antimicrobial compound). Both berries and roots have traditional medicinal uses.
+## Overview
+
+- Oregon grape (Mahonia aquifolium) is the state flower of Oregon
+- Blue-purple berries are VERY tart but edible and high in vitamin C
+- Yellow root contains berberine (antimicrobial compound)
+- Both berries and roots have traditional medicinal uses
+
+## Warnings
+
+- Berries are extremely sour — difficult to eat raw in quantity
+- Root extract is potent — use sparingly (berberine can cause digestive upset in l
+- Leaves are spiny like holly — wear gloves when harvesting berries
+- Pregnant women should avoid Oregon grape root (stimulates uterus)
+
+## Identification
+
+- Evergreen shrub, 2-6 feet tall. LEAVES: holly-like, spiny, compound wi
+
+## Berry Harvest
+
+- July-September. Pick when dark blue. Taste: pucker-inducing sour. One 
+
+## Berry Uses
+
+- (1) Jelly (requires lots of sugar). (2) Mixed with sweeter berries. (3
+
+## Root Harvest
+
+- Dig roots in fall. Yellow inside (berberine). Scrub and dry.
+
+## Root Uses
+
+- Tea (1 tsp dried root per cup, simmer 10 min) — traditional remedy for
+
+## Nutritional/Medicinal
+
+- Berries high in vitamin C and antioxidants. Root contains berberine (a
+

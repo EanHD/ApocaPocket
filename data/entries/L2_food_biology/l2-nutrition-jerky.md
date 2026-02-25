@@ -46,6 +46,43 @@ steps:
   pemmican and rendered fat.'
 ---
 
-# Meat Jerky — Drying Techniques and Safety
+# Jerky Drying & Safety
 
-Jerky is lean meat dried to below 15% moisture, creating a lightweight, shelf-stable protein source. 5 lbs of raw meat yields about 1 lb of jerky. Properly made jerky lasts 1-2 months unrefrigerated, or 6+ months in cool/dry storage. Critical: only use LEAN meat — fat goes rancid.
+## Overview
+
+- Jerky is lean meat dried to below 15% moisture, creating a lightweight, shelf-st
+- 5 lbs of raw meat yields about 1 lb of jerky
+- Properly made jerky lasts 1-2 months unrefrigerated, or 6+ months in cool/dry st
+- Critical: only use LEAN meat — fat goes rancid
+
+## Warnings
+
+- Fat is the enemy of jerky — trim ALL visible fat before drying. Fat does not dry
+- Ground meat jerky has higher bacteria risk than whole-muscle due to surface bact
+- Wild game may contain parasites (Trichinella in bear/boar, tapeworms in deer) — 
+- If jerky bends without cracking, it's not dry enough and will mold. It should cr
+
+## Meat Selection
+
+- use the leanest cuts — deer/elk backstrap, moose round, beef eye of ro
+
+## Slicing
+
+- partially freeze meat for easier slicing. Cut into strips 1/4 inch thi
+
+## Optional Cure
+
+- soak strips in brine (1/4 cup salt per quart water) for 1-2 hours. Sal
+
+## Sun Drying
+
+- hang strips on a rack or line in direct sunlight and wind. Protect fro
+
+## Fire/Smoke Drying
+
+- hang strips on a rack 2-4 feet above a low, smoky fire. Temperature at
+
+## Oven/Dehydrator
+
+- if available, dry at 63-68°C (145-155°F) for 4-8 hours. Most consisten
+

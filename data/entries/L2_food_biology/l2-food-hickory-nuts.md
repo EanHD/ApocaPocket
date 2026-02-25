@@ -35,6 +35,40 @@ steps:
 - 'NUTRITION: Extremely high in fat (60-70%), high calories (190 cal/oz), moderate protein. One of the richest wild foods. Excellent for winter storage and high-energy needs.'
 ---
 
-# Hickory Nuts — High-Fat Wild Nut
+# Hickory Nuts
 
-Hickory nuts (Carya species) are rich, oily nuts similar to pecans (pecan is a hickory species). Shagbark and shellbark hickory are best. Sweet, high in fat and calories. No processing needed (no tannins). Hard to crack but worth the effort.
+## Overview
+
+- Hickory nuts (Carya species) are rich, oily nuts similar to pecans (pecan is a h
+- Shagbark and shellbark hickory are best
+- Sweet, high in fat and calories
+- No processing needed (no tannins)
+- Hard to crack but worth the effort
+
+## Warnings
+
+- Shells are extremely hard - requires heavy rock or vice to crack
+- Nut meats are small and difficult to extract - labor-intensive
+- Hickory nuts can be confused with toxic buckeyes (check tree identification care
+- Nuts go rancid quickly if stored in warm conditions - refrigerate or freeze
+
+## Identification
+
+- Tall trees, compound leaves (5-9 leaflets). Bark is shaggy/peeling on 
+
+## Harvest
+
+- Fall (Sept-Nov). Collect nuts from ground after they drop. Remove gree
+
+## Cracking
+
+- Place nut on solid surface, hit with heavy rock or hammer. Or use vise
+- USES: Eat raw (sweet, rich, buttery).
+- Roast for enhanced flavor.
+- Add to baking, granola, pemmican.
+- Press for hickory oil (labor-intensive).
+
+## Nutrition
+
+- Extremely high in fat (60-70%), high calories (190 cal/oz), moderate p
+

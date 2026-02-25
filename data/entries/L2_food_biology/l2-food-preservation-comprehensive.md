@@ -38,6 +38,41 @@ steps:
 - 'ROTATION: Eat oldest food first. Check stored food monthly for mold, spoilage.'
 ---
 
-# Food Preservation Methods — Drying, Smoking, Salting, Fermenting
+# Food Preservation Methods
 
-Without refrigeration, food spoils rapidly. Preservation methods remove water or alter chemistry to prevent bacterial growth. Drying, smoking, salting, fermenting, and cold storage (root cellar) allow long-term food storage.
+## Overview
+
+- Without refrigeration, food spoils rapidly
+- Preservation methods remove water or alter chemistry to prevent bacterial growth
+- Drying, smoking, salting, fermenting, and cold storage (root cellar) allow long-
+
+## Warnings
+
+- Improperly preserved food causes botulism, salmonella, mold poisoning - follow g
+- Canning requires pressure canner for low-acid foods - improper canning is deadly
+- Smoked meat still requires cool dry storage - smoking alone does not prevent all
+
+## Drying (
+
+- removes water, bacteria cannot grow): SUN DRY - thin slices on racks, 
+
+## Smoking (
+
+- drying + flavor + some preservation): Cold smoke (20-30C, days) for fl
+
+## Salting (
+
+- salt draws out water, creates hostile environment): Pack meat/fish in 
+
+## Fermenting (
+
+- beneficial bacteria/yeast prevent spoilage): Sauerkraut (cabbage + sal
+
+## Root Cellar (
+
+- cold storage, 0-10C): Dig underground room or use natural cave. Cool t
+
+## Rotation
+
+- Eat oldest food first. Check stored food monthly for mold, spoilage.
+

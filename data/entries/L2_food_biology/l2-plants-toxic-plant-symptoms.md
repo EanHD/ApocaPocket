@@ -52,6 +52,52 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Toxic Plant Poisoning — Symptom Recognition by Toxin Class
+# Toxic Plant Symptoms
 
-Different plant toxins produce distinct symptom patterns. Recognizing which toxin class is involved guides treatment and urgency. This is critical knowledge when someone has eaten an unknown plant.
+## Overview
+
+- Different plant toxins produce distinct symptom patterns
+- Recognizing which toxin class is involved guides treatment and urgency
+- This is critical knowledge when someone has eaten an unknown plant
+
+## Warnings
+
+- Plant poisoning can be FATAL — water hemlock, death camas, castor bean, and rosa
+- Children are at highest risk — smaller body mass means smaller lethal doses
+- Activated charcoal (if available) should be given within 1 hour of ingestion for
+- Do NOT induce vomiting if the person is unconscious, seizing, or if a corrosive 
+- Bring a sample of the plant (or photo) for identification — treatment depends on
+
+## Alkaloid Poisoning (
+
+- nightshade, jimsonweed, hemlock): Dilated pupils, dry mouth, flushed s
+
+## Cardiac Glycosides (
+
+- foxglove, oleander, lily-of-the-valley): Nausea, vomiting, visual dist
+
+## Oxalate Crystals (
+
+- rhubarb leaves, dieffenbachia, philodendron): Immediate intense burnin
+- CYANOGENIC GLYCOSIDES (cherry pits, apple seeds, elderberry leaves/stems, cassav
+- Cherry-red skin color is a late sign.
+- Treatment: remove from stomach if recent, fresh air, rescue breathing if needed.
+- GASTROINTESTINAL IRRITANTS (pokeweed, iris, daffodil bulbs): Intense nausea, vom
+- Usually self-limiting but dehydration is the main danger.
+- Treatment: ORS (oral rehydration solution), rest, do NOT try to stop vomiting — 
+
+## Hepatotoxins (
+
+- death cap mushroom, certain plants): Delayed onset 6-24 hours. Initial
+
+## Neurotoxins (
+
+- water hemlock, poison hemlock): Seizures within 15-90 minutes of inges
+
+## Dermatitis Plants (
+
+- poison ivy/oak/sumac, giant hogweed): Skin contact causes delayed rash
+- GENERAL TREATMENT PRIORITIES: (1) Airway — keep it open
+- (2) Breathing — rescue breathe if needed
+- (3) Activated charcoal within 1 hour if available
+

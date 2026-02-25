@@ -49,6 +49,51 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Trotline — Passive Multi-Hook Fishing System
+# Trotline Fishing
 
-A trotline is a long fishing line with multiple baited hooks — the passive fishing equivalent of setting multiple snares. Fish while you sleep. One trotline with 10-25 hooks dramatically outperforms rod-and-line fishing for survival calorie gathering.
+## Overview
+
+- A trotline is a long fishing line with multiple baited hooks — the passive fishi
+- Fish while you sleep
+- One trotline with 10-25 hooks dramatically outperforms rod-and-line fishing for 
+
+## Warnings
+
+- Check trotlines every few hours — fish die quickly on hooks and spoil in warm wa
+- Trotlines across navigable waterways are illegal in many jurisdictions outside s
+- Strong current can sweep your entire line away — anchor both ends securely
+- Catfish and turtles on trotlines can bite — handle with care, grip behind the he
+
+## Main Line
+
+- use the strongest line available — paracord (550 lb), bankline (#36 or
+
+## Drop Lines (
+
+- gangions): tie short lines (12-18 inches) to the main line every 3-5 f
+- HOOKS: use circle hooks if available (self-setting, fish can't throw them).
+- Otherwise, any hook works.
+- Improvised hooks: thorns, bent pins/nails, carved bone/hardwood hooks, safety pi
+- Size 2-6 for panfish, 1/0-3/0 for catfish/larger species.
+
+## Anchoring
+
+- tie one end to a tree, root, or stake on the bank. Run line across the
+- DEPTH: adjust drop line length so hooks hang just above the bottom (where most f
+- In still water, use small stones as sinkers on each drop line.
+- Hooks should be 6-12 inches above the bottom.
+- BAIT: use local bait — worms (dig near water's edge), grubs (under rotting logs)
+- Different hooks with different bait types increases catch variety.
+
+## Set And Check
+
+- set trotline at dusk (most fish feed at night). Check at dawn. Reset a
+
+## Float Line Variation
+
+- for open water (ponds, lakes), tie the main line between two floating 
+
+## Limb Lines (
+
+- simplified trotline): tie a single hook-and-line to flexible branches 
+

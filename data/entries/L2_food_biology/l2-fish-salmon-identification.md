@@ -36,6 +36,38 @@ steps:
 - 'NUTRITION: Very high in omega-3 fatty acids, protein, vitamin D, calories (200+ cal per 4oz). One salmon provides days of food.'
 ---
 
-# Salmon — Anadromous Fish Field Identification
+# Salmon Field ID
 
-Salmon (Oncorhynchus and Salmo species) are anadromous fish (spawn in freshwater, live in ocean). Return to rivers in huge runs (seasonal). Extremely high in fat and calories - one of the best survival fish. Pacific salmon die after spawning.
+## Overview
+
+- Salmon (Oncorhynchus and Salmo species) are anadromous fish (spawn in freshwater
+- Return to rivers in huge runs (seasonal)
+- Extremely high in fat and calories - one of the best survival fish
+- Pacific salmon die after spawning
+
+## Warnings
+
+- Spawning salmon (red coloration, hooked jaw) are edible but flesh quality declin
+- Raw salmon can carry parasites - freeze at -4F for 7 days or cook to 145F
+- Pacific salmon species return at different times - learn local run schedules
+
+## Identification
+
+- Large fish (12-40 inches). SPECIES (Pacific): Chinook (king) - largest
+
+## Field Dressing
+
+- Same as trout but larger. Gut, remove gills. Save roe (eggs) - edible 
+
+## Smoking
+
+- Salmon is ideal for smoking (high fat content). See smoking entry. Smo
+
+## Cooking
+
+- Grill, bake, poach, smoke. Rich, oily, flavorful. High calorie.
+
+## Nutrition
+
+- Very high in omega-3 fatty acids, protein, vitamin D, calories (200+ c
+

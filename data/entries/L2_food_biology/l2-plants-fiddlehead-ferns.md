@@ -31,6 +31,34 @@ steps:
 - 'PREPARATION: Remove scales, rinse. BOIL 10-15 min or STEAM 10-12 min. Do not eat raw. Asparagus-like flavor.'
 ---
 
-# Fiddlehead Ferns — Spring Delicacy
+# Fiddlehead Ferns
 
-Fiddleheads are young coiled fern fronds. ONLY ostrich fern is widely recommended. Bracken fern is TOXIC. Must be cooked to destroy toxins.
+## Overview
+
+- Fiddleheads are young coiled fern fronds
+- ONLY ostrich fern is widely recommended
+- Bracken fern is TOXIC
+- Must be cooked to destroy toxins
+
+## Warnings
+
+- BRACKEN FERN is carcinogenic - never eat
+- Must boil 10+ minutes
+- Raw fiddleheads cause food poisoning
+
+## Overview
+
+- SAFE SPECIES - OSTRICH FERN: Bright green, tightly coiled, smooth (not fuzzy), d
+
+## Unsafe - Bracken
+
+- Fuzzy fiddleheads, triangular fronds, grows in dry areas. DO NOT EAT.
+
+## Harvest
+
+- Early spring when tightly coiled. Take only a few per plant.
+
+## Preparation
+
+- Remove scales, rinse. BOIL 10-15 min or STEAM 10-12 min. Do not eat ra
+

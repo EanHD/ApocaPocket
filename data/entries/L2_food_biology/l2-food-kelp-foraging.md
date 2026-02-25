@@ -38,6 +38,44 @@ steps:
 - 'NUTRITION: High in iodine (thyroid health), calcium, iron, magnesium, potassium, vitamins A and C. Low calorie but nutrient-dense. Traditional anti-scurvy food for sailors.'
 ---
 
-# Kelp — Coastal Seaweed Foraging & Uses
+# Kelp Foraging
 
-Kelp (Laminaria and Macrocystis species) is a large brown seaweed found in cold coastal waters. Edible, nutritious, high in iodine and minerals. Can be eaten fresh, dried, or cooked. Important food source in coastal survival.
+## Overview
+
+- Kelp (Laminaria and Macrocystis species) is a large brown seaweed found in cold 
+- Edible, nutritious, high in iodine and minerals
+- Can be eaten fresh, dried, or cooked
+- Important food source in coastal survival
+
+## Warnings
+
+- Only harvest kelp from clean waters away from pollution, sewage, industrial runo
+- Avoid kelp near shellfish poisoning warning areas
+- Very high in iodine - excessive consumption can cause thyroid issues (limit to a
+- Kelp can be slippery on rocks - watch for falls
+
+## Identification
+
+- Large brown seaweed with long blade-like fronds (up to 10+ feet). Hold
+
+## Harvest
+
+- Cut kelp from rocks at low tide (use knife). Or collect fresh kelp was
+- USES: (1) FRESH: Rinse thoroughly in fresh water to remove salt and sand.
+- Slice into strips.
+- Add to salads, soups, stir-fry.
+- Tough texture
+- (2) DRIED: Rinse, hang to dry in sun or indoors (1-3 days).
+- Dried kelp lasts months.
+- Rehydrate in water before cooking or grind into powder (seasoning, mineral suppl
+- (3) KELP NOODLES: Slice fresh kelp into thin strips, blanch briefly, use like pa
+- (4) KELP CHIPS: Dry thin strips, roast until crispy (like kale chips).
+
+## Flavor
+
+- Salty, umami, ocean-like. Strong flavor.
+
+## Nutrition
+
+- High in iodine (thyroid health), calcium, iron, magnesium, potassium, 
+

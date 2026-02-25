@@ -34,6 +34,38 @@ steps:
 - 'NUTRITION: High protein, low fat. Firm texture makes it good for stews.'
 ---
 
-# Catfish — Bottom Feeder Survival Fish
+# Catfish Identification
 
-Catfish (Ictalurus and related species) are bottom-dwelling fish with whisker-like barbels. Easy to catch (scavengers, eat almost anything). No scales but have tough skin. Excellent eating when cleaned properly.
+## Overview
+
+- Catfish (Ictalurus and related species) are bottom-dwelling fish with whisker-li
+- Easy to catch (scavengers, eat almost anything)
+- No scales but have tough skin
+- Excellent eating when cleaned properly
+
+## Warnings
+
+- Catfish have sharp spines on dorsal and pectoral fins - puncture wounds can beco
+- Bottom feeders from polluted water accumulate toxins - avoid catfish from indust
+- Skin is tough and slimy - requires pliers or skinning technique
+
+## Identification
+
+- Flattened head, 8 barbels (whiskers), no scales, smooth slimy skin. Do
+
+## Field Dressing
+
+- (1) Kill immediately (nail through head). (2) Gut fish. (3) SKINNING: 
+
+## Removing Spines
+
+- Cut off dorsal and pectoral fins (spines are embedded in fins, not the
+
+## Cooking
+
+- Fillet or cook whole. Firm white meat, mild flavor. Fry (Southern clas
+
+## Nutrition
+
+- High protein, low fat. Firm texture makes it good for stews.
+

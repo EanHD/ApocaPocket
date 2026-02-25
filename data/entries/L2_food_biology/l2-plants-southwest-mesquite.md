@@ -31,6 +31,35 @@ steps:
 - 'NUTRITION: High protein (11-17%), natural sugars (low glycemic), calcium, iron, zinc. Excellent staple.'
 ---
 
-# Mesquite — Desert Bean & Flour
+# Mesquite (Desert Bean)
 
-Mesquite (Prosopis) produces sweet nutritious bean pods. Indigenous peoples ground pods into flour (high protein, naturally sweet). A staple food in the Southwest for thousands of years.
+## Overview
+
+- Mesquite (Prosopis) produces sweet nutritious bean pods
+- Indigenous peoples ground pods into flour (high protein, naturally sweet)
+- A staple food in the Southwest for thousands of years
+
+## Warnings
+
+- Only eat fully ripe pods (tan/brown, hard, sweet)
+- Do not eat moldy or fermented pods
+- Very sweet - moderate if diabetic
+
+## Identification
+
+- Small tree 10-30 feet. Feathery compound leaves. Long sharp thorns. Ta
+
+## Harvest
+
+- Late summer-fall. Pods are ripe when tan/brown, hard, dry, and smell s
+
+## Mesquite Flour
+
+- Dry pods completely. Remove seeds. Grind pods (including husks) into f
+- USES: Baking (25-50% mesquite + wheat flour), smoothies, porridge, syrup.
+- Sweet, caramel/molasses flavor.
+
+## Nutrition
+
+- High protein (11-17%), natural sugars (low glycemic), calcium, iron, z
+

@@ -34,6 +34,41 @@ steps:
 - 'NUTRITION: Higher in protein than most seaweeds (up to 35% dry weight). High in vitamins A, C, B12 (rare in plant foods), iodine, iron. Excellent coastal survival food.'
 ---
 
-# Nori (Laver) — Coastal Red Seaweed
+# Nori (Laver) Seaweed
 
-Nori (Porphyra species), also called laver, is a red/purple seaweed that grows on rocks in intertidal zones. Edible raw or dried. High in protein compared to other seaweeds. Familiar as sushi wrapper.
+## Overview
+
+- Nori (Porphyra species), also called laver, is a red/purple seaweed that grows o
+- Edible raw or dried
+- High in protein compared to other seaweeds
+- Familiar as sushi wrapper
+
+## Warnings
+
+- Harvest from clean water only
+- Can be difficult to distinguish from similar inedible seaweeds - consult field g
+- High in protein but also high in purines - people with gout should limit consump
+- Fresh nori spoils quickly - dry or eat within 1-2 days
+
+## Identification
+
+- Thin, paper-like red or purple-brown seaweed growing on rocks in inter
+
+## Harvest
+
+- Low tide. Peel nori off rocks by hand. Rinse thoroughly in seawater, t
+- USES: (1) FRESH: Eat raw (salty, slightly fishy).
+- Chop and add to salads or soups
+- (2) DRIED: Spread thin on cloth or screen, sun-dry or air-dry until crispy (1-2 
+- Dried nori lasts months
+- (3) ROASTED: Toast dried nori briefly over flame (enhances flavor, makes it cris
+- (4) SEASONING: Crumble dried nori over rice, soups, or grind into powder.
+
+## Flavor
+
+- Salty, umami, slightly fishy. Roasting improves flavor.
+
+## Nutrition
+
+- Higher in protein than most seaweeds (up to 35% dry weight). High in v
+

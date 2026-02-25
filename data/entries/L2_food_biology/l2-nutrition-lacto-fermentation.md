@@ -48,6 +48,42 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Lacto-Fermentation — Preserving Food Without Refrigeration
+# Lacto-Fermentation
 
-Lacto-fermentation uses naturally-present Lactobacillus bacteria to preserve vegetables in brine. No heat, no special equipment — just salt, water, and a container. Produces vitamins (C, K, B), probiotics, and preserved food lasting months.
+## Overview
+
+- Lacto-fermentation uses naturally-present Lactobacillus bacteria to preserve veg
+- No heat, no special equipment — just salt, water, and a container
+- Produces vitamins (C, K, B), probiotics, and preserved food lasting months
+
+## Warnings
+
+- SALT RATIO IS CRITICAL — too little salt (under 2%) allows dangerous bacteria (C
+- Vegetables MUST stay submerged under brine at all times — exposed surfaces grow 
+- If ferment smells putrid (rotting meat smell) rather than sour/tangy, discard it
+- Pink, black, or fuzzy mold means discard the entire batch. White film (kahm yeas
+
+## Basic Brine Ratio
+
+- 2-3% salt by weight. For sauerkraut method (dry salt): 3 tablespoons s
+
+## Sauerkraut
+
+- shred cabbage finely. Sprinkle with salt (3 tbsp per 5 lbs). Massage a
+
+## Wild Greens Ferment
+
+- dandelion leaves, nettles (blanched), plantain, lamb's quarters — any 
+
+## Weight And Cover
+
+- place a clean plate, rock, or water-filled bag on top to keep vegetabl
+
+## Fermentation Timeline
+
+- Days 1-3: bubbles appear (CO2 from fermentation), brine becomes cloudy
+
+## Temperature
+
+- ideal fermentation temperature is 65-75°F (18-24°C). Below 60°F: ferme
+

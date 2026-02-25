@@ -27,6 +27,26 @@ steps:
 - 'USES: Raw in salads (mild, slightly sweet), cooked like spinach, sandwich filler. Best eaten fresh.'
 ---
 
-# Miners Lettuce — Abundant Spring Green
+# Miners Lettuce
 
-Miners lettuce (Claytonia perfoliata) is a mild succulent green. Named because Gold Rush miners ate it to prevent scurvy. Easily identified by disk-shaped leaves.
+## Overview
+
+- Miners lettuce (Claytonia perfoliata) is a mild succulent green
+- Named because Gold Rush miners ate it to prevent scurvy
+- Easily identified by disk-shaped leaves
+
+## Warnings
+
+- Very safe
+- Wilts quickly after picking
+
+## Identification
+
+- Distinctive disk-shaped leaves fused around stem. Tiny white flowers e
+
+## Harvest
+
+- Pick entire rosette. Self-seeds prolifically. High in vitamin C, vitam
+- USES: Raw in salads (mild, slightly sweet), cooked like spinach, sandwich filler
+- Best eaten fresh.
+

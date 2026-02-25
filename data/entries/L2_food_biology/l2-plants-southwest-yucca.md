@@ -30,6 +30,30 @@ steps:
 - 'SOAP: Pound roots, mix with water, creates lather. Good for washing clothes, hair.'
 ---
 
-# Yucca — Desert Multi-Use Plant
+# Yucca (Desert Multi-Use)
 
-Yucca species have edible flowers, fruit, and stalks. Roots provide soap (saponin). Leaves yield strong fiber for cordage and baskets. Important multi-use desert plant.
+## Overview
+
+- Yucca species have edible flowers, fruit, and stalks
+- Roots provide soap (saponin)
+- Leaves yield strong fiber for cordage and baskets
+- Important multi-use desert plant
+
+## Warnings
+
+- Some yucca species have toxic roots (Joshua tree) - only use roots for soap, not
+- Sharp leaf tips can puncture skin
+- Flowers have bitter base - remove before eating
+
+## Identification
+
+- Rosette of sword-like leaves (stiff, pointed). Tall flower stalk with 
+
+## Edible Parts
+
+- (1) FLOWERS - Pick white flowers in spring, remove bitter base, eat ra
+- FIBER: Cut leaves, pound to separate fibers, dry.
+- Strong cordage for rope, baskets, sandals.
+- SOAP: Pound roots, mix with water, creates lather.
+- Good for washing clothes, hair.
+

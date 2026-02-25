@@ -28,6 +28,27 @@ steps:
 - 'USES: Fresh eating, mixed in jams, young shoots as cooked green. High water content, moderate vitamin C.'
 ---
 
-# Salmonberry — Early Spring Berry
+# Salmonberry
 
-Salmonberry (Rubus spectabilis) produces salmon-colored berries in early summer. One of the first berries to ripen in the PNW. Watery and mild flavor. Young shoots edible in spring.
+## Overview
+
+- Salmonberry (Rubus spectabilis) produces salmon-colored berries in early summer
+- One of the first berries to ripen in the PNW
+- Watery and mild flavor
+- Young shoots edible in spring
+
+## Warnings
+
+- Berries are watery and bland
+- Stems have small prickles
+
+## Identification
+
+- Tall shrub 6-12 feet. Leaves compound, 3 leaflets. Flowers pink-magent
+
+## Harvest
+
+- Pick when bright colored. Young shoots (under 6 inches) edible in spri
+- USES: Fresh eating, mixed in jams, young shoots as cooked green.
+- High water content, moderate vitamin C.
+

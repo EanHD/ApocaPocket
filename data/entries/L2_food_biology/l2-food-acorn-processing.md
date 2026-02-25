@@ -40,6 +40,49 @@ steps:
 - 'NUTRITION: High in carbs (60%), moderate fat (15%), some protein (6%). Good calorie source. Historically a staple carbohydrate for many indigenous peoples.'
 ---
 
-# Acorn Processing — Leaching Tannins for Edibility
+# Acorn Processing
 
-Acorns from oak trees are one of the most abundant wild foods in temperate regions. High in carbs and fat. BUT raw acorns contain bitter tannins (toxic in large amounts). Must be leached before eating. Two methods: cold water leaching (days) or hot water leaching (hours).
+## Overview
+
+- Acorns from oak trees are one of the most abundant wild foods in temperate regio
+- High in carbs and fat
+- BUT raw acorns contain bitter tannins (toxic in large amounts)
+- Must be leached before eating
+- Two methods: cold water leaching (days) or hot water leaching (hours)
+
+## Warnings
+
+- Raw acorns are NOT safe to eat - tannins cause digestive upset, nausea, kidney d
+- All oak species produce edible acorns after leaching, but bitterness varies - wh
+- Green or moldy acorns are inedible
+- Leaching is time-consuming but essential
+
+## Harvest
+
+- Fall when acorns drop. Collect from ground. Discard any with holes (we
+
+## Shelling
+
+- Crack shell with rock or nutcracker. Remove inner nut (kernel). Shells
+
+## Cold Water Leaching (
+
+- traditional, best flavor): (1) Crush or grind kernels coarsely. (2) Pl
+
+## Hot Water Leaching (
+
+- fast, 2-4 hours): (1) Crush kernels. (2) Boil in pot of water for 15 m
+
+## Drying
+
+- Spread leached acorn meal on cloth or screen. Sun-dry or oven-dry (low
+- USES: (1) Acorn flour - grind dried meal into flour, use in baking (pancakes, br
+- Mix 25-50% acorn flour with wheat flour
+- (2) Acorn mush - cook leached meal with water into porridge
+- (3) Roasted acorns - coffee substitute.
+- FLAVOR: Mild, nutty, slightly sweet when properly leached.
+
+## Nutrition
+
+- High in carbs (60%), moderate fat (15%), some protein (6%). Good calor
+

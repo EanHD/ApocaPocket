@@ -47,6 +47,51 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Hardtack — Indefinite Shelf-Life Survival Bread
+# Hardtack Survival Bread
 
-Hardtack is an unleavened cracker made of only flour, water, and optional salt. When fully dried, it lasts years to decades. Civil War-era hardtack has been found edible after 150+ years. The simplest long-term carbohydrate storage food.
+## Overview
+
+- Hardtack is an unleavened cracker made of only flour, water, and optional salt
+- When fully dried, it lasts years to decades
+- Civil War-era hardtack has been found edible after 150+ years
+- The simplest long-term carbohydrate storage food
+
+## Warnings
+
+- Hardtack is extremely hard when dry — biting into it can crack teeth. Always soa
+- Watch for weevils (small beetles) in stored hardtack — tap on a hard surface to 
+- Low nutritional variety — hardtack provides carbohydrates but lacks protein, fat
+- Store in absolutely airtight, moisture-proof containers — any moisture causes mo
+
+## Recipe
+
+- 2 cups flour (any type — white, wheat, wild acorn flour, or mix), ½ cu
+- MIX: combine flour and salt.
+- Add water gradually, mixing with hands.
+- Dough should be stiff and not sticky — add flour if sticky, add water drops if c
+- Knead for 2-3 minutes until smooth.
+
+## Roll And Cut
+
+- roll dough to 1/3 inch thick (no thicker — won't dry properly). Cut in
+- BAKE: in an oven at 250°F (120°C) for 2 hours, flipping halfway.
+- In field conditions: place on flat stone next to fire, not over direct flame.
+- Turn frequently.
+- Cook until completely dry and hard — should sound hollow when tapped.
+
+## Dry Further
+
+- after initial baking, leave in warm dry area for 2-3 more days to driv
+
+## Yield And Nutrition
+
+- recipe makes ~8 crackers. Each cracker ≈ 120 calories. Per pound: ~150
+
+## Eating Methods
+
+- (1) Soak in water, coffee, or broth for 15-30 minutes until soft. (2) 
+
+## Storage
+
+- wrap individually in cloth or paper, pack in airtight tin, plastic bag
+

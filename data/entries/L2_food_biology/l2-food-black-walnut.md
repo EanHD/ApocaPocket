@@ -34,6 +34,43 @@ steps:
 - 'NUTRITION: High in fat, protein, omega-3 fatty acids. Intense flavor means a little goes a long way.'
 ---
 
-# Black Walnut — Foraging & Processing
+# Black Walnut Foraging
 
-Black walnut (Juglans nigra) produces edible nuts with strong flavor. Outer husk must be removed (stains hands dark brown). Inner shell is very hard to crack. Nut meat is oily and intensely flavored. Labor-intensive but rewarding.
+## Overview
+
+- Black walnut (Juglans nigra) produces edible nuts with strong flavor
+- Outer husk must be removed (stains hands dark brown)
+- Inner shell is very hard to crack
+- Nut meat is oily and intensely flavored
+- Labor-intensive but rewarding
+
+## Warnings
+
+- Husks stain hands, clothing, and surfaces dark brown (nearly permanent) - wear g
+- Shells are extremely hard - most difficult nut to crack
+- Strong flavor is polarizing - some love it, others find it overpowering
+- Black walnut trees produce juglone (allelopathic compound that kills nearby plan
+
+## Identification
+
+- Large tree, compound leaves (15-23 leaflets). Nuts have thick green hu
+
+## Harvest
+
+- Fall. Collect nuts from ground. Remove husk immediately (husk decays a
+
+## Curing
+
+- Spread husked nuts in single layer in warm, dry place for 2-4 weeks. N
+
+## Cracking
+
+- Use vise, heavy hammer, or specialized nut cracker. Shell is extremely
+- USES: Baking (cookies, brownies - strong flavor), ice cream, salads.
+- Roast for enhanced flavor.
+- Black walnut oil (press kernels - labor-intensive).
+
+## Nutrition
+
+- High in fat, protein, omega-3 fatty acids. Intense flavor means a litt
+

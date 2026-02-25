@@ -33,6 +33,39 @@ steps:
 - 'NUTRITION: High in fat and protein, iron, B vitamins. Calorie-dense.'
 ---
 
-# Ducks — Waterfowl Field Processing
+# Duck Field Processing
 
-Wild ducks (mallard, teal, wood duck, etc.) are common waterfowl. Dark, rich meat (high in fat compared to turkey). Pluck or skin, gut, cook thoroughly. Excellent roasted or smoked.
+## Overview
+
+- Wild ducks (mallard, teal, wood duck, etc.) are common waterfowl
+- Dark, rich meat (high in fat compared to turkey)
+- Pluck or skin, gut, cook thoroughly
+- Excellent roasted or smoked
+
+## Warnings
+
+- Ducks must be cooked to 165F - dark meat looks rare even when fully cooked
+- Plucking ducks is difficult (feathers are waterproof) - requires hot water and p
+- Some ducks taste fishy if they feed on fish - corn-fed ducks taste better
+- Protected species exist - learn to identify legal species vs protected
+
+## Field Dressing
+
+- (1) Cut around vent. (2) Open body cavity, remove organs. (3) Remove c
+
+## Plucking
+
+- Very difficult due to waterproof feathers. Scald in 140-150F water for
+
+## Breasting
+
+- Alternative to full plucking. Cut along breastbone, peel back skin, ca
+
+## Cooking
+
+- (1) Roast whole (stuff cavity, roast at 350F for 1-2 hours). (2) Breas
+
+## Nutrition
+
+- High in fat and protein, iron, B vitamins. Calorie-dense.
+

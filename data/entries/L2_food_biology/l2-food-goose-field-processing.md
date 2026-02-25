@@ -34,6 +34,38 @@ steps:
 - 'NUTRITION: High fat, high protein, calories. One goose provides substantial food (4-8 lbs meat).'
 ---
 
-# Geese — Large Waterfowl Processing
+# Goose Field Processing
 
-Wild geese (Canada goose, snow goose, etc.) are large waterfowl (6-14 lbs). Dark, rich meat similar to duck but larger. Plucking is extremely difficult - skinning or breasting recommended for field use.
+## Overview
+
+- Wild geese (Canada goose, snow goose, etc.) are large waterfowl (6-14 lbs)
+- Dark, rich meat similar to duck but larger
+- Plucking is extremely difficult - skinning or breasting recommended for field us
+
+## Warnings
+
+- Geese are tough to pluck - skinning is more practical
+- Cook to 165F internal temp
+- Some geese taste very gamey (grass-fed) - marinate to reduce strong flavor
+- Geese migrate seasonally - availability varies by time and location
+
+## Field Dressing
+
+- Same as duck/turkey. Gut, rinse, optional plucking/skinning.
+
+## Plucking Vs Breasting
+
+- Full plucking takes hours. PRACTICAL: breast the bird (carve out breas
+
+## Cooking
+
+- (1) Roast whole (stuff, roast 2-3 hours at 325-350F). (2) Breast meat 
+
+## Preserving
+
+- Geese are fatty - excellent for smoking or rendering fat (use for cook
+
+## Nutrition
+
+- High fat, high protein, calories. One goose provides substantial food 
+

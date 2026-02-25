@@ -31,6 +31,37 @@ steps:
 - 'EMERGENCY WATER: Peel pad, mash, squeeze liquid. Slimy but hydrating. Pads are 80-90% water.'
 ---
 
-# Prickly Pear Cactus — Desert Staple
+# Prickly Pear Cactus
 
-Prickly pear (Opuntia) is one of the most important desert plants. Both pads (nopales) and fruit (tunas) are edible. Pads provide emergency hydration.
+## Overview
+
+- Prickly pear (Opuntia) is one of the most important desert plants
+- Both pads (nopales) and fruit (tunas) are edible
+- Pads provide emergency hydration
+
+## Warnings
+
+- GLOCHIDS (tiny barbed spines) embed in skin and cause intense irritation
+- Burn or scrape glochids before handling
+- Eating without removing glochids injures mouth/throat
+
+## Identification
+
+- Flat oval pads with spines and glochids. Yellow/red/magenta flowers. P
+
+## Harvesting Pads
+
+- Use tongs to twist off young tender pads. Burn over flame to remove gl
+
+## Preparing Pads
+
+- Cut into strips, boil 10-15 min (slimy like okra), rinse. Cook in stir
+
+## Harvesting Fruit
+
+- Late summer-fall. Roll in sand to remove glochids, rinse, peel. Sweet,
+
+## Emergency Water
+
+- Peel pad, mash, squeeze liquid. Slimy but hydrating. Pads are 80-90% w
+

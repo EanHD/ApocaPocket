@@ -49,6 +49,51 @@ steps:
   essential for confident foraging.'
 ---
 
-# Spring Foraging Calendar (Temperate N. America)
+# Spring Foraging Calendar
 
-Month-by-month guide to spring foraging in temperate North America (USDA zones 4-7). Spring is the most abundant foraging season — young greens are tender, nutritious, and easy to identify. Adjust timing by 2-3 weeks per zone.
+## Overview
+
+- Month-by-month guide to spring foraging in temperate North America (USDA zones 4
+- Spring is the most abundant foraging season — young greens are tender, nutritiou
+- Adjust timing by 2-3 weeks per zone
+
+## Warnings
+
+- Spring is also when the most toxic plants emerge — poison hemlock, water hemlock
+- Many edible spring greens have toxic look-alikes when young. Wait for positive i
+- Harvest sustainably — take no more than 10% of any wild plant population
+- Foraging in national parks is generally prohibited — know local regulations
+
+## March (
+
+- early spring, snow melting): Chickweed (Stellaria media) — one of the 
+
+## April (
+
+- mid-spring, soil warming): Stinging nettles — harvest top 4-6 inches w
+
+## April-May
+
+- Wild asparagus — looks exactly like garden asparagus, found near old h
+- MAY (late spring): Lamb's quarters (Chenopodium album) begins — one of the most 
+- Amaranth shoots emerge.
+- Wild strawberry flowers appear (fruit in June).
+- Elderflowers for tea and fritters.
+- Basswood/linden leaves — young leaves are mild and edible raw.
+
+## Spring Roots
+
+- Burdock root (best in first year plants, before flowering stalk). Dand
+
+## Spring Bark And Sap
+
+- Birch sap (tap in March when sap flows — drill small hole, insert tube
+
+## Spring Mushrooms
+
+- Morels (Morchella spp.) — April through May, near dead elms, tulip pop
+- IDENTIFICATION PRACTICE: spring is the best time to learn plants — they change r
+- Visit the same areas weekly and photograph changes.
+- Press specimens.
+- This builds the visual library essential for confident foraging.
+

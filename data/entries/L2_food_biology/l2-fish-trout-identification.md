@@ -98,6 +98,35 @@ steps:
 - 'NUTRITION: High protein (20g per 4oz), omega-3 fatty acids, vitamin D, B vitamins. Excellent survival food.'
 ---
 
-# Trout — Identification & Field Dressing
+# Trout ID & Field Dressing
 
-Trout (rainbow, brook, brown, cutthroat) are widespread freshwater fish in cold streams and lakes. Excellent eating, relatively easy to catch. Must be cleaned and cooked thoroughly. Learn to identify by coloration and habitat.
+## Overview
+
+- Trout (rainbow, brook, brown, cutthroat) are widespread freshwater fish in cold 
+- Excellent eating, relatively easy to catch
+- Must be cleaned and cooked thoroughly
+- Learn to identify by coloration and habitat
+
+## Warnings
+
+- Raw or undercooked fish can carry parasites - cook to 145F internal temp
+- Trout from polluted waters accumulate toxins - avoid fish downstream of industry
+- Brook trout are native only in eastern North America - introduced elsewhere
+- Some waters require fishing licenses even in survival situations (check local la
+
+## Identification
+
+- Body shape: streamlined, torpedo-shaped. Size: 8-30 inches. RAINBOW TR
+
+## Field Dressing
+
+- (1) Cut from vent (anus) to gills. (2) Remove guts (discard or use as 
+
+## Cooking
+
+- (1) Grilling: gut fish, stuff cavity with herbs/salt, wrap in leaves o
+
+## Nutrition
+
+- High protein (20g per 4oz), omega-3 fatty acids, vitamin D, B vitamins
+

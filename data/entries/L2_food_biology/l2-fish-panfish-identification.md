@@ -32,6 +32,33 @@ steps:
 - 'STRATEGY: Catch many small panfish rather than a few large fish - easier in survival scenario.'
 ---
 
-# Panfish — Bluegill, Sunfish, Crappie
+# Panfish Identification
 
-Panfish (bluegill, sunfish, crappie) are small fish (4-10 inches) that are easy to catch in ponds and lakes. Abundant, bite readily, good eating. Small but numerous - catch dozens for a meal.
+## Overview
+
+- Panfish (bluegill, sunfish, crappie) are small fish (4-10 inches) that are easy 
+- Abundant, bite readily, good eating
+- Small but numerous - catch dozens for a meal
+
+## Warnings
+
+- Small size means more work per pound of meat - but easy to catch in quantity
+- Bony - eat carefully or pressure-cook to soften bones
+- Panfish from warm stagnant water can taste muddy
+
+## Identification
+
+- Small, flat-bodied fish. BLUEGILL: dark blue/black spot on gill cover,
+
+## Field Dressing
+
+- Gut and scale (small scales come off easily). Or fillet. Very little m
+
+## Cooking
+
+- (1) Whole: gut, scale, fry in pan (eat around bones). (2) Fillet: smal
+
+## Strategy
+
+- Catch many small panfish rather than a few large fish - easier in surv
+

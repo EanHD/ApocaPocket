@@ -31,6 +31,33 @@ steps:
 - 'COOKING: Fry fillets, bake, grill. Firm white meat. Cook to 145F. Mild flavor when prepared well.'
 ---
 
-# Bass — Largemouth & Smallmouth Identification
+# Bass Field ID
 
-Bass (Micropterus species) are common predatory fish in lakes, ponds, and rivers. Largemouth and smallmouth bass are both edible and fight hard on the line. Good eating but bony.
+## Overview
+
+- Bass (Micropterus species) are common predatory fish in lakes, ponds, and rivers
+- Largemouth and smallmouth bass are both edible and fight hard on the line
+- Good eating but bony
+
+## Warnings
+
+- Bass from warm/stagnant water can taste muddy - cold, flowing water produces bet
+- Large bass (over 5 lbs) can accumulate mercury - smaller fish are safer
+- Remove lateral line (dark meat along side) to reduce strong flavor
+
+## Identification
+
+- LARGEMOUTH BASS: large mouth extends past eye, dark horizontal stripe 
+
+## Field Dressing
+
+- Same as trout - gut, remove gills, rinse. Bass are scalier than trout 
+
+## Filleting
+
+- (1) Cut behind gills down to backbone. (2) Slide knife along backbone 
+
+## Cooking
+
+- Fry fillets, bake, grill. Firm white meat. Cook to 145F. Mild flavor w
+

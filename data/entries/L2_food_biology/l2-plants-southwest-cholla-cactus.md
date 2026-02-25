@@ -35,6 +35,43 @@ steps:
 - 'NUTRITION: Buds are exceptionally high in calcium (higher than milk). Moderate fiber, vitamin C.'
 ---
 
-# Cholla Cactus — Edible Buds & Fruit
+# Cholla Cactus
 
-Cholla cactus (Cylindropuntia species) produces edible flower buds (spring) and fruit (summer). Buds are high in calcium and traditionally harvested by indigenous peoples. Segments (joints) are NOT edible but can be used as fuel when dried.
+## Overview
+
+- Cholla cactus (Cylindropuntia species) produces edible flower buds (spring) and 
+- Buds are high in calcium and traditionally harvested by indigenous peoples
+- Segments (joints) are NOT edible but can be used as fuel when dried
+
+## Warnings
+
+- GLOCHIDS are worse than prickly pear - detach easily and embed deep in skin
+- Use tongs or sticks - never touch cholla with bare hands
+- Buds and fruit must be de-spined thoroughly (burn or scrape) before eating
+- Cholla segments break off easily and stick to clothing/skin (teddy bear cholla e
+
+## Identification
+
+- Tree-like or shrubby cactus with cylindrical segmented stems. Dense sp
+
+## Harvesting Buds
+
+- Spring (March-May). Pick unopened flower buds with tongs. Buds are gre
+
+## De-Spining Buds
+
+- (1) Burn over flame to singe off spines and glochids. (2) Scrub with b
+
+## Preparing Buds
+
+- Boil 15-20 min until tender. Taste: tart, slightly slimy (like okra). 
+- FRUIT: Summer.
+- Harvest ripe fruit (yellow-red).
+- De-spine like buds.
+- Can be eaten raw (seedy) or cooked.
+- Less commonly used than buds.
+
+## Nutrition
+
+- Buds are exceptionally high in calcium (higher than milk). Moderate fi
+

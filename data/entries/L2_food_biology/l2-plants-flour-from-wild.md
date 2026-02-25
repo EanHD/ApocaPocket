@@ -54,6 +54,42 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Making Flour from Wild Plants — Acorns, Cattail, Amaranth
+# Flour from Wild Plants
 
-Wild flour sources provide critical carbohydrates for long-term survival. Acorns are the highest-yield wild food in temperate forests (one tree produces 70-150 lbs/year). All require processing to remove toxins or improve digestibility.
+## Overview
+
+- Wild flour sources provide critical carbohydrates for long-term survival
+- Acorns are the highest-yield wild food in temperate forests (one tree produces 7
+- All require processing to remove toxins or improve digestibility
+
+## Warnings
+
+- RAW ACORNS ARE TOXIC — tannins cause kidney damage, nausea, and severe GI distre
+- Do not use acorns from red oak group without EXTENSIVE leaching (2-3x more than 
+- Grinding with rocks produces grit that wears down teeth — use the finest grindin
+- Moldy acorns (black spots, mushy texture, ammonia smell) must be discarded — afl
+
+## Acorn Flour
+
+- — Collection: gather in fall when they drop. Prefer white oak group (r
+
+## Acorn Flour
+
+- — Cold water leaching: crush shelled acorns coarsely. Place in a mesh 
+
+## Acorn Flour
+
+- — Hot water leaching (faster): boil crushed acorns in water. When wate
+
+## Acorn Flour
+
+- — Drying and grinding: spread leached acorn meal on flat rocks or clot
+
+## Cattail Flour
+
+- — Rhizome: harvest cattail roots (rhizomes) year-round but best in fal
+
+## Cattail Flour
+
+- — Pollen: in early summer, shake male flower heads into a bag. Bright 
+

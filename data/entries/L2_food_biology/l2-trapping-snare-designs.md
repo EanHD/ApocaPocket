@@ -57,6 +57,43 @@ last_verified: '2026-02-18'
 audit_status: verified
 ---
 
-# Five Essential Snare and Trap Designs
+# Essential Snare Designs
 
-Passive trapping is 10-100x more efficient than active hunting. Set 10-20 snares along game trails and check twice daily. Five designs cover 90% of small game situations: simple loop, spring pole, drag, deadfall, and box/funnel trap.
+## Overview
+
+- Passive trapping is 10-100x more efficient than active hunting
+- Set 10-20 snares along game trails and check twice daily
+- Five designs cover 90% of small game situations: simple loop, spring pole, drag,
+
+## Warnings
+
+- In a non-survival situation, trapping without a license is illegal in most juris
+- Check traps at least every 12 hours — animals suffering in traps attract predato
+- Deadfall traps can injure you during setup — test the trigger mechanism with a s
+- Wire snares last longer than cordage — 20 gauge brass or steel wire is ideal. Ca
+- Human scent deters animals — handle snares with gloves or rub them with mud, cha
+
+## Simple Loop Snare
+
+- the most basic and most effective trap. Make a loop from wire or stron
+
+## Spring Pole Snare
+
+- attach snare loop to the end of a bent sapling (spring pole). Use a tr
+
+## Drag Snare
+
+- like a simple loop but anchored to a heavy drag log (3-5 lbs) instead 
+
+## Figure-
+
+- 4 DEADFALL TRAP: three sticks notched to form a figure-4 shape support
+
+## Box/Funnel Trap
+
+- build a cone or funnel shape from sticks driven into the ground, narro
+
+## Trap Placement
+
+- set on ACTIVE game trails — look for fresh tracks, droppings, chewed v
+
