@@ -563,7 +563,7 @@ bool readDiagramEid(const char* eid, uint8_t folderIdx,
         if (strncmp(buf, "diagram:", 8) == 0) {
             const char* val = buf + 8;
             // Skip leading spaces/quotes
-            while (*val == ' ' || *val == '"' || *val == ''') val++;
+            while (*val == ' ' || *val == '"' || *val == '\'') val++;
             // Strip trailing quotes/whitespace
             char tmp[128];
             strncpy(tmp, val, sizeof(tmp) - 1);
