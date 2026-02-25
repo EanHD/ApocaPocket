@@ -404,16 +404,25 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 ## Seasonal Fish
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Month | Target Species | Method | Yield |
-|-------|----------------|--------|-------|
-| **Jan-Mar** | Lake trout, pike (ice) | Ice fishing, tip-ups | Moderate |
-| **Apr-May** | Grayling, Dolly Varden | Fly fishing (ice-out) | Moderate |
-| **Jun** | King salmon (early), grayling, trout | Rod/reel, flies | High (if salmon run) |
-| **Jul** | ALL SALMON (peak), trout, char | Nets, rod/reel | **VERY HIGH** |
-| **Aug** | Sockeye, coho, pink, trout | Nets, rod/reel | **VERY HIGH** |
-| **Sep** | Coho (late), char (spawning), trout | Rod/reel | High |
-| **Oct-Dec** | Lake trout, pike (ice-up) | Ice fishing | Moderate |
+- Jan-Mar:
+  Target Species: Lake trout, pike (ice)
+  Method: Ice fishing, tip-ups
+  Yield: Moderate
+- Apr-May:
+  Target Species: Grayling, Dolly Varden
+  Method: Fly fishing (ice-out)
+  Yield: Moderate
+- Jun:
+  Target Species: King salmon (early), grayling, trout
+  Method: Rod/reel, flies
+  Yield: High (if salmon run)
+- Jul:
+  Target Species: ALL SALMON (peak), trout, char
+  Method: Nets, rod/reel
+  Yield: VERY HIGH
+- Aug: Sockeye, coho, pink, trout / Nets, rod/reel / VERY HIGH
+- Sep: Coho (late), char (spawning), trout / Rod/reel / High
+- Oct-Dec: Lake trout, pike (ice-up) / Ice fishing / Moderate
 
 **Key Takeaway**: Focus efforts on July-August salmon runs (90% of your annual fish protein in 2 months)
 
@@ -460,26 +469,26 @@ related: [l1-fishing-basics, l2-hunting-game-preservation-alaska, l1-food-procur
 
 **Salmon (Spawning vs Ocean-Bright):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Ocean-Bright (BEST) | Spawning (OK-POOR) |
-|---------|---------------------|---------------------|
-| Color | Bright silver | Dark, red, brown, green |
-| Flesh | Firm, oily | Soft, dry |
-| Skin | Smooth, scales intact | Torn, patchy |
-| Jaw | Normal | Hooked (males) |
-| Body shape | Streamlined | Humped, deformed |
+- Color: Bright silver / Dark, red, brown, green
+- Flesh: Firm, oily / Soft, dry
+- Skin: Smooth, scales intact / Torn, patchy
+- Jaw: Normal / Hooked (males)
+- Body shape: Streamlined / Humped, deformed
 
 **Rule**: Ocean-bright = excellent. Dark/hooked = still edible but lower quality.
 
 **Trout vs Char vs Salmon:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Trout | Char | Salmon |
-|---------|-------|------|--------|
-| Spots | Dark on light background | Light on dark background | Varies (often spotted) |
-| Tail | Square to slightly forked | Square | Deeply forked |
-| Size | 1-5 lbs (stream) | 2-8 lbs | 5-50 lbs |
-| Lifecycle | Year-round in freshwater | Year-round or anadromous | Anadromous, die after spawning |
+- Spots:
+  Trout: Dark on light background
+  Char: Light on dark background
+  Salmon: Varies (often spotted)
+- Tail: Square to slightly forked / Square / Deeply forked
+- Size: 1-5 lbs (stream) / 2-8 lbs / 5-50 lbs
+- Lifecycle:
+  Trout: Year-round in freshwater
+  Char: Year-round or anadromous
+  Salmon: Anadromous, die after spawning
 
 ---
 

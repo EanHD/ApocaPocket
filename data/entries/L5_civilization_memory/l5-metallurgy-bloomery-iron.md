@@ -21,13 +21,26 @@ Iron smelting is **THE TECHNOLOGY THAT DEFINED CIVILIZATION** for 3,000+ years. 
 ### What Is Iron Ore?
 **Iron oxide minerals** (iron + oxygen, must be separated by smelting):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Ore Type | Formula | Iron Content | Appearance | Location |
-|----------|---------|--------------|------------|----------|
-| **Hematite** | Fe₂O₃ | 70% | Red/brown, heavy, rust-like | Most common, widespread |
-| **Magnetite** | Fe₃O₄ | 72% | Black, magnetic | Volcanic areas, riverbeds |
-| **Limonite** | FeO(OH) | 60% | Yellow-brown, earthy | Swamps, bogs (bog iron) |
-| **Siderite** | FeCO₃ | 48% | Gray-brown, crystalline | Sedimentary deposits |
+- Hematite:
+  Formula: Fe₂O₃
+  Iron Content: 70%
+  Appearance: Red/brown, heavy, rust-like
+  Location: Most common, widespread
+- Magnetite:
+  Formula: Fe₃O₄
+  Iron Content: 72%
+  Appearance: Black, magnetic
+  Location: Volcanic areas, riverbeds
+- Limonite:
+  Formula: FeO(OH)
+  Iron Content: 60%
+  Appearance: Yellow-brown, earthy
+  Location: Swamps, bogs (bog iron)
+- Siderite:
+  Formula: FeCO₃
+  Iron Content: 48%
+  Appearance: Gray-brown, crystalline
+  Location: Sedimentary deposits
 
 ### Field Tests
 
@@ -328,15 +341,24 @@ Temperature Gradient:
 
 ## Common Mistakes
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Bloom doesn't form | Temperature too low | More airflow, better charcoal, preheat longer |
-| Iron oxidizes (burns) | Too much air | Reduce bellows blast, layer ore deeper |
-| Furnace won't stay hot | Insufficient charcoal | Maintain charcoal level, use hardwood charcoal |
-| Slag won't flow | Too viscous (needs flux) | Add limestone (5-10%), higher temperature |
-| Bloom is tiny/no iron | Ore not reduced | Longer smelt time, hotter temperature, more charcoal |
-| Furnace cracks | Thermal shock, wet clay | Dry thoroughly, preheat slowly, add straw to clay |
+- Bloom doesn't form:
+  Cause: Temperature too low
+  Solution: More airflow, better charcoal, preheat longer
+- Iron oxidizes (burns):
+  Cause: Too much air
+  Solution: Reduce bellows blast, layer ore deeper
+- Furnace won't stay hot:
+  Cause: Insufficient charcoal
+  Solution: Maintain charcoal level, use hardwood charcoal
+- Slag won't flow:
+  Cause: Too viscous (needs flux)
+  Solution: Add limestone (5-10%), higher temperature
+- Bloom is tiny/no iron:
+  Cause: Ore not reduced
+  Solution: Longer smelt time, hotter temperature, more charcoal
+- Furnace cracks:
+  Cause: Thermal shock, wet clay
+  Solution: Dry thoroughly, preheat slowly, add straw to clay
 
 ---
 

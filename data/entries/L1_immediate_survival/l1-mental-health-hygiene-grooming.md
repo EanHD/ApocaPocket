@@ -287,13 +287,11 @@ Side View:
        /     \
       /       \
      /_________\
-    |           |
-    |   [Bench]|← Sitting platform (wood)
-    |   ═══════|
-    |     ||   |
-    |    [☼]   |← Hot rocks (heat source)
-    |    ███   |
-    |___████___|
+- [Bench]: ← Sitting platform (wood)
+- ═══════
+- [☼]: ← Hot rocks (heat source)
+- ███
+- ___████___
       
 Plan View (from above):
 

@@ -59,18 +59,60 @@ offline_assets: []
 4. **Tropospheric**: VHF/UHF (30-3000 MHz), 50-500+ miles, atmospheric ducting/refraction, sporadic
 
 **Frequency Band Characteristics** (Quick Reference):
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Band | Frequency | Primary Mode | Typical Range | Best Time | Emergency Use |
-|------|-----------|--------------|---------------|-----------|--------------|
-| **AM Broadcast** | 540-1700 kHz | Ground wave + skywave | 10-50 mi day, 100-1000 mi night | Night (skywave) | Regional info (receive-only) |
-| **160m** | 1.8-2.0 MHz | Skywave (night only) | 100-1000 miles | Night | Regional ham comms (night) |
-| **80m/75m** | 3.5-4.0 MHz | Skywave | 50-1500 miles | Night, winter | Regional-continental (night) |
-| **40m** | 7.0-7.3 MHz | Skywave | 100-3000 miles | Day & night | **Best all-around HF band** |
-| **20m** | 14.0-14.35 MHz | Skywave | 500-12,000 miles | Day | Worldwide DX (daytime) |
-| **15m/10m** | 21/28 MHz | Skywave | 1000-12,000 miles | Day (solar max) | Long-distance (when open) |
-| **6m** | 50-54 MHz | Sporadic E, F2 | 50-2000 miles | Summer, sporadic | Occasional long-distance |
-| **2m** | 144-148 MHz | Line-of-sight | 5-50 miles | Any | **Local VHF standard** |
-| **70cm** | 420-450 MHz | Line-of-sight | 5-30 miles | Any | Local UHF, less foliage loss |
+- AM Broadcast:
+  Frequency: 540-1700 kHz
+  Primary Mode: Ground wave + skywave
+  Typical Range: 10-50 mi day, 100-1000 mi night
+  Best Time: Night (skywave)
+  Emergency Use: Regional info (receive-only)
+- 160m:
+  Frequency: 1.8-2.0 MHz
+  Primary Mode: Skywave (night only)
+  Typical Range: 100-1000 miles
+  Best Time: Night
+  Emergency Use: Regional ham comms (night)
+- 80m/75m:
+  Frequency: 3.5-4.0 MHz
+  Primary Mode: Skywave
+  Typical Range: 50-1500 miles
+  Best Time: Night, winter
+  Emergency Use: Regional-continental (night)
+- 40m:
+  Frequency: 7.0-7.3 MHz
+  Primary Mode: Skywave
+  Typical Range: 100-3000 miles
+  Best Time: Day & night
+  Emergency Use: Best all-around HF band
+- 20m:
+  Frequency: 14.0-14.35 MHz
+  Primary Mode: Skywave
+  Typical Range: 500-12,000 miles
+  Best Time: Day
+  Emergency Use: Worldwide DX (daytime)
+- 15m/10m:
+  Frequency: 21/28 MHz
+  Primary Mode: Skywave
+  Typical Range: 1000-12,000 miles
+  Best Time: Day (solar max)
+  Emergency Use: Long-distance (when open)
+- 6m:
+  Frequency: 50-54 MHz
+  Primary Mode: Sporadic E, F2
+  Typical Range: 50-2000 miles
+  Best Time: Summer, sporadic
+  Emergency Use: Occasional long-distance
+- 2m:
+  Frequency: 144-148 MHz
+  Primary Mode: Line-of-sight
+  Typical Range: 5-50 miles
+  Best Time: Any
+  Emergency Use: Local VHF standard
+- 70cm:
+  Frequency: 420-450 MHz
+  Primary Mode: Line-of-sight
+  Typical Range: 5-30 miles
+  Best Time: Any
+  Emergency Use: Local UHF, less foliage loss
 
 ## Line-of-Sight
 
@@ -144,16 +186,21 @@ Radius = 17.3 × √(10 / 0.146) = 17.3 × √68.5 = 17.3 × 8.28 = 143 meters
 
 ### VHF vs UHF Propagation Differences
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Characteristic | VHF (2m, 144-148 MHz) | UHF (70cm, 420-450 MHz) |
-|----------------|---------------------|----------------------|
-| **Free-Space Range** | Longer (2× wavelength = 4× coverage area) | Shorter |
-| **Building Penetration** | Better (-10 to -20 dB) | Worse (-15 to -30 dB) |
-| **Foliage Loss** | Better (-5 to -10 dB) | Worse (-10 to -20 dB) |
-| **Diffraction (bending around obstacles)** | Better | Worse |
-| **Antenna Size** | Larger (19 inches for 1/4-wave) | Smaller (6 inches) |
-| **Multipath Fading** | Less (wider wavelength) | More (narrow wavelength) |
-| **Rain Attenuation** | Negligible | Minimal (<1 dB) |
+- Free-Space Range:
+  Longer (2× wavelength = 4× coverage area)
+  Shorter
+- Building Penetration:
+  Better (-10 to -20 dB)
+  Worse (-15 to -30 dB)
+- Foliage Loss: Better (-5 to -10 dB) / Worse (-10 to -20 dB)
+- Diffraction (bending around obstacles): Better / Worse
+- Antenna Size:
+  Larger (19 inches for 1/4-wave)
+  Smaller (6 inches)
+- Multipath Fading:
+  Less (wider wavelength)
+  More (narrow wavelength)
+- Rain Attenuation: Negligible / Minimal (<1 dB)
 
 **Recommendation for Emergency Comms**: **VHF (2m)** for general use (better range, building penetration). **UHF (70cm)** for urban environments with many obstacles (better diffraction in cluttered environments, more repeater availability).
 
@@ -327,14 +374,11 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 **Ionospheric Loss**: Add 5-20 dB loss for ionospheric absorption (depends on frequency, time of day, solar activity).
 
 **Practical HF Range**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Power | Antenna | Band | Time | Typical Range |
-|-------|---------|------|------|---------------|
-| 5W | Dipole | 40m | Night | 100-500 miles (single hop) |
-| 100W | Dipole | 40m | Night | 500-2000 miles (single/double hop) |
-| 100W | Dipole | 20m | Day | 1000-5000 miles (F2 layer) |
-| 100W | Beam (10dB) | 20m | Day | 2000-10,000 miles (multi-hop, DX) |
-| 1500W | Beam (10dB) | 20m | Day | Worldwide (6000-12,000+ miles) |
+- 5W: Dipole / 40m / Night / 100-500 miles (single hop)
+- 100W: Dipole / 40m / Night / 500-2000 miles (single/double hop)
+- 100W: Dipole / 20m / Day / 1000-5000 miles (F2 layer)
+- 100W: Beam (10dB) / 20m / Day / 2000-10,000 miles (multi-hop, DX)
+- 1500W: Beam (10dB) / 20m / Day / Worldwide (6000-12,000+ miles)
 
 ## Ground Wave Prop
 
@@ -463,17 +507,16 @@ Received Power = 50 + 2.15 - 115.3 + 2.15 = -61 dBm
 
 ## Antenna Height vs Rang
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Antenna Height (Feet) | Radio Horizon (Miles) | Typical Range to Similar Height |
-|-----------------------|----------------------|-------------------------------|
-| **5** (handheld, ground level) | 2.6 | 5 miles (5 ft to 5 ft) |
-| **10** (handheld, elevated) | 3.7 | 7 miles (10 ft to 10 ft) |
-| **20** (rooftop, 1-story) | 5.2 | 10 miles (20 ft to 20 ft) |
-| **40** (rooftop, 2-story) | 7.4 | 15 miles (40 ft to 40 ft) |
-| **100** (tower, hill) | 11.7 | 23 miles (100 ft to 100 ft) |
-| **200** (tall tower, mountain) | 16.5 | 33 miles (200 ft to 200 ft) |
-| **500** (mountaintop) | 26.1 | 52 miles (500 ft to 500 ft) |
-| **1000** (high mountain) | 37.0 | 74 miles (1000 ft to 1000 ft) |
+- 5 (handheld, ground level): 2.6 / 5 miles (5 ft to 5 ft)
+- 10 (handheld, elevated): 3.7 / 7 miles (10 ft to 10 ft)
+- 20 (rooftop, 1-story): 5.2 / 10 miles (20 ft to 20 ft)
+- 40 (rooftop, 2-story): 7.4 / 15 miles (40 ft to 40 ft)
+- 100 (tower, hill): 11.7 / 23 miles (100 ft to 100 ft)
+- 200 (tall tower, mountain):
+  16.5
+  33 miles (200 ft to 200 ft)
+- 500 (mountaintop): 26.1 / 52 miles (500 ft to 500 ft)
+- 1000 (high mountain): 37.0 / 74 miles (1000 ft to 1000 ft)
 
 **Practical Examples**:
 - **Handheld-to-handheld** (both at 5 feet): 5 miles (urban: 1-2 miles due to buildings)

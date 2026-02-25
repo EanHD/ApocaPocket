@@ -284,15 +284,12 @@ Grains are calorie-dense survival foods, but unusable without processing. Knowin
 
 ## No-Electricity Alt
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Process | Hand Method | Tool Needed | Time/Bushel |
-|---------|-------------|-------------|-------------|
-| **Threshing** | Flail | DIY flail | 30-60 min |
-| | Tarp beating | Pillowcase/sack | 45-90 min |
-| | Hand rubbing | None | 2-3 hours |
-| **Winnowing** | Wind pour | Bucket + wind | 15-30 min |
-| **Milling** | Hand-crank | Stone mill | 2-4 hours |
-| | Mortar & pestle | Stone/wood M&P | 8-12 hours |
+- Threshing: Flail / DIY flail / 30-60 min
+- Tarp beating: Pillowcase/sack / 45-90 min
+- Hand rubbing: None / 2-3 hours
+- Winnowing: Wind pour / Bucket + wind / 15-30 min
+- Milling: Hand-crank / Stone mill / 2-4 hours
+- Mortar & pestle: Stone/wood M&P / 8-12 hours
 
 **Total Time (Wheat: Field → Flour):**
 - **Mechanical:** 4-6 hours per bushel

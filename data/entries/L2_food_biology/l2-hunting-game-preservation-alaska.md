@@ -75,12 +75,9 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 7. **Done when**: Dark mahogany color, firm texture, bendable but not brittle
 
 **Temperature Check (No Thermometer):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hand Distance | Hold Time | Approximate Temp |
-|---------------|-----------|------------------|
-| 6 inches | 2-3 seconds | 300-350°F (too hot) |
-| 6 inches | 4-5 seconds | 225-250°F (perfect) |
-| 6 inches | 7-8 seconds | 150-200°F (too cool) |
+- 6 inches: 2-3 seconds / 300-350°F (too hot)
+- 6 inches: 4-5 seconds / 225-250°F (perfect)
+- 6 inches: 7-8 seconds / 150-200°F (too cool)
 
 ### Common Mistakes
 
@@ -206,13 +203,16 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ### Visual Indicators
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stage | Appearance | Action |
-|-------|------------|--------|
-| Fresh | Bright red/purple, firm | Safe to eat/preserve |
-| Early spoilage | Brownish-gray edges, soft spots | Trim affected areas, preserve immediately |
-| Advanced spoilage | Green/black patches, slimy film | **DISCARD ENTIRE PIECE** |
-| Total loss | Putrid, liquefying | Discard all, do not touch with bare hands |
+- Fresh: Bright red/purple, firm / Safe to eat/preserve
+- Early spoilage:
+  Appearance: Brownish-gray edges, soft spots
+  Action: Trim affected areas, preserve immediately
+- Advanced spoilage:
+  Appearance: Green/black patches, slimy film
+  Action: DISCARD ENTIRE PIECE
+- Total loss:
+  Appearance: Putrid, liquefying
+  Action: Discard all, do not touch with bare hands
 
 ### Smell Test
 
@@ -289,12 +289,9 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-butchering-improvised
 
 ## 📊 Estimated Yields
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Live Weight | Meat Yield | Preservation Time (1 person) |
-|--------|-------------|------------|------------------------------|
-| Moose | 1000 lbs | 400-500 lbs | 3-5 days full-time work |
-| Caribou | 300 lbs | 120-150 lbs | 1-2 days |
-| Deer | 150 lbs | 50-75 lbs | 8-16 hours |
+- Moose: 1000 lbs / 400-500 lbs / 3-5 days full-time work
+- Caribou: 300 lbs / 120-150 lbs / 1-2 days
+- Deer: 150 lbs / 50-75 lbs / 8-16 hours
 
 **Reality Check**: You may not save all the meat. Prioritize high-value cuts and accept partial loss over total loss.
 

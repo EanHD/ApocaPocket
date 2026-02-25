@@ -8,12 +8,17 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 ## Hot vs Cold Composting
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Method | Time to Finish | Effort | Kills Pathogens? | Kills Weed Seeds? |
-|--------|---------------|--------|------------------|-------------------|
-| **Hot Compost** | 3-6 months | High (weekly turning) | ✅ Yes (130-160°F) | ✅ Yes (>140°F) |
-| **Cold Compost** | 12-24 months | Low (occasional turning) | ❌ No | ❌ No |
-| **Vermicompost** | 3-6 months | Low (maintenance) | ⚠️ Partial | ❌ No |
+- Hot Compost:
+  Time to Finish: 3-6 months
+  Effort: High (weekly turning)
+  Kills Pathogens?: ✅ Yes (130-160°F)
+  Kills Weed Seeds?: ✅ Yes (>140°F)
+- Cold Compost:
+  Time to Finish: 12-24 months
+  Effort: Low (occasional turning)
+  Kills Pathogens?: ❌ No
+  Kills Weed Seeds?: ❌ No
+- Vermicompost: 3-6 months / Low (maintenance) / ⚠️ Partial / ❌ No
 
 **Choose Hot Composting For:** Speed, pathogen/seed kill, animal manures, diseased plants
 **Choose Cold Composting For:** Low effort, continuous adding, small amounts
@@ -45,19 +50,16 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 ### Balancing Table
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Material | C:N Ratio | Category |
-|----------|-----------|----------|
-| Food scraps | 15:1 | Green |
-| Grass clippings | 20:1 | Green |
-| Coffee grounds | 20:1 | Green |
-| Chicken manure | 10:1 | Green (hot!) |
-| Cow manure | 20:1 | Green |
-| Horse manure | 25:1 | Balanced |
-| Straw | 80:1 | Brown |
-| Dry leaves | 60:1 | Brown |
-| Shredded paper | 175:1 | Brown |
-| Sawdust | 500:1 | Brown (use sparingly) |
+- Food scraps: 15:1 / Green
+- Grass clippings: 20:1 / Green
+- Coffee grounds: 20:1 / Green
+- Chicken manure: 10:1 / Green (hot!)
+- Cow manure: 20:1 / Green
+- Horse manure: 25:1 / Balanced
+- Straw: 80:1 / Brown
+- Dry leaves: 60:1 / Brown
+- Shredded paper: 175:1 / Brown
+- Sawdust: 500:1 / Brown (use sparingly)
 
 **Rule of Thumb:** 3 parts browns to 1 part greens by volume (browns are fluffy, greens dense)
 
@@ -85,14 +87,11 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 ### Temperature Monitoring
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Phase | Days | Temperature | Action |
-|-------|------|-------------|--------|
-| **Heating** | 0-3 | 70°F → 130°F | Monitor daily |
-| **Active** | 3-14 | 130-160°F | Maintain, turn when drops |
-| **Peak** | Peak day | 140-160°F | IDEAL (pathogen kill) |
-| **Cooling** | 14-30 | 160°F → 100°F | Turn weekly |
-| **Curing** | 30-90 | 100°F → ambient | Turn monthly |
+- Heating: 0-3 / 70°F → 130°F / Monitor daily
+- Active: 3-14 / 130-160°F / Maintain, turn when drops
+- Peak: Peak day / 140-160°F / IDEAL (pathogen kill)
+- Cooling: 14-30 / 160°F → 100°F / Turn weekly
+- Curing: 30-90 / 100°F → ambient / Turn monthly
 
 **⚠️ CRITICAL TEMPERATURES:**
 - **130-140°F:** Weed seeds killed
@@ -119,15 +118,16 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 **Troubleshooting:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Pile won't heat | Too small | Add more material (min 1 cubic yard) |
-| Pile won't heat | Too dry | Add water while turning |
-| Pile won't heat | Wrong ratio | Add greens (nitrogen) |
-| Smells like ammonia | Too much nitrogen | Add browns, turn pile |
-| Smells rotten | Too wet / no oxygen | Add browns, turn pile |
-| Attracts pests | Exposed food | Bury food scraps, add browns |
+- Pile won't heat:
+  Cause: Too small
+  Solution: Add more material (min 1 cubic yard)
+- Pile won't heat: Too dry / Add water while turning
+- Pile won't heat: Wrong ratio / Add greens (nitrogen)
+- Smells like ammonia:
+  Cause: Too much nitrogen
+  Solution: Add browns, turn pile
+- Smells rotten: Too wet / no oxygen / Add browns, turn pile
+- Attracts pests: Exposed food / Bury food scraps, add browns
 
 ### Cold Composting Protocol
 
@@ -222,15 +222,14 @@ Composting converts waste into black gold. Nature takes 100-1000 years to build 
 
 **Application Rates:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Use | Amount | Method |
-|-----|--------|--------|
-| Garden beds (new) | 2-4" layer | Till into top 6-8" |
-| Garden beds (annual) | 1-2" layer | Top dress, lightly work in |
-| Potting mix | 25-30% compost | Mix with soil/perlite/peat |
-| Lawn top dress | 1/4 - 1/2" layer | Rake in (spring/fall) |
-| Mulch | 2-3" layer | Don't till, just top |
-| Compost tea | 1:5 ratio | Brew 24-48h, dilute 1:10 |
+- Garden beds (new): 2-4" layer / Till into top 6-8"
+- Garden beds (annual):
+  Amount: 1-2" layer
+  Method: Top dress, lightly work in
+- Potting mix: 25-30% compost / Mix with soil/perlite/peat
+- Lawn top dress: 1/4 - 1/2" layer / Rake in (spring/fall)
+- Mulch: 2-3" layer / Don't till, just top
+- Compost tea: 1:5 ratio / Brew 24-48h, dilute 1:10
 
 **Sifting:** Use 1/2" hardware cloth to separate finished compost from large chunks (return chunks to pile)
 

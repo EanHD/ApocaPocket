@@ -42,12 +42,11 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 **Rapid bedside screening (score 0-3):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Criteria | Normal | Abnormal (1 point) |
-|----------|--------|-------------------|
-| **Respiratory rate** | <22/min | ≥22/min |
-| **Altered mental status** | Alert | Confused, drowsy, agitated |
-| **Systolic blood pressure** | ≥100 mmHg | <100 mmHg |
+- Respiratory rate: <22/min / ≥22/min
+- Altered mental status:
+  Normal: Alert
+  Abnormal (1 point): Confused, drowsy, agitated
+- Systolic blood pressure: ≥100 mmHg / <100 mmHg
 
 **Score interpretation:**
 - **0-1:** Low risk of sepsis (but still monitor if infected)
@@ -167,23 +166,37 @@ Sepsis kills 270,000 Americans yearly. **40% mortality without ICU care.** Early
 
 **Broad-spectrum coverage (unknown source):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Antibiotic | Dose | Covers | Notes |
-|------------|------|--------|-------|
-| **Amoxicillin-clavulanate** | 875/125mg PO every 12hr | Gram+, Gram-, anaerobes | Best oral option |
-| **Ciprofloxacin + Metronidazole** | Cipro 500mg + Metro 500mg every 12hr | Gram-, anaerobes | Good for abdominal |
-| **Doxycycline** | 100mg every 12hr | Gram+, Gram-, atypicals | Backup option |
-| **Azithromycin + Amoxicillin** | Azithro 500mg + Amox 500mg | Respiratory coverage | For pneumonia |
+- Amoxicillin-clavulanate:
+  Dose: 875/125mg PO every 12hr
+  Covers: Gram+, Gram-, anaerobes
+  Notes: Best oral option
+- Ciprofloxacin + Metronidazole:
+  Dose: Cipro 500mg + Metro 500mg every 12hr
+  Covers: Gram-, anaerobes
+  Notes: Good for abdominal
+- Doxycycline:
+  Dose: 100mg every 12hr
+  Covers: Gram+, Gram-, atypicals
+  Notes: Backup option
+- Azithromycin + Amoxicillin:
+  Dose: Azithro 500mg + Amox 500mg
+  Covers: Respiratory coverage
+  Notes: For pneumonia
 
 **Specific infection sources:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Source | First Choice | Second Choice |
-|--------|--------------|---------------|
-| **Pneumonia** | Amoxicillin-clav 875mg q12h + azithromycin 500mg daily | Doxycycline 100mg q12h |
-| **UTI** | Ciprofloxacin 500mg q12h | Trimethoprim-sulfa DS q12h |
-| **Skin/soft tissue** | Amoxicillin-clav 875mg q12h | Doxycycline 100mg q12h + metronidazole 500mg q8h |
-| **Abdominal** | Cipro 500mg + metro 500mg q12h | Amoxicillin-clav 875mg q12h |
+- Pneumonia:
+  First Choice: Amoxicillin-clav 875mg q12h + azithromycin 500mg daily
+  Second Choice: Doxycycline 100mg q12h
+- UTI:
+  First Choice: Ciprofloxacin 500mg q12h
+  Second Choice: Trimethoprim-sulfa DS q12h
+- Skin/soft tissue:
+  First Choice: Amoxicillin-clav 875mg q12h
+  Second Choice: Doxycycline 100mg q12h + metronidazole 500mg q8h
+- Abdominal:
+  First Choice: Cipro 500mg + metro 500mg q12h
+  Second Choice: Amoxicillin-clav 875mg q12h
 
 **IV antibiotics (if available):**
 - Ceftriaxone 2g IV daily

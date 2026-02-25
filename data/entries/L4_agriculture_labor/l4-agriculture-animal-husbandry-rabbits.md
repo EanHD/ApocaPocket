@@ -39,25 +39,50 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 ### Meat Breeds (Best for Homestead)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Breed | Mature Weight | Growth Rate | Litter Size | Temperament | Notes |
-|-------|--------------|-------------|-------------|-------------|-------|
-| **New Zealand White** | 9-12 lbs | Fast (8-10 weeks to 5 lbs) | 8-10 kits | Calm | Industry standard, proven |
-| **Californian** | 8-11 lbs | Fast | 8-10 kits | Docile | Good meat, nice pelt |
-| **Florida White** | 4-6 lbs | Medium | 6-8 kits | Gentle | Compact, all-purpose |
-| **Satin** | 9-11 lbs | Fast | 8-10 kits | Calm | Beautiful fur, dual-purpose |
-| **Silver Fox** | 10-12 lbs | Medium | 6-8 kits | Docile | Rare, luxurious fur |
+- New Zealand White:
+  Mature Weight: 9-12 lbs
+  Growth Rate: Fast (8-10 weeks to 5 lbs)
+  Litter Size: 8-10 kits
+  Temperament: Calm
+  Notes: Industry standard, proven
+- Californian:
+  Mature Weight: 8-11 lbs
+  Growth Rate: Fast
+  Litter Size: 8-10 kits
+  Temperament: Docile
+  Notes: Good meat, nice pelt
+- Florida White:
+  Mature Weight: 4-6 lbs
+  Growth Rate: Medium
+  Litter Size: 6-8 kits
+  Temperament: Gentle
+  Notes: Compact, all-purpose
+- Satin:
+  Mature Weight: 9-11 lbs
+  Growth Rate: Fast
+  Litter Size: 8-10 kits
+  Temperament: Calm
+  Notes: Beautiful fur, dual-purpose
+- Silver Fox:
+  Mature Weight: 10-12 lbs
+  Growth Rate: Medium
+  Litter Size: 6-8 kits
+  Temperament: Docile
+  Notes: Rare, luxurious fur
 
 **Recommended Starter:** New Zealand White or Californian (proven, available, hardy)
 
 ### Dual-Purpose (Meat + Fur/Fiber)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Breed | Mature Weight | Specialty | Notes |
-|-------|--------------|-----------|-------|
-| **Rex** | 8-10 lbs | Velvet fur (pelts) | Plush coat, good meat |
-| **Angora** | 5-10 lbs | Fiber (wool) | Requires grooming, harvest wool |
-| **American Chinchilla** | 9-12 lbs | Beautiful pelt | Rare heritage breed |
+- Rex: 8-10 lbs / Velvet fur (pelts) / Plush coat, good meat
+- Angora:
+  Mature Weight: 5-10 lbs
+  Specialty: Fiber (wool)
+  Notes: Requires grooming, harvest wool
+- American Chinchilla:
+  Mature Weight: 9-12 lbs
+  Specialty: Beautiful pelt
+  Notes: Rare heritage breed
 
 **Choose Dual-Purpose If:** Want additional products beyond meat
 
@@ -135,14 +160,11 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 **Type:** Rabbit pellets (16-18% protein)
 
 **Amount:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Rabbit Type | Age/Stage | Feed/Day |
-|-------------|-----------|----------|
-| **Bucks** (maintenance) | Adult | 4-6 oz (1/2 cup) |
-| **Does** (maintenance) | Adult | 4-6 oz |
-| **Pregnant does** | Last 2 weeks | 6-8 oz |
-| **Lactating does** | With litter | Unlimited (8-12 oz) |
-| **Grow-outs (fryers)** | 4-12 weeks | Unlimited (4-6 oz) |
+- Bucks (maintenance): Adult / 4-6 oz (1/2 cup)
+- Does (maintenance): Adult / 4-6 oz
+- Pregnant does: Last 2 weeks / 6-8 oz
+- Lactating does: With litter / Unlimited (8-12 oz)
+- Grow-outs (fryers): 4-12 weeks / Unlimited (4-6 oz)
 
 **Cost:** $15-25 per 50 lb bag (feeds 1 breeding doe ~3 months)
 
@@ -312,15 +334,12 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 ### Timeline
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Age (Weeks) | Weight | Status | Action |
-|-------------|--------|--------|--------|
-| 0 | 2-3 oz | Newborn | In nest |
-| 3 | 1-1.5 lbs | Leaving nest | Still nursing |
-| 6-8 | 3-4 lbs | Weaned | Move to grow-out |
-| 10-12 | 5-6 lbs | **Fryer (butcher)** | Ideal harvest |
-| 16-20 | 7-9 lbs | Roaster | Large carcass, tougher |
-| 24+ | 9-12+ lbs | Breeder or cull | Meat quality declines |
+- 0: 2-3 oz / Newborn / In nest
+- 3: 1-1.5 lbs / Leaving nest / Still nursing
+- 6-8: 3-4 lbs / Weaned / Move to grow-out
+- 10-12: 5-6 lbs / Fryer (butcher) / Ideal harvest
+- 16-20: 7-9 lbs / Roaster / Large carcass, tougher
+- 24+: 9-12+ lbs / Breeder or cull / Meat quality declines
 
 **Optimal Harvest Age:** 10-12 weeks (5-6 lbs live weight)
 - **Why:** Best feed conversion, tender meat, before sexual maturity (fighting)
@@ -399,16 +418,34 @@ Rabbits are the hidden champion of homestead livestock. They produce more edible
 
 ### Common Problems
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Issue | Symptoms | Cause | Treatment |
-|-------|----------|-------|-----------|
-| **GI Stasis** | Not eating, no droppings | Low fiber, stress, dehydration | Hay, water, belly massage (vet if severe) |
-| **Snuffles** (Pasteurella) | Sneezing, discharge, matted paws | Bacteria (stress-triggered) | Antibiotics (vet), cull chronic cases |
-| **Sore Hocks** | Red, raw feet | Wire floor, heavy rabbit, dirty cage | Resting boards, treat with ointment |
-| **Heat Stress** | Panting, lethargy, drooling | >85°F temperature | Frozen bottles, fans, shade, cool water |
-| **Ear Mites** | Head shaking, crusty ears | Mites | Ivermectin or oil treatment |
-| **Malocclusion** | Overgrown teeth, not eating | Genetic (misaligned teeth) | Trim teeth (vet) or cull |
-| **Coccidiosis** | Diarrhea, weight loss (young rabbits) | Parasite (Eimeria) | Amprolium, cleanliness |
+- GI Stasis:
+  Symptoms: Not eating, no droppings
+  Cause: Low fiber, stress, dehydration
+  Treatment: Hay, water, belly massage (vet if severe)
+- Snuffles (Pasteurella):
+  Symptoms: Sneezing, discharge, matted paws
+  Cause: Bacteria (stress-triggered)
+  Treatment: Antibiotics (vet), cull chronic cases
+- Sore Hocks:
+  Symptoms: Red, raw feet
+  Cause: Wire floor, heavy rabbit, dirty cage
+  Treatment: Resting boards, treat with ointment
+- Heat Stress:
+  Symptoms: Panting, lethargy, drooling
+  Cause: >85°F temperature
+  Treatment: Frozen bottles, fans, shade, cool water
+- Ear Mites:
+  Symptoms: Head shaking, crusty ears
+  Cause: Mites
+  Treatment: Ivermectin or oil treatment
+- Malocclusion:
+  Symptoms: Overgrown teeth, not eating
+  Cause: Genetic (misaligned teeth)
+  Treatment: Trim teeth (vet) or cull
+- Coccidiosis:
+  Symptoms: Diarrhea, weight loss (young rabbits)
+  Cause: Parasite (Eimeria)
+  Treatment: Amprolium, cleanliness
 
 **When to Cull:**
 - Chronic health issues (snuffles, malocclusion)

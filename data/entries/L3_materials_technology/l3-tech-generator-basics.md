@@ -28,13 +28,10 @@ Generators convert mechanical energy into electrical power, providing backup ele
 - Air-cooled engines (3,000-3,600 RPM)
 
 **Specifications:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Rating | Engine | Fuel Tank | Runtime @ 50% | Weight | Price Range |
-|--------|---------|-----------|---------------|---------|-------------|
-| 2,000W | 100cc | 1.2 gal | 8-10 hrs | 50 lbs | $400-800 |
-| 3,500W | 200cc | 4 gal | 10-12 hrs | 100 lbs | $600-1,200 |
-| 7,500W | 420cc | 8 gal | 8-10 hrs | 200 lbs | $1,000-2,000 |
-| 10,000W | 500cc | 10 gal | 6-8 hrs | 250 lbs | $1,500-3,000 |
+- 2,000W: 100cc / 1.2 gal / 8-10 hrs / 50 lbs / $400-800
+- 3,500W: 200cc / 4 gal / 10-12 hrs / 100 lbs / $600-1,200
+- 7,500W: 420cc / 8 gal / 8-10 hrs / 200 lbs / $1,000-2,000
+- 10,000W: 500cc / 10 gal / 6-8 hrs / 250 lbs / $1,500-3,000
 
 **Advantages:**
 - Affordable
@@ -60,12 +57,9 @@ Generators convert mechanical energy into electrical power, providing backup ele
 - Variable RPM based on load (economy mode)
 
 **Key Specifications:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Rating | THD | Noise Level | Fuel Efficiency | Weight | Price Range |
-|--------|-----|-------------|-----------------|---------|-------------|
-| 2,000W | <3% | 48-57 dB | 10-12 hrs/gal | 45 lbs | $600-1,200 |
-| 3,000W | <3% | 52-60 dB | 8-10 hrs/gal | 75 lbs | $1,000-2,000 |
-| 7,000W | <5% | 60-67 dB | 6-8 hrs/gal | 180 lbs | $2,500-4,500 |
+- 2,000W: <3% / 48-57 dB / 10-12 hrs/gal / 45 lbs / $600-1,200
+- 3,000W: <3% / 52-60 dB / 8-10 hrs/gal / 75 lbs / $1,000-2,000
+- 7,000W: <5% / 60-67 dB / 6-8 hrs/gal / 180 lbs / $2,500-4,500
 
 **THD (Total Harmonic Distortion):** <3% required for sensitive electronics (computers, medical devices, variable-speed tools). Conventional generators: 6-12% THD.
 
@@ -94,22 +88,16 @@ Generators convert mechanical energy into electrical power, providing backup ele
 - Liquid-cooled engines (1,800 RPM for 60 Hz)
 
 **Sizing Chart:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Home Size | Generator Size | Fuel Type | Installation Cost |
-|-----------|----------------|-----------|-------------------|
-| 1,500 sq ft | 10-12 kW | NG or LP | $3,000-5,000 |
-| 2,500 sq ft | 14-18 kW | NG or LP | $4,000-6,500 |
-| 3,500+ sq ft | 20-26 kW | NG or LP | $6,000-10,000 |
-| Whole-home + | 30-50 kW | NG or LP | $10,000-20,000 |
+- 1,500 sq ft: 10-12 kW / NG or LP / $3,000-5,000
+- 2,500 sq ft: 14-18 kW / NG or LP / $4,000-6,500
+- 3,500+ sq ft: 20-26 kW / NG or LP / $6,000-10,000
+- Whole-home +: 30-50 kW / NG or LP / $10,000-20,000
 
 **Fuel Consumption (Natural Gas):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Load | 10 kW | 20 kW | 30 kW |
-|------|-------|-------|-------|
-| 25% | 150 cu ft/hr | 250 cu ft/hr | 350 cu ft/hr |
-| 50% | 220 cu ft/hr | 350 cu ft/hr | 500 cu ft/hr |
-| 75% | 280 cu ft/hr | 450 cu ft/hr | 650 cu ft/hr |
-| 100% | 340 cu ft/hr | 550 cu ft/hr | 800 cu ft/hr |
+- 25%: 150 cu ft/hr / 250 cu ft/hr / 350 cu ft/hr
+- 50%: 220 cu ft/hr / 350 cu ft/hr / 500 cu ft/hr
+- 75%: 280 cu ft/hr / 450 cu ft/hr / 650 cu ft/hr
+- 100%: 340 cu ft/hr / 550 cu ft/hr / 800 cu ft/hr
 
 **Advantages:**
 - Automatic operation (no action required during outage)
@@ -148,42 +136,39 @@ Generators convert mechanical energy into electrical power, providing backup ele
 
 ### Appliance Load Chart
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Appliance | Running Watts | Starting Watts | Surge Factor |
-|-----------|---------------|----------------|--------------|
-| **Kitchen** | | | |
-| Refrigerator | 600-800 | 1,800-2,400 | 3x |
-| Freezer | 500-700 | 1,500-2,100 | 3x |
-| Microwave (1000W) | 1,000 | 1,100 | 1.1x |
-| Coffee maker | 1,000 | 1,000 | 1x |
-| Electric range (per burner) | 2,400 | 2,400 | 1x |
-| Dishwasher | 1,200-1,500 | 1,500-1,800 | 1.2x |
-| **HVAC** | | | |
-| Central AC (2 ton) | 2,000 | 6,000 | 3x |
-| Central AC (3 ton) | 3,000 | 9,000 | 3x |
-| Window AC (10k BTU) | 1,200 | 3,600 | 3x |
-| Gas furnace blower | 700-1,000 | 2,100-3,000 | 3x |
-| Space heater | 1,500 | 1,500 | 1x |
-| **Water** | | | |
-| Sump pump (1/3 HP) | 800 | 2,400 | 3x |
-| Sump pump (1/2 HP) | 1,000 | 3,000 | 3x |
-| Well pump (1/2 HP) | 1,000 | 3,000 | 3x |
-| Well pump (1 HP) | 2,000 | 6,000 | 3x |
-| Water heater (electric) | 4,000 | 4,000 | 1x |
-| **Tools** | | | |
-| Circular saw (7-1/4") | 1,200 | 2,400 | 2x |
-| Air compressor (1 HP) | 1,200 | 3,600 | 3x |
-| Drill (1/2") | 600 | 900 | 1.5x |
-| Table saw (10") | 1,800 | 4,500 | 2.5x |
-| **Electronics** | | | |
-| TV (LED 50") | 100-150 | 150 | 1x |
-| Computer + monitor | 300-500 | 500 | 1x |
-| Wi-Fi router | 10-20 | 20 | 1x |
-| Phone charger | 5-10 | 10 | 1x |
-| **Lighting** | | | |
-| LED bulb (60W equiv) | 10 | 10 | 1x |
-| CFL bulb (60W equiv) | 15 | 15 | 1x |
-| Incandescent (60W) | 60 | 60 | 1x |
+- Kitchen
+- Refrigerator: 600-800 / 1,800-2,400 / 3x
+- Freezer: 500-700 / 1,500-2,100 / 3x
+- Microwave (1000W): 1,000 / 1,100 / 1.1x
+- Coffee maker: 1,000 / 1,000 / 1x
+- Electric range (per burner): 2,400 / 2,400 / 1x
+- Dishwasher: 1,200-1,500 / 1,500-1,800 / 1.2x
+- HVAC
+- Central AC (2 ton): 2,000 / 6,000 / 3x
+- Central AC (3 ton): 3,000 / 9,000 / 3x
+- Window AC (10k BTU): 1,200 / 3,600 / 3x
+- Gas furnace blower: 700-1,000 / 2,100-3,000 / 3x
+- Space heater: 1,500 / 1,500 / 1x
+- Water
+- Sump pump (1/3 HP): 800 / 2,400 / 3x
+- Sump pump (1/2 HP): 1,000 / 3,000 / 3x
+- Well pump (1/2 HP): 1,000 / 3,000 / 3x
+- Well pump (1 HP): 2,000 / 6,000 / 3x
+- Water heater (electric): 4,000 / 4,000 / 1x
+- Tools
+- Circular saw (7-1/4"): 1,200 / 2,400 / 2x
+- Air compressor (1 HP): 1,200 / 3,600 / 3x
+- Drill (1/2"): 600 / 900 / 1.5x
+- Table saw (10"): 1,800 / 4,500 / 2.5x
+- Electronics
+- TV (LED 50"): 100-150 / 150 / 1x
+- Computer + monitor: 300-500 / 500 / 1x
+- Wi-Fi router: 10-20 / 20 / 1x
+- Phone charger: 5-10 / 10 / 1x
+- Lighting
+- LED bulb (60W equiv): 10 / 10 / 1x
+- CFL bulb (60W equiv): 15 / 15 / 1x
+- Incandescent (60W): 60 / 60 / 1x
 
 ### Sizing Formula
 
@@ -231,14 +216,11 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Shelf life: 30 days untreated, 12-24 months with stabilizer
 
 **Fuel Consumption Rates:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Generator Size | 25% Load | 50% Load | 75% Load | 100% Load |
-|----------------|----------|----------|----------|-----------|
-| 2,000W | 0.15 gal/hr | 0.22 gal/hr | 0.28 gal/hr | 0.35 gal/hr |
-| 3,500W | 0.18 gal/hr | 0.28 gal/hr | 0.35 gal/hr | 0.45 gal/hr |
-| 5,000W | 0.22 gal/hr | 0.35 gal/hr | 0.45 gal/hr | 0.60 gal/hr |
-| 7,500W | 0.35 gal/hr | 0.55 gal/hr | 0.70 gal/hr | 0.90 gal/hr |
-| 10,000W | 0.50 gal/hr | 0.75 gal/hr | 0.95 gal/hr | 1.20 gal/hr |
+- 2,000W: 0.15 gal/hr / 0.22 gal/hr / 0.28 gal/hr / 0.35 gal/hr
+- 3,500W: 0.18 gal/hr / 0.28 gal/hr / 0.35 gal/hr / 0.45 gal/hr
+- 5,000W: 0.22 gal/hr / 0.35 gal/hr / 0.45 gal/hr / 0.60 gal/hr
+- 7,500W: 0.35 gal/hr / 0.55 gal/hr / 0.70 gal/hr / 0.90 gal/hr
+- 10,000W: 0.50 gal/hr / 0.75 gal/hr / 0.95 gal/hr / 1.20 gal/hr
 
 **Runtime Calculation:**
 - Runtime = (Fuel tank capacity) ÷ (Fuel consumption at load %)
@@ -275,15 +257,12 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Shelf life: Indefinite (does not degrade)
 
 **Tank Sizes & Capacities:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Tank Type | Capacity | Usable Fuel | Weight Full | Typical Use |
-|-----------|----------|-------------|-------------|-------------|
-| 20 lb cylinder | 4.7 gal | 4.0 gal | 37 lbs | Portable gen |
-| 30 lb cylinder | 7.0 gal | 6.0 gal | 55 lbs | Portable gen |
-| 100 lb cylinder | 23.6 gal | 20.0 gal | 170 lbs | Portable gen |
-| 250 gal tank | 250 gal | 200 gal | - | Standby gen |
-| 500 gal tank | 500 gal | 400 gal | - | Standby gen |
-| 1,000 gal tank | 1,000 gal | 800 gal | - | Standby gen |
+- 20 lb cylinder: 4.7 gal / 4.0 gal / 37 lbs / Portable gen
+- 30 lb cylinder: 7.0 gal / 6.0 gal / 55 lbs / Portable gen
+- 100 lb cylinder: 23.6 gal / 20.0 gal / 170 lbs / Portable gen
+- 250 gal tank: 250 gal / 200 gal / - / Standby gen
+- 500 gal tank: 500 gal / 400 gal / - / Standby gen
+- 1,000 gal tank: 1,000 gal / 800 gal / - / Standby gen
 
 **Note:** Propane tanks filled to 80% capacity (safety margin for expansion).
 
@@ -323,13 +302,10 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Shelf life: 6-12 months untreated, 2+ years with biocide/stabilizer
 
 **Consumption Rates (Diesel Generators):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Generator Size | 25% Load | 50% Load | 75% Load | 100% Load |
-|----------------|----------|----------|----------|-----------|
-| 10 kW | 0.4 gal/hr | 0.6 gal/hr | 0.8 gal/hr | 1.0 gal/hr |
-| 20 kW | 0.7 gal/hr | 1.0 gal/hr | 1.3 gal/hr | 1.6 gal/hr |
-| 30 kW | 1.0 gal/hr | 1.5 gal/hr | 2.0 gal/hr | 2.5 gal/hr |
-| 50 kW | 1.7 gal/hr | 2.5 gal/hr | 3.3 gal/hr | 4.0 gal/hr |
+- 10 kW: 0.4 gal/hr / 0.6 gal/hr / 0.8 gal/hr / 1.0 gal/hr
+- 20 kW: 0.7 gal/hr / 1.0 gal/hr / 1.3 gal/hr / 1.6 gal/hr
+- 30 kW: 1.0 gal/hr / 1.5 gal/hr / 2.0 gal/hr / 2.5 gal/hr
+- 50 kW: 1.7 gal/hr / 2.5 gal/hr / 3.3 gal/hr / 4.0 gal/hr
 
 **Advantages:**
 - Excellent fuel efficiency (30-50% better than gasoline)
@@ -356,13 +332,10 @@ Engines lose power at altitude due to thinner air (less oxygen):
 - Unlimited supply (as long as utility operates)
 
 **Consumption Rates:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Generator Size | 25% Load | 50% Load | 75% Load | 100% Load |
-|----------------|----------|----------|----------|-----------|
-| 7 kW | 120 cu ft/hr | 180 cu ft/hr | 230 cu ft/hr | 280 cu ft/hr |
-| 14 kW | 200 cu ft/hr | 280 cu ft/hr | 360 cu ft/hr | 440 cu ft/hr |
-| 20 kW | 250 cu ft/hr | 350 cu ft/hr | 450 cu ft/hr | 550 cu ft/hr |
-| 30 kW | 350 cu ft/hr | 500 cu ft/hr | 650 cu ft/hr | 800 cu ft/hr |
+- 7 kW: 120 cu ft/hr / 180 cu ft/hr / 230 cu ft/hr / 280 cu ft/hr
+- 14 kW: 200 cu ft/hr / 280 cu ft/hr / 360 cu ft/hr / 440 cu ft/hr
+- 20 kW: 250 cu ft/hr / 350 cu ft/hr / 450 cu ft/hr / 550 cu ft/hr
+- 30 kW: 350 cu ft/hr / 500 cu ft/hr / 650 cu ft/hr / 800 cu ft/hr
 
 **Cost Calculation:**
 - Utility natural gas: ~$0.80-1.50 per therm (100 cu ft)
@@ -444,11 +417,8 @@ Transfer switches safely connect generator power to home electrical system, prev
 9. Generator shuts down
 
 **Specifications:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Rating | Transfer Time | Circuits | Price Range |
-|--------|---------------|----------|-------------|
-| 100A | 10-15 sec | Whole panel | $600-1,000 |
-| 200A | 10-15 sec | Whole panel | $800-1,500 |
+- 100A: 10-15 sec / Whole panel / $600-1,000
+- 200A: 10-15 sec / Whole panel / $800-1,500
 
 **Installation:** $1,500-3,000 (requires standby generator, electrical permit)
 
@@ -509,14 +479,11 @@ Transfer switches safely connect generator power to home electrical system, prev
 - KILLS QUICKLY (minutes to hours depending on concentration)
 
 **Fatal CO Levels:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| CO Concentration | Exposure Time | Effect |
-|------------------|---------------|---------|
-| 400 PPM | 2-3 hours | Headache, nausea |
-| 800 PPM | 45 minutes | Dizziness, confusion |
-| 1,600 PPM | 20 minutes | Death |
-| 3,200 PPM | 5-10 minutes | Death |
-| 6,400+ PPM | 1-2 minutes | Death |
+- 400 PPM: 2-3 hours / Headache, nausea
+- 800 PPM: 45 minutes / Dizziness, confusion
+- 1,600 PPM: 20 minutes / Death
+- 3,200 PPM: 5-10 minutes / Death
+- 6,400+ PPM: 1-2 minutes / Death
 
 **Generator Output:** Portable generators produce 400-700 PPM CO at exhaust. Enclosed spaces reach fatal levels in minutes.
 
@@ -602,12 +569,9 @@ Transfer switches safely connect generator power to home electrical system, prev
 - Damage: Burned windings, voltage regulator failure
 
 **Extension Cords:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Generator-to-Home Distance | Wire Gauge | Max Load |
-|----------------------------|------------|----------|
-| 0-50 ft | 12 AWG | 20A (2,400W) |
-| 50-100 ft | 10 AWG | 25A (3,000W) |
-| 100-150 ft | 8 AWG | 30A (3,600W) |
+- 0-50 ft: 12 AWG / 20A (2,400W)
+- 50-100 ft: 10 AWG / 25A (3,000W)
+- 100-150 ft: 8 AWG / 30A (3,600W)
 
 **Cord Safety:**
 - Use outdoor-rated cords (SJTW, SJEOW)

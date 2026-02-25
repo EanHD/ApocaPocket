@@ -7,17 +7,54 @@
 
 ## Priority Hazard Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
-|--------|----------|-----------|--------|----------------------|-----------|
-| Altitude sickness (HAPE/HACE) | FATAL | Common >10,000 ft | Year-round | Moderate (acclimatization) | l2-altitude-sickness.md |
-| Avalanches | CATASTROPHIC | 100s/year | Oct-Jun | High (terrain knowledge) | l1-avalanche-safety.md |
-| Lightning | EXTREME | Daily (summer) | Jun-Aug | Moderate (timing/location) | l1-lightning-safety.md |
-| Hypothermia/cold | EXTREME | Year-round | All seasons | Moderate (clothing/shelter) | l1-cold-weather-survival.md |
-| Grizzly bears | HIGH | Northern Rockies | May-Oct | High (food storage, spray) | l2-grizzly-bear-safety.md |
-| Mountain lions | MODERATE | Rare attacks | Year-round | High (awareness) | l2-mountain-lion-safety.md |
-| Falls/rockfall | HIGH | Common | Year-round | Moderate (route selection) | l1-mountain-safety.md |
-| Dehydration | HIGH | Summer | Jun-Sep | Easy (carry water) | l1-hydration-altitude.md |
+- Altitude sickness (HAPE/HACE):
+  Severity: FATAL
+  Frequency: Common >10,000 ft
+  Season: Year-round
+  Moderate (acclimatization)
+  Cross-ref: l2-altitude-sickness.md
+- Avalanches:
+  Severity: CATASTROPHIC
+  Frequency: 100s/year
+  Season: Oct-Jun
+  High (terrain knowledge)
+  Cross-ref: l1-avalanche-safety.md
+- Lightning:
+  Severity: EXTREME
+  Frequency: Daily (summer)
+  Season: Jun-Aug
+  Moderate (timing/location)
+  Cross-ref: l1-lightning-safety.md
+- Hypothermia/cold:
+  Severity: EXTREME
+  Frequency: Year-round
+  Season: All seasons
+  Moderate (clothing/shelter)
+  Cross-ref: l1-cold-weather-survival.md
+- Grizzly bears:
+  Severity: HIGH
+  Frequency: Northern Rockies
+  Season: May-Oct
+  High (food storage, spray)
+  Cross-ref: l2-grizzly-bear-safety.md
+- Mountain lions:
+  Severity: MODERATE
+  Frequency: Rare attacks
+  Season: Year-round
+  High (awareness)
+  Cross-ref: l2-mountain-lion-safety.md
+- Falls/rockfall:
+  Severity: HIGH
+  Frequency: Common
+  Season: Year-round
+  Moderate (route selection)
+  Cross-ref: l1-mountain-safety.md
+- Dehydration:
+  Severity: HIGH
+  Frequency: Summer
+  Season: Jun-Sep
+  Easy (carry water)
+  Cross-ref: l1-hydration-altitude.md
 
 ---
 
@@ -26,15 +63,12 @@
 ### Why Altitude Kills
 
 **Atmospheric Pressure Decreases with Elevation:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Elevation | Oxygen Available (vs Sea Level) | Breathing Rate Increase |
-|-----------|----------------------------------|------------------------|
-| Sea level | 100% | Baseline |
-| 5,000 ft | 83% | +10-15% |
-| 8,000 ft | 75% | +20-30% |
-| 10,000 ft | 69% | +40-50% |
-| 12,000 ft | 63% | +60-80% |
-| 14,000 ft | 60% | +100%+ |
+- Sea level: 100% / Baseline
+- 5,000 ft: 83% / +10-15%
+- 8,000 ft: 75% / +20-30%
+- 10,000 ft: 69% / +40-50%
+- 12,000 ft: 63% / +60-80%
+- 14,000 ft: 60% / +100%+
 
 **At 14,000 ft:** You're breathing TWICE as fast to get same oxygen as sea level, but still only getting 60%.
 
@@ -433,16 +467,27 @@
 
 ### Grizzly vs Black Bear (Critical Distinction)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Grizzly Bear | Black Bear |
-|---------|--------------|------------|
-| Size | 300-600 lbs (males), 200-400 lbs (females) | 150-350 lbs |
-| Shoulder hump | YES (muscle mass, distinctive) | NO (straight back) |
-| Face profile | Dish-shaped (concave) | Straight nose to forehead |
-| Claws | 2-4 inches, light colored, visible | 1-2 inches, dark, curved |
-| Behavior | AGGRESSIVE (stand ground or charge) | SHY (flee usually) |
-| Climbing | Cubs can, adults don't (too heavy) | Excellent climbers (all ages) |
-| Color | Brown, blonde, black (color NOT indicator) | Black, brown, cinnamon (color NOT indicator) |
+- Size:
+  Grizzly Bear: 300-600 lbs (males), 200-400 lbs (females)
+  Black Bear: 150-350 lbs
+- Shoulder hump:
+  Grizzly Bear: YES (muscle mass, distinctive)
+  Black Bear: NO (straight back)
+- Face profile:
+  Grizzly Bear: Dish-shaped (concave)
+  Black Bear: Straight nose to forehead
+- Claws:
+  Grizzly Bear: 2-4 inches, light colored, visible
+  Black Bear: 1-2 inches, dark, curved
+- Behavior:
+  Grizzly Bear: AGGRESSIVE (stand ground or charge)
+  Black Bear: SHY (flee usually)
+- Climbing:
+  Grizzly Bear: Cubs can, adults don't (too heavy)
+  Black Bear: Excellent climbers (all ages)
+- Color:
+  Grizzly Bear: Brown, blonde, black (color NOT indicator)
+  Black Bear: Black, brown, cinnamon (color NOT indicator)
 
 **⚠️ CRITICAL:** Grizzlies in Rockies are AGGRESSIVE. Different response protocol than black bears.
 
@@ -596,32 +641,72 @@
 
 ### Altitude Hazard Zones
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Elevation | Primary Hazards | Activity Restrictions |
-|-----------|----------------|----------------------|
-| 6,000-8,000 ft | Lightning, bears, cold | Minimal altitude effects |
-| 8,000-10,000 ft | AMS common, lightning, avalanche, cold | Acclimatize 1-2 days |
-| 10,000-12,000 ft | AMS frequent, HAPE/HACE risk, lightning, cold | Acclimatize 2-3 days, climb high/sleep low |
-| 12,000-14,000 ft | HAPE/HACE significant risk, extreme cold, lightning | Short duration only, acclimatize at 10,000 ft first |
-| 14,000+ ft | HAPE/HACE high risk, death zone approaches | Summits only, no overnight |
+- 6,000-8,000 ft:
+  Primary Hazards: Lightning, bears, cold
+  Minimal altitude effects
+- 8,000-10,000 ft:
+  Primary Hazards: AMS common, lightning, avalanche, cold
+  Acclimatize 1-2 days
+- 10,000-12,000 ft:
+  Primary Hazards: AMS frequent, HAPE/HACE risk, lightning, cold
+  Acclimatize 2-3 days, climb high/sleep low
+- 12,000-14,000 ft:
+  Primary Hazards: HAPE/HACE significant risk, extreme cold, lightning
+  Short duration only, acclimatize at 10,000 ft first
+- 14,000+ ft:
+  Primary Hazards: HAPE/HACE high risk, death zone approaches
+  Summits only, no overnight
 
 ### Monthly Hazard Calendar
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Month | Primary Threats | Secondary Threats | Activity Guidance |
-|-------|----------------|-------------------|-------------------|
-| Jan | Extreme cold, avalanches | Hypothermia, isolation | Most dangerous winter month |
-| Feb | Avalanches, extreme cold | Hypothermia | Peak avalanche season |
-| Mar | Avalanches, blizzards | Cold, isolation | Spring storms (heavy, wet) |
-| Apr | Avalanches, blizzards | Flooding (snowmelt) | Avalanche danger continues |
-| May | Late avalanches, cold, wildlife (cubs) | Flooding | Transition, still dangerous |
-| Jun | Lightning begins, cold (high altitude) | Altitude sickness, snowmelt floods | Summer season starts |
-| Jul | Lightning (daily), altitude sickness | Dehydration, hail | Peak summer, afternoon storms |
-| Aug | Lightning (daily), altitude sickness | Dehydration, wildlife (fattening) | Peak summer, afternoon storms |
-| Sep | Early snow, cold, wildlife (rut) | Altitude sickness, lightning | Fall transition, first snow |
-| Oct | Early winter storms, cold | Avalanches begin, wildlife | Winter conditions return |
-| Nov | Avalanches, blizzards, extreme cold | Isolation | Full winter mode |
-| Dec | Avalanches, extreme cold, blizzards | Hypothermia, isolation | Darkest, coldest time |
+- Jan:
+  Primary Threats: Extreme cold, avalanches
+  Secondary Threats: Hypothermia, isolation
+  Activity Guidance: Most dangerous winter month
+- Feb:
+  Primary Threats: Avalanches, extreme cold
+  Secondary Threats: Hypothermia
+  Activity Guidance: Peak avalanche season
+- Mar:
+  Primary Threats: Avalanches, blizzards
+  Secondary Threats: Cold, isolation
+  Activity Guidance: Spring storms (heavy, wet)
+- Apr:
+  Primary Threats: Avalanches, blizzards
+  Secondary Threats: Flooding (snowmelt)
+  Activity Guidance: Avalanche danger continues
+- May:
+  Primary Threats: Late avalanches, cold, wildlife (cubs)
+  Secondary Threats: Flooding
+  Activity Guidance: Transition, still dangerous
+- Jun:
+  Primary Threats: Lightning begins, cold (high altitude)
+  Secondary Threats: Altitude sickness, snowmelt floods
+  Activity Guidance: Summer season starts
+- Jul:
+  Primary Threats: Lightning (daily), altitude sickness
+  Secondary Threats: Dehydration, hail
+  Activity Guidance: Peak summer, afternoon storms
+- Aug:
+  Primary Threats: Lightning (daily), altitude sickness
+  Secondary Threats: Dehydration, wildlife (fattening)
+  Activity Guidance: Peak summer, afternoon storms
+- Sep:
+  Primary Threats: Early snow, cold, wildlife (rut)
+  Secondary Threats: Altitude sickness, lightning
+  Activity Guidance: Fall transition, first snow
+- Oct:
+  Primary Threats: Early winter storms, cold
+  Secondary Threats: Avalanches begin, wildlife
+  Activity Guidance: Winter conditions return
+- Nov:
+  Primary Threats: Avalanches, blizzards, extreme cold
+  Secondary Threats: Isolation
+  Activity Guidance: Full winter mode
+- Dec:
+  Primary Threats: Avalanches, extreme cold, blizzards
+  Secondary Threats: Hypothermia, isolation
+  Activity Guidance: Darkest, coldest time
 
 ### Survival Priority by Threat
 

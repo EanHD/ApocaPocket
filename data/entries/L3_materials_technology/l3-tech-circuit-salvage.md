@@ -22,19 +22,36 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 
 ### High-Value E-Waste
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Source | Best Components | Notes |
-|--------|-----------------|-------|
-| **Computer power supplies** | High-wattage resistors, large capacitors (400V 220-470µF), bridge rectifiers, MOSFETs, transformers | **Discharge caps first!** (lethal voltage) |
-| **LCD monitors** | Small capacitors, SMD resistors, connectors, LEDs, power supply circuits | LED backlights useful |
-| **Motherboards** | Voltage regulators, MOSFETs, capacitors, ICs, connectors, heatsinks | Gold-plated connectors valuable |
-| **Hard drives** | Powerful magnets, precision motors, platters (make grinders), Torx screws | Magnets excellent for sensors/projects |
-| **Printers** | Stepper motors, optical sensors, precision rails, springs, small screws | Motors reusable in CNC/robotics |
-| **Old radios** | Variable capacitors, inductors, transformers, tubes (vintage), potentiometers | Older = larger, easier to desolder |
-| **CRT TVs/monitors** | High-voltage capacitors, flyback transformers, CRT neck boards | **EXTREME DANGER** - CRT holds 30kV, lethal |
-| **VCRs/DVD players** | Motors, gears, belts, laser diodes, power supplies | Good mechanical parts |
-| **Microwave ovens** | High-voltage capacitors (2,100V), transformers, magnetron (powerful magnet) | **Capacitor lethal** - discharge first |
-| **Audio equipment** | Op-amps, transistors, potentiometers, connectors, large capacitors | Often through-hole (easier to desolder) |
+- Computer power supplies:
+  Best Components: High-wattage resistors, large capacitors (400V 220-470µF), b
+  Notes: Discharge caps first! (lethal voltage)
+- LCD monitors:
+  Best Components: Small capacitors, SMD resistors, connectors, LEDs, power sup
+  Notes: LED backlights useful
+- Motherboards:
+  Best Components: Voltage regulators, MOSFETs, capacitors, ICs, connectors, he
+  Notes: Gold-plated connectors valuable
+- Hard drives:
+  Best Components: Powerful magnets, precision motors, platters (make grinders)
+  Notes: Magnets excellent for sensors/projects
+- Printers:
+  Best Components: Stepper motors, optical sensors, precision rails, springs, s
+  Notes: Motors reusable in CNC/robotics
+- Old radios:
+  Best Components: Variable capacitors, inductors, transformers, tubes (vintage
+  Notes: Older = larger, easier to desolder
+- CRT TVs/monitors:
+  Best Components: High-voltage capacitors, flyback transformers, CRT neck boar
+  Notes: EXTREME DANGER - CRT holds 30kV, lethal
+- VCRs/DVD players:
+  Best Components: Motors, gears, belts, laser diodes, power supplies
+  Notes: Good mechanical parts
+- Microwave ovens:
+  Best Components: High-voltage capacitors (2,100V), transformers, magnetron (p
+  Notes: Capacitor lethal - discharge first
+- Audio equipment:
+  Best Components: Op-amps, transistors, potentiometers, connectors, large capa
+  Notes: Often through-hole (easier to desolder)
 
 ### Component Density by Era
 
@@ -69,21 +86,18 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - Band 4: Tolerance (gold = ±5%, silver = ±10%, none = ±20%)
 
 **Color Code Chart:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Color | Digit | Multiplier | Tolerance |
-|-------|-------|------------|-----------|
-| Black | 0 | ×1 (×10⁰) | - |
-| Brown | 1 | ×10 (×10¹) | ±1% |
-| Red | 2 | ×100 (×10²) | ±2% |
-| Orange | 3 | ×1k (×10³) | - |
-| Yellow | 4 | ×10k (×10⁴) | - |
-| Green | 5 | ×100k (×10⁵) | ±0.5% |
-| Blue | 6 | ×1M (×10⁶) | ±0.25% |
-| Violet | 7 | ×10M (×10⁷) | ±0.1% |
-| Gray | 8 | ×100M (×10⁸) | ±0.05% |
-| White | 9 | ×1G (×10⁹) | - |
-| Gold | - | ×0.1 (÷10) | ±5% |
-| Silver | - | ×0.01 (÷100) | ±10% |
+- Black: 0 / ×1 (×10⁰) / -
+- Brown: 1 / ×10 (×10¹) / ±1%
+- Red: 2 / ×100 (×10²) / ±2%
+- Orange: 3 / ×1k (×10³) / -
+- Yellow: 4 / ×10k (×10⁴) / -
+- Green: 5 / ×100k (×10⁵) / ±0.5%
+- Blue: 6 / ×1M (×10⁶) / ±0.25%
+- Violet: 7 / ×10M (×10⁷) / ±0.1%
+- Gray: 8 / ×100M (×10⁸) / ±0.05%
+- White: 9 / ×1G (×10⁹) / -
+- Gold: - / ×0.1 (÷10) / ±5%
+- Silver: - / ×0.01 (÷100) / ±10%
 
 **Example:**
 - Brown-Black-Red-Gold = 1-0-×100-±5% = 1000Ω (1kΩ) ±5%
@@ -122,14 +136,11 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - **MUST observe polarity** (wrong polarity = explosion)
 
 **Useful Salvage Values:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Capacitance | Voltage | Common Use |
-|-------------|---------|------------|
-| 1-10µF | 16-50V | Decoupling, filtering |
-| 47-100µF | 16-35V | Power supply smoothing |
-| 220-1000µF | 16-35V | Power supply, motor starting |
-| 1000-4700µF | 10-25V | High-current filtering |
-| 10-100µF | 200-450V | AC line filtering, motor run |
+- 1-10µF: 16-50V / Decoupling, filtering
+- 47-100µF: 16-35V / Power supply smoothing
+- 220-1000µF: 16-35V / Power supply, motor starting
+- 1000-4700µF: 10-25V / High-current filtering
+- 10-100µF: 200-450V / AC line filtering, motor run
 
 **Ceramic Capacitors (Non-Polarized):**
 - Small disc or rectangle
@@ -175,13 +186,18 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - Cathode band indicates direction (current flows toward band is BLOCKED)
 
 **Common Diode Types:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Part Number | Type | Voltage | Current | Use |
-|-------------|------|---------|---------|-----|
-| 1N4001-1N4007 | Rectifier | 50-1000V | 1A | Power supply rectification |
-| 1N5817-1N5822 | Schottky | 20-40V | 1-3A | Low-voltage, low-drop |
-| 1N4148 | Signal | 100V | 200mA | High-speed switching, signal |
-| UF4001-UF4007 | Fast recovery | 50-1000V | 1A | Switching power supplies |
+- 1N4001-1N4007:
+  Type: Rectifier
+  Voltage: 50-1000V
+  Current: 1A
+  Use: Power supply rectification
+- 1N5817-1N5822: Schottky / 20-40V / 1-3A / Low-voltage, low-drop
+- 1N4148: Signal / 100V / 200mA / High-speed switching, signal
+- UF4001-UF4007:
+  Type: Fast recovery
+  Voltage: 50-1000V
+  Current: 1A
+  Use: Switching power supplies
 
 **Identification:**
 - Check marking with magnifier
@@ -218,21 +234,15 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 - **MOSFET:** N-channel or P-channel, 3 leads (gate, drain, source)
 
 **Common Part Numbers (TO-92):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Part Number | Type | Use |
-|-------------|------|-----|
-| 2N3904 | NPN BJT | General purpose amplifier/switch |
-| 2N3906 | PNP BJT | Complementary to 2N3904 |
-| 2N2222 | NPN BJT | Higher current than 2N3904 |
-| BC547/BC548/BC549 | NPN BJT | European equivalent to 2N3904 |
+- 2N3904: NPN BJT / General purpose amplifier/switch
+- 2N3906: PNP BJT / Complementary to 2N3904
+- 2N2222: NPN BJT / Higher current than 2N3904
+- BC547/BC548/BC549: NPN BJT / European equivalent to 2N3904
 
 **Power Transistors (TO-220):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Part Number | Type | Voltage | Current | Use |
-|-------------|------|---------|---------|-----|
-| TIP41/TIP42 | NPN/PNP BJT | 100V | 6A | Audio, motor driver |
-| IRF540 | N-MOSFET | 100V | 28A | Switching power supplies |
-| IRF9540 | P-MOSFET | 100V | 19A | High-side switching |
+- TIP41/TIP42: NPN/PNP BJT / 100V / 6A / Audio, motor driver
+- IRF540: N-MOSFET / 100V / 28A / Switching power supplies
+- IRF9540: P-MOSFET / 100V / 19A / High-side switching
 
 **Identification:**
 - Read part number with magnifier
@@ -260,29 +270,20 @@ Electronic waste contains valuable components: resistors, capacitors, transistor
 **Common Useful ICs:**
 
 **Voltage Regulators:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Part Number | Type | Output Voltage | Max Current | Package |
-|-------------|------|----------------|-------------|---------|
-| 7805 | Linear | +5V | 1A | TO-220 |
-| 7812 | Linear | +12V | 1A | TO-220 |
-| LM317 | Adjustable | 1.25-37V | 1.5A | TO-220 |
-| LM7805 | Linear | +5V | 1A | TO-220 |
+- 7805: Linear / +5V / 1A / TO-220
+- 7812: Linear / +12V / 1A / TO-220
+- LM317: Adjustable / 1.25-37V / 1.5A / TO-220
+- LM7805: Linear / +5V / 1A / TO-220
 
 **Op-Amps:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Part Number | Type | Channels | Use |
-|-------------|------|----------|-----|
-| LM358 | Dual | 2 | General purpose, low power |
-| LM324 | Quad | 4 | General purpose, low power |
-| TL071/TL072 | Single/Dual | 1/2 | Low-noise audio |
+- LM358: Dual / 2 / General purpose, low power
+- LM324: Quad / 4 / General purpose, low power
+- TL071/TL072: Single/Dual / 1/2 / Low-noise audio
 
 **Logic:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Part Number | Type | Gates | Use |
-|-------------|------|-------|-----|
-| 74HC00 | NAND gate | 4 | Logic circuits |
-| 74HC04 | Inverter | 6 | Logic circuits |
-| 555 | Timer | - | Timing, oscillators, PWM |
+- 74HC00: NAND gate / 4 / Logic circuits
+- 74HC04: Inverter / 6 / Logic circuits
+- 555: Timer / - / Timing, oscillators, PWM
 
 **Power Management:**
 - Buck converters (e.g., LM2596)

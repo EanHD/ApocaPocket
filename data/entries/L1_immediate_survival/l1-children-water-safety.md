@@ -241,14 +241,21 @@ sources:
 
 **Environmental hazards:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hazard | Recognition | Protocol |
-|--------|-------------|----------|
-| **Rip current** | Narrow strip of choppy, discolored water moving seaward | Swim parallel to shore until out of current, then swim to shore |
-| **Undertow** | Strong pull of water returning after wave breaks | Swim out of it (parallel to shore) or dive under and let it pass |
-| **Cold water** | <70°F (21°C) | Life jackets mandatory, limit time (hypothermia risk) |
-| **Fast-moving river** | Current faster than walking pace | No swimming - rescue risk too high |
-| **Murky water** | Cannot see bottom | Assume hidden hazards, life jackets, minimal swimming |
+- Rip current:
+  Recognition: Narrow strip of choppy, discolored water moving seaward
+  Protocol: Swim parallel to shore until out of current, then swim to sh
+- Undertow:
+  Recognition: Strong pull of water returning after wave breaks
+  Protocol: Swim out of it (parallel to shore) or dive under and let it 
+- Cold water:
+  Recognition: <70°F (21°C)
+  Protocol: Life jackets mandatory, limit time (hypothermia risk)
+- Fast-moving river:
+  Recognition: Current faster than walking pace
+  Protocol: No swimming - rescue risk too high
+- Murky water:
+  Recognition: Cannot see bottom
+  Protocol: Assume hidden hazards, life jackets, minimal swimming
 
 **Life jacket rule:** All children under 13 in life jackets in open water (non-negotiable).
 
@@ -280,14 +287,26 @@ sources:
 
 **U.S. Coast Guard Classification:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Name | Use | Child Appropriate? |
-|------|------|-----|-------------------|
-| **Type I** | Offshore life jacket | Open ocean, high waves, unconscious flotation | Yes (turns face-up) |
-| **Type II** | Near-shore vest | Calm waters, quick rescue available | Yes (infant/child versions) |
-| **Type III** | Flotation aid | Conscious wearer, calm water, active swimming | Yes (most common for kids) |
-| **Type IV** | Throwable device | Ring buoys, cushions (throw to victim) | No (not wearable) |
-| **Type V** | Special use | Kayaking, water skiing (specific activities) | Some models (check label) |
+- Type I:
+  Name: Offshore life jacket
+  Use: Open ocean, high waves, unconscious flotation
+  Child Appropriate?: Yes (turns face-up)
+- Type II:
+  Name: Near-shore vest
+  Use: Calm waters, quick rescue available
+  Child Appropriate?: Yes (infant/child versions)
+- Type III:
+  Name: Flotation aid
+  Use: Conscious wearer, calm water, active swimming
+  Child Appropriate?: Yes (most common for kids)
+- Type IV:
+  Name: Throwable device
+  Use: Ring buoys, cushions (throw to victim)
+  Child Appropriate?: No (not wearable)
+- Type V:
+  Name: Special use
+  Use: Kayaking, water skiing (specific activities)
+  Child Appropriate?: Some models (check label)
 
 **For children:** Type II or Type III most common. Type I if going offshore.
 
@@ -301,13 +320,16 @@ sources:
 
 **Sizing is by WEIGHT, not age** (manufacturers vary - always check label).
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Weight Range | Chest Size (approx) | Fit Test |
-|------|--------------|---------------------|----------|
-| **Infant** | 0-30 lbs (0-14 kg) | <20 inches (50 cm) | Head support collar, crotch strap mandatory |
-| **Child Small** | 30-50 lbs (14-23 kg) | 20-25 inches (50-64 cm) | Cannot slip over head when fastened |
-| **Child Medium** | 50-90 lbs (23-41 kg) | 25-29 inches (64-74 cm) | Snug around chest, secure when lifting child by shoulders |
-| **Youth** | 90+ lbs (41+ kg) | 29-35 inches (74-89 cm) | Transition to adult sizing if appropriate |
+- Infant: 0-30 lbs (0-14 kg) / <20 inches (50 cm)
+- Child Small:
+  Weight Range: 30-50 lbs (14-23 kg)
+  Chest Size (approx): 20-25 inches (50-64 cm)
+  Fit Test: Cannot slip over head when fastened
+- Child Medium:
+  Weight Range: 50-90 lbs (23-41 kg)
+  Chest Size (approx): 25-29 inches (64-74 cm)
+  Fit Test: Snug around chest, secure when lifting child by shoulders
+- Youth: 90+ lbs (41+ kg) / 29-35 inches (74-89 cm)
 
 **Fit test (critical):**
 1. Child puts on PFD, fasten all straps

@@ -67,15 +67,12 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ### How to Tell Them Apart
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Wild Carrot (SAFE) | Poison Hemlock (DEADLY) |
-|---------|-------------------|------------------------|
-| **Stem** | Green, hairy, solid | Purple blotches, smooth, hollow |
-| **Leaves** | Hairy | Hairless, shiny |
-| **Smell** | Carrot-like | Musty, mousy |
-| **Root smell** | Sweet, carrot | Unpleasant, musty |
-| **Height** | 1-3 feet | 4-10 feet |
-| **Central flower** | Tiny dark purple dot | No central dot |
+- Stem: Green, hairy, solid / Purple blotches, smooth, hollow
+- Leaves: Hairy / Hairless, shiny
+- Smell: Carrot-like / Musty, mousy
+- Root smell: Sweet, carrot / Unpleasant, musty
+- Height: 1-3 feet / 4-10 feet
+- Central flower: Tiny dark purple dot / No central dot
 
 **🔑 KEY IDENTIFIER**: Purple spots on stem = POISON. Never harvest white-rooted plants with purple-spotted stems.
 
@@ -114,13 +111,12 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ### How to Tell Them Apart
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Wild Onion (SAFE) | Death Camas (DEADLY) |
-|---------|------------------|---------------------|
-| **Smell (crushed)** | **STRONG ONION/GARLIC** | No onion smell |
-| **Leaves** | Hollow or solid | Solid, no hollow |
-| **Flowers** | Pink/purple/white, clustered ball | White/cream, linear along stem, greenish tint |
-| **Bulb coat** | Papery, light-colored | Dark, thick coat |
+- Smell (crushed): STRONG ONION/GARLIC / No onion smell
+- Leaves: Hollow or solid / Solid, no hollow
+- Flowers:
+  Wild Onion (SAFE): Pink/purple/white, clustered ball
+  White/cream, linear along stem, greenish tint
+- Bulb coat: Papery, light-colored / Dark, thick coat
 
 **🔑 KEY IDENTIFIER**: NO ONION SMELL = NOT ONION = DON'T EAT
 
@@ -161,14 +157,11 @@ related: [l2-plants-alaska-wild-potato, l2-plants-alaska-comprehensive, l1-forag
 
 ### How to Tell Them Apart
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Elderberry (SAFE) | Water Hemlock (DEADLY) |
-|---------|------------------|------------------------|
-| **Plant type** | Woody shrub | Herbaceous (non-woody) |
-| **Stem** | Woody, pithy | Hollow, chambered base |
-| **Root** | Fibrous | Tuberous, yellow liquid |
-| **Leaf arrangement** | Opposite pairs | Alternate |
-| **Berries** | Present (purple/black) | No berries |
+- Plant type: Woody shrub / Herbaceous (non-woody)
+- Stem: Woody, pithy / Hollow, chambered base
+- Root: Fibrous / Tuberous, yellow liquid
+- Leaf arrangement: Opposite pairs / Alternate
+- Berries: Present (purple/black) / No berries
 
 **🔑 KEY IDENTIFIER**: Woody shrub with pithy stem = elderberry. Hollow stem with chambered root crown = water hemlock.
 

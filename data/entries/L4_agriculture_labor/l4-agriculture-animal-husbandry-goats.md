@@ -34,35 +34,57 @@ Goats are the versatile homestead animal: milk, meat, fiber, leather, and brush 
 
 ### Dairy Breeds (Milk Production)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Breed | Milk/Day | Fat % | Size | Temperament | Notes |
-|-------|----------|-------|------|-------------|-------|
-| **Saanen** | 1-2 gal | 3-4% | Large (150 lbs) | Calm | Highest producer, white, heat-sensitive |
-| **Nubian** | 1-1.5 gal | 4-5% | Large (135 lbs) | Vocal | High butterfat, long ears, colorful |
-| **Alpine** | 1-1.5 gal | 3.5% | Medium (135 lbs) | Hardy | Adaptable, varied colors |
-| **LaMancha** | 1-1.5 gal | 4% | Medium (130 lbs) | Calm | Tiny ears, even tempered, hardy |
-| **Nigerian Dwarf** | 1-2 qts | 6-10% | Small (75 lbs) | Friendly | Mini, very rich milk, backyard-friendly |
+- Saanen:
+  Milk/Day: 1-2 gal
+  Fat %: 3-4%
+  Size: Large (150 lbs)
+  Temperament: Calm
+  Notes: Highest producer, white, heat-sensitive
+- Nubian:
+  Milk/Day: 1-1.5 gal
+  Fat %: 4-5%
+  Size: Large (135 lbs)
+  Temperament: Vocal
+  Notes: High butterfat, long ears, colorful
+- Alpine:
+  Milk/Day: 1-1.5 gal
+  Fat %: 3.5%
+  Size: Medium (135 lbs)
+  Temperament: Hardy
+  Notes: Adaptable, varied colors
+- LaMancha:
+  Milk/Day: 1-1.5 gal
+  Fat %: 4%
+  Size: Medium (130 lbs)
+  Temperament: Calm
+  Notes: Tiny ears, even tempered, hardy
+- Nigerian Dwarf:
+  Milk/Day: 1-2 qts
+  Fat %: 6-10%
+  Size: Small (75 lbs)
+  Temperament: Friendly
+  Notes: Mini, very rich milk, backyard-friendly
 
 **Choose Dairy If:** Primary goal is milk (fresh, cheese, soap)
 
 ### Meat Breeds
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Breed | Mature Weight | Growth Rate | Notes |
-|-------|--------------|-------------|-------|
-| **Boer** | 200-340 lbs | Fast | Purpose-bred for meat, muscular |
-| **Kiko** | 180-250 lbs | Fast | Hardy, parasite-resistant, minimal care |
-| **Spanish** | 150-250 lbs | Medium | Adaptable, brush clearing, hardy |
+- Boer: 200-340 lbs / Fast / Purpose-bred for meat, muscular
+- Kiko:
+  Mature Weight: 180-250 lbs
+  Growth Rate: Fast
+  Notes: Hardy, parasite-resistant, minimal care
+- Spanish:
+  Mature Weight: 150-250 lbs
+  Growth Rate: Medium
+  Notes: Adaptable, brush clearing, hardy
 
 **Choose Meat If:** Primary goal is meat production (less milking labor)
 
 ### Fiber Breeds
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Breed | Fiber Type | Yield/Year | Notes |
-|-------|-----------|------------|-------|
-| **Angora** | Mohair | 8-16 lbs | Requires shearing 2x/year |
-| **Cashmere** | Cashmere | 4-8 oz | Luxurious, cold climates |
+- Angora: Mohair / 8-16 lbs / Requires shearing 2x/year
+- Cashmere: Cashmere / 4-8 oz / Luxurious, cold climates
 
 **Choose Fiber If:** Textile production (niche market, value-added)
 
@@ -219,14 +241,11 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 
 ### Milk Production by Stage
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stage | Weeks After Kidding | Milk/Day (Average Doe) |
-|-------|---------------------|------------------------|
-| Early lactation | 0-2 | 1/2 - 1 quart |
-| Peak | 6-8 | 1-2 quarts |
-| Mid lactation | 3-6 months | 1-1.5 quarts |
-| Late lactation | 7-10 months | 1/2 - 1 quart |
-| Dry period | 2 months before kidding | 0 (not milking) |
+- Early lactation: 0-2 / 1/2 - 1 quart
+- Peak: 6-8 / 1-2 quarts
+- Mid lactation: 3-6 months / 1-1.5 quarts
+- Late lactation: 7-10 months / 1/2 - 1 quart
+- Dry period: 2 months before kidding / 0 (not milking)
 
 **Factors:**
 - Breed (dairy breeds produce more)
@@ -382,15 +401,30 @@ Goats are **browsers** (eat leaves, twigs, shrubs) not **grazers** (grass).
 
 ### Common Problems
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Issue | Symptoms | Cause | Treatment |
-|-------|----------|-------|-----------|
-| **Bloat** | Distended left side, discomfort | Overeating grain/lush forage (gas buildup) | Baking soda, walk goat, tube/trochar (vet) |
-| **Mastitis** | Hot, swollen udder, clots in milk | Bacterial infection | Antibiotics (vet), frequent milking |
-| **Urinary stones** (bucks) | Straining, dribbling urine | High grain, mineral imbalance | Vet (surgery), prevention (hay-based diet) |
-| **Foot rot** | Limping, foul smell | Bacteria (wet conditions) | Trim hooves, antibiotic spray, zinc sulfate footbath |
-| **Pneumonia** | Coughing, nasal discharge, fever | Stress, poor ventilation | Antibiotics (vet), good ventilation |
-| **Pregnancy toxemia** | Lethargy, grinding teeth (late pregnancy) | Energy deficit (twins/triplets) | Propylene glycol, vet care (emergency) |
+- Bloat:
+  Symptoms: Distended left side, discomfort
+  Cause: Overeating grain/lush forage (gas buildup)
+  Treatment: Baking soda, walk goat, tube/trochar (vet)
+- Mastitis:
+  Symptoms: Hot, swollen udder, clots in milk
+  Cause: Bacterial infection
+  Treatment: Antibiotics (vet), frequent milking
+- Urinary stones (bucks):
+  Symptoms: Straining, dribbling urine
+  Cause: High grain, mineral imbalance
+  Treatment: Vet (surgery), prevention (hay-based diet)
+- Foot rot:
+  Symptoms: Limping, foul smell
+  Cause: Bacteria (wet conditions)
+  Treatment: Trim hooves, antibiotic spray, zinc sulfate footbath
+- Pneumonia:
+  Symptoms: Coughing, nasal discharge, fever
+  Cause: Stress, poor ventilation
+  Treatment: Antibiotics (vet), good ventilation
+- Pregnancy toxemia:
+  Symptoms: Lethargy, grinding teeth (late pregnancy)
+  Cause: Energy deficit (twins/triplets)
+  Treatment: Propylene glycol, vet care (emergency)
 
 ### When to Cull
 

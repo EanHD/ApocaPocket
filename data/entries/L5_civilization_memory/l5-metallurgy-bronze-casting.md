@@ -30,14 +30,31 @@ Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 
 
 ### Variations (By Application)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Copper % | Tin % | Other | Properties | Uses |
-|------|----------|-------|-------|------------|------|
-| **Standard bronze** | 90 | 10 | — | Hard, durable, castable | General tools, weapons, art |
-| **Gun metal** | 88-90 | 10-12 | — | Harder, stronger | Cannons, heavy tools |
-| **Bell bronze** | 78 | 22 | — | Resonant, brittle | Bells, cymbals |
-| **Bearing bronze** | 85 | 5 | 5% lead, 5% zinc | Low friction | Bearings, bushings |
-| **Aluminum bronze** | 90 | — | 10% aluminum | Corrosion-resistant, strong | Marine, propellers |
+- Standard bronze:
+  Copper %: 90
+  Tin %: 10
+  Other: —
+  Properties: Hard, durable, castable
+  Uses: General tools, weapons, art
+- Gun metal:
+  Copper %: 88-90
+  Tin %: 10-12
+  Other: —
+  Properties: Harder, stronger
+  Uses: Cannons, heavy tools
+- Bell bronze: 78 / 22 / — / Resonant, brittle / Bells, cymbals
+- Bearing bronze:
+  Copper %: 85
+  Tin %: 5
+  Other: 5% lead, 5% zinc
+  Properties: Low friction
+  Uses: Bearings, bushings
+- Aluminum bronze:
+  Copper %: 90
+  Tin %: —
+  Other: 10% aluminum
+  Properties: Corrosion-resistant, strong
+  Uses: Marine, propellers
 
 **Scrap metal note**: Modern bronze often contains zinc, lead, aluminum (check with magnet, density test)
 
@@ -344,15 +361,24 @@ STEP 5: BREAK MOLD, REVEAL CASTING
 
 ## Common Cast Defects
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| **Incomplete casting** (voids) | Bronze cooled too fast, mold too cold | Preheat mold higher, pour hotter, faster pour |
-| **Porosity** (air bubbles) | Trapped air, turbulence | Add risers (vent holes), pour smoother, degas metal |
-| **Cracks** | Rapid cooling, thermal shock | Slow cooling, preheat mold, anneal casting |
-| **Cold shuts** (lines) | Stopped pouring, metal cooled | Don't interrupt pour, maintain temperature |
-| **Rough surface** | Mold too coarse | Finer sand/clay in mold, coat with graphite |
-| **Mold explosion** | Moisture in mold | Dry mold completely, preheat thoroughly |
+- Incomplete casting (voids):
+  Cause: Bronze cooled too fast, mold too cold
+  Solution: Preheat mold higher, pour hotter, faster pour
+- Porosity (air bubbles):
+  Cause: Trapped air, turbulence
+  Solution: Add risers (vent holes), pour smoother, degas metal
+- Cracks:
+  Cause: Rapid cooling, thermal shock
+  Solution: Slow cooling, preheat mold, anneal casting
+- Cold shuts (lines):
+  Cause: Stopped pouring, metal cooled
+  Solution: Don't interrupt pour, maintain temperature
+- Rough surface:
+  Cause: Mold too coarse
+  Solution: Finer sand/clay in mold, coat with graphite
+- Mold explosion:
+  Cause: Moisture in mold
+  Solution: Dry mold completely, preheat thoroughly
 
 ---
 

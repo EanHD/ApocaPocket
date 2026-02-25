@@ -167,14 +167,15 @@ related:
 
 ### Types of Miscarriage
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Definition | Bleeding | Cervix | Management |
-|------|------------|----------|--------|------------|
-| **Threatened** | Bleeding, pregnancy may continue | Light | Closed | Bed rest, monitor |
-| **Inevitable** | Bleeding, pregnancy will not continue | Moderate-heavy | Open | Evacuate, may need D&C |
-| **Incomplete** | Some tissue passed, some remains | Heavy | Open | D&C or misoprostol |
-| **Complete** | All tissue passed | Decreasing | Closing | Monitor for infection |
-| **Missed** | Fetus died, no symptoms | None or light | Closed | D&C or misoprostol |
+- Threatened: Bleeding, pregnancy may continue / Light
+- Inevitable:
+  Definition: Bleeding, pregnancy will not continue
+  Bleeding: Moderate-heavy
+  Cervix: Open
+  Management: Evacuate, may need D&C
+- Incomplete: Some tissue passed, some remains / Heavy
+- Complete: All tissue passed / Decreasing
+- Missed: Fetus died, no symptoms / None or light
 
 ### Management
 

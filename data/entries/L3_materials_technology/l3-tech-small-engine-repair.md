@@ -287,11 +287,9 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - Plastic floats: Inspect for cracks
 - Hinge: Should pivot freely, not binding
 - Height specification (measure with ruler):
-  | Engine Brand | Float Height | Measurement Point |
-  |--------------|--------------|-------------------|
-  | Honda GX | 16mm (0.63") | Bowl surface to top of float |
-  | Briggs & Stratton | 3/16" | Carburetor body to float |
-  | Kohler | 11/64" | Varies by model |
+- Honda GX: 16mm (0.63") / Bowl surface to top of float
+- Briggs & Stratton: 3/16" / Carburetor body to float
+- Kohler: 11/64" / Varies by model
 - Adjust by bending tab that contacts needle valve
 
 **Needle Valve:**
@@ -390,13 +388,14 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - Many modern carbs have fixed high-speed jet (not adjustable)
 
 **Signs of Mixture Problems:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Symptom | Mixture | Adjustment |
-|---------|---------|------------|
-| Black smoke, sooty plug | Too rich | Turn screw clockwise (lean out) |
-| Backfiring, overheating | Too lean | Turn screw counterclockwise (richen) |
-| Surging at idle | Too lean | Turn screw counterclockwise |
-| Bogs on acceleration | Too rich | Turn screw clockwise |
+- Black smoke, sooty plug:
+  Mixture: Too rich
+  Adjustment: Turn screw clockwise (lean out)
+- Backfiring, overheating:
+  Mixture: Too lean
+  Adjustment: Turn screw counterclockwise (richen)
+- Surging at idle: Too lean / Turn screw counterclockwise
+- Bogs on acceleration: Too rich / Turn screw clockwise
 
 ### Governor Adjustment
 
@@ -567,12 +566,9 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 9. **Record reading**
 
 **Healthy Compression Values:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Engine Type | Good Compression | Minimum Acceptable |
-|-------------|------------------|--------------------|
-| 4-stroke OHV | 90-150 PSI | 75+ PSI |
-| 4-stroke flathead | 60-90 PSI | 50+ PSI |
-| 2-stroke | 100-150 PSI | 90+ PSI |
+- 4-stroke OHV: 90-150 PSI / 75+ PSI
+- 4-stroke flathead: 60-90 PSI / 50+ PSI
+- 2-stroke: 100-150 PSI / 90+ PSI
 
 **Low Compression Diagnosis:**
 
@@ -605,13 +601,13 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 - **Too loose (excess clearance):** Noisy ticking, poor power
 
 **Clearance Specifications:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Engine Brand/Model | Intake Valve | Exhaust Valve | Check Method |
-|--------------------|--------------|---------------|--------------|
-| Honda GX series | 0.004-0.006" | 0.006-0.008" | Cold engine |
-| Briggs & Stratton OHV | 0.004-0.006" | 0.006-0.008" | Cold engine |
-| Kohler Command | 0.003-0.005" | 0.007-0.009" | Cold engine |
-| Kawasaki | 0.004-0.006" | 0.006-0.008" | Cold engine |
+- Honda GX series: 0.004-0.006" / 0.006-0.008" / Cold engine
+- Briggs & Stratton OHV:
+  Intake Valve: 0.004-0.006"
+  Exhaust Valve: 0.006-0.008"
+  Check Method: Cold engine
+- Kohler Command: 0.003-0.005" / 0.007-0.009" / Cold engine
+- Kawasaki: 0.004-0.006" / 0.006-0.008" / Cold engine
 
 **Adjustment Procedure:**
 
@@ -649,24 +645,66 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 
 ### Symptom-Based Diagnosis
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Symptom | Most Likely Cause | Second Likely Cause | Test/Check |
-|---------|-------------------|---------------------|------------|
-| Won't start, no spark | Ignition coil | Kill switch grounded | Spark test, disconnect kill switch |
-| Won't start, has spark | Clogged carburetor | Old fuel | Spray starting fluid in carb |
-| Starts, dies after 10 sec | Carburetor jets clogged | Fuel flow issue | Rebuild carb, check fuel line |
-| Hard starting when cold | Choke not closing | Low compression | Check choke operation, compression test |
-| Hard starting when hot | Vapor lock | Flooding | Let cool, check fuel bowl level |
-| Black smoke | Dirty air filter | Choke stuck closed | Check filter, choke operation |
-| Blue/white smoke | Worn rings/valve seals | Overfilled oil | Compression test, check oil level |
-| Surging | Governor malfunction | Carburetor partially clogged | Inspect governor linkage, clean carb |
-| Backfiring (intake) | Valve timing off | Lean mixture | Check flywheel key, adjust carb |
-| Backfiring (exhaust) | Lean mixture | Exhaust restriction | Adjust carb, check muffler |
-| No power | Low compression | Dirty air filter | Compression test, check filter |
-| Oil in air filter | Overfilled oil | Worn rings (blowby) | Check level, compression test |
-| Knocking sound | Low oil level | Connecting rod bearing | Check oil IMMEDIATELY, shut down |
-| Fuel leaking | Float stuck/needle worn | Bowl gasket | Rebuild carburetor |
-| Won't shut off | Kill switch disconnected | Idle speed too high | Reconnect switch, adjust idle |
+- Won't start, no spark:
+  Most Likely Cause: Ignition coil
+  Second Likely Cause: Kill switch grounded
+  Test/Check: Spark test, disconnect kill switch
+- Won't start, has spark:
+  Most Likely Cause: Clogged carburetor
+  Second Likely Cause: Old fuel
+  Test/Check: Spray starting fluid in carb
+- Starts, dies after 10 sec:
+  Most Likely Cause: Carburetor jets clogged
+  Second Likely Cause: Fuel flow issue
+  Test/Check: Rebuild carb, check fuel line
+- Hard starting when cold:
+  Most Likely Cause: Choke not closing
+  Second Likely Cause: Low compression
+  Test/Check: Check choke operation, compression test
+- Hard starting when hot:
+  Most Likely Cause: Vapor lock
+  Second Likely Cause: Flooding
+  Test/Check: Let cool, check fuel bowl level
+- Black smoke:
+  Most Likely Cause: Dirty air filter
+  Second Likely Cause: Choke stuck closed
+  Test/Check: Check filter, choke operation
+- Blue/white smoke:
+  Most Likely Cause: Worn rings/valve seals
+  Second Likely Cause: Overfilled oil
+  Test/Check: Compression test, check oil level
+- Surging:
+  Most Likely Cause: Governor malfunction
+  Second Likely Cause: Carburetor partially clogged
+  Test/Check: Inspect governor linkage, clean carb
+- Backfiring (intake):
+  Most Likely Cause: Valve timing off
+  Second Likely Cause: Lean mixture
+  Test/Check: Check flywheel key, adjust carb
+- Backfiring (exhaust):
+  Most Likely Cause: Lean mixture
+  Second Likely Cause: Exhaust restriction
+  Test/Check: Adjust carb, check muffler
+- No power:
+  Most Likely Cause: Low compression
+  Second Likely Cause: Dirty air filter
+  Test/Check: Compression test, check filter
+- Oil in air filter:
+  Most Likely Cause: Overfilled oil
+  Second Likely Cause: Worn rings (blowby)
+  Test/Check: Check level, compression test
+- Knocking sound:
+  Most Likely Cause: Low oil level
+  Second Likely Cause: Connecting rod bearing
+  Test/Check: Check oil IMMEDIATELY, shut down
+- Fuel leaking:
+  Most Likely Cause: Float stuck/needle worn
+  Second Likely Cause: Bowl gasket
+  Test/Check: Rebuild carburetor
+- Won't shut off:
+  Most Likely Cause: Kill switch disconnected
+  Second Likely Cause: Idle speed too high
+  Test/Check: Reconnect switch, adjust idle
 
 ### Emergency Field Repairs
 
@@ -760,27 +798,27 @@ This guide focuses on **float carburetors** (most common in generators/stationar
 ## QR-Specs
 
 **Typical Small Engine Specs:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Specification | Value | Notes |
-|---------------|-------|-------|
-| Compression (4-stroke OHV) | 90-150 PSI | Minimum 75 PSI |
-| Spark plug gap | 0.028-0.030" | Check manual |
-| Ignition coil air gap | 0.010" (0.25mm) | Business card thickness |
-| Valve clearance (intake) | 0.004-0.006" | Cold engine |
-| Valve clearance (exhaust) | 0.006-0.008" | Cold engine |
-| Idle speed | 1,200-1,500 RPM | Varies by application |
-| Governed speed (60 Hz) | 3,600 RPM | Generators |
-| Carburetor mixture screw | 1.5-2.0 turns out | Starting point |
+- Compression (4-stroke OHV): 90-150 PSI / Minimum 75 PSI
+- Spark plug gap: 0.028-0.030" / Check manual
+- Ignition coil air gap:
+  Value: 0.010" (0.25mm)
+  Notes: Business card thickness
+- Valve clearance (intake): 0.004-0.006" / Cold engine
+- Valve clearance (exhaust): 0.006-0.008" / Cold engine
+- Idle speed: 1,200-1,500 RPM / Varies by application
+- Governed speed (60 Hz): 3,600 RPM / Generators
+- Carburetor mixture screw:
+  Value: 1.5-2.0 turns out
+  Notes: Starting point
 
 **Torque Specifications:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Fastener | Torque | Notes |
-|----------|--------|-------|
-| Spark plug | 18-22 ft-lbs (14mm) | Aluminum heads: 15-18 ft-lbs |
-| Flywheel nut | 40-80 ft-lbs | Varies widely by engine |
-| Carburetor mounting | 60-100 in-lbs | Don't overtighten |
-| Rocker cover | 50-80 in-lbs | Plastic covers: 30-50 in-lbs |
-| Oil drain plug | 15-20 ft-lbs | Aluminum cases: 12-15 ft-lbs |
+- Spark plug:
+  Torque: 18-22 ft-lbs (14mm)
+  Notes: Aluminum heads: 15-18 ft-lbs
+- Flywheel nut: 40-80 ft-lbs / Varies widely by engine
+- Carburetor mounting: 60-100 in-lbs / Don't overtighten
+- Rocker cover: 50-80 in-lbs / Plastic covers: 30-50 in-lbs
+- Oil drain plug: 15-20 ft-lbs / Aluminum cases: 12-15 ft-lbs
 
 ---
 

@@ -73,13 +73,10 @@ Boiling is the most reliable and universally effective method for killing all wa
 - Boiling: 212°F (100°C) at sea level (overkill = safety margin)
 
 **Altitude Effects:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Elevation | Boiling Point | Time |
-|-----------|---------------|------|
-| Sea level | 212°F (100°C) | 1 min |
-| 5,000 ft | 203°F (95°C) | 1 min |
-| 10,000 ft | 194°F (90°C) | 3 min |
-| 14,000 ft | 187°F (86°C) | 5 min |
+- Sea level: 212°F (100°C) / 1 min
+- 5,000 ft: 203°F (95°C) / 1 min
+- 10,000 ft: 194°F (90°C) / 3 min
+- 14,000 ft: 187°F (86°C) / 5 min
 
 ## Fuel Requirements
 

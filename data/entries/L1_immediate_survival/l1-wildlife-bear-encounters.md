@@ -27,17 +27,20 @@ Species-specific responses are CRITICAL - wrong response can be fatal.
 
 ## Bear ID
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Black Bear | Grizzly Bear | Polar Bear |
-|---------|------------|--------------|------------|
-| **Size** | 200-600 lbs | 400-800 lbs | 900-1,600 lbs |
-| **Color** | Black, brown, cinnamon | Brown, blond, silver-tipped | White, cream |
-| **Shoulder hump** | NO | YES (muscle hump) | NO |
-| **Face profile** | Straight, dog-like | Dish-shaped, concave | Straight, elongated |
-| **Claws** | Short (1.5\"), curved | Long (3-4\"), visible | Long (3\"), white |
-| **Range** | Lower 48, Canada | Western US/Canada, Alaska | Arctic Circle only |
-| **Behavior** | Shy, climbs trees | Aggressive if surprised | EXTREME PREDATOR |
-| **Response if attacked** | **FIGHT BACK** | **PLAY DEAD** | **FIGHT FOR LIFE** |
+- Size: 200-600 lbs / 400-800 lbs
+- Color:
+  Black Bear: Black, brown, cinnamon
+  Grizzly Bear: Brown, blond, silver-tipped
+  Polar Bear: White, cream
+- Shoulder hump: NO / YES (muscle hump)
+- Face profile:
+  Black Bear: Straight, dog-like
+  Grizzly Bear: Dish-shaped, concave
+  Polar Bear: Straight, elongated
+- Claws: Short (1.5\"), curved / Long (3-4\"), visible
+- Range: Lower 48, Canada / Western US/Canada, Alaska
+- Behavior: Shy, climbs trees / Aggressive if surprised
+- Response if attacked: FIGHT BACK / PLAY DEAD
 
 ⚠️ **CRITICAL:** Species misidentification can be fatal. Grizzlies have shoulder hump, dish face, long claws.
 

@@ -147,15 +147,24 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ### NPA vs. OPA: When to Use Which
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | NPA | OPA |
-|---------|-----|-----|
-| **Consciousness level** | Semi-conscious (GCS 9-13) | Deeply unconscious (GCS ≤8) |
-| **Gag reflex** | Intact or hyperactive | Absent (no gag reflex) |
-| **Jaw** | Can use with clenched jaw | Requires ability to open mouth |
-| **Contraindications** | Skull fracture, severe facial trauma, coagulopathy | Conscious patient, intact gag reflex, oral trauma |
-| **Tolerance** | Well-tolerated | Poorly tolerated if gag present |
-| **Effectiveness** | Less effective if deeply unconscious | More effective for deeply unconscious |
+- Consciousness level:
+  NPA: Semi-conscious (GCS 9-13)
+  OPA: Deeply unconscious (GCS ≤8)
+- Gag reflex:
+  NPA: Intact or hyperactive
+  OPA: Absent (no gag reflex)
+- Jaw:
+  NPA: Can use with clenched jaw
+  OPA: Requires ability to open mouth
+- Contraindications:
+  NPA: Skull fracture, severe facial trauma, coagulopathy
+  OPA: Conscious patient, intact gag reflex, oral trauma
+- Tolerance:
+  NPA: Well-tolerated
+  OPA: Poorly tolerated if gag present
+- Effectiveness:
+  NPA: Less effective if deeply unconscious
+  OPA: More effective for deeply unconscious
 
 ---
 
@@ -578,15 +587,24 @@ A **nasopharyngeal airway (NPA)**, also called nasal trumpet, is a soft rubber o
 
 ## NPA vs Others
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Method | Consciousness Level | Equipment | Skill | Effectiveness |
-|--------|---------------------|-----------|-------|---------------|
-| **Jaw-thrust/Head-tilt** | Any | None | Basic | Moderate (temporary) |
-| **NPA** | Semi-conscious (GCS 9-13) | NPA, lube | Basic-Intermediate | Good (temporizing) |
-| **OPA** | Deeply unconscious (GCS ≤8) | OPA | Basic | Good (temporizing) |
-| **Supraglottic airway (LMA, King)** | Deeply unconscious | Device | Intermediate | Very good |
-| **Endotracheal intubation** | Deeply unconscious | Laryngoscope, tube, meds | Advanced | Excellent (definitive) |
-| **Surgical airway** | Any (if cannot intubate) | Scalpel, tube | Advanced | Excellent (definitive, last resort) |
+- Jaw-thrust/Head-tilt: Any / None
+- NPA: Semi-conscious (GCS 9-13) / NPA, lube
+- OPA: Deeply unconscious (GCS ≤8) / OPA
+- Supraglottic airway (LMA, King):
+  Consciousness Level: Deeply unconscious
+  Equipment: Device
+  Skill: Intermediate
+  Effectiveness: Very good
+- Endotracheal intubation:
+  Consciousness Level: Deeply unconscious
+  Equipment: Laryngoscope, tube, meds
+  Skill: Advanced
+  Effectiveness: Excellent (definitive)
+- Surgical airway:
+  Consciousness Level: Any (if cannot intubate)
+  Equipment: Scalpel, tube
+  Skill: Advanced
+  Effectiveness: Excellent (definitive, last resort)
 
 ---
 

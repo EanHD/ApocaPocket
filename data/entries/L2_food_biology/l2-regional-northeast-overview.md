@@ -8,13 +8,10 @@
 ## Climate Profile
 
 ### Temperature Ranges (Humid Continental)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Avg High | Avg Low | Extreme High | Extreme Low |
-|--------|----------|---------|--------------|-------------|
-| Summer (Jun-Aug) | 70-85°F | 55-65°F | 100°F+ | 45°F |
-| Fall (Sep-Nov) | 50-70°F | 35-50°F | 85°F | 0°F |
-| Winter (Dec-Feb) | 20-40°F | 0-25°F | 60°F | -40°F |
-| Spring (Mar-May) | 45-65°F | 30-45°F | 85°F | -5°F |
+- Summer (Jun-Aug): 70-85°F / 55-65°F / 100°F+ / 45°F
+- Fall (Sep-Nov): 50-70°F / 35-50°F / 85°F / 0°F
+- Winter (Dec-Feb): 20-40°F / 0-25°F / 60°F / -40°F
+- Spring (Mar-May): 45-65°F / 30-45°F / 85°F / -5°F
 
 **Regional Variation:**
 - **Coastal (MA, RI, CT, NJ):** Moderated by ocean, milder winters, cooler summers
@@ -95,19 +92,66 @@
 
 ### Edible Plants (by season)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
-|-------|--------|------------|-------------|-------------|-----------|
-| Maple (sugar, red) | Feb-Mar | Sap | 40-80 (sap), 1200+ (syrup) | Boil down 40:1, syrup or sugar | l2-maple-sugaring.md |
-| Cattail | Year-round | Roots, shoots, pollen | 800-1200 | Raw/cooked roots, pollen flour | l1-cattail-guide.md |
-| Oak acorns | Sep-Nov | Nuts | 2000+ | MUST leach tannins, grind | l1-oak-acorn-processing.md |
-| Fiddleheads (fern) | Apr-May | Shoots | 200-300 | MUST COOK (some species toxic raw) | l2-spring-greens.md |
-| Wild blueberry | Jul-Aug | Berries | 250-300 | Raw, dry, jam | l1-wild-berries.md |
-| Cranberry (bog) | Sep-Oct | Berries | 200-250 | Raw (tart), cook, dry | l1-wild-berries.md |
-| Hickory | Sep-Oct | Nuts | 2700+ | Crack shells, high fat | l1-tree-nuts.md |
-| Beechnuts | Sep-Oct | Nuts | 2400+ | Small but abundant, high fat | l1-tree-nuts.md |
-| Wild onion | Year-round | Bulb | 150-200 | Raw/cooked, flavor/nutrition | l1-common-weeds.md |
-| Dandelion | Apr-Oct | Leaves, roots | 200-300 | Leaves raw/cooked, roots roasted | l1-common-weeds.md |
+- Maple (sugar, red):
+  Season: Feb-Mar
+  Parts Used: Sap
+  Calories/lb: 40-80 (sap), 1200+ (syrup)
+  Preparation: Boil down 40:1, syrup or sugar
+  Cross-ref: l2-maple-sugaring.md
+- Cattail:
+  Season: Year-round
+  Parts Used: Roots, shoots, pollen
+  Calories/lb: 800-1200
+  Preparation: Raw/cooked roots, pollen flour
+  Cross-ref: l1-cattail-guide.md
+- Oak acorns:
+  Season: Sep-Nov
+  Parts Used: Nuts
+  Calories/lb: 2000+
+  Preparation: MUST leach tannins, grind
+  Cross-ref: l1-oak-acorn-processing.md
+- Fiddleheads (fern):
+  Season: Apr-May
+  Parts Used: Shoots
+  Calories/lb: 200-300
+  Preparation: MUST COOK (some species toxic raw)
+  Cross-ref: l2-spring-greens.md
+- Wild blueberry:
+  Season: Jul-Aug
+  Parts Used: Berries
+  Calories/lb: 250-300
+  Preparation: Raw, dry, jam
+  Cross-ref: l1-wild-berries.md
+- Cranberry (bog):
+  Season: Sep-Oct
+  Parts Used: Berries
+  Calories/lb: 200-250
+  Preparation: Raw (tart), cook, dry
+  Cross-ref: l1-wild-berries.md
+- Hickory:
+  Season: Sep-Oct
+  Parts Used: Nuts
+  Calories/lb: 2700+
+  Preparation: Crack shells, high fat
+  Cross-ref: l1-tree-nuts.md
+- Beechnuts:
+  Season: Sep-Oct
+  Parts Used: Nuts
+  Calories/lb: 2400+
+  Preparation: Small but abundant, high fat
+  Cross-ref: l1-tree-nuts.md
+- Wild onion:
+  Season: Year-round
+  Parts Used: Bulb
+  Calories/lb: 150-200
+  Preparation: Raw/cooked, flavor/nutrition
+  Cross-ref: l1-common-weeds.md
+- Dandelion:
+  Season: Apr-Oct
+  Parts Used: Leaves, roots
+  Calories/lb: 200-300
+  Preparation: Leaves raw/cooked, roots roasted
+  Cross-ref: l1-common-weeds.md
 
 **⚠️ CRITICAL:** Maple syrup/sugar is UNIQUE Northeast resource (40 gallons sap = 1 gallon syrup = 5000+ calories).
 
@@ -163,13 +207,30 @@
 
 ### Large Game
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
-|--------|--------|--------|---------|---------------|------------------|
-| White-tailed deer | 100-250 lbs | Nov-Dec | Edge habitat, woods | Most important game, abundant | 40-100 |
-| Black bear | 150-400 lbs | Sep-Nov (varies) | Forests, mountains | Dangerous, fat harvested, excellent meat | 75-200 |
-| Moose | 600-1200 lbs | Sep-Oct (ME, NH, VT, NY) | Northern forests, wetlands | Massive yield, aggressive in rut | 300-600 |
-| Wild turkey | 10-25 lbs | Spring (Apr-May), Fall | Woods, fields | Excellent eating, challenging hunt | 8-15 |
+- White-tailed deer:
+  Weight: 100-250 lbs
+  Season: Nov-Dec
+  Habitat: Edge habitat, woods
+  Hunting Notes: Most important game, abundant
+  Yield (lbs meat): 40-100
+- Black bear:
+  Weight: 150-400 lbs
+  Season: Sep-Nov (varies)
+  Habitat: Forests, mountains
+  Hunting Notes: Dangerous, fat harvested, excellent meat
+  Yield (lbs meat): 75-200
+- Moose:
+  Weight: 600-1200 lbs
+  Season: Sep-Oct (ME, NH, VT, NY)
+  Habitat: Northern forests, wetlands
+  Hunting Notes: Massive yield, aggressive in rut
+  Yield (lbs meat): 300-600
+- Wild turkey:
+  Weight: 10-25 lbs
+  Season: Spring (Apr-May), Fall
+  Habitat: Woods, fields
+  Hunting Notes: Excellent eating, challenging hunt
+  Yield (lbs meat): 8-15
 
 **White-tailed Deer:** PRIMARY GAME
 - 3+ million in Northeast region
@@ -192,21 +253,43 @@
 ### Fish & Aquatic
 
 **Rivers & Streams (Cold Water):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Size | Season | Method | Notes |
-|---------|------|--------|--------|-------|
-| Trout (brook, brown, rainbow) | 0.5-5 lbs | Spring-fall | Fly, spinner, worms | Native + stocked, excellent eating |
-| Salmon (Atlantic) | 8-30 lbs | Fall (spawning runs) | Fly, lures | Restored populations (ME, NY), seasonal |
-| Smallmouth bass | 1-5 lbs | Spring-fall | Lures, live bait | Rivers, rocky areas |
+- Trout (brook, brown, rainbow):
+  Size: 0.5-5 lbs
+  Season: Spring-fall
+  Method: Fly, spinner, worms
+  Notes: Native + stocked, excellent eating
+- Salmon (Atlantic):
+  Size: 8-30 lbs
+  Season: Fall (spawning runs)
+  Method: Fly, lures
+  Notes: Restored populations (ME, NY), seasonal
+- Smallmouth bass:
+  Size: 1-5 lbs
+  Season: Spring-fall
+  Method: Lures, live bait
+  Notes: Rivers, rocky areas
 
 **Lakes & Ponds:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Size | Season | Method | Notes |
-|---------|------|--------|--------|-------|
-| Largemouth bass | 2-8 lbs | Spring-fall | Lures, live bait | Warm water, weedy areas |
-| Perch (yellow) | 0.5-2 lbs | Year-round | Small jigs, worms | Ice fishing excellent |
-| Pickerel (chain) | 2-6 lbs | Year-round | Spoons, live bait | Northeast equivalent of pike |
-| Catfish (bullhead) | 0.5-3 lbs | Spring-fall | Worms, cut bait | Bottom feeders, night fishing |
+- Largemouth bass:
+  Size: 2-8 lbs
+  Season: Spring-fall
+  Method: Lures, live bait
+  Notes: Warm water, weedy areas
+- Perch (yellow):
+  Size: 0.5-2 lbs
+  Season: Year-round
+  Method: Small jigs, worms
+  Notes: Ice fishing excellent
+- Pickerel (chain):
+  Size: 2-6 lbs
+  Season: Year-round
+  Method: Spoons, live bait
+  Notes: Northeast equivalent of pike
+- Catfish (bullhead):
+  Size: 0.5-3 lbs
+  Season: Spring-fall
+  Method: Worms, cut bait
+  Notes: Bottom feeders, night fishing
 
 **Ice Fishing (December-March):**
 - Perch, pickerel, bass, trout
@@ -425,19 +508,21 @@ Design: Rain protection, ventilation, insect barriers
 
 ### Wood Selection (BTU & Characteristics)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Wood Type | BTU/cord | Burn Rate | Coals | Split Difficulty | Availability |
-|-----------|----------|-----------|-------|-----------------|--------------|
-| Oak (red, white) | 24-30M | Slow | Excellent | Hard | Very common |
-| Sugar maple | 24-27M | Moderate-slow | Excellent | Moderate | Very common |
-| Birch (yellow) | 21-24M | Moderate | Very good | Moderate | Common |
-| Ash | 23-25M | Moderate | Very good | Easy | Common |
-| Beech | 24-27M | Slow | Excellent | Moderate | Common |
-| Hickory | 28-30M | Slow | Excellent | Hard | Less common |
-| Cherry | 20-21M | Moderate | Good | Easy | Common |
-| Pine (white) | 15-17M | Fast | Poor | Easy | Very common |
-| Hemlock | 15-16M | Fast | Poor | Easy | Common (mountains) |
-| Poplar | 13-14M | Fast | Poor | Very easy | Common |
+- Oak (red, white): 24-30M / Slow / Excellent / Hard / Very common
+- Sugar maple:
+  BTU/cord: 24-27M
+  Burn Rate: Moderate-slow
+  Coals: Excellent
+  Split Difficulty: Moderate
+  Availability: Very common
+- Birch (yellow): 21-24M / Moderate / Very good / Moderate / Common
+- Ash: 23-25M / Moderate / Very good / Easy / Common
+- Beech: 24-27M / Slow / Excellent / Moderate / Common
+- Hickory: 28-30M / Slow / Excellent / Hard / Less common
+- Cherry: 20-21M / Moderate / Good / Easy / Common
+- Pine (white): 15-17M / Fast / Poor / Easy / Very common
+- Hemlock: 15-16M / Fast / Poor / Easy / Common (mountains)
+- Poplar: 13-14M / Fast / Poor / Very easy / Common
 
 **Best all-around:** Sugar maple (high BTU, abundant, splits well, bonus = syrup in spring)  
 **Best for heating:** Oak, beech (long, steady burn)  

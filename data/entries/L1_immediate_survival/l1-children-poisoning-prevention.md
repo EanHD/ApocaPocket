@@ -85,15 +85,24 @@ sources:
 
 **High-risk medications (even 1-2 pills can harm children):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Medication | Child Danger | Symptoms if Ingested |
-|------------|--------------|----------------------|
-| Opioids (hydrocodone, oxycodone) | EXTREME | Drowsiness, slow breathing, coma, death |
-| Blood pressure pills (clonidine, beta-blockers) | EXTREME | Low blood pressure, slow heart rate, seizures |
-| Diabetes medications (glipizide, metformin) | HIGH | Dangerously low blood sugar, seizures |
-| Antidepressants (tricyclics) | EXTREME | Seizures, heart arrhythmias, coma |
-| Muscle relaxants (cyclobenzaprine) | HIGH | Drowsiness, confusion, seizures |
-| Iron supplements | EXTREME | Vomiting blood, liver failure (delayed 12-48 hours) |
+- Opioids (hydrocodone, oxycodone):
+  Child Danger: EXTREME
+  Drowsiness, slow breathing, coma, death
+- Blood pressure pills (clonidine, beta-blockers):
+  Child Danger: EXTREME
+  Low blood pressure, slow heart rate, seizures
+- Diabetes medications (glipizide, metformin):
+  Child Danger: HIGH
+  Dangerously low blood sugar, seizures
+- Antidepressants (tricyclics):
+  Child Danger: EXTREME
+  Seizures, heart arrhythmias, coma
+- Muscle relaxants (cyclobenzaprine):
+  Child Danger: HIGH
+  Drowsiness, confusion, seizures
+- Iron supplements:
+  Child Danger: EXTREME
+  Vomiting blood, liver failure (delayed 12-48 hours)
 
 **Storage rules:**
 - ✅ HIGH shelf or locked box (above adult eye level, locked medication safe)

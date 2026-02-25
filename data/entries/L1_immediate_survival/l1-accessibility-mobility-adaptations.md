@@ -19,17 +19,22 @@ Mobility disabilities require specific adaptations but do not prevent effective 
 - Look for obstacles: roots, rocks >2" high, gaps >1" wide
 
 **Surface Types:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Surface | Difficulty | Technique |
-|---------|-----------|-----------|
-| Paved/hard-packed | Easy | Standard propulsion |
-| Gravel/crushed stone | Moderate | Slow, steady pushes; avoid spinning |
-| Grass (short, dry) | Moderate | Faster speed maintains momentum |
-| Grass (tall, wet) | Hard | May require pulling/assistance |
-| Sand | Very Hard | Balloon tires or drag assistance |
-| Mud | Very Hard | Avoid or use boards as track |
-| Snow (packed) | Moderate | Ski attachments or sled conversion |
-| Snow (loose) | Very Hard | Sled conversion mandatory |
+- Paved/hard-packed: Easy / Standard propulsion
+- Gravel/crushed stone:
+  Difficulty: Moderate
+  Technique: Slow, steady pushes; avoid spinning
+- Grass (short, dry):
+  Difficulty: Moderate
+  Technique: Faster speed maintains momentum
+- Grass (tall, wet):
+  Difficulty: Hard
+  Technique: May require pulling/assistance
+- Sand: Very Hard / Balloon tires or drag assistance
+- Mud: Very Hard / Avoid or use boards as track
+- Snow (packed):
+  Difficulty: Moderate
+  Technique: Ski attachments or sled conversion
+- Snow (loose): Very Hard / Sled conversion mandatory
 
 ### Ramp Construction
 
@@ -243,14 +248,21 @@ Mobility disabilities require specific adaptations but do not prevent effective 
 
 **Common Issues & Solutions:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Excessive rubbing | Swelling or shrinkage | Add/remove socks, adjust straps |
-| Socket looseness | Residual limb shrinkage | Add prosthetic socks (ply system) |
-| Socket tightness | Swelling | Remove socks, elevate limb, ice |
-| Pain at pressure points | Misalignment or debris | Check for objects in socket, re-align |
-| Squeaking sounds | Moisture in socket | Dry thoroughly, powder interior |
+- Excessive rubbing:
+  Cause: Swelling or shrinkage
+  Solution: Add/remove socks, adjust straps
+- Socket looseness:
+  Cause: Residual limb shrinkage
+  Solution: Add prosthetic socks (ply system)
+- Socket tightness:
+  Cause: Swelling
+  Solution: Remove socks, elevate limb, ice
+- Pain at pressure points:
+  Cause: Misalignment or debris
+  Solution: Check for objects in socket, re-align
+- Squeaking sounds:
+  Cause: Moisture in socket
+  Solution: Dry thoroughly, powder interior
 
 ### Socket Care
 

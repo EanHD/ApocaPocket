@@ -1,5 +1,5 @@
 ---
-title: "Ice & Snow Melting for Water"
+title: "Ice and Snow Melting"
 category: "L1"
 subcategory: "water"
 tags: ["water", "snow", "ice", "melting", "cold-weather", "hydration"]

@@ -53,15 +53,12 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 **Women are MORE likely to have atypical symptoms:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Symptom | Women | Men |
-|---------|-------|-----|
-| **Chest pain** | 60% | 80% |
-| **Extreme fatigue** | 70% | 40% |
-| **Nausea/vomiting** | 40% | 20% |
-| **Shortness of breath** | 58% | 40% |
-| **Back pain** | 40% | 20% |
-| **Jaw pain** | 30% | 15% |
+- Chest pain: 60% / 80%
+- Extreme fatigue: 70% / 40%
+- Nausea/vomiting: 40% / 20%
+- Shortness of breath: 58% / 40%
+- Back pain: 40% / 20%
+- Jaw pain: 30% / 15%
 
 **Women's "silent" heart attacks:**
 - May present as only fatigue, nausea, or back pain
@@ -76,43 +73,50 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 ### Heart Attack vs Angina
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Angina | Heart Attack |
-|---------|--------|--------------|
-| **Duration** | <5 minutes | >5 minutes (often 20-30+ min) |
-| **Relief with rest** | YES | NO |
-| **Relief with nitroglycerin** | YES (within 5 min) | Partial or none |
-| **Severity** | Predictable, stable | Severe, worsening |
-| **Sweating** | Mild or none | Profuse cold sweat |
+- Duration: <5 minutes / >5 minutes (often 20-30+ min)
+- Relief with rest: YES / NO
+- Relief with nitroglycerin:
+  Angina: YES (within 5 min)
+  Heart Attack: Partial or none
+- Severity: Predictable, stable / Severe, worsening
+- Sweating: Mild or none / Profuse cold sweat
 
 **Angina = warning sign** (insufficient blood flow during exertion, resolves with rest)  
 **Heart attack = blocked artery** (tissue death occurring now)
 
 ### Heart Attack vs Anxiety/Panic Attack
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Anxiety | Heart Attack |
-|---------|---------|--------------|
-| **Chest pain type** | Sharp, stabbing, localized | Pressure, squeezing, diffuse |
-| **Breathing** | Rapid, hyperventilating | Normal or difficulty breathing |
-| **Sweating** | Minimal or stress-related | Profuse cold sweat |
-| **Nausea** | Rare | Common (30%) |
-| **Duration** | Peaks in 10 min, resolves in 20-30 min | Worsens over time |
-| **Age** | Usually <40 | Usually >40 (but can occur younger) |
-| **Radiation** | Rare | Common (arm, jaw, back) |
+- Chest pain type:
+  Anxiety: Sharp, stabbing, localized
+  Heart Attack: Pressure, squeezing, diffuse
+- Breathing:
+  Anxiety: Rapid, hyperventilating
+  Heart Attack: Normal or difficulty breathing
+- Sweating:
+  Anxiety: Minimal or stress-related
+  Heart Attack: Profuse cold sweat
+- Nausea: Rare / Common (30%)
+- Duration:
+  Anxiety: Peaks in 10 min, resolves in 20-30 min
+  Heart Attack: Worsens over time
+- Age: Usually <40 / Usually >40 (but can occur younger)
+- Radiation: Rare / Common (arm, jaw, back)
 
 **Key differentiator:** Anxiety improves with calming techniques, heart attacks do NOT.
 
 ### Heart Attack vs GERD (Heartburn)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | GERD | Heart Attack |
-|---------|------|--------------|
-| **Location** | Behind breastbone, upper abdomen | Chest center, may radiate |
-| **Trigger** | After eating, lying down | Often at rest or with exertion |
-| **Relief with antacids** | YES (within 5-15 min) | NO |
-| **Burning sensation** | YES | Rare (more pressure/squeezing) |
-| **Sour taste** | Common | Absent |
+- Location:
+  GERD: Behind breastbone, upper abdomen
+  Heart Attack: Chest center, may radiate
+- Trigger:
+  GERD: After eating, lying down
+  Heart Attack: Often at rest or with exertion
+- Relief with antacids: YES (within 5-15 min) / NO
+- Burning sensation:
+  GERD: YES
+  Heart Attack: Rare (more pressure/squeezing)
+- Sour taste: Common / Absent
 
 ⚠️ **DANGER:** Many people die from heart attacks because they assumed it was "just heartburn." **If in doubt, treat as heart attack.**
 
@@ -222,13 +226,18 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 **Heart attack can progress to cardiac arrest:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Time | Event | Action |
-|------|-------|--------|
-| 0-15 min | Chest pain, stable | Aspirin, nitroglycerin, monitor |
-| 15-30 min | Severe pain, worsening | Prepare for evacuation, ready CPR |
-| 30-60 min | Altered consciousness, irregular pulse | **HIGH RISK of arrest**, stay ready |
-| 60+ min | Loss of consciousness, no pulse | **Start CPR immediately** |
+- 0-15 min:
+  Event: Chest pain, stable
+  Action: Aspirin, nitroglycerin, monitor
+- 15-30 min:
+  Event: Severe pain, worsening
+  Action: Prepare for evacuation, ready CPR
+- 30-60 min:
+  Event: Altered consciousness, irregular pulse
+  Action: HIGH RISK of arrest, stay ready
+- 60+ min:
+  Event: Loss of consciousness, no pulse
+  Action: Start CPR immediately
 
 **Signs heart attack is progressing to arrest:**
 - Confusion, drowsiness (hypoxia)
@@ -250,14 +259,11 @@ Heart attacks kill 600,000 Americans yearly - #1 cause of death. **Time is muscl
 
 **"Time is Muscle":**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Time to Treatment | Mortality | Heart Damage |
-|-------------------|-----------|--------------|
-| **<1 hour** | 5% | Minimal (10-20% of muscle) |
-| **1-3 hours** | 8% | Moderate (20-40% of muscle) |
-| **3-6 hours** | 12% | Significant (40-60% of muscle) |
-| **6-12 hours** | 20% | Severe (60-80% of muscle) |
-| **>12 hours** | 30% | Massive (80-100% of muscle) |
+- <1 hour: 5% / Minimal (10-20% of muscle)
+- 1-3 hours: 8% / Moderate (20-40% of muscle)
+- 3-6 hours: 12% / Significant (40-60% of muscle)
+- 6-12 hours: 20% / Severe (60-80% of muscle)
+- >12 hours: 30% / Massive (80-100% of muscle)
 
 **Every minute counts:**
 - **30 min:** "Golden hour" for best outcomes

@@ -279,15 +279,24 @@ Year 10: 1 person → 10 BILLION people (if exponential)
 
 ## Common Teach Mistakes
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Mistake | Problem | Fix |
-|---------|---------|-----|
-| **Explain without demonstrating** | Students don't see how it's done | Show first, explain second |
-| **Let mistakes slide** | Errors become habits | Correct immediately, have them redo |
-| **Too much info at once** | Overwhelms memory | Teach 1-3 concepts per session, repeat |
-| **No testing** | Don't know if student learned | Test for mastery (teach-back, independent work) |
-| **Assume they remember** | Knowledge decays without use | Review/practice regularly (weekly, monthly) |
-| **Teach only theory** | Can't do task in real conditions | Hands-on practice in realistic scenarios |
+- Explain without demonstrating:
+  Problem: Students don't see how it's done
+  Fix: Show first, explain second
+- Let mistakes slide:
+  Problem: Errors become habits
+  Fix: Correct immediately, have them redo
+- Too much info at once:
+  Problem: Overwhelms memory
+  Fix: Teach 1-3 concepts per session, repeat
+- No testing:
+  Problem: Don't know if student learned
+  Fix: Test for mastery (teach-back, independent work)
+- Assume they remember:
+  Problem: Knowledge decays without use
+  Fix: Review/practice regularly (weekly, monthly)
+- Teach only theory:
+  Problem: Can't do task in real conditions
+  Fix: Hands-on practice in realistic scenarios
 
 ---
 

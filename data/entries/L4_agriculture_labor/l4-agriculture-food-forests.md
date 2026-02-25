@@ -100,20 +100,25 @@ Nitrogen fixers convert atmospheric nitrogen into plant-available form via root 
 
 ### Nitrogen-Fixing Plants
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | Type | Nitrogen Output | Zone | Notes |
-|-------|------|----------------|------|-------|
-| **Clover** (white, red) | Ground cover | Moderate | 3-10 | Living mulch, easy |
-| **Vetch** | Ground cover | High | 3-10 | Annual/perennial varieties |
-| **Alfalfa** | Herbaceous | High | 3-9 | Deep roots, drought tolerant |
-| **Lupine** | Herbaceous | Moderate | 4-8 | Beautiful flowers |
-| **Beans** (runner, fava) | Vine/herbaceous | Moderate | All | Food + nitrogen |
-| **Peas** | Vine | Moderate | All | Food + nitrogen |
-| **Siberian Pea Shrub** | Shrub | High | 2-7 | Edible pods, hardy |
-| **Autumn Olive** | Shrub/tree | High | 3-9 | Nitrogen + berries |
-| **Black Locust** | Tree | Very High | 4-8 | Lumber, fast-growing |
-| **Alder** | Tree | Very High | 3-7 | Wet sites, pioneer |
-| **Acacia** | Tree | Very High | 9-11 | Tropical/subtropical |
+- Clover (white, red):
+  Type: Ground cover
+  Nitrogen Output: Moderate
+  Zone: 3-10
+  Notes: Living mulch, easy
+- Vetch: Ground cover / High / 3-10 / Annual/perennial varieties
+- Alfalfa: Herbaceous / High / 3-9 / Deep roots, drought tolerant
+- Lupine: Herbaceous / Moderate / 4-8 / Beautiful flowers
+- Beans (runner, fava):
+  Type: Vine/herbaceous
+  Nitrogen Output: Moderate
+  Zone: All
+  Notes: Food + nitrogen
+- Peas: Vine / Moderate / All / Food + nitrogen
+- Siberian Pea Shrub: Shrub / High / 2-7 / Edible pods, hardy
+- Autumn Olive: Shrub/tree / High / 3-9 / Nitrogen + berries
+- Black Locust: Tree / Very High / 4-8 / Lumber, fast-growing
+- Alder: Tree / Very High / 3-7 / Wet sites, pioneer
+- Acacia: Tree / Very High / 9-11 / Tropical/subtropical
 
 **Integration Strategy:**
 - 1 nitrogen fixer per 3-4 regular plants
@@ -128,39 +133,74 @@ These are the workhorses - reliable, productive, low-maintenance.
 
 **Highest Priority:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Crop | Calories/Tree/Year | Maturity | Storage | Why Critical |
-|------|-------------------|----------|---------|--------------|
-| **Chestnut** | 40,000-60,000 | 3-5 yrs (grafted) | 6+ months | Grain replacement, blight-resistant varieties |
-| **Walnut** (English, Black) | 30,000-50,000 | 7-10 yrs | 12+ months | High protein/fat, shelf-stable |
-| **Hazelnut** | 10,000-15,000 | 3-4 yrs | 12+ months | Easy, reliable, compact |
-| **Apple** | 8,000-12,000 | 3-7 yrs | 6 months (fresh) | Storage varieties, multiple uses |
-| **Pear** | 8,000-12,000 | 4-6 yrs | 6 months | Reliable, hardy |
-| **Plum** | 6,000-10,000 | 3-5 yrs | 1-3 months (fresh) | Prune for storage |
+- Chestnut:
+  Calories/Tree/Year: 40,000-60,000
+  Maturity: 3-5 yrs (grafted)
+  Storage: 6+ months
+  Why Critical: Grain replacement, blight-resistant varieties
+- Walnut (English, Black):
+  Calories/Tree/Year: 30,000-50,000
+  Maturity: 7-10 yrs
+  Storage: 12+ months
+  Why Critical: High protein/fat, shelf-stable
+- Hazelnut:
+  Calories/Tree/Year: 10,000-15,000
+  Maturity: 3-4 yrs
+  Storage: 12+ months
+  Why Critical: Easy, reliable, compact
+- Apple:
+  Calories/Tree/Year: 8,000-12,000
+  Maturity: 3-7 yrs
+  Storage: 6 months (fresh)
+  Why Critical: Storage varieties, multiple uses
+- Pear: 8,000-12,000 / 4-6 yrs / 6 months / Reliable, hardy
+- Plum:
+  Calories/Tree/Year: 6,000-10,000
+  Maturity: 3-5 yrs
+  Storage: 1-3 months (fresh)
+  Why Critical: Prune for storage
 
 **Comparison:** 1 mature chestnut tree = 2000 sq ft of wheat (without annual planting!)
 
 ### Berry Shrubs (Layer 3)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Crop | lbs/Bush/Year | Maturity | Hardiness | Notes |
-|------|--------------|----------|-----------|-------|
-| **Blueberry** | 5-15 | 2-3 yrs | -20°F | Needs acidic soil |
-| **Currant** (red, black) | 8-12 | 2-3 yrs | -40°F | Extremely hardy, vitamin C |
-| **Gooseberry** | 8-12 | 2-3 yrs | -40°F | Thorny, productive |
-| **Elderberry** | 12-20 | 2-3 yrs | -30°F | Immune support, wine |
-| **Aronia** (chokeberry) | 10-15 | 2-3 yrs | -40°F | Highest antioxidants |
+- Blueberry: 5-15 / 2-3 yrs / -20°F / Needs acidic soil
+- Currant (red, black):
+  lbs/Bush/Year: 8-12
+  Maturity: 2-3 yrs
+  Hardiness: -40°F
+  Notes: Extremely hardy, vitamin C
+- Gooseberry: 8-12 / 2-3 yrs / -40°F / Thorny, productive
+- Elderberry: 12-20 / 2-3 yrs / -30°F / Immune support, wine
+- Aronia (chokeberry):
+  lbs/Bush/Year: 10-15
+  Maturity: 2-3 yrs
+  Hardiness: -40°F
+  Notes: Highest antioxidants
 
 ### Perennial Vegetables (Layer 4)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Crop | Production | Harvest | Lifespan | Notes |
-|------|------------|---------|----------|-------|
-| **Asparagus** | 1/2 lb/plant/year | 6-8 weeks spring | 20+ years | Establish 2-3 years |
-| **Rhubarb** | 2-3 lbs/plant/year | Spring-summer | 20+ years | Leaves toxic (stalks only) |
-| **Artichoke** | 6-12 buds/plant/year | Summer-fall | 5-7 years | Zone 7+ (or annual) |
-| **Perennial Onions** | Continuous | Year-round | Indefinite | Walking onions, multipliers |
-| **Sorrel** | Continuous | Spring-fall | 10+ years | Salads, soups |
+- Asparagus:
+  Production: 1/2 lb/plant/year
+  Harvest: 6-8 weeks spring
+  Lifespan: 20+ years
+  Notes: Establish 2-3 years
+- Rhubarb:
+  Production: 2-3 lbs/plant/year
+  Harvest: Spring-summer
+  Lifespan: 20+ years
+  Notes: Leaves toxic (stalks only)
+- Artichoke:
+  Production: 6-12 buds/plant/year
+  Harvest: Summer-fall
+  Lifespan: 5-7 years
+  Notes: Zone 7+ (or annual)
+- Perennial Onions:
+  Production: Continuous
+  Harvest: Year-round
+  Lifespan: Indefinite
+  Notes: Walking onions, multipliers
+- Sorrel: Continuous / Spring-fall / 10+ years / Salads, soups
 
 ## Guild Planting
 

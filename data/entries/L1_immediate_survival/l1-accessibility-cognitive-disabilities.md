@@ -28,28 +28,25 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 5. Same sequence daily (builds automatic response)
 
 **Sample Daily Structure:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Time | Activity | Duration |
-|------|----------|----------|
-| 07:00 | Wake, personal care | 30 min |
-| 07:30 | Breakfast | 30 min |
-| 08:00 | Morning tasks (water, fire) | 60 min |
-| 09:00 | Break | 15 min |
-| 09:15 | Work (assigned task) | 90 min |
-| 10:45 | Break | 15 min |
-| 11:00 | Work continues | 60 min |
-| 12:00 | Lunch | 45 min |
-| 12:45 | Quiet time | 30 min |
-| 13:15 | Afternoon tasks | 90 min |
-| 14:45 | Break | 15 min |
-| 15:00 | Work/skill practice | 60 min |
-| 16:00 | Prepare dinner | 60 min |
-| 17:00 | Dinner | 45 min |
-| 17:45 | Evening tasks | 30 min |
-| 18:15 | Personal time | 60 min |
-| 19:15 | Evening routine | 30 min |
-| 19:45 | Sleep prep | 15 min |
-| 20:00 | Sleep | — |
+- 07:00: Wake, personal care / 30 min
+- 07:30: Breakfast / 30 min
+- 08:00: Morning tasks (water, fire) / 60 min
+- 09:00: Break / 15 min
+- 09:15: Work (assigned task) / 90 min
+- 10:45: Break / 15 min
+- 11:00: Work continues / 60 min
+- 12:00: Lunch / 45 min
+- 12:45: Quiet time / 30 min
+- 13:15: Afternoon tasks / 90 min
+- 14:45: Break / 15 min
+- 15:00: Work/skill practice / 60 min
+- 16:00: Prepare dinner / 60 min
+- 17:00: Dinner / 45 min
+- 17:45: Evening tasks / 30 min
+- 18:15: Personal time / 60 min
+- 19:15: Evening routine / 30 min
+- 19:45: Sleep prep / 15 min
+- 20:00: Sleep / —
 
 ⚠️ **When disruptions occur (storm, emergency):** Explain what changed, what stays the same, and when routine will resume.
 
@@ -301,12 +298,13 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 ### Supervision
 
 **Levels of Supervision:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stage | Supervision Level | Support Needed |
-|-------|-------------------|----------------|
-| Early | Periodic check-ins | Reminders, gentle redirection |
-| Moderate | Line of sight | Constant visual monitoring |
-| Advanced | Arm's length | Physical guidance, full assistance |
+- Early:
+  Supervision Level: Periodic check-ins
+  Support Needed: Reminders, gentle redirection
+- Moderate: Line of sight / Constant visual monitoring
+- Advanced:
+  Supervision Level: Arm's length
+  Support Needed: Physical guidance, full assistance
 
 **Supervision Tasks:**
 - Medication management (timed, observed)
@@ -424,14 +422,15 @@ Cognitive disabilities include autism spectrum disorder (ASD), intellectual disa
 ### Avoid Idioms
 
 **Idioms to Avoid:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Idiom | Literal Interpretation | Say Instead |
-|-------|------------------------|-------------|
-| "Break a leg" | Injure yourself | "Good luck" |
-| "It's raining cats and dogs" | Animals falling from sky | "It's raining hard" |
-| "Bite the bullet" | Chew ammunition | "Do the difficult thing" |
-| "Under the weather" | Beneath the sky | "Feeling sick" |
-| "Piece of cake" | Dessert | "Easy" |
+- "Break a leg": Injure yourself / "Good luck"
+- "It's raining cats and dogs":
+  Animals falling from sky
+  Say Instead: "It's raining hard"
+- "Bite the bullet":
+  Chew ammunition
+  Say Instead: "Do the difficult thing"
+- "Under the weather": Beneath the sky / "Feeling sick"
+- "Piece of cake": Dessert / "Easy"
 
 ### Confirm Understanding
 

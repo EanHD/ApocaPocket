@@ -55,10 +55,9 @@ steps:
   (amber-colored lumps on bark)
 - Melt in a container over low heat
   — work in open air (toxic fumes)
-- **Mix ratio:**
-  - 3 parts melted resin
-  - 1 part crushed charcoal
-  - 1 part dry plant fiber or dung
+- **Mix ratio:** 3 parts melted resin,
+  1 part crushed charcoal, 1 part
+  dry plant fiber or dung
 - Apply **hot with a stick** to seal
   seams, repair containers, waterproof
   joints — **extremely flammable**
@@ -122,6 +121,6 @@ steps:
   — neither lasts long but provides cover
 - **Testing your waterproofing:**
   pour water on the treated surface
-  - **Pass:** water beads and runs off
-  - **Fail:** soaks in within seconds
-    — add another layer of sealant
+  **Pass:** beads and runs off.
+  **Fail:** soaks in within seconds
+  — add another layer of sealant.

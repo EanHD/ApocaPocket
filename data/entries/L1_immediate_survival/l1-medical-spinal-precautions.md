@@ -70,21 +70,28 @@ Spinal cord injuries are devastating - they can cause permanent paralysis, loss 
 
 ### High-Risk Mechanisms
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Mechanism | Risk Level | Notes |
-|-----------|-----------|-------|
-| Fall from >10 feet (3m) | **HIGH** | Height = kinetic energy |
-| Motor vehicle accident | **HIGH** | Any significant impact |
-| Diving/shallow water | **VERY HIGH** | Classic C-spine injury |
-| Direct blow to head/neck/back | **HIGH** | Blunt force trauma |
-| Ejection from vehicle | **VERY HIGH** | Multiple impact sites |
-| Rollover accident | **HIGH** | Compression/rotation forces |
-| Pedestrian struck | **HIGH** | Multiple trauma |
-| Motorcycle crash | **HIGH** | High speed, minimal protection |
-| Found unconscious | **HIGH** | Unknown mechanism |
-| Blast injury | **MODERATE** | Shockwave + debris |
-| Lightning strike | **MODERATE** | Muscle spasm can fracture |
-| Hanging/strangulation | **HIGH** | Cervical injury |
+- Fall from >10 feet (3m):
+  Risk Level: HIGH
+  Notes: Height = kinetic energy
+- Motor vehicle accident: HIGH / Any significant impact
+- Diving/shallow water:
+  Risk Level: VERY HIGH
+  Notes: Classic C-spine injury
+- Direct blow to head/neck/back:
+  Risk Level: HIGH
+  Notes: Blunt force trauma
+- Ejection from vehicle:
+  Risk Level: VERY HIGH
+  Notes: Multiple impact sites
+- Rollover accident: HIGH / Compression/rotation forces
+- Pedestrian struck: HIGH / Multiple trauma
+- Motorcycle crash:
+  Risk Level: HIGH
+  Notes: High speed, minimal protection
+- Found unconscious: HIGH / Unknown mechanism
+- Blast injury: MODERATE / Shockwave + debris
+- Lightning strike: MODERATE / Muscle spasm can fracture
+- Hanging/strangulation: HIGH / Cervical injury
 
 **Age modifiers:**
 - Elderly (>65): Higher risk even with minor falls
@@ -425,18 +432,17 @@ Evacuation: Time _____ Method _____
 
 ## Summary Ref
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Priority | Action | Check |
-|----------|--------|-------|
-| 1 | Suspect based on mechanism | High-risk MOI? |
-| 2 | Manual inline stabilization | Immediate |
-| 3 | Assess neuro status | Document baseline |
-| 4 | Apply collar | If available |
-| 5 | Log-roll to backboard | 3+ people |
-| 6 | Secure to board | 4 points + head |
-| 7 | Recheck neuro | After each move |
-| 8 | Monitor continuously | q15-30 min |
-| 9 | Maintain body temp | Prevent hypothermia |
-| 10 | Evacuate with precautions | Hospital definitive care |
+- 1: Suspect based on mechanism / High-risk MOI?
+- 2: Manual inline stabilization / Immediate
+- 3: Assess neuro status / Document baseline
+- 4: Apply collar / If available
+- 5: Log-roll to backboard / 3+ people
+- 6: Secure to board / 4 points + head
+- 7: Recheck neuro / After each move
+- 8: Monitor continuously / q15-30 min
+- 9: Maintain body temp / Prevent hypothermia
+- 10:
+  Action: Evacuate with precautions
+  Check: Hospital definitive care
 
 **Remember:** When in doubt, immobilize. Secondary injury from movement is preventable. Your careful handling can mean the difference between recovery and permanent paralysis.

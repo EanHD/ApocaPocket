@@ -77,30 +77,34 @@ A penetrating chest wound that bubbles or hisses is a **sucking chest wound** �
 
 ### Sucking Chest Wound Signs
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Sign | Description | Reliability |
-|------|-------------|-------------|
-| **Visible wound** | Penetrating injury to chest (gunshot, stab, impalement, shrapnel) | Definitive |
-| **Bubbling/frothing** | Blood bubbles through wound with breathing | High |
-| **Hissing/sucking sound** | Audible air movement through wound | High |
-| **Blood froth** | Pink, frothy blood at wound site | High |
+- Visible wound:
+  Description: Penetrating injury to chest (gunshot, stab, impalement, shra
+  Reliability: Definitive
+- Bubbling/frothing:
+  Description: Blood bubbles through wound with breathing
+  Reliability: High
+- Hissing/sucking sound:
+  Description: Audible air movement through wound
+  Reliability: High
+- Blood froth: Pink, frothy blood at wound site / High
 
 **Location:** Any chest wound between clavicle (collarbone) and bottom of rib cage, from midline to mid-back
 
 ### Pneumothorax/Tension Pneumothorax Signs
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Finding | Open Pneumothorax | Tension Pneumothorax (CRITICAL) |
-|---------|------------------|--------------------------------|
-| **Breathing** | Difficult, rapid | Severe distress, gasping |
-| **Chest movement** | Reduced on injured side | Paradoxical or absent movement |
-| **Breath sounds** | Decreased/absent on injured side | Absent on injured side |
-| **Neck veins** | Normal or flat | **Distended** (JVD) |
-| **Trachea** | Midline | **Deviated away** from injury |
-| **Skin** | Pale | Cyanotic (blue) |
-| **Mental status** | Anxious | Confused, deteriorating |
-| **Pulse** | Fast | Fast, weak, may be absent |
-| **Blood pressure** | May be normal | **Hypotensive** (shock) |
+- Breathing: Difficult, rapid / Severe distress, gasping
+- Chest movement:
+  Open Pneumothorax: Reduced on injured side
+  Paradoxical or absent movement
+- Breath sounds:
+  Open Pneumothorax: Decreased/absent on injured side
+  Absent on injured side
+- Neck veins: Normal or flat / Distended (JVD)
+- Trachea: Midline / Deviated away from injury
+- Skin: Pale / Cyanotic (blue)
+- Mental status: Anxious / Confused, deteriorating
+- Pulse: Fast / Fast, weak, may be absent
+- Blood pressure: May be normal / Hypotensive (shock)
 
 **Key differentiator:** Distended neck veins + worsening after sealing = tension pneumothorax
 
@@ -377,16 +381,15 @@ Evacuation time: _____
 
 ## Summary QR
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Step | Action | Time |
-|------|--------|------|
-| 1 | Identify sucking chest wound (bubbling, hissing) | 15 sec |
-| 2 | Patient exhales forcefully | 5 sec |
-| 3 | Apply seal (3-sided or commercial) | 30 sec |
-| 4 | Check for exit wound, seal if present | 15 sec |
-| 5 | Position semi-upright on injured side | 15 sec |
-| 6 | Monitor for tension (every 2-5 min) | Continuous |
-| 7 | Burp seal if breathing worsens | As needed |
-| 8 | Evacuate immediately | ASAP |
+- 1:
+  Action: Identify sucking chest wound (bubbling, hissing)
+  Time: 15 sec
+- 2: Patient exhales forcefully / 5 sec
+- 3: Apply seal (3-sided or commercial) / 30 sec
+- 4: Check for exit wound, seal if present / 15 sec
+- 5: Position semi-upright on injured side / 15 sec
+- 6: Monitor for tension (every 2-5 min) / Continuous
+- 7: Burp seal if breathing worsens / As needed
+- 8: Evacuate immediately / ASAP
 
 **Remember:** Three sides taped, one side open. Burp if gets worse. Evacuate urgently. This is life-threatening trauma.

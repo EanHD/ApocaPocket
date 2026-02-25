@@ -112,14 +112,11 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 ## 4Yr Rotate (4Beds)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Year | Bed A | Bed B | Bed C | Bed D |
-|------|-------|-------|-------|-------|
-| **1** | Legumes | Brassicas | Solanaceae | Roots |
-| **2** | Brassicas | Solanaceae | Roots | Legumes |
-| **3** | Solanaceae | Roots | Legumes | Brassicas |
-| **4** | Roots | Legumes | Brassicas | Solanaceae |
-| **5** | Legumes | Brassicas | Solanaceae | Roots |
+- 1: Legumes / Brassicas / Solanaceae / Roots
+- 2: Brassicas / Solanaceae / Roots / Legumes
+- 3: Solanaceae / Roots / Legumes / Brassicas
+- 4: Roots / Legumes / Brassicas / Solanaceae
+- 5: Legumes / Brassicas / Solanaceae / Roots
 
 **Pattern:** Each bed rotates to next family each year (clockwise).
 
@@ -136,15 +133,12 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Nitrogen Contribution:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Legume | N Fixed (lbs/acre) | Equivalent Fertilizer |
-|--------|-------------------|----------------------|
-| Peas | 50-80 | $20-30 value |
-| Beans (bush/pole) | 40-60 | $15-25 value |
-| Fava beans | 80-100 | $30-40 value |
-| Clover (cover crop) | 100-150 | $40-60 value |
-| Vetch (cover crop) | 100-200 | $40-80 value |
-| Alfalfa (perennial) | 150-250 | $60-100 value |
+- Peas: 50-80 / $20-30 value
+- Beans (bush/pole): 40-60 / $15-25 value
+- Fava beans: 80-100 / $30-40 value
+- Clover (cover crop): 100-150 / $40-60 value
+- Vetch (cover crop): 100-200 / $40-80 value
+- Alfalfa (perennial): 150-250 / $60-100 value
 
 **Best Practice:**
 - Plant legumes after heavy feeders (brassicas, solanaceae)
@@ -187,13 +181,18 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Different Roots = Better Soil:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Root Type | Crop Examples | Benefit |
-|-----------|--------------|---------|
-| **Fibrous** (shallow, dense) | Grasses, onions, lettuce | Hold topsoil, prevent erosion |
-| **Taproot** (deep, single) | Carrots, parsnips, dandelion | Break compaction, access deep nutrients |
-| **Nodulated** (nitrogen-fixing) | Legumes | Add nitrogen, improve fertility |
-| **Rhizomatous** (spreading) | Asparagus (perennial) | Stabilize soil, long-term structure |
+- Fibrous (shallow, dense):
+  Crop Examples: Grasses, onions, lettuce
+  Benefit: Hold topsoil, prevent erosion
+- Taproot (deep, single):
+  Crop Examples: Carrots, parsnips, dandelion
+  Benefit: Break compaction, access deep nutrients
+- Nodulated (nitrogen-fixing):
+  Crop Examples: Legumes
+  Benefit: Add nitrogen, improve fertility
+- Rhizomatous (spreading):
+  Crop Examples: Asparagus (perennial)
+  Benefit: Stabilize soil, long-term structure
 
 **Rotation Strategy:**
 - Alternate shallow (fibrous) and deep (taproot) roots
@@ -265,14 +264,11 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Best Green Manures:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Crop | C:N Ratio | Decomposition Speed | N Contribution |
-|------|-----------|---------------------|----------------|
-| **Vetch** | 10:1 | Fast (2-3 weeks) | Very high |
-| **Clover** | 12:1 | Fast | High |
-| **Fava beans** | 15:1 | Medium (3-4 weeks) | High |
-| **Buckwheat** | 20:1 | Fast (2 weeks) | Low (biomass high) |
-| **Rye** | 40:1 | Slow (4-6 weeks) | Low (carbon high) |
+- Vetch: 10:1 / Fast (2-3 weeks) / Very high
+- Clover: 12:1 / Fast / High
+- Fava beans: 15:1 / Medium (3-4 weeks) / High
+- Buckwheat: 20:1 / Fast (2 weeks) / Low (biomass high)
+- Rye: 40:1 / Slow (4-6 weeks) / Low (carbon high)
 
 **Protocol:**
 1. Plant cover crop (spring or fall)

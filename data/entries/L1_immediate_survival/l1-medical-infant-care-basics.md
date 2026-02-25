@@ -29,14 +29,11 @@ sources:
 
 ## Age Groups
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Age Range | Term | Weight Range | Key Vulnerabilities |
-|-----------|------|--------------|---------------------|
-| 0-7 days | Newborn | 5.5-10 lbs (2.5-4.5 kg) | Umbilical infection, hypothermia, feeding failure |
-| 1-4 weeks | Neonatal | 6-11 lbs (2.7-5 kg) | Jaundice, dehydration, SIDS risk |
-| 1-3 months | Young infant | 8-14 lbs (3.6-6.4 kg) | Infections, reflux, developmental delays |
-| 3-6 months | Infant | 12-18 lbs (5.4-8.2 kg) | Choking (starting solids), rolling injuries |
-| 6-12 months | Older infant | 16-24 lbs (7.3-10.9 kg) | Crawling injuries, toxic ingestions |
+- 0-7 days: Newborn / 5.5-10 lbs (2.5-4.5 kg)
+- 1-4 weeks: Neonatal / 6-11 lbs (2.7-5 kg)
+- 1-3 months: Young infant / 8-14 lbs (3.6-6.4 kg)
+- 3-6 months: Infant / 12-18 lbs (5.4-8.2 kg)
+- 6-12 months: Older infant / 16-24 lbs (7.3-10.9 kg)
 
 **Premature infants:** Require specialized care beyond this entry's scope - prioritize medical evacuation.
 
@@ -108,15 +105,12 @@ sources:
 
 ### Feeding Schedule by Age
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Age | Frequency | Duration Each Side | Total per 24h |
-|-----|-----------|-------------------|---------------|
-| 0-3 days | Every 2-3 hours | 10-15 minutes | 8-12 feedings |
-| 3-7 days | Every 2-3 hours | 15-20 minutes | 8-12 feedings |
-| 1-4 weeks | Every 2-4 hours | 15-30 minutes | 8-10 feedings |
-| 1-3 months | Every 2.5-4 hours | 20-40 minutes | 6-8 feedings |
-| 3-6 months | Every 3-4 hours | 20-40 minutes | 5-7 feedings |
-| 6-12 months | Every 4-6 hours + solids | 15-30 minutes | 4-6 feedings |
+- 0-3 days: Every 2-3 hours / 10-15 minutes
+- 3-7 days: Every 2-3 hours / 15-20 minutes
+- 1-4 weeks: Every 2-4 hours / 15-30 minutes
+- 1-3 months: Every 2.5-4 hours / 20-40 minutes
+- 3-6 months: Every 3-4 hours / 20-40 minutes
+- 6-12 months: Every 4-6 hours + solids / 15-30 minutes
 
 **Never go >4 hours without feeding** (newborns) or >6 hours (older infants) - dehydration risk.
 
@@ -233,15 +227,15 @@ sources:
 
 ### Feeding Amount by Age
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Age | Amount per Feeding | Frequency | Total per 24h |
-|-----|-------------------|-----------|---------------|
-| 0-1 week | 1-2 oz (30-60 mL) | Every 2-3 hours | 8-12 feedings |
-| 1-4 weeks | 2-4 oz (60-120 mL) | Every 3-4 hours | 6-8 feedings |
-| 1-2 months | 4-5 oz (120-150 mL) | Every 3-4 hours | 6-7 feedings |
-| 2-4 months | 5-6 oz (150-180 mL) | Every 3-4 hours | 5-6 feedings |
-| 4-6 months | 6-7 oz (180-210 mL) | Every 4-5 hours | 4-6 feedings |
-| 6-12 months | 7-8 oz (210-240 mL) + solids | Every 4-6 hours | 3-5 feedings |
+- 0-1 week: 1-2 oz (30-60 mL) / Every 2-3 hours
+- 1-4 weeks: 2-4 oz (60-120 mL) / Every 3-4 hours
+- 1-2 months: 4-5 oz (120-150 mL) / Every 3-4 hours
+- 2-4 months: 5-6 oz (150-180 mL) / Every 3-4 hours
+- 4-6 months: 6-7 oz (180-210 mL) / Every 4-5 hours
+- 6-12 months:
+  Amount per Feeding: 7-8 oz (210-240 mL) + solids
+  Frequency: Every 4-6 hours
+  Total per 24h: 3-5 feedings
 
 **Rule of thumb:** Baby needs ~2.5 oz (75 mL) per pound of body weight per day
 - 10 lb baby = 25 oz (750 mL) per day
@@ -339,13 +333,18 @@ sources:
 
 **Severity levels:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Severity | Appearance | Treatment |
-|----------|-----------|-----------|
-| **Mild** | Pink/red skin, no texture change | Change frequently, barrier cream, air dry |
-| **Moderate** | Bright red, slight swelling, defined borders | Change every 2h, thick barrier cream, naked time 3x daily (15 min) |
-| **Severe** | Deep red, raised bumps, open sores, bleeding | All above + antifungal cream, possible infection |
-| **Infected (yeast)** | Bright red with satellite spots, not responding to barrier cream | Antifungal cream (clotrimazole 2x daily), keep very dry |
+- Mild:
+  Appearance: Pink/red skin, no texture change
+  Treatment: Change frequently, barrier cream, air dry
+- Moderate:
+  Appearance: Bright red, slight swelling, defined borders
+  Treatment: Change every 2h, thick barrier cream, naked time 3x daily (1
+- Severe:
+  Appearance: Deep red, raised bumps, open sores, bleeding
+  Treatment: All above + antifungal cream, possible infection
+- Infected (yeast):
+  Appearance: Bright red with satellite spots, not responding to barrier c
+  Treatment: Antifungal cream (clotrimazole 2x daily), keep very dry
 
 **Treatment protocol for moderate-severe rash:**
 

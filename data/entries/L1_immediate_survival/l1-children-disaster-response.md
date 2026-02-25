@@ -273,13 +273,18 @@ Repeat as needed. Toddlers need repetition for processing.
 
 ### Separation Anxiety by Age
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Age | Normal Reaction | Concerning Reaction |
-|-----|----------------|---------------------|
-| 0-2 years | Crying when caregiver leaves sight, calms within 15 min | Inconsolable for 30+ min, refusal to eat when separated |
-| 2-5 years | Clinginess, asking where parent is frequently | Panic attacks, vomiting, complete shutdown when separated |
-| 6-12 years | Wanting parent nearby, checking in frequently | Unable to attend school/activities, physical illness when separated |
-| 13-18 years | Mild worry, checking phone frequently | Panic attacks, unable to function, refusing to leave home |
+- 0-2 years:
+  Normal Reaction: Crying when caregiver leaves sight, calms within 15 min
+  Concerning Reaction: Inconsolable for 30+ min, refusal to eat when separated
+- 2-5 years:
+  Normal Reaction: Clinginess, asking where parent is frequently
+  Concerning Reaction: Panic attacks, vomiting, complete shutdown when separated
+- 6-12 years:
+  Normal Reaction: Wanting parent nearby, checking in frequently
+  Concerning Reaction: Unable to attend school/activities, physical illness when se
+- 13-18 years:
+  Normal Reaction: Mild worry, checking phone frequently
+  Concerning Reaction: Panic attacks, unable to function, refusing to leave home
 
 ### Management Strategies
 
@@ -346,21 +351,36 @@ Children's brains rely on predictability for security. When the external world i
 
 **Example disaster shelter routine:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Time | Activity | Purpose |
-|------|----------|---------|
-| 7:00 AM | Wake up, face wash, get dressed | Normalcy, dignity |
-| 7:30 AM | Breakfast together | Nutrition, family connection |
-| 8:00 AM | Educational activity (reading, games) | Mental stimulation, distraction |
-| 9:00 AM | Physical activity (walk, play) | Stress release, health |
-| 10:00 AM | Free play / creativity (drawing, building) | Emotional expression, control |
-| 12:00 PM | Lunch | Nutrition, structure |
-| 1:00 PM | Quiet time (rest, reading) | Regulation, processing |
-| 3:00 PM | Helping tasks (age-appropriate chores) | Purpose, competence |
-| 5:00 PM | Dinner | Nutrition, family connection |
-| 6:00 PM | Family time (stories, talking, games) | Security, bonding |
-| 7:00 PM | Bedtime routine (simplified) | Sleep preparation |
-| 7:30 PM | Lights out | Rest, recovery |
+- 7:00 AM:
+  Activity: Wake up, face wash, get dressed
+  Purpose: Normalcy, dignity
+- 7:30 AM:
+  Activity: Breakfast together
+  Purpose: Nutrition, family connection
+- 8:00 AM:
+  Activity: Educational activity (reading, games)
+  Purpose: Mental stimulation, distraction
+- 9:00 AM:
+  Activity: Physical activity (walk, play)
+  Purpose: Stress release, health
+- 10:00 AM:
+  Activity: Free play / creativity (drawing, building)
+  Purpose: Emotional expression, control
+- 12:00 PM: Lunch / Nutrition, structure
+- 1:00 PM:
+  Activity: Quiet time (rest, reading)
+  Purpose: Regulation, processing
+- 3:00 PM:
+  Activity: Helping tasks (age-appropriate chores)
+  Purpose: Purpose, competence
+- 5:00 PM: Dinner / Nutrition, family connection
+- 6:00 PM:
+  Activity: Family time (stories, talking, games)
+  Purpose: Security, bonding
+- 7:00 PM:
+  Activity: Bedtime routine (simplified)
+  Purpose: Sleep preparation
+- 7:30 PM: Lights out / Rest, recovery
 
 **Adapt based on age, space, and resources. Consistency matters more than specific activities.**
 

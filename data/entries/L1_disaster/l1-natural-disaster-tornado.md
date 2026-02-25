@@ -1,5 +1,5 @@
 ---
-title: "Tornado Survival Protocols"
+title: "Tornado Survival"
 category: "L1"
 subcategory: "disaster"
 tags: ["tornado", "severe-weather", "shelter", "evacuation", "storm"]

@@ -144,41 +144,41 @@ Voltage
 
 **Common household loads**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Appliance | Running Watts | Starting Watts | Notes |
-|-----------|---------------|----------------|-------|
-| **Lighting** | | | |
-| LED bulb (60W equiv) | 9W | 9W | No surge |
-| CFL bulb | 15W | 60W | Brief inrush |
-| Incandescent (60W) | 60W | 60W | No surge |
-| **Kitchen** | | | |
-| Coffee maker | 800-1200W | 800-1200W | Resistive |
-| Microwave (1000W) | 1200W | 1500W | Includes losses |
-| Toaster | 800-1500W | 800-1500W | Resistive |
-| Blender | 300-500W | 900-1500W | Motor surge |
-| Refrigerator (modern) | 100-200W | 600-1000W | Compressor start |
-| Chest freezer | 80-150W | 400-600W | Compressor start |
-| **Electronics** | | | |
-| Laptop | 50-100W | 50-100W | Power supply |
-| Desktop PC | 100-300W | 100-300W | No surge |
-| 40" LED TV | 50-100W | 50-100W | No surge |
-| Cable/satellite box | 15-30W | 15-30W | No surge |
-| Wi-Fi router | 10-20W | 10-20W | No surge |
-| Phone charger | 5-15W | 5-15W | No surge |
-| **HVAC** | | | |
-| Box fan | 50-100W | 150-300W | Motor surge |
-| Ceiling fan | 30-75W | 90-225W | Motor surge |
-| Space heater (small) | 750-1500W | 750-1500W | Resistive |
-| Window AC (5000 BTU) | 500W | 1500W | Compressor start |
-| **Water** | | | |
-| Well pump (1/2 HP) | 500-750W | 2500-3500W | High surge! |
-| Sump pump (1/3 HP) | 300-500W | 1500-2500W | High surge! |
-| Pressure washer | 1200-2000W | 3600-6000W | Motor + pump |
-| **Workshop** | | | |
-| Circular saw (7.25") | 1200-1500W | 3600-4500W | Motor surge |
-| Drill (1/2") | 500-800W | 1500-2400W | Motor surge |
-| Air compressor (1 HP) | 1000-1500W | 4000-6000W | Very high surge |
-| Shop vac | 800-1200W | 2400-3600W | Motor surge |
+- Lighting
+- LED bulb (60W equiv): 9W / 9W / No surge
+- CFL bulb: 15W / 60W / Brief inrush
+- Incandescent (60W): 60W / 60W / No surge
+- Kitchen
+- Coffee maker: 800-1200W / 800-1200W / Resistive
+- Microwave (1000W): 1200W / 1500W / Includes losses
+- Toaster: 800-1500W / 800-1500W / Resistive
+- Blender: 300-500W / 900-1500W / Motor surge
+- Refrigerator (modern): 100-200W / 600-1000W / Compressor start
+- Chest freezer: 80-150W / 400-600W / Compressor start
+- Electronics
+- Laptop: 50-100W / 50-100W / Power supply
+- Desktop PC: 100-300W / 100-300W / No surge
+- 40" LED TV: 50-100W / 50-100W / No surge
+- Cable/satellite box: 15-30W / 15-30W / No surge
+- Wi-Fi router: 10-20W / 10-20W / No surge
+- Phone charger: 5-15W / 5-15W / No surge
+- HVAC
+- Box fan: 50-100W / 150-300W / Motor surge
+- Ceiling fan: 30-75W / 90-225W / Motor surge
+- Space heater (small): 750-1500W / 750-1500W / Resistive
+- Window AC (5000 BTU): 500W / 1500W / Compressor start
+- Water
+- Well pump (1/2 HP): 500-750W / 2500-3500W / High surge!
+- Sump pump (1/3 HP): 300-500W / 1500-2500W / High surge!
+- Pressure washer: 1200-2000W / 3600-6000W / Motor + pump
+- Workshop
+- Circular saw (7.25"): 1200-1500W / 3600-4500W / Motor surge
+- Drill (1/2"): 500-800W / 1500-2400W / Motor surge
+- Air compressor (1 HP):
+  Running Watts: 1000-1500W
+  Starting Watts: 4000-6000W
+  Notes: Very high surge
+- Shop vac: 800-1200W / 2400-3600W / Motor surge
 
 ---
 
@@ -213,15 +213,12 @@ Required surge rating: >1100W
 
 **Typical pure sine wave inverter**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Load Level | Efficiency | Idle Power |
-|------------|-----------|------------|
-| **Idle (0%)** | - | 5-30W (varies by size) |
-| **10%** | 75-85% | Significant loss |
-| **25%** | 88-92% | |
-| **50%** | 92-95% | Peak efficiency |
-| **75%** | 92-94% | |
-| **100%** | 88-92% | Slight drop |
+- Idle (0%): - / 5-30W (varies by size)
+- 10%: 75-85% / Significant loss
+- 25%: 88-92%
+- 50%: 92-95% / Peak efficiency
+- 75%: 92-94%
+- 100%: 88-92% / Slight drop
 
 **Key insights**:
 - Inverters most efficient at 50-75% load
@@ -258,12 +255,9 @@ Runtime: 50Ah ÷ 44.8A = 1.1 hours
 
 **Scenario**: Inverter left on 24/7 with no load
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Inverter Size | Idle Power | Daily Waste | Battery Drain (12V, 200Ah) |
-|---------------|------------|-------------|---------------------------|
-| 300W | 5W | 120 Wh | 5% per day |
-| 1000W | 12W | 288 Wh | 12% per day |
-| 3000W | 30W | 720 Wh | 30% per day |
+- 300W: 5W / 120 Wh / 5% per day
+- 1000W: 12W / 288 Wh / 12% per day
+- 3000W: 30W / 720 Wh / 30% per day
 
 **Solution**: Use automatic sleep mode or manual switch (turn off when not needed)
 
@@ -346,14 +340,11 @@ Runtime: 50Ah ÷ 44.8A = 1.1 hours
 
 **Cable sizing** (12V inverters, 3% drop):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Inverter | Current @ 12V | 3 ft | 5 ft | 10 ft |
-|----------|---------------|------|------|-------|
-| 600W | 50A | 6 AWG | 4 AWG | 2 AWG |
-| 1000W | 83A | 4 AWG | 2 AWG | 1/0 AWG |
-| 1500W | 125A | 2 AWG | 1/0 AWG | 3/0 AWG |
-| 2000W | 167A | 1/0 AWG | 2/0 AWG | 4/0 AWG |
-| 3000W | 250A | 3/0 AWG | 4/0 AWG | - |
+- 600W: 50A / 6 AWG / 4 AWG / 2 AWG
+- 1000W: 83A / 4 AWG / 2 AWG / 1/0 AWG
+- 1500W: 125A / 2 AWG / 1/0 AWG / 3/0 AWG
+- 2000W: 167A / 1/0 AWG / 2/0 AWG / 4/0 AWG
+- 3000W: 250A / 3/0 AWG / 4/0 AWG / -
 
 **Voltage drop impact**: 1V drop on 12V system = 8% loss!
 - Use shortest possible DC cable run

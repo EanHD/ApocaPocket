@@ -71,17 +71,14 @@ A tarp is the most versatile shelter tool — a single 8×10 or 10×10 tarp can 
 
 ## Config Quick Ref
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Config | Setup Time | Rain | Wind | Warmth | Headroom |
-|--------|-----------|------|------|--------|----------|
-| A-frame | 5 min | ★★★★★ | ★★★★ | ★★★★ | ★★ |
-| Lean-to | 3 min | ★★★ | ★★ | ★★★★ | ★★★★ |
-| Diamond Fly | 7 min | ★★★★ | ★★★ | ★★ | ★★★★ |
-| Plough Point | 6 min | ★★★ | ★★★★★ | ★★★ | ★★★★ |
-| Half Pyramid | 5 min | ★★★★ | ★★★ | ★★★ | ★★★ |
-| Cornet | 2 min | ★★★★★ | ★★★★★ | ★★★★★ | ★ |
-| Adirondack | 12 min | ★★★★★ | ★★★★ | ★★★★ | ★★★ |
-| Hammock | 8 min | ★★★★★ | ★★★ | ★★★ | ★★★★★ |
+- A-frame: 5 min / ★★★★★
+- Lean-to: 3 min / ★★★
+- Diamond Fly: 7 min / ★★★★
+- Plough Point: 6 min / ★★★
+- Half Pyramid: 5 min / ★★★★
+- Cornet: 2 min / ★★★★★
+- Adirondack: 12 min / ★★★★★
+- Hammock: 8 min / ★★★★★
 
 ## Tarp Specifications
 

@@ -101,13 +101,10 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 ### Oil Specifications
 
 **Viscosity by Temperature:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Temperature Range | Recommended Oil | Alternate |
-|-------------------|-----------------|-----------|
-| Below 32°F (0°C) | 5W-30 synthetic | 5W-20 |
-| 32-80°F (0-27°C) | 10W-30 | SAE 30 |
-| Above 80°F (27°C) | SAE 30 | 10W-40 |
-| All temps | 5W-30 synthetic | - |
+- Below 32°F (0°C): 5W-30 synthetic / 5W-20
+- 32-80°F (0-27°C): 10W-30 / SAE 30
+- Above 80°F (27°C): SAE 30 / 10W-40
+- All temps: 5W-30 synthetic / -
 
 **Synthetic vs Conventional:**
 - Synthetic: Better cold-start flow, longer intervals, higher cost
@@ -115,14 +112,11 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Break-in: Use conventional for first 20 hours (rings seat better)
 
 **Oil Capacity by Engine Size:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Engine Displacement | Oil Capacity | Common Generators |
-|---------------------|--------------|-------------------|
-| 80-100cc | 0.4-0.5 qt | 1,000-2,000W |
-| 150-200cc | 0.6-0.7 qt | 2,000-4,000W |
-| 250-300cc | 0.9-1.1 qt | 4,000-6,000W |
-| 350-450cc | 1.1-1.3 qt | 6,000-8,000W |
-| 500-600cc | 1.4-1.6 qt | 8,000-12,000W |
+- 80-100cc: 0.4-0.5 qt / 1,000-2,000W
+- 150-200cc: 0.6-0.7 qt / 2,000-4,000W
+- 250-300cc: 0.9-1.1 qt / 4,000-6,000W
+- 350-450cc: 1.1-1.3 qt / 6,000-8,000W
+- 500-600cc: 1.4-1.6 qt / 8,000-12,000W
 
 **Note:** Check owner's manual for exact capacity. Overfilling causes foaming and pressure buildup. Underfilling causes starvation and seizure.
 
@@ -164,11 +158,9 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Wipe plug threads clean
 - Install new crush washer if equipped
 - Torque specifications:
-  | Engine Size | Drain Plug Torque |
-  |-------------|-------------------|
-  | Small (100-200cc) | 12-15 ft-lbs |
-  | Medium (200-400cc) | 15-20 ft-lbs |
-  | Large (400cc+) | 20-25 ft-lbs |
+- Small (100-200cc): 12-15 ft-lbs
+- Medium (200-400cc): 15-20 ft-lbs
+- Large (400cc+): 20-25 ft-lbs
 - Hand-tighten, then 1/4 turn with wrench (if no torque wrench)
 - **DON'T OVERTIGHTEN** - strips threads in aluminum cases
 
@@ -218,12 +210,17 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 ### Spark Plug Specifications
 
 **Plug Type by Engine:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Engine Type | Thread Size | Reach | Gap | Heat Range |
-|-------------|-------------|-------|-----|------------|
-| Small 2-stroke | 10mm | 12.7mm (1/2") | 0.024-0.028" | Hot (B6, BR6) |
-| 4-stroke OHV | 14mm | 19mm (3/4") | 0.028-0.030" | Med (B8, BR8) |
-| High performance | 14mm | 19mm (3/4") | 0.030-0.032" | Cold (B10, BR10) |
+- Small 2-stroke:
+  Thread Size: 10mm
+  Reach: 12.7mm (1/2")
+  Gap: 0.024-0.028"
+  Heat Range: Hot (B6, BR6)
+- 4-stroke OHV: 14mm / 19mm (3/4") / 0.028-0.030" / Med (B8, BR8)
+- High performance:
+  Thread Size: 14mm
+  Reach: 19mm (3/4")
+  Gap: 0.030-0.032"
+  Heat Range: Cold (B10, BR10)
 
 **Heat Range Explained:**
 - Hot plugs (B6): Slow heat dissipation, prevent fouling in low-load engines
@@ -259,16 +256,25 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 
 **2. Inspect Condition**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Appearance | Diagnosis | Action |
-|------------|-----------|---------|
-| Light tan/gray, dry | Normal combustion | Gap and reinstall or replace if 100+ hrs |
-| Black, dry, sooty | Rich fuel mixture | Adjust carburetor, check air filter |
-| Wet, black, oily | Oil fouling | Worn rings/valve seals, check oil level |
-| White, blistered | Overheating | Lean mixture, wrong heat range, or cooling issues |
-| Eroded electrode | Normal wear | Replace plug |
-| Carbon buildup | Low-load operation | Run under load, clean plug |
-| Wet with fuel | Flooded engine | Dry plug, check choke operation |
+- Light tan/gray, dry:
+  Diagnosis: Normal combustion
+  Action: Gap and reinstall or replace if 100+ hrs
+- Black, dry, sooty:
+  Diagnosis: Rich fuel mixture
+  Action: Adjust carburetor, check air filter
+- Wet, black, oily:
+  Diagnosis: Oil fouling
+  Action: Worn rings/valve seals, check oil level
+- White, blistered:
+  Diagnosis: Overheating
+  Action: Lean mixture, wrong heat range, or cooling issues
+- Eroded electrode: Normal wear / Replace plug
+- Carbon buildup:
+  Diagnosis: Low-load operation
+  Action: Run under load, clean plug
+- Wet with fuel:
+  Diagnosis: Flooded engine
+  Action: Dry plug, check choke operation
 
 **3. Check Gap**
 - Insert feeler gauge between center and ground electrode
@@ -278,12 +284,9 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Adjustment: Gently tap ground electrode to close, pry to open
 
 **Gap Settings:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Engine Type | Gap Range | Typical Setting |
-|-------------|-----------|-----------------|
-| Magneto ignition | 0.024-0.028" | 0.025" |
-| Electronic ignition | 0.028-0.032" | 0.030" |
-| CDI ignition | 0.030-0.035" | 0.032" |
+- Magneto ignition: 0.024-0.028" / 0.025"
+- Electronic ignition: 0.028-0.032" / 0.030"
+- CDI ignition: 0.030-0.035" / 0.032"
 
 **4. Clean Plug (if reusing)**
 - Wire brush around electrode (remove carbon)
@@ -296,11 +299,9 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - **Do NOT use** on steel heads or taper seat plugs
 - Start by hand (prevent cross-threading)
 - Tighten specifications:
-  | Thread Size | With Gasket | Taper Seat (no gasket) |
-  |-------------|-------------|------------------------|
-  | 10mm | 10-12 ft-lbs | 10-15 ft-lbs |
-  | 14mm | 18-22 ft-lbs | 15-20 ft-lbs |
-  | 18mm | 25-30 ft-lbs | 20-25 ft-lbs |
+- 10mm: 10-12 ft-lbs / 10-15 ft-lbs
+- 14mm: 18-22 ft-lbs / 15-20 ft-lbs
+- 18mm: 25-30 ft-lbs / 20-25 ft-lbs
 - Without torque wrench (gasket seat):
 - Finger-tight until gasket contacts
 - Turn 1/2 turn (90°) additional
@@ -415,14 +416,19 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 
 ### Air Filter Troubleshooting
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Symptom | Cause | Solution |
-|---------|-------|----------|
-| Black smoke | Restricted air filter | Clean or replace filter |
-| Poor performance | Dirty filter (rich mixture) | Service filter |
-| Engine surging | Air leak around filter | Check filter seating |
-| Fuel in air filter | Float needle stuck | Rebuild carburetor |
-| Backfire through intake | Lean mixture or valve issue | Check filter restriction, valve clearance |
+- Black smoke:
+  Cause: Restricted air filter
+  Solution: Clean or replace filter
+- Poor performance:
+  Cause: Dirty filter (rich mixture)
+  Solution: Service filter
+- Engine surging:
+  Cause: Air leak around filter
+  Solution: Check filter seating
+- Fuel in air filter: Float needle stuck / Rebuild carburetor
+- Backfire through intake:
+  Cause: Lean mixture or valve issue
+  Solution: Check filter restriction, valve clearance
 
 ## Fuel Sys Maint
 
@@ -439,12 +445,9 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Mix thoroughly before adding to tank
 
 **Dosage:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stabilizer Brand | Treatment Ratio | Cost |
-|------------------|-----------------|------|
-| STA-BIL | 1 oz per 2.5 gal | $10/16 oz |
-| PRI-G | 1 oz per 16 gal | $25/16 oz |
-| Star Tron | 1 oz per 16 gal | $12/8 oz |
+- STA-BIL: 1 oz per 2.5 gal / $10/16 oz
+- PRI-G: 1 oz per 16 gal / $25/16 oz
+- Star Tron: 1 oz per 16 gal / $12/8 oz
 
 **Application:**
 1. Add stabilizer to empty gas can
@@ -578,13 +581,10 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 - Load bank (professional tool)
 
 **Target Load:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Generator Size | 50% Load | Equipment Example |
-|----------------|----------|-------------------|
-| 3,500W | 1,750W | One 1,500W heater + lights |
-| 5,000W | 2,500W | Two 1,500W heaters |
-| 7,500W | 3,750W | Two 1,500W heaters + fridge |
-| 10,000W | 5,000W | Three 1,500W heaters + fridge |
+- 3,500W: 1,750W / One 1,500W heater + lights
+- 5,000W: 2,500W / Two 1,500W heaters
+- 7,500W: 3,750W / Two 1,500W heaters + fridge
+- 10,000W: 5,000W / Three 1,500W heaters + fridge
 
 ### Load Bank Testing
 
@@ -645,13 +645,10 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 8. Record recovery voltage
 
 **Expected Results:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Condition | Voltage Range | Status |
-|-----------|---------------|--------|
-| No load | 120-125V | Normal (slight high voltage OK) |
-| Under load | 115-120V | Normal (slight drop OK) |
-| Heavy load | 110-115V | Acceptable (5-10% drop) |
-| Any condition | <108V or >132V | Problem (investigate) |
+- No load: 120-125V / Normal (slight high voltage OK)
+- Under load: 115-120V / Normal (slight drop OK)
+- Heavy load: 110-115V / Acceptable (5-10% drop)
+- Any condition: <108V or >132V / Problem (investigate)
 
 ## Battery Maint
 
@@ -678,13 +675,11 @@ Proper maintenance ensures reliable generator operation during emergencies. Negl
 2. Multimeter on DC voltage (V⎓)
 3. Red probe to positive terminal, black to negative
 4. Read voltage:
-   | Voltage | State of Charge |
-   |---------|-----------------|
-   | 12.6V+ | 100% |
-   | 12.4V | 75% |
-   | 12.2V | 50% |
-   | 12.0V | 25% |
-   | <11.9V | Discharged (recharge immediately) |
+- 12.6V+: 100%
+- 12.4V: 75%
+- 12.2V: 50%
+- 12.0V: 25%
+- <11.9V: Discharged (recharge immediately)
 
 **Load Test:**
 - Apply load equal to half CCA rating for 15 seconds
@@ -789,19 +784,36 @@ Date       Hours   Oil Change   Spark Plug   Air Filter   Fuel      Load Test   
 
 ## Troubleshooting Guide
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Symptom | Likely Cause | Check/Fix |
-|---------|--------------|-----------|
-| Won't start (no spark) | Dead spark plug | Remove, inspect, test for spark |
-| Won't start (flooded) | Choke stuck closed | Open choke, remove plug, air-dry |
-| Starts then dies | Old fuel, clogged carb | Drain, clean carb, fresh fuel |
-| Black smoke | Rich mixture (dirty air filter) | Clean/replace air filter |
-| White/blue smoke | Burning oil (worn rings) | Check oil level, likely needs rebuild |
-| Low power under load | Dirty carb, old fuel, air leak | Clean carb, check air filter seating |
-| High voltage (>130V) | AVR failure | Replace voltage regulator |
-| Low voltage (<110V) | Overloaded or AVR issue | Reduce load, test AVR |
-| Surging RPM | Governor issue or air leak | Adjust governor, check for intake leaks |
-| Oil in air filter | Overfilled, worn rings | Drain to proper level, compression test |
+- Won't start (no spark):
+  Likely Cause: Dead spark plug
+  Check/Fix: Remove, inspect, test for spark
+- Won't start (flooded):
+  Likely Cause: Choke stuck closed
+  Check/Fix: Open choke, remove plug, air-dry
+- Starts then dies:
+  Likely Cause: Old fuel, clogged carb
+  Check/Fix: Drain, clean carb, fresh fuel
+- Black smoke:
+  Likely Cause: Rich mixture (dirty air filter)
+  Check/Fix: Clean/replace air filter
+- White/blue smoke:
+  Likely Cause: Burning oil (worn rings)
+  Check/Fix: Check oil level, likely needs rebuild
+- Low power under load:
+  Likely Cause: Dirty carb, old fuel, air leak
+  Check/Fix: Clean carb, check air filter seating
+- High voltage (>130V):
+  Likely Cause: AVR failure
+  Check/Fix: Replace voltage regulator
+- Low voltage (<110V):
+  Likely Cause: Overloaded or AVR issue
+  Check/Fix: Reduce load, test AVR
+- Surging RPM:
+  Likely Cause: Governor issue or air leak
+  Check/Fix: Adjust governor, check for intake leaks
+- Oil in air filter:
+  Likely Cause: Overfilled, worn rings
+  Check/Fix: Drain to proper level, compression test
 
 ## Tools Check
 

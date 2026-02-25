@@ -77,11 +77,10 @@ steps:
 - Straight, **6-10 inch** diameter
   conifers (pine, spruce, fir) — light
   and easy to work
-- For a 10×12 cabin:
-  - **40-50 wall logs** (14-16 ft for
-    long walls, 12-14 ft for short)
-  - **15-20 logs** for roof, floor,
-    and furniture
+- For a 10×12 cabin: **40-50 wall logs**
+  (14-16 ft long, 12-14 ft short) plus
+  **15-20 logs** for roof, floor, and
+  furniture
 - Avoid twisted or forked logs
 
 ## Notching Logs

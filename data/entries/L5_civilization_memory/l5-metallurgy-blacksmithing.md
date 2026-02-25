@@ -183,18 +183,39 @@ Blacksmithing is **THE MULTIPLIER PROFESSION**. One skilled blacksmith can:
 
 **Iron changes color with temperature**—this is how blacksmiths judge heat without thermometers. **Master this chart**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Color | Temperature (°F) | Workability | Uses |
-|-------|------------------|-------------|------|
-| **Black heat** | <900°F | Barely visible in dark | Too cold to forge |
-| **Blood red** | 900-1000°F | Dull red, dark room visible | Too cold, will crack |
-| **Dark cherry** | 1000-1100°F | Visible in dim light | Straightening, light work |
-| **Cherry red** | 1200-1400°F | Bright red, visible in daylight | **Forging range** (most work) |
-| **Bright cherry** | 1400-1600°F | Bright red-orange | Heavy forging, drawing out |
-| **Orange** | 1600-1900°F | Orange glow | Easy bending, welding (lower temp) |
-| **Yellow** | 1900-2100°F | Yellow-orange | **Welding heat** (forge welding) |
-| **Light yellow** | 2100-2300°F | Bright yellow | Highest safe temp |
-| **White** | 2300-2500°F | **DANGER** | Burning (sparking, metal deteriorates) |
+- Black heat:
+  Temperature (°F): <900°F
+  Workability: Barely visible in dark
+  Uses: Too cold to forge
+- Blood red:
+  Temperature (°F): 900-1000°F
+  Workability: Dull red, dark room visible
+  Uses: Too cold, will crack
+- Dark cherry:
+  Temperature (°F): 1000-1100°F
+  Workability: Visible in dim light
+  Uses: Straightening, light work
+- Cherry red:
+  Temperature (°F): 1200-1400°F
+  Workability: Bright red, visible in daylight
+  Uses: Forging range (most work)
+- Bright cherry:
+  Temperature (°F): 1400-1600°F
+  Workability: Bright red-orange
+  Uses: Heavy forging, drawing out
+- Orange:
+  Temperature (°F): 1600-1900°F
+  Workability: Orange glow
+  Uses: Easy bending, welding (lower temp)
+- Yellow:
+  Temperature (°F): 1900-2100°F
+  Workability: Yellow-orange
+  Uses: Welding heat (forge welding)
+- Light yellow: 2100-2300°F / Bright yellow / Highest safe temp
+- White:
+  Temperature (°F): 2300-2500°F
+  Workability: DANGER
+  Uses: Burning (sparking, metal deteriorates)
 
 **Critical notes**:
 - **Cherry red** (1200-1400°F): 90% of forging happens here

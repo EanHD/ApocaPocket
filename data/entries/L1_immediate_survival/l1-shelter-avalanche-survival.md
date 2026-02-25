@@ -23,12 +23,10 @@ steps:
 
 ## Terrain Recognition
 - Slopes **30-45°** are most dangerous
-- **RED FLAGS:**
-  - Fresh snow (12"+ in 24 hours)
-  - Wind-loaded slopes (lee of ridges)
-  - Warming temps after cold period
-  - Convex slopes, prior slide paths
-  - Slopes directly above you
+- **RED FLAGS:** fresh snow 12"+/24h,
+  wind-loaded slopes (lee of ridges),
+  warming after cold, convex slopes,
+  slopes directly above you
 - **SAFE ZONES:** ridges, dense forest,
   slopes under 25° or over 50°
 

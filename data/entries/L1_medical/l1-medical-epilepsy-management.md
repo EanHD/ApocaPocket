@@ -108,14 +108,21 @@ related:
 
 **Common anti-epileptic drugs (AEDs):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Medication | Typical Dose | Notes |
-|------------|--------------|-------|
-| **Phenytoin (Dilantin)** | 300-400mg/day | Requires consistent blood levels |
-| **Carbamazepine (Tegretol)** | 400-1200mg/day | Take with food |
-| **Valproic acid (Depakote)** | 500-2000mg/day | Monitor liver function |
-| **Levetiracetam (Keppra)** | 500-3000mg/day | Fewer interactions |
-| **Lamotrigine (Lamictal)** | 200-400mg/day | Slow titration required |
+- Phenytoin (Dilantin):
+  Typical Dose: 300-400mg/day
+  Notes: Requires consistent blood levels
+- Carbamazepine (Tegretol):
+  Typical Dose: 400-1200mg/day
+  Notes: Take with food
+- Valproic acid (Depakote):
+  Typical Dose: 500-2000mg/day
+  Notes: Monitor liver function
+- Levetiracetam (Keppra):
+  Typical Dose: 500-3000mg/day
+  Notes: Fewer interactions
+- Lamotrigine (Lamictal):
+  Typical Dose: 200-400mg/day
+  Notes: Slow titration required
 
 **CRITICAL:** Missing doses increases seizure risk. Keep 1-week backup supply.
 

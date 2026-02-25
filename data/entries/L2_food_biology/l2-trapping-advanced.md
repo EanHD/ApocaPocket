@@ -37,13 +37,22 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ## 🪤 Trap Types Overview
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Trap Type | Target Size | Kill Method | Skill Level | Materials |
-|-----------|-------------|-------------|-------------|-----------|
-| **Deadfall** | Small-medium | Crushing weight | Intermediate | Logs, rocks, trigger |
-| **Conibear** | Small-medium | Spring-powered crush | Advanced | Metal trap (purchased) |
-| **Snare** | Small-large | Strangulation | Intermediate | Wire, cordage |
-| **Leg-hold** | Medium-large | Holds alive | Advanced | Metal trap (purchased) |
+- Deadfall:
+  Target Size: Small-medium
+  Kill Method: Crushing weight
+  Skill Level: Intermediate
+  Materials: Logs, rocks, trigger
+- Conibear:
+  Target Size: Small-medium
+  Kill Method: Spring-powered crush
+  Skill Level: Advanced
+  Materials: Metal trap (purchased)
+- Snare: Small-large / Strangulation / Intermediate / Wire, cordage
+- Leg-hold:
+  Target Size: Medium-large
+  Kill Method: Holds alive
+  Skill Level: Advanced
+  Materials: Metal trap (purchased)
 
 **Focus of This Entry**: Deadfall improvements and Conibear traps (most effective for survival)
 
@@ -147,13 +156,10 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 ### Common Sizes
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Size | Jaw Spread | Target Animals |
-|------|------------|----------------|
-| **110** | 4.5 inches | Mink, muskrat, squirrel |
-| **120** | 5 inches | Marten, mink, squirrel |
-| **220** | 7 inches | Raccoon, fisher, marten, rabbit |
-| **330** | 10 inches | Beaver, otter, lynx |
+- 110: 4.5 inches / Mink, muskrat, squirrel
+- 120: 5 inches / Marten, mink, squirrel
+- 220: 7 inches / Raccoon, fisher, marten, rabbit
+- 330: 10 inches / Beaver, otter, lynx
 
 **Survival Kit Recommendation**: 6x 110s, 6x 220s (covers small to medium game)
 
@@ -215,12 +221,9 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 
 **Snare Sizing:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Loop Diameter | Height Above Ground |
-|--------|---------------|---------------------|
-| Squirrel | 3-4 inches | 1-2 inches |
-| Rabbit | 5-6 inches | 3-4 inches |
-| Grouse | 4-5 inches | 6-12 inches (body height) |
+- Squirrel: 3-4 inches / 1-2 inches
+- Rabbit: 5-6 inches / 3-4 inches
+- Grouse: 4-5 inches / 6-12 inches (body height)
 
 ### Spring Snare (Automatic Lift)
 

@@ -83,14 +83,13 @@ Use pressure points while maintaining direct pressure on wound.
 
 **Major arterial pressure points:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Location | Artery | When to Use |
-|----------|---------|-------------|
-| Neck (side) | Carotid | Head/scalp bleeding (use EXTREME caution) |
-| Shoulder/armpit | Subclavian | Upper arm/shoulder |
-| Inner upper arm | Brachial | Forearm/hand bleeding |
-| Groin crease | Femoral | Thigh/leg bleeding |
-| Behind knee | Popliteal | Lower leg bleeding |
+- Neck (side):
+  Artery: Carotid
+  When to Use: Head/scalp bleeding (use EXTREME caution)
+- Shoulder/armpit: Subclavian / Upper arm/shoulder
+- Inner upper arm: Brachial / Forearm/hand bleeding
+- Groin crease: Femoral / Thigh/leg bleeding
+- Behind knee: Popliteal / Lower leg bleeding
 
 **Technique:**
 - Press artery against underlying bone

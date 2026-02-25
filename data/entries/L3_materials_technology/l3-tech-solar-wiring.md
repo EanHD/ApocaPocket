@@ -110,13 +110,10 @@ String 2 ──┘
 
 **Temperature derating** (ambient + solar heating):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Ambient Temp | Conduit/Roof | Free Air |
-|--------------|--------------|----------|
-| 30°C (86°F) | 0.91 | 0.94 |
-| 40°C (104°F) | 0.82 | 0.88 |
-| 50°C (122°F) | 0.71 | 0.82 |
-| 60°C (140°F) | 0.58 | 0.75 |
+- 30°C (86°F): 0.91 / 0.94
+- 40°C (104°F): 0.82 / 0.88
+- 50°C (122°F): 0.71 / 0.82
+- 60°C (140°F): 0.58 / 0.75
 
 **Example calculation**:
 - Panel Isc: 9.5A
@@ -140,15 +137,12 @@ Voltage Drop (V) = 2 × Length (ft) × Current (A) × Resistance (Ω/1000ft) ÷ 
 
 **Copper wire resistance** (AWG, at 75°C):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| AWG | Ω/1000 ft | Ampacity (75°C) | Max Amps (60°C) |
-|-----|-----------|-----------------|-----------------|
-| **4** | 0.321 | 85A | 70A |
-| **6** | 0.510 | 65A | 55A |
-| **8** | 0.809 | 50A | 40A |
-| **10** | 1.29 | 35A | 30A |
-| **12** | 2.05 | 25A | 20A |
-| **14** | 3.26 | 20A | 15A |
+- 4: 0.321 / 85A / 70A
+- 6: 0.510 / 65A / 55A
+- 8: 0.809 / 50A / 40A
+- 10: 1.29 / 35A / 30A
+- 12: 2.05 / 25A / 20A
+- 14: 3.26 / 20A / 15A
 
 ---
 
@@ -194,33 +188,24 @@ Drop = 2 × 25 × 10 × 1.29 ÷ 1000 = 0.645V
 
 **12V Systems** (2% drop, one-way distance):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Current | 10 ft | 20 ft | 30 ft | 50 ft |
-|---------|-------|-------|-------|-------|
-| 5A | 14 AWG | 12 AWG | 10 AWG | 8 AWG |
-| 10A | 12 AWG | 10 AWG | 8 AWG | 6 AWG |
-| 20A | 8 AWG | 6 AWG | 4 AWG | 2 AWG |
-| 30A | 6 AWG | 4 AWG | 2 AWG | 1/0 AWG |
+- 5A: 14 AWG / 12 AWG / 10 AWG / 8 AWG
+- 10A: 12 AWG / 10 AWG / 8 AWG / 6 AWG
+- 20A: 8 AWG / 6 AWG / 4 AWG / 2 AWG
+- 30A: 6 AWG / 4 AWG / 2 AWG / 1/0 AWG
 
 **24V Systems** (2% drop):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Current | 10 ft | 20 ft | 30 ft | 50 ft |
-|---------|-------|-------|-------|-------|
-| 5A | 14 AWG | 14 AWG | 12 AWG | 10 AWG |
-| 10A | 14 AWG | 12 AWG | 10 AWG | 8 AWG |
-| 20A | 10 AWG | 8 AWG | 6 AWG | 4 AWG |
-| 30A | 8 AWG | 6 AWG | 4 AWG | 2 AWG |
+- 5A: 14 AWG / 14 AWG / 12 AWG / 10 AWG
+- 10A: 14 AWG / 12 AWG / 10 AWG / 8 AWG
+- 20A: 10 AWG / 8 AWG / 6 AWG / 4 AWG
+- 30A: 8 AWG / 6 AWG / 4 AWG / 2 AWG
 
 **48V Systems** (2% drop):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Current | 10 ft | 20 ft | 30 ft | 50 ft |
-|---------|-------|-------|-------|-------|
-| 5A | 14 AWG | 14 AWG | 14 AWG | 12 AWG |
-| 10A | 14 AWG | 14 AWG | 12 AWG | 10 AWG |
-| 20A | 12 AWG | 10 AWG | 8 AWG | 6 AWG |
-| 30A | 10 AWG | 8 AWG | 6 AWG | 4 AWG |
+- 5A: 14 AWG / 14 AWG / 14 AWG / 12 AWG
+- 10A: 14 AWG / 14 AWG / 12 AWG / 10 AWG
+- 20A: 12 AWG / 10 AWG / 8 AWG / 6 AWG
+- 30A: 10 AWG / 8 AWG / 6 AWG / 4 AWG
 
 ---
 

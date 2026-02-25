@@ -71,18 +71,21 @@ related: [l2-plants-deadly-lookalikes, l2-plants-alaska-comprehensive, l1-foragi
 
 ### Side-by-Side Comparison
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | H. alpinum (SAFE roots) | H. mackenzii (TOXIC seeds) |
-|---------|-------------------------|----------------------------|
-| **Height** | 6-16 inches | 12-24 inches (taller) |
-| **Stem** | Single or few stems | Multiple branching stems |
-| **Leaves** | Pinnate, 13-19 leaflets | Pinnate, 11-21 leaflets |
-| **Leaflet shape** | Oval, blunt tip | Narrow, pointed tip |
-| **Flowers** | Pink to magenta, dense cluster | Pinkish-purple, looser cluster |
-| **Bloom time** | June-July | June-August |
-| **Seed pods** | 1-1.5 inches, fewer seeds | 1.5-2 inches, more seeds |
-| **Root depth** | 4-8 inches | 6-12 inches (deeper) |
-| **Habitat** | Alpine, tundra, well-drained | Similar, slightly wetter soils |
+- Height: 6-16 inches / 12-24 inches (taller)
+- Stem: Single or few stems / Multiple branching stems
+- Leaves: Pinnate, 13-19 leaflets / Pinnate, 11-21 leaflets
+- Leaflet shape: Oval, blunt tip / Narrow, pointed tip
+- Flowers:
+  Pink to magenta, dense cluster
+  Pinkish-purple, looser cluster
+- Bloom time: June-July / June-August
+- Seed pods:
+  1-1.5 inches, fewer seeds
+  1.5-2 inches, more seeds
+- Root depth: 4-8 inches / 6-12 inches (deeper)
+- Habitat:
+  Alpine, tundra, well-drained
+  Similar, slightly wetter soils
 
 **⚠️ CRITICAL**: These differences are subtle. Even experts can confuse them.
 

@@ -254,15 +254,12 @@ COORDINATION COUNCIL:
 
 ### Selection Criteria Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Role | Competence | Fairness | Communication | EQ | Stamina |
-|------|------------|----------|---------------|-----|---------|
-| Medical Lead | 95% | 80% | 70% | 60% | 80% |
-| Security Lead | 80% | 90% | 70% | 70% | 85% |
-| Agriculture Lead | 85% | 75% | 65% | 60% | 80% |
-| Education Lead | 75% | 85% | 90% | 85% | 70% |
-| General Leadership | 70% | 95% | 85% | 90% | 75% |
-| Conflict Mediator | 60% | 95% | 80% | 95% | 65% |
+- Medical Lead: 95% / 80% / 70% / 60% / 80%
+- Security Lead: 80% / 90% / 70% / 70% / 85%
+- Agriculture Lead: 85% / 75% / 65% / 60% / 80%
+- Education Lead: 75% / 85% / 90% / 85% / 70%
+- General Leadership: 70% / 95% / 85% / 90% / 75%
+- Conflict Mediator: 60% / 95% / 80% / 95% / 65%
 
 Percentages = Minimum threshold for role
 
@@ -352,13 +349,13 @@ Percentages = Minimum threshold for role
 
 ### Term Limit Guidelines
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Role Type | Term Length | Max Terms | Cooling Off Period |
-|-----------|-------------|-----------|-------------------|
-| General Leadership | 1 year | 2 consecutive | 1 year break |
-| Technical Specialist | 2 years | 3 consecutive | 1 year break |
-| Emergency Leader | Until crisis ends | N/A | N/A |
-| Council Member | 2 years staggered | 2 consecutive | 1 year break |
+- General Leadership: 1 year / 2 consecutive / 1 year break
+- Technical Specialist: 2 years / 3 consecutive / 1 year break
+- Emergency Leader: Until crisis ends / N/A / N/A
+- Council Member:
+  Term Length: 2 years staggered
+  Max Terms: 2 consecutive
+  Cooling Off Period: 1 year break
 
 **Staggered Terms:** In councils, only 1/3 or 1/2 rotate at once to maintain institutional knowledge
 
@@ -454,17 +451,30 @@ Primary Leader: Jane Doe
 
 ### Red Flags (Intervene Immediately)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Behavior | What It Means | Action |
-|----------|---------------|--------|
-| **Favoritism** | Playing favorites, rewarding loyalty over competence | Council review + warning |
-| **Secrecy** | Hiding decisions, refusing to explain, closed meetings | Demand transparency or recall |
-| **Resource hoarding** | Keeping best for self/cronies | Audit + potential recall |
-| **Refusing feedback** | "My way or highway", punishing criticism | Mediation + term review |
-| **Scapegoating** | Always blaming others for failures | Performance review |
-| **Power expansion** | Trying to control more domains, eliminate checks | Immediate council intervention |
-| **Intimidation** | Threats, bullying, creating fear | Emergency recall process |
-| **Cult of personality** | Requiring excessive deference, self-aggrandizing | Community discussion |
+- Favoritism:
+  What It Means: Playing favorites, rewarding loyalty over competence
+  Action: Council review + warning
+- Secrecy:
+  What It Means: Hiding decisions, refusing to explain, closed meetings
+  Action: Demand transparency or recall
+- Resource hoarding:
+  What It Means: Keeping best for self/cronies
+  Action: Audit + potential recall
+- Refusing feedback:
+  What It Means: "My way or highway", punishing criticism
+  Action: Mediation + term review
+- Scapegoating:
+  What It Means: Always blaming others for failures
+  Action: Performance review
+- Power expansion:
+  What It Means: Trying to control more domains, eliminate checks
+  Action: Immediate council intervention
+- Intimidation:
+  What It Means: Threats, bullying, creating fear
+  Action: Emergency recall process
+- Cult of personality:
+  What It Means: Requiring excessive deference, self-aggrandizing
+  Action: Community discussion
 
 ---
 

@@ -53,24 +53,33 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 ## Types of Shock
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Cause | Primary Problem | Field Recognition |
-|------|-------|----------------|-------------------|
-| **Hypovolemic** | Blood/fluid loss | Low volume | Bleeding, dehydration, burns |
-| **Cardiogenic** | Heart failure | Pump failure | Chest pain, pulmonary edema |
-| **Distributive** | Vasodilation | Vessels too wide | Sepsis, spinal injury, anaphylaxis |
-| **Obstructive** | Blocked blood flow | Mechanical obstruction | Tension pneumothorax, cardiac tamponade |
+- Hypovolemic: Blood/fluid loss / Low volume
+- Cardiogenic: Heart failure / Pump failure
+- Distributive: Vasodilation / Vessels too wide
+- Obstructive:
+  Cause: Blocked blood flow
+  Primary Problem: Mechanical obstruction
+  Field Recognition: Tension pneumothorax, cardiac tamponade
 
 ## Recognize Shock
 
 ### Classic Signs (In Order of Appearance)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stage | Mental Status | Skin | Pulse | BP | Breathing | Urine |
-|-------|--------------|------|-------|----|-----------| ------|
-| **Early (Compensated)** | Anxious, restless | Pale, cool extremities | Fast (>100), normal strength | Normal | Fast (>20) | Reduced |
-| **Progressive (Decompensated)** | Confused, lethargic | Pale/gray, cold, clammy | Fast (>120), weak/thready | Low (<90 systolic) | Fast (>30), shallow | Minimal/none |
-| **Irreversible (Terminal)** | Unresponsive | Mottled, cold | Very weak/absent | Very low (<70) | Slow/gasping | None |
+- Early (Compensated):
+  Mental Status: Anxious, restless
+  Skin: Pale, cool extremities
+  Pulse: Fast (>100), normal strength
+  BP: Normal
+  Breathing: Fast (>20)
+  Urine: Reduced
+- Progressive (Decompensated):
+  Mental Status: Confused, lethargic
+  Skin: Pale/gray, cold, clammy
+  Pulse: Fast (>120), weak/thready
+  BP: Low (<90 systolic)
+  Breathing: Fast (>30), shallow
+  Urine: Minimal/none
+- Irreversible (Terminal): Unresponsive / Mottled, cold
 
 ### Vital Sign Measurements
 
@@ -128,13 +137,10 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 **Blood loss estimation:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Class | Blood Loss | Pulse | BP | Mental Status | Skin |
-|-------|-----------|-------|-----|--------------|------|
-| I | <15% (<750mL) | <100 | Normal | Anxious | Normal |
-| II | 15-30% (750-1500mL) | 100-120 | Normal | Mildly anxious | Pale, cool |
-| III | 30-40% (1500-2000mL) | 120-140 | Low | Confused | Cold, clammy |
-| IV | >40% (>2000mL) | >140 | Very low | Lethargic | Mottled |
+- I: <15% (<750mL) / <100
+- II: 15-30% (750-1500mL) / 100-120
+- III: 30-40% (1500-2000mL) / 120-140
+- IV: >40% (>2000mL) / >140
 
 ### 2. Cardiogenic Shock
 
@@ -404,14 +410,21 @@ Shock is inadequate blood flow and oxygen delivery to tissues and organs, result
 
 ### Position Quick Guide
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Shock Type | Position | Why |
-|-----------|----------|-----|
-| Hypovolemic (bleeding) | Flat + legs up 8-12" | Returns blood to core |
-| Cardiogenic (heart) | Sit upright 45-90° | Reduces heart workload |
-| Neurogenic (spine) | Flat, neutral spine | Prevents cord damage |
-| Anaphylaxis | Flat or semi-reclined | Depends on breathing |
-| If in doubt | Flat, monitor closely | Safe default position |
+- Hypovolemic (bleeding):
+  Position: Flat + legs up 8-12"
+  Why: Returns blood to core
+- Cardiogenic (heart):
+  Position: Sit upright 45-90°
+  Why: Reduces heart workload
+- Neurogenic (spine):
+  Position: Flat, neutral spine
+  Why: Prevents cord damage
+- Anaphylaxis:
+  Position: Flat or semi-reclined
+  Why: Depends on breathing
+- If in doubt:
+  Position: Flat, monitor closely
+  Why: Safe default position
 
 **Never elevate legs if:** Spinal injury, head injury, chest injury, difficulty breathing, fractured pelvis/legs
 

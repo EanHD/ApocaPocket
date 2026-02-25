@@ -60,13 +60,19 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Categories (Safety Rating):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| CAT Rating | Application | Max Voltage | Environment |
-|------------|-------------|-------------|-------------|
-| CAT I | Low-voltage electronics | <50V | Battery-powered devices |
-| CAT II | Household outlets | 300V | Residential wiring |
-| CAT III | Distribution panels | 600V | Commercial/industrial panels |
-| CAT IV | Utility service entrance | 1000V | Utility connection, lightning protection |
+- CAT I:
+  Application: Low-voltage electronics
+  Max Voltage: <50V
+  Environment: Battery-powered devices
+- CAT II: Household outlets / 300V / Residential wiring
+- CAT III:
+  Application: Distribution panels
+  Max Voltage: 600V
+  Environment: Commercial/industrial panels
+- CAT IV:
+  Application: Utility service entrance
+  Max Voltage: 1000V
+  Environment: Utility connection, lightning protection
 
 **Choose meter rated for highest voltage you'll encounter.** Using CAT II meter on CAT III circuit is dangerous (inadequate protection).
 
@@ -123,15 +129,15 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 - Negative value: Polarity reversed (not harmful, just backwards)
 
 **Typical Measurements:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Circuit | Expected Voltage | Tolerance | Troubleshooting |
-|---------|------------------|-----------|-----------------|
-| AA alkaline (new) | 1.5V | 1.4-1.65V | <1.2V = depleted |
-| 9V alkaline (new) | 9V | 8.5-9.6V | <7.5V = weak |
-| Car battery (good) | 12.6V | 12.4-12.8V | <12.2V = discharged |
-| Car charging system | 14.4V | 13.8-14.8V | <13.5V = alternator issue |
-| USB 5V supply | 5V | 4.75-5.25V | Outside range = bad supply |
-| 12V DC power supply | 12V | 11.5-12.5V | >13V = poor regulation |
+- AA alkaline (new): 1.5V / 1.4-1.65V / <1.2V = depleted
+- 9V alkaline (new): 9V / 8.5-9.6V / <7.5V = weak
+- Car battery (good): 12.6V / 12.4-12.8V / <12.2V = discharged
+- Car charging system:
+  Expected Voltage: 14.4V
+  Tolerance: 13.8-14.8V
+  Troubleshooting: <13.5V = alternator issue
+- USB 5V supply: 5V / 4.75-5.25V / Outside range = bad supply
+- 12V DC power supply: 12V / 11.5-12.5V / >13V = poor regulation
 
 **Common Mistakes:**
 
@@ -168,13 +174,22 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 - 220-250V for 240V circuits
 
 **Typical Measurements:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Circuit | Nominal | Acceptable Range | Action If Outside |
-|---------|---------|------------------|-------------------|
-| US household outlet | 120V AC | 114-126V | <110V or >130V - utility problem |
-| US 240V appliance | 240V AC | 228-252V | Check both legs (should be equal) |
-| Generator output (no-load) | 120V AC | 115-125V | Adjust AVR (voltage regulator) |
-| Generator under load | 120V AC | 110-120V | Some drop acceptable (<10%) |
+- US household outlet:
+  Nominal: 120V AC
+  Acceptable Range: 114-126V
+  Action If Outside: <110V or >130V - utility problem
+- US 240V appliance:
+  Nominal: 240V AC
+  Acceptable Range: 228-252V
+  Action If Outside: Check both legs (should be equal)
+- Generator output (no-load):
+  Nominal: 120V AC
+  Acceptable Range: 115-125V
+  Action If Outside: Adjust AVR (voltage regulator)
+- Generator under load:
+  Nominal: 120V AC
+  Acceptable Range: 110-120V
+  Action If Outside: Some drop acceptable (<10%)
 
 **Safety Rules:**
 
@@ -230,14 +245,11 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 - **Return red probe to V/Ω input** (prevents accidental short if voltage measured next)
 
 **Typical Measurements:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Load | Expected Current | Notes |
-|------|------------------|-------|
-| LED (with resistor) | 10-20mA | Use mA range |
-| USB device charging | 0.5-2.1A | Use 10A range initially |
-| Laptop charger | 3-5A | 10A range |
-| Small heater | 10-15A | May exceed meter capacity |
-| Car starter motor | 100-200A | Requires clamp meter |
+- LED (with resistor): 10-20mA / Use mA range
+- USB device charging: 0.5-2.1A / Use 10A range initially
+- Laptop charger: 3-5A / 10A range
+- Small heater: 10-15A / May exceed meter capacity
+- Car starter motor: 100-200A / Requires clamp meter
 
 **Clamp Meter (Alternative):**
 - Jaws clamp around wire (no circuit disconnection)
@@ -292,19 +304,16 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 - 0 or very low: Short circuit or good connection
 
 **Typical Measurements:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Component | Expected Resistance | Interpretation |
-|-----------|---------------------|----------------|
-| Wire (short length) | <1Ω | Good conductor |
-| Fuse (good) | <1Ω | Conducting |
-| Fuse (blown) | OL (infinite) | Open circuit, replace fuse |
-| Resistor (1kΩ) | 950-1050Ω | ±5% tolerance typical |
-| Resistor (10kΩ) | 9.5-10.5kΩ | Check color bands |
-| Heating element | 10-50Ω | Lower = higher wattage |
-| Motor winding | 1-20Ω | Depends on motor size |
-| Coil/transformer | 10-1000Ω | Varies widely |
-| Diode (forward) | 400-800Ω | One direction conducts |
-| Diode (reverse) | OL | Other direction blocks |
+- Wire (short length): <1Ω / Good conductor
+- Fuse (good): <1Ω / Conducting
+- Fuse (blown): OL (infinite) / Open circuit, replace fuse
+- Resistor (1kΩ): 950-1050Ω / ±5% tolerance typical
+- Resistor (10kΩ): 9.5-10.5kΩ / Check color bands
+- Heating element: 10-50Ω / Lower = higher wattage
+- Motor winding: 1-20Ω / Depends on motor size
+- Coil/transformer: 10-1000Ω / Varies widely
+- Diode (forward): 400-800Ω / One direction conducts
+- Diode (reverse): OL / Other direction blocks
 
 **Resistor Color Code Verification:**
 - Read color bands to determine value
@@ -314,14 +323,19 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Troubleshooting Applications:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Symptom | Test | Interpretation |
-|---------|------|----------------|
-| No power | Fuse resistance | OL = blown, replace |
-| Motor won't run | Winding resistance | OL = open winding, rewind or replace |
-| Heater not heating | Element resistance | OL = broken element |
-| Short circuit | Measure across suspected short | <10Ω indicates short |
-| Intermittent connection | Wiggle wire, watch resistance | Changing reading = bad connection |
+- No power: Fuse resistance / OL = blown, replace
+- Motor won't run:
+  Test: Winding resistance
+  Interpretation: OL = open winding, rewind or replace
+- Heater not heating:
+  Test: Element resistance
+  Interpretation: OL = broken element
+- Short circuit:
+  Test: Measure across suspected short
+  Interpretation: <10Ω indicates short
+- Intermittent connection:
+  Test: Wiggle wire, watch resistance
+  Interpretation: Changing reading = bad connection
 
 **Common Mistakes:**
 
@@ -364,15 +378,24 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Applications:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Use Case | Method | Interpretation |
-|----------|--------|----------------|
-| Wire tracing | One probe at each end of wire | Beep = connected wire |
-| PCB trace | Probe along suspected trace path | Beep confirms trace |
-| Cable testing | Pin 1 to pin 1, pin 2 to pin 2, etc. | Each pair should beep |
-| Switch testing | Probes on switch terminals, toggle switch | Beep when closed |
-| Fuse testing | Probes on fuse ends | Beep = good, no beep = blown |
-| Finding shorts | One probe to power, one to ground | Beep = short present |
+- Wire tracing:
+  Method: One probe at each end of wire
+  Interpretation: Beep = connected wire
+- PCB trace:
+  Method: Probe along suspected trace path
+  Interpretation: Beep confirms trace
+- Cable testing:
+  Method: Pin 1 to pin 1, pin 2 to pin 2, etc.
+  Interpretation: Each pair should beep
+- Switch testing:
+  Method: Probes on switch terminals, toggle switch
+  Interpretation: Beep when closed
+- Fuse testing:
+  Method: Probes on fuse ends
+  Interpretation: Beep = good, no beep = blown
+- Finding shorts:
+  Method: One probe to power, one to ground
+  Interpretation: Beep = short present
 
 **Advantages Over Resistance Mode:**
 - Faster (audio feedback, eyes free to work)
@@ -408,14 +431,11 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Interpretation:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Reading | Forward | Reverse | Status |
-|---------|---------|---------|--------|
-| Silicon diode | 550-700mV | OL | Good |
-| Schottky diode | 200-400mV | OL | Good |
-| LED | 1.8-3.3V | OL | Good (may glow dimly) |
-| Shorted diode | 0-50mV | 0-50mV | Failed short |
-| Open diode | OL | OL | Failed open |
+- Silicon diode: 550-700mV / OL / Good
+- Schottky diode: 200-400mV / OL / Good
+- LED: 1.8-3.3V / OL / Good (may glow dimly)
+- Shorted diode: 0-50mV / 0-50mV / Failed short
+- Open diode: OL / OL / Failed open
 
 **LED Testing:**
 - Diode test can light LED dimly
@@ -443,12 +463,9 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 **Interpretation:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Marked Value | Tolerance | Acceptable Range | Status |
-|--------------|-----------|------------------|--------|
-| 100µF ±20% | 80-120µF | 75-125µF | Pass if in range |
-| 10µF ±10% | 9-11µF | 8.5-11.5µF | Pass if in range |
-| 0.1µF ceramic | ±20% | 0.08-0.12µF | Wide tolerance normal |
+- 100µF ±20%: 80-120µF / 75-125µF / Pass if in range
+- 10µF ±10%: 9-11µF / 8.5-11.5µF / Pass if in range
+- 0.1µF ceramic: ±20% / 0.08-0.12µF / Wide tolerance normal
 
 **Capacitor Failure Modes:**
 - **Open:** Reading much lower than marked value or zero
@@ -633,18 +650,33 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 
 ## Common Meter Errors
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| ❌ Wrong | ✓ Right | Why |
-|---------|---------|-----|
-| Measuring battery with current setting | Measure voltage with V⎓ | Current measurement shorts battery |
-| Red probe in V/Ω jack when measuring amps | Move to A jack | Wrong jack = wrong measurement |
-| Meter set to DC, measuring AC | Set to AC (V~) | DC setting on AC gives false reading |
-| Touching probe tips with fingers | Don't touch tips during measurement | Body resistance affects reading |
-| Using auto-ranging on fast-changing signal | Manual range for stable reading | Auto-ranging hunts, display jumps |
-| Assuming "0.00" means zero | Check range/units | May be 0.00V on 200V scale |
-| Forgetting to discharge capacitors | Discharge before resistance test | Stored charge damages meter |
-| Probing live circuit with damaged leads | Inspect leads before use | Cracks = shock hazard |
-| Leaving meter on current mode when done | Return to voltage mode | Prevents accidental shorts next use |
+- Measuring battery with current setting:
+  ✓ Right: Measure voltage with V⎓
+  Why: Current measurement shorts battery
+- Red probe in V/Ω jack when measuring amps:
+  ✓ Right: Move to A jack
+  Why: Wrong jack = wrong measurement
+- Meter set to DC, measuring AC:
+  ✓ Right: Set to AC (V~)
+  Why: DC setting on AC gives false reading
+- Touching probe tips with fingers:
+  ✓ Right: Don't touch tips during measurement
+  Why: Body resistance affects reading
+- Using auto-ranging on fast-changing signal:
+  ✓ Right: Manual range for stable reading
+  Why: Auto-ranging hunts, display jumps
+- Assuming "0.00" means zero:
+  ✓ Right: Check range/units
+  Why: May be 0.00V on 200V scale
+- Forgetting to discharge capacitors:
+  ✓ Right: Discharge before resistance test
+  Why: Stored charge damages meter
+- Probing live circuit with damaged leads:
+  ✓ Right: Inspect leads before use
+  Why: Cracks = shock hazard
+- Leaving meter on current mode when done:
+  ✓ Right: Return to voltage mode
+  Why: Prevents accidental shorts next use
 
 ## Tools & Equipment
 
@@ -669,24 +701,18 @@ The multimeter is the fundamental diagnostic tool for electrical and electronics
 ## QR-Specs
 
 **Typical DMM Accuracy:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Function | Accuracy | Resolution |
-|----------|----------|------------|
-| DC voltage | ±0.5% | 0.1mV (200mV range) |
-| AC voltage | ±1.0% | 0.1V (200V range) |
-| DC current | ±1.5% | 0.01mA (200mA range) |
-| AC current | ±2.0% | 0.01A (10A range) |
-| Resistance | ±0.8% | 0.1Ω (200Ω range) |
+- DC voltage: ±0.5% / 0.1mV (200mV range)
+- AC voltage: ±1.0% / 0.1V (200V range)
+- DC current: ±1.5% / 0.01mA (200mA range)
+- AC current: ±2.0% / 0.01A (10A range)
+- Resistance: ±0.8% / 0.1Ω (200Ω range)
 
 **Measurement Ranges:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Function | Typical Ranges | Notes |
-|----------|----------------|-------|
-| DC voltage | 200mV to 1000V | Auto-ranging or manual |
-| AC voltage | 200V to 750V | True RMS preferred |
-| DC current | 200µA to 10A | Separate mA and A inputs |
-| AC current | 200mA to 10A | 10A unfused on many meters |
-| Resistance | 200Ω to 20MΩ | 200Ω range for low resistance |
+- DC voltage: 200mV to 1000V / Auto-ranging or manual
+- AC voltage: 200V to 750V / True RMS preferred
+- DC current: 200µA to 10A / Separate mA and A inputs
+- AC current: 200mA to 10A / 10A unfused on many meters
+- Resistance: 200Ω to 20MΩ / 200Ω range for low resistance
 
 ---
 

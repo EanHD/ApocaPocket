@@ -228,7 +228,6 @@ In survival scenarios:
 ```
 △ = Landmark (mountain, hill, structure)
 ~ = Water (stream, river, lake)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
 ||||| = Forest/vegetation
 ::::: = Open ground/field
 X = Danger/hazard

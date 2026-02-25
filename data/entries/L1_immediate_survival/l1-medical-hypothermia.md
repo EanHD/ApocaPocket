@@ -41,12 +41,13 @@ Hypothermia occurs when core body temperature drops below 95°F (35°C). Without
 
 **Hypothermia stages:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stage | Core Temp | Signs | Mental Status | Shivering |
-|-------|-----------|-------|---------------|-----------|
-| **Mild** | 90-95°F (32-35°C) | Cold skin, shivering, pale | Alert, confused | Strong |
-| **Moderate** | 82-90°F (28-32°C) | Weak pulse, slow breathing | Drowsy, irrational | Weak/stops |
-| **Severe** | <82°F (<28°C) | Weak/absent pulse, rigid | Unconscious | None |
+- Mild: 90-95°F (32-35°C) / Cold skin, shivering, pale
+- Moderate:
+  Core Temp: 82-90°F (28-32°C)
+  Signs: Weak pulse, slow breathing
+  Mental Status: Drowsy, irrational
+  Shivering: Weak/stops
+- Severe: <82°F (<28°C) / Weak/absent pulse, rigid
 
 ## Recognition Signs
 

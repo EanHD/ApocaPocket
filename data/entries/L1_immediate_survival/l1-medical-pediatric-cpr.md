@@ -34,12 +34,18 @@ sources:
 
 ## Age Groups
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Category | Age Range | CPR Technique | Key Difference |
-|----------|-----------|---------------|----------------|
-| **Infant** | <1 year (0-12 months) | 2 fingers, 1.5 inch depth, cover mouth+nose | Smallest, most fragile |
-| **Child** | 1 year to puberty (~8-12 years) | 1-2 hands, 2 inch depth, mouth-to-mouth | Transitional technique |
-| **Adult** | Puberty onset and older | 2 hands, 2-2.4 inch depth, full force | Standard CPR |
+- Infant:
+  Age Range: <1 year (0-12 months)
+  CPR Technique: 2 fingers, 1.5 inch depth, cover mouth+nose
+  Key Difference: Smallest, most fragile
+- Child:
+  Age Range: 1 year to puberty (~8-12 years)
+  CPR Technique: 1-2 hands, 2 inch depth, mouth-to-mouth
+  Key Difference: Transitional technique
+- Adult:
+  Age Range: Puberty onset and older
+  CPR Technique: 2 hands, 2-2.4 inch depth, full force
+  Key Difference: Standard CPR
 
 **Puberty signs:** Breast development (females), armpit hair (males), voice change (males). When in doubt, use child technique (safer to under-compress than over-compress).
 
@@ -229,20 +235,38 @@ sources:
 
 ## CPR Age Comparison
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Factor | Infant (<1 year) | Child (1-puberty) | Adult (puberty+) |
-|--------|------------------|-------------------|------------------|
-| **Hand Position** | 2 fingers below nipple line | 1-2 hands on center chest | 2 hands on center chest |
-| **Compression Depth** | 1.5 inches (4 cm) | 2 inches (5 cm) | 2-2.4 inches (5-6 cm) |
-| **Compression Rate** | 100-120/min | 100-120/min | 100-120/min |
-| **Single Rescuer Ratio** | 30:2 | 30:2 | 30:2 |
-| **Two Rescuer Ratio** | 15:2 | 15:2 | 30:2 |
-| **Breath Delivery** | Cover mouth + nose | Pinch nose, seal mouth | Pinch nose, seal mouth |
-| **Pulse Check Location** | Brachial (upper arm) | Carotid (neck) | Carotid (neck) |
-| **Airway Opening** | Neutral head position | Head tilt (moderate) | Head tilt (pronounced) |
-| **Call 911 Timing (alone)** | After 2 min CPR | After 2 min CPR (if <8y) | Immediately |
-| **Primary Cause** | Respiratory failure | Respiratory or trauma | Cardiac (heart attack) |
-| **Survival Rate** | 70-90% (respiratory only) | 60-80% (respiratory only) | 10-30% |
+- Hand Position:
+  Infant (<1 year): 2 fingers below nipple line
+  Child (1-puberty): 1-2 hands on center chest
+  Adult (puberty+): 2 hands on center chest
+- Compression Depth: 1.5 inches (4 cm) / 2 inches (5 cm)
+- Compression Rate: 100-120/min / 100-120/min
+- Single Rescuer Ratio: 30:2 / 30:2
+- Two Rescuer Ratio: 15:2 / 15:2
+- Breath Delivery:
+  Infant (<1 year): Cover mouth + nose
+  Child (1-puberty): Pinch nose, seal mouth
+  Adult (puberty+): Pinch nose, seal mouth
+- Pulse Check Location:
+  Infant (<1 year): Brachial (upper arm)
+  Child (1-puberty): Carotid (neck)
+  Adult (puberty+): Carotid (neck)
+- Airway Opening:
+  Infant (<1 year): Neutral head position
+  Child (1-puberty): Head tilt (moderate)
+  Adult (puberty+): Head tilt (pronounced)
+- Call 911 Timing (alone):
+  Infant (<1 year): After 2 min CPR
+  Child (1-puberty): After 2 min CPR (if <8y)
+  Adult (puberty+): Immediately
+- Primary Cause:
+  Infant (<1 year): Respiratory failure
+  Child (1-puberty): Respiratory or trauma
+  Adult (puberty+): Cardiac (heart attack)
+- Survival Rate:
+  Infant (<1 year): 70-90% (respiratory only)
+  Child (1-puberty): 60-80% (respiratory only)
+  Adult (puberty+): 10-30%
 
 ---
 
@@ -455,25 +479,39 @@ sources:
 
 ### Infant CPR Mistakes
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| ❌ Mistake | Why It's Dangerous | ✓ Correct |
-|-----------|-------------------|----------|
-| Using heel of hand | Crushes chest, liver injury | 2 fingers only |
-| Compressing too deep (>1.5 inches) | Rib fractures, organ damage | 1.5 inches maximum |
-| Head tilted too far back | Blocks infant airway | Neutral position (sniffing position) |
-| Covering only mouth | Air leaks from nose | Cover mouth AND nose |
-| Leaving infant on soft surface | Compressions ineffective (surface absorbs force) | Hard, flat surface |
+- Using heel of hand:
+  Why It's Dangerous: Crushes chest, liver injury
+  ✓ Correct: 2 fingers only
+- Compressing too deep (>1.5 inches):
+  Why It's Dangerous: Rib fractures, organ damage
+  ✓ Correct: 1.5 inches maximum
+- Head tilted too far back:
+  Why It's Dangerous: Blocks infant airway
+  ✓ Correct: Neutral position (sniffing position)
+- Covering only mouth:
+  Why It's Dangerous: Air leaks from nose
+  ✓ Correct: Cover mouth AND nose
+- Leaving infant on soft surface:
+  Why It's Dangerous: Compressions ineffective (surface absorbs force)
+  ✓ Correct: Hard, flat surface
 
 ### Child CPR Mistakes
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| ❌ Mistake | Why It's Dangerous | ✓ Correct |
-|-----------|-------------------|----------|
-| Using 2 fingers (infant technique) | Insufficient compression depth | 1-2 hands (depends on size) |
-| Compressing too deep (>2 inches) | Rib fractures | 2 inches (1/3 chest depth) |
-| Hands too low (on abdomen) | Liver injury, ineffective compressions | Lower half of breastbone, between nipples |
-| Bent arms | Fatigue quickly, inconsistent depth | Straight arms, shoulders over hands |
-| Not allowing full recoil | Prevents heart refill, ineffective | Lift hands slightly between compressions |
+- Using 2 fingers (infant technique):
+  Why It's Dangerous: Insufficient compression depth
+  ✓ Correct: 1-2 hands (depends on size)
+- Compressing too deep (>2 inches):
+  Why It's Dangerous: Rib fractures
+  ✓ Correct: 2 inches (1/3 chest depth)
+- Hands too low (on abdomen):
+  Why It's Dangerous: Liver injury, ineffective compressions
+  ✓ Correct: Lower half of breastbone, between nipples
+- Bent arms:
+  Why It's Dangerous: Fatigue quickly, inconsistent depth
+  ✓ Correct: Straight arms, shoulders over hands
+- Not allowing full recoil:
+  Why It's Dangerous: Prevents heart refill, ineffective
+  ✓ Correct: Lift hands slightly between compressions
 
 ### Universal Mistakes (All Ages)
 

@@ -282,15 +282,24 @@ Pottery is one of humanity's oldest technologies (10,000+ years) and a **civiliz
 
 ## Common Errors
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Cracks during drying | Too fast, uneven thickness | Dry slowly under plastic, even walls |
-| Explosions in kiln | Trapped air or moisture | Wedge thoroughly, bone-dry before firing |
-| Warping | Uneven heating | Stack evenly, gradual temperature rise |
-| Glaze doesn't melt | Temperature too low | Fire hotter, adjust glaze formula |
-| Glaze runs off | Too thick, too high temp | Thinner application, lower temp |
-| Pottery absorbs water | Under-fired | Fire to higher temperature |
+- Cracks during drying:
+  Cause: Too fast, uneven thickness
+  Solution: Dry slowly under plastic, even walls
+- Explosions in kiln:
+  Cause: Trapped air or moisture
+  Solution: Wedge thoroughly, bone-dry before firing
+- Warping:
+  Cause: Uneven heating
+  Solution: Stack evenly, gradual temperature rise
+- Glaze doesn't melt:
+  Cause: Temperature too low
+  Solution: Fire hotter, adjust glaze formula
+- Glaze runs off:
+  Cause: Too thick, too high temp
+  Solution: Thinner application, lower temp
+- Pottery absorbs water:
+  Cause: Under-fired
+  Solution: Fire to higher temperature
 
 ---
 

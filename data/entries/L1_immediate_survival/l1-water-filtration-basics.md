@@ -58,23 +58,19 @@ Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria thro
 
 ## Filter Effectiveness
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Pore Size | Removes | Typical Use |
-|-----------|---------|-------------|
-| 1-5 micron | Sediment, some protozoa | Pre-filter only |
-| 0.2-1 micron | Sediment, protozoa, bacteria | Most field filters |
-| 0.02-0.1 micron | + Viruses | Advanced/hollow fiber |
-| <0.01 micron | All pathogens | Reverse osmosis |
+- 1-5 micron: Sediment, some protozoa / Pre-filter only
+- 0.2-1 micron:
+  Removes: Sediment, protozoa, bacteria
+  Typical Use: Most field filters
+- 0.02-0.1 micron: + Viruses / Advanced/hollow fiber
+- <0.01 micron: All pathogens / Reverse osmosis
 
 ## Commercial Filters
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Pore Size | Weight | Lifespan | Cost | Best For |
-|------|-----------|--------|----------|------|----------|
-| Hollow Fiber (Sawyer) | 0.1μ | 2 oz | 100,000 gal | $20-40 | Solo/light |
-| Ceramic (Katadyn) | 0.2μ | 8-12 oz | 13,000 gal | $60-90 | Cleanable |
-| Pump (MSR) | 0.1μ | 16-20 oz | 2,000 gal | $90-150 | Groups |
-| Gravity (Platypus) | 0.2μ | 10 oz | 1,500 gal | $120 | Camp |
+- Hollow Fiber (Sawyer): 0.1μ / 2 oz
+- Ceramic (Katadyn): 0.2μ / 8-12 oz
+- Pump (MSR): 0.1μ / 16-20 oz
+- Gravity (Platypus): 0.2μ / 10 oz
 
 ## Sand Filter
 

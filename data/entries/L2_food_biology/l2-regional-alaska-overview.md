@@ -12,25 +12,21 @@
 ### Temperature Ranges (Regional Variation)
 
 #### Interior (Fairbanks, Denali)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
-|--------|-------------|------------|-------------|------------|-------------|
-| Summer (Jun-Aug) | 65-75°F | 50-60°F | - | - | - |
-| Winter (Nov-Mar) | -10-10°F | -20 to -40°F | 40°F (Chinook) | -60°F | -80°F (Prospect Creek, 1971) |
+- Summer (Jun-Aug): 65-75°F / 50-60°F / - / - / -
+- Winter (Nov-Mar):
+  Summer High: -10-10°F
+  Summer Low: -20 to -40°F
+  Winter High: 40°F (Chinook)
+  Winter Low: -60°F
+  Extreme Low: -80°F (Prospect Creek, 1971)
 
 #### Arctic (North Slope, Barrow/Utqiaġvik)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
-|--------|-------------|------------|-------------|------------|-------------|
-| Summer (Jun-Aug) | 40-50°F | 30-40°F | - | - | - |
-| Winter (Nov-Mar) | -10 to -30°F | -20 to -40°F | - | -50°F | -70°F |
+- Summer (Jun-Aug): 40-50°F / 30-40°F / - / - / -
+- Winter (Nov-Mar): -10 to -30°F / -20 to -40°F / - / -50°F / -70°F
 
 #### Southeast (Juneau, Sitka - Coastal Rainforest)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
-|--------|-------------|------------|-------------|------------|-------------|
-| Summer (Jun-Aug) | 55-65°F | 45-55°F | - | - | - |
-| Winter (Nov-Mar) | 30-40°F | 20-30°F | - | -10°F | -25°F |
+- Summer (Jun-Aug): 55-65°F / 45-55°F / - / - / -
+- Winter (Nov-Mar): 30-40°F / 20-30°F / - / -10°F / -25°F
 
 **Characteristic:** EXTREME variation by region and season
 - **Interior:** Continental extremes (-80°F to +90°F range)
@@ -41,13 +37,13 @@
 
 ### Daylight Hours (Latitude Effects)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Location | Latitude | Summer Solstice (Jun 21) | Winter Solstice (Dec 21) |
-|----------|----------|--------------------------|--------------------------|
-| Ketchikan (SE) | 55°N | 17.5 hours | 6.5 hours |
-| Anchorage | 61°N | 19.5 hours | 5.5 hours |
-| Fairbanks | 65°N | 21.5 hours (civil twilight 24h) | 3.5 hours |
-| Barrow (Arctic) | 71°N | 24 hours (2+ months) | 0 hours (2+ months) |
+- Ketchikan (SE): 55°N / 17.5 hours / 6.5 hours
+- Anchorage: 61°N / 19.5 hours / 5.5 hours
+- Fairbanks: 65°N / 21.5 hours (civil twilight 24h) / 3.5 hours
+- Barrow (Arctic):
+  Latitude: 71°N
+  24 hours (2+ months)
+  0 hours (2+ months)
 
 **Arctic Circle (66.5°N):**
 - **Midnight sun:** June 21 (24 hours daylight)
@@ -132,19 +128,76 @@
 
 ### Edible Plants (by region & season)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | Region | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
-|-------|--------|--------|------------|-------------|-------------|-----------|
-| Blueberry (wild) | All | Jul-Aug | Berries | 250-300 | Fresh, dry, jam | l1-wild-berries.md |
-| Salmonberry | Coastal | Jul-Aug | Berries | 200-250 | Fresh, dry | l1-wild-berries.md |
-| Crowberry | Tundra | Aug-Sep | Berries | 200-250 | Fresh, dry (slightly bitter) | l2-arctic-plants.md |
-| Lingonberry (lowbush cranberry) | All | Aug-Sep | Berries | 200-250 | Fresh, dry, tart | l1-wild-berries.md |
-| Wild potato (Eskimo potato) | Tundra | Jul-Sep | **ROOTS ONLY** | 400-500 | Dig roots, cook | l2-wild-potato.md |
-| Willow inner bark | All (near water) | Year-round | Cambium | 300-400 | Peel outer bark, scrape inner | l1-survival-trees.md |
-| Spruce tips (new growth) | Taiga | May-Jun | New needles | 100-150 | Vitamin C, tea or chew | l2-conifer-foods.md |
-| Fireweed | All | Jun-Aug | Young shoots, flowers | 100-150 | Cook shoots, tea | l2-arctic-plants.md |
-| Dandelion | Below Arctic | Jun-Aug | Leaves, roots | 200-300 | Leaves raw/cooked | l1-common-weeds.md |
-| Rose hips | All | Aug-Oct | Fruit | 150-200 | High Vitamin C, tea | l1-wild-fruits.md |
+- Blueberry (wild):
+  Region: All
+  Season: Jul-Aug
+  Parts Used: Berries
+  Calories/lb: 250-300
+  Preparation: Fresh, dry, jam
+  Cross-ref: l1-wild-berries.md
+- Salmonberry:
+  Region: Coastal
+  Season: Jul-Aug
+  Parts Used: Berries
+  Calories/lb: 200-250
+  Preparation: Fresh, dry
+  Cross-ref: l1-wild-berries.md
+- Crowberry:
+  Region: Tundra
+  Season: Aug-Sep
+  Parts Used: Berries
+  Calories/lb: 200-250
+  Preparation: Fresh, dry (slightly bitter)
+  Cross-ref: l2-arctic-plants.md
+- Lingonberry (lowbush cranberry):
+  Region: All
+  Season: Aug-Sep
+  Parts Used: Berries
+  Calories/lb: 200-250
+  Preparation: Fresh, dry, tart
+  Cross-ref: l1-wild-berries.md
+- Wild potato (Eskimo potato):
+  Region: Tundra
+  Season: Jul-Sep
+  Parts Used: ROOTS ONLY
+  Calories/lb: 400-500
+  Preparation: Dig roots, cook
+  Cross-ref: l2-wild-potato.md
+- Willow inner bark:
+  Region: All (near water)
+  Season: Year-round
+  Parts Used: Cambium
+  Calories/lb: 300-400
+  Preparation: Peel outer bark, scrape inner
+  Cross-ref: l1-survival-trees.md
+- Spruce tips (new growth):
+  Region: Taiga
+  Season: May-Jun
+  Parts Used: New needles
+  Calories/lb: 100-150
+  Preparation: Vitamin C, tea or chew
+  Cross-ref: l2-conifer-foods.md
+- Fireweed:
+  Region: All
+  Season: Jun-Aug
+  Parts Used: Young shoots, flowers
+  Calories/lb: 100-150
+  Preparation: Cook shoots, tea
+  Cross-ref: l2-arctic-plants.md
+- Dandelion:
+  Region: Below Arctic
+  Season: Jun-Aug
+  Parts Used: Leaves, roots
+  Calories/lb: 200-300
+  Preparation: Leaves raw/cooked
+  Cross-ref: l1-common-weeds.md
+- Rose hips:
+  Region: All
+  Season: Aug-Oct
+  Parts Used: Fruit
+  Calories/lb: 150-200
+  Preparation: High Vitamin C, tea
+  Cross-ref: l1-wild-fruits.md
 
 **⚠️ CRITICAL WARNING - Wild Potato Seeds (Hedysarum alpinum):**
 - **SEEDS ARE DEADLY** (contain ODAP toxin - neurotoxin)
@@ -215,14 +268,36 @@
 
 ### Large Game
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
-|--------|--------|--------|---------|---------------|------------------|
-| Moose | 800-1600 lbs | Sep-Oct | Taiga, willow thickets, wetlands | Largest game, one moose = 6+ months meat | 400-800 |
-| Caribou | 300-600 lbs | Aug-Sep | Tundra, taiga (migrating herds) | Migrating (must intercept), excellent meat | 150-300 |
-| Brown/Grizzly bear | 400-1000 lbs | Sep-Oct | All regions | DANGEROUS, fat harvest (fall), excellent meat | 200-500 |
-| Black bear | 150-400 lbs | Sep-Oct | Taiga, coastal | Less common than brown bears | 75-200 |
-| Dall sheep | 150-200 lbs | Aug-Sep (limited) | Mountain ranges | Challenging hunt (high altitude) | 60-80 |
+- Moose:
+  Weight: 800-1600 lbs
+  Season: Sep-Oct
+  Habitat: Taiga, willow thickets, wetlands
+  Hunting Notes: Largest game, one moose = 6+ months meat
+  Yield (lbs meat): 400-800
+- Caribou:
+  Weight: 300-600 lbs
+  Season: Aug-Sep
+  Habitat: Tundra, taiga (migrating herds)
+  Hunting Notes: Migrating (must intercept), excellent meat
+  Yield (lbs meat): 150-300
+- Brown/Grizzly bear:
+  Weight: 400-1000 lbs
+  Season: Sep-Oct
+  Habitat: All regions
+  Hunting Notes: DANGEROUS, fat harvest (fall), excellent meat
+  Yield (lbs meat): 200-500
+- Black bear:
+  Weight: 150-400 lbs
+  Season: Sep-Oct
+  Habitat: Taiga, coastal
+  Hunting Notes: Less common than brown bears
+  Yield (lbs meat): 75-200
+- Dall sheep:
+  Weight: 150-200 lbs
+  Season: Aug-Sep (limited)
+  Habitat: Mountain ranges
+  Hunting Notes: Challenging hunt (high altitude)
+  Yield (lbs meat): 60-80
 
 **Moose:** PRIMARY GAME
 - One moose = 500-800 lbs meat (feeds family for 6-12 months)
@@ -241,14 +316,31 @@
 ### Fish (CRITICAL Alaska Resource)
 
 **Salmon Runs (June-September) - PRIMARY FOOD SOURCE:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Size | Peak Run | Habitat | Notes |
-|---------|------|----------|---------|-------|
-| King (Chinook) | 10-50 lbs | Jun-Jul | Large rivers | Biggest, fattiest, best eating |
-| Sockeye (Red) | 5-8 lbs | Jul-Aug | Rivers connecting lakes | Best for smoking/drying |
-| Coho (Silver) | 8-12 lbs | Aug-Sep | Coastal streams | Good fat content |
-| Pink (Humpy) | 3-5 lbs | Jul-Aug (odd years stronger) | Coastal, small streams | Lean, best fresh |
-| Chum (Dog) | 8-15 lbs | Jul-Sep | Coastal, rivers | Leanest, traditional dog food, good dried |
+- King (Chinook):
+  Size: 10-50 lbs
+  Peak Run: Jun-Jul
+  Habitat: Large rivers
+  Notes: Biggest, fattiest, best eating
+- Sockeye (Red):
+  Size: 5-8 lbs
+  Peak Run: Jul-Aug
+  Habitat: Rivers connecting lakes
+  Notes: Best for smoking/drying
+- Coho (Silver):
+  Size: 8-12 lbs
+  Peak Run: Aug-Sep
+  Habitat: Coastal streams
+  Notes: Good fat content
+- Pink (Humpy):
+  Size: 3-5 lbs
+  Peak Run: Jul-Aug (odd years stronger)
+  Habitat: Coastal, small streams
+  Notes: Lean, best fresh
+- Chum (Dog):
+  Size: 8-15 lbs
+  Peak Run: Jul-Sep
+  Habitat: Coastal, rivers
+  Notes: Leanest, traditional dog food, good dried
 
 **Salmon Survival Strategy:**
 - **ONE WEEK of fishing = entire winter's protein** (if preserved correctly)
@@ -474,14 +566,31 @@ Design: Log cabin, but focused on WATER RESISTANCE
 
 ### Firewood (Taiga Only - Tundra has NO TREES)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Wood Type | Region | BTU/cord | Burn Rate | Availability | Notes |
-|-----------|--------|----------|-----------|--------------|-------|
-| White spruce | Interior | 15-17M | Fast | Very common | Taiga staple, resinous |
-| Black spruce | Interior | 14-16M | Fast | Very common (muskeg) | Small, crooked, harder to harvest |
-| Birch (paper, Alaska) | Interior | 20-24M | Moderate | Common | Best heating wood, but rots fast if dead |
-| Alder | Coastal, rivers | 17-19M | Moderate | Common near water | Good coals, smoky |
-| Cottonwood | Rivers | 13-15M | Fast | Common | Easy to split, low BTU |
+- White spruce:
+  Region: Interior
+  BTU/cord: 15-17M
+  Burn Rate: Fast
+  Availability: Very common
+  Notes: Taiga staple, resinous
+- Black spruce:
+  Region: Interior
+  BTU/cord: 14-16M
+  Burn Rate: Fast
+  Availability: Very common (muskeg)
+  Notes: Small, crooked, harder to harvest
+- Birch (paper, Alaska):
+  Region: Interior
+  BTU/cord: 20-24M
+  Burn Rate: Moderate
+  Availability: Common
+  Notes: Best heating wood, but rots fast if dead
+- Alder:
+  Region: Coastal, rivers
+  BTU/cord: 17-19M
+  Burn Rate: Moderate
+  Availability: Common near water
+  Notes: Good coals, smoky
+- Cottonwood: Rivers / 13-15M / Fast / Common / Easy to split, low BTU
 
 **Best:** Birch (highest BTU in Alaska)  
 **Reality:** Spruce (most abundant, survives to treeline)

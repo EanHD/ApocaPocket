@@ -78,19 +78,18 @@ Charge controllers regulate power from solar panels to batteries, preventing ove
 
 ## Detailed Comp Table
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | PWM | MPPT |
-|---------|-----|------|
-| **Efficiency** | 75-80% | 94-98% |
-| **Cost (30A)** | $30-100 | $150-500 |
-| **Panel voltage** | Must match battery | Any (up to controller max) |
-| **Cold weather gain** | None | +10-25% (high Voc) |
-| **Wire gauge** | Larger (high current) | Smaller (high voltage) |
-| **Series strings** | Not practical | Yes (preferred) |
-| **Parallel strings** | Yes (required) | Yes (less common) |
-| **Complexity** | Low | Medium-high |
-| **Lifespan** | 10-15 years | 5-10 years (electronics) |
-| **Fan noise** | None | Some (high-power models) |
+- Efficiency: 75-80% / 94-98%
+- Cost (30A): $30-100 / $150-500
+- Panel voltage:
+  PWM: Must match battery
+  MPPT: Any (up to controller max)
+- Cold weather gain: None / +10-25% (high Voc)
+- Wire gauge: Larger (high current) / Smaller (high voltage)
+- Series strings: Not practical / Yes (preferred)
+- Parallel strings: Yes (required) / Yes (less common)
+- Complexity: Low / Medium-high
+- Lifespan: 10-15 years / 5-10 years (electronics)
+- Fan noise: None / Some (high-power models)
 
 ---
 
@@ -172,13 +171,10 @@ String Voc = 53.1V × 3 = 159.3V
 
 **MPPT controllers** (common ratings):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Array Size | 12V Battery | 24V Battery | 48V Battery | Input Voltage |
-|------------|-------------|-------------|-------------|---------------|
-| 400-600W | 50A | 30A | 20A | 100V |
-| 700-1000W | 80A | 40A | 30A | 100-150V |
-| 1200-1600W | 100A | 60A | 40A | 150V |
-| 2000-3000W | - | 80-100A | 60A | 150-250V |
+- 400-600W: 50A / 30A / 20A / 100V
+- 700-1000W: 80A / 40A / 30A / 100-150V
+- 1200-1600W: 100A / 60A / 40A / 150V
+- 2000-3000W: - / 80-100A / 60A / 150-250V
 
 **PWM controllers** (simpler sizing):
 
@@ -206,13 +202,14 @@ String Voc = 53.1V × 3 = 159.3V
 
 **12V nominal system** (multiply by 2 for 24V, by 4 for 48V):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Battery Type | Bulk/Absorption | Float | Equalize | Temp Comp |
-|--------------|-----------------|-------|----------|-----------|
-| **Flooded Lead-Acid** | 14.4-14.8V | 13.2-13.6V | 15.0-16.0V | -0.03V/°C |
-| **AGM** | 14.4-14.7V | 13.3-13.8V | None | -0.03V/°C |
-| **Gel** | 14.1-14.4V | 13.6-13.8V | None | -0.03V/°C |
-| **LiFePO4** | 14.2-14.6V | 13.6-14.0V | None | None |
+- Flooded Lead-Acid:
+  Bulk/Absorption: 14.4-14.8V
+  Float: 13.2-13.6V
+  Equalize: 15.0-16.0V
+  Temp Comp: -0.03V/°C
+- AGM: 14.4-14.7V / 13.3-13.8V / None / -0.03V/°C
+- Gel: 14.1-14.4V / 13.6-13.8V / None / -0.03V/°C
+- LiFePO4: 14.2-14.6V / 13.6-14.0V / None / None
 
 ⚠️ **Critical**: Wrong voltage settings = shortened battery life or damage!
 
@@ -298,13 +295,10 @@ Adjusted voltage: 14.4V + 0.6V = 15.0V
 
 **Controller to battery** (low voltage, very high current):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Power Output | 12V | 24V | 48V |
-|--------------|-----|-----|-----|
-| 500W | 6 AWG | 10 AWG | 12 AWG |
-| 1000W | 2 AWG | 6 AWG | 10 AWG |
-| 1500W | 1/0 AWG | 4 AWG | 8 AWG |
-| 2000W | 2/0 AWG | 2 AWG | 6 AWG |
+- 500W: 6 AWG / 10 AWG / 12 AWG
+- 1000W: 2 AWG / 6 AWG / 10 AWG
+- 1500W: 1/0 AWG / 4 AWG / 8 AWG
+- 2000W: 2/0 AWG / 2 AWG / 6 AWG
 
 Based on 3% voltage drop, 5 ft run. Adjust for actual distance.
 

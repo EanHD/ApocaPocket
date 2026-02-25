@@ -503,18 +503,15 @@ sources:
 
 ### Time vs Risk vs Value
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Building Type | Time (min) | Risk Level | Avg Value (1-10) | Notes |
-|---------------|------------|------------|------------------|-------|
-| Convenience store | 15-30 | Medium | 8 | High food/water, may be looted |
-| Pharmacy | 20-40 | Medium | 9 | Antibiotics = extreme value, often guarded |
-| Hardware store | 30-60 | Low | 7 | Tools heavy, but long-term value |
-| Gas station | 10-20 | Low | 6 | Limited food, maps, lighters |
-| Single-family home | 20-40 | Low | 6 | Varied supplies, often picked over |
-| Office building | 30-60 | Low | 5 | Vending machines, first aid kits |
-| Restaurant | 15-30 | Medium | 4 | Perishable food (unless canned goods) |
-| School | 40-90 | Medium | 6 | Cafeteria food, large building = more risk |
-| Warehouse | 60+ | HIGH | Varies | Collapse risk, avoid unless desperate |
+- Convenience store: 15-30 / Medium
+- Pharmacy: 20-40 / Medium
+- Hardware store: 30-60 / Low
+- Gas station: 10-20 / Low
+- Single-family home: 20-40 / Low
+- Office building: 30-60 / Low
+- Restaurant: 15-30 / Medium
+- School: 40-90 / Medium
+- Warehouse: 60+ / HIGH
 
 **Optimal strategy:** 3-4 small buildings (convenience store, gas station, home) = less risk than 1 large building (school, warehouse).
 

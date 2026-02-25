@@ -148,17 +148,14 @@ Battery banks store solar energy for use when the sun isn't shining. Proper batt
 
 ## Battery Type Sel
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Factor | Flooded Lead-Acid | AGM | Gel | LiFePO4 |
-|--------|------------------|-----|-----|---------|
-| **Initial cost** | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ |
-| **Lifespan** | ★★★☆☆ | ★★★☆☆ | ★★★★☆ | ★★★★★ |
-| **Maintenance** | ★☆☆☆☆ | ★★★★★ | ★★★★★ | ★★★★★ |
-| **Depth discharge** | ★★★☆☆ | ★★★☆☆ | ★★★★☆ | ★★★★★ |
-| **Efficiency** | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★★★ |
-| **Weight** | ★☆☆☆☆ | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
-| **Cold tolerance** | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
-| **Safety** | ★★☆☆☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ |
+- Initial cost: ★★★★★ / ★★★★☆ / ★★★☆☆ / ★★☆☆☆
+- Lifespan: ★★★☆☆ / ★★★☆☆ / ★★★★☆ / ★★★★★
+- Maintenance: ★☆☆☆☆ / ★★★★★ / ★★★★★ / ★★★★★
+- Depth discharge: ★★★☆☆ / ★★★☆☆ / ★★★★☆ / ★★★★★
+- Efficiency: ★★★☆☆ / ★★★★☆ / ★★★★☆ / ★★★★★
+- Weight: ★☆☆☆☆ / ★★☆☆☆ / ★★☆☆☆ / ★★★★★
+- Cold tolerance: ★★★☆☆ / ★★★★☆ / ★★★★☆ / ★★☆☆☆
+- Safety: ★★☆☆☆ / ★★★★☆ / ★★★★☆ / ★★★★☆
 
 ---
 
@@ -370,13 +367,10 @@ String 2 ──┘   parallel
 
 **Cable sizing table** (12V system, 3% voltage drop):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Current | 1 ft | 2 ft | 3 ft | 5 ft |
-|---------|------|------|------|------|
-| 50A | 6 AWG | 4 AWG | 2 AWG | 1 AWG |
-| 100A | 2 AWG | 1 AWG | 1/0 AWG | 3/0 AWG |
-| 200A | 1/0 AWG | 3/0 AWG | 4/0 AWG | - |
-| 300A | 3/0 AWG | 4/0 AWG | - | - |
+- 50A: 6 AWG / 4 AWG / 2 AWG / 1 AWG
+- 100A: 2 AWG / 1 AWG / 1/0 AWG / 3/0 AWG
+- 200A: 1/0 AWG / 3/0 AWG / 4/0 AWG / -
+- 300A: 3/0 AWG / 4/0 AWG / - / -
 
 **Recommended**: Use welding cable (flexible, high strand count) for easy routing
 
@@ -443,14 +437,11 @@ Cell 4 (3.2V) ─┴─ Balance wire 4 ──┘
 
 **Lead-acid capacity vs temperature**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Temperature | Capacity | Charge Voltage Adjustment |
-|-------------|----------|---------------------------|
-| -20°C (-4°F) | 50% | +0.005V/°C (higher) |
-| 0°C (32°F) | 80% | +0.003V/°C |
-| 25°C (77°F) | 100% | 0V (baseline) |
-| 40°C (104°F) | 102% | -0.003V/°C (lower) |
-| 60°C (140°F) | 105% | -0.005V/°C |
+- -20°C (-4°F): 50% / +0.005V/°C (higher)
+- 0°C (32°F): 80% / +0.003V/°C
+- 25°C (77°F): 100% / 0V (baseline)
+- 40°C (104°F): 102% / -0.003V/°C (lower)
+- 60°C (140°F): 105% / -0.005V/°C
 
 **Key points**:
 - Freezing temps drastically reduce capacity
@@ -699,15 +690,12 @@ See **l3-tech-battery-maintenance** for detailed procedures.
 
 ## Battery Bank Sizing
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Daily Load | System Voltage | Days Autonomy | Lead-Acid (50% DoD) | LiFePO4 (80% DoD) |
-|------------|----------------|---------------|---------------------|-------------------|
-| 1 kWh | 12V | 1 | 167 Ah | 104 Ah |
-| 1 kWh | 24V | 1 | 83 Ah | 52 Ah |
-| 3 kWh | 12V | 2 | 1000 Ah | 625 Ah |
-| 3 kWh | 24V | 2 | 500 Ah | 313 Ah |
-| 5 kWh | 24V | 3 | 1250 Ah | 781 Ah |
-| 5 kWh | 48V | 3 | 625 Ah | 391 Ah |
+- 1 kWh: 12V / 1 / 167 Ah / 104 Ah
+- 1 kWh: 24V / 1 / 83 Ah / 52 Ah
+- 3 kWh: 12V / 2 / 1000 Ah / 625 Ah
+- 3 kWh: 24V / 2 / 500 Ah / 313 Ah
+- 5 kWh: 24V / 3 / 1250 Ah / 781 Ah
+- 5 kWh: 48V / 3 / 625 Ah / 391 Ah
 
 Values rounded for standard battery sizes
 

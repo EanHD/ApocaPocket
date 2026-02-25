@@ -336,13 +336,10 @@ Chronic medical conditions require ongoing management that becomes more complex 
 ### Avoiding Overexertion
 
 **Activity Modification:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Activity Level | Heart Rate Target | RPE (Rate of Perceived Exertion) |
-|----------------|-------------------|----------------------------------|
-| Rest | Baseline | 1-2 (very light) |
-| Light activity | <50% max HR | 3-4 (light) |
-| Moderate | 50-70% max HR | 5-6 (somewhat hard) |
-| Vigorous | >70% max HR | 7-9 (hard/very hard) - AVOID |
+- Rest: Baseline / 1-2 (very light)
+- Light activity: <50% max HR / 3-4 (light)
+- Moderate: 50-70% max HR / 5-6 (somewhat hard)
+- Vigorous: >70% max HR / 7-9 (hard/very hard) - AVOID
 
 **Max Heart Rate Estimate:** 220 - age
 - Example: 60 years old = 220 - 60 = 160 max HR

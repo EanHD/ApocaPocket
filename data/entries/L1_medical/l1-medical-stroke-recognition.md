@@ -98,15 +98,16 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 **Key differentiators:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Ischemic | Hemorrhagic |
-|---------|----------|-------------|
-| **Onset** | Gradual (minutes) | Sudden (<1 minute) |
-| **Headache** | Mild or absent | **Severe, sudden ("thunderclap")** |
-| **Vomiting** | Rare | Common |
-| **Neck stiffness** | Absent | Present (blood irritates meninges) |
-| **Altered consciousness** | Later | Early |
-| **Seizures** | Rare | 10-20% of cases |
+- Onset: Gradual (minutes) / Sudden (<1 minute)
+- Headache:
+  Ischemic: Mild or absent
+  Hemorrhagic: Severe, sudden ("thunderclap")
+- Vomiting: Rare / Common
+- Neck stiffness:
+  Ischemic: Absent
+  Hemorrhagic: Present (blood irritates meninges)
+- Altered consciousness: Later / Early
+- Seizures: Rare / 10-20% of cases
 
 ⚠️ **CRITICAL:** If sudden severe headache + vomiting + altered consciousness, assume hemorrhagic stroke. **DO NOT give aspirin.**
 
@@ -272,26 +273,28 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 ### Stroke vs Migraine with Aura
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Migraine | Stroke |
-|---------|----------|--------|
-| **Onset** | Gradual (5-20 min) | Sudden (<5 min) |
-| **Visual symptoms** | Zigzag lines, flashing lights | Vision loss, double vision |
-| **Headache** | Severe, throbbing (after aura) | Mild or absent (unless hemorrhagic) |
-| **History** | Previous migraines | No migraine history OR different than usual |
-| **Age** | Usually <50 | Usually >50 |
+- Onset: Gradual (5-20 min) / Sudden (<5 min)
+- Visual symptoms:
+  Migraine: Zigzag lines, flashing lights
+  Stroke: Vision loss, double vision
+- Headache:
+  Migraine: Severe, throbbing (after aura)
+  Stroke: Mild or absent (unless hemorrhagic)
+- History:
+  Migraine: Previous migraines
+  Stroke: No migraine history OR different than usual
+- Age: Usually <50 / Usually >50
 
 **⚠️ RULE:** If different than previous migraines OR first migraine after age 50, assume stroke.
 
 ### Stroke vs Bell's Palsy (Facial Paralysis)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Bell's Palsy | Stroke |
-|---------|--------------|--------|
-| **Forehead involvement** | YES (can't wrinkle forehead) | NO (can still wrinkle forehead) |
-| **Arm/leg weakness** | None | Present |
-| **Speech** | Normal | Slurred or wrong words |
-| **Eye closure** | Cannot close eye | Can close eye |
+- Forehead involvement:
+  Bell's Palsy: YES (can't wrinkle forehead)
+  Stroke: NO (can still wrinkle forehead)
+- Arm/leg weakness: None / Present
+- Speech: Normal / Slurred or wrong words
+- Eye closure: Cannot close eye / Can close eye
 
 **Key:** Bell's palsy affects ENTIRE face (forehead + lower face), stroke affects ONLY lower face (forehead spared)
 
@@ -301,13 +304,12 @@ Stroke is the #5 cause of death and #1 cause of long-term disability. **"Time is
 
 **"Time is brain":**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Time | Brain Cells Lost | Damage Equivalent |
-|------|------------------|-------------------|
-| **1 minute** | 1.9 million cells | 3.6 weeks of normal aging |
-| **1 hour** | 120 million cells | 3.6 years of aging |
-| **3 hours** | 360 million cells | 10.8 years of aging |
-| **6 hours** | 720 million cells | 21.6 years of aging |
+- 1 minute:
+  Brain Cells Lost: 1.9 million cells
+  Damage Equivalent: 3.6 weeks of normal aging
+- 1 hour: 120 million cells / 3.6 years of aging
+- 3 hours: 360 million cells / 10.8 years of aging
+- 6 hours: 720 million cells / 21.6 years of aging
 
 **Every 15-minute delay:**
 - 4% less likely to walk independently

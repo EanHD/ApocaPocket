@@ -71,12 +71,24 @@ This guide covers **three primary mesh technologies** for emergency local commun
 
 ## Mesh Tech Comp
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Technology | Range (per hop) | Bandwidth | Power | Use Case | Cost per Node |
-|------------|-----------------|-----------|-------|----------|--------------|
-| **Meshtastic (LoRa)** | 5-50 miles | 1-10 kbps | 0.1-0.5W | Long-range text, GPS tracking, low-bandwidth sensor data | $30-80 |
-| **Wi-Fi Mesh (OLSR/Batman)** | 100-500 meters | 1-50 Mbps | 5-15W | Voice/video calls, file sharing, web browsing, high-bandwidth applications | $30-200 |
-| **Bluetooth Mesh** | 10-100 meters | 1-100 kbps | 0.01-0.1W | Indoor sensor networks, smart home, short-range messaging | $5-30 |
+- Meshtastic (LoRa):
+  Range (per hop): 5-50 miles
+  Bandwidth: 1-10 kbps
+  Power: 0.1-0.5W
+  Use Case: Long-range text, GPS tracking, low-bandwidth sensor data
+  Cost per Node: $30-80
+- Wi-Fi Mesh (OLSR/Batman):
+  Range (per hop): 100-500 meters
+  Bandwidth: 1-50 Mbps
+  Power: 5-15W
+  Use Case: Voice/video calls, file sharing, web browsing, high-bandwidt
+  Cost per Node: $30-200
+- Bluetooth Mesh:
+  Range (per hop): 10-100 meters
+  Bandwidth: 1-100 kbps
+  Power: 0.01-0.1W
+  Use Case: Indoor sensor networks, smart home, short-range messaging
+  Cost per Node: $5-30
 
 **Selection Criteria**:
 - **Long-range, low-bandwidth** (text messages, GPS tracking across town/region): **Meshtastic**
@@ -329,14 +341,19 @@ This guide covers **three primary mesh technologies** for emergency local commun
 - **Use Case**: Community networks, neighborhood mesh, internet-sharing
 
 **Comparison**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | OLSR | B.A.T.M.A.N. |
-|---------|------|-------------|
-| **Layer** | Layer 3 (IP) | Layer 2 (Ethernet) |
-| **Route Discovery** | Proactive (periodic updates) | Reactive (on-demand) |
-| **Overhead** | Lower (MPR optimization) | Higher (floods packets) |
-| **Compatibility** | Requires OLSR on all nodes | Works with any Ethernet device |
-| **Best For** | Pure mesh (all nodes run OLSR) | Hybrid (mesh + standard clients) |
+- Layer: Layer 3 (IP) / Layer 2 (Ethernet)
+- Route Discovery:
+  OLSR: Proactive (periodic updates)
+  B.A.T.M.A.N.: Reactive (on-demand)
+- Overhead:
+  OLSR: Lower (MPR optimization)
+  B.A.T.M.A.N.: Higher (floods packets)
+- Compatibility:
+  OLSR: Requires OLSR on all nodes
+  B.A.T.M.A.N.: Works with any Ethernet device
+- Best For:
+  OLSR: Pure mesh (all nodes run OLSR)
+  B.A.T.M.A.N.: Hybrid (mesh + standard clients)
 
 **Recommendation**: **B.A.T.M.A.N.** for neighborhood mesh (easier integration with standard Wi-Fi clients), **OLSR** for tactical/mobile networks (lower latency, better for moving nodes).
 
@@ -715,12 +732,12 @@ Range (miles) ≈ 1.17 × √(height_feet)
 - **Disadvantages**: Higher cost ($50-200 per node), requires sunlight, larger installation
 
 **Power Requirements**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Technology | Power Draw | Battery Life (10000mAh) | Solar Panel Size |
-|------------|-----------|------------------------|------------------|
-| **Meshtastic** | 0.1-0.5W | 3-7 days | 5W panel + 5Ah battery |
-| **Wi-Fi Mesh** | 5-15W | 6-18 hours | 50W panel + 50Ah battery |
-| **Bluetooth Mesh** | 0.01-0.1W | 30-300 days | Coin cell (no solar needed) |
+- Meshtastic: 0.1-0.5W / 3-7 days / 5W panel + 5Ah battery
+- Wi-Fi Mesh: 5-15W / 6-18 hours / 50W panel + 50Ah battery
+- Bluetooth Mesh:
+  Power Draw: 0.01-0.1W
+  30-300 days
+  Solar Panel Size: Coin cell (no solar needed)
 
 **Recommended Setup** (Meshtastic router node):
 - **Solar Panel**: 10-20W, $15-30

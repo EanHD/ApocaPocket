@@ -313,14 +313,11 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-game-preservation-ala
 
 ## Eff Comp
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Task | Steel Knife | Stone Knife | Stone + No Knife |
-|------|-------------|-------------|------------------|
-| **Field Dressing** | 20-30 min | 40-60 min | 60-90 min |
-| **Skinning** | 20-30 min | 40-60 min | 60-90 min |
-| **Quartering** | 30-45 min | 60-90 min | 90-120 min |
-| **Butchering** | 60-90 min | 120-180 min | 180-240 min |
-| **TOTAL (Deer)** | 2.5-3 hours | 4-6 hours | 6-8 hours |
+- Field Dressing: 20-30 min / 40-60 min / 60-90 min
+- Skinning: 20-30 min / 40-60 min / 60-90 min
+- Quartering: 30-45 min / 60-90 min / 90-120 min
+- Butchering: 60-90 min / 120-180 min / 180-240 min
+- TOTAL (Deer): 2.5-3 hours / 4-6 hours / 6-8 hours
 
 **Takeaway**: Stone tools are 2-3x slower, but absolutely functional. You won't starve if you lose your knife.
 

@@ -56,37 +56,65 @@ Without will, resources and skills don't matter. People give up, make poor decis
 
 ### High Morale Signs
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Indicator | What to Look For | Measurement |
-|-----------|------------------|-------------|
-| **Laughter frequency** | Jokes, playfulness, humor | Times per day you hear genuine laughter |
-| **Voluntary participation** | People show up to meetings/events | Attendance rate >80% |
-| **Work quality** | Pride in work, attention to detail | Few careless errors, initiative shown |
-| **Self-care** | Personal hygiene, appearance | People bathe regularly, mend clothes |
-| **Future talk** | Conversations about plans, dreams | Ratio of future vs past references |
-| **Helping behavior** | Unprompted assistance to others | Acts of kindness per week |
-| **Creativity** | Art, music, innovation, problem-solving | Creative projects initiated |
-| **Physical posture** | Upright, energetic movement | Observe: Heads up or down? |
-| **Eye contact** | Engaged, present | People look at each other vs staring at ground |
+- Laughter frequency:
+  What to Look For: Jokes, playfulness, humor
+  Measurement: Times per day you hear genuine laughter
+- Voluntary participation:
+  What to Look For: People show up to meetings/events
+  Measurement: Attendance rate >80%
+- Work quality:
+  What to Look For: Pride in work, attention to detail
+  Measurement: Few careless errors, initiative shown
+- Self-care:
+  What to Look For: Personal hygiene, appearance
+  Measurement: People bathe regularly, mend clothes
+- Future talk:
+  What to Look For: Conversations about plans, dreams
+  Measurement: Ratio of future vs past references
+- Helping behavior:
+  What to Look For: Unprompted assistance to others
+  Measurement: Acts of kindness per week
+- Creativity:
+  What to Look For: Art, music, innovation, problem-solving
+  Measurement: Creative projects initiated
+- Physical posture:
+  What to Look For: Upright, energetic movement
+  Measurement: Observe: Heads up or down?
+- Eye contact:
+  What to Look For: Engaged, present
+  Measurement: People look at each other vs staring at ground
 
 ---
 
 ### Low Morale Warning Signs
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Indicator | What to Look For | Urgency |
-|-----------|------------------|---------|
-| **No laughter** | Grim silence, no jokes for days | HIGH |
-| **Conflict escalation** | More frequent, more intense fights | HIGH |
-| **Work slowdowns** | Tasks take longer, less initiative | MODERATE-HIGH |
-| **Substance abuse** | Increased alcohol/drug use | HIGH |
-| **Neglecting hygiene** | Unwashed, unkempt appearance | MODERATE-HIGH |
-| **Social withdrawal** | Isolation, avoiding others | MODERATE-HIGH |
-| **Talk of giving up** | "What's the point?" "Maybe we should just..." | VERY HIGH |
-| **Reckless behavior** | Unnecessary risks, self-destructive acts | VERY HIGH |
-| **Nostalgia fixation** | Constant talk of "the good old days" | MODERATE |
-| **Apathy** | "I don't care" responses | HIGH |
-| **Physical symptoms** | Psychosomatic illness, exhaustion | MODERATE |
+- No laughter: Grim silence, no jokes for days / HIGH
+- Conflict escalation:
+  What to Look For: More frequent, more intense fights
+  Urgency: HIGH
+- Work slowdowns:
+  What to Look For: Tasks take longer, less initiative
+  Urgency: MODERATE-HIGH
+- Substance abuse: Increased alcohol/drug use / HIGH
+- Neglecting hygiene:
+  What to Look For: Unwashed, unkempt appearance
+  Urgency: MODERATE-HIGH
+- Social withdrawal:
+  What to Look For: Isolation, avoiding others
+  Urgency: MODERATE-HIGH
+- Talk of giving up:
+  What to Look For: "What's the point?" "Maybe we should just..."
+  Urgency: VERY HIGH
+- Reckless behavior:
+  What to Look For: Unnecessary risks, self-destructive acts
+  Urgency: VERY HIGH
+- Nostalgia fixation:
+  What to Look For: Constant talk of "the good old days"
+  Urgency: MODERATE
+- Apathy: "I don't care" responses / HIGH
+- Physical symptoms:
+  What to Look For: Psychosomatic illness, exhaustion
+  Urgency: MODERATE
 
 ---
 

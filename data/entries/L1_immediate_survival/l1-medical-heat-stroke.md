@@ -57,12 +57,9 @@ Heat illness ranges from mild heat cramps to life-threatening heat stroke. **Hea
 
 ## Heat Illness Spectrum
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Condition | Core Temp | Mental Status | Sweating | Urgency |
-|-----------|-----------|--------------|----------|---------|
-| **Heat Cramps** | Normal | Normal | Present | Low |
-| **Heat Exhaustion** | 37-40°C (98.6-104°F) | Normal | Present (usually) | Moderate |
-| **Heat Stroke** | >40°C (>104°F) | **ALTERED** | Often absent | **CRITICAL** |
+- Heat Cramps: Normal / Normal
+- Heat Exhaustion: 37-40°C (98.6-104°F) / Normal
+- Heat Stroke: >40°C (>104°F) / ALTERED
 
 ## Heat Exhaustion/Stroke
 
@@ -456,14 +453,15 @@ Time: _____ Temp: _____ Mental status: _____
 
 ## Summary Ref
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Assessment | Heat Exhaustion | Heat Stroke |
-|------------|----------------|-------------|
-| Mental Status | NORMAL | **ALTERED** |
-| Core Temp | <40°C (104°F) | >40°C (104°F) |
-| Treatment | Rest, fluids, passive cooling | **AGGRESSIVE COOLING + EVACUATE** |
-| Fluids | Oral rehydration | NO oral fluids |
-| Urgency | Moderate | **CRITICAL EMERGENCY** |
-| Prognosis | Good with treatment | High mortality, permanent damage risk |
+- Mental Status: NORMAL / ALTERED
+- Core Temp: <40°C (104°F) / >40°C (104°F)
+- Treatment:
+  Heat Exhaustion: Rest, fluids, passive cooling
+  Heat Stroke: AGGRESSIVE COOLING + EVACUATE
+- Fluids: Oral rehydration / NO oral fluids
+- Urgency: Moderate / CRITICAL EMERGENCY
+- Prognosis:
+  Heat Exhaustion: Good with treatment
+  Heat Stroke: High mortality, permanent damage risk
 
 **Remember:** Cool first, transport second. Altered mental status in heat = HEAT STROKE = EMERGENCY. Every minute counts.

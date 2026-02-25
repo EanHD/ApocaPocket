@@ -8,13 +8,10 @@
 ## Climate Profile
 
 ### Temperature Ranges (Continental Climate)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Avg High | Avg Low | Extreme High | Extreme Low |
-|--------|----------|---------|--------------|-------------|
-| Summer (Jun-Aug) | 80-95°F | 60-70°F | 110°F+ | 50°F |
-| Fall (Sep-Nov) | 55-75°F | 35-55°F | 95°F | 0°F |
-| Winter (Dec-Feb) | 15-35°F | -5-20°F | 60°F | -40°F |
-| Spring (Mar-May) | 50-75°F | 30-50°F | 95°F | -10°F |
+- Summer (Jun-Aug): 80-95°F / 60-70°F / 110°F+ / 50°F
+- Fall (Sep-Nov): 55-75°F / 35-55°F / 95°F / 0°F
+- Winter (Dec-Feb): 15-35°F / -5-20°F / 60°F / -40°F
+- Spring (Mar-May): 50-75°F / 30-50°F / 95°F / -10°F
 
 **Characteristic:** EXTREME temperature swings
 - Daily: 30-40°F difference (day to night)
@@ -92,19 +89,66 @@
 
 ### Edible Plants (by season)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
-|-------|--------|------------|-------------|-------------|-----------|
-| Cattail | Year-round | Roots, shoots, pollen | 800-1200 | Raw/cooked roots, pollen flour | l1-cattail-guide.md |
-| Oak acorns | Sep-Nov | Nuts | 2000+ | MUST leach tannins, grind into flour | l1-oak-acorn-processing.md |
-| Wild rice | Aug-Sep | Grain | 1500-1700 | Harvest by canoe, thresh, cook | l2-wild-rice-guide.md |
-| Dandelion | Apr-Oct | Leaves, roots | 200-300 | Leaves raw/cooked, roots roasted | l1-common-weeds.md |
-| Sumac (staghorn) | Aug-Sep | Berries | Tea/drink | Soak in cold water (lemonade-like) | l1-wild-drinks.md |
-| Wild plum | Jul-Aug | Fruit | 300-400 | Eat raw, dry for storage | l1-wild-fruits.md |
-| Hickory | Sep-Oct | Nuts | 2700+ | Crack shells, high fat content | l1-tree-nuts.md |
-| Walnuts (black) | Sep-Oct | Nuts | 2500+ | Remove husk (stains hands), crack, dry | l1-tree-nuts.md |
-| Jerusalem artichoke | Oct-Mar | Tubers | 400-500 | Dig roots, eat raw/cooked, stores underground | l2-root-vegetables.md |
-| Burdock | Year-round | Root | 400-500 | Peel, cook like potato | l1-common-weeds.md |
+- Cattail:
+  Season: Year-round
+  Parts Used: Roots, shoots, pollen
+  Calories/lb: 800-1200
+  Preparation: Raw/cooked roots, pollen flour
+  Cross-ref: l1-cattail-guide.md
+- Oak acorns:
+  Season: Sep-Nov
+  Parts Used: Nuts
+  Calories/lb: 2000+
+  Preparation: MUST leach tannins, grind into flour
+  Cross-ref: l1-oak-acorn-processing.md
+- Wild rice:
+  Season: Aug-Sep
+  Parts Used: Grain
+  Calories/lb: 1500-1700
+  Preparation: Harvest by canoe, thresh, cook
+  Cross-ref: l2-wild-rice-guide.md
+- Dandelion:
+  Season: Apr-Oct
+  Parts Used: Leaves, roots
+  Calories/lb: 200-300
+  Preparation: Leaves raw/cooked, roots roasted
+  Cross-ref: l1-common-weeds.md
+- Sumac (staghorn):
+  Season: Aug-Sep
+  Parts Used: Berries
+  Calories/lb: Tea/drink
+  Preparation: Soak in cold water (lemonade-like)
+  Cross-ref: l1-wild-drinks.md
+- Wild plum:
+  Season: Jul-Aug
+  Parts Used: Fruit
+  Calories/lb: 300-400
+  Preparation: Eat raw, dry for storage
+  Cross-ref: l1-wild-fruits.md
+- Hickory:
+  Season: Sep-Oct
+  Parts Used: Nuts
+  Calories/lb: 2700+
+  Preparation: Crack shells, high fat content
+  Cross-ref: l1-tree-nuts.md
+- Walnuts (black):
+  Season: Sep-Oct
+  Parts Used: Nuts
+  Calories/lb: 2500+
+  Preparation: Remove husk (stains hands), crack, dry
+  Cross-ref: l1-tree-nuts.md
+- Jerusalem artichoke:
+  Season: Oct-Mar
+  Parts Used: Tubers
+  Calories/lb: 400-500
+  Preparation: Dig roots, eat raw/cooked, stores underground
+  Cross-ref: l2-root-vegetables.md
+- Burdock:
+  Season: Year-round
+  Parts Used: Root
+  Calories/lb: 400-500
+  Preparation: Peel, cook like potato
+  Cross-ref: l1-common-weeds.md
 
 **⚠️ CRITICAL:** Acorns and wild rice are STAPLE foods (high calories, stores well). Prioritize collection in fall.
 
@@ -156,13 +200,30 @@
 
 ### Large Game
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
-|--------|--------|--------|---------|---------------|------------------|
-| White-tailed deer | 100-250 lbs | Nov-Dec (firearms) | Edge habitat, woods/fields | Most important game animal | 40-100 |
-| Wild turkey | 10-25 lbs | Spring (Apr-May), Fall (varies) | Woods, crop edges | Challenging, excellent eating | 8-15 |
-| Bison (limited) | 800-2000 lbs | PROTECTED (historical, some ranches) | Prairie (rare wild populations) | Extinct in wild by 1900, reintroduced | 400-800 |
-| Elk (western edge) | 400-700 lbs | Sep-Oct (limited areas) | Western Dakotas, Nebraska | Limited range in Midwest | 200-300 |
+- White-tailed deer:
+  Weight: 100-250 lbs
+  Season: Nov-Dec (firearms)
+  Habitat: Edge habitat, woods/fields
+  Hunting Notes: Most important game animal
+  Yield (lbs meat): 40-100
+- Wild turkey:
+  Weight: 10-25 lbs
+  Season: Spring (Apr-May), Fall (varies)
+  Habitat: Woods, crop edges
+  Hunting Notes: Challenging, excellent eating
+  Yield (lbs meat): 8-15
+- Bison (limited):
+  Weight: 800-2000 lbs
+  Season: PROTECTED (historical, some ranches)
+  Habitat: Prairie (rare wild populations)
+  Hunting Notes: Extinct in wild by 1900, reintroduced
+  Yield (lbs meat): 400-800
+- Elk (western edge):
+  Weight: 400-700 lbs
+  Season: Sep-Oct (limited areas)
+  Habitat: Western Dakotas, Nebraska
+  Hunting Notes: Limited range in Midwest
+  Yield (lbs meat): 200-300
 
 **White-tailed Deer:** CRITICAL RESOURCE
 - Most abundant large game (10+ million in Midwest)
@@ -173,24 +234,57 @@
 ### Fish & Aquatic
 
 **Great Lakes (Michigan, Superior, Huron, Erie, Ontario):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Size | Season | Method | Notes |
-|---------|------|--------|--------|-------|
-| Lake trout | 5-20 lbs | Year-round | Deep water, ice fishing | Cold-water species, excellent eating |
-| Walleye | 2-8 lbs | Spring/fall | Jigs, live bait | Night feeders, best eating |
-| Yellow perch | 0.5-2 lbs | Year-round | Small jigs, worms | Easy to catch, abundant |
-| Salmon (Chinook, Coho) | 10-30 lbs | Fall (spawning runs) | Trolling, rivers | Introduced species, good eating |
-| Whitefish | 2-6 lbs | Winter (ice) | Deep water, small baits | Traditional Native American food |
+- Lake trout:
+  Size: 5-20 lbs
+  Season: Year-round
+  Method: Deep water, ice fishing
+  Notes: Cold-water species, excellent eating
+- Walleye:
+  Size: 2-8 lbs
+  Season: Spring/fall
+  Method: Jigs, live bait
+  Notes: Night feeders, best eating
+- Yellow perch:
+  Size: 0.5-2 lbs
+  Season: Year-round
+  Method: Small jigs, worms
+  Notes: Easy to catch, abundant
+- Salmon (Chinook, Coho):
+  Size: 10-30 lbs
+  Season: Fall (spawning runs)
+  Method: Trolling, rivers
+  Notes: Introduced species, good eating
+- Whitefish:
+  Size: 2-6 lbs
+  Season: Winter (ice)
+  Method: Deep water, small baits
+  Notes: Traditional Native American food
 
 **Rivers (Mississippi, Missouri, Ohio):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Size | Season | Method | Notes |
-|---------|------|--------|--------|-------|
-| Catfish (channel, flathead, blue) | 5-50 lbs | Spring-fall | Trotlines, juglines, cut bait | Bottom feeders, hardy fish |
-| Bass (smallmouth, largemouth) | 1-6 lbs | Spring-fall | Lures, live bait | Sport fish, good eating |
-| Carp | 5-30 lbs | Spring-fall | Dough balls, corn | Invasive but edible (Asian preparation) |
-| Pike (northern) | 5-20 lbs | Spring-fall | Spoons, live bait | Aggressive predator, Y-bones in meat |
-| Sturgeon | 20-100+ lbs | LIMITED/PROTECTED | N/A | Ancient species, most protected |
+- Catfish (channel, flathead, blue):
+  Size: 5-50 lbs
+  Season: Spring-fall
+  Method: Trotlines, juglines, cut bait
+  Notes: Bottom feeders, hardy fish
+- Bass (smallmouth, largemouth):
+  Size: 1-6 lbs
+  Season: Spring-fall
+  Method: Lures, live bait
+  Notes: Sport fish, good eating
+- Carp:
+  Size: 5-30 lbs
+  Season: Spring-fall
+  Method: Dough balls, corn
+  Notes: Invasive but edible (Asian preparation)
+- Pike (northern):
+  Size: 5-20 lbs
+  Season: Spring-fall
+  Method: Spoons, live bait
+  Notes: Aggressive predator, Y-bones in meat
+- Sturgeon:
+  Size: 20-100+ lbs
+  Season: LIMITED/PROTECTED
+  Notes: Ancient species, most protected
 
 **Ice Fishing (December-March):**
 - Drill/chop hole through ice (6-36 inches thick)
@@ -406,17 +500,24 @@ Design: Underground or reinforced basement
 
 ### Wood Selection (BTU & Characteristics)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Wood Type | BTU/cord | Burn Rate | Coals | Split Difficulty | Availability |
-|-----------|----------|-----------|-------|-----------------|--------------|
-| Oak (red, white) | 24-30M | Slow | Excellent | Hard | Very common (east) |
-| Hickory | 28-30M | Slow | Excellent | Hard | Common (east) |
-| Maple (sugar, red) | 24-27M | Moderate | Very good | Moderate | Very common |
-| Ash | 24-25M | Moderate | Very good | Easy | Common |
-| Elm | 20-22M | Slow | Good | VERY HARD (stringy) | Common |
-| Cottonwood | 13-16M | Fast | Poor | Easy | Very common (rivers) |
-| Willow | 14-18M | Fast | Poor | Easy | Common (wet areas) |
-| Pine/Spruce | 15-18M | Fast | Poor | Easy | Common (north) |
+- Oak (red, white):
+  BTU/cord: 24-30M
+  Burn Rate: Slow
+  Coals: Excellent
+  Split Difficulty: Hard
+  Availability: Very common (east)
+- Hickory: 28-30M / Slow / Excellent / Hard / Common (east)
+- Maple (sugar, red):
+  BTU/cord: 24-27M
+  Burn Rate: Moderate
+  Coals: Very good
+  Split Difficulty: Moderate
+  Availability: Very common
+- Ash: 24-25M / Moderate / Very good / Easy / Common
+- Elm: 20-22M / Slow / Good / VERY HARD (stringy) / Common
+- Cottonwood: 13-16M / Fast / Poor / Easy / Very common (rivers)
+- Willow: 14-18M / Fast / Poor / Easy / Common (wet areas)
+- Pine/Spruce: 15-18M / Fast / Poor / Easy / Common (north)
 
 **Best all-around:** Ash (splits easy, burns hot, burns even when green)  
 **Emergency:** Cottonwood (abundant near rivers, easy to cut, but low BTU)

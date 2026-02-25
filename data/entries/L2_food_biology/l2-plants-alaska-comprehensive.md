@@ -283,22 +283,19 @@ related: [l2-plants-alaska-wild-potato, l2-plants-deadly-lookalikes, l1-foraging
 
 ## Season Avail
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | May | Jun | Jul | Aug | Sep | Oct |
-|-------|-----|-----|-----|-----|-----|-----|
-| **Blueberry** | - | - | 🫐 | 🫐🫐 | 🫐 | - |
-| **Salmonberry** | - | 🍓 | 🍓🍓 | 🍓 | - | - |
-| **Cloudberry** | - | - | - | 🫐🫐 | 🫐 | - |
-| **Crowberry** | - | - | - | 🫐 | 🫐🫐 | 🫐 |
-| **Lingonberry** | - | - | - | 🍒 | 🍒🍒 | 🍒 |
-| **Fireweed (shoots)** | 🌱🌱 | 🌱 | - | - | - | - |
-| **Fireweed (leaves)** | 🥬 | 🥬🥬 | 🥬 | - | - | - |
-| **Dandelion (leaves)** | 🥬🥬 | 🥬 | 🥬 | 🥬 | - | - |
-| **Fiddleheads** | 🌿🌿 | 🌿 | - | - | - | - |
-| **Wild Potato (roots)** | 🥔🥔 | 🥔 | - | - | 🥔🥔 | 🥔 |
-| **Wild Rhubarb** | - | 🌿🌿 | 🌿 | - | - | - |
-| **Cattail (shoots)** | 🌱🌱 | 🌱 | - | - | - | - |
-| **Cattail (roots)** | 🥔 | - | - | - | 🥔🥔 | 🥔 |
+- Blueberry: - / - / 🫐 / 🫐🫐 / 🫐 / -
+- Salmonberry: - / 🍓 / 🍓🍓 / 🍓 / - / -
+- Cloudberry: - / - / - / 🫐🫐 / 🫐 / -
+- Crowberry: - / - / - / 🫐 / 🫐🫐 / 🫐
+- Lingonberry: - / - / - / 🍒 / 🍒🍒 / 🍒
+- Fireweed (shoots): 🌱🌱 / 🌱 / - / - / - / -
+- Fireweed (leaves): 🥬 / 🥬🥬 / 🥬 / - / - / -
+- Dandelion (leaves): 🥬🥬 / 🥬 / 🥬 / 🥬 / - / -
+- Fiddleheads: 🌿🌿 / 🌿 / - / - / - / -
+- Wild Potato (roots): 🥔🥔 / 🥔 / - / - / 🥔🥔 / 🥔
+- Wild Rhubarb: - / 🌿🌿 / 🌿 / - / - / -
+- Cattail (shoots): 🌱🌱 / 🌱 / - / - / - / -
+- Cattail (roots): 🥔 / - / - / - / 🥔🥔 / 🥔
 
 **Legend**: 🌱 Shoots/Greens | 🫐 Berries (blue/black) | 🍓 Berries (red/orange) | 🍒 Berries (red) | 🥬 Leafy greens | 🥔 Roots/tubers | 🌿 Stalks  
 **Intensity**: Single emoji = available, Double emoji = peak season

@@ -214,16 +214,25 @@ Tier 3 (Earned):
 
 **Labor Credit Multipliers:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Work Type | Multiplier | Reasoning |
-|-----------|------------|-----------|
-| **Standard work** (gardening, cooking, cleaning) | 1.0x | Baseline |
-| **Unpleasant work** (latrine, butchering, corpse handling) | 1.5x | Compensation for discomfort |
-| **Dangerous work** (hunting, scouting, height work) | 2.0x | Risk premium |
-| **High-skill work** (medical, engineering, teaching) | 1.5-2.0x | Years of training |
-| **Night watch** (security, guard duty) | 1.3x | Disrupted sleep |
-| **Emotional labor** (conflict mediation, grief support) | 1.2x | Often invisible but draining |
-| **Childcare** (watching children <12) | 1.0-1.3x | Essential but undervalued |
+- Standard work (gardening, cooking, cleaning):
+  Multiplier: 1.0x
+  Reasoning: Baseline
+- Unpleasant work (latrine, butchering, corpse handling):
+  Multiplier: 1.5x
+  Reasoning: Compensation for discomfort
+- Dangerous work (hunting, scouting, height work):
+  Multiplier: 2.0x
+  Reasoning: Risk premium
+- High-skill work (medical, engineering, teaching):
+  Multiplier: 1.5-2.0x
+  Reasoning: Years of training
+- Night watch (security, guard duty): 1.3x / Disrupted sleep
+- Emotional labor (conflict mediation, grief support):
+  Multiplier: 1.2x
+  Reasoning: Often invisible but draining
+- Childcare (watching children <12):
+  Multiplier: 1.0-1.3x
+  Reasoning: Essential but undervalued
 
 **Credit Tracking:**
 ```
@@ -297,12 +306,18 @@ Week 11: Back to Person A
 
 **Example Matrix:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Person | Skills | Prefers | Assigned |
-|--------|--------|---------|----------|
-| Alex | Medical, teaching | Medical | 70% medical, 20% teaching, 10% garden |
-| Jordan | Carpentry, hunting | Hunting | 50% carpentry, 30% hunting, 20% maintenance |
-| Sam | Cooking, childcare | Childcare | 60% childcare, 30% cooking, 10% sewing |
+- Alex:
+  Skills: Medical, teaching
+  Prefers: Medical
+  Assigned: 70% medical, 20% teaching, 10% garden
+- Jordan:
+  Skills: Carpentry, hunting
+  Prefers: Hunting
+  Assigned: 50% carpentry, 30% hunting, 20% maintenance
+- Sam:
+  Skills: Cooking, childcare
+  Prefers: Childcare
+  Assigned: 60% childcare, 30% cooking, 10% sewing
 
 ---
 
@@ -490,14 +505,11 @@ Must present at distribution
 
 **Tiered Reduction Protocol:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Severity | Tier 1 (Survival) | Tier 2 (Standard) | Tier 3 (Luxury) |
-|----------|-------------------|-------------------|-----------------|
-| **Normal** | 100% (2000 cal) | Available | Available |
-| **Level 1** | 100% | 50% | 0% (suspended) |
-| **Level 2** | 90% (1800 cal) | 25% | 0% |
-| **Level 3** | 80% (1600 cal) | 0% | 0% |
-| **Critical** | 70% (1400 cal)* | 0% | 0% |
+- Normal: 100% (2000 cal) / Available / Available
+- Level 1: 100% / 50% / 0% (suspended)
+- Level 2: 90% (1800 cal) / 25% / 0%
+- Level 3: 80% (1600 cal) / 0% / 0%
+- Critical: 70% (1400 cal)* / 0% / 0%
 
 *1400 cal is absolute minimum for extended survival with light activity
 

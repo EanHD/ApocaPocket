@@ -86,16 +86,23 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ### Key Differences
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Bacterial Infection | Viral Infection |
-|---------|-------------------|-----------------|
-| **Onset** | Gradual (over days) | Sudden (hours to 1 day) |
-| **Fever** | High, sustained (102-104°F+) | Moderate, fluctuating (100-102°F) |
-| **Symptom duration** | Persists or worsens >7-10 days | Improves in 5-7 days |
-| **Nasal discharge** | Thick, yellow/green, one side | Clear or white, both sides |
-| **Throat** | Pus on tonsils, no cough | Red, cough present |
-| **Lab markers** | High white blood cell count (WBC), especially neutrophils | Normal or low WBC |
-| **Response to antibiotics** | Improves in 48-72 hours | No change |
+- Onset: Gradual (over days) / Sudden (hours to 1 day)
+- Fever:
+  Bacterial Infection: High, sustained (102-104°F+)
+  Viral Infection: Moderate, fluctuating (100-102°F)
+- Symptom duration:
+  Bacterial Infection: Persists or worsens >7-10 days
+  Viral Infection: Improves in 5-7 days
+- Nasal discharge:
+  Bacterial Infection: Thick, yellow/green, one side
+  Viral Infection: Clear or white, both sides
+- Throat: Pus on tonsils, no cough / Red, cough present
+- Lab markers:
+  Bacterial Infection: High white blood cell count (WBC), especially neutrophils
+  Viral Infection: Normal or low WBC
+- Response to antibiotics:
+  Bacterial Infection: Improves in 48-72 hours
+  Viral Infection: No change
 
 ### Common VIRAL Infections (Antibiotics NOT Indicated)
 
@@ -441,29 +448,27 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ### Adult Dosing (Average 70kg / 154lb)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Antibiotic | Infection Type | Dose | Frequency | Duration |
-|------------|---------------|------|-----------|----------|
-| Amoxicillin | Strep throat, ear infection | 500-1000mg | 2-3x daily | 10 days |
-| Augmentin | Sinusitis, bites | 875/125mg | 2x daily | 5-10 days |
-| Cephalexin | Skin infection, UTI | 500mg | 4x daily | 7-10 days |
-| Doxycycline | Pneumonia, MRSA, tick | 100mg | 2x daily | 5-14 days |
-| Azithromycin | Pneumonia, STI | 500mg day 1, 250mg after | Once daily | 5 days |
-| Ciprofloxacin | UTI, diarrhea | 250-500mg | 2x daily | 3-7 days |
-| TMP-SMX DS | MRSA, UTI | 160/800mg (1 tab) | 2x daily | 3-10 days |
-| Metronidazole | Anaerobic, abscess | 500mg | 3x daily | 7-10 days |
+- Amoxicillin: Strep throat, ear infection / 500-1000mg
+- Augmentin: Sinusitis, bites / 875/125mg
+- Cephalexin: Skin infection, UTI / 500mg
+- Doxycycline: Pneumonia, MRSA, tick / 100mg
+- Azithromycin:
+  Infection Type: Pneumonia, STI
+  Dose: 500mg day 1, 250mg after
+  Frequency: Once daily
+  Duration: 5 days
+- Ciprofloxacin: UTI, diarrhea / 250-500mg
+- TMP-SMX DS: MRSA, UTI / 160/800mg (1 tab)
+- Metronidazole: Anaerobic, abscess / 500mg
 
 ### Pediatric Dosing (by Weight)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Antibiotic | mg/kg/day | Divided | Max Dose | Notes |
-|------------|-----------|---------|----------|-------|
-| Amoxicillin | 45-90 | 2-3x daily | 3000mg/day | Higher dose (90) for resistant infections |
-| Augmentin | 45 (amox component) | 2x daily | 2000mg/day | Use amoxicillin dose for calculation |
-| Cephalexin | 25-50 | 4x daily | 4000mg/day | |
-| Azithromycin | 10 (day 1), 5 (days 2-5) | Once daily | 500mg/250mg | |
-| TMP-SMX | 8-10 (TMP component) | 2x daily | 320mg TMP/day | Age >2 months only |
-| Metronidazole | 15-30 | 3x daily | 4000mg/day | |
+- Amoxicillin: 45-90 / 2-3x daily
+- Augmentin: 45 (amox component) / 2x daily
+- Cephalexin: 25-50 / 4x daily
+- Azithromycin: 10 (day 1), 5 (days 2-5) / Once daily
+- TMP-SMX: 8-10 (TMP component) / 2x daily
+- Metronidazole: 15-30 / 3x daily
 
 **Doxycycline:** Age ≥8 years only (2-4 mg/kg/day divided 2x daily, max 200mg/day)
 **Ciprofloxacin:** Avoid in children (use only if no alternative)
@@ -514,16 +519,21 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ### Recommended Treatment Durations
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Infection Type | Minimum Duration | Notes |
-|----------------|------------------|-------|
-| Strep throat | 10 days | Prevents rheumatic fever, kidney damage |
-| Uncomplicated UTI (women) | 3 days (TMP-SMX, cipro) or 5 days (nitrofurantoin) | Longer for men (7 days) |
-| Skin infection | 7-10 days | Continue until redness/swelling gone |
-| Pneumonia | 5-7 days | Minimum 5 days, continue 3 days after fever resolves |
-| Sinusitis | 5-7 days | |
-| Ear infection | 10 days (<2 years), 5-7 days (>2 years) | |
-| Lyme disease | 14-21 days | Doxycycline |
+- Strep throat:
+  Minimum Duration: 10 days
+  Notes: Prevents rheumatic fever, kidney damage
+- Uncomplicated UTI (women):
+  Minimum Duration: 3 days (TMP-SMX, cipro) or 5 days (nitrofurantoin)
+  Notes: Longer for men (7 days)
+- Skin infection:
+  Minimum Duration: 7-10 days
+  Notes: Continue until redness/swelling gone
+- Pneumonia:
+  Minimum Duration: 5-7 days
+  Notes: Minimum 5 days, continue 3 days after fever resolves
+- Sinusitis: 5-7 days
+- Ear infection: 10 days (<2 years), 5-7 days (>2 years)
+- Lyme disease: 14-21 days / Doxycycline
 
 **General rule:** Continue until symptoms resolved + 2-3 more days
 
@@ -547,24 +557,36 @@ Antibiotics kill or inhibit bacteria. They are ineffective against viruses, fung
 
 ### Common Side Effects (Usually Mild)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Side Effect | Cause | Management |
-|-------------|-------|------------|
-| **Diarrhea** | All antibiotics (kill gut bacteria) | Take probiotics, eat yogurt, stay hydrated; if severe/bloody → C. difficile (seek care) |
-| **Nausea** | Most antibiotics | Take with food (except doxycycline + dairy = reduced absorption) |
-| **Yeast infection (vaginal)** | Antibiotics kill normal flora | Antifungal cream (miconazole, clotrimazole) or fluconazole 150mg single dose |
-| **Photosensitivity (sunburn)** | Doxycycline, TMP-SMX, fluoroquinolones | Avoid sun, use SPF 50+ sunscreen |
+- Diarrhea:
+  Cause: All antibiotics (kill gut bacteria)
+  Management: Take probiotics, eat yogurt, stay hydrated; if severe/bloody
+- Nausea:
+  Cause: Most antibiotics
+  Management: Take with food (except doxycycline + dairy = reduced absorpt
+- Yeast infection (vaginal):
+  Cause: Antibiotics kill normal flora
+  Management: Antifungal cream (miconazole, clotrimazole) or fluconazole 1
+- Photosensitivity (sunburn):
+  Cause: Doxycycline, TMP-SMX, fluoroquinolones
+  Management: Avoid sun, use SPF 50+ sunscreen
 
 ### Serious Adverse Reactions (STOP ANTIBIOTIC IMMEDIATELY)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Reaction | Symptoms | Action |
-|----------|----------|--------|
-| **Anaphylaxis** | Throat swelling, difficulty breathing, hives, low blood pressure | **EPINEPHRINE** 0.3mg IM immediately, call 911 |
-| **Stevens-Johnson Syndrome** | Painful rash with blistering, mouth sores, fever | STOP antibiotic, seek emergency care (can be fatal) |
-| **C. difficile colitis** | Severe watery diarrhea, fever, abdominal pain (after/during antibiotics) | STOP antibiotic, seek care (needs metronidazole or vancomycin) |
-| **Tendon rupture** | Sudden pain/pop in Achilles tendon (fluoroquinolones) | STOP antibiotic, immobilize, seek care |
-| **QT prolongation** | Palpitations, fainting (azithromycin, fluoroquinolones in those with heart disease) | STOP antibiotic, seek care |
+- Anaphylaxis:
+  Symptoms: Throat swelling, difficulty breathing, hives, low blood pres
+  Action: EPINEPHRINE 0.3mg IM immediately, call 911
+- Stevens-Johnson Syndrome:
+  Symptoms: Painful rash with blistering, mouth sores, fever
+  Action: STOP antibiotic, seek emergency care (can be fatal)
+- C. difficile colitis:
+  Symptoms: Severe watery diarrhea, fever, abdominal pain (after/during 
+  Action: STOP antibiotic, seek care (needs metronidazole or vancomyci
+- Tendon rupture:
+  Symptoms: Sudden pain/pop in Achilles tendon (fluoroquinolones)
+  Action: STOP antibiotic, immobilize, seek care
+- QT prolongation:
+  Symptoms: Palpitations, fainting (azithromycin, fluoroquinolones in th
+  Action: STOP antibiotic, seek care
 
 ---
 

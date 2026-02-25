@@ -64,15 +64,30 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ### Storage Categories
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Category | Temperature Range | Examples | Notes |
-|----------|------------------|----------|-------|
-| **Room Temperature (Controlled)** | 68-77°F (20-25°C) | Most oral medications, topicals | "Store at room temperature" default |
-| **Room Temperature (Allow Excursions)** | 59-86°F (15-30°C) | Acetaminophen, ibuprofen, antibiotics (most), antihistamines | Can tolerate brief temperature spikes |
-| **Refrigerated** | 36-46°F (2-8°C) | Insulin, vaccines, some antibiotics (reconstituted), eye drops (some) | CRITICAL - degradation rapid if warm |
-| **Frozen** | -4°F (-20°C) or below | Vaccines (some), plasma, specialized medications | Rare in field medicine |
-| **Do NOT Freeze** | >32°F (0°C) | Insulin, liquid medications, vaccines | Freezing destroys effectiveness |
-| **Protect from Heat** | <86°F (30°C) | Nitroglycerin, aspirin, epinephrine, suppositories | Degrade rapidly >86°F |
+- Room Temperature (Controlled):
+  Temperature Range: 68-77°F (20-25°C)
+  Examples: Most oral medications, topicals
+  Notes: "Store at room temperature" default
+- Room Temperature (Allow Excursions):
+  Temperature Range: 59-86°F (15-30°C)
+  Examples: Acetaminophen, ibuprofen, antibiotics (most), antihistamines
+  Notes: Can tolerate brief temperature spikes
+- Refrigerated:
+  Temperature Range: 36-46°F (2-8°C)
+  Examples: Insulin, vaccines, some antibiotics (reconstituted), eye dro
+  Notes: CRITICAL - degradation rapid if warm
+- Frozen:
+  Temperature Range: -4°F (-20°C) or below
+  Examples: Vaccines (some), plasma, specialized medications
+  Notes: Rare in field medicine
+- Do NOT Freeze:
+  Temperature Range: >32°F (0°C)
+  Examples: Insulin, liquid medications, vaccines
+  Notes: Freezing destroys effectiveness
+- Protect from Heat:
+  Temperature Range: <86°F (30°C)
+  Examples: Nitroglycerin, aspirin, epinephrine, suppositories
+  Notes: Degrade rapidly >86°F
 
 ### Common Medication Storage Temperatures
 
@@ -160,18 +175,21 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ### High-Risk Light-Sensitive Drugs
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Medication | Degradation Risk | Storage Requirement | Signs of Degradation |
-|------------|-----------------|---------------------|---------------------|
-| **Nitroglycerin** | Extreme | Amber glass bottle, dark place | Loss of potency (hard to detect) |
-| **Epinephrine** | High | Original brown/amber container | Pink/brown color (normal = clear) |
-| **Tetracycline Antibiotics** | High | Dark container | Yellow darkening (toxic if degraded) |
-| **Furosemide (Lasix)** | High | Light-resistant packaging | Discoloration |
-| **Chloroquine/Hydroxychloroquine** | Moderate | Dark storage | Yellowing |
-| **Vitamin A** | High | Dark bottle | Color change, rancid smell |
-| **Nifedipine (blood pressure)** | High | Opaque container | Color change |
-| **Sodium Nitroprusside** | Extreme | Foil-wrapped | Pink/brown/blue color |
-| **Metronidazole (IV)** | Moderate | Protect from light | Darkening |
+- Nitroglycerin:
+  Degradation Risk: Extreme
+  Storage Requirement: Amber glass bottle, dark place
+  Loss of potency (hard to detect)
+- Epinephrine: High / Original brown/amber container
+- Tetracycline Antibiotics: High / Dark container
+- Furosemide (Lasix): High / Light-resistant packaging
+- Chloroquine/Hydroxychloroquine:
+  Degradation Risk: Moderate
+  Storage Requirement: Dark storage
+  Yellowing
+- Vitamin A: High / Dark bottle
+- Nifedipine (blood pressure): High / Opaque container
+- Sodium Nitroprusside: Extreme / Foil-wrapped
+- Metronidazole (IV): Moderate / Protect from light
 
 ### Storage Solutions for Light-Sensitive Medications
 
@@ -245,19 +263,34 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 **STABLE (Often 5-15+ years past expiration if stored properly):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Medication | Typical Extension | Notes |
-|------------|------------------|-------|
-| **Ciprofloxacin (antibiotic)** | 10+ years | Tablets, stored cool/dry |
-| **Doxycycline (antibiotic)** | 5-10 years | Tablets (NOT capsules - see warning) |
-| **Amoxicillin** | 5+ years | Tablets (powder for reconstitution shorter) |
-| **Acetaminophen (Tylenol)** | 10+ years | Tablets, stored cool/dry |
-| **Ibuprofen (Advil)** | 5-10 years | Tablets |
-| **Diphenhydramine (Benadryl)** | 5-10 years | Tablets/capsules |
-| **Ciprofloxacin eye drops** | 8+ years | Unopened, stored properly |
-| **Atropine (injectable)** | 10+ years | Ampules, stored cool/dark |
-| **Morphine (injectable)** | 5-10 years | Vials, stored properly |
-| **EpiPen (epinephrine)** | 1-2 years | Past expiration if clear (not discolored) |
+- Ciprofloxacin (antibiotic):
+  Typical Extension: 10+ years
+  Notes: Tablets, stored cool/dry
+- Doxycycline (antibiotic):
+  Typical Extension: 5-10 years
+  Notes: Tablets (NOT capsules - see warning)
+- Amoxicillin:
+  Typical Extension: 5+ years
+  Notes: Tablets (powder for reconstitution shorter)
+- Acetaminophen (Tylenol):
+  Typical Extension: 10+ years
+  Notes: Tablets, stored cool/dry
+- Ibuprofen (Advil): 5-10 years / Tablets
+- Diphenhydramine (Benadryl):
+  Typical Extension: 5-10 years
+  Notes: Tablets/capsules
+- Ciprofloxacin eye drops:
+  Typical Extension: 8+ years
+  Notes: Unopened, stored properly
+- Atropine (injectable):
+  Typical Extension: 10+ years
+  Notes: Ampules, stored cool/dark
+- Morphine (injectable):
+  Typical Extension: 5-10 years
+  Notes: Vials, stored properly
+- EpiPen (epinephrine):
+  Typical Extension: 1-2 years
+  Notes: Past expiration if clear (not discolored)
 
 **MODERATE (2-5 years extension possible):**
 - Most antibiotics (tablets)
@@ -267,17 +300,28 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 **UNSTABLE (Use labeled expiration, don't extend):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Medication | Reason | Risk of Use if Expired |
-|------------|---------|------------------------|
-| **Tetracycline antibiotics** | Degrades to toxic compounds | Fanconi syndrome (kidney damage) |
-| **Insulin** | Loses potency rapidly | Hyperglycemia, diabetic emergencies |
-| **Epinephrine (if discolored)** | Oxidation to inactive form | Ineffective for anaphylaxis (death) |
-| **Nitroglycerin** | Volatile, evaporates | Ineffective for angina/heart attack |
-| **Vaccines** | Protein degradation | Ineffective immunization |
-| **Eye drops (opened)** | Contamination risk | Eye infection |
-| **Liquid antibiotics (reconstituted)** | Microbial growth | Infection, ineffective treatment |
-| **Aspirin (vinegar smell)** | Hydrolysis | Ineffective, GI irritation |
+- Tetracycline antibiotics:
+  Reason: Degrades to toxic compounds
+  Fanconi syndrome (kidney damage)
+- Insulin:
+  Reason: Loses potency rapidly
+  Hyperglycemia, diabetic emergencies
+- Epinephrine (if discolored):
+  Reason: Oxidation to inactive form
+  Ineffective for anaphylaxis (death)
+- Nitroglycerin:
+  Reason: Volatile, evaporates
+  Ineffective for angina/heart attack
+- Vaccines:
+  Reason: Protein degradation
+  Ineffective immunization
+- Eye drops (opened): Contamination risk / Eye infection
+- Liquid antibiotics (reconstituted):
+  Reason: Microbial growth
+  Infection, ineffective treatment
+- Aspirin (vinegar smell):
+  Reason: Hydrolysis
+  Ineffective, GI irritation
 
 ### How to Assess Expired Medications
 
@@ -289,15 +333,24 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 **Decision matrix:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Observation | Assessment | Action |
-|-------------|------------|--------|
-| Looks/smells normal, <5 years past exp | Likely 90%+ potency | Safe to use (dose as labeled) |
-| Looks/smells normal, 5-10 years past exp | Possibly 80-90% potency | Use if no alternative (may need higher dose) |
-| Slight discoloration, otherwise normal | Uncertain potency (70-90%) | Use only if critical need, no alternative |
-| Strong smell, crumbling, discolored | <50% potency or toxic | DISCARD |
-| Tetracycline, any expiration passed | Toxic risk | DISCARD - DO NOT USE |
-| Insulin, vaccines, nitroglycerin expired | Ineffective | DISCARD (or use as last resort) |
+- Looks/smells normal, <5 years past exp:
+  Assessment: Likely 90%+ potency
+  Action: Safe to use (dose as labeled)
+- Looks/smells normal, 5-10 years past exp:
+  Assessment: Possibly 80-90% potency
+  Action: Use if no alternative (may need higher dose)
+- Slight discoloration, otherwise normal:
+  Assessment: Uncertain potency (70-90%)
+  Action: Use only if critical need, no alternative
+- Strong smell, crumbling, discolored:
+  Assessment: <50% potency or toxic
+  Action: DISCARD
+- Tetracycline, any expiration passed:
+  Assessment: Toxic risk
+  Action: DISCARD - DO NOT USE
+- Insulin, vaccines, nitroglycerin expired:
+  Assessment: Ineffective
+  Action: DISCARD (or use as last resort)
 
 **Potency rule of thumb:**
 - Solid tablets/capsules, stored properly: Lose ~5-10% potency per year after expiration
@@ -609,18 +662,31 @@ Proper medication storage extends shelf life, maintains potency, and prevents to
 
 ### Visual/Sensory Checks
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Sign | Interpretation | Action |
-|------|---------------|--------|
-| **Vinegar smell** | Aspirin degradation | DISCARD |
-| **Crumbling tablets** | Moisture damage | DISCARD (ineffective dosing) |
-| **Sticky tablets** | Moisture damage, sugar melting | DISCARD |
-| **Color change** (any medication) | Chemical degradation | DISCARD (except mild yellowing in some antibiotics) |
-| **Cloudy liquid** (normally clear) | Precipitation, contamination | DISCARD |
-| **Sediment in liquid** | Separation, degradation | Shake - if doesn't remix, DISCARD |
-| **Swollen, bloated bottle** | Gas production (bacterial contamination) | DISCARD |
-| **Cracked or leaking packaging** | Moisture contamination likely | Inspect med - if intact, likely okay |
-| **Foul odor** | Bacterial contamination, degradation | DISCARD |
+- Vinegar smell: Aspirin degradation / DISCARD
+- Crumbling tablets:
+  Interpretation: Moisture damage
+  Action: DISCARD (ineffective dosing)
+- Sticky tablets:
+  Interpretation: Moisture damage, sugar melting
+  Action: DISCARD
+- Color change (any medication):
+  Interpretation: Chemical degradation
+  Action: DISCARD (except mild yellowing in some antibiotics)
+- Cloudy liquid (normally clear):
+  Interpretation: Precipitation, contamination
+  Action: DISCARD
+- Sediment in liquid:
+  Interpretation: Separation, degradation
+  Action: Shake - if doesn't remix, DISCARD
+- Swollen, bloated bottle:
+  Interpretation: Gas production (bacterial contamination)
+  Action: DISCARD
+- Cracked or leaking packaging:
+  Interpretation: Moisture contamination likely
+  Action: Inspect med - if intact, likely okay
+- Foul odor:
+  Interpretation: Bacterial contamination, degradation
+  Action: DISCARD
 
 ### Chemical Degradation Tests (Advanced)
 

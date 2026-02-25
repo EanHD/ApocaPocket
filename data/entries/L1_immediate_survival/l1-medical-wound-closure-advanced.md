@@ -100,14 +100,17 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ### "Golden Period" for Primary Closure
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Body Location | Maximum Time Since Injury | Reason |
-|---------------|---------------------------|---------|
-| Face/scalp | 24 hours | Excellent blood supply, low infection risk |
-| Trunk | 12 hours | Moderate blood supply |
-| Arms/legs | 6-12 hours | Variable blood supply |
-| Hands/feet | 6-8 hours | Poor blood supply, high contamination risk |
-| Contaminated wound (any location) | 6 hours maximum | High infection risk |
+- Face/scalp:
+  24 hours
+  Reason: Excellent blood supply, low infection risk
+- Trunk: 12 hours / Moderate blood supply
+- Arms/legs: 6-12 hours / Variable blood supply
+- Hands/feet:
+  6-8 hours
+  Reason: Poor blood supply, high contamination risk
+- Contaminated wound (any location):
+  6 hours maximum
+  Reason: High infection risk
 
 **After golden period:** Clean wound daily, allow to heal by secondary intention OR perform **delayed primary closure** 3-5 days later (once infection risk passed).
 
@@ -187,13 +190,22 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ### Suture Types
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Examples | Absorption | Tensile Strength | Best For |
-|------|----------|------------|------------------|----------|
-| **Absorbable (dissolve)** | Vicryl, Dexon, Monocryl | 60-90 days | Moderate, decreases over time | Deep layers, mucous membranes, areas hard to remove sutures (children, mouth) |
-| **Non-absorbable** | Nylon, Prolene, Silk | Never (must remove) | High, maintains strength | Skin closure, high-tension areas |
-| **Monofilament** (single strand) | Nylon, Prolene | Varies | Lower tissue drag, less infection risk | Face, hands, clean wounds |
-| **Braided** (multiple strands twisted) | Silk, Vicryl | Varies | Easier to handle and tie | Deep tissues, gut closure |
+- Absorbable (dissolve):
+  Examples: Vicryl, Dexon, Monocryl
+  Absorption: 60-90 days
+  Tensile Strength: Moderate, decreases over time
+  Best For: Deep layers, mucous membranes, areas hard to remove sutures 
+- Non-absorbable:
+  Examples: Nylon, Prolene, Silk
+  Absorption: Never (must remove)
+  Tensile Strength: High, maintains strength
+  Best For: Skin closure, high-tension areas
+- Monofilament (single strand): Nylon, Prolene / Varies
+- Braided (multiple strands twisted):
+  Examples: Silk, Vicryl
+  Absorption: Varies
+  Tensile Strength: Easier to handle and tie
+  Best For: Deep tissues, gut closure
 
 **General recommendations:**
 - **Face:** 5-0 or 6-0 nylon (thin = minimal scarring)
@@ -609,16 +621,21 @@ Wound closure restores anatomy, reduces infection risk, minimizes scarring, and 
 
 ### Suture Removal Timing
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Location | Days Until Removal | Reason |
-|----------|-------------------|---------|
-| **Face** | 3-5 days | Excellent blood supply, minimal tension, early removal prevents suture marks |
-| **Scalp** | 7-10 days | Hidden by hair, can leave longer |
-| **Trunk (chest, abdomen, back)** | 7-14 days | Moderate tension, slower healing |
-| **Arms/legs** | 7-14 days | Moderate healing rate |
-| **Joints (elbow, knee, ankle)** | 14 days | High tension, movement delays healing |
-| **Hands/feet** | 10-14 days | High use, slower healing |
-| **Mattress sutures (vertical/horizontal)** | 7 days maximum | Higher ischemia risk, remove early |
+- Face:
+  Days Until Removal: 3-5 days
+  Reason: Excellent blood supply, minimal tension, early removal preve
+- Scalp: 7-10 days / Hidden by hair, can leave longer
+- Trunk (chest, abdomen, back):
+  Days Until Removal: 7-14 days
+  Reason: Moderate tension, slower healing
+- Arms/legs: 7-14 days / Moderate healing rate
+- Joints (elbow, knee, ankle):
+  Days Until Removal: 14 days
+  Reason: High tension, movement delays healing
+- Hands/feet: 10-14 days / High use, slower healing
+- Mattress sutures (vertical/horizontal):
+  Days Until Removal: 7 days maximum
+  Reason: Higher ischemia risk, remove early
 
 **Signs ready for removal:**
 - Wound edges sealed (no gaps)

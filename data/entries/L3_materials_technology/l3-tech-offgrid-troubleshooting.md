@@ -640,17 +640,38 @@ START → When does failure occur?
 
 ## QDRT
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Symptom | Likely Cause | Quick Test | Fix |
-|---------|--------------|------------|-----|
-| **No power anywhere** | Dead battery or disconnected | Measure battery voltage | Charge or reconnect battery |
-| **Controller shows voltage, no current** | Battery full OR controller fault | Disconnect small load | If current starts = OK; if not = replace controller |
-| **Inverter beeps and shuts off** | Overload or low battery | Reduce load, measure battery under load | Reduce loads or upgrade battery/inverter |
-| **Low charging current** | Shading or panel damage | Measure array voltage (should be Vmp ~35V) | Remove shade, test panels individually |
-| **Battery won't hold charge** | Sulfation or cell failure | Load test + SG test (FLA) | Equalize (FLA) or replace battery |
-| **Voltage drop in wiring** | Undersized wire or bad connection | Measure voltage at source vs destination | Clean connections or upgrade wire |
-| **GFCI trips randomly** | Ground fault in appliance or multiple neutral-ground bonds | Test each appliance, check for multiple bonds | Isolate faulty appliance, remove extra bonds |
-| **Panel hot spot** | Cracked cell or bypass diode failure | Visual inspection, thermal camera | Replace panel or diode |
+- No power anywhere:
+  Likely Cause: Dead battery or disconnected
+  Quick Test: Measure battery voltage
+  Fix: Charge or reconnect battery
+- Controller shows voltage, no current:
+  Likely Cause: Battery full OR controller fault
+  Quick Test: Disconnect small load
+  Fix: If current starts = OK; if not = replace controller
+- Inverter beeps and shuts off:
+  Likely Cause: Overload or low battery
+  Quick Test: Reduce load, measure battery under load
+  Fix: Reduce loads or upgrade battery/inverter
+- Low charging current:
+  Likely Cause: Shading or panel damage
+  Quick Test: Measure array voltage (should be Vmp ~35V)
+  Fix: Remove shade, test panels individually
+- Battery won't hold charge:
+  Likely Cause: Sulfation or cell failure
+  Quick Test: Load test + SG test (FLA)
+  Fix: Equalize (FLA) or replace battery
+- Voltage drop in wiring:
+  Likely Cause: Undersized wire or bad connection
+  Quick Test: Measure voltage at source vs destination
+  Fix: Clean connections or upgrade wire
+- GFCI trips randomly:
+  Likely Cause: Ground fault in appliance or multiple neutral-ground bonds
+  Quick Test: Test each appliance, check for multiple bonds
+  Fix: Isolate faulty appliance, remove extra bonds
+- Panel hot spot:
+  Likely Cause: Cracked cell or bypass diode failure
+  Quick Test: Visual inspection, thermal camera
+  Fix: Replace panel or diode
 
 ---
 

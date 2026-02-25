@@ -7,17 +7,54 @@
 
 ## Priority Hazard Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
-|--------|----------|-----------|--------|----------------------|-----------|
-| Extreme cold (-40°F+) | FATAL | Daily (winter) | Nov-Apr | Moderate (equipment/shelter) | l1-extreme-cold-survival.md |
-| Brown/Grizzly bears | FATAL | Common (summer) | May-Oct | High (spray, food storage) | l2-brown-bear-safety.md |
-| Moose aggression | HIGH | Common | Year-round | Moderate (awareness, distance) | l2-moose-safety.md |
-| Isolation/injury | FATAL | Constant | Year-round | High (communication, preparation) | l2-alaska-isolation.md |
-| Cold water drowning | FATAL | Common | May-Sep | Moderate (PFD, respect water) | l1-cold-water-survival.md |
-| Whiteout blizzards | EXTREME | 10-30/year | Oct-May | High (shelter-in-place) | l1-blizzard-survival.md |
-| Equipment failure | HIGH | -40°F+ | Nov-Apr | Moderate (cold-rated gear) | l2-cold-equipment.md |
-| Starvation | FATAL | Rare but possible | Spring | High (food storage, hunting) | l1-long-term-survival.md |
+- Extreme cold (-40°F+):
+  Severity: FATAL
+  Frequency: Daily (winter)
+  Season: Nov-Apr
+  Moderate (equipment/shelter)
+  Cross-ref: l1-extreme-cold-survival.md
+- Brown/Grizzly bears:
+  Severity: FATAL
+  Frequency: Common (summer)
+  Season: May-Oct
+  High (spray, food storage)
+  Cross-ref: l2-brown-bear-safety.md
+- Moose aggression:
+  Severity: HIGH
+  Frequency: Common
+  Season: Year-round
+  Moderate (awareness, distance)
+  Cross-ref: l2-moose-safety.md
+- Isolation/injury:
+  Severity: FATAL
+  Frequency: Constant
+  Season: Year-round
+  High (communication, preparation)
+  Cross-ref: l2-alaska-isolation.md
+- Cold water drowning:
+  Severity: FATAL
+  Frequency: Common
+  Season: May-Sep
+  Moderate (PFD, respect water)
+  Cross-ref: l1-cold-water-survival.md
+- Whiteout blizzards:
+  Severity: EXTREME
+  Frequency: 10-30/year
+  Season: Oct-May
+  High (shelter-in-place)
+  Cross-ref: l1-blizzard-survival.md
+- Equipment failure:
+  Severity: HIGH
+  Frequency: -40°F+
+  Season: Nov-Apr
+  Moderate (cold-rated gear)
+  Cross-ref: l2-cold-equipment.md
+- Starvation:
+  Severity: FATAL
+  Frequency: Rare but possible
+  Season: Spring
+  High (food storage, hunting)
+  Cross-ref: l1-long-term-survival.md
 
 ---
 
@@ -52,13 +89,10 @@
 
 ### Wind Chill (Alaska-Specific)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Actual Temp | 10 mph wind | 20 mph wind | 30 mph wind | 40 mph wind |
-|-------------|-------------|-------------|-------------|-------------|
-| 0°F | -9°F | -15°F | -19°F | -22°F |
-| -20°F | -35°F | -44°F | -49°F | -53°F |
-| -40°F | -61°F | -73°F | -80°F | -84°F |
-| -60°F | -87°F | -102°F | -110°F | -115°F |
+- 0°F: -9°F / -15°F / -19°F / -22°F
+- -20°F: -35°F / -44°F / -49°F / -53°F
+- -40°F: -61°F / -73°F / -80°F / -84°F
+- -60°F: -87°F / -102°F / -110°F / -115°F
 
 **Frostbite Time:**
 - **Wind chill -40°F to -60°F:** Frostbite in 5-10 minutes
@@ -567,13 +601,18 @@
 
 ### Alaska Water Temperature (DEADLY Year-Round)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Ocean (Coastal) | Rivers (Interior) | Lakes | Survival Time |
-|--------|----------------|-------------------|-------|---------------|
-| Summer (Jun-Aug) | 45-55°F | 40-50°F | 50-60°F | 1-3 hours |
-| Fall (Sep-Oct) | 40-50°F | 35-45°F | 40-50°F | 30-90 min |
-| Winter (Nov-Apr) | 35-40°F | 32-35°F (under ice) | 32-35°F (ice) | 15-45 min |
-| Spring (May-Jun) | 40-45°F | 35-45°F (snowmelt) | 35-50°F | 30-90 min |
+- Summer (Jun-Aug): 45-55°F / 40-50°F / 50-60°F / 1-3 hours
+- Fall (Sep-Oct): 40-50°F / 35-45°F / 40-50°F / 30-90 min
+- Winter (Nov-Apr):
+  Ocean (Coastal): 35-40°F
+  Rivers (Interior): 32-35°F (under ice)
+  Lakes: 32-35°F (ice)
+  Survival Time: 15-45 min
+- Spring (May-Jun):
+  Ocean (Coastal): 40-45°F
+  Rivers (Interior): 35-45°F (snowmelt)
+  Lakes: 35-50°F
+  Survival Time: 30-90 min
 
 **⚠️ CRITICAL:** Water NEVER gets warm in Alaska (even summer = hypothermia risk)
 
@@ -742,21 +781,54 @@
 
 ### Monthly Hazard Calendar
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Month | Primary Threats | Secondary Threats | Activity Guidance |
-|-------|----------------|-------------------|-------------------|
-| Jan | Extreme cold (-40°F+), darkness (polar night in Arctic) | Equipment failure, isolation | Most dangerous month, stay in shelter |
-| Feb | Extreme cold, darkness | Blizzards, isolation | Still very dangerous |
-| Mar | Blizzards, cold, avalanches (spring breakup) | Daylight returning (psychological relief) | Winter conditions continue |
-| Apr | Cold, avalanches, "breakup" (river ice) | Flooding (snowmelt), starvation time (food depleted) | Spring transition, still dangerous |
-| May | Brown bears emerge, moose (calves), cold water | Flooding, avalanches | Wildlife active, water hazards |
-| Jun | Brown bears (active), cold water, mosquitoes | Midnight sun (sleep disruption), wild potato seeds | Summer season begins, bear encounters peak |
-| Jul | Brown bears (salmon runs), mosquitoes, cold water | Wild potato seeds, river drownings | Peak summer, high bear activity |
-| Aug | Brown bears (salmon), cold water | Early snow (high elevations), berries (bear competition) | Late summer, prepare for fall |
-| Sep | Brown bears (fattening), moose (rut), early snow | Cold, avalanches begin | Fall transition, aggressive wildlife |
-| Oct | Early winter (snow, cold), brown bears (pre-hibernation), moose (rut) | Equipment failure | Winter returns |
-| Nov | Extreme cold, darkness returns, blizzards | Brown bears (late hibernation), isolation | Full winter mode, polar night begins |
-| Dec | Extreme cold, darkness (polar night), blizzards | Equipment failure, isolation | Darkest, coldest time, highest danger |
+- Jan:
+  Primary Threats: Extreme cold (-40°F+), darkness (polar night in Arctic)
+  Secondary Threats: Equipment failure, isolation
+  Activity Guidance: Most dangerous month, stay in shelter
+- Feb:
+  Primary Threats: Extreme cold, darkness
+  Secondary Threats: Blizzards, isolation
+  Activity Guidance: Still very dangerous
+- Mar:
+  Primary Threats: Blizzards, cold, avalanches (spring breakup)
+  Secondary Threats: Daylight returning (psychological relief)
+  Activity Guidance: Winter conditions continue
+- Apr:
+  Primary Threats: Cold, avalanches, "breakup" (river ice)
+  Secondary Threats: Flooding (snowmelt), starvation time (food depleted)
+  Activity Guidance: Spring transition, still dangerous
+- May:
+  Primary Threats: Brown bears emerge, moose (calves), cold water
+  Secondary Threats: Flooding, avalanches
+  Activity Guidance: Wildlife active, water hazards
+- Jun:
+  Primary Threats: Brown bears (active), cold water, mosquitoes
+  Secondary Threats: Midnight sun (sleep disruption), wild potato seeds
+  Activity Guidance: Summer season begins, bear encounters peak
+- Jul:
+  Primary Threats: Brown bears (salmon runs), mosquitoes, cold water
+  Secondary Threats: Wild potato seeds, river drownings
+  Activity Guidance: Peak summer, high bear activity
+- Aug:
+  Primary Threats: Brown bears (salmon), cold water
+  Secondary Threats: Early snow (high elevations), berries (bear competition)
+  Activity Guidance: Late summer, prepare for fall
+- Sep:
+  Primary Threats: Brown bears (fattening), moose (rut), early snow
+  Secondary Threats: Cold, avalanches begin
+  Activity Guidance: Fall transition, aggressive wildlife
+- Oct:
+  Primary Threats: Early winter (snow, cold), brown bears (pre-hibernation), mo
+  Secondary Threats: Equipment failure
+  Activity Guidance: Winter returns
+- Nov:
+  Primary Threats: Extreme cold, darkness returns, blizzards
+  Secondary Threats: Brown bears (late hibernation), isolation
+  Activity Guidance: Full winter mode, polar night begins
+- Dec:
+  Primary Threats: Extreme cold, darkness (polar night), blizzards
+  Secondary Threats: Equipment failure, isolation
+  Activity Guidance: Darkest, coldest time, highest danger
 
 ### Survival Priority by Threat
 

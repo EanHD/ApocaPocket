@@ -157,15 +157,12 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ### IV Catheter Sizing
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Gauge | Diameter | Color | Flow Rate | Best For |
-|-------|----------|-------|-----------|----------|
-| 14G | 2.0mm | Orange | 300 mL/min | Massive trauma, rapid transfusion, surgery |
-| 16G | 1.6mm | Gray | 180 mL/min | Trauma, rapid fluid resuscitation, blood transfusion |
-| 18G | 1.2mm | Green | 90 mL/min | Most adults, general fluid therapy, medications |
-| 20G | 0.9mm | Pink | 60 mL/min | Adults with small veins, standard hydration |
-| 22G | 0.7mm | Blue | 35 mL/min | Children, elderly, fragile veins |
-| 24G | 0.55mm | Yellow | 20 mL/min | Neonates, infants, very fragile veins |
+- 14G: 2.0mm / Orange
+- 16G: 1.6mm / Gray
+- 18G: 1.2mm / Green
+- 20G: 0.9mm / Pink
+- 22G: 0.7mm / Blue
+- 24G: 0.55mm / Yellow
 
 **General rule:** Use largest catheter the vein can accommodate without trauma.
 
@@ -303,14 +300,15 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ### Emergency Fluid Selection
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Situation | First Choice | Second Choice |
-|-----------|--------------|---------------|
-| Trauma/bleeding | Lactated Ringer's | Normal Saline |
-| Dehydration (vomiting/diarrhea) | Normal Saline | Lactated Ringer's |
-| Burns | Lactated Ringer's | Normal Saline |
-| Low blood sugar | D5W | Normal Saline + oral sugar if conscious |
-| Heat stroke | Normal Saline | Lactated Ringer's |
+- Trauma/bleeding: Lactated Ringer's / Normal Saline
+- Dehydration (vomiting/diarrhea):
+  First Choice: Normal Saline
+  Second Choice: Lactated Ringer's
+- Burns: Lactated Ringer's / Normal Saline
+- Low blood sugar:
+  First Choice: D5W
+  Second Choice: Normal Saline + oral sugar if conscious
+- Heat stroke: Normal Saline / Lactated Ringer's
 
 **When in doubt: Normal Saline** (most versatile, compatible with everything)
 
@@ -387,21 +385,22 @@ Intravenous (IV) access allows direct delivery of fluids, medications, and blood
 
 ### Common Problems and Solutions
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| **No flow** | Clamp closed | Open clamp |
-| | Catheter against vein wall | Rotate catheter slightly, adjust arm position |
-| | Catheter kinked | Straighten arm |
-| | IV bag too low | Elevate bag higher (gravity drives flow) |
-| | Blood clot in catheter | Flush with 5-10mL saline, if no flow → remove and restart |
-| **Swelling at site** | Infiltration (catheter not in vein) | Stop IV, remove catheter, elevate arm, restart in different site |
-| **Pain at site** | Irritation from fluid | Slow flow rate |
-| | Infiltration | Remove and restart |
-| | Phlebitis (vein inflammation) | Apply warm compress, restart different site |
-| **Blood backing up tubing** | Bag empty | Change bag |
-| | Bag lower than arm | Elevate bag |
-| **Air bubbles in tubing** | Connection loose | Tighten connections, re-prime line |
+- No flow: Clamp closed / Open clamp
+- Catheter against vein wall: Rotate catheter slightly, adjust arm position
+- Catheter kinked: Straighten arm
+- IV bag too low: Elevate bag higher (gravity drives flow)
+- Blood clot in catheter: Flush with 5-10mL saline, if no flow → remove and restart
+- Swelling at site:
+  Cause: Infiltration (catheter not in vein)
+  Solution: Stop IV, remove catheter, elevate arm, restart in different 
+- Pain at site: Irritation from fluid / Slow flow rate
+- Infiltration: Remove and restart
+- Phlebitis (vein inflammation): Apply warm compress, restart different site
+- Blood backing up tubing: Bag empty / Change bag
+- Bag lower than arm: Elevate bag
+- Air bubbles in tubing:
+  Cause: Connection loose
+  Solution: Tighten connections, re-prime line
 
 ### Complications (Serious)
 

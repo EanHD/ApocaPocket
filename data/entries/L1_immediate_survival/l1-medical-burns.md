@@ -50,13 +50,22 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 
 ### By Depth
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Depth | Layer Affected | Appearance | Pain Level | Healing |
-|-------|---------------|------------|------------|---------|
-| **Superficial** (1st degree) | Epidermis only | Red, dry, no blisters | High (nerve endings intact) | 3-7 days, no scarring |
-| **Partial-Thickness** (2nd degree) | Epidermis + part of dermis | Red, wet, blistered, blanches with pressure | Very high (nerve endings exposed) | 2-3 weeks, possible scarring |
-| **Full-Thickness** (3rd degree) | All skin layers + subcutaneous | White/brown/black, leathery, dry, does NOT blanch | Low/none (nerves destroyed) | Requires grafting, severe scarring |
-| **4th Degree** | Extends to muscle/bone | Charred, black | None | Requires amputation consideration |
+- Superficial (1st degree):
+  Layer Affected: Epidermis only
+  Appearance: Red, dry, no blisters
+  Pain Level: High (nerve endings intact)
+  Healing: 3-7 days, no scarring
+- Partial-Thickness (2nd degree):
+  Layer Affected: Epidermis + part of dermis
+  Appearance: Red, wet, blistered, blanches with pressure
+  Pain Level: Very high (nerve endings exposed)
+  Healing: 2-3 weeks, possible scarring
+- Full-Thickness (3rd degree):
+  Layer Affected: All skin layers + subcutaneous
+  Appearance: White/brown/black, leathery, dry, does NOT blanch
+  Pain Level: Low/none (nerves destroyed)
+  Healing: Requires grafting, severe scarring
+- 4th Degree: Extends to muscle/bone / Charred, black
 
 ### By Extent: Rule of 9s (Adults)
 
@@ -219,12 +228,18 @@ Burns are tissue damage from heat, chemicals, electricity, radiation, or frictio
 
 ## Burn Severity
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Severity | Characteristics | Treatment | Evacuation |
-|----------|----------------|-----------|------------|
-| **Minor** | Superficial, <10% BSA, no critical areas | Cool, dress, monitor | Usually no |
-| **Moderate** | Partial-thickness 10-20% BSA, or small full-thickness | Cool, dress, fluids, pain meds | Likely yes |
-| **Major** | >20% BSA, full-thickness >5%, face/hands/feet/genitals, circumferential, electrical, inhalation | Aggressive cooling, IV fluids, emergency evac | **Always** |
+- Minor:
+  Characteristics: Superficial, <10% BSA, no critical areas
+  Treatment: Cool, dress, monitor
+  Evacuation: Usually no
+- Moderate:
+  Characteristics: Partial-thickness 10-20% BSA, or small full-thickness
+  Treatment: Cool, dress, fluids, pain meds
+  Evacuation: Likely yes
+- Major:
+  Characteristics: >20% BSA, full-thickness >5%, face/hands/feet/genitals, circ
+  Treatment: Aggressive cooling, IV fluids, emergency evac
+  Evacuation: Always
 
 ## Long-term
 - Scarring and contractures (especially across joints)

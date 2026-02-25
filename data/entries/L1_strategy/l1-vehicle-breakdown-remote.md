@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Breakdown in Remote Area"
+title: "Remote Breakdown"
 category: "L1"
 subcategory: "strategy"
 tags: ["vehicle", "breakdown", "remote", "stranded", "signaling", "survival"]

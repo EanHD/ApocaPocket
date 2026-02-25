@@ -168,12 +168,9 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 **Estimated Weights:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Total Meat | Per Quarter (Avg) | Trips Needed (50 lb capacity) |
-|--------|------------|-------------------|-------------------------------|
-| Moose | 400-600 lbs | 50-75 lbs | 8-12 trips |
-| Caribou | 100-200 lbs | 25-50 lbs | 2-4 trips |
-| Deer | 40-80 lbs | 10-20 lbs | 1-2 trips |
+- Moose: 400-600 lbs / 50-75 lbs / 8-12 trips
+- Caribou: 100-200 lbs / 25-50 lbs / 2-4 trips
+- Deer: 40-80 lbs / 10-20 lbs / 1-2 trips
 
 ---
 
@@ -238,12 +235,12 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 ## Time Est
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Field Dress (Gut) | Quartering | Total Time (1 Person) |
-|--------|-------------------|------------|----------------------|
-| Deer | 20-30 minutes | 15-20 minutes | 35-50 minutes |
-| Caribou | 30-45 minutes | 25-35 minutes | 55-80 minutes |
-| Moose | 60-90 minutes | 45-75 minutes | 105-165 minutes (1.75-2.75 hours) |
+- Deer: 20-30 minutes / 15-20 minutes / 35-50 minutes
+- Caribou: 30-45 minutes / 25-35 minutes / 55-80 minutes
+- Moose:
+  Field Dress (Gut): 60-90 minutes
+  Quartering: 45-75 minutes
+  105-165 minutes (1.75-2.75 hours)
 
 **Variables**: Experience, tool quality, ground conditions, bear pressure
 

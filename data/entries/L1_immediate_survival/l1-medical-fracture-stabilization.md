@@ -56,17 +56,26 @@ Fractures (broken bones) require immediate immobilization to prevent further dam
 
 ### Signs and Symptoms
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Sign/Symptom | Description | Reliability |
-|-------------|-------------|-------------|
-| **Deformity** | Abnormal angle, shortening, or rotation | High - obvious fracture |
-| **Swelling** | Rapid swelling at injury site | High - but also occurs in sprains |
-| **Pain** | Severe, localized, worse with movement | Medium - subjective |
-| **Loss of function** | Cannot use limb normally | High |
-| **Crepitus** | Grating sound/feeling from bone ends | High - DO NOT test for this |
-| **False motion** | Movement where there should be none | High - DO NOT test for this |
-| **Bruising** | May develop hours later | Medium |
-| **Exposed bone** | Open fracture - visible bone | Definitive |
+- Deformity:
+  Description: Abnormal angle, shortening, or rotation
+  Reliability: High - obvious fracture
+- Swelling:
+  Description: Rapid swelling at injury site
+  Reliability: High - but also occurs in sprains
+- Pain:
+  Description: Severe, localized, worse with movement
+  Reliability: Medium - subjective
+- Loss of function: Cannot use limb normally / High
+- Crepitus:
+  Description: Grating sound/feeling from bone ends
+  Reliability: High - DO NOT test for this
+- False motion:
+  Description: Movement where there should be none
+  Reliability: High - DO NOT test for this
+- Bruising: May develop hours later / Medium
+- Exposed bone:
+  Description: Open fracture - visible bone
+  Reliability: Definitive
 
 ### Mechanism of Injury (MOI)
 Suspect fracture if:
@@ -82,11 +91,11 @@ Suspect fracture if:
 
 ### Closed vs. Open
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Description | Urgency | Infection Risk |
-|------|-------------|---------|----------------|
-| **Closed** | Skin intact, bone not visible | Moderate | Low |
-| **Open** | Bone visible through skin or wound communicating with fracture | **URGENT** | **Very high** |
+- Closed: Skin intact, bone not visible / Moderate
+- Open:
+  Description: Bone visible through skin or wound communicating with fractu
+  Urgency: URGENT
+  Infection Risk: Very high
 
 ### Common Fracture Patterns
 
@@ -418,18 +427,15 @@ Meds given: _____
 
 ## Summary Ref
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Priority | Action | Check |
-|----------|--------|-------|
-| 1 | Scene safety, ABCs | Life threats first |
-| 2 | Document CSM | Before splinting |
-| 3 | Control bleeding | If open fracture |
-| 4 | Splint 2 joints | Above and below |
-| 5 | Pad & secure | Snug, not tight |
-| 6 | Recheck CSM | After splinting |
-| 7 | Elevate & ice | Reduce swelling |
-| 8 | Monitor q15-30min | Watch for compartment syndrome |
-| 9 | Document findings | Write on tape |
-| 10 | Plan evacuation | Based on severity |
+- 1: Scene safety, ABCs / Life threats first
+- 2: Document CSM / Before splinting
+- 3: Control bleeding / If open fracture
+- 4: Splint 2 joints / Above and below
+- 5: Pad & secure / Snug, not tight
+- 6: Recheck CSM / After splinting
+- 7: Elevate & ice / Reduce swelling
+- 8: Monitor q15-30min / Watch for compartment syndrome
+- 9: Document findings / Write on tape
+- 10: Plan evacuation / Based on severity
 
 **Remember:** Splint in position found unless no pulse. When in doubt, immobilize and evacuate.

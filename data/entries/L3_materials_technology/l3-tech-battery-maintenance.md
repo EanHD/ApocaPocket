@@ -99,19 +99,16 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 **12V Flooded Lead-Acid**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Voltage | State of Charge | Status |
-|---------|-----------------|--------|
-| 12.7-12.8V | 100% | Full charge ✓ |
-| 12.5V | 90% | Good |
-| 12.4V | 80% | Good |
-| 12.2V | 70% | Acceptable |
-| 12.0V | 60% | Nearing 50% limit |
-| 11.9V | 50% | **Minimum recommended** |
-| 11.8V | 40% | Deep discharge zone |
-| 11.6V | 30% | **Damaging** |
-| 11.3V | 20% | **Severe damage risk** |
-| 10.5V | 0% | **Dead** (permanent damage likely) |
+- 12.7-12.8V: 100% / Full charge ✓
+- 12.5V: 90% / Good
+- 12.4V: 80% / Good
+- 12.2V: 70% / Acceptable
+- 12.0V: 60% / Nearing 50% limit
+- 11.9V: 50% / Minimum recommended
+- 11.8V: 40% / Deep discharge zone
+- 11.6V: 30% / Damaging
+- 11.3V: 20% / Severe damage risk
+- 10.5V: 0% / Dead (permanent damage likely)
 
 **12V AGM**:
 
@@ -206,15 +203,12 @@ Proper battery maintenance doubles or triples lifespan while maintaining capacit
 
 **Single cell SoC**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Specific Gravity | State of Charge | Action |
-|------------------|-----------------|--------|
-| 1.265-1.280 | 100% | Fully charged ✓ |
-| 1.230 | 75% | Good |
-| 1.200 | 50% | Recharge recommended |
-| 1.170 | 25% | Deep discharge |
-| 1.140 | Nearly dead | **Charge immediately** |
-| <1.120 | Sulfated | May be unrecoverable |
+- 1.265-1.280: 100% / Fully charged ✓
+- 1.230: 75% / Good
+- 1.200: 50% / Recharge recommended
+- 1.170: 25% / Deep discharge
+- 1.140: Nearly dead / Charge immediately
+- <1.120: Sulfated / May be unrecoverable
 
 ---
 
@@ -732,16 +726,13 @@ Notes: _________________________________
 
 ## Quick Ref: MF
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Task | FLA | AGM/Gel | LiFePO4 |
-|------|-----|---------|---------|
-| **Water check** | Monthly | N/A | N/A |
-| **Voltage test** | Monthly | Monthly | Monthly |
-| **SG test** | Monthly | N/A | N/A |
-| **Equalization** | Monthly | **NEVER** | **NEVER** |
-| **Load test** | Quarterly | Quarterly | Annually |
-| **Cleaning** | As needed | As needed | As needed |
-| **Torque check** | Quarterly | Quarterly | Quarterly |
+- Water check: Monthly / N/A / N/A
+- Voltage test: Monthly / Monthly / Monthly
+- SG test: Monthly / N/A / N/A
+- Equalization: Monthly / NEVER / NEVER
+- Load test: Quarterly / Quarterly / Annually
+- Cleaning: As needed / As needed / As needed
+- Torque check: Quarterly / Quarterly / Quarterly
 
 ---
 

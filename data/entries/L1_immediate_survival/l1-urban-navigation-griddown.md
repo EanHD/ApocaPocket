@@ -599,13 +599,10 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ### Walking Speed vs Distance
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Speed (mph) | 1 mile | 3 miles | 5 miles | 10 miles |
-|-------------|--------|---------|---------|----------|
-| 1.5 (heavy load) | 40 min | 2 hr | 3.3 hr | 6.7 hr |
-| 2.0 (urban obstacles) | 30 min | 1.5 hr | 2.5 hr | 5 hr |
-| 2.5 (normal walk) | 24 min | 1.2 hr | 2 hr | 4 hr |
-| 3.0 (brisk walk) | 20 min | 1 hr | 1.7 hr | 3.3 hr |
+- 1.5 (heavy load): 40 min / 2 hr
+- 2.0 (urban obstacles): 30 min / 1.5 hr
+- 2.5 (normal walk): 24 min / 1.2 hr
+- 3.0 (brisk walk): 20 min / 1 hr
 
 **Multiply by 1.3-1.5x if:**
 - Elderly, children, injured
@@ -614,14 +611,11 @@ Example: 4pm, hour hand points at sun, halfway between 4 and 12 = 8 = South
 
 ### Sun Position by Time (Northern Hemisphere, mid-latitudes)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Time | Sun Position | Shadow Direction | Navigation Use |
-|------|--------------|------------------|----------------|
-| 6-7 AM | East (low) | West | Sun rising, walk toward sun = East |
-| 9-10 AM | Southeast | Northwest | Morning, sun on right = North |
-| 12 Noon | South (high) | North (short) | Shadow points North |
-| 2-3 PM | Southwest | Northeast | Afternoon, sun on left = North |
-| 5-6 PM | West (low) | East | Sun setting, walk toward sun = West |
+- 6-7 AM: East (low) / West
+- 9-10 AM: Southeast / Northwest
+- 12 Noon: South (high) / North (short)
+- 2-3 PM: Southwest / Northeast
+- 5-6 PM: West (low) / East
 
 ---
 

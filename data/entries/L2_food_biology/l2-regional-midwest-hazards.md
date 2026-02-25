@@ -7,17 +7,54 @@
 
 ## Priority Hazard Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
-|--------|----------|-----------|--------|----------------------|-----------|
-| Hypothermia/cold | EXTREME | Daily (winter) | Dec-Feb | Moderate | l1-cold-weather-survival.md |
-| Tornadoes | CATASTROPHIC | 100s/year | Apr-May | High | l1-tornado-safety.md |
-| Blizzards | EXTREME | 10-30/year | Nov-Mar | Moderate | l1-blizzard-survival.md |
-| Flash floods | HIGH | 50-100/year | Apr-Aug | Moderate | l1-flood-safety.md |
-| Heat waves | HIGH | 5-10/year | Jul-Aug | Easy | l1-heat-management.md |
-| Lyme disease | MODERATE | 1000s/year | May-Sep | Easy (prevention) | l2-tick-borne-disease.md |
-| Frostbite | MODERATE | Common (winter) | Nov-Mar | Easy (clothing) | l1-cold-weather-survival.md |
-| Venomous snakes | LOW | Rare (compared to SE) | May-Sep | Easy (avoidance) | l1-snake-identification.md |
+- Hypothermia/cold:
+  Severity: EXTREME
+  Frequency: Daily (winter)
+  Season: Dec-Feb
+  Moderate
+  Cross-ref: l1-cold-weather-survival.md
+- Tornadoes:
+  Severity: CATASTROPHIC
+  Frequency: 100s/year
+  Season: Apr-May
+  High
+  Cross-ref: l1-tornado-safety.md
+- Blizzards:
+  Severity: EXTREME
+  Frequency: 10-30/year
+  Season: Nov-Mar
+  Moderate
+  Cross-ref: l1-blizzard-survival.md
+- Flash floods:
+  Severity: HIGH
+  Frequency: 50-100/year
+  Season: Apr-Aug
+  Moderate
+  Cross-ref: l1-flood-safety.md
+- Heat waves:
+  Severity: HIGH
+  Frequency: 5-10/year
+  Season: Jul-Aug
+  Easy
+  Cross-ref: l1-heat-management.md
+- Lyme disease:
+  Severity: MODERATE
+  Frequency: 1000s/year
+  Season: May-Sep
+  Easy (prevention)
+  Cross-ref: l2-tick-borne-disease.md
+- Frostbite:
+  Severity: MODERATE
+  Frequency: Common (winter)
+  Season: Nov-Mar
+  Easy (clothing)
+  Cross-ref: l1-cold-weather-survival.md
+- Venomous snakes:
+  Severity: LOW
+  Frequency: Rare (compared to SE)
+  Season: May-Sep
+  Easy (avoidance)
+  Cross-ref: l1-snake-identification.md
 
 ---
 
@@ -32,14 +69,11 @@
 
 ### Wind Chill Chart (Frostbite Timeline)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Temperature | 5 mph wind | 15 mph wind | 25 mph wind | 35 mph wind |
-|-------------|------------|-------------|-------------|-------------|
-| 10°F | 7°F | -2°F | -6°F | -9°F |
-| 0°F | -5°F | -16°F | -22°F | -26°F |
-| -10°F | -16°F | -31°F | -39°F | -44°F |
-| -20°F | -28°F | -45°F | -55°F | -61°F |
-| -30°F | -39°F | -60°F | -72°F | -79°F |
+- 10°F: 7°F / -2°F / -6°F / -9°F
+- 0°F: -5°F / -16°F / -22°F / -26°F
+- -10°F: -16°F / -31°F / -39°F / -44°F
+- -20°F: -28°F / -45°F / -55°F / -61°F
+- -30°F: -39°F / -60°F / -72°F / -79°F
 
 **Frostbite Time-to-Injury:**
 - **10-30 minutes:** Wind chill -15°F to -30°F
@@ -208,15 +242,36 @@
 
 ### Enhanced Fujita Scale (Damage-Based)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Rating | Wind Speed | Damage Description | Survival Without Shelter | Frequency |
-|--------|------------|-------------------|-------------------------|-----------|
-| EF0 | 65-85 mph | Branches broken, shallow-rooted trees pushed over | High | 53% |
-| EF1 | 86-110 mph | Roof surfaces peeled, windows broken, mobile homes overturned | Moderate (injuries likely) | 31% |
-| EF2 | 111-135 mph | Roofs torn off, mobile homes destroyed, large trees snapped | Low (serious injuries) | 11% |
-| EF3 | 136-165 mph | Walls collapse, cars lifted, trains overturned | Very low (likely death/severe injury) | 4% |
-| EF4 | 166-200 mph | Well-built homes leveled, cars thrown 100+ ft | Almost none (underground only) | 0.7% |
-| EF5 | 200+ mph | Total obliteration, ground scouring, cars become missiles | None (deep underground only) | 0.1% |
+- EF0:
+  Wind Speed: 65-85 mph
+  Damage Description: Branches broken, shallow-rooted trees pushed over
+  High
+  Frequency: 53%
+- EF1:
+  Wind Speed: 86-110 mph
+  Damage Description: Roof surfaces peeled, windows broken, mobile homes overturne
+  Moderate (injuries likely)
+  Frequency: 31%
+- EF2:
+  Wind Speed: 111-135 mph
+  Damage Description: Roofs torn off, mobile homes destroyed, large trees snapped
+  Low (serious injuries)
+  Frequency: 11%
+- EF3:
+  Wind Speed: 136-165 mph
+  Damage Description: Walls collapse, cars lifted, trains overturned
+  Very low (likely death/severe injury)
+  Frequency: 4%
+- EF4:
+  Wind Speed: 166-200 mph
+  Damage Description: Well-built homes leveled, cars thrown 100+ ft
+  Almost none (underground only)
+  Frequency: 0.7%
+- EF5:
+  Wind Speed: 200+ mph
+  Damage Description: Total obliteration, ground scouring, cars become missiles
+  None (deep underground only)
+  Frequency: 0.1%
 
 **Historical Context:**
 - **EF5 tornadoes in Midwest:** Joplin MO (2011, 161 dead), Moore OK (multiple), Plainfield IL (1990)
@@ -700,21 +755,51 @@ Intense thunderstorm begins → 30-60 min → Small creeks rise → 1-2 hours �
 
 ### Monthly Hazard Calendar
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Month | Primary Threats | Secondary Threats | Activity Guidance |
-|-------|----------------|-------------------|-------------------|
-| Jan | Extreme cold, blizzards | Ice storms, wind chill | Highest danger month, stay indoors |
-| Feb | Extreme cold, blizzards | Ice storms | Still dangerous, polar vortex risk |
-| Mar | Flooding (snowmelt), tornadoes begin | Cold snaps | Transition, variable conditions |
-| Apr | Tornadoes (peak begins), flash floods | Flooding | Highest tornado risk |
-| May | Tornadoes (peak), severe storms | Flash floods | Highest tornado risk |
-| Jun | Severe thunderstorms, flash floods | Heat, tornadoes | Storm season continues |
-| Jul | Heat waves, severe storms | Flash floods | Heat primary concern |
-| Aug | Heat waves, severe storms | Drought (western) | Transition toward fall |
-| Sep | Severe storms decreasing | Cold snaps possible | Lower risk |
-| Oct | Early winter storms | Cold | Winter prep time |
-| Nov | Blizzards begin, cold | Ice storms | Winter hazards return |
-| Dec | Blizzards, extreme cold | Ice storms | High danger, winter established |
+- Jan:
+  Primary Threats: Extreme cold, blizzards
+  Secondary Threats: Ice storms, wind chill
+  Activity Guidance: Highest danger month, stay indoors
+- Feb:
+  Primary Threats: Extreme cold, blizzards
+  Secondary Threats: Ice storms
+  Activity Guidance: Still dangerous, polar vortex risk
+- Mar:
+  Primary Threats: Flooding (snowmelt), tornadoes begin
+  Secondary Threats: Cold snaps
+  Activity Guidance: Transition, variable conditions
+- Apr:
+  Primary Threats: Tornadoes (peak begins), flash floods
+  Secondary Threats: Flooding
+  Activity Guidance: Highest tornado risk
+- May:
+  Primary Threats: Tornadoes (peak), severe storms
+  Secondary Threats: Flash floods
+  Activity Guidance: Highest tornado risk
+- Jun:
+  Primary Threats: Severe thunderstorms, flash floods
+  Secondary Threats: Heat, tornadoes
+  Activity Guidance: Storm season continues
+- Jul:
+  Primary Threats: Heat waves, severe storms
+  Secondary Threats: Flash floods
+  Activity Guidance: Heat primary concern
+- Aug:
+  Primary Threats: Heat waves, severe storms
+  Secondary Threats: Drought (western)
+  Activity Guidance: Transition toward fall
+- Sep:
+  Primary Threats: Severe storms decreasing
+  Secondary Threats: Cold snaps possible
+  Activity Guidance: Lower risk
+- Oct: Early winter storms / Cold / Winter prep time
+- Nov:
+  Primary Threats: Blizzards begin, cold
+  Secondary Threats: Ice storms
+  Activity Guidance: Winter hazards return
+- Dec:
+  Primary Threats: Blizzards, extreme cold
+  Secondary Threats: Ice storms
+  Activity Guidance: High danger, winter established
 
 ### Survival Priority by Threat
 

@@ -60,11 +60,9 @@ steps:
   <30 seconds, seek shelter NOW
 - Divide seconds by 5 = miles away
 - If <6 seconds (1 mile): danger imminent
-- **IMMEDIATE WARNING signs:**
-  - Hair standing on end
-  - Tingling skin
-  - Buzzing metal objects
-- These = pre-strike. **DROP NOW.**
+- **IMMEDIATE WARNING:** hair on end,
+  tingling skin, buzzing metal objects
+  = pre-strike indicators. **DROP NOW.**
 - If you hear thunder = in strike range
 
 ## Safe Locations
@@ -123,10 +121,9 @@ steps:
    (see CPR entry)
 3. Lightning victims **often recover**
    if CPR begins quickly
-4. Check for:
-   - Burns (entry and exit wounds)
-   - Fractures (concussive force)
-   - Paralysis or numbness
+4. Check for burns (entry/exit wounds),
+   fractures (concussive force),
+   and paralysis or numbness
 5. All strike victims need medical
    evaluation — even if they seem fine
 
@@ -135,13 +132,11 @@ steps:
   NOT a direct strike
 - Current spreads in concentric circles
   from the strike point outward
-- **To minimize risk:**
-  1. Keep feet **together** (reduces
-     step potential between your feet)
-  2. Crouch on balls of feet
-  3. Avoid long conductive objects on
-     ground (fences, pipes, rails)
-  4. Stay away from groups of trees
+- **To minimize risk:** keep feet
+  together (reduces step potential),
+  crouch on balls of feet, avoid long
+  conductive objects on ground (fences,
+  pipes, rails), stay from tree groups
 
 ## Camp Site Selection
 - Choose **low-lying areas** away from

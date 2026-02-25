@@ -183,15 +183,20 @@ related:
 
 ## Food Allergy
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Allergy | Intolerance |
-|---------|---------|-------------|
-| **Mechanism** | Immune system (IgE antibodies) | Digestive system |
-| **Onset** | Rapid (5-30 min) | Delayed (30 min - 48 hours) |
-| **Amount** | Tiny amount can trigger | Usually dose-dependent |
-| **Severity** | Can be life-threatening | Uncomfortable but not fatal |
-| **Symptoms** | Hives, swelling, breathing difficulty | Bloating, diarrhea, cramps |
-| **Treatment** | EpiPen, antihistamines | Avoidance, enzyme supplements |
+- Mechanism:
+  Allergy: Immune system (IgE antibodies)
+  Intolerance: Digestive system
+- Onset: Rapid (5-30 min) / Delayed (30 min - 48 hours)
+- Amount: Tiny amount can trigger / Usually dose-dependent
+- Severity:
+  Allergy: Can be life-threatening
+  Intolerance: Uncomfortable but not fatal
+- Symptoms:
+  Allergy: Hives, swelling, breathing difficulty
+  Intolerance: Bloating, diarrhea, cramps
+- Treatment:
+  Allergy: EpiPen, antihistamines
+  Intolerance: Avoidance, enzyme supplements
 
 **Common intolerances:**
 - Lactose intolerance (milk sugar, NOT an allergy)

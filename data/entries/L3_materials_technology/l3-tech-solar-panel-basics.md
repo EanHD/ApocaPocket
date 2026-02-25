@@ -100,17 +100,29 @@ Photovoltaic (PV) solar panels convert sunlight directly into DC electricity thr
 
 **STC Parameters**: 1000 W/m² irradiance, 25°C cell temperature, air mass 1.5 spectrum
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Specification | Symbol | Typical Range | Meaning |
-|--------------|--------|---------------|---------|
-| **Peak Power** | Pmax | 100-550W | Maximum power output at STC |
-| **Voltage at Max Power** | Vmp | 30-40V (12V system) | Operating voltage for max power |
-| | | 60-80V (24V system) | |
-| **Current at Max Power** | Imp | 5-10A | Operating current for max power |
-| **Open Circuit Voltage** | Voc | 36-45V (12V system) | Voltage with no load (morning/cold) |
-| | | 72-90V (24V system) | |
-| **Short Circuit Current** | Isc | 5-11A | Current when output is shorted |
-| **Efficiency** | η | 15-22% | % of sunlight converted to electricity |
+- Peak Power: Pmax / 100-550W / Maximum power output at STC
+- Voltage at Max Power:
+  Symbol: Vmp
+  Typical Range: 30-40V (12V system)
+  Meaning: Operating voltage for max power
+- 60-80V (24V system)
+- Current at Max Power:
+  Symbol: Imp
+  Typical Range: 5-10A
+  Meaning: Operating current for max power
+- Open Circuit Voltage:
+  Symbol: Voc
+  Typical Range: 36-45V (12V system)
+  Meaning: Voltage with no load (morning/cold)
+- 72-90V (24V system)
+- Short Circuit Current:
+  Symbol: Isc
+  Typical Range: 5-11A
+  Meaning: Current when output is shorted
+- Efficiency:
+  Symbol: η
+  Typical Range: 15-22%
+  Meaning: % of sunlight converted to electricity
 
 ### Real-World Operating Conditions
 
@@ -136,15 +148,12 @@ Photovoltaic (PV) solar panels convert sunlight directly into DC electricity thr
 
 **Daily Energy Consumption** (Wh/day):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Appliance | Watts | Hours/Day | Wh/Day |
-|-----------|-------|-----------|--------|
-| LED lights (4x) | 40W | 4h | 160 |
-| Laptop | 60W | 6h | 360 |
-| Phone charging (2x) | 20W | 3h | 60 |
-| Refrigerator | 150W | 8h (cycling) | 1200 |
-| Water pump | 500W | 0.5h | 250 |
-| **Total** | | | **2030 Wh** |
+- LED lights (4x): 40W / 4h / 160
+- Laptop: 60W / 6h / 360
+- Phone charging (2x): 20W / 3h / 60
+- Refrigerator: 150W / 8h (cycling) / 1200
+- Water pump: 500W / 0.5h / 250
+- Total: 2030 Wh
 
 **Accounting for inefficiencies**:
 - Inverter loss: ÷0.90 (90% efficient)
@@ -159,14 +168,11 @@ Photovoltaic (PV) solar panels convert sunlight directly into DC electricity thr
 
 **Peak Sun Hours (PSH)**: Equivalent hours of 1000 W/m² irradiance per day
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Location | Winter | Spring/Fall | Summer | Annual Avg |
-|----------|--------|-------------|--------|------------|
-| Arizona | 5.5 | 7.0 | 7.5 | 6.5 |
-| Florida | 4.5 | 5.5 | 5.5 | 5.0 |
-| Pacific NW | 2.0 | 4.5 | 6.0 | 4.0 |
-| New England | 2.5 | 4.0 | 5.0 | 3.8 |
-| Colorado | 5.0 | 6.0 | 6.5 | 5.8 |
+- Arizona: 5.5 / 7.0 / 7.5 / 6.5
+- Florida: 4.5 / 5.5 / 5.5 / 5.0
+- Pacific NW: 2.0 / 4.5 / 6.0 / 4.0
+- New England: 2.5 / 4.0 / 5.0 / 3.8
+- Colorado: 5.0 / 6.0 / 6.5 / 5.8
 
 📍 **Find your location**: NREL PVWatts calculator (pvwatts.nrel.gov)
 
@@ -193,12 +199,18 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 ### Step 4: System Voltage Selection
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| System Voltage | Panel Count | Wire Size | Best For |
-|---------------|-------------|-----------|----------|
-| **12V** | 1-4 panels | Larger (AWG 4-8) | RVs, boats, small systems <1000W |
-| **24V** | 4-10 panels | Medium (AWG 8-10) | Homes <3000W, moderate distance |
-| **48V** | 10+ panels | Smaller (AWG 10-12) | Large homes >3000W, long wire runs |
+- 12V:
+  Panel Count: 1-4 panels
+  Wire Size: Larger (AWG 4-8)
+  Best For: RVs, boats, small systems <1000W
+- 24V:
+  Panel Count: 4-10 panels
+  Wire Size: Medium (AWG 8-10)
+  Best For: Homes <3000W, moderate distance
+- 48V:
+  Panel Count: 10+ panels
+  Wire Size: Smaller (AWG 10-12)
+  Best For: Large homes >3000W, long wire runs
 
 **Advantage of higher voltage**: Lower current = smaller wires, less voltage drop, lower cost
 
@@ -210,12 +222,11 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 **Fixed Tilt Angle Rules**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Goal | Tilt Angle | When to Use |
-|------|-----------|-------------|
-| **Year-round average** | Latitude | Most off-grid systems |
-| **Winter optimization** | Latitude + 15° | Snow climates, winter loads |
-| **Summer optimization** | Latitude - 15° | Summer-only cabins |
+- Year-round average: Latitude / Most off-grid systems
+- Winter optimization:
+  Tilt Angle: Latitude + 15°
+  When to Use: Snow climates, winter loads
+- Summer optimization: Latitude - 15° / Summer-only cabins
 
 **Examples**:
 - Denver (40°N): 40° tilt (year-round) or 55° (winter max)
@@ -240,11 +251,8 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 **Two-position system**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Tilt Angle | Adjustment Date |
-|--------|-----------|----------------|
-| **Summer** | Latitude - 15° | April 1 |
-| **Winter** | Latitude + 15° | September 1 |
+- Summer: Latitude - 15° / April 1
+- Winter: Latitude + 15° / September 1
 
 **Benefit**: +10-25% annual energy gain vs fixed tilt (more in high latitudes)
 
@@ -392,15 +400,12 @@ Array = 2790 Wh ÷ 2.0 PSH ÷ 0.80 = 1744W minimum
 
 ## Panel Sel
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Use Case | Panel Type | Voltage Class | Size Range |
-|----------|-----------|---------------|------------|
-| RV/boat | Monocrystalline | 12V nominal | 100-200W |
-| Small cabin | Polycrystalline | 12V/24V | 4-8 × 250W |
-| Off-grid home | Monocrystalline | 24V/48V | 10-20 × 300-400W |
-| Grid-tie backup | Polycrystalline | 48V+ | Any (cost-focused) |
-| Portable/emergency | Thin-film/Mono | 12V | 50-100W folding |
-| Hot climates | Thin-film | Any | Match needed capacity |
+- RV/boat: Monocrystalline / 12V nominal / 100-200W
+- Small cabin: Polycrystalline / 12V/24V / 4-8 × 250W
+- Off-grid home: Monocrystalline / 24V/48V / 10-20 × 300-400W
+- Grid-tie backup: Polycrystalline / 48V+ / Any (cost-focused)
+- Portable/emergency: Thin-film/Mono / 12V / 50-100W folding
+- Hot climates: Thin-film / Any / Match needed capacity
 
 ---
 

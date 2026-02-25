@@ -59,14 +59,26 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 
 ### Wattage Requirements
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Application | Minimum Wattage | Recommended | Reason |
-|-------------|-----------------|-------------|--------|
-| Small PCBs, ICs | 20W | 30-40W | Prevents overheating components |
-| General electronics | 30W | 40-60W | Balance of heat and control |
-| Large ground planes | 50W | 60-80W | Sufficient heat for large thermal masses |
-| Heavy wire (12-14 AWG) | 60W | 80-100W | Heats thick copper quickly |
-| Chassis connections | 100W+ | Soldering gun | Large metal heat sinks require high power |
+- Small PCBs, ICs:
+  Minimum Wattage: 20W
+  Recommended: 30-40W
+  Reason: Prevents overheating components
+- General electronics:
+  Minimum Wattage: 30W
+  Recommended: 40-60W
+  Reason: Balance of heat and control
+- Large ground planes:
+  Minimum Wattage: 50W
+  Recommended: 60-80W
+  Reason: Sufficient heat for large thermal masses
+- Heavy wire (12-14 AWG):
+  Minimum Wattage: 60W
+  Recommended: 80-100W
+  Reason: Heats thick copper quickly
+- Chassis connections:
+  Minimum Wattage: 100W+
+  Recommended: Soldering gun
+  Reason: Large metal heat sinks require high power
 
 **Temperature vs. Wattage:**
 - Wattage = heat output capacity
@@ -77,14 +89,17 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 
 **Common Tip Shapes:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Tip Type | Shape | Best For | Heat Transfer |
-|----------|-------|----------|---------------|
-| Conical | Pointed cone | Precision work, SMD | Low (small contact area) |
-| Chisel | Flat blade | Through-hole, large pads | High (large contact area) |
-| Bevel | Angled flat | General purpose | Medium |
-| Knife | Thin blade | Drag soldering SMD | Medium |
-| Hoof | Curved concave | Desoldering large pins | High |
+- Conical:
+  Shape: Pointed cone
+  Best For: Precision work, SMD
+  Heat Transfer: Low (small contact area)
+- Chisel:
+  Shape: Flat blade
+  Best For: Through-hole, large pads
+  Heat Transfer: High (large contact area)
+- Bevel: Angled flat / General purpose / Medium
+- Knife: Thin blade / Drag soldering SMD / Medium
+- Hoof: Curved concave / Desoldering large pins / High
 
 **Size Selection:**
 - Too large: Bridges adjacent pins, clumsy
@@ -138,13 +153,12 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 
 ### Diameter
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Diameter | Best For | Feed Control |
-|----------|----------|--------------|
-| 0.015" (0.4mm) | SMD, fine-pitch ICs | Precise, small amounts |
-| 0.020" (0.5mm) | General electronics | Good balance |
-| 0.031" (0.8mm) | Through-hole, larger pads | Fast coverage |
-| 0.062" (1.6mm) | Heavy wire, terminals | Bulk soldering |
+- 0.015" (0.4mm):
+  Best For: SMD, fine-pitch ICs
+  Feed Control: Precise, small amounts
+- 0.020" (0.5mm): General electronics / Good balance
+- 0.031" (0.8mm): Through-hole, larger pads / Fast coverage
+- 0.062" (1.6mm): Heavy wire, terminals / Bulk soldering
 
 **Thinner = Better Control** but slower to apply. Start with 0.020-0.031" for learning.
 
@@ -224,14 +238,17 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 ### Good Joint Characteristics
 
 **Visual Inspection:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Feature | Good Joint | Bad Joint |
-|---------|------------|-----------|
-| Shape | Concave "volcano" fillet | Blobby ball or flat |
-| Surface | Smooth, shiny (leaded) | Dull, grainy, rough |
-| Coverage | Solder flows up lead and across pad | Solder only on pad or only on lead |
-| Amount | Fills hole, visible fillet | Excess (too much) or insufficient |
-| Pad | Fully wetted, even coating | Solder sits on top (not bonded) |
+- Shape: Concave "volcano" fillet / Blobby ball or flat
+- Surface: Smooth, shiny (leaded) / Dull, grainy, rough
+- Coverage:
+  Good Joint: Solder flows up lead and across pad
+  Bad Joint: Solder only on pad or only on lead
+- Amount:
+  Good Joint: Fills hole, visible fillet
+  Bad Joint: Excess (too much) or insufficient
+- Pad:
+  Good Joint: Fully wetted, even coating
+  Bad Joint: Solder sits on top (not bonded)
 
 **Cross-Section (If Visible Through Hole):**
 - Solder wicked through hole to other side
@@ -275,14 +292,14 @@ Soldering creates permanent electrical and mechanical connections in electronic 
 ### SMD Component Sizes
 
 **Resistor/Capacitor Packages:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Package | Dimensions | Difficulty | Technique |
-|---------|-----------|------------|-----------|
-| 0201 | 0.6mm × 0.3mm | Expert | Hot air or microscope + tweezers |
-| 0402 | 1.0mm × 0.5mm | Advanced | Fine tip, steady hands |
-| 0603 | 1.6mm × 0.8mm | Intermediate | Standard technique |
-| 0805 | 2.0mm × 1.25mm | Beginner | Easiest hand-soldering |
-| 1206 | 3.2mm × 1.6mm | Beginner | Very easy |
+- 0201:
+  Dimensions: 0.6mm × 0.3mm
+  Difficulty: Expert
+  Technique: Hot air or microscope + tweezers
+- 0402: 1.0mm × 0.5mm / Advanced / Fine tip, steady hands
+- 0603: 1.6mm × 0.8mm / Intermediate / Standard technique
+- 0805: 2.0mm × 1.25mm / Beginner / Easiest hand-soldering
+- 1206: 3.2mm × 1.6mm / Beginner / Very easy
 
 **IC Packages:**
 - **SOIC (Small Outline IC):** 1.27mm pin pitch - hand-solderable
@@ -500,21 +517,42 @@ Best for: QFN packages, fine-pitch ICs, component removal
 
 ## Common Errors
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| ❌ Wrong | ✓ Right | Why It Matters |
-|---------|---------|----------------|
-| Touch solder to iron, drip on joint | Heat joint, apply solder to joint | Cold joint - solder didn't bond |
-| Hold iron on joint 10+ seconds | 3-5 seconds max | Component damage, pad delamination |
-| Move joint before solder solidifies | Hold still 2-3 seconds after iron removed | Disturbed joint (cold joint) |
-| Never clean/tin tip | Clean after each joint, re-tin | Oxidized tip won't transfer heat |
-| Use acid-core solder (plumbing) | Rosin-core electronics solder | Acid corrodes circuit traces |
-| No additional flux | Apply flux paste to difficult joints | Flux vastly improves success rate |
-| Insufficient heat (afraid to damage) | Proper temperature, quick work | Cold joints (poor connection) |
-| Too much solder (big blob) | Just enough to cover pad + fillet | Wastes solder, may bridge pins |
-| Trying to solder dirty/oxidized parts | Clean with flux or abrasive | Solder won't bond to oxides |
-| Using chisel tip for SMD 0402 | Fine conical tip | Can't see joint, bridges pads |
-| Dragging iron across pads (no flux) | Add flux before drag soldering | Bridges everywhere without flux |
-| Leaving flux residue on circuit | Clean with isopropyl alcohol | Corrosive over time (some types) |
+- Touch solder to iron, drip on joint:
+  ✓ Right: Heat joint, apply solder to joint
+  Why It Matters: Cold joint - solder didn't bond
+- Hold iron on joint 10+ seconds:
+  ✓ Right: 3-5 seconds max
+  Why It Matters: Component damage, pad delamination
+- Move joint before solder solidifies:
+  ✓ Right: Hold still 2-3 seconds after iron removed
+  Why It Matters: Disturbed joint (cold joint)
+- Never clean/tin tip:
+  ✓ Right: Clean after each joint, re-tin
+  Why It Matters: Oxidized tip won't transfer heat
+- Use acid-core solder (plumbing):
+  ✓ Right: Rosin-core electronics solder
+  Why It Matters: Acid corrodes circuit traces
+- No additional flux:
+  ✓ Right: Apply flux paste to difficult joints
+  Why It Matters: Flux vastly improves success rate
+- Insufficient heat (afraid to damage):
+  ✓ Right: Proper temperature, quick work
+  Why It Matters: Cold joints (poor connection)
+- Too much solder (big blob):
+  ✓ Right: Just enough to cover pad + fillet
+  Why It Matters: Wastes solder, may bridge pins
+- Trying to solder dirty/oxidized parts:
+  ✓ Right: Clean with flux or abrasive
+  Why It Matters: Solder won't bond to oxides
+- Using chisel tip for SMD 0402:
+  ✓ Right: Fine conical tip
+  Why It Matters: Can't see joint, bridges pads
+- Dragging iron across pads (no flux):
+  ✓ Right: Add flux before drag soldering
+  Why It Matters: Bridges everywhere without flux
+- Leaving flux residue on circuit:
+  ✓ Right: Clean with isopropyl alcohol
+  Why It Matters: Corrosive over time (some types)
 
 ## Safety & Health
 
@@ -532,13 +570,16 @@ Best for: QFN packages, fine-pitch ICs, component removal
 
 **Protection:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Method | Effectiveness | Cost | Notes |
-|--------|---------------|------|-------|
-| Open window | Low | Free | Better than nothing |
-| Fan (blow across work area) | Medium | $20 | Moves fumes away from face |
-| Fume extractor (filter) | High | $30-200 | Captures fumes at source |
-| Fume extractor (ducted) | Highest | $100-500 | Exhausts outside |
+- Open window: Low / Free / Better than nothing
+- Fan (blow across work area):
+  Effectiveness: Medium
+  Cost: $20
+  Notes: Moves fumes away from face
+- Fume extractor (filter):
+  Effectiveness: High
+  Cost: $30-200
+  Notes: Captures fumes at source
+- Fume extractor (ducted): Highest / $100-500 / Exhausts outside
 
 **Position fume extractor 6-12" from work, slightly to side and above**
 

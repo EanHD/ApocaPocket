@@ -7,17 +7,54 @@
 
 ## Priority Hazard Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
-|--------|----------|-----------|--------|----------------------|-----------|
-| Heat stroke | EXTREME | Daily (summer) | May-Sep | Moderate | l1-heat-management.md |
-| Hurricanes | CATASTROPHIC | 2-8/year | Jun-Nov | High | l1-hurricane-survival.md |
-| Flooding | HIGH | 20-50/year | Year-round | Moderate | l1-flood-safety.md |
-| Cottonmouth bite | HIGH | 100s/year | Apr-Oct | Easy (avoidance) | l1-snake-identification.md |
-| Alligator attack | MODERATE | 5-10/year | Year-round | Easy (avoidance) | l2-alligator-safety.md |
-| Fire ant swarm | MODERATE | 1000s/year | Year-round | Difficult | l2-insect-hazards.md |
-| Copperhead bite | MODERATE | 100s/year | Apr-Oct | Easy (avoidance) | l1-snake-identification.md |
-| Tornado | HIGH | 50-100/year | Mar-May | Moderate (shelter) | l1-tornado-safety.md |
+- Heat stroke:
+  Severity: EXTREME
+  Frequency: Daily (summer)
+  Season: May-Sep
+  Moderate
+  Cross-ref: l1-heat-management.md
+- Hurricanes:
+  Severity: CATASTROPHIC
+  Frequency: 2-8/year
+  Season: Jun-Nov
+  High
+  Cross-ref: l1-hurricane-survival.md
+- Flooding:
+  Severity: HIGH
+  Frequency: 20-50/year
+  Season: Year-round
+  Moderate
+  Cross-ref: l1-flood-safety.md
+- Cottonmouth bite:
+  Severity: HIGH
+  Frequency: 100s/year
+  Season: Apr-Oct
+  Easy (avoidance)
+  Cross-ref: l1-snake-identification.md
+- Alligator attack:
+  Severity: MODERATE
+  Frequency: 5-10/year
+  Season: Year-round
+  Easy (avoidance)
+  Cross-ref: l2-alligator-safety.md
+- Fire ant swarm:
+  Severity: MODERATE
+  Frequency: 1000s/year
+  Season: Year-round
+  Difficult
+  Cross-ref: l2-insect-hazards.md
+- Copperhead bite:
+  Severity: MODERATE
+  Frequency: 100s/year
+  Season: Apr-Oct
+  Easy (avoidance)
+  Cross-ref: l1-snake-identification.md
+- Tornado:
+  Severity: HIGH
+  Frequency: 50-100/year
+  Season: Mar-May
+  Moderate (shelter)
+  Cross-ref: l1-tornado-safety.md
 
 ---
 
@@ -28,13 +65,10 @@
 
 Real temperature + Southeast humidity = dangerous combined effect.
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Temperature | 60% Humidity | 70% Humidity | 80% Humidity | 90% Humidity |
-|-------------|--------------|--------------|--------------|--------------|
-| 85°F | 90°F | 93°F | 97°F | 102°F |
-| 90°F | 96°F | 101°F | 108°F | 117°F |
-| 95°F | 104°F | 113°F | 124°F | 144°F |
-| 100°F | 114°F | 129°F | 151°F | FATAL |
+- 85°F: 90°F / 93°F / 97°F / 102°F
+- 90°F: 96°F / 101°F / 108°F / 117°F
+- 95°F: 104°F / 113°F / 124°F / 144°F
+- 100°F: 114°F / 129°F / 151°F / FATAL
 
 **⚠️ CRITICAL THRESHOLDS:**
 - **80-90°F:** Fatigue possible with prolonged exposure
@@ -127,14 +161,27 @@ Night: Sleep in ventilated shelter
 
 ### Saffir-Simpson Scale
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Category | Wind Speed | Storm Surge | Damage Potential | Survival Strategy |
-|----------|------------|-------------|------------------|-------------------|
-| 1 | 74-95 mph | 4-5 ft | Minor structure damage | Shelter in place (inland) |
-| 2 | 96-110 mph | 6-8 ft | Moderate damage, power out days | Shelter in place (inland) |
-| 3 | 111-129 mph | 9-12 ft | Major damage, power out weeks | EVACUATE (coastal) |
-| 4 | 130-156 mph | 13-18 ft | Catastrophic, uninhabitable weeks | EVACUATE |
-| 5 | 157+ mph | 18+ ft | Total destruction | EVACUATE |
+- 1:
+  Wind Speed: 74-95 mph
+  Storm Surge: 4-5 ft
+  Damage Potential: Minor structure damage
+  Survival Strategy: Shelter in place (inland)
+- 2:
+  Wind Speed: 96-110 mph
+  Storm Surge: 6-8 ft
+  Damage Potential: Moderate damage, power out days
+  Survival Strategy: Shelter in place (inland)
+- 3:
+  Wind Speed: 111-129 mph
+  Storm Surge: 9-12 ft
+  Damage Potential: Major damage, power out weeks
+  Survival Strategy: EVACUATE (coastal)
+- 4:
+  Wind Speed: 130-156 mph
+  Storm Surge: 13-18 ft
+  Damage Potential: Catastrophic, uninhabitable weeks
+  Survival Strategy: EVACUATE
+- 5: 157+ mph / 18+ ft / Total destruction / EVACUATE
 
 **⚠️ STORM SURGE IS THE #1 KILLER:** 90% of hurricane deaths are from water, not wind.
 
@@ -692,15 +739,30 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 
 ### Enhanced Fujita Scale
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Rating | Wind Speed | Damage | Survival Strategy |
-|--------|------------|--------|-------------------|
-| EF0 | 65-85 mph | Minor (branches, shingles) | Sturdy shelter sufficient |
-| EF1 | 86-110 mph | Moderate (windows broken, doors) | Interior room, ground floor |
-| EF2 | 111-135 mph | Considerable (roofs off, mobile homes destroyed) | Interior room + cover (mattress) |
-| EF3 | 136-165 mph | Severe (walls collapse, trees uprooted) | Underground shelter preferred |
-| EF4 | 166-200 mph | Devastating (complete house destruction) | Underground shelter required |
-| EF5 | 200+ mph | Catastrophic (total obliteration) | Only deep underground survives |
+- EF0:
+  Wind Speed: 65-85 mph
+  Damage: Minor (branches, shingles)
+  Survival Strategy: Sturdy shelter sufficient
+- EF1:
+  Wind Speed: 86-110 mph
+  Damage: Moderate (windows broken, doors)
+  Survival Strategy: Interior room, ground floor
+- EF2:
+  Wind Speed: 111-135 mph
+  Damage: Considerable (roofs off, mobile homes destroyed)
+  Survival Strategy: Interior room + cover (mattress)
+- EF3:
+  Wind Speed: 136-165 mph
+  Damage: Severe (walls collapse, trees uprooted)
+  Survival Strategy: Underground shelter preferred
+- EF4:
+  Wind Speed: 166-200 mph
+  Damage: Devastating (complete house destruction)
+  Survival Strategy: Underground shelter required
+- EF5:
+  Wind Speed: 200+ mph
+  Damage: Catastrophic (total obliteration)
+  Survival Strategy: Only deep underground survives
 
 ### Warning System
 
@@ -764,21 +826,36 @@ Thunderstorm → 30-60 min → Water rises in creeks/streams → 1-2 hours → F
 
 ### Monthly Hazard Calendar
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Month | Primary Threats | Secondary Threats | Activity Guidance |
-|-------|----------------|-------------------|-------------------|
-| Jan | Cold snaps, ice storms | Hunting accidents | Good for travel, low hazard |
-| Feb | Ice storms, cold | Flooding (rain) | Variable conditions |
-| Mar | Tornadoes, flooding | Snakes emerge | Increasing hazard |
-| Apr | Tornadoes, flash floods | Venomous snakes active | High weather alert |
-| May | Tornadoes, heat, snakes | Ticks | Transition to summer |
-| Jun | Heat stroke, hurricanes begin | Alligators, lightning | Summer hazards start |
-| Jul | Heat stroke, lightning | Flash floods, snakes | Peak heat danger |
-| Aug | Heat stroke, hurricanes peak | Alligators, fire ants | Most dangerous month |
-| Sep | Hurricanes, heat | Flooding, snakes | Hurricane peak |
-| Oct | Hurricanes end, flooding | Snakes (still active) | Cooling, safer |
-| Nov | Tornadoes (secondary) | Cold fronts | Variable |
-| Dec | Cold snaps | Rare ice | Generally safe |
+- Jan:
+  Primary Threats: Cold snaps, ice storms
+  Secondary Threats: Hunting accidents
+  Activity Guidance: Good for travel, low hazard
+- Feb: Ice storms, cold / Flooding (rain) / Variable conditions
+- Mar: Tornadoes, flooding / Snakes emerge / Increasing hazard
+- Apr:
+  Primary Threats: Tornadoes, flash floods
+  Secondary Threats: Venomous snakes active
+  Activity Guidance: High weather alert
+- May: Tornadoes, heat, snakes / Ticks / Transition to summer
+- Jun:
+  Primary Threats: Heat stroke, hurricanes begin
+  Secondary Threats: Alligators, lightning
+  Activity Guidance: Summer hazards start
+- Jul:
+  Primary Threats: Heat stroke, lightning
+  Secondary Threats: Flash floods, snakes
+  Activity Guidance: Peak heat danger
+- Aug:
+  Primary Threats: Heat stroke, hurricanes peak
+  Secondary Threats: Alligators, fire ants
+  Activity Guidance: Most dangerous month
+- Sep: Hurricanes, heat / Flooding, snakes / Hurricane peak
+- Oct:
+  Primary Threats: Hurricanes end, flooding
+  Secondary Threats: Snakes (still active)
+  Activity Guidance: Cooling, safer
+- Nov: Tornadoes (secondary) / Cold fronts / Variable
+- Dec: Cold snaps / Rare ice / Generally safe
 
 ### Survival Priority by Threat
 

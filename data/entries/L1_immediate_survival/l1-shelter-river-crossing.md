@@ -119,20 +119,18 @@ steps:
   loss of hand dexterity, confusion
 - You may become incapacitated mid-stream
   before you realize the danger
-- **After crossing:**
-  - Change into dry clothes immediately
-  - Wring out wet clothes
-  - Move actively to generate heat
-  - Drink warm fluids if available
+- **After crossing:** change into dry
+  clothes immediately, wring out wet
+  clothes, move actively to generate
+  heat, drink warm fluids if available
 
 ## Swim vs Ford
 - If too deep to ford but **must cross:**
   SWIM it — do not wade deep fast water
 - **Swimming = control.** Wading deep
   fast water = falling, tumbling, panic.
-- **Swim technique:**
-  1. Enter **upstream** of target landing
-  2. Crawl stroke at **45°** angle to shore
-  3. Current carries you downstream —
-     aim to land 50-100m downstream
-  4. Use pack as flotation OR ditch it
+- **Swim technique:** enter upstream
+  of target, crawl stroke at **45°**
+  to shore. Current carries you down —
+  aim 50-100m downstream. Use pack
+  as flotation OR ditch it.

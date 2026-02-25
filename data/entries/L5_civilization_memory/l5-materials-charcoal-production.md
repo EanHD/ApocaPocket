@@ -38,15 +38,12 @@ Charcoal is **THE FUEL THAT UNLOCKS METALLURGY**. Without charcoal, you cannot:
 ### Best Woods (Hardwoods)
 **High-density hardwoods produce best charcoal**:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Wood Species | Charcoal Quality | Yield % | Notes |
-|--------------|------------------|---------|-------|
-| **Oak** | Excellent | 25-30% | Gold standard, burns hottest |
-| **Maple** (sugar, hard) | Excellent | 25-28% | Dense, long burn |
-| **Hickory** | Excellent | 24-28% | Very hard, high heat |
-| **Ash** | Very good | 23-26% | Easy to split, good heat |
-| **Birch** | Good | 20-24% | Slightly lower heat |
-| **Beech** | Excellent | 25-28% | European favorite |
+- Oak: Excellent / 25-30% / Gold standard, burns hottest
+- Maple (sugar, hard): Excellent / 25-28% / Dense, long burn
+- Hickory: Excellent / 24-28% / Very hard, high heat
+- Ash: Very good / 23-26% / Easy to split, good heat
+- Birch: Good / 20-24% / Slightly lower heat
+- Beech: Excellent / 25-28% / European favorite
 
 ### Avoid Softwoods (Pine, Spruce, Fir)
 **Problems**:
@@ -321,15 +318,24 @@ Temperature Zones:
 
 ## Common Errors
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Charcoal turns to ash | Too much oxygen | Seal vents better, cover with more dirt |
-| Wood doesn't char | Not enough heat/time | Cook longer, better insulation, drier wood |
-| Low yield (< 20%) | Wet wood, too much airflow | Use dry wood, reduce oxygen during cooking |
-| Charcoal smells like wood | Under-cooked | Cook longer, ensure thin blue smoke phase |
-| Drum bulges/explodes | Sealed too tight, pressure buildup | Always leave chimney/vent open during burn |
-| Fire goes out too soon | Not enough initial fuel | Start with more kindling, better airflow initially |
+- Charcoal turns to ash:
+  Cause: Too much oxygen
+  Solution: Seal vents better, cover with more dirt
+- Wood doesn't char:
+  Cause: Not enough heat/time
+  Solution: Cook longer, better insulation, drier wood
+- Low yield (< 20%):
+  Cause: Wet wood, too much airflow
+  Solution: Use dry wood, reduce oxygen during cooking
+- Charcoal smells like wood:
+  Cause: Under-cooked
+  Solution: Cook longer, ensure thin blue smoke phase
+- Drum bulges/explodes:
+  Cause: Sealed too tight, pressure buildup
+  Solution: Always leave chimney/vent open during burn
+- Fire goes out too soon:
+  Cause: Not enough initial fuel
+  Solution: Start with more kindling, better airflow initially
 
 ---
 

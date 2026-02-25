@@ -590,14 +590,11 @@ sources:
 
 ## Floor-to-Ground
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Starting Floor | Solo (No Crowds) | Light Crowds (50-100 people) | Heavy Crowds (300+ people) |
-|----------------|------------------|------------------------------|----------------------------|
-| 10th floor | 2-3 min | 5-8 min | 10-15 min |
-| 20th floor | 5-7 min | 10-15 min | 20-30 min |
-| 30th floor | 8-12 min | 15-25 min | 30-45 min |
-| 40th floor | 12-18 min | 25-40 min | 45-75 min |
-| 50th floor | 18-25 min | 35-60 min | 60-120 min |
+- 10th floor: 2-3 min / 5-8 min
+- 20th floor: 5-7 min / 10-15 min
+- 30th floor: 8-12 min / 15-25 min
+- 40th floor: 12-18 min / 25-40 min
+- 50th floor: 18-25 min / 35-60 min
 
 **Multiply by 1.5x for:**
 - Elderly (65+)

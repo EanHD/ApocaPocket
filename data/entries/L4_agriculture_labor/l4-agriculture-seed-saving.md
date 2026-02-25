@@ -8,13 +8,16 @@ Seed saving is the foundational skill for permanent food security. One successfu
 
 ## Seed Types
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Breeds True? | Notes |
-|------|--------------|-------|
-| **Open-Pollinated (OP)** | ✅ YES | Naturally pollinated, stable genetics |
-| **Heirloom** | ✅ YES | OP varieties >50 years old, proven genetics |
-| **Hybrid (F1)** | ❌ NO | Offspring revert to parent traits (unstable) |
-| **GMO** | ❌ NO | Patented, may be sterile or unstable |
+- Open-Pollinated (OP):
+  Breeds True?: ✅ YES
+  Notes: Naturally pollinated, stable genetics
+- Heirloom:
+  Breeds True?: ✅ YES
+  Notes: OP varieties >50 years old, proven genetics
+- Hybrid (F1):
+  Breeds True?: ❌ NO
+  Notes: Offspring revert to parent traits (unstable)
+- GMO: ❌ NO / Patented, may be sterile or unstable
 
 **⚠️ CRITICAL:** Only save seeds from OP or heirloom varieties. Hybrid seeds may produce plants with wildly different characteristics or fail entirely.
 
@@ -61,17 +64,14 @@ Seed saving is the foundational skill for permanent food security. One successfu
 
 **Storage Life by Crop:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Crop | Years (Cool/Dry) | Years (Frozen) |
-|------|------------------|----------------|
-| Beans, peas | 3-4 | 10+ |
-| Brassicas (cabbage, broccoli) | 3-5 | 10+ |
-| Tomatoes, peppers | 4-5 | 10+ |
-| Lettuce | 1-3 | 5-7 |
-| Squash, cucumber | 5-6 | 10+ |
-| Onions, leeks | 1-2 | 3-5 |
-| Corn | 2-3 | 10+ |
-| Carrots, beets | 3-4 | 10+ |
+- Beans, peas: 3-4 / 10+
+- Brassicas (cabbage, broccoli): 3-5 / 10+
+- Tomatoes, peppers: 4-5 / 10+
+- Lettuce: 1-3 / 5-7
+- Squash, cucumber: 5-6 / 10+
+- Onions, leeks: 1-2 / 3-5
+- Corn: 2-3 / 10+
+- Carrots, beets: 3-4 / 10+
 
 **Desiccant Protocol:**
 - Add 1-2 silica gel packets per quart jar
@@ -102,15 +102,16 @@ Seed saving is the foundational skill for permanent food security. One successfu
 
 Seeds will cross with same species, producing off-type plants. Isolation required.
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Crop Family | Cross-Pollinates With | Isolation Distance |
-|-------------|----------------------|-------------------|
-| Squash/Pumpkin | Same species only* | 1/2 mile or cage |
-| Corn | All corn varieties | 1 mile or time isolate |
-| Brassicas | All brassicas (broccoli, cabbage, kale) | 1 mile or cage |
-| Beets/Chard | Each other | 1 mile |
-| Peppers | Other peppers (less likely) | 300-500 ft or cage |
-| Tomatoes | Self-pollinating (rarely crosses) | 10-20 ft adequate |
+- Squash/Pumpkin: Same species only* / 1/2 mile or cage
+- Corn: All corn varieties / 1 mile or time isolate
+- Brassicas:
+  All brassicas (broccoli, cabbage, kale)
+  Isolation Distance: 1 mile or cage
+- Beets/Chard: Each other / 1 mile
+- Peppers: Other peppers (less likely) / 300-500 ft or cage
+- Tomatoes:
+  Self-pollinating (rarely crosses)
+  Isolation Distance: 10-20 ft adequate
 
 **\*Squash species:** C. pepo (zucchini, acorn), C. maxima (hubbard, buttercup), C. moschata (butternut) - only cross within species.
 

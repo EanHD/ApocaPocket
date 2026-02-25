@@ -248,14 +248,11 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 
 ### Rope Diameter & Strength (3-ply hemp, for reference)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Diameter | Working Load | Breaking Strength |
-|----------|--------------|-------------------|
-| 1/4 inch | 50 lbs | 300 lbs |
-| 3/8 inch | 100 lbs | 600 lbs |
-| 1/2 inch | 200 lbs | 1200 lbs |
-| 3/4 inch | 450 lbs | 2700 lbs |
-| 1 inch | 800 lbs | 4800 lbs |
+- 1/4 inch: 50 lbs / 300 lbs
+- 3/8 inch: 100 lbs / 600 lbs
+- 1/2 inch: 200 lbs / 1200 lbs
+- 3/4 inch: 450 lbs / 2700 lbs
+- 1 inch: 800 lbs / 4800 lbs
 
 **Safety factor**: Use 1/6 of breaking strength as working load (6:1 ratio)
 
@@ -329,15 +326,24 @@ Rope is the **invisible backbone of civilization**. Without cordage, you cannot:
 
 ## Common Errors
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Rope unravels | Wrong twist direction | Use counter-twist (Z-ply on S-strand) |
-| Fibers break during twisting | Too dry, over-twisted | Dampen slightly, twist gentler |
-| Rope too loose | Not enough tension | Re-twist tighter, more consistent |
-| Weak spots | Fibers not overlapped enough | Overlap new fibers 6+ inches |
-| Rope rots quickly | Moisture trapped | Dry thoroughly after use, air circulation |
-| Splices come apart | Not enough tucks | Minimum 3 tucks per strand, taper ends |
+- Rope unravels:
+  Cause: Wrong twist direction
+  Solution: Use counter-twist (Z-ply on S-strand)
+- Fibers break during twisting:
+  Cause: Too dry, over-twisted
+  Solution: Dampen slightly, twist gentler
+- Rope too loose:
+  Cause: Not enough tension
+  Solution: Re-twist tighter, more consistent
+- Weak spots:
+  Cause: Fibers not overlapped enough
+  Solution: Overlap new fibers 6+ inches
+- Rope rots quickly:
+  Cause: Moisture trapped
+  Solution: Dry thoroughly after use, air circulation
+- Splices come apart:
+  Cause: Not enough tucks
+  Solution: Minimum 3 tucks per strand, taper ends
 
 ---
 

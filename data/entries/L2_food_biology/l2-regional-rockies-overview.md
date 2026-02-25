@@ -10,14 +10,11 @@
 
 ### Temperature Ranges (Altitude-Dependent)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Elevation | Summer High | Summer Low | Winter High | Winter Low | Extreme Low |
-|-----------|-------------|------------|-------------|------------|-------------|
-| 6,000 ft | 75-85°F | 45-55°F | 30-40°F | 10-20°F | -20°F |
-| 8,000 ft | 65-75°F | 40-50°F | 25-35°F | 0-10°F | -30°F |
-| 10,000 ft | 60-70°F | 35-45°F | 20-30°F | -10-0°F | -40°F |
-| 12,000 ft | 50-60°F | 30-40°F | 10-20°F | -20 to -10°F | -50°F |
-| 14,000 ft | 40-50°F | 25-35°F | 0-10°F | -30 to -20°F | -60°F |
+- 6,000 ft: 75-85°F / 45-55°F / 30-40°F / 10-20°F / -20°F
+- 8,000 ft: 65-75°F / 40-50°F / 25-35°F / 0-10°F / -30°F
+- 10,000 ft: 60-70°F / 35-45°F / 20-30°F / -10-0°F / -40°F
+- 12,000 ft: 50-60°F / 30-40°F / 10-20°F / -20 to -10°F / -50°F
+- 14,000 ft: 40-50°F / 25-35°F / 0-10°F / -30 to -20°F / -60°F
 
 **Temperature Lapse Rate:** ~3.5°F decrease per 1,000 ft elevation gain
 
@@ -106,17 +103,62 @@
 
 ### Edible Plants (by season & elevation)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | Season | Elevation | Parts Used | Calories/lb | Preparation | Cross-ref |
-|-------|--------|-----------|------------|-------------|-------------|-----------|
-| Pine nuts (pinyon, whitebark) | Sep-Oct | 6,000-10,000 ft | Seeds (cones) | 3000+ | Extract from cones, roast, high fat | l1-pine-nuts.md |
-| Wild berries (raspberry, huckleberry, elderberry) | Jul-Aug | 7,000-10,000 ft | Fruit | 250-350 | Fresh, dry | l1-wild-berries.md |
-| Aspen inner bark | Year-round (emergency) | 7,000-10,000 ft | Cambium | 400-500 | Peel outer bark, scrape inner (survival food) | l1-survival-trees.md |
-| Dandelion | Jun-Aug | Below 10,000 ft | Leaves, roots | 200-300 | Leaves raw/cooked | l1-common-weeds.md |
-| Wild onion | Jun-Sep | Below 11,000 ft | Bulb | 150-200 | Raw/cooked | l1-foraging-basics.md |
-| Yampa root | Jul-Sep | Meadows | Root | 400-500 | Dig root, cook like potato (Native American staple) | l2-mountain-roots.md |
-| Fireweed | Jun-Aug | Disturbed areas | Young shoots, flowers | 100-150 | Cook shoots, tea from leaves | l2-alpine-plants.md |
-| Rose hips | Aug-Oct | Below 10,000 ft | Fruit | 150-200 | High vitamin C, tea or eat raw | l1-wild-fruits.md |
+- Pine nuts (pinyon, whitebark):
+  Season: Sep-Oct
+  Elevation: 6,000-10,000 ft
+  Parts Used: Seeds (cones)
+  Calories/lb: 3000+
+  Preparation: Extract from cones, roast, high fat
+  Cross-ref: l1-pine-nuts.md
+- Wild berries (raspberry, huckleberry, elderberry):
+  Season: Jul-Aug
+  Elevation: 7,000-10,000 ft
+  Parts Used: Fruit
+  Calories/lb: 250-350
+  Preparation: Fresh, dry
+  Cross-ref: l1-wild-berries.md
+- Aspen inner bark:
+  Season: Year-round (emergency)
+  Elevation: 7,000-10,000 ft
+  Parts Used: Cambium
+  Calories/lb: 400-500
+  Preparation: Peel outer bark, scrape inner (survival food)
+  Cross-ref: l1-survival-trees.md
+- Dandelion:
+  Season: Jun-Aug
+  Elevation: Below 10,000 ft
+  Parts Used: Leaves, roots
+  Calories/lb: 200-300
+  Preparation: Leaves raw/cooked
+  Cross-ref: l1-common-weeds.md
+- Wild onion:
+  Season: Jun-Sep
+  Elevation: Below 11,000 ft
+  Parts Used: Bulb
+  Calories/lb: 150-200
+  Preparation: Raw/cooked
+  Cross-ref: l1-foraging-basics.md
+- Yampa root:
+  Season: Jul-Sep
+  Elevation: Meadows
+  Parts Used: Root
+  Calories/lb: 400-500
+  Preparation: Dig root, cook like potato (Native American staple)
+  Cross-ref: l2-mountain-roots.md
+- Fireweed:
+  Season: Jun-Aug
+  Elevation: Disturbed areas
+  Parts Used: Young shoots, flowers
+  Calories/lb: 100-150
+  Preparation: Cook shoots, tea from leaves
+  Cross-ref: l2-alpine-plants.md
+- Rose hips:
+  Season: Aug-Oct
+  Elevation: Below 10,000 ft
+  Parts Used: Fruit
+  Calories/lb: 150-200
+  Preparation: High vitamin C, tea or eat raw
+  Cross-ref: l1-wild-fruits.md
 
 **⚠️ CRITICAL:** Short growing season (June-August). Pine nuts are MOST calorie-dense, priority harvest.
 
@@ -187,14 +229,36 @@
 
 ### Large Game
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
-|--------|--------|--------|---------|---------------|------------------|
-| Elk | 500-800 lbs | Sep-Oct | Montane forests, meadows | Bugling (rut), high-altitude | 200-350 |
-| Mule deer | 150-300 lbs | Sep-Nov | Montane/subalpine | Migrate to lower elevations in winter | 60-120 |
-| Bighorn sheep | 150-300 lbs | Sep-Oct (limited permits) | Alpine cliffs, high ridges | Rare, protected, excellent meat | 60-120 |
-| Mountain goat | 150-300 lbs | Sep-Oct (limited permits) | Alpine zone, cliffs | Dangerous terrain, sure-footed | 60-120 |
-| Moose | 800-1200 lbs | Sep-Oct (limited areas) | Wetlands, willow thickets (northern Rockies) | Massive yield, dangerous in rut | 400-600 |
+- Elk:
+  Weight: 500-800 lbs
+  Season: Sep-Oct
+  Habitat: Montane forests, meadows
+  Hunting Notes: Bugling (rut), high-altitude
+  Yield (lbs meat): 200-350
+- Mule deer:
+  Weight: 150-300 lbs
+  Season: Sep-Nov
+  Habitat: Montane/subalpine
+  Hunting Notes: Migrate to lower elevations in winter
+  Yield (lbs meat): 60-120
+- Bighorn sheep:
+  Weight: 150-300 lbs
+  Season: Sep-Oct (limited permits)
+  Habitat: Alpine cliffs, high ridges
+  Hunting Notes: Rare, protected, excellent meat
+  Yield (lbs meat): 60-120
+- Mountain goat:
+  Weight: 150-300 lbs
+  Season: Sep-Oct (limited permits)
+  Habitat: Alpine zone, cliffs
+  Hunting Notes: Dangerous terrain, sure-footed
+  Yield (lbs meat): 60-120
+- Moose:
+  Weight: 800-1200 lbs
+  Season: Sep-Oct (limited areas)
+  Habitat: Wetlands, willow thickets (northern Rockies)
+  Hunting Notes: Massive yield, dangerous in rut
+  Yield (lbs meat): 400-600
 
 **Elk:** PRIMARY GAME
 - Herds (100+ animals possible)
@@ -228,17 +292,23 @@
 ### Fish (Cold Water Species)
 
 **Mountain Streams:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Size | Season | Method | Notes |
-|---------|------|--------|--------|-------|
-| Trout (cutthroat, brook, rainbow, brown) | 6"-16" | Jun-Oct | Fly, spinner, worms | Native + stocked, excellent eating, freeze solid in winter |
-| Grayling (arctic) | 8"-14" | Jun-Sep | Fly | Rare, northern Rockies only, beautiful fish |
+- Trout (cutthroat, brook, rainbow, brown):
+  Size: 6"-16"
+  Season: Jun-Oct
+  Method: Fly, spinner, worms
+  Notes: Native + stocked, excellent eating, freeze solid in winter
+- Grayling (arctic):
+  Size: 8"-14"
+  Season: Jun-Sep
+  Method: Fly
+  Notes: Rare, northern Rockies only, beautiful fish
 
 **Alpine Lakes:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Size | Season | Method | Notes |
-|---------|------|--------|--------|-------|
-| Trout (cutthroat, golden) | 6"-18" | Jun-Oct | Fly, spinner | High elevation, crystal-clear water, golden trout rare |
+- Trout (cutthroat, golden):
+  Size: 6"-18"
+  Season: Jun-Oct
+  Method: Fly, spinner
+  Notes: High elevation, crystal-clear water, golden trout rare
 
 **Lowland Rivers (below 7,000 ft):**
 - **Trout:** Larger (12-20"), year-round (but harder in winter)
@@ -288,14 +358,11 @@
 ### Altitude Effects on Water
 
 **Boiling Point Decreases with Altitude:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Elevation | Boiling Point | Boil Time (Purification) |
-|-----------|--------------|--------------------------|
-| Sea level | 212°F | 1 minute |
-| 5,000 ft | 203°F | 2 minutes |
-| 7,500 ft | 198°F | 3 minutes |
-| 10,000 ft | 194°F | 3-4 minutes |
-| 14,000 ft | 187°F | 5 minutes |
+- Sea level: 212°F / 1 minute
+- 5,000 ft: 203°F / 2 minutes
+- 7,500 ft: 198°F / 3 minutes
+- 10,000 ft: 194°F / 3-4 minutes
+- 14,000 ft: 187°F / 5 minutes
 
 **⚠️ CRITICAL:** At high altitude, boil 3-5 minutes (not 1 minute).
 
@@ -455,16 +522,48 @@ Design: Semi-underground or heavily insulated structure
 
 ### Wood Selection (Altitude-Specific)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Wood Type | Elevation | BTU/cord | Burn Rate | Availability | Notes |
-|-----------|-----------|----------|-----------|--------------|-------|
-| Ponderosa pine | 6,000-8,000 ft | 17-19M | Fast | Common | Lower elevations, resinous |
-| Lodgepole pine | 7,000-10,000 ft | 15-17M | Fast | Very common | Straight, thin, easy to harvest |
-| Douglas fir | 6,000-9,000 ft | 20-22M | Moderate | Common | Good heating wood |
-| Engelmann spruce | 9,000-11,500 ft | 15-17M | Fast | Common (high) | High elevation, smaller |
-| Subalpine fir | 9,000-11,500 ft | 14-16M | Fast | Common (high) | High elevation, resinous |
-| Aspen | 7,000-10,000 ft | 14-16M | Fast | Common (groves) | Splits easily, burns hot but fast |
-| Limber pine | 9,000-12,000 ft | 18-20M | Moderate | Treeline | Stunted, windblown, hard to harvest |
+- Ponderosa pine:
+  Elevation: 6,000-8,000 ft
+  BTU/cord: 17-19M
+  Burn Rate: Fast
+  Availability: Common
+  Notes: Lower elevations, resinous
+- Lodgepole pine:
+  Elevation: 7,000-10,000 ft
+  BTU/cord: 15-17M
+  Burn Rate: Fast
+  Availability: Very common
+  Notes: Straight, thin, easy to harvest
+- Douglas fir:
+  Elevation: 6,000-9,000 ft
+  BTU/cord: 20-22M
+  Burn Rate: Moderate
+  Availability: Common
+  Notes: Good heating wood
+- Engelmann spruce:
+  Elevation: 9,000-11,500 ft
+  BTU/cord: 15-17M
+  Burn Rate: Fast
+  Availability: Common (high)
+  Notes: High elevation, smaller
+- Subalpine fir:
+  Elevation: 9,000-11,500 ft
+  BTU/cord: 14-16M
+  Burn Rate: Fast
+  Availability: Common (high)
+  Notes: High elevation, resinous
+- Aspen:
+  Elevation: 7,000-10,000 ft
+  BTU/cord: 14-16M
+  Burn Rate: Fast
+  Availability: Common (groves)
+  Notes: Splits easily, burns hot but fast
+- Limber pine:
+  Elevation: 9,000-12,000 ft
+  BTU/cord: 18-20M
+  Burn Rate: Moderate
+  Availability: Treeline
+  Notes: Stunted, windblown, hard to harvest
 
 **Best for altitude:** Ponderosa, Douglas fir (lower elevations, higher BTU)  
 **Reality at high elevations:** Lodgepole, spruce, fir (all you have, lower BTU)

@@ -1,5 +1,5 @@
 ---
-title: "Urban Navigation Without GPS"
+title: "Urban GPS-Free Nav"
 category: "L1"
 subcategory: "navigation"
 tags: ["navigation", "urban", "city", "landmarks", "grid", "wayfinding"]

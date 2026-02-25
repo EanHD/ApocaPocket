@@ -71,12 +71,9 @@ sources:
 
 ### Quick Reference Table
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Tank Size | Gallons | Family of 4 | Solo Person |
-|-----------|---------|-------------|-------------|
-| Small | 30-40 gal | 7-10 days | 30-40 days |
-| Standard | 40-50 gal | 10-12 days | 40-50 days |
-| Large | 50-80 gal | 12-20 days | 50-80 days |
+- Small: 30-40 gal / 7-10 days
+- Standard: 40-50 gal / 10-12 days
+- Large: 50-80 gal / 12-20 days
 
 **Assumes:** 1 gallon/person/day minimum (0.5 gal drinking, 0.5 gal hygiene)
 
@@ -190,12 +187,9 @@ Is water from hot water heater (already heated)?
 
 ### Bleach Treatment (if no boiling available)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Water Amount | Regular Bleach (6%) | Concentrated (8.25%) |
-|--------------|---------------------|----------------------|
-| 1 quart | 2 drops | 2 drops |
-| 1 gallon | 8 drops (1/8 tsp) | 6 drops |
-| 5 gallons | 1/2 tsp | 1/4 tsp |
+- 1 quart: 2 drops / 2 drops
+- 1 gallon: 8 drops (1/8 tsp) / 6 drops
+- 5 gallons: 1/2 tsp / 1/4 tsp
 
 **Method:**
 1. Add bleach, stir well

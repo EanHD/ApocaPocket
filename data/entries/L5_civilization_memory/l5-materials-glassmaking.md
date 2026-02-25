@@ -233,15 +233,12 @@ Wall Construction (cross-section):
 
 **Add to batch** (small percentages):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Additive | Color | Amount |
-|----------|-------|--------|
-| Iron oxide (rust) | Green/brown | 0.5-2% |
-| Copper oxide (malachite) | Blue/green | 0.5-1% |
-| Cobalt oxide | Deep blue | 0.1-0.5% |
-| Manganese oxide | Purple/clear | 0.5-1% |
-| Selenium | Red/pink | 0.1-0.3% |
-| Carbon (soot) | Amber/brown | 0.2-0.5% |
+- Iron oxide (rust): Green/brown / 0.5-2%
+- Copper oxide (malachite): Blue/green / 0.5-1%
+- Cobalt oxide: Deep blue / 0.1-0.5%
+- Manganese oxide: Purple/clear / 0.5-1%
+- Selenium: Red/pink / 0.1-0.3%
+- Carbon (soot): Amber/brown / 0.2-0.5%
 
 **Clear/colorless glass**: Very difficult (requires pure materials, decolorizers). Most primitive glass is green/blue due to iron impurities.
 
@@ -304,15 +301,24 @@ Wall Construction (cross-section):
 
 ## Common Errors
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Problem | Cause | Solution |
-|---------|-------|----------|
-| Glass won't melt | Temperature too low | Increase airflow, use better fuel |
-| Bubbles in glass | Not enough melting time | Hold at peak temp 2+ hours longer |
-| Cracks during annealing | Cooled too fast | Slower cooling rate, better insulation |
-| Green/brown tint | Iron in sand | Purer silica source, or add manganese (decolorizer) |
-| Glass shatters when working | Not hot enough | Reheat frequently, keep above 1000°F |
-| Crucible cracks | Thermal shock | Preheat slowly, use refractory clay |
+- Glass won't melt:
+  Cause: Temperature too low
+  Solution: Increase airflow, use better fuel
+- Bubbles in glass:
+  Cause: Not enough melting time
+  Solution: Hold at peak temp 2+ hours longer
+- Cracks during annealing:
+  Cause: Cooled too fast
+  Solution: Slower cooling rate, better insulation
+- Green/brown tint:
+  Cause: Iron in sand
+  Solution: Purer silica source, or add manganese (decolorizer)
+- Glass shatters when working:
+  Cause: Not hot enough
+  Solution: Reheat frequently, keep above 1000°F
+- Crucible cracks:
+  Cause: Thermal shock
+  Solution: Preheat slowly, use refractory clay
 
 ---
 

@@ -28,19 +28,16 @@ sources:
 
 ## Weight Conv
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Pounds (lbs) | Kilograms (kg) | Age Range (approximate) |
-|--------------|----------------|-------------------------|
-| 8-12 lbs | 3.6-5.4 kg | 0-3 months (newborn) |
-| 12-16 lbs | 5.4-7.3 kg | 3-6 months |
-| 16-20 lbs | 7.3-9.1 kg | 6-12 months |
-| 20-24 lbs | 9.1-10.9 kg | 12-18 months |
-| 24-30 lbs | 10.9-13.6 kg | 18-24 months (toddler) |
-| 30-40 lbs | 13.6-18.1 kg | 2-4 years |
-| 40-50 lbs | 18.1-22.7 kg | 4-6 years |
-| 50-70 lbs | 22.7-31.8 kg | 6-9 years |
-| 70-100 lbs | 31.8-45.4 kg | 9-12 years |
-| 100+ lbs | 45.4+ kg | 12+ years (adult dosing) |
+- 8-12 lbs: 3.6-5.4 kg / 0-3 months (newborn)
+- 12-16 lbs: 5.4-7.3 kg / 3-6 months
+- 16-20 lbs: 7.3-9.1 kg / 6-12 months
+- 20-24 lbs: 9.1-10.9 kg / 12-18 months
+- 24-30 lbs: 10.9-13.6 kg / 18-24 months (toddler)
+- 30-40 lbs: 13.6-18.1 kg / 2-4 years
+- 40-50 lbs: 18.1-22.7 kg / 4-6 years
+- 50-70 lbs: 22.7-31.8 kg / 6-9 years
+- 70-100 lbs: 31.8-45.4 kg / 9-12 years
+- 100+ lbs: 45.4+ kg / 12+ years (adult dosing)
 
 **To convert:**
 - Pounds → Kilograms: Divide by 2.2 (e.g., 44 lbs ÷ 2.2 = 20 kg)
@@ -62,17 +59,14 @@ sources:
 
 ### Dosing Table (by Weight)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Weight | Dose (mg) | Infant Drops (80mg/0.8mL) | Liquid (160mg/5mL) | Chewable (160mg) |
-|--------|-----------|---------------------------|-------------------|------------------|
-| 12-17 lbs | 80 mg | 0.8 mL | 2.5 mL | 1/2 tablet |
-| 18-23 lbs | 120 mg | 1.2 mL | 3.75 mL | 3/4 tablet |
-| 24-35 lbs | 160 mg | 1.6 mL | 5 mL | 1 tablet |
-| 36-47 lbs | 240 mg | 2.4 mL | 7.5 mL | 1.5 tablets |
-| 48-59 lbs | 320 mg | — | 10 mL | 2 tablets |
-| 60-71 lbs | 400 mg | — | 12.5 mL | 2.5 tablets |
-| 72-95 lbs | 480 mg | — | 15 mL | 3 tablets |
-| 96+ lbs | 640 mg | — | 20 mL | 4 tablets (or adult 325mg x2) |
+- 12-17 lbs: 80 mg / 0.8 mL
+- 18-23 lbs: 120 mg / 1.2 mL
+- 24-35 lbs: 160 mg / 1.6 mL
+- 36-47 lbs: 240 mg / 2.4 mL
+- 48-59 lbs: 320 mg / —
+- 60-71 lbs: 400 mg / —
+- 72-95 lbs: 480 mg / —
+- 96+ lbs: 640 mg / —
 
 **Maximum daily dose:** 75 mg/kg/day or 4000 mg (whichever is lower)
 
@@ -100,17 +94,14 @@ sources:
 
 ### Dosing Table (by Weight)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Weight | Dose (mg) | Infant Drops (50mg/1.25mL) | Liquid (100mg/5mL) | Chewable (50mg) | Chewable (100mg) |
-|--------|-----------|----------------------------|-------------------|-----------------|------------------|
-| 12-17 lbs | 50 mg | 1.25 mL | 2.5 mL | 1 tablet | 1/2 tablet |
-| 18-23 lbs | 75 mg | 1.875 mL | 4 mL | 1.5 tablets | 3/4 tablet |
-| 24-35 lbs | 100 mg | 2.5 mL | 5 mL | 2 tablets | 1 tablet |
-| 36-47 lbs | 150 mg | 3.75 mL | 7.5 mL | 3 tablets | 1.5 tablets |
-| 48-59 lbs | 200 mg | — | 10 mL | 4 tablets | 2 tablets |
-| 60-71 lbs | 250 mg | — | 12.5 mL | 5 tablets | 2.5 tablets |
-| 72-95 lbs | 300 mg | — | 15 mL | 6 tablets | 3 tablets |
-| 96+ lbs | 400 mg | — | 20 mL | 8 tablets | 4 tablets (or adult 200mg x2) |
+- 12-17 lbs: 50 mg / 1.25 mL
+- 18-23 lbs: 75 mg / 1.875 mL
+- 24-35 lbs: 100 mg / 2.5 mL
+- 36-47 lbs: 150 mg / 3.75 mL
+- 48-59 lbs: 200 mg / —
+- 60-71 lbs: 250 mg / —
+- 72-95 lbs: 300 mg / —
+- 96+ lbs: 400 mg / —
 
 **Maximum daily dose:** 40 mg/kg/day or 1200 mg (whichever is lower)
 
@@ -163,14 +154,11 @@ sources:
 
 ### Dosing Table (by Weight)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Weight | Dose (mg) | Liquid (12.5mg/5mL) | Chewable (12.5mg) |
-|--------|-----------|---------------------|-------------------|
-| 20-24 lbs | 12.5 mg | 5 mL | 1 tablet |
-| 25-37 lbs | 18.75 mg | 7.5 mL | 1.5 tablets |
-| 38-49 lbs | 25 mg | 10 mL | 2 tablets |
-| 50-99 lbs | 37.5 mg | 15 mL | 3 tablets |
-| 100+ lbs | 50 mg | 20 mL | 4 tablets (or adult 25mg x2) |
+- 20-24 lbs: 12.5 mg / 5 mL
+- 25-37 lbs: 18.75 mg / 7.5 mL
+- 38-49 lbs: 25 mg / 10 mL
+- 50-99 lbs: 37.5 mg / 15 mL
+- 100+ lbs: 50 mg / 20 mL
 
 **Maximum single dose:** 50 mg  
 **Maximum daily dose:** 300 mg
@@ -202,13 +190,18 @@ sources:
 ### Commercial ORS (Pedialyte, WHO-ORS)
 **Dosing by weight and severity:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Weight | Mild Dehydration | Moderate Dehydration |
-|--------|------------------|----------------------|
-| 10-20 lbs | 16-32 oz over 4 hours | 32-48 oz over 4 hours |
-| 20-40 lbs | 32-64 oz over 4 hours | 64-96 oz over 4 hours |
-| 40-60 lbs | 48-96 oz over 4 hours | 96-144 oz over 4 hours |
-| 60+ lbs | 64-128 oz over 4 hours | 128-192 oz over 4 hours |
+- 10-20 lbs:
+  Mild Dehydration: 16-32 oz over 4 hours
+  32-48 oz over 4 hours
+- 20-40 lbs:
+  Mild Dehydration: 32-64 oz over 4 hours
+  64-96 oz over 4 hours
+- 40-60 lbs:
+  Mild Dehydration: 48-96 oz over 4 hours
+  96-144 oz over 4 hours
+- 60+ lbs:
+  Mild Dehydration: 64-128 oz over 4 hours
+  128-192 oz over 4 hours
 
 **Give frequently:** Small sips every 5-10 minutes (prevents vomiting from too much at once)
 

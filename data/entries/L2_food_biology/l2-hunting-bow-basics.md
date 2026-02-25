@@ -245,14 +245,14 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ### Recovery Distance by Hit Quality
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hit Type | Blood Trail | Distance | Recovery Time |
-|----------|-------------|----------|---------------|
-| Double lung | Heavy, bright red, frothy | 30-80 yards | 30-60 min |
-| Heart | Heavy, dark red | 40-100 yards | 30-60 min |
-| Single lung | Moderate, bright red | 100-200 yards | 60-120 min |
-| Liver | Dark, thin | 150-300 yards | 2-4 hours |
-| Gut | Sparse, watery | 200+ yards | 6-12 hours |
+- Double lung:
+  Blood Trail: Heavy, bright red, frothy
+  Distance: 30-80 yards
+  Recovery Time: 30-60 min
+- Heart: Heavy, dark red / 40-100 yards / 30-60 min
+- Single lung: Moderate, bright red / 100-200 yards / 60-120 min
+- Liver: Dark, thin / 150-300 yards / 2-4 hours
+- Gut: Sparse, watery / 200+ yards / 6-12 hours
 
 ---
 

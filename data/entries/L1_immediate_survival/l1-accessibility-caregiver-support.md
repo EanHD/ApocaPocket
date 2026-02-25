@@ -202,14 +202,17 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 ### Texture Modification
 
 **Dysphagia Diet Levels:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Level | Texture | Examples |
-|-------|---------|----------|
-| Regular | Normal | All foods |
-| Soft | Fork-mashable | Cooked vegetables, ripe bananas, scrambled eggs |
-| Minced & Moist | Small pieces, gravy/sauce | Ground meat with gravy, mashed potatoes |
-| Pureed | Smooth, pudding-like | Applesauce, pureed soups, mashed banana |
-| Liquidized | Drinkable | Smoothies, strained soups |
+- Regular: Normal / All foods
+- Soft:
+  Texture: Fork-mashable
+  Examples: Cooked vegetables, ripe bananas, scrambled eggs
+- Minced & Moist:
+  Texture: Small pieces, gravy/sauce
+  Examples: Ground meat with gravy, mashed potatoes
+- Pureed:
+  Texture: Smooth, pudding-like
+  Examples: Applesauce, pureed soups, mashed banana
+- Liquidized: Drinkable / Smoothies, strained soups
 
 **Thickened Liquids (Reduce Aspiration Risk):**
 - **Thin:** Water, juice, broth (highest aspiration risk)
@@ -316,13 +319,18 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 4. Check for open sores, blisters, broken skin
 
 **Pressure Injury Stages:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stage | Appearance | Action |
-|-------|------------|--------|
-| Stage 1 | Red area that doesn't blanch | Stop pressure immediately, increase repositioning |
-| Stage 2 | Blister or shallow open sore | Clean, dress, relieve pressure 100% |
-| Stage 3 | Deep crater, fat visible | Clean, pack wound, evacuate if possible |
-| Stage 4 | Very deep, muscle/bone visible | Life-threatening, EVACUATE IMMEDIATELY |
+- Stage 1:
+  Appearance: Red area that doesn't blanch
+  Action: Stop pressure immediately, increase repositioning
+- Stage 2:
+  Appearance: Blister or shallow open sore
+  Action: Clean, dress, relieve pressure 100%
+- Stage 3:
+  Appearance: Deep crater, fat visible
+  Action: Clean, pack wound, evacuate if possible
+- Stage 4:
+  Appearance: Very deep, muscle/bone visible
+  Action: Life-threatening, EVACUATE IMMEDIATELY
 
 ⚠️ **Once a pressure sore opens, infection risk is high. Prevention is critical.**
 
@@ -390,14 +398,11 @@ Caregiving in survival scenarios is physically and emotionally demanding. This e
 ### Pain Assessment (Non-Verbal)
 
 **FLACC Pain Scale (0-10):**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Category | 0 | 1 | 2 |
-|----------|---|---|---|
-| **Face** | Smiling, no distress | Occasional grimace | Frequent grimace, clenched jaw |
-| **Legs** | Relaxed | Restless, tense | Kicking, drawn up |
-| **Activity** | Lying quietly | Squirming | Arched, rigid |
-| **Cry** | No cry | Moans, whimpers | Crying steadily, screaming |
-| **Consolability** | Content | Reassured by touch/talk | Difficult to console |
+- Face: Smiling, no distress / Occasional grimace
+- Legs: Relaxed / Restless, tense
+- Activity: Lying quietly / Squirming
+- Cry: No cry / Moans, whimpers
+- Consolability: Content / Reassured by touch/talk
 
 **Score:** Add points from each category (0-10 total)
 - 0 = No pain

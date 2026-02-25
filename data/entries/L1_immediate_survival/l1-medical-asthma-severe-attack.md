@@ -29,12 +29,15 @@ Asthma affects 25 million Americans (8% of population). Severe attacks can be fa
 
 ### Peak Flow Zones (If Meter Available)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Zone | Peak Flow | Symptoms | Action |
-|------|-----------|----------|--------|
-| **GREEN** | 80-100% personal best | Breathing well, no symptoms | Continue routine meds |
-| **YELLOW** | 50-80% personal best | Coughing, wheezing, chest tight | Use rescue inhaler, monitor |
-| **RED** | <50% personal best | Severe symptoms, struggling | Emergency treatment NOW |
+- GREEN:
+  Peak Flow: 80-100% personal best
+  Symptoms: Breathing well, no symptoms
+  Action: Continue routine meds
+- YELLOW:
+  Peak Flow: 50-80% personal best
+  Symptoms: Coughing, wheezing, chest tight
+  Action: Use rescue inhaler, monitor
+- RED: <50% personal best / Severe symptoms, struggling
 
 ### Severity Assessment (Without Peak Flow Meter)
 

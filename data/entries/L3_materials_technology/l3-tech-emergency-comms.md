@@ -72,32 +72,26 @@ This guide covers **six essential protocol categories**:
 **Purpose**: Spell words letter-by-letter without confusion. Critical for callsigns, names, locations, grid coordinates.
 
 **Alphabet**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Letter | Word | Pronunciation | Letter | Word | Pronunciation |
-|--------|------|---------------|--------|------|---------------|
-| **A** | Alpha | AL-FAH | **N** | November | NO-VEM-BER |
-| **B** | Bravo | BRAH-VOH | **O** | Oscar | OSS-CAH |
-| **C** | Charlie | CHAR-LEE | **P** | Papa | PAH-PAH |
-| **D** | Delta | DELL-TAH | **Q** | Quebec | KEH-BECK |
-| **E** | Echo | ECK-OH | **R** | Romeo | ROW-ME-OH |
-| **F** | Foxtrot | FOKS-TROT | **S** | Sierra | SEE-AIR-AH |
-| **G** | Golf | GOLF | **T** | Tango | TANG-GO |
-| **H** | Hotel | HOH-TELL | **U** | Uniform | YOU-NEE-FORM |
-| **I** | India | IN-DEE-AH | **V** | Victor | VIK-TAH |
-| **J** | Juliett | JEW-LEE-ETT | **W** | Whiskey | WISS-KEY |
-| **K** | Kilo | KEY-LOH | **X** | X-ray | ECKS-RAY |
-| **L** | Lima | LEE-MAH | **Y** | Yankee | YANG-KEY |
-| **M** | Mike | MIKE | **Z** | Zulu | ZOO-LOO |
+- A: Alpha / AL-FAH / N / November / NO-VEM-BER
+- B: Bravo / BRAH-VOH / O / Oscar / OSS-CAH
+- C: Charlie / CHAR-LEE / P / Papa / PAH-PAH
+- D: Delta / DELL-TAH / Q / Quebec / KEH-BECK
+- E: Echo / ECK-OH / R / Romeo / ROW-ME-OH
+- F: Foxtrot / FOKS-TROT / S / Sierra / SEE-AIR-AH
+- G: Golf / GOLF / T / Tango / TANG-GO
+- H: Hotel / HOH-TELL / U / Uniform / YOU-NEE-FORM
+- I: India / IN-DEE-AH / V / Victor / VIK-TAH
+- J: Juliett / JEW-LEE-ETT / W / Whiskey / WISS-KEY
+- K: Kilo / KEY-LOH / X / X-ray / ECKS-RAY
+- L: Lima / LEE-MAH / Y / Yankee / YANG-KEY
+- M: Mike / MIKE / Z / Zulu / ZOO-LOO
 
 **Numbers**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Number | Word | Pronunciation | Number | Word | Pronunciation |
-|--------|------|---------------|--------|------|---------------|
-| **0** | Zero | ZEE-RO | **5** | Five | FIFE |
-| **1** | One | WUN | **6** | Six | SIX |
-| **2** | Two | TOO | **7** | Seven | SEV-EN |
-| **3** | Three | TREE | **8** | Eight | AIT |
-| **4** | Four | FOW-ER | **9** | Nine | NIN-ER |
+- 0: Zero / ZEE-RO / 5 / Five / FIFE
+- 1: One / WUN / 6 / Six / SIX
+- 2: Two / TOO / 7 / Seven / SEV-EN
+- 3: Three / TREE / 8 / Eight / AIT
+- 4: Four / FOW-ER / 9 / Nine / NIN-ER
 
 **Usage Examples**:
 
@@ -144,18 +138,17 @@ This guide covers **six essential protocol categories**:
 ### 10-Codes (Law Enforcement / Public Safety Origin)
 
 **Common 10-Codes**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Code | Meaning | Usage |
-|------|---------|-------|
-| **10-4** | Acknowledged, understood | "10-4, message received" |
-| **10-9** | Repeat, say again | "10-9, you were unreadable" |
-| **10-20** | Location | "What is your 10-20?" = "Where are you?" |
-| **10-33** | Emergency traffic | "10-33, need immediate assistance" |
-| **10-36** | Correct time | "10-36 is 1530 hours" |
-| **10-55** | Intoxicated driver | (Law enforcement specific) |
-| **10-66** | Suspicious person | (Law enforcement specific) |
-| **10-97** | Arrived at scene | "10-97 at shelter" |
-| **10-98** | Completed assignment | "10-98, returning to base" |
+- 10-4: Acknowledged, understood / "10-4, message received"
+- 10-9: Repeat, say again / "10-9, you were unreadable"
+- 10-20: Location / "What is your 10-20?" = "Where are you?"
+- 10-33:
+  Meaning: Emergency traffic
+  Usage: "10-33, need immediate assistance"
+- 10-36: Correct time / "10-36 is 1530 hours"
+- 10-55: Intoxicated driver / (Law enforcement specific)
+- 10-66: Suspicious person / (Law enforcement specific)
+- 10-97: Arrived at scene / "10-97 at shelter"
+- 10-98: Completed assignment / "10-98, returning to base"
 
 **Limitations**:
 - **Not standardized**: Meanings vary by region, agency, country (10-33 = emergency in some areas, 10-33 = traffic advisory in others)
@@ -169,25 +162,44 @@ This guide covers **six essential protocol categories**:
 **Q-codes** originated in maritime radio, now used extensively in amateur radio. Internationally recognized.
 
 **Common Q-Codes**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Code | Question | Answer/Statement |
-|------|----------|------------------|
-| **QRL** | Is this frequency in use? | This frequency is in use (QRL = "occupied") |
-| **QRM** | Are you being interfered with? | I am being interfered with (by other stations) |
-| **QRN** | Are you troubled by static? | I am troubled by static (atmospheric noise) |
-| **QRP** | Shall I decrease power? | Decrease power / I am running low power (<10W) |
-| **QRQ** | Shall I send faster? | Send faster (increase CW speed) |
-| **QRS** | Shall I send slower? | Send slower (decrease CW speed) |
-| **QRT** | Shall I stop sending? | Stop sending / I am shutting down station |
-| **QRU** | Have you anything for me? | I have nothing for you |
-| **QRV** | Are you ready? | I am ready |
-| **QRX** | When will you call again? | I will call again at [time], stand by |
-| **QRZ** | Who is calling me? | You are being called by [callsign] |
-| **QSB** | Is my signal fading? | Your signal is fading |
-| **QSL** | Can you acknowledge? | I acknowledge receipt (QSL card = confirmation) |
-| **QSO** | Can you communicate with [station]? | I can communicate (QSO = contact, conversation) |
-| **QSY** | Shall I change frequency? | Change frequency to [frequency] |
-| **QTH** | What is your location? | My location is [city, grid square] |
+- QRL:
+  Question: Is this frequency in use?
+  Answer/Statement: This frequency is in use (QRL = "occupied")
+- QRM:
+  Question: Are you being interfered with?
+  Answer/Statement: I am being interfered with (by other stations)
+- QRN:
+  Question: Are you troubled by static?
+  Answer/Statement: I am troubled by static (atmospheric noise)
+- QRP:
+  Question: Shall I decrease power?
+  Answer/Statement: Decrease power / I am running low power (<10W)
+- QRQ: Shall I send faster? / Send faster (increase CW speed)
+- QRS: Shall I send slower? / Send slower (decrease CW speed)
+- QRT:
+  Question: Shall I stop sending?
+  Answer/Statement: Stop sending / I am shutting down station
+- QRU: Have you anything for me? / I have nothing for you
+- QRV: Are you ready? / I am ready
+- QRX:
+  Question: When will you call again?
+  Answer/Statement: I will call again at [time], stand by
+- QRZ:
+  Question: Who is calling me?
+  Answer/Statement: You are being called by [callsign]
+- QSB: Is my signal fading? / Your signal is fading
+- QSL:
+  Question: Can you acknowledge?
+  Answer/Statement: I acknowledge receipt (QSL card = confirmation)
+- QSO:
+  Question: Can you communicate with [station]?
+  Answer/Statement: I can communicate (QSO = contact, conversation)
+- QSY:
+  Question: Shall I change frequency?
+  Answer/Statement: Change frequency to [frequency]
+- QTH:
+  Question: What is your location?
+  Answer/Statement: My location is [city, grid square]
 
 **Usage Examples**:
 
@@ -600,13 +612,18 @@ NCS: "Roger, net is clear, standing by for further traffic. Over"
 
 **Four Levels** (ICS/FEMA standard):
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Precedence | Use | Example |
-|------------|-----|---------|
-| **EMERGENCY** | Life-threatening, immediate action required | "EMERGENCY: Fire spreading, immediate evacuation shelter Alpha" |
-| **PRIORITY** | Urgent, time-sensitive, not immediately life-threatening | "PRIORITY: Medical supplies low, request resupply within 4 hours" |
-| **WELFARE** | Personal status, family notifications, non-operational | "WELFARE: Please notify family of John Doe (address), he is safe" |
-| **ROUTINE** | Administrative, informational, no time constraint | "ROUTINE: Daily status report, all facilities operating normally" |
+- EMERGENCY:
+  Use: Life-threatening, immediate action required
+  Example: "EMERGENCY: Fire spreading, immediate evacuation shelter Alp
+- PRIORITY:
+  Use: Urgent, time-sensitive, not immediately life-threatening
+  Example: "PRIORITY: Medical supplies low, request resupply within 4 h
+- WELFARE:
+  Use: Personal status, family notifications, non-operational
+  Example: "WELFARE: Please notify family of John Doe (address), he is 
+- ROUTINE:
+  Use: Administrative, informational, no time constraint
+  Example: "ROUTINE: Daily status report, all facilities operating norm
 
 **Handling Order**: EMERGENCY → PRIORITY → WELFARE → ROUTINE
 

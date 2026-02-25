@@ -53,9 +53,8 @@ steps:
 - **R-value** = thermal resistance
 - Higher R-value = better insulation
 - Bare ground = **R-0**
-- **Minimums needed:**
-  - 0°C (32°F): R-5 minimum
-  - Below -10°C (14°F): R-8+
+- **Minimums:** 0°C needs R-5,
+  below -10°C needs R-8+
 - Commercial sleeping pad = R-2 to R-7
 - Natural materials can **match or exceed**
   commercial pads with enough depth
@@ -77,9 +76,8 @@ steps:
 ## Bough Bed
 - Use **evergreen boughs** (spruce,
   fir, pine) — resin repels moisture
-- Layer like shingles:
-  - Tips pointing toward your feet
-  - Butts of branches into ground
+- Layer like shingles: tips toward feet,
+  butts of branches into ground
 - **6-8 inches** of compressed boughs
   = R-4 to R-6
 - Overlap layers fully — no bare gaps
@@ -101,10 +99,9 @@ steps:
 
 ## Best System
 - Optimal layers (ground to top):
-  1. **Bark slabs** — moisture barrier
-  2. **6" dry debris** (leaves, needles,
-     grass)
-  3. **Bough layer** on top
+  **1.** Bark slabs — moisture barrier.
+  **2.** 6" dry debris (leaves/needles/
+  grass). **3.** Bough layer on top.
 - Total R-value: **R-8 to R-12**
 - Rivals commercial sleeping pads and
   air mattresses
@@ -132,10 +129,8 @@ steps:
   bare ground contact
 - Every layer reduces **conductive
   heat loss** — even a thin one helps
-- Priority when time is short:
-  1. Get off the ground first
-  2. Cover top second
-  3. Improve both as time allows
+- Priority: get off ground first,
+  then cover top, then improve both
 - Do NOT skip ground insulation to
   save time — it costs sleep and
   possibly your life

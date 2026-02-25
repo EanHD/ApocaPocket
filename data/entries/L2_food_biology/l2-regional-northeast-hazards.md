@@ -7,11 +7,18 @@
 
 ## Priority Hazard Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
-|--------|----------|-----------|--------|----------------------|-----------|
-| Hypothermia/cold | EXTREME | Daily (winter) | Dec-Feb | Moderate | l1-cold-weather-survival.md |
-| Nor'easters | EXTREME | 5-15/year | Oct-Apr | Moderate | l1-noreast (continued)
+- Hypothermia/cold:
+  Severity: EXTREME
+  Frequency: Daily (winter)
+  Season: Dec-Feb
+  Moderate
+  Cross-ref: l1-cold-weather-survival.md
+- Nor'easters:
+  Severity: EXTREME
+  Frequency: 5-15/year
+  Season: Oct-Apr
+  Moderate
+  Cross-ref: l1-noreast (continued)
 
 Let me complete the Northeast hazards file:
 
@@ -26,17 +33,54 @@ Let me complete the Northeast hazards file:
 
 ## Priority Hazard Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Hazard | Severity | Frequency | Season | Prevention Difficulty | Cross-ref |
-|--------|----------|-----------|--------|----------------------|-----------|
-| Hypothermia/cold | EXTREME | Daily (winter) | Dec-Feb | Moderate | l1-cold-weather-survival.md |
-| Nor'easters | EXTREME | 5-15/year | Oct-Apr | Moderate | l1-noreaster-survival.md |
-| Ice storms | HIGH | 2-8/year | Dec-Mar | High | l1-ice-storm-safety.md |
-| Lyme disease | HIGH | 10,000s/year | May-Sep | Easy | l2-tick-borne-disease.md |
-| Black bears | MODERATE | Increasing | Year-round | Moderate | l2-black-bear-safety.md |
-| Moose collisions | MODERATE | 100s/year | May-Oct | Moderate | l2-moose-safety.md |
-| Frostbite | MODERATE | Common (winter) | Nov-Mar | Easy | l1-cold-weather-survival.md |
-| Coastal flooding | MODERATE | 3-10/year | Oct-Apr | High | l1-flood-safety.md |
+- Hypothermia/cold:
+  Severity: EXTREME
+  Frequency: Daily (winter)
+  Season: Dec-Feb
+  Moderate
+  Cross-ref: l1-cold-weather-survival.md
+- Nor'easters:
+  Severity: EXTREME
+  Frequency: 5-15/year
+  Season: Oct-Apr
+  Moderate
+  Cross-ref: l1-noreaster-survival.md
+- Ice storms:
+  Severity: HIGH
+  Frequency: 2-8/year
+  Season: Dec-Mar
+  High
+  Cross-ref: l1-ice-storm-safety.md
+- Lyme disease:
+  Severity: HIGH
+  Frequency: 10,000s/year
+  Season: May-Sep
+  Easy
+  Cross-ref: l2-tick-borne-disease.md
+- Black bears:
+  Severity: MODERATE
+  Frequency: Increasing
+  Season: Year-round
+  Moderate
+  Cross-ref: l2-black-bear-safety.md
+- Moose collisions:
+  Severity: MODERATE
+  Frequency: 100s/year
+  Season: May-Oct
+  Moderate
+  Cross-ref: l2-moose-safety.md
+- Frostbite:
+  Severity: MODERATE
+  Frequency: Common (winter)
+  Season: Nov-Mar
+  Easy
+  Cross-ref: l1-cold-weather-survival.md
+- Coastal flooding:
+  Severity: MODERATE
+  Frequency: 3-10/year
+  Season: Oct-Apr
+  High
+  Cross-ref: l1-flood-safety.md
 
 ---
 
@@ -60,13 +104,26 @@ Let me complete the Northeast hazards file:
 
 ### Nor'easter Categories (Unofficial Scale)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Category | Snow | Wind (Coastal) | Impact | Historical Examples |
-|----------|------|----------------|--------|---------------------|
-| Minor | 6-12" | 30-45 mph | Local closures, brief outages | Common (10-20/year) |
-| Moderate | 12-24" | 45-60 mph | Regional disruption, power out 1-3 days | 3-8/year |
-| Major | 24-36" | 60-75 mph | Multi-state emergency, power out 3-7 days | 1-3/year |
-| Extreme | 36"+ | 75-90+ mph | Catastrophic, power out weeks | Rare (1-3/decade) |
+- Minor:
+  Snow: 6-12"
+  Wind (Coastal): 30-45 mph
+  Impact: Local closures, brief outages
+  Historical Examples: Common (10-20/year)
+- Moderate:
+  Snow: 12-24"
+  Wind (Coastal): 45-60 mph
+  Impact: Regional disruption, power out 1-3 days
+  Historical Examples: 3-8/year
+- Major:
+  Snow: 24-36"
+  Wind (Coastal): 60-75 mph
+  Impact: Multi-state emergency, power out 3-7 days
+  Historical Examples: 1-3/year
+- Extreme:
+  Snow: 36"+
+  Wind (Coastal): 75-90+ mph
+  Impact: Catastrophic, power out weeks
+  Historical Examples: Rare (1-3/decade)
 
 **Historic Extreme Nor'easters:**
 - **Blizzard of 1888:** 40-50" snow, 400+ deaths, entire Northeast paralyzed for week
@@ -725,21 +782,45 @@ Let me complete the Northeast hazards file:
 
 ### Monthly Hazard Calendar
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Month | Primary Threats | Secondary Threats | Activity Guidance |
-|-------|----------------|-------------------|-------------------|
-| Jan | Nor'easters, extreme cold | Ice storms, cold exposure | Highest winter danger |
-| Feb | Nor'easters, cold, ice storms | Frostbite | Peak winter storm season |
-| Mar | Late nor'easters, ice storms | Flooding (snowmelt) | Winter still dangerous |
-| Apr | Flooding (snowmelt) | Late snow, cold | Transition, variable |
-| May | Tick season begins | Black bears (cubs), moose (calves) | Spring hazards emerge |
-| Jun | Ticks, black flies | Bears, moose | Insect season peak |
-| Jul | Ticks, black flies | Heat (rare), bears | Summer outdoor season |
-| Aug | Ticks | Bears (fattening) | Lower risk month |
-| Sep | Ticks, moose (rut) | Bears, early cold | Fall transition |
-| Oct | Early nor'easters | Moose (rut), bears, hypothermia | Storm season returns |
-| Nov | Nor'easters, cold | Ice storms, bears (pre-hibernation) | Winter hazards begin |
-| Dec | Nor'easters, extreme cold, ice | Frostbite, power outages | Full winter mode |
+- Jan:
+  Primary Threats: Nor'easters, extreme cold
+  Secondary Threats: Ice storms, cold exposure
+  Activity Guidance: Highest winter danger
+- Feb:
+  Primary Threats: Nor'easters, cold, ice storms
+  Secondary Threats: Frostbite
+  Activity Guidance: Peak winter storm season
+- Mar:
+  Primary Threats: Late nor'easters, ice storms
+  Secondary Threats: Flooding (snowmelt)
+  Activity Guidance: Winter still dangerous
+- Apr:
+  Primary Threats: Flooding (snowmelt)
+  Secondary Threats: Late snow, cold
+  Activity Guidance: Transition, variable
+- May:
+  Primary Threats: Tick season begins
+  Secondary Threats: Black bears (cubs), moose (calves)
+  Activity Guidance: Spring hazards emerge
+- Jun: Ticks, black flies / Bears, moose / Insect season peak
+- Jul:
+  Primary Threats: Ticks, black flies
+  Secondary Threats: Heat (rare), bears
+  Activity Guidance: Summer outdoor season
+- Aug: Ticks / Bears (fattening) / Lower risk month
+- Sep: Ticks, moose (rut) / Bears, early cold / Fall transition
+- Oct:
+  Primary Threats: Early nor'easters
+  Secondary Threats: Moose (rut), bears, hypothermia
+  Activity Guidance: Storm season returns
+- Nov:
+  Primary Threats: Nor'easters, cold
+  Secondary Threats: Ice storms, bears (pre-hibernation)
+  Activity Guidance: Winter hazards begin
+- Dec:
+  Primary Threats: Nor'easters, extreme cold, ice
+  Secondary Threats: Frostbite, power outages
+  Activity Guidance: Full winter mode
 
 ### Survival Priority by Threat
 

@@ -248,28 +248,36 @@ Discomfort → Annoyance → Frustration → Anger → Rage → Violence
 
 ### Behavioral Red Flags
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Sign | What It Means | Urgency |
-|------|---------------|---------|
-| **Cliques forming** | Community fragmenting into factions | HIGH |
-| **Silent treatment** | Communication breakdown, resentment building | MODERATE |
-| **Passive aggression** | Indirect hostility, sabotage | MODERATE-HIGH |
-| **Gossip/rumors** | Trust eroding, sides being taken | HIGH |
-| **Work slowdowns** | Protest through non-cooperation | MODERATE |
-| **Resource hoarding** | Preparation for separation/conflict | HIGH |
-| **Verbal threats** | Escalation to potential violence | VERY HIGH |
-| **Physical threats** | Imminent danger | IMMEDIATE |
+- Cliques forming: Community fragmenting into factions / HIGH
+- Silent treatment:
+  What It Means: Communication breakdown, resentment building
+  Urgency: MODERATE
+- Passive aggression:
+  What It Means: Indirect hostility, sabotage
+  Urgency: MODERATE-HIGH
+- Gossip/rumors: Trust eroding, sides being taken / HIGH
+- Work slowdowns: Protest through non-cooperation / MODERATE
+- Resource hoarding:
+  What It Means: Preparation for separation/conflict
+  Urgency: HIGH
+- Verbal threats:
+  What It Means: Escalation to potential violence
+  Urgency: VERY HIGH
+- Physical threats: Imminent danger / IMMEDIATE
 
 ### Intervention Decision Matrix
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Conflict Stage | Intervention | Timeline |
-|----------------|--------------|----------|
-| Discomfort/tension | Facilitate 1-on-1 conversation | Within 2 days |
-| Open argument | Group discussion or mediation | Within 1 day |
-| Threats made | Immediate mediation + safety plan | Within 4 hours |
-| Physical altercation | Separate + arbitration | Immediate |
-| Weapon involvement | Separation + possible expulsion | Immediate |
+- Discomfort/tension:
+  Intervention: Facilitate 1-on-1 conversation
+  Timeline: Within 2 days
+- Open argument: Group discussion or mediation / Within 1 day
+- Threats made:
+  Intervention: Immediate mediation + safety plan
+  Timeline: Within 4 hours
+- Physical altercation: Separate + arbitration / Immediate
+- Weapon involvement:
+  Intervention: Separation + possible expulsion
+  Timeline: Immediate
 
 ---
 

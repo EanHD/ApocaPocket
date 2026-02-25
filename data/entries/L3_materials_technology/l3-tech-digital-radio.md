@@ -197,16 +197,28 @@ Radio with built-in USB sound card and data interface (no external box required)
 
 ### APRS Software
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Software | Platform | Cost | Features |
-|----------|----------|------|----------|
-| **APRSdroid** | Android | Free | Mobile APRS, GPS tracking, messaging |
-| **APRS.fi** | Web | Free | View APRS traffic worldwide (requires internet) |
-| **Xastir** | Linux | Free | Full-featured APRS client, mapping, weather |
-| **UI-View32** | Windows | Free | Legacy but functional APRS client |
-| **APRSIS32** | Windows | Free | Modern APRS client, messaging, mapping |
-| **PinPoint APRS** | macOS | $30 | Native Mac APRS client |
-| **Dire Wolf** | Linux/Windows/Mac | Free | Software TNC (audio modem) for APRS |
+- APRSdroid:
+  Platform: Android
+  Cost: Free
+  Features: Mobile APRS, GPS tracking, messaging
+- APRS.fi:
+  Platform: Web
+  Cost: Free
+  Features: View APRS traffic worldwide (requires internet)
+- Xastir:
+  Platform: Linux
+  Cost: Free
+  Features: Full-featured APRS client, mapping, weather
+- UI-View32: Windows / Free / Legacy but functional APRS client
+- APRSIS32:
+  Platform: Windows
+  Cost: Free
+  Features: Modern APRS client, messaging, mapping
+- PinPoint APRS: macOS / $30 / Native Mac APRS client
+- Dire Wolf:
+  Platform: Linux/Windows/Mac
+  Cost: Free
+  Features: Software TNC (audio modem) for APRS
 
 **Recommended Setup (Portable)**:
 - **Raspberry Pi 4** + **Dire Wolf** + **Xastir**: Complete APRS station, $100-150
@@ -825,17 +837,14 @@ Same as FT8:
 **Talk Groups** (TG) are virtual channels. Transmitting on a talk group sends your voice to all users on that TG (via repeater network).
 
 **Common Talk Groups**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| TG Number | Name | Scope |
-|-----------|------|-------|
-| **1** | Worldwide | Global (high traffic) |
-| **2** | Local / Regional | Repeater-specific |
-| **3** | North America | Continent-wide |
-| **13** | Worldwide English | Global English-language |
-| **31** | TAC 1 | Tactical / Simplex coordination |
-| **3123** | North America Calling | Calling channel |
-| **93** | EMCOMM | Emergency communications |
-| **310** | TAC 310 | Tactical channel |
+- 1: Worldwide / Global (high traffic)
+- 2: Local / Regional / Repeater-specific
+- 3: North America / Continent-wide
+- 13: Worldwide English / Global English-language
+- 31: TAC 1 / Tactical / Simplex coordination
+- 3123: North America Calling / Calling channel
+- 93: EMCOMM / Emergency communications
+- 310: TAC 310 / Tactical channel
 
 **Selecting Talk Group**:
 1. Choose channel (programmed with repeater frequency and TG)
@@ -947,13 +956,10 @@ Same as FT8:
 - Webcam or image files
 
 **Software**:
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Software | Platform | Cost | Features |
-|----------|----------|------|----------|
-| **MMSSTV** | Windows | Free | Most popular, full-featured SSTV |
-| **QSSTV** | Linux | Free | Linux SSTV client |
-| **MultiScan** | Windows | $35 | Commercial, advanced features |
-| **Robot36** | Android | Free | Receive SSTV on smartphone |
+- MMSSTV: Windows / Free / Most popular, full-featured SSTV
+- QSSTV: Linux / Free / Linux SSTV client
+- MultiScan: Windows / $35 / Commercial, advanced features
+- Robot36: Android / Free / Receive SSTV on smartphone
 
 ### MMSSTV Setup (Windows)
 
@@ -1028,28 +1034,25 @@ Same as FT8:
 ## DMFA
 
 **HF Digital Mode Frequencies** (USB mode unless specified):
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Band | Mode | Frequency (MHz) | Notes |
-|------|------|----------------|-------|
-| **80m** | PSK31 | 3.580 | Popular digital calling frequency |
-| **80m** | FT8 | 3.573 | |
-| **80m** | RTTY | 3.590 | |
-| **40m** | FT8 | 7.074 | Most active FT8 band |
-| **40m** | JS8Call | 7.078 | |
-| **40m** | PSK31 | 7.080 | |
-| **40m** | RTTY | 7.045-7.080 | |
-| **30m** | FT8 | 10.136 | |
-| **30m** | JS8Call | 10.130 | Very popular JS8Call band |
-| **20m** | FT8 | 14.074 | Daytime DX |
-| **20m** | JS8Call | 14.078 | |
-| **20m** | PSK31 | 14.070 | |
-| **20m** | SSTV | 14.230 | Most active SSTV frequency |
-| **20m** | RTTY | 14.085-14.095 | |
-| **17m** | FT8 | 18.100 | |
-| **15m** | FT8 | 21.074 | |
-| **10m** | FT8 | 28.074 | |
-| **2m** | FT8 | 144.174 | VHF propagation monitoring |
-| **2m** | APRS | 144.390 | North America |
+- 80m: PSK31 / 3.580 / Popular digital calling frequency
+- 80m: FT8 / 3.573
+- 80m: RTTY / 3.590
+- 40m: FT8 / 7.074 / Most active FT8 band
+- 40m: JS8Call / 7.078
+- 40m: PSK31 / 7.080
+- 40m: RTTY / 7.045-7.080
+- 30m: FT8 / 10.136
+- 30m: JS8Call / 10.130 / Very popular JS8Call band
+- 20m: FT8 / 14.074 / Daytime DX
+- 20m: JS8Call / 14.078
+- 20m: PSK31 / 14.070
+- 20m: SSTV / 14.230 / Most active SSTV frequency
+- 20m: RTTY / 14.085-14.095
+- 17m: FT8 / 18.100
+- 15m: FT8 / 21.074
+- 10m: FT8 / 28.074
+- 2m: FT8 / 144.174 / VHF propagation monitoring
+- 2m: APRS / 144.390 / North America
 
 **Note**: All HF digital modes use **USB** (upper sideband), even on frequencies where LSB is normal for voice (e.g., 40m voice is LSB, but digital is USB).
 

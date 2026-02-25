@@ -220,12 +220,9 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ### Recommended Calibers by Species
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Minimum Caliber | Ideal Caliber | Bullet Weight |
-|---------|-----------------|---------------|---------------|
-| **Moose** | .30-06 | .300 Win Mag, .338 Win Mag | 180-220 grains |
-| **Caribou** | .243 Win | .270 Win, .30-06 | 130-180 grains |
-| **Deer** | .243 Win | .270 Win, .308 Win | 130-165 grains |
+- Moose: .30-06 / .300 Win Mag, .338 Win Mag / 180-220 grains
+- Caribou: .243 Win / .270 Win, .30-06 / 130-180 grains
+- Deer: .243 Win / .270 Win, .308 Win / 130-165 grains
 
 ### Bullet Types
 
@@ -259,12 +256,9 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 ### Ethical Shot Distances
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Skill Level | Max Range (Broadside) | Notes |
-|-------------|-----------------------|-------|
-| Beginner | 100 yards | Learn fundamentals first |
-| Intermediate | 200 yards | Confident in rifle, conditions |
-| Advanced | 300+ yards | Wind reading, ballistics knowledge |
+- Beginner: 100 yards / Learn fundamentals first
+- Intermediate: 200 yards / Confident in rifle, conditions
+- Advanced: 300+ yards / Wind reading, ballistics knowledge
 
 **Factors Affecting Max Range:**
 - Shooter skill (can you hit 6-inch circle at this range?)

@@ -74,13 +74,10 @@ Radio waves travel at speed of light (299,792,458 meters/second ≈ 300,000,000 
 - **462.675 MHz** (GMRS): λ = 300 / 462.675 = 0.648 meters = 2.1 feet
 
 ### Common Antenna Lengths
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Antenna Type | Length Formula (feet) | Length Formula (meters) |
-|--------------|---------------------|------------------------|
-| **Half-wave (λ/2)** | 468 / f (MHz) | 142.5 / f (MHz) |
-| **Quarter-wave (λ/4)** | 234 / f (MHz) | 71.25 / f (MHz) |
-| **5/8-wave** | 585 / f (MHz) | 178 / f (MHz) |
-| **Full-wave (λ)** | 936 / f (MHz) | 285 / f (MHz) |
+- Half-wave (λ/2): 468 / f (MHz) / 142.5 / f (MHz)
+- Quarter-wave (λ/4): 234 / f (MHz) / 71.25 / f (MHz)
+- 5/8-wave: 585 / f (MHz) / 178 / f (MHz)
+- Full-wave (λ): 936 / f (MHz) / 285 / f (MHz)
 
 **Velocity Factor (VF)**: Actual wire antennas are shorter than free-space calculations due to interaction with surrounding objects and wire diameter. Typical VF = 0.95 (multiply calculated length by 0.95).
 
@@ -158,16 +155,13 @@ Each leg = 61.75 / 2 = 30.9 feet
 **Frequency Coverage**: Dipole has 3-5% bandwidth at SWR < 2:1. For 7.200 MHz, usable bandwidth ≈ 7.0-7.3 MHz (entire 40-meter band).
 
 ### Multi-Band Lengths
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Band | Frequency (MHz) | Total Length (feet) | Each Leg (feet) |
-|------|----------------|---------------------|----------------|
-| **160m** | 1.900 | 234 | 117 |
-| **80m** | 3.750 | 118 | 59 |
-| **40m** | 7.200 | 62 | 31 |
-| **20m** | 14.150 | 31 | 15.5 |
-| **15m** | 21.200 | 21 | 10.5 |
-| **10m** | 28.500 | 16 | 8 |
-| **2m** | 146.52 | 3.0 | 1.5 |
+- 160m: 1.900 / 234 / 117
+- 80m: 3.750 / 118 / 59
+- 40m: 7.200 / 62 / 31
+- 20m: 14.150 / 31 / 15.5
+- 15m: 21.200 / 21 / 10.5
+- 10m: 28.500 / 16 / 8
+- 2m: 146.52 / 3.0 / 1.5
 
 ### Construction Steps
 
@@ -297,15 +291,12 @@ Length (inches) = 2808 / f (MHz) × 0.95 = 18.2 inches
 Build 19.5 inches each.
 
 ### Multi-Band Lengths
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Band | Frequency (MHz) | Radiator Length | Radial Length (each) | # Radials |
-|------|----------------|----------------|---------------------|-----------|
-| **10m** | 28.5 | 100" (8.3 ft) | 100" | 4-8 |
-| **6m** | 52.0 | 54" (4.5 ft) | 54" | 4-8 |
-| **2m** | 146.52 | 19" | 19" | 4 |
-| **70cm** | 440 | 6.4" | 6.4" | 4 |
-| **GMRS** | 462 | 6.1" | 6.1" | 4 |
-| **CB** | 27.0 | 106" (8.8 ft) | 106" | 4-16 |
+- 10m: 28.5 / 100" (8.3 ft) / 100" / 4-8
+- 6m: 52.0 / 54" (4.5 ft) / 54" / 4-8
+- 2m: 146.52 / 19" / 19" / 4
+- 70cm: 440 / 6.4" / 6.4" / 4
+- GMRS: 462 / 6.1" / 6.1" / 4
+- CB: 27.0 / 106" (8.8 ft) / 106" / 4-16
 
 **HF Ground Plane** (40m, 20m, etc.): Same formula, but radials become very long. Compromise: use fewer radials (4-8) or shorter radials with reduced efficiency.
 
@@ -519,13 +510,10 @@ Yagi consists of:
 - **Total Cost**: $25-60
 
 ### 3-Element Yagi Dimensions (2m, 146 MHz)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Element | Length (inches) | Spacing from Reflector |
-|---------|----------------|----------------------|
-| **Reflector** (rear) | 40 | 0" (reference point) |
-| **Driven Element** | 38 | 14" forward |
-| **Director** (front) | 36 | 32" forward |
-| **Boom Length** | 48" minimum | |
+- Reflector (rear): 40 / 0" (reference point)
+- Driven Element: 38 / 14" forward
+- Director (front): 36 / 32" forward
+- Boom Length: 48" minimum
 
 ### Construction Steps
 
@@ -652,14 +640,17 @@ When commercial antenna wire unavailable, improvise from salvaged materials.
 2. No calibration required
 
 ### Interpreting SWR Readings
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| SWR | Interpretation | Action |
-|-----|---------------|--------|
-| **1.0-1.5:1** | Excellent match | Use as-is |
-| **1.5-2.0:1** | Good match | Acceptable, or adjust if desired |
-| **2.0-3.0:1** | Acceptable for QRP/portable | Adjust for better performance, or use antenna tuner |
-| **3.0-5.0:1** | Poor match, reduced power output | Must adjust antenna or use tuner |
-| **>5.0:1** | Severe mismatch, transmitter protection may activate | Check for antenna fault (broken wire, short circuit) |
+- 1.0-1.5:1: Excellent match / Use as-is
+- 1.5-2.0:1: Good match / Acceptable, or adjust if desired
+- 2.0-3.0:1:
+  Interpretation: Acceptable for QRP/portable
+  Action: Adjust for better performance, or use antenna tuner
+- 3.0-5.0:1:
+  Interpretation: Poor match, reduced power output
+  Action: Must adjust antenna or use tuner
+- >5.0:1:
+  Interpretation: Severe mismatch, transmitter protection may activate
+  Action: Check for antenna fault (broken wire, short circuit)
 
 ### Common SWR Problems & Solutions
 
@@ -720,15 +711,12 @@ When commercial antenna wire unavailable, improvise from salvaged materials.
 **FCC OET Bulletin 65** specifies limits for human exposure to RF radiation. Limits based on SAR (Specific Absorption Rate, watts/kg body tissue).
 
 **Safe Distances** (transmitting antenna to body):
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Power | Frequency | Safe Distance |
-|-------|-----------|--------------|
-| 5W | 146 MHz (VHF) | 15 cm (6 inches) |
-| 50W | 146 MHz | 50 cm (20 inches) |
-| 5W | 440 MHz (UHF) | 10 cm (4 inches) |
-| 50W | 440 MHz | 30 cm (12 inches) |
-| 100W | 14 MHz (HF) | 100-150 cm (3-5 feet) |
-| 1500W | 14 MHz | 500 cm (16 feet) |
+- 5W: 146 MHz (VHF) / 15 cm (6 inches)
+- 50W: 146 MHz / 50 cm (20 inches)
+- 5W: 440 MHz (UHF) / 10 cm (4 inches)
+- 50W: 440 MHz / 30 cm (12 inches)
+- 100W: 14 MHz (HF) / 100-150 cm (3-5 feet)
+- 1500W: 14 MHz / 500 cm (16 feet)
 
 **High-Risk Scenarios**:
 - Mobile antenna (whip on car roof): Safe if antenna >20cm from occupants. **Avoid transmitting with antenna inside vehicle cabin**

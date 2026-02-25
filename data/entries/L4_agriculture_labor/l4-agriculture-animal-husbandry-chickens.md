@@ -112,13 +112,10 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 ### Commercial Feed (Easiest)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Age | Protein | Use |
-|------|-----|---------|-----|
-| **Chick Starter** | 0-6 weeks | 18-20% | Growing chicks |
-| **Grower** | 6-18 weeks | 16-18% | Pullets before laying |
-| **Layer** | 18+ weeks | 16-18% + calcium | Laying hens |
-| **Broiler/Meat** | 0-8 weeks | 20-22% | Meat birds (rapid growth) |
+- Chick Starter: 0-6 weeks / 18-20% / Growing chicks
+- Grower: 6-18 weeks / 16-18% / Pullets before laying
+- Layer: 18+ weeks / 16-18% + calcium / Laying hens
+- Broiler/Meat: 0-8 weeks / 20-22% / Meat birds (rapid growth)
 
 **Amount:** ~1/4 lb (1/2 cup) per bird per day
 - 6 hens = 1.5 lbs/day = 45 lbs/month = ~$15-25/month
@@ -203,15 +200,12 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 ### Production Rates
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Breed | Eggs/Year | Egg Size | Notes |
-|-------|-----------|----------|-------|
-| **Leghorn** | 280-320 | Large | Best layer, flighty |
-| **Rhode Island Red** | 250-300 | Large | Dual-purpose, hardy |
-| **Sussex** | 250-280 | Large | Calm, good forager |
-| **Plymouth Rock** | 200-280 | Large | Dual-purpose, docile |
-| **Orpington** | 180-220 | Large | Broody, good mothers |
-| **Australorp** | 250-300 | Large | Calm, heat-tolerant |
+- Leghorn: 280-320 / Large / Best layer, flighty
+- Rhode Island Red: 250-300 / Large / Dual-purpose, hardy
+- Sussex: 250-280 / Large / Calm, good forager
+- Plymouth Rock: 200-280 / Large / Dual-purpose, docile
+- Orpington: 180-220 / Large / Broody, good mothers
+- Australorp: 250-300 / Large / Calm, heat-tolerant
 
 **Factors Affecting Production:**
 - **Light:** 14-16 hours/day needed (artificial light in winter)
@@ -315,14 +309,26 @@ Chickens are the gateway livestock - easy to keep, fast to reproduce, dual-purpo
 
 ### Common Diseases
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Disease | Symptoms | Prevention | Treatment |
-|---------|----------|------------|-----------|
-| **Coccidiosis** | Bloody droppings, lethargy | Medicated chick starter, clean water | Amprolium (Corid) |
-| **Marek's Disease** | Paralysis, tumors | Vaccinate day-old chicks | None (cull) |
-| **Respiratory** (CRD) | Sneezing, gurgling, discharge | Good ventilation, no overcrowding | Antibiotics (vet) |
-| **Egg Binding** | Hen straining, no egg | Calcium, proper nutrition | Warm bath, lubricate vent |
-| **Mites/Lice** | Feather loss, pale combs | Dust baths, DE powder | Permethrin spray |
+- Coccidiosis:
+  Symptoms: Bloody droppings, lethargy
+  Prevention: Medicated chick starter, clean water
+  Treatment: Amprolium (Corid)
+- Marek's Disease:
+  Symptoms: Paralysis, tumors
+  Prevention: Vaccinate day-old chicks
+  Treatment: None (cull)
+- Respiratory (CRD):
+  Symptoms: Sneezing, gurgling, discharge
+  Prevention: Good ventilation, no overcrowding
+  Treatment: Antibiotics (vet)
+- Egg Binding:
+  Symptoms: Hen straining, no egg
+  Prevention: Calcium, proper nutrition
+  Treatment: Warm bath, lubricate vent
+- Mites/Lice:
+  Symptoms: Feather loss, pale combs
+  Prevention: Dust baths, DE powder
+  Treatment: Permethrin spray
 
 **When to Cull:**
 - Severe disease (prevent spread)

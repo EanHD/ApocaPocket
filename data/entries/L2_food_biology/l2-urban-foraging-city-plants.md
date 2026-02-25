@@ -402,15 +402,12 @@ sources:
 
 ## Nutrient Compare
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | Calories (per 100g) | Protein (g) | Vit A (% DV) | Vit C (% DV) | Iron (% DV) |
-|-------|---------------------|-------------|--------------|--------------|-------------|
-| Dandelion greens | 45 | 2.7 | 203% | 58% | 17% |
-| Lamb's quarters | 43 | 4.2 | 148% | 133% | 16% |
-| Purslane | 20 | 2.0 | 26% | 35% | 11% |
-| Plantain | 61 | 2.4 | 40% | 30% | 12% |
-| Chickweed | 30 | 2.5 | 15% | 20% | 8% |
-| **Spinach (comparison)** | 23 | 2.9 | 56% | 47% | 15% |
+- Dandelion greens: 45 / 2.7 / 203% / 58% / 17%
+- Lamb's quarters: 43 / 4.2 / 148% / 133% / 16%
+- Purslane: 20 / 2.0 / 26% / 35% / 11%
+- Plantain: 61 / 2.4 / 40% / 30% / 12%
+- Chickweed: 30 / 2.5 / 15% / 20% / 8%
+- Spinach (comparison): 23 / 2.9 / 56% / 47% / 15%
 
 **Key takeaway:** Wild urban greens often MORE nutritious than store-bought spinach.
 

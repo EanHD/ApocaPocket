@@ -8,13 +8,10 @@
 ## Climate Profile
 
 ### Temperature Ranges
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Avg High | Avg Low | Extreme High | Extreme Low |
-|--------|----------|---------|--------------|-------------|
-| Summer (Jun-Aug) | 90-100°F | 70-80°F | 110°F+ | 65°F |
-| Fall (Sep-Nov) | 70-85°F | 50-65°F | 95°F | 35°F |
-| Winter (Dec-Feb) | 50-65°F | 35-50°F | 80°F | 10°F |
-| Spring (Mar-May) | 75-88°F | 55-70°F | 95°F | 30°F |
+- Summer (Jun-Aug): 90-100°F / 70-80°F / 110°F+ / 65°F
+- Fall (Sep-Nov): 70-85°F / 50-65°F / 95°F / 35°F
+- Winter (Dec-Feb): 50-65°F / 35-50°F / 80°F / 10°F
+- Spring (Mar-May): 75-88°F / 55-70°F / 95°F / 30°F
 
 ### Humidity & Precipitation
 - **Year-round humidity:** 60-90% (highest in coastal/swamp areas)
@@ -63,16 +60,48 @@
 
 ### Edible Plants (by season)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Plant | Season | Parts Used | Calories/lb | Preparation | Cross-ref |
-|-------|--------|------------|-------------|-------------|-----------|
-| Cattail | Year-round | Roots, shoots, pollen | 800-1200 | Raw/cooked roots, pollen as flour | l1-cattail-guide.md |
-| Oak acorns | Sep-Dec | Nuts | 2000+ | MUST leach tannins, roast | l1-oak-acorn-processing.md |
-| Kudzu | May-Oct | Leaves, roots, flowers | 400-600 | Cook leaves, roots high starch | l2-invasive-edibles.md |
-| Wild muscadine | Aug-Oct | Fruit | 300-400 | Eat raw, ferment juice | l1-wild-grapes.md |
-| Palmetto | Year-round | Heart (terminal bud) | 200-300 | Raw/cooked, KILLS PLANT | l2-palm-harvesting.md |
-| Sassafras | Year-round | Roots, leaves | Tea/flavoring | Root tea, file powder from leaves | l1-medicinal-plants.md |
-| Pine (inner bark) | Winter | Cambium | 500-600 | Emergency food, peel outer bark | l1-survival-trees.md |
+- Cattail:
+  Season: Year-round
+  Parts Used: Roots, shoots, pollen
+  Calories/lb: 800-1200
+  Preparation: Raw/cooked roots, pollen as flour
+  Cross-ref: l1-cattail-guide.md
+- Oak acorns:
+  Season: Sep-Dec
+  Parts Used: Nuts
+  Calories/lb: 2000+
+  Preparation: MUST leach tannins, roast
+  Cross-ref: l1-oak-acorn-processing.md
+- Kudzu:
+  Season: May-Oct
+  Parts Used: Leaves, roots, flowers
+  Calories/lb: 400-600
+  Preparation: Cook leaves, roots high starch
+  Cross-ref: l2-invasive-edibles.md
+- Wild muscadine:
+  Season: Aug-Oct
+  Parts Used: Fruit
+  Calories/lb: 300-400
+  Preparation: Eat raw, ferment juice
+  Cross-ref: l1-wild-grapes.md
+- Palmetto:
+  Season: Year-round
+  Parts Used: Heart (terminal bud)
+  Calories/lb: 200-300
+  Preparation: Raw/cooked, KILLS PLANT
+  Cross-ref: l2-palm-harvesting.md
+- Sassafras:
+  Season: Year-round
+  Parts Used: Roots, leaves
+  Calories/lb: Tea/flavoring
+  Preparation: Root tea, file powder from leaves
+  Cross-ref: l1-medicinal-plants.md
+- Pine (inner bark):
+  Season: Winter
+  Parts Used: Cambium
+  Calories/lb: 500-600
+  Preparation: Emergency food, peel outer bark
+  Cross-ref: l1-survival-trees.md
 
 **⚠️ CRITICAL:** Kudzu is everywhere and edible, but introduced. High in starch. Leaves must be cooked. Roots require extensive processing.
 
@@ -95,25 +124,59 @@
 
 ### Large Game
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Animal | Weight | Season | Habitat | Hunting Notes | Yield (lbs meat) |
-|--------|--------|--------|---------|---------------|------------------|
-| White-tailed deer | 100-200 lbs | Nov-Jan (varies by state) | Edge habitat, oak forests | Most abundant game | 40-80 |
-| Wild hog (feral) | 100-400 lbs | Year-round (invasive) | Swamps, oak forests, crop edges | Aggressive when cornered, disease risk | 60-200 |
-| Wild turkey | 10-25 lbs | Spring gobbler season | Open forests, fields | Excellent eating, challenging hunt | 8-15 |
+- White-tailed deer:
+  Weight: 100-200 lbs
+  Season: Nov-Jan (varies by state)
+  Habitat: Edge habitat, oak forests
+  Hunting Notes: Most abundant game
+  Yield (lbs meat): 40-80
+- Wild hog (feral):
+  Weight: 100-400 lbs
+  Season: Year-round (invasive)
+  Habitat: Swamps, oak forests, crop edges
+  Hunting Notes: Aggressive when cornered, disease risk
+  Yield (lbs meat): 60-200
+- Wild turkey:
+  Weight: 10-25 lbs
+  Season: Spring gobbler season
+  Habitat: Open forests, fields
+  Hunting Notes: Excellent eating, challenging hunt
+  Yield (lbs meat): 8-15
 
 **Feral Hogs:** Invasive, destructive, NO closed season in most states. Meat MUST be cooked to 160°F (trichinosis risk). Aggressive, especially sows with piglets.
 
 ### Fish & Aquatic
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Species | Avg Weight | Season | Habitat | Method | Notes |
-|---------|------------|--------|---------|--------|-------|
-| Catfish (channel, blue) | 5-30 lbs | Year-round | Rivers, lakes | Trotlines, juglines | Bottom feeders, strong fighters |
-| Bass (largemouth) | 2-8 lbs | Spring-fall (best) | Lakes, ponds, slow rivers | Lures, live bait | Sport fish, good eating |
-| Bream/Bluegill | 0.5-2 lbs | May-Sep (peak) | Ponds, slow water | Crickets, worms | Easy to catch, abundant |
-| Freshwater shrimp | <1 oz | Summer | Streams, spring runs | Dip nets | Seasonal, delicious |
-| Crawfish | 2-4 oz | Jan-May | Swamps, ditches, rice fields | Traps | Louisiana staple, mudbugs |
+- Catfish (channel, blue):
+  Avg Weight: 5-30 lbs
+  Season: Year-round
+  Habitat: Rivers, lakes
+  Method: Trotlines, juglines
+  Notes: Bottom feeders, strong fighters
+- Bass (largemouth):
+  Avg Weight: 2-8 lbs
+  Season: Spring-fall (best)
+  Habitat: Lakes, ponds, slow rivers
+  Method: Lures, live bait
+  Notes: Sport fish, good eating
+- Bream/Bluegill:
+  Avg Weight: 0.5-2 lbs
+  Season: May-Sep (peak)
+  Habitat: Ponds, slow water
+  Method: Crickets, worms
+  Notes: Easy to catch, abundant
+- Freshwater shrimp:
+  Avg Weight: <1 oz
+  Season: Summer
+  Habitat: Streams, spring runs
+  Method: Dip nets
+  Notes: Seasonal, delicious
+- Crawfish:
+  Avg Weight: 2-4 oz
+  Season: Jan-May
+  Habitat: Swamps, ditches, rice fields
+  Method: Traps
+  Notes: Louisiana staple, mudbugs
 
 **Water Purification Critical:** All Southeast water sources carry risk of bacteria, parasites (Giardia), and pollution. ALWAYS purify.
 
@@ -148,13 +211,26 @@
 
 ### Seasonal Water Strategies
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Season | Availability | Temperature | Concerns | Strategy |
-|--------|--------------|-------------|----------|----------|
-| Summer | Abundant | 70-85°F | Bacteria bloom, algae, low flow in drought | Prefer flowing water, boil minimum 1 min |
-| Fall | Abundant | 60-75°F | Hurricane/flood contamination | Avoid floodwater (sewage, chemicals) |
-| Winter | Abundant | 40-60°F | Rarely freezes (except mountains) | Best season for water safety |
-| Spring | Very abundant | 55-70°F | Flooding, agricultural runoff | Filter turbid water first |
+- Summer:
+  Availability: Abundant
+  Temperature: 70-85°F
+  Concerns: Bacteria bloom, algae, low flow in drought
+  Strategy: Prefer flowing water, boil minimum 1 min
+- Fall:
+  Availability: Abundant
+  Temperature: 60-75°F
+  Concerns: Hurricane/flood contamination
+  Strategy: Avoid floodwater (sewage, chemicals)
+- Winter:
+  Availability: Abundant
+  Temperature: 40-60°F
+  Concerns: Rarely freezes (except mountains)
+  Strategy: Best season for water safety
+- Spring:
+  Availability: Very abundant
+  Temperature: 55-70°F
+  Concerns: Flooding, agricultural runoff
+  Strategy: Filter turbid water first
 
 **DIAGRAM SPEC:** Water source identification flowchart (flowing vs stagnant, clear vs turbid, purification method selection).
 
@@ -240,14 +316,41 @@ Design: Enclosed structure with moderate insulation
 
 ### Wood Selection (BTU & Burn Characteristics)
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Wood Type | BTU/cord | Burn Rate | Smoke | Coals | Best Use | Availability |
-|-----------|----------|-----------|-------|-------|----------|--------------|
-| Oak (white, red) | 24-30M | Slow | Low | Excellent | Long-term heat, cooking | Abundant |
-| Hickory | 28-30M | Slow | Low | Excellent | Cooking (flavor), heat | Common |
-| Pine (any) | 15-20M | Fast | High | Poor | Quick heat, fire starting | Very abundant |
-| Cypress | 18-22M | Moderate | Moderate | Good | Swamp areas, water-resistant | Swamps |
-| Sweetgum | 20-24M | Moderate | Moderate | Good | General purpose | Common |
+- Oak (white, red):
+  BTU/cord: 24-30M
+  Burn Rate: Slow
+  Smoke: Low
+  Coals: Excellent
+  Best Use: Long-term heat, cooking
+  Availability: Abundant
+- Hickory:
+  BTU/cord: 28-30M
+  Burn Rate: Slow
+  Smoke: Low
+  Coals: Excellent
+  Best Use: Cooking (flavor), heat
+  Availability: Common
+- Pine (any):
+  BTU/cord: 15-20M
+  Burn Rate: Fast
+  Smoke: High
+  Coals: Poor
+  Best Use: Quick heat, fire starting
+  Availability: Very abundant
+- Cypress:
+  BTU/cord: 18-22M
+  Burn Rate: Moderate
+  Smoke: Moderate
+  Coals: Good
+  Best Use: Swamp areas, water-resistant
+  Availability: Swamps
+- Sweetgum:
+  BTU/cord: 20-24M
+  Burn Rate: Moderate
+  Smoke: Moderate
+  Coals: Good
+  Best Use: General purpose
+  Availability: Common
 
 **Fire Rule:** Split all wood - even finger-thick pieces. Split wood dries 3-5x faster than rounds.
 

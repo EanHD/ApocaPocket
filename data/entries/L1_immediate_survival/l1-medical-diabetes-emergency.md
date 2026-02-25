@@ -30,12 +30,15 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 ### Recognition
 **Symptoms by severity:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Stage | Blood Sugar | Symptoms | Time to Treat |
-|-------|------------|----------|---------------|
-| Mild | 55-70 mg/dL | Shakiness, sweating, hunger, anxiety | 15 minutes |
-| Moderate | 40-55 mg/dL | Confusion, blurred vision, difficulty speaking | 5-10 minutes |
-| Severe | <40 mg/dL | Seizures, unconsciousness, coma | IMMEDIATE |
+- Mild:
+  Blood Sugar: 55-70 mg/dL
+  Symptoms: Shakiness, sweating, hunger, anxiety
+  Time to Treat: 15 minutes
+- Moderate:
+  Blood Sugar: 40-55 mg/dL
+  Symptoms: Confusion, blurred vision, difficulty speaking
+  Time to Treat: 5-10 minutes
+- Severe: <40 mg/dL / Seizures, unconsciousness, coma
 
 **Early warning signs:**
 - Shakiness, trembling hands
@@ -73,12 +76,15 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 ### Recognition
 **Symptoms (develop over hours to days):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Blood Sugar | Symptoms | Danger Level |
-|------------|----------|--------------|
-| 180-250 mg/dL | Thirst, frequent urination, fatigue | Monitor |
-| 250-400 mg/dL | Nausea, vomiting, abdominal pain, fruity breath | Concerning |
-| >400 mg/dL | Confusion, rapid breathing, altered consciousness | Emergency |
+- 180-250 mg/dL:
+  Symptoms: Thirst, frequent urination, fatigue
+  Danger Level: Monitor
+- 250-400 mg/dL:
+  Symptoms: Nausea, vomiting, abdominal pain, fruity breath
+  Danger Level: Concerning
+- >400 mg/dL:
+  Symptoms: Confusion, rapid breathing, altered consciousness
+  Danger Level: Emergency
 
 **Diabetic Ketoacidosis (DKA) - Type 1 Emergency:**
 - **Fruity/acetone breath** (smells like nail polish remover)
@@ -166,15 +172,24 @@ Diabetes affects 37 million Americans (11% of population). In survival scenarios
 
 ## Type 1/2 Diff
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Aspect | Type 1 | Type 2 |
-|--------|--------|--------|
-| **Insulin production** | None (pancreas destroyed) | Reduced or ineffective |
-| **Insulin dependency** | ALWAYS required | May not need insulin |
-| **Hypo risk** | High (from insulin) | Lower (unless on insulin) |
-| **DKA risk** | High (lack of insulin) | Lower (some insulin present) |
-| **Survival without insulin** | Days to weeks (fatal) | Months to years (complications) |
-| **Emergency priority** | EXTREME - insulin is life | HIGH - but more flexible |
+- Insulin production:
+  Type 1: None (pancreas destroyed)
+  Type 2: Reduced or ineffective
+- Insulin dependency:
+  Type 1: ALWAYS required
+  Type 2: May not need insulin
+- Hypo risk:
+  Type 1: High (from insulin)
+  Type 2: Lower (unless on insulin)
+- DKA risk:
+  Type 1: High (lack of insulin)
+  Type 2: Lower (some insulin present)
+- Survival without insulin:
+  Type 1: Days to weeks (fatal)
+  Type 2: Months to years (complications)
+- Emergency priority:
+  Type 1: EXTREME - insulin is life
+  Type 2: HIGH - but more flexible
 
 ---
 

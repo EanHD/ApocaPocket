@@ -57,17 +57,14 @@ When compass and GPS fail, natural navigation using sun, stars, and terrain feat
 
 ## Method Accu
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Method | Accuracy | Time | Conditions |
-|--------|----------|------|------------|
-| Solar noon | ±1-2° | Requires solar noon | Clear sun |
-| Shadow-stick (2hr) | ±2-5° | 2 hours | Clear sun |
-| Shadow-stick (15min) | ±5-10° | 15 minutes | Clear sun |
-| Equal shadow | ±3-5° | Half day | Clear sun |
-| Polaris | ±1° | 5-10 min | Clear night, N. Hem |
-| Southern Cross | ±3-5° | 5-10 min | Clear night, S. Hem |
-| Watch method | ±15° | Instant | Analog watch + sun |
-| Moss/trees | ±45° | N/A | Unreliable supplementary |
+- Solar noon: ±1-2° / Requires solar noon
+- Shadow-stick (2hr): ±2-5° / 2 hours
+- Shadow-stick (15min): ±5-10° / 15 minutes
+- Equal shadow: ±3-5° / Half day
+- Polaris: ±1° / 5-10 min
+- Southern Cross: ±3-5° / 5-10 min
+- Watch method: ±15° / Instant
+- Moss/trees: ±45° / N/A
 
 ## Shadow Stick
 

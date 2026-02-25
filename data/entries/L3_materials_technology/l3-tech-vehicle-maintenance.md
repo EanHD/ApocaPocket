@@ -84,15 +84,12 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 - Second number (YY): Operating temperature viscosity (higher = thicker when hot)
 
 **Common Viscosity Grades:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Viscosity | Climate | Typical Use |
-|-----------|---------|-------------|
-| 0W-20 | Cold climates | Modern fuel-efficient engines |
-| 5W-20 | Moderate climates | Modern engines, good cold start |
-| 5W-30 | All climates | Most common, wide temperature range |
-| 10W-30 | Warm climates | Older engines, higher mileage |
-| 10W-40 | Hot climates | High-mileage, high-temperature use |
-| 20W-50 | Very hot climates | Classic cars, worn engines |
+- 0W-20: Cold climates / Modern fuel-efficient engines
+- 5W-20: Moderate climates / Modern engines, good cold start
+- 5W-30: All climates / Most common, wide temperature range
+- 10W-30: Warm climates / Older engines, higher mileage
+- 10W-40: Hot climates / High-mileage, high-temperature use
+- 20W-50: Very hot climates / Classic cars, worn engines
 
 **⚠️ CRITICAL:** Use viscosity specified in owner's manual. Wrong viscosity causes:
 - Too thin: Inadequate protection, wear, oil consumption
@@ -100,22 +97,32 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 **Oil Types:**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Type | Description | Lifespan | Cost | Best For |
-|------|-------------|----------|------|----------|
-| **Conventional** | Refined petroleum | 3,000-5,000 mi | $ | Older vehicles, budget |
-| **Synthetic Blend** | Mix of conventional + synthetic | 5,000-7,500 mi | $$ | Good middle-ground |
-| **Full Synthetic** | Lab-engineered molecules | 7,500-15,000 mi | $$$ | Modern engines, extreme conditions |
-| **High Mileage** | Additives for seals/wear | 3,000-5,000 mi | $$ | Vehicles >75,000 miles |
+- Conventional:
+  Description: Refined petroleum
+  Lifespan: 3,000-5,000 mi
+  Cost: $
+  Best For: Older vehicles, budget
+- Synthetic Blend:
+  Description: Mix of conventional + synthetic
+  Lifespan: 5,000-7,500 mi
+  Cost: $$
+  Best For: Good middle-ground
+- Full Synthetic:
+  Description: Lab-engineered molecules
+  Lifespan: 7,500-15,000 mi
+  Cost: $$$
+  Best For: Modern engines, extreme conditions
+- High Mileage:
+  Description: Additives for seals/wear
+  Lifespan: 3,000-5,000 mi
+  Cost: $$
+  Best For: Vehicles >75,000 miles
 
 **Oil Capacity by Engine Size:**
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Engine Size | Typical Capacity | Notes |
-|-------------|------------------|-------|
-| 4-cylinder | 4-5 quarts | Compact cars, sedans |
-| V6 | 5-6 quarts | Midsize cars, SUVs |
-| V8 | 6-8 quarts | Trucks, large SUVs |
-| Diesel | 10-15 quarts | Heavy-duty trucks |
+- 4-cylinder: 4-5 quarts / Compact cars, sedans
+- V6: 5-6 quarts / Midsize cars, SUVs
+- V8: 6-8 quarts / Trucks, large SUVs
+- Diesel: 10-15 quarts / Heavy-duty trucks
 
 **Check owner's manual for exact capacity** - critical to avoid over/underfilling.
 
@@ -164,11 +171,9 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 - Rubber O-ring: Replace if damaged, reusable for 2-3 changes
 3. Hand-thread drain plug (prevent cross-threading)
 4. Torque specifications:
-   | Plug Type | Torque Spec |
-   |-----------|-------------|
-   | 14mm | 25-30 ft-lbs |
-   | 17mm | 30-35 ft-lbs |
-   | Oil pan plug (typical) | 20-30 ft-lbs |
+- 14mm: 25-30 ft-lbs
+- 17mm: 30-35 ft-lbs
+- Oil pan plug (typical): 20-30 ft-lbs
 5. **DON'T OVERTIGHTEN** - strips threads in aluminum oil pan ($500-2,000 repair)
 - Rule of thumb: Snug with wrench, then 1/4 turn
 
@@ -341,15 +346,20 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 
 **Wear Patterns (Diagnosis):**
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Wear Pattern | Cause | Solution |
-|--------------|-------|----------|
-| **Center wear** | Overinflation | Reduce pressure to recommended |
-| **Edge wear (both sides)** | Underinflation | Increase pressure to recommended |
-| **One-side wear** | Misalignment | Wheel alignment service |
-| **Cupping (scalloped dips)** | Worn suspension (shocks) | Replace shocks/struts |
-| **Feathering (diagonal wear)** | Misalignment | Wheel alignment service |
-| **Flat spots** | Hard braking (locked wheels) | Avoid hard braking, check ABS |
+- Center wear: Overinflation / Reduce pressure to recommended
+- Edge wear (both sides):
+  Cause: Underinflation
+  Solution: Increase pressure to recommended
+- One-side wear: Misalignment / Wheel alignment service
+- Cupping (scalloped dips):
+  Cause: Worn suspension (shocks)
+  Solution: Replace shocks/struts
+- Feathering (diagonal wear):
+  Cause: Misalignment
+  Solution: Wheel alignment service
+- Flat spots:
+  Cause: Hard braking (locked wheels)
+  Solution: Avoid hard braking, check ABS
 
 **Tire Rotation:**
 
@@ -413,13 +423,11 @@ Regular vehicle maintenance prevents breakdowns, extends vehicle life, and ensur
 4. Red probe to positive (+) terminal
 5. Black probe to negative (-) terminal
 6. Read voltage:
-   | Voltage | State of Charge | Status |
-   |---------|-----------------|--------|
-   | 12.6V+ | 100% | Fully charged |
-   | 12.4V | 75% | Good |
-   | 12.2V | 50% | Charge needed |
-   | 12.0V | 25% | Low, charge immediately |
-   | <11.9V | Discharged | Charge and test, may be failing |
+- 12.6V+: 100% / Fully charged
+- 12.4V: 75% / Good
+- 12.2V: 50% / Charge needed
+- 12.0V: 25% / Low, charge immediately
+- <11.9V: Discharged / Charge and test, may be failing
 
 **Load Test (Most Accurate):**
 

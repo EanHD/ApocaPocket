@@ -76,24 +76,24 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - **Shared channels**: 1-7, 15-22 (462 and 467 MHz)
 
 ### Channel Assignments (Primary)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Channel | Frequency (MHz) | Power Limit | Notes |
-|---------|----------------|-------------|-------|
-| 1 | 462.5625 | 2W | Shared with GMRS |
-| 2 | 462.5875 | 2W | Shared with GMRS |
-| 3 | 462.6125 | 2W | Shared with GMRS |
-| 4 | 462.6375 | 2W | Shared with GMRS |
-| 5 | 462.6625 | 2W | Shared with GMRS |
-| 6 | 462.6875 | 2W | Shared with GMRS |
-| 7 | 462.7125 | 2W | Shared with GMRS |
-| 8 | 467.5625 | 0.5W | FRS only |
-| 9 | 467.5875 | 0.5W | FRS only |
-| 10 | 467.6125 | 0.5W | FRS only |
-| 11 | 467.6375 | 0.5W | FRS only |
-| 12 | 467.6625 | 0.5W | FRS only |
-| 13 | 467.6875 | 0.5W | FRS only |
-| 14 | 467.7125 | 0.5W | FRS only |
-| 15-22 | 462.550-462.725 | 2W | Shared with GMRS, repeater inputs |
+- 1: 462.5625 / 2W / Shared with GMRS
+- 2: 462.5875 / 2W / Shared with GMRS
+- 3: 462.6125 / 2W / Shared with GMRS
+- 4: 462.6375 / 2W / Shared with GMRS
+- 5: 462.6625 / 2W / Shared with GMRS
+- 6: 462.6875 / 2W / Shared with GMRS
+- 7: 462.7125 / 2W / Shared with GMRS
+- 8: 467.5625 / 0.5W / FRS only
+- 9: 467.5875 / 0.5W / FRS only
+- 10: 467.6125 / 0.5W / FRS only
+- 11: 467.6375 / 0.5W / FRS only
+- 12: 467.6625 / 0.5W / FRS only
+- 13: 467.6875 / 0.5W / FRS only
+- 14: 467.7125 / 0.5W / FRS only
+- 15-22:
+  Frequency (MHz): 462.550-462.725
+  Power Limit: 2W
+  Notes: Shared with GMRS, repeater inputs
 
 ### Technical Specifications
 - **Power Limit**: 0.5W (channels 8-14), 2W (channels 1-7, 15-22)
@@ -132,13 +132,16 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - **Repeater Outputs**: 462.5500-462.7250 MHz (channels 15-22)
 
 ### Channel Assignments
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Channel | Frequency (MHz) | Max Power | Use Type |
-|---------|----------------|-----------|----------|
-| 1-7 | 462.5625-462.7125 | 5W | Simplex (direct) |
-| 8-14 | 467.5625-467.7125 | 5W | Simplex (interstitial) |
-| 15-22 | 462.5500-462.7250 | 50W | Repeater outputs (also 5W simplex) |
-| RP15-RP22 | 467.5500-467.7250 | 5W | Repeater inputs (handheld to repeater) |
+- 1-7: 462.5625-462.7125 / 5W / Simplex (direct)
+- 8-14: 467.5625-467.7125 / 5W / Simplex (interstitial)
+- 15-22:
+  Frequency (MHz): 462.5500-462.7250
+  Max Power: 50W
+  Use Type: Repeater outputs (also 5W simplex)
+- RP15-RP22:
+  Frequency (MHz): 467.5500-467.7250
+  Max Power: 5W
+  Use Type: Repeater inputs (handheld to repeater)
 
 ### Technical Specifications
 - **Power Limits**:
@@ -159,14 +162,11 @@ Radio waves are electromagnetic radiation, categorized by frequency:
 - **Callsign**: Issued by FCC (format: WRKXXXX). Must identify with callsign every 15 minutes and at end of transmission
 
 ### Range Expectations
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Scenario | Power | Expected Range |
-|----------|-------|----------------|
-| Handheld-to-handheld (urban) | 5W | 1-3 miles |
-| Handheld-to-handheld (rural open) | 5W | 3-8 miles |
-| Handheld-to-repeater | 5W | 15-30 miles |
-| Mobile-to-repeater | 50W | 30-60 miles |
-| Mountaintop-to-mountaintop | 50W | 100+ miles |
+- Handheld-to-handheld (urban): 5W / 1-3 miles
+- Handheld-to-handheld (rural open): 5W / 3-8 miles
+- Handheld-to-repeater: 5W / 15-30 miles
+- Mobile-to-repeater: 50W / 30-60 miles
+- Mountaintop-to-mountaintop: 50W / 100+ miles
 
 ### Repeater Systems
 GMRS repeaters extend range by receiving on one frequency (467 MHz input) and simultaneously retransmitting on another (462 MHz output) at high power from elevated location.
@@ -205,18 +205,17 @@ GMRS repeaters extend range by receiving on one frequency (467 MHz input) and si
 - **Channel Spacing**: 10 kHz
 
 ### Channel Assignments (Key Channels)
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Channel | Frequency (MHz) | Common Use |
-|---------|----------------|------------|
-| 9 | 27.065 | **EMERGENCY CHANNEL** (official) |
-| 19 | 27.185 | Truckers (most active channel) |
-| 17 | 27.165 | Truckers (north/south highways) |
-| 21 | 27.215 | Truckers (east/west highways) |
-| 6 | 27.025 | SSB calling frequency |
-| 16 | 27.155 | SSB calling frequency |
-| 13 | 27.115 | RV and marine use |
-| 14 | 27.125 | Walkie-talkie/handheld use |
-| 1-40 | Various | General use (all channels available for any legal purpose) |
+- 9: 27.065 / EMERGENCY CHANNEL (official)
+- 19: 27.185 / Truckers (most active channel)
+- 17: 27.165 / Truckers (north/south highways)
+- 21: 27.215 / Truckers (east/west highways)
+- 6: 27.025 / SSB calling frequency
+- 16: 27.155 / SSB calling frequency
+- 13: 27.115 / RV and marine use
+- 14: 27.125 / Walkie-talkie/handheld use
+- 1-40:
+  Frequency (MHz): Various
+  Common Use: General use (all channels available for any legal purpose)
 
 ### Technical Specifications
 - **Power Limit**: 4W AM, 12W PEP SSB (single sideband)
@@ -286,15 +285,32 @@ CB performance is **heavily antenna-dependent**. Poor antenna = poor performance
 ### Frequency Allocations
 Amateur radio has access to **25+ frequency bands** from 1.8 MHz (160 meters) to 275 GHz (1.2mm). Most emergency communications occur on:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Band | Frequency Range | Wavelength | Primary Use | Range |
-|------|----------------|------------|-------------|-------|
-| **160m** | 1.8-2.0 MHz | HF | Regional nighttime (100-1000 miles) | 100-1000 mi |
-| **80m** | 3.5-4.0 MHz | HF | Regional day/night (50-1500 miles) | 50-1500 mi |
-| **40m** | 7.0-7.3 MHz | HF | Regional-continental (100-3000 miles) | 100-3000 mi |
-| **20m** | 14.0-14.35 MHz | HF | **Worldwide DX** (500-12,000+ miles) | 500-12000+ mi |
-| **2m** | 144-148 MHz | VHF | **Local FM repeaters** (5-50 miles) | 5-50 mi |
-| **70cm** | 420-450 MHz | UHF | Local repeaters, satellites (5-50 miles) | 5-50 mi |
+- 160m:
+  Frequency Range: 1.8-2.0 MHz
+  Wavelength: HF
+  Primary Use: Regional nighttime (100-1000 miles)
+  Range: 100-1000 mi
+- 80m:
+  Frequency Range: 3.5-4.0 MHz
+  Wavelength: HF
+  Primary Use: Regional day/night (50-1500 miles)
+  Range: 50-1500 mi
+- 40m:
+  Frequency Range: 7.0-7.3 MHz
+  Wavelength: HF
+  Primary Use: Regional-continental (100-3000 miles)
+  Range: 100-3000 mi
+- 20m:
+  Frequency Range: 14.0-14.35 MHz
+  Wavelength: HF
+  Primary Use: Worldwide DX (500-12,000+ miles)
+  Range: 500-12000+ mi
+- 2m: 144-148 MHz / VHF / Local FM repeaters (5-50 miles) / 5-50 mi
+- 70cm:
+  Frequency Range: 420-450 MHz
+  Wavelength: UHF
+  Primary Use: Local repeaters, satellites (5-50 miles)
+  Range: 5-50 mi
 
 **HF Bands** (3-30 MHz): Long-distance skywave propagation via ionosphere. Requires larger antennas (10-66 feet). Propagation varies by time of day, season, and 11-year solar cycle.
 
@@ -303,12 +319,21 @@ Amateur radio has access to **25+ frequency bands** from 1.8 MHz (160 meters) to
 ### Licensing Tiers
 Amateur radio requires passing FCC exam(s). Three license classes with increasing privileges:
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| License | Exam | Question Pool | Pass Score | Privileges |
-|---------|------|--------------|-----------|------------|
-| **Technician** | Element 2 | 35 questions | 26 correct (74%) | VHF/UHF all modes, limited HF (10m, 15m, 40m) |
-| **General** | Elements 2+3 | 35 questions | 26 correct (74%) | Most HF bands, all VHF/UHF |
-| **Amateur Extra** | Elements 2+3+4 | 50 questions | 37 correct (74%) | All amateur frequencies and sub-bands |
+- Technician:
+  Exam: Element 2
+  Question Pool: 35 questions
+  Pass Score: 26 correct (74%)
+  Privileges: VHF/UHF all modes, limited HF (10m, 15m, 40m)
+- General:
+  Exam: Elements 2+3
+  Question Pool: 35 questions
+  Pass Score: 26 correct (74%)
+  Privileges: Most HF bands, all VHF/UHF
+- Amateur Extra:
+  Exam: Elements 2+3+4
+  Question Pool: 50 questions
+  Pass Score: 37 correct (74%)
+  Privileges: All amateur frequencies and sub-bands
 
 **Exam Cost**: $15 (one-time, covers all elements taken in one session)
 **License Validity**: 10 years (renewable indefinitely, no re-testing)
@@ -328,29 +353,52 @@ Amateur radio requires passing FCC exam(s). Three license classes with increasin
 - **Practical**: Most stations run 5-100W (handheld 5W, mobile 50W, base 100W). 100W is adequate for worldwide HF communications with good antenna
 
 ### Range Capabilities
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Radio Type | Power | Frequency | Range | Use Case |
-|------------|-------|-----------|-------|----------|
-| HT (handheld) | 5W | VHF 2m | 2-10 miles simplex | Local direct comms |
-| HT via repeater | 5W | VHF 2m | 20-60 miles | Extended local comms |
-| Mobile VHF/UHF | 50W | 2m/70cm | 5-20 miles simplex, 30-100 miles via repeater | Vehicle operations |
-| Mobile HF | 100W | 20m/40m HF | 100-5000+ miles | Regional-to-worldwide |
-| Base HF | 100W | 20m HF | 500-12,000+ miles | Worldwide emergency nets |
-| Base HF + beam | 100W + 10dB | 20m HF | Effective 1000W (EIRP), reliable DX | Optimized long-distance |
+- HT (handheld):
+  Power: 5W
+  Frequency: VHF 2m
+  Range: 2-10 miles simplex
+  Use Case: Local direct comms
+- HT via repeater: 5W / VHF 2m / 20-60 miles / Extended local comms
+- Mobile VHF/UHF:
+  Power: 50W
+  Frequency: 2m/70cm
+  Range: 5-20 miles simplex, 30-100 miles via repeater
+  Use Case: Vehicle operations
+- Mobile HF:
+  Power: 100W
+  Frequency: 20m/40m HF
+  Range: 100-5000+ miles
+  Use Case: Regional-to-worldwide
+- Base HF:
+  Power: 100W
+  Frequency: 20m HF
+  Range: 500-12,000+ miles
+  Use Case: Worldwide emergency nets
+- Base HF + beam:
+  Power: 100W + 10dB
+  Frequency: 20m HF
+  Range: Effective 1000W (EIRP), reliable DX
+  Use Case: Optimized long-distance
 
 **Simplex**: Direct radio-to-radio (no repeater)
 **Repeater**: Station-to-repeater-to-station (extends range 5-10×)
 **DX**: Long-distance communications (>500 miles)
 
 ### Emergency Frequencies
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Frequency | Band | Mode | Use |
-|-----------|------|------|-----|
-| **146.520 MHz** | 2m VHF | FM | **National Simplex Calling** (most monitored VHF frequency) |
-| **446.000 MHz** | 70cm UHF | FM | National Simplex Calling (UHF) |
-| **7.285 MHz** | 40m HF | LSB | ARES/RACES emergency net (lower sideband voice) |
-| **3.985 MHz** | 75m HF | LSB | Emergency/Traffic Net (regional) |
-| **14.300 MHz** | 20m HF | USB | ARES/RACES calling frequency (upper sideband voice) |
+- 146.520 MHz:
+  Band: 2m VHF
+  Mode: FM
+  Use: National Simplex Calling (most monitored VHF frequency)
+- 446.000 MHz: 70cm UHF / FM / National Simplex Calling (UHF)
+- 7.285 MHz:
+  Band: 40m HF
+  Mode: LSB
+  Use: ARES/RACES emergency net (lower sideband voice)
+- 3.985 MHz: 75m HF / LSB / Emergency/Traffic Net (regional)
+- 14.300 MHz:
+  Band: 20m HF
+  Mode: USB
+  Use: ARES/RACES calling frequency (upper sideband voice)
 
 **Emergency Operation**: During disaster, declare emergency traffic ("Priority" or "Emergency" prefix) and all other stations must yield frequency.
 
@@ -403,18 +451,21 @@ Amateur radio requires passing FCC exam(s). Three license classes with increasin
 - **Channel Spacing**: 25 kHz
 
 ### Key Marine Channels
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Channel | Frequency (MHz) | Use |
-|---------|----------------|-----|
-| **16** | 156.800 | **DISTRESS, SAFETY, CALLING** (monitored by Coast Guard) |
-| 9 | 156.450 | Boater calling (non-commercial) |
-| 13 | 156.650 | Intership navigation (bridge-to-bridge) |
-| 22A | 157.100 | Coast Guard liaison and safety broadcasts |
-| 68 | 156.425 | Non-commercial working channel |
-| 69 | 156.475 | Non-commercial working channel |
-| 70 | 156.525 | **DSC (Digital Selective Calling)** distress and safety (data only) |
-| 72 | 156.625 | Non-commercial working channel |
-| WX1-WX10 | 162.400-162.550 | **NOAA Weather Radio** (receive only) |
+- 16:
+  Frequency (MHz): 156.800
+  Use: DISTRESS, SAFETY, CALLING (monitored by Coast Guard)
+- 9: 156.450 / Boater calling (non-commercial)
+- 13: 156.650 / Intership navigation (bridge-to-bridge)
+- 22A: 157.100 / Coast Guard liaison and safety broadcasts
+- 68: 156.425 / Non-commercial working channel
+- 69: 156.475 / Non-commercial working channel
+- 70:
+  Frequency (MHz): 156.525
+  Use: DSC (Digital Selective Calling) distress and safety (data on
+- 72: 156.625 / Non-commercial working channel
+- WX1-WX10:
+  Frequency (MHz): 162.400-162.550
+  Use: NOAA Weather Radio (receive only)
 
 **Operating Procedure**:
 1. Establish contact on Channel 16
@@ -569,16 +620,55 @@ NOAA Weather Radio uses **SAME** technology to target warnings to specific count
 
 ## Radio Comp
 
-<!-- MANUAL_REVIEW: complex table below — convert to bullets -->
-| Service | Frequency | License | Cost (Radio) | Power | Typical Range | Best For |
-|---------|-----------|---------|-------------|-------|---------------|----------|
-| **FRS** | 462-467 MHz | ❌ None | $20-80 (pair) | 0.5-2W | 0.5-2 mi (urban), 2-5 mi (open) | Casual family use, hiking |
-| **GMRS** | 462-467 MHz | ✓ $35/10yr | $30-400 | 5-50W | 1-8 mi (simplex), 20-60 mi (repeater) | Extended family, off-road groups |
-| **CB** | 27 MHz (HF) | ❌ None | $50-300 | 4W (AM) | 1-10 mi (local), sporadic long-distance | Truckers, highway, vehicles |
-| **Ham (VHF/UHF)** | 144-450 MHz | ✓ Exam required | $30-500 | 5-1500W | 5-50 mi (simplex), 30-100+ mi (repeater) | Local emergency nets, repeater access |
-| **Ham (HF)** | 3-30 MHz | ✓ General or Extra | $450-2000+ | 100-1500W | 100-12,000+ mi (skywave) | Regional-worldwide emergency comms |
-| **Marine VHF** | 156-163 MHz | ✓ (intl. only) | $80-400 | 1-25W | 5-60 mi (boat-to-coast) | Boating, maritime, coastal |
-| **NOAA WX** | 162 MHz | ❌ (RX only) | $25-70 | N/A (RX) | 40-70 mi | Weather alerts, emergency warnings |
+- FRS:
+  Frequency: 462-467 MHz
+  License: ❌ None
+  Cost (Radio): $20-80 (pair)
+  Power: 0.5-2W
+  Typical Range: 0.5-2 mi (urban), 2-5 mi (open)
+  Best For: Casual family use, hiking
+- GMRS:
+  Frequency: 462-467 MHz
+  License: ✓ $35/10yr
+  Cost (Radio): $30-400
+  Power: 5-50W
+  Typical Range: 1-8 mi (simplex), 20-60 mi (repeater)
+  Best For: Extended family, off-road groups
+- CB:
+  Frequency: 27 MHz (HF)
+  License: ❌ None
+  Cost (Radio): $50-300
+  Power: 4W (AM)
+  Typical Range: 1-10 mi (local), sporadic long-distance
+  Best For: Truckers, highway, vehicles
+- Ham (VHF/UHF):
+  Frequency: 144-450 MHz
+  License: ✓ Exam required
+  Cost (Radio): $30-500
+  Power: 5-1500W
+  Typical Range: 5-50 mi (simplex), 30-100+ mi (repeater)
+  Best For: Local emergency nets, repeater access
+- Ham (HF):
+  Frequency: 3-30 MHz
+  License: ✓ General or Extra
+  Cost (Radio): $450-2000+
+  Power: 100-1500W
+  Typical Range: 100-12,000+ mi (skywave)
+  Best For: Regional-worldwide emergency comms
+- Marine VHF:
+  Frequency: 156-163 MHz
+  License: ✓ (intl. only)
+  Cost (Radio): $80-400
+  Power: 1-25W
+  Typical Range: 5-60 mi (boat-to-coast)
+  Best For: Boating, maritime, coastal
+- NOAA WX:
+  Frequency: 162 MHz
+  License: ❌ (RX only)
+  Cost (Radio): $25-70
+  Power: N/A (RX)
+  Typical Range: 40-70 mi
+  Best For: Weather alerts, emergency warnings
 
 ## Emerg Comm Strat
 
