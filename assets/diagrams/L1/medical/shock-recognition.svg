@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="12" fill="white" font-size="10" text-anchor="middle" font-weight="bold">SHOCK RECOGNITION &amp; PROGRESSION</text>
+  
+  <!-- Three stages of shock -->
+  <g id="stages">
+    <!-- Early/Compensated -->
+    <g id="early-shock">
+      <rect x="10" y="25" width="70" height="65" fill="none" stroke="#00FFFF" stroke-width="2"/>
+      <text x="45" y="35" fill="#00FFFF" font-size="8" text-anchor="middle" font-weight="bold">EARLY</text>
+      <text x="45" y="43" fill="white" font-size="7" text-anchor="middle">(Compensated)</text>
+      
+      <text x="15" y="53" fill="white" font-size="6">Anxious/restless</text>
+      <text x="15" y="60" fill="white" font-size="6">Pale, cool skin</text>
+      <text x="15" y="67" fill="#FF6600" font-size="6">HR: 100-120</text>
+      <text x="15" y="74" fill="#00FF00" font-size="6">BP: Normal</text>
+      <text x="15" y="81" fill="#FF6600" font-size="6">RR: 20-24</text>
+      <text x="15" y="88" fill="white" font-size="6">Cap refill &gt;2s</text>
+    </g>
+    
+    <!-- Progressive/Decompensated -->
+    <g id="progressive-shock">
+      <rect x="85" y="25" width="70" height="65" fill="none" stroke="#FF6600" stroke-width="2"/>
+      <text x="120" y="35" fill="#FF6600" font-size="8" text-anchor="middle" font-weight="bold">PROGRESSIVE</text>
+      <text x="120" y="43" fill="white" font-size="7" text-anchor="middle">(Decompensated)</text>
+      
+      <text x="90" y="53" fill="white" font-size="6">Confused/lethargic</text>
+      <text x="90" y="60" fill="white" font-size="6">Cold, clammy</text>
+      <text x="90" y="67" fill="#FF0000" font-size="6">HR: &gt;120 weak</text>
+      <text x="90" y="74" fill="#FF6600" font-size="6">BP: &lt;90 systolic</text>
+      <text x="90" y="81" fill="#FF0000" font-size="6">RR: &gt;30 shallow</text>
+      <text x="90" y="88" fill="white" font-size="6">Minimal urine</text>
+    </g>
+    
+    <!-- Irreversible/Terminal -->
+    <g id="terminal-shock">
+      <rect x="160" y="25" width="70" height="65" fill="none" stroke="#FF0000" stroke-width="2"/>
+      <text x="195" y="35" fill="#FF0000" font-size="8" text-anchor="middle" font-weight="bold">TERMINAL</text>
+      <text x="195" y="43" fill="white" font-size="7" text-anchor="middle">(Irreversible)</text>
+      
+      <text x="165" y="53" fill="white" font-size="6">Unresponsive</text>
+      <text x="165" y="60" fill="white" font-size="6">Mottled, cold</text>
+      <text x="165" y="67" fill="#FF0000" font-size="6">HR: Very weak</text>
+      <text x="165" y="74" fill="#FF0000" font-size="6">BP: &lt;70</text>
+      <text x="165" y="81" fill="#FF0000" font-size="6">RR: Gasping</text>
+      <text x="165" y="88" fill="white" font-size="6">No urine</text>
+    </g>
+    
+    <!-- Progression arrow -->
+    <path d="M 80 57 L 160 57" stroke="#FF0000" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+        <polygon points="0 0, 10 3, 0 6" fill="#FF0000"/>
+      </marker>
+    </defs>
+    <text x="120" y="52" fill="#FF0000" font-size="6" text-anchor="middle">Worsening</text>
+  </g>
+  
+  <!-- Quick assessment -->
+  <g id="quick-check">
+    <text x="120" y="105" fill="white" font-size="9" text-anchor="middle" font-weight="bold">QUICK ASSESSMENT (No Equipment)</text>
+    
+    <rect x="10" y="110" width="220" height="45" fill="none" stroke="#00FFFF" stroke-width="1"/>
+    
+    <!-- Capillary refill test -->
+    <circle cx="30" cy="125" r="8" fill="none" stroke="white" stroke-width="1"/>
+    <text x="30" y="128" fill="white" font-size="6" text-anchor="middle">Nail</text>
+    <text x="45" y="120" fill="#00FFFF" font-size="6">Cap Refill:</text>
+    <text x="45" y="128" fill="white" font-size="6">&lt;2 sec = OK</text>
+    <text x="45" y="135" fill="#FF0000" font-size="6">&gt;2 sec = Shock</text>
+    
+    <!-- Radial pulse -->
+    <line x1="115" y1="118" x2="125" y2="118" stroke="white" stroke-width="2"/>
+    <line x1="115" y1="122" x2="125" y2="122" stroke="white" stroke-width="2"/>
+    <line x1="115" y1="126" x2="125" y2="126" stroke="white" stroke-width="2"/>
+    <text x="135" y="120" fill="#00FFFF" font-size="6">Radial Pulse:</text>
+    <text x="135" y="128" fill="white" font-size="6">Strong = OK</text>
+    <text x="135" y="135" fill="#FF0000" font-size="6">Weak/absent = Shock</text>
+    
+    <!-- Mental status -->
+    <circle cx="28" cy="145" r="5" fill="none" stroke="white" stroke-width="1"/>
+    <circle cx="26" cy="144" r="1" fill="white"/>
+    <circle cx="30" cy="144" r="1" fill="white"/>
+    <path d="M 24 147 Q 28 149 32 147" stroke="white" stroke-width="1" fill="none"/>
+    <text x="45" y="148" fill="#00FFFF" font-size="6">Mental Status:</text>
+    <text x="110" y="148" fill="white" font-size="6">Anxious/confused = Shock</text>
+  </g>
+  
+  <!-- Types of shock -->
+  <g id="shock-types">
+    <text x="120" y="168" fill="white" font-size="9" text-anchor="middle" font-weight="bold">SHOCK TYPES &amp; KEY SIGNS</text>
+    
+    <rect x="5" y="172" width="110" height="30" fill="none" stroke="#00FFFF" stroke-width="1"/>
+    <text x="10" y="180" fill="#FF0000" font-size="7" font-weight="bold">HYPOVOLEMIC (bleeding):</text>
+    <text x="10" y="188" fill="white" font-size="6">• Trauma/bleeding history</text>
+    <text x="10" y="195" fill="white" font-size="6">• Classic shock signs</text>
+    <text x="10" y="202" fill="#00FFFF" font-size="6">Rx: Stop bleeding + legs up</text>
+    
+    <rect x="120" y="172" width="115" height="30" fill="none" stroke="#00FFFF" stroke-width="1"/>
+    <text x="125" y="180" fill="#FF6600" font-size="7" font-weight="bold">CARDIOGENIC (heart):</text>
+    <text x="125" y="188" fill="white" font-size="6">• Chest pain, dyspnea</text>
+    <text x="125" y="195" fill="white" font-size="6">• Neck veins distended</text>
+    <text x="125" y="202" fill="#00FFFF" font-size="6">Rx: SIT UP (not legs up!)</text>
+    
+    <rect x="5" y="205" width="110" height="25" fill="none" stroke="#00FFFF" stroke-width="1"/>
+    <text x="10" y="213" fill="white" font-size="7" font-weight="bold">ANAPHYLACTIC:</text>
+    <text x="10" y="220" fill="white" font-size="6">• Allergen exposure</text>
+    <text x="10" y="227" fill="white" font-size="6">• Hives, swelling, wheezing</text>
+    
+    <rect x="120" y="205" width="115" height="25" fill="none" stroke="#00FFFF" stroke-width="1"/>
+    <text x="125" y="213" fill="white" font-size="7" font-weight="bold">NEUROGENIC (spinal):</text>
+    <text x="125" y="220" fill="white" font-size="6">• Warm, dry skin</text>
+    <text x="125" y="227" fill="white" font-size="6">• Normal/slow HR (paradox)</text>
+  </g>
+  
+  <!-- Critical actions box -->
+  <rect x="5" y="233" width="230" height="3" fill="#FF0000"/>
+  <text x="120" y="238" fill="#FF0000" font-size="6" text-anchor="middle" font-weight="bold">⚠ ALL SHOCK = LIFE-THREATENING • EVACUATE IMMEDIATELY</text>
+</svg>

@@ -1,0 +1,102 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="15" text-anchor="middle" fill="cyan" font-size="13" font-family="monospace">TINDER TYPES</text>
+  
+  <!-- Left column: Natural tinders -->
+  <text x="10" y="35" fill="cyan" font-size="10" font-family="monospace">NATURAL</text>
+  
+  <!-- Birch bark -->
+  <rect x="10" y="45" width="25" height="20" fill="#8B7355" stroke="white" stroke-width="1"/>
+  <line x1="12" y1="50" x2="33" y2="50" stroke="white" stroke-width="0.5"/>
+  <line x1="12" y1="55" x2="33" y2="55" stroke="white" stroke-width="0.5"/>
+  <line x1="12" y1="60" x2="33" y2="60" stroke="white" stroke-width="0.5"/>
+  <text x="40" y="58" fill="white" font-size="8" font-family="monospace">Birch bark</text>
+  
+  <!-- Fatwood -->
+  <rect x="10" y="75" width="25" height="20" fill="#CD853F" stroke="orange" stroke-width="1"/>
+  <line x1="15" y1="78" x2="15" y2="92" stroke="#8B4513" stroke-width="1"/>
+  <line x1="20" y1="78" x2="20" y2="92" stroke="#8B4513" stroke-width="1"/>
+  <line x1="25" y1="78" x2="25" y2="92" stroke="#8B4513" stroke-width="1"/>
+  <text x="40" y="88" fill="orange" font-size="8" font-family="monospace">Fatwood</text>
+  
+  <!-- Cattail fluff -->
+  <ellipse cx="22" cy="115" rx="12" ry="10" fill="#D3D3D3" stroke="white" stroke-width="1"/>
+  <circle cx="18" cy="112" r="1" fill="white"/>
+  <circle cx="22" cy="110" r="1" fill="white"/>
+  <circle cx="26" cy="114" r="1" fill="white"/>
+  <circle cx="20" cy="118" r="1" fill="white"/>
+  <text x="40" y="118" fill="white" font-size="8" font-family="monospace">Cattail</text>
+  
+  <!-- Dry grass -->
+  <line x1="12" y1="145" x2="14" y2="135" stroke="#8B8B4F" stroke-width="1.5"/>
+  <line x1="17" y1="145" x2="18" y2="133" stroke="#8B8B4F" stroke-width="1.5"/>
+  <line x1="22" y1="145" x2="23" y2="135" stroke="#8B8B4F" stroke-width="1.5"/>
+  <line x1="27" y1="145" x2="27" y2="133" stroke="#8B8B4F" stroke-width="1.5"/>
+  <line x1="32" y1="145" x2="31" y2="135" stroke="#8B8B4F" stroke-width="1.5"/>
+  <text x="40" y="143" fill="white" font-size="8" font-family="monospace">Dry grass</text>
+  
+  <!-- Cedar bark -->
+  <rect x="10" y="155" width="25" height="20" fill="#8B4513" stroke="white" stroke-width="1"/>
+  <line x1="12" y1="165" x2="33" y2="165" stroke="#A0522D" stroke-width="0.5"/>
+  <line x1="12" y1="168" x2="33" y2="168" stroke="#A0522D" stroke-width="0.5"/>
+  <line x1="12" y1="171" x2="33" y2="171" stroke="#A0522D" stroke-width="0.5"/>
+  <text x="40" y="168" fill="white" font-size="8" font-family="monospace">Cedar bark</text>
+  
+  <!-- Right column: Prepared tinders -->
+  <text x="125" y="35" fill="cyan" font-size="10" font-family="monospace">PREPARED</text>
+  
+  <!-- Cotton + petroleum jelly -->
+  <circle cx="145" cy="55" r="12" fill="white" stroke="cyan" stroke-width="1"/>
+  <circle cx="143" cy="52" r="2" fill="cyan"/>
+  <circle cx="148" cy="54" r="2" fill="cyan"/>
+  <circle cx="145" cy="58" r="2" fill="cyan"/>
+  <text x="160" y="58" fill="cyan" font-size="8" font-family="monospace">Cotton+</text>
+  <text x="160" y="67" fill="cyan" font-size="8" font-family="monospace">pet.jelly</text>
+  
+  <!-- Char cloth -->
+  <rect x="133" y="80" width="24" height="15" fill="#1a1a1a" stroke="white" stroke-width="1"/>
+  <text x="160" y="90" fill="white" font-size="8" font-family="monospace">Char cloth</text>
+  
+  <!-- Dryer lint -->
+  <ellipse cx="145" cy="113" rx="13" ry="8" fill="#B0B0B0" stroke="white" stroke-width="1"/>
+  <circle cx="142" cy="110" r="1" fill="gray"/>
+  <circle cx="148" cy="112" r="1" fill="gray"/>
+  <circle cx="145" cy="116" r="1" fill="gray"/>
+  <text x="160" y="115" fill="white" font-size="8" font-family="monospace">Dryer lint</text>
+  
+  <!-- Jute twine -->
+  <line x1="135" y1="135" x2="155" y2="135" stroke="#CD853F" stroke-width="2"/>
+  <line x1="136" y1="140" x2="154" y2="140" stroke="#CD853F" stroke-width="2"/>
+  <line x1="137" y1="145" x2="153" y2="145" stroke="#CD853F" stroke-width="2"/>
+  <text x="160" y="143" fill="white" font-size="8" font-family="monospace">Jute twine</text>
+  
+  <!-- Waxed cardboard -->
+  <rect x="133" y="158" width="24" height="15" fill="#8B7355" stroke="orange" stroke-width="1"/>
+  <line x1="135" y1="163" x2="155" y2="163" stroke="orange" stroke-width="0.5"/>
+  <line x1="135" y1="167" x2="155" y2="167" stroke="orange" stroke-width="0.5"/>
+  <line x1="135" y1="171" x2="155" y2="171" stroke="orange" stroke-width="0.5"/>
+  <text x="160" y="168" fill="orange" font-size="8" font-family="monospace">Waxed card</text>
+  
+  <!-- Bottom: Tinder bundle structure -->
+  <text x="120" y="195" text-anchor="middle" fill="cyan" font-size="10" font-family="monospace">BUNDLE STRUCTURE</text>
+  
+  <!-- Nest diagram -->
+  <ellipse cx="120" cy="220" rx="40" ry="15" stroke="white" stroke-width="2" fill="none"/>
+  <ellipse cx="120" cy="220" rx="20" ry="8" stroke="cyan" stroke-width="1" fill="none"/>
+  <text x="75" y="218" fill="cyan" font-size="7" font-family="monospace">Fine</text>
+  <text x="75" y="226" fill="cyan" font-size="7" font-family="monospace">core</text>
+  <text x="165" y="218" fill="white" font-size="7" font-family="monospace">Coarse</text>
+  <text x="165" y="226" fill="white" font-size="7" font-family="monospace">outer</text>
+  
+  <!-- Arrows showing layers -->
+  <line x1="95" y1="220" x2="103" y2="220" stroke="cyan" stroke-width="1"/>
+  <polygon points="95,220 97,218 97,222" fill="cyan"/>
+  
+  <line x1="145" y1="220" x2="137" y2="220" stroke="white" stroke-width="1"/>
+  <polygon points="145,220 143,218 143,222" fill="white"/>
+  
+  <!-- Key specs -->
+  <text x="10" y="210" fill="gray" font-size="7" font-family="monospace">8-10" diameter • Loose pack</text>
+</svg>

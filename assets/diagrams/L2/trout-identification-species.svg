@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" width="240" height="320">
+  <defs>
+    <style>
+      .title { font: bold 12px monospace; fill: #003333; }
+      .label { font: 9px monospace; fill: #003333; }
+      .species { font: bold 10px monospace; }
+      .bg { fill: #f0f8ff; }
+      .rainbow { fill: #c0d0e0; stroke: #405060; stroke-width: 1.5; }
+      .brook { fill: #9a8a70; stroke: #5a4a30; stroke-width: 1.5; }
+      .brown { fill: #b8a87a; stroke: #786848; stroke-width: 1.5; }
+      .cutthroat { fill: #d0c8b0; stroke: #807868; stroke-width: 1.5; }
+      .spot-black { fill: #000; }
+      .spot-red { fill: #d03030; }
+      .stripe { stroke: #ff6090; stroke-width: 2; }
+      .slash { stroke: #ff3030; stroke-width: 2; }
+      .fin-white { stroke: #fff; stroke-width: 2; }
+      .vermiculation { stroke: #3a5a3a; stroke-width: 0.8; fill: none; }
+    </style>
+  </defs>
+  
+  <rect x="0" y="0" width="240" height="320" class="bg"/>
+  <text x="120" y="15" text-anchor="middle" class="title">TROUT IDENTIFICATION</text>
+  
+  <!-- RAINBOW TROUT -->
+  <text x="10" y="35" class="species" style="fill: #2060a0;">RAINBOW TROUT</text>
+  <text x="10" y="47" class="label">(Oncorhynchus mykiss)</text>
+  
+  <ellipse cx="120" cy="70" rx="85" ry="20" class="rainbow"/>
+  <!-- Pink lateral stripe -->
+  <line x1="50" y1="70" x2="180" y2="70" class="stripe"/>
+  <!-- Black spots -->
+  <circle cx="80" cy="60" r="2" class="spot-black"/>
+  <circle cx="100" cy="58" r="2" class="spot-black"/>
+  <circle cx="120" cy="62" r="2" class="spot-black"/>
+  <circle cx="140" cy="59" r="2" class="spot-black"/>
+  <circle cx="160" cy="61" r="2" class="spot-black"/>
+  <circle cx="90" cy="68" r="2" class="spot-black"/>
+  <circle cx="130" cy="66" r="2" class="spot-black"/>
+  <circle cx="150" cy="70" r="2" class="spot-black"/>
+  <!-- Tail spots -->
+  <circle cx="195" cy="68" r="1.5" class="spot-black"/>
+  <circle cx="192" cy="72" r="1.5" class="spot-black"/>
+  <path d="M 205,70 L 215,65 L 215,75 Z" class="rainbow"/>
+  <circle cx="210" cy="68" r="1.5" class="spot-black"/>
+  <circle cx="209" cy="72" r="1.5" class="spot-black"/>
+  
+  <text x="10" y="95" class="label">• Pink stripe along side</text>
+  <text x="10" y="105" class="label">• Black spots on back, tail</text>
+  <text x="10" y="115" class="label">• Silver sides, 8-20"</text>
+  
+  <!-- BROOK TROUT -->
+  <text x="10" y="135" class="species" style="fill: #6a5a40;">BROOK TROUT</text>
+  <text x="10" y="147" class="label">(Salvelinus fontinalis)</text>
+  
+  <ellipse cx="120" cy="170" rx="80" ry="20" class="brook"/>
+  <!-- Vermiculations on back -->
+  <path d="M 60,160 Q 65,158 70,160 Q 75,162 80,160" class="vermiculation"/>
+  <path d="M 85,158 Q 90,156 95,158 Q 100,160 105,158" class="vermiculation"/>
+  <path d="M 110,159 Q 115,157 120,159" class="vermiculation"/>
+  <path d="M 65,165 Q 70,163 75,165 Q 80,167 85,165" class="vermiculation"/>
+  <path d="M 90,164 Q 95,162 100,164" class="vermiculation"/>
+  
+  <!-- Red spots with blue halos -->
+  <circle cx="85" cy="172" r="4" fill="#6090c0"/>
+  <circle cx="85" cy="172" r="2" class="spot-red"/>
+  <circle cx="110" cy="175" r="4" fill="#6090c0"/>
+  <circle cx="110" cy="175" r="2" class="spot-red"/>
+  <circle cx="135" cy="173" r="4" fill="#6090c0"/>
+  <circle cx="135" cy="173" r="2" class="spot-red"/>
+  
+  <!-- White-edged fins -->
+  <path d="M 70,185 L 65,192 L 75,190 Z" class="brook"/>
+  <path d="M 65,192 L 67,194" class="fin-white"/>
+  <path d="M 100,185 L 95,192 L 105,190 Z" class="brook"/>
+  <path d="M 95,192 L 97,194" class="fin-white"/>
+  
+  <text x="10" y="200" class="label">• Worm-like markings (back)</text>
+  <text x="10" y="210" class="label">• Red spots with blue halos</text>
+  <text x="10" y="220" class="label">• White edges on fins, 6-16"</text>
+  
+  <!-- BROWN TROUT -->
+  <text x="10" y="240" class="species" style="fill: #786848;">BROWN TROUT</text>
+  <text x="10" y="252" class="label">(Salmo trutta)</text>
+  
+  <ellipse cx="120" cy="270" rx="85" ry="20" class="brown"/>
+  <!-- Black spots -->
+  <circle cx="75" cy="263" r="2.5" class="spot-black"/>
+  <circle cx="95" cy="260" r="2.5" class="spot-black"/>
+  <circle cx="115" cy="265" r="2.5" class="spot-black"/>
+  <circle cx="140" cy="262" r="2.5" class="spot-black"/>
+  <!-- Red spots with halos -->
+  <circle cx="85" cy="275" r="4" fill="#e8d8c0"/>
+  <circle cx="85" cy="275" r="2" class="spot-red"/>
+  <circle cx="120" cy="278" r="4" fill="#e8d8c0"/>
+  <circle cx="120" cy="278" r="2" class="spot-red"/>
+  <circle cx="150" cy="276" r="4" fill="#e8d8c0"/>
+  <circle cx="150" cy="276" r="2" class="spot-red"/>
+  <!-- Tail (few/no spots) -->
+  <path d="M 205,270 L 215,265 L 215,275 Z" class="brown"/>
+  
+  <text x="10" y="295" class="label">• Black AND red spots</text>
+  <text x="10" y="305" class="label">• Few spots on tail</text>
+  <text x="10" y="315" class="label">• Brown/gold, 10-25"</text>
+</svg>

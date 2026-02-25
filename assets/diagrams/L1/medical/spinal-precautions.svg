@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="black"/>
+  
+  <!-- Title -->
+  <text x="120" y="12" fill="white" font-size="10" text-anchor="middle" font-weight="bold">SPINAL INJURY - LOG-ROLL TECHNIQUE</text>
+  
+  <!-- Before: victim on ground -->
+  <g id="before">
+    <text x="60" y="30" fill="white" font-size="8" text-anchor="middle">BEFORE: On ground</text>
+    <!-- Ground line -->
+    <line x1="10" y1="95" x2="110" y2="95" stroke="#00FFFF" stroke-width="2"/>
+    
+    <!-- Victim supine -->
+    <ellipse cx="60" cy="85" rx="8" ry="10" fill="none" stroke="white" stroke-width="2"/>
+    <rect x="52" y="95" width="16" height="25" fill="none" stroke="white" stroke-width="2"/>
+    <line x1="52" y1="105" x2="42" y2="115" stroke="white" stroke-width="2"/>
+    <line x1="68" y1="105" x2="78" y2="115" stroke="white" stroke-width="2"/>
+    <line x1="52" y1="120" x2="42" y2="135" stroke="white" stroke-width="2"/>
+    <line x1="68" y1="120" x2="78" y2="135" stroke="white" stroke-width="2"/>
+    
+    <!-- Spine indicator -->
+    <line x1="60" y1="80" x2="60" y2="120" stroke="#FF0000" stroke-width="2" stroke-dasharray="2,2"/>
+    <text x="75" y="108" fill="#FF0000" font-size="6">SPINE</text>
+    
+    <!-- Rescuers -->
+    <circle cx="25" cy="75" r="5" fill="#00FFFF"/>
+    <text x="25" y="65" fill="#00FFFF" font-size="6" text-anchor="middle">R1</text>
+    <text x="25" y="70" fill="white" font-size="5" text-anchor="middle">HEAD</text>
+    
+    <circle cx="90" cy="95" r="5" fill="#00FFFF"/>
+    <circle cx="90" cy="110" r="5" fill="#00FFFF"/>
+    <text x="100" y="98" fill="white" font-size="5">R2</text>
+    <text x="100" y="113" fill="white" font-size="5">R3</text>
+  </g>
+  
+  <!-- During: log-rolling -->
+  <g id="during">
+    <text x="180" y="30" fill="white" font-size="8" text-anchor="middle">DURING: Log-roll</text>
+    <!-- Ground line -->
+    <line x1="130" y1="95" x2="230" y2="95" stroke="#00FFFF" stroke-width="2"/>
+    
+    <!-- Victim being rolled (on side) -->
+    <ellipse cx="175" cy="75" rx="10" ry="8" fill="none" stroke="white" stroke-width="2"/>
+    <rect x="175" y="75" width="25" height="16" fill="none" stroke="white" stroke-width="2" transform="rotate(90 187.5 83)"/>
+    <line x1="185" y1="67" x2="195" y2="62" stroke="white" stroke-width="2"/>
+    <line x1="185" y1="83" x2="195" y2="88" stroke="white" stroke-width="2"/>
+    <line x1="175" y1="58" x2="175" y2="48" stroke="white" stroke-width="2"/>
+    <line x1="175" y1="91" x2="175" y2="101" stroke="white" stroke-width="2"/>
+    
+    <!-- Spine still straight -->
+    <line x1="165" y1="75" x2="190" y2="75" stroke="#00FF00" stroke-width="2"/>
+    <text x="195" y="78" fill="#00FF00" font-size="6">Straight!</text>
+    
+    <!-- Rescuers -->
+    <circle cx="160" cy="65" r="5" fill="#00FFFF"/>
+    <text x="160" y="55" fill="#00FFFF" font-size="6" text-anchor="middle">R1</text>
+    
+    <!-- Backboard behind -->
+    <rect x="205" y="48" width="4" height="50" fill="#FF6600"/>
+    <text x="217" y="73" fill="#FF6600" font-size="6">Board</text>
+    
+    <circle cx="210" cy="83" r="5" fill="#00FFFF"/>
+    <text x="217" y="86" fill="white" font-size="5">R4</text>
+  </g>
+  
+  <!-- Manual inline stabilization -->
+  <g id="mis">
+    <text x="60" y="145" fill="white" font-size="8" text-anchor="middle" font-weight="bold">Manual Inline Stabilization</text>
+    <rect x="10" y="150" width="100" height="70" fill="none" stroke="#00FFFF" stroke-width="1"/>
+    
+    <!-- Head/hands -->
+    <ellipse cx="60" cy="175" rx="12" ry="15" fill="none" stroke="white" stroke-width="2"/>
+    <rect x="38" y="170" width="15" height="10" fill="#00FFFF" opacity="0.5"/>
+    <rect x="67" y="170" width="15" height="10" fill="#00FFFF" opacity="0.5"/>
+    <text x="60" y="195" fill="white" font-size="6" text-anchor="middle">Hands on ears</text>
+    <text x="60" y="202" fill="white" font-size="6" text-anchor="middle">Fingers on jaw</text>
+    <text x="60" y="209" fill="white" font-size="6" text-anchor="middle">Neutral position</text>
+    <text x="60" y="216" fill="#FF0000" font-size="6" text-anchor="middle">NO flexion/rotation</text>
+  </g>
+  
+  <!-- Neuro check -->
+  <g id="neuro">
+    <text x="180" y="145" fill="white" font-size="8" text-anchor="middle" font-weight="bold">Neuro Check (Before/After)</text>
+    <rect x="130" y="150" width="100" height="70" fill="none" stroke="#00FFFF" stroke-width="1"/>
+    
+    <text x="135" y="160" fill="#00FFFF" font-size="7" font-weight="bold">MOTOR:</text>
+    <text x="135" y="168" fill="white" font-size="6">"Squeeze my hands"</text>
+    <text x="135" y="175" fill="white" font-size="6">"Push feet against me"</text>
+    
+    <text x="135" y="185" fill="#00FFFF" font-size="7" font-weight="bold">SENSORY:</text>
+    <text x="135" y="193" fill="white" font-size="6">Light touch - all limbs</text>
+    <text x="135" y="200" fill="white" font-size="6">Sharp vs. dull</text>
+    
+    <text x="135" y="210" fill="#00FFFF" font-size="7" font-weight="bold">PAIN:</text>
+    <text x="135" y="218" fill="white" font-size="6">"Neck/back hurt?"</text>
+  </g>
+  
+  <!-- High-risk mechanisms -->
+  <g id="mechanisms">
+    <text x="120" y="230" fill="#FF0000" font-size="7" text-anchor="middle" font-weight="bold">SUSPECT IF: Fall &gt;10ft • MVC • Diving • Head trauma • Found unconscious</text>
+    <text x="120" y="238" fill="white" font-size="6" text-anchor="middle">Log-roll needs 3+ people • Check neuro q15min • When in doubt, immobilize</text>
+  </g>
+</svg>

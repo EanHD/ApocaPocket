@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <defs>
+    <style>
+      .title { font: bold 14px monospace; fill: #fff; }
+      .label { font: 11px monospace; fill: #fff; }
+      .danger { fill: #ff4444; }
+      .safe { fill: #00dddd; }
+      .bg-danger { fill: #330000; }
+      .bg-safe { fill: #003333; }
+      .stem { stroke: #6b9b6e; stroke-width: 2; fill: none; }
+      .leaf { fill: #6b9b6e; stroke: #4a7c4e; stroke-width: 0.5; }
+      .bulb { fill: #d4c5a0; stroke: #8b7355; stroke-width: 1; }
+      .flower-white { fill: #fff; stroke: #ccc; stroke-width: 0.5; }
+      .flower-blue { fill: #4477ff; stroke: #2255dd; stroke-width: 0.5; }
+      .gland { fill: #88aa44; }
+    </style>
+  </defs>
+  
+  <!-- DEATH CAMAS (LEFT - DANGER) -->
+  <rect x="0" y="0" width="240" height="240" class="bg-danger"/>
+  <text x="120" y="20" text-anchor="middle" class="title danger">⚠ DEATH CAMAS ⚠</text>
+  <text x="120" y="35" text-anchor="middle" class="label">(Zigadenus/Toxicoscordion)</text>
+  
+  <!-- Stem -->
+  <line x1="120" y1="220" x2="120" y2="80" class="stem"/>
+  
+  <!-- Grass-like leaves (basal) -->
+  <path d="M 110,200 Q 105,150 100,120" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <path d="M 115,205 Q 112,155 110,125" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <path d="M 125,205 Q 128,155 130,125" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <path d="M 130,200 Q 135,150 140,120" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <text x="145" y="170" class="label danger">Grass-like</text>
+  <text x="145" y="182" class="label danger">basal leaves</text>
+  <text x="145" y="194" class="label danger">(waxy bluish)</text>
+  
+  <!-- WHITE/CREAM flowers in raceme -->
+  <circle cx="115" cy="90" r="5" class="flower-white"/>
+  <circle cx="113" cy="95" r="1.5" class="gland"/>
+  <circle cx="118" cy="100" r="5" class="flower-white"/>
+  <circle cx="116" cy="105" r="1.5" class="gland"/>
+  <circle cx="120" cy="80" r="5" class="flower-white"/>
+  <circle cx="118" cy="85" r="1.5" class="gland"/>
+  <circle cx="122" cy="110" r="5" class="flower-white"/>
+  <circle cx="120" cy="115" r="1.5" class="gland"/>
+  <circle cx="125" cy="70" r="5" class="flower-white"/>
+  <circle cx="123" cy="75" r="1.5" class="gland"/>
+  <circle cx="127" cy="100" r="5" class="flower-white"/>
+  <circle cx="125" cy="105" r="1.5" class="gland"/>
+  
+  <text x="10" y="75" class="label danger">WHITE/CREAM</text>
+  <text x="10" y="87" class="label danger">flowers with</text>
+  <text x="10" y="99" class="label danger">green/yellow</text>
+  <text x="10" y="111" class="label danger">glands</text>
+  
+  <!-- Bulb underground -->
+  <ellipse cx="120" cy="228" rx="10" ry="15" class="bulb"/>
+  <text x="60" y="233" class="label danger">Bulb looks</text>
+  <text x="60" y="240" class="label danger">IDENTICAL!</text>
+  
+  <!-- Bloom time -->
+  <text x="160" y="45" class="label danger">Blooms:</text>
+  <text x="160" y="57" class="label danger">May-July</text>
+  
+  <!-- EDIBLE CAMAS (RIGHT - SAFE) -->
+  <rect x="240" y="0" width="240" height="240" class="bg-safe"/>
+  <text x="360" y="20" text-anchor="middle" class="title safe">✓ EDIBLE CAMAS ✓</text>
+  <text x="360" y="35" text-anchor="middle" class="label">(Camassia quamash)</text>
+  
+  <!-- Stem -->
+  <line x1="360" y1="220" x2="360" y2="80" class="stem"/>
+  
+  <!-- Grass-like leaves (basal) -->
+  <path d="M 350,200 Q 345,150 340,120" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <path d="M 355,205 Q 352,155 350,125" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <path d="M 365,205 Q 368,155 370,125" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <path d="M 370,200 Q 375,150 380,120" stroke="#6b9b6e" stroke-width="3" fill="none"/>
+  <text x="385" y="170" class="label safe">Grass-like</text>
+  <text x="385" y="182" class="label safe">basal leaves</text>
+  <text x="385" y="194" class="label safe">(greener)</text>
+  
+  <!-- BLUE flowers in raceme -->
+  <circle cx="355" cy="90" r="5" class="flower-blue"/>
+  <circle cx="358" cy="100" r="5" class="flower-blue"/>
+  <circle cx="360" cy="80" r="5" class="flower-blue"/>
+  <circle cx="362" cy="110" r="5" class="flower-blue"/>
+  <circle cx="365" cy="70" r="5" class="flower-blue"/>
+  <circle cx="367" cy="100" r="5" class="flower-blue"/>
+  
+  <text x="250" y="75" class="label safe">DEEP BLUE</text>
+  <text x="250" y="87" class="label safe">to BLUE-</text>
+  <text x="250" y="99" class="label safe">PURPLE</text>
+  <text x="250" y="111" class="label safe">flowers!</text>
+  
+  <!-- Bulb underground -->
+  <ellipse cx="360" cy="228" rx="10" ry="15" class="bulb"/>
+  <text x="300" y="233" class="label safe">Same bulb</text>
+  <text x="300" y="240" class="label safe">appearance!</text>
+  
+  <!-- Bloom time -->
+  <text x="400" y="45" class="label safe">Blooms:</text>
+  <text x="400" y="57" class="label safe">April-June</text>
+  
+  <!-- Bottom critical note -->
+  <rect x="0" y="225" width="480" height="15" fill="#000" opacity="0.7"/>
+  <text x="240" y="237" text-anchor="middle" style="font: bold 12px monospace; fill: #ffff00;">ONLY HARVEST IF YOU SAW BLUE FLOWERS ON THAT EXACT PLANT!</text>
+</svg>
