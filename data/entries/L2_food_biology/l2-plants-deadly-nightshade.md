@@ -3,164 +3,72 @@ id: l2-plants-deadly-nightshade
 title: Deadly Nightshade
 category: L2_food_biology
 subtopic: toxic_plants
-tags:
-- deadly
-- nightshade
-- belladonna
-- poisonous
-- alkaloids
-- toxicology
-- identification
-region_relevance:
-- europe
-- north-america
-- temperate
-summary: Deadly nightshade (Atropa belladonna) is one of the most poisonous plants in Europe and parts of North America. Contains tropane alkaloids (atropine, scopolamine) that cause severe nervous system effects. The attractive black berries are especially dangerous to children. Related nightshade species (black nightshade, bittersweet nightshade) have varying toxicity levels.
+tags: [deadly, nightshade, belladonna, poisonous, alkaloids, identification]
+region_relevance: [europe, north-america, temperate]
+summary: Deadly nightshade (Atropa belladonna) contains tropane alkaloids causing severe nervous system effects. Sweet black berries are lethal. 2–5 berries are a fatal dose for a child.
 warnings:
-- HIGHLY TOXIC - 2-5 berries can kill a child, 10-20 can kill an adult
-- Berries are attractive to children - sweet taste but DEADLY
-- ALL PARTS toxic - leaves, stems, roots, flowers, and especially berries
-- Toxins affect nervous system, heart, and respiratory system
-- No specific antidote - treatment is supportive and may require hospitalization
-- Can be confused with blueberries, huckleberries, or edible black nightshade (when ripe)
-- Different nightshade species have different toxicity levels - avoid ALL unless expert
-- Toxins can absorb through skin in high concentrations - avoid prolonged contact
+- HIGHLY TOXIC — 2–5 berries are a lethal dose for a child; 10–20 for an adult
+- ALL PARTS toxic; berries are sweet but deadly; especially dangerous to children
+- Avoid ALL nightshade species unless you are an expert
 confidence: critical
-sources:
-- cornell-poisonous-plants
-- usda-plants-database
-- ncbi-atropine-toxicology
-- kew-gardens-toxic-plants
-related_entries:
-- l2-plants-toxic-plant-symptoms
-- l2-plants-identification-protocol
-- l2-plants-elderberry
+related_entries: [l2-plants-toxic-plant-symptoms, l2-plants-identification-protocol]
 last_verified: '2026-02-19'
-offline_assets:
-- deadly-nightshade-identification.svg
+offline_assets: [deadly-nightshade-identification.svg]
 audit_status: verified
-steps:
-- 'DEADLY NIGHTSHADE (Atropa belladonna) IDENTIFICATION: PLANT: Perennial herb/shrub, 3-5 feet tall, bushy branching habit. STEMS: Green to purplish, branched, slightly hairy. LEAVES: Oval to elliptical, 3-8 inches long, pointed tip, smooth edges (entire), dark green, grow in alternating or paired arrangement. Dull matte surface. FLOWERS: Bell-shaped (tubular), drooping, 1 inch long, brownish-purple to greenish-purple (dull color), 5 fused petals. Bloom June-September. Single flowers hang from leaf axils. BERRIES: Shiny black (when ripe), round, 0.5 inch diameter, inside green calyx (star-shaped collar). Sweet taste. Ripen July-October. HABITAT: Disturbed areas, woodland edges, ruins, waste ground. Prefers shade and rich soil.'
-- 'BLACK NIGHTSHADE (Solanum nigrum complex) - VARIABLE TOXICITY: PLANT: Annual, 1-2 feet tall. STEMS: Green, slightly angular. LEAVES: Oval, 1-3 inches, sometimes toothed or wavy edges. FLOWERS: Small white star-shaped flowers (5 petals) with yellow center (anthers), in clusters. BERRIES: Green when unripe (TOXIC), black when fully ripe (some varieties edible when fully ripe and cooked, others remain toxic). Hang in clusters. NOTE: Toxicity varies by species/variety. Unripe berries always toxic. Unless you are an expert, AVOID.'
-- 'BITTERSWEET NIGHTSHADE (Solanum dulcamara) - TOXIC: PLANT: Perennial vine, climbs or trails, 3-10 feet long. STEMS: Woody at base, green above, slightly hairy. LEAVES: Heart-shaped to lance-shaped, often with 2 small lobes at base (looks like ears). FLOWERS: Purple/violet star-shaped with 5 petals curved back, bright yellow center (anthers), in clusters. Distinctive appearance. BERRIES: Green → yellow → orange → red when ripe. Oval, 0.3 inch, hang in clusters. All stages toxic. HABITAT: Moist areas, hedges, woodland edges.'
-- 'IDENTIFICATION KEYS TO DISTINGUISH FROM EDIBLES: DEADLY NIGHTSHADE vs BLUEBERRY/HUCKLEBERRY: Nightshade has bell-shaped dull purple flowers (blueberry has white/pink urn-shaped), nightshade berries have green star calyx at base (blueberry has crown at tip), nightshade leaves are large and dull (blueberry small and shiny). DEADLY NIGHTSHADE vs ELDERBERRY: Nightshade berries are single or few (elderberry in large flat clusters), nightshade has solid pith stem (elderberry hollow), nightshade flowers are bell-shaped purple (elderberry tiny white in flat clusters).'
-- 'SYMPTOMS OF NIGHTSHADE POISONING (ALKALOID TOXINS): ONSET: 15 minutes to several hours. EARLY: Dry mouth, difficulty swallowing, dilated pupils (very large, light sensitivity), blurred vision, flushed dry skin. NEUROLOGICAL: Confusion, delirium, hallucinations, slurred speech, loss of coordination, restlessness, agitation. CARDIAC: Rapid heartbeat (tachycardia), elevated blood pressure. SEVERE: Seizures, coma, respiratory failure, cardiac arrest. DISTINCTIVE SIGN: Dilated pupils that do not constrict in bright light is highly characteristic of nightshade poisoning.'
-- 'FIELD TREATMENT: NO SPECIFIC ANTIDOTE. Call emergency services immediately. If recent ingestion (within 30-60 min) and patient conscious: induce vomiting or give activated charcoal (1g per kg body weight). Keep patient in dark/dim environment (light causes pain with dilated pupils). Prevent self-injury during hallucinations/agitation. Monitor breathing and pulse. Keep patient cool (flushed skin indicates inability to sweat). Hospital treatment: physostigmine (antidote for anticholinergic effects) may be used in severe cases.'
-- 'HISTORICAL NOTE: Belladonna means "beautiful lady" in Italian - Renaissance women used diluted berry juice as eye drops to dilate pupils (considered attractive). Atropine (extracted from belladonna) is used medically today for eye exams, heart rhythm problems, and as antidote for nerve agent poisoning. This is a classic example of "the dose makes the poison."'
-- 'REGIONAL DISTRIBUTION: DEADLY NIGHTSHADE (Atropa belladonna): Native to Europe, North Africa, Western Asia. Naturalized in parts of North America (northeastern US, Pacific Northwest). Rare but present. BLACK NIGHTSHADE (Solanum nigrum complex): Worldwide distribution, very common weed in temperate and tropical regions. BITTERSWEET NIGHTSHADE (Solanum dulcamara): Europe, naturalized throughout North America. Common in moist areas.'
 ---
 
 # Deadly Nightshade
 
-Deadly nightshade (Atropa belladonna) is one of the most poisonous plants in Europe and parts of North America. Contains tropane alkaloids (atropine, scopolamine) that cause severe nervous system effects. The attractive black berries are especially dangerous to children. Related nightshade species (black nightshade, bittersweet nightshade) have varying toxicity levels.
+## Deadly Nightshade ID
 
-## Identification
+Atropa belladonna — perennial herb/shrub, 3–5 feet tall:
+- Stems: green to purplish, branched, slightly hairy
+- Leaves: oval to elliptical, 3–8 inches, pointed tip, smooth edges, dark green, dull matte surface, alternate or paired
+- Flowers: bell-shaped, drooping, 1 inch, brownish-purple to greenish-purple (dull color), 5 fused petals; bloom June–September; hang singly from leaf axils
+- Berries: shiny black when ripe, round, 0.5 inch, inside green star-shaped calyx; sweet taste; ripen July–October
+- Habitat: disturbed areas, woodland edges, ruins, waste ground; prefers shade and rich soil
 
-### DEADLY NIGHTSHADE (Atropa belladonna)
+## Black Nightshade ID
 
-**Critical Features:**
-- **PLANT:** Perennial herb/shrub, 3-5 feet tall, bushy branching habit
-- **STEMS:** Green to purplish, branched, slightly hairy
-- **LEAVES:** Oval to elliptical, 3-8 inches long, pointed tip, smooth edges (entire), dark green, alternating or paired arrangement. Dull matte surface
-- **FLOWERS:** Bell-shaped (tubular), drooping, 1 inch long, brownish-purple to greenish-purple (dull color), 5 fused petals. Bloom June-September. Single flowers hang from leaf axils
-- **BERRIES:** Shiny black (when ripe), round, 0.5 inch diameter, inside green calyx (star-shaped collar). Sweet taste. Ripen July-October
-- **HABITAT:** Disturbed areas, woodland edges, ruins, waste ground. Prefers shade and rich soil
+Solanum nigrum complex — variable toxicity; annual, 1–2 feet tall:
+- Leaves: oval, 1–3 inches, sometimes toothed or wavy edges
+- Flowers: small white star-shaped, 5 petals with yellow center, in clusters
+- Berries: green when unripe (TOXIC), black when fully ripe; some varieties edible cooked, others remain toxic; hang in clusters
+- Unless you are an expert, AVOID ALL
 
-### BLACK NIGHTSHADE (Solanum nigrum complex) - VARIABLE TOXICITY
+## Bittersweet Nightshade
 
-**Critical Features:**
-- **PLANT:** Annual, 1-2 feet tall
-- **STEMS:** Green, slightly angular
-- **LEAVES:** Oval, 1-3 inches, sometimes toothed or wavy edges
-- **FLOWERS:** Small white star-shaped flowers (5 petals) with yellow center (anthers), in clusters
-- **BERRIES:** Green when unripe (TOXIC), black when fully ripe. Some varieties edible when fully ripe and cooked, others remain toxic. Hang in clusters
-- **NOTE:** Toxicity varies by species/variety. Unripe berries always toxic. **Unless you are an expert, AVOID**
+Solanum dulcamara — toxic; perennial vine, 3–10 feet:
+- Leaves: heart-shaped, often with 2 small ear-like lobes at base
+- Flowers: purple/violet, 5 petals curved sharply back, bright yellow center; distinctive appearance
+- Berries: green to yellow to orange to red as they ripen; ALL stages toxic; hang in clusters
+- Habitat: moist areas, hedges, woodland edges
 
-### BITTERSWEET NIGHTSHADE (Solanum dulcamara) - TOXIC
+## Nightshade vs Edibles
 
-**Critical Features:**
-- **PLANT:** Perennial vine, climbs or trails, 3-10 feet long
-- **STEMS:** Woody at base, green above, slightly hairy
-- **LEAVES:** Heart-shaped to lance-shaped, often with 2 small lobes at base (looks like "ears")
-- **FLOWERS:** Purple/violet star-shaped with 5 petals curved back, bright yellow center (anthers), in clusters. Distinctive appearance
-- **BERRIES:** Green → yellow → orange → red when ripe. Oval, 0.3 inch, hang in clusters. All stages toxic
-- **HABITAT:** Moist areas, hedges, woodland edges
+- vs Blueberry/Huckleberry: nightshade = dull bell-shaped purple flowers + green star calyx at berry base + large dull leaves; blueberry = white/pink urn-shaped flowers + crown at berry tip + small shiny leaves
+- vs Elderberry: nightshade = few solitary berries + solid stem pith + bell-shaped purple flowers; elderberry = large flat berry clusters + hollow stem + tiny white flowers in flat clusters
 
-## ID Keys
+## Poisoning Symptoms
 
-### DEADLY NIGHTSHADE vs BLUEBERRY/HUCKLEBERRY:
-- **Flowers:** Nightshade = bell-shaped dull purple; Blueberry = white/pink urn-shaped
-- **Berries:** Nightshade = green star calyx at base; Blueberry = crown at tip
-- **Leaves:** Nightshade = large and dull; Blueberry = small and shiny
-
-### DEADLY NIGHTSHADE vs ELDERBERRY:
-- **Berry arrangement:** Nightshade = single or few berries; Elderberry = large flat clusters
-- **Stem:** Nightshade = solid pith; Elderberry = hollow
-- **Flowers:** Nightshade = bell-shaped purple; Elderberry = tiny white in flat clusters
-
-## Nightshade Poison
-
-**ONSET:** 15 minutes to several hours
-
-**EARLY SYMPTOMS:**
-- Dry mouth, difficulty swallowing
-- Dilated pupils (very large, light sensitivity)
-- Blurred vision
-- Flushed dry skin
-
-**NEUROLOGICAL:**
-- Confusion, delirium, hallucinations
-- Slurred speech, loss of coordination
-- Restlessness, agitation
-
-**CARDIAC:**
-- Rapid heartbeat (tachycardia)
-- Elevated blood pressure
-
-**SEVERE:**
-- Seizures, coma
-- Respiratory failure
-- Cardiac arrest
-
-**DISTINCTIVE SIGN:** Dilated pupils that do not constrict in bright light is highly characteristic of nightshade poisoning
+- Onset: 15 minutes to several hours
+- Early: dry mouth, difficulty swallowing, dilated pupils (light-sensitive), blurred vision, flushed dry skin
+- Neurological: confusion, delirium, hallucinations, slurred speech, loss of coordination, agitation
+- Cardiac: rapid heartbeat, elevated blood pressure
+- Severe: seizures, coma, respiratory failure, cardiac arrest
+- **DISTINCTIVE SIGN**: dilated pupils that do NOT constrict in bright light — highly characteristic
 
 ## Field Treatment
 
-- **NO SPECIFIC ANTIDOTE** (physostigmine available in hospital)
-- Call emergency services immediately
-- If recent ingestion (&lt;30-60 min) and patient conscious: induce vomiting or activated charcoal (1g per kg)
-- Keep patient in dark/dim environment (light causes pain with dilated pupils)
-- Prevent self-injury during hallucinations/agitation
-- Monitor breathing and pulse
-- Keep patient cool (flushed skin indicates inability to sweat)
-- Hospital treatment may include physostigmine (antidote for anticholinergic effects)
+- NO SPECIFIC ANTIDOTE — call emergency services immediately
+- If ingestion under 30–60 min and patient conscious: induce vomiting or activated charcoal 1 g/kg
+- Keep patient in dim environment (dilated pupils cause pain in bright light)
+- Prevent self-injury during hallucinations and agitation
+- Monitor breathing and pulse; keep patient cool (flushed skin indicates inability to sweat)
+- Hospital may use physostigmine for severe anticholinergic effects
 
-## Historical Note
+## Range
 
-Belladonna means "beautiful lady" in Italian - Renaissance women used diluted berry juice as eye drops to dilate pupils (considered attractive). Atropine (extracted from belladonna) is used medically today for eye exams, heart rhythm problems, and as antidote for nerve agent poisoning. This is a classic example of "the dose makes the poison."
-
-## Regional Distribution
-
-**DEADLY NIGHTSHADE (Atropa belladonna):**
-- Native to Europe, North Africa, Western Asia
-- Naturalized in parts of North America (northeastern US, Pacific Northwest)
-- Rare but present
-
-**BLACK NIGHTSHADE (Solanum nigrum complex):**
-- Worldwide distribution
-- Very common weed in temperate and tropical regions
-
-**BITTERSWEET NIGHTSHADE (Solanum dulcamara):**
-- Native to Europe
-- Naturalized throughout North America
-- Common in moist areas
-
-## Warnings
-- **HIGHLY TOXIC** - 2-5 berries can kill a child, 10-20 can kill an adult
-- Berries are attractive to children - sweet taste but DEADLY
-- ALL PARTS toxic - leaves, stems, roots, flowers, and especially berries
-- Toxins affect nervous system, heart, and respiratory system
-- No specific antidote in field - treatment is supportive and may require hospitalization
-- Can be confused with blueberries, huckleberries, or edible black nightshade
-- Different nightshade species have different toxicity levels - **avoid ALL unless expert**
-- Toxins can absorb through skin in high concentrations - avoid prolonged contact
+- Deadly nightshade (A. belladonna): native to Europe/N. Africa/W. Asia; naturalized in northeastern US and Pacific Northwest
+- Black nightshade (S. nigrum): worldwide; very common weed in temperate and tropical regions
+- Bittersweet nightshade (S. dulcamara): native to Europe; naturalized throughout North America in moist areas

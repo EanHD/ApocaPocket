@@ -95,19 +95,28 @@ int parseCards(char (*lines)[LINE_LEN], int total,
 
         char baseTitle[28];
         copyTitle(baseTitle, sectionTitle, sizeof(baseTitle) - 1);
-        int offset = 0;
-        bool cont  = false;
+        int  offset  = 0;
+        int  partNum = 1;  // split counter: 1 = first, 2+ = continuation
+        char partBuf[32];
 
         while (remaining > 0 && cardCount < maxCards) {
             Card& c = cards[cardCount];
+
+            // Build title: "Overview" for part 1, "Overview 2" for part 2+
+            auto setTitle = [&]() {
+                if (partNum > 1) {
+                    snprintf(partBuf, sizeof(partBuf), "%s %d", baseTitle, partNum);
+                    copyTitle(c.title, partBuf, sizeof(c.title) - 1);
+                } else {
+                    copyTitle(c.title, baseTitle, sizeof(c.title) - 1);
+                }
+            };
 
             if (remaining <= CARD_MAX_LINES) {
                 c.lineStart  = sectionStart + offset;
                 c.lineCount  = remaining;
                 c.scrollable = false;
-                copyTitle(c.title, cont ? (String(baseTitle) + " (cont.)").c_str()
-                                        : baseTitle,
-                          sizeof(c.title) - 1);
+                setTitle();
                 c.accentColor = detectAccent(baseTitle);
                 c.isDiagram   = false;
                 cardCount++;
@@ -117,9 +126,7 @@ int parseCards(char (*lines)[LINE_LEN], int total,
                 c.lineStart  = sectionStart + offset;
                 c.lineCount  = remaining;
                 c.scrollable = true;
-                copyTitle(c.title, cont ? (String(baseTitle) + " (cont.)").c_str()
-                                        : baseTitle,
-                          sizeof(c.title) - 1);
+                setTitle();
                 c.accentColor = detectAccent(baseTitle);
                 c.isDiagram   = false;
                 cardCount++;
@@ -128,26 +135,24 @@ int parseCards(char (*lines)[LINE_LEN], int total,
             } else {
                 int split = findSplitPoint(lines, sectionStart + offset, remaining);
 
-                // Avoid orphan (cont.) cards: if leftover would be too short,
+                // Avoid orphan continuation cards: if leftover would be too short,
                 // absorb it by making this card scrollable instead of splitting.
                 int leftover = remaining - split;
                 if (leftover > 0 && leftover < CARD_MIN_LINES) {
-                    split += leftover;  // absorb tiny tail into this card
+                    split += leftover;
                 }
 
                 c.lineStart  = sectionStart + offset;
                 c.lineCount  = split;
-                c.scrollable = (split > CARD_MAX_LINES);  // may be scrollable if we absorbed lines
-                copyTitle(c.title, cont ? (String(baseTitle) + " (cont.)").c_str()
-                                        : baseTitle,
-                          sizeof(c.title) - 1);
+                c.scrollable = (split > CARD_MAX_LINES);
+                setTitle();
                 c.accentColor = detectAccent(baseTitle);
                 c.isDiagram   = false;
                 cardCount++;
 
                 offset    += split;
                 remaining -= split;
-                cont       = true;
+                partNum++;
             }
         }
     };

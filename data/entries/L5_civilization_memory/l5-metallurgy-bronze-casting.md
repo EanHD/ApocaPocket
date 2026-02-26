@@ -4,478 +4,100 @@ title: Bronze Casting
 category: L5_civilization_memory
 ---
 # Bronze Casting
-**Level 5: Metallurgy & Manufacturing**
 
-## Why This Matters
-Bronze is **humanity's first engineered alloy** and unlocked civilization 5,000 years ago. Why bronze before iron?
-
-**Advantages over iron**:
-- **Lower melting point**: 1900°F (bronze) vs 2800°F (iron)—attainable with simple furnaces
-- **Castable**: Flows into molds (iron doesn't melt in primitive furnaces)
-- **Corrosion-resistant**: Lasts thousands of years (bronze artifacts still intact)
-- **Harder than pure copper**: 200 HV (copper) → 500 HV (bronze)—holds cutting edges
-
-**The Bronze Age** (3000-1200 BCE) built:
-- **Cities**: Tools for construction (saws, chisels, nails)
-- **Armies**: Weapons (swords, spearheads, armor)
-- **Technology**: Bells, bearings, art, scientific instruments
-
-**One bronze caster can supply an entire community** with tools, weapons, art, and machine parts that last generations.
-
----
+Bronze unlocked civilization 5,000 years ago. Melts at 1900F vs iron at 2800F. Castable in simple furnaces. Start here before attempting iron.
 
 ## Bronze Formula
 
-### Basic Bronze
-**90% Copper + 10% Tin = Bronze**
-
-**Why this ratio?**
-- Pure copper: Soft (melts at 1984°F), poor for tools
-- **Add tin**: Hardens copper, lowers melting point to 1900°F, improves casting
-
-### Variations (By Application)
-
-- Standard bronze:
-  Copper %: 90
-  Tin %: 10
-  Other: —
-  Properties: Hard, durable, castable
-  Uses: General tools, weapons, art
-- Gun metal:
-  Copper %: 88-90
-  Tin %: 10-12
-  Other: —
-  Properties: Harder, stronger
-  Uses: Cannons, heavy tools
-- Bell bronze: 78 / 22 / — / Resonant, brittle / Bells, cymbals
-- Bearing bronze:
-  Copper %: 85
-  Tin %: 5
-  Other: 5% lead, 5% zinc
-  Properties: Low friction
-  Uses: Bearings, bushings
-- Aluminum bronze:
-  Copper %: 90
-  Tin %: —
-  Other: 10% aluminum
-  Properties: Corrosion-resistant, strong
-  Uses: Marine, propellers
-
-**Scrap metal note**: Modern bronze often contains zinc, lead, aluminum (check with magnet, density test)
-
----
+- Standard: 90% copper plus 10% tin. Hard, durable, castable. General tools and weapons.
+- Gun metal: 88-90% copper plus 10-12% tin. Heavier tools, cannons.
+- Bell bronze: 78% copper plus 22% tin. Resonant but brittle. Bells only.
+- Bearing bronze: 85% copper plus 5% tin plus 5% lead plus 5% zinc. Low friction for moving parts.
 
 ## Raw Materials
 
-### Copper Sources
-**Native copper** (easiest):
-- Pure copper nuggets (rare but exist in Great Lakes region, Southwest US)
-- **Identification**: Red-orange metal, malleable, magnetic test (not magnetic)
+**Copper sources**
+- Native copper nuggets: Red-orange, malleable, not magnetic. Rare but usable directly.
+- Malachite (green ore), azurite (blue ore), chalcopyrite (brass-yellow ore): All smeltable.
+- Modern scrap: Copper wire, pipes, fittings. Strip insulation first.
 
-**Copper ore** (more common):
-- **Malachite** (green, CuCO₃): Most recognizable copper ore
-- **Azurite** (blue, Cu₃(CO₃)₂(OH)₂): Beautiful blue copper ore
-- **Chalcopyrite** (brass-yellow, CuFeS₂): Most abundant copper ore
-- **Smelting**: Heat ore with charcoal (carbon reduces oxide → pure copper)
+**Tin sources (the limiting factor)**
+- Cassiterite (SnO2): Black or brown, heavy, metallic luster. Found in riverbeds in tin-bearing regions.
+- Modern scrap: Solder, pewter (85-90% tin). Tin cans are steel with thin coating and not useful.
+- Tin is rare. Bronze Age trade routes existed solely to transport it thousands of miles.
 
-**Modern scrap** (post-collapse):
-- Copper wire, pipes, fittings (strip insulation, clean)
-- **Purity test**: Melts smoothly, no bubbling (oxygen-free)
-
-### Tin Sources
-**Cassiterite** (SnO₂):
-- **Appearance**: Black/brown, heavy, metallic luster
-- **Locations**: Tin is RARE (only specific mining regions)
-- Cornwall, England (historic source)
-- Bolivia, Malaysia, China
-- Alluvial deposits (riverbeds in tin-bearing regions)
-- **Smelting**: Heat with charcoal, similar to copper
-
-**Modern scrap**:
-- Solder (50% tin, 50% lead historically—modern is lead-free)
-- Pewter (85-90% tin, rest antimony/copper)
-- Tin cans (actually steel with thin tin coating—not useful)
-
-**TIN IS THE LIMITING FACTOR**: Without tin, bronze is impossible. This is why Bronze Age trade routes were critical (tin was transported thousands of miles).
-
----
-
-## Smelt Copper & Tin
-
-### Copper Smelting (Small Scale)
-1. **Crush ore** to pea-sized pieces
-2. **Roast ore**: Heat in air 1000-1200°F (1-2 hours) → drives off sulfur, carbonates
-3. **Build furnace**: Small bloomery-style (see l5-metallurgy-bloomery-iron.md)
-4. **Layer**: Charcoal + crushed ore (repeat)
-5. **Blast air**: Bellows for 1500-1800°F
-6. **Collect copper**: Molten copper pools at bottom (flows at 1984°F)
-7. **Yield**: ~30-50% copper from ore
-
-### Tin Smelting
-**Process**: Similar to copper but easier (tin melts at 450°F, smelts at 1200-1500°F)
-- Cassiterite + charcoal → metallic tin
-
----
+**Smelting copper:** Crush ore to pea-sized pieces. Roast in air at 1000-1200F for 1-2 hrs. Layer with charcoal in furnace. Blast to 1800F. Molten copper pools at bottom. Yield 30-50%.
 
 ## Crucibles
 
-### Materials
-**Clay crucibles** (DIY):
-- **Mix**: 50% clay + 50% grog (crushed fired clay or sand)
-- **Shape**: Bowl with pouring lip, 4-6 inch diameter, 1/2 inch walls
-- **Dry**: Slowly over 1-2 weeks
-- **Fire**: Heat to 1800°F empty (hardens, strengthens)
-- **Lifespan**: 10-50 melts (cracks eventually)
-
-**Graphite crucibles** (best, if available):
-- Withstands 3000°F+, thermal shock resistant
-- Used in jewelry/foundry supply
-
-**Steel/iron containers** (NOT RECOMMENDED):
-- Bronze dissolves iron at high temps (contaminates alloy)
-- Use only if no alternative
-
-### Crucible Tongs
-**Essential tool**: Lift hot crucible safely
-- Two long handles (3+ feet) with jaws that grip crucible
-- Forge from iron or weld steel rods
-
----
-
-## Furnace Bronze
-
-### Requirements
-- **Temperature**: 1900-2000°F sustained
-- **Fuel**: Charcoal (see l5-materials-charcoal-production.md)
-- **Airflow**: Bellows or blower (forced air)
-- **Capacity**: Hold crucible(s) securely
-
-### Simple Bowl Furnace (Easiest)
-
-**Construction**:
-1. **Dig pit**: 2 feet diameter, 2 feet deep
-2. **Line with fire bricks** or clay (insulation)
-3. **Tuyere**: Insert pipe at bottom (air blast)
-4. **Fill with charcoal**, place crucible on bed of coals
-5. **Cover with more charcoal** (surround crucible)
-6. **Blow air continuously** until metal melts (30-60 minutes)
-
-### Box Furnace (Better Efficiency)
-- **Brick box**: 2 ft × 2 ft × 3 ft tall
-- **Door**: Front opening (load/remove crucible)
-- **Tuyere**: Bottom or side (blasts fire under crucible)
-- **Lid**: Top cover (retains heat)
-
----
-
-## Bronze Casting Methods
-
-### 1. Open Mold Casting (Easiest)
-
-**Best for**: Flat objects (axe heads, knife blades, ingots)
-
-**Process**:
-1. **Carve mold** in stone (sandstone, soapstone) or compressed sand
-2. **Shape cavity** (negative of desired object)
-3. **Preheat mold** to 400-600°F (prevents cracking from thermal shock)
-4. **Pour molten bronze** into cavity
-5. **Cool slowly** (1-2 hours)
-6. **Break mold open** (stone) or flip out (sand)
-7. **Finish**: File, grind, polish
-
-**Limitations**: One side flat, no undercuts
-
-### 2. Two-Piece Mold (Better Detail)
-
-**Process**:
-1. **Carve two halves** of mold (top and bottom)
-2. **Register pins**: Align halves precisely
-3. **Pour channels**: Sprue (pour hole), gates (metal flow), risers (air escape)
-4. **Clamp halves** together (wire, weights)
-5. **Pour bronze** through sprue
-6. **Cool, separate halves** (mold reusable if stone)
-
-**Advantages**: 3D shapes, both sides detailed
-
-### 3. Lost-Wax Casting (Highest Detail)
-
-**Best for**: Complex shapes (statues, jewelry, bells, intricate tools)
-
-**Process**:
-
-**Step 1: Create wax model**
-- Carve from beeswax or paraffin (exact shape of final object)
-- **Add sprues**: Wax rods (become pour channels)
-
-**Step 2: Build mold around wax**
-- **Investment**: Clay slurry (50% clay, 50% sand/grog)
-- **Coat wax** in thin layer (captures detail)
-- **Build up layers** (1/2 to 1 inch thick)
-- **Leave sprue openings** (pour hole at top, vent at bottom)
-- **Dry thoroughly** (1-2 weeks)
-
-**Step 3: Burnout (Critical)**
-- **Heat mold slowly** to 400-600°F
-- **Wax melts**, flows out drain hole (hence "lost wax")
-- **Continue heating** to 1000°F (burns out any remaining wax, hardens mold)
-- **Cool to 400-600°F** (pour temperature)
-
-**Step 4: Pour bronze**
-- **Heat bronze** to 1950-2000°F (fluid, golden-orange)
-- **Pour into hot mold** (if mold cold → cracks, bronze solidifies too fast)
-- **Fill completely**, let sit 10-30 seconds
-- **Cool slowly** (30 minutes to several hours depending on size)
-
-**Step 5: Break mold**
-- **Hammer/chisel** to remove investment clay
-- **Reveal bronze casting** (exact replica of wax original)
-- **Clean**: Wire brush, filing, sanding, polishing
-
-**Advantages**: Unlimited complexity, finest detail, one-time mold (must remake for duplicates)
-
-### 4. Sand Casting (Reusable Pattern)
-
-**Process**:
-1. **Carve pattern** from wood (shape of final object)
-2. **Pack sand** around pattern in two-part flask (frame)
-3. **Separate flask halves**, remove pattern (cavity remains)
-4. **Cut channels** (sprue, gates, risers)
-5. **Reassemble**, pour bronze
-6. **Pattern reusable** (cast multiple copies)
-
-**Sand mix**: 90% fine sand + 10% clay (bonds sand, holds shape)
-
----
-
-## Lost-Wax Casting
-
-```
-STEP 1: WAX MODEL
-    [Sprue rod]
-         ║
-       ╱▓▓╲    ← Wax model (tool, statue, etc.)
-      ▓▓▓▓▓▓
-      ▓▓▓▓▓▓
-       ╲▓▓╱
-
-STEP 2: CLAY MOLD BUILT AROUND WAX
-    [Sprue opening]
-         ║
-    ╔════╪════╗
-    ║    ║    ║  ← Clay investment (1/2" thick)
-    ║  ╱▓▓╲   ║
-    ║ ▓▓WAX▓▓ ║  ← Wax model inside
-    ║ ▓▓▓▓▓▓▓ ║
-    ║  ╲▓▓╱   ║
-    ╚════╪════╝
-         ║
-    [Drain hole]
-
-STEP 3: BURNOUT (Wax melts out)
-         🔥 Heat to 400-600°F
-    ╔════╪════╗
-    ║    ║    ║  ← Hardened clay mold
-    ║  ╱   ╲  ║
-    ║ │EMPTY │ ║  ← Cavity (wax gone)
-    ║ │ CAVITY│ ║
-    ║  ╲   ╱  ║
-    ╚════╪════╝
-         ↓
-      [Melted wax drips out]
-
-STEP 4: POUR BRONZE
-    [Pour molten bronze]
-         ↓↓↓
-    ╔════╪════╗
-    ║    ║    ║
-    ║  ╱███╲  ║  ← Bronze fills cavity
-    ║ ███████ ║     (1950°F, golden)
-    ║ ███████ ║
-    ║  ╲███╱  ║
-    ╚═════════╝
-
-STEP 5: BREAK MOLD, REVEAL CASTING
-         
-       ╱███╲    ← Finished bronze object
-      ███████      (exact replica of wax)
-      ███████
-       ╲███╱
-
-    Clean, finish, polish
-```
-
----
-
-## Pouring Tech
-
-### Preparation
-1. **Dry everything**: Molds, tools, workspace (moisture + molten metal = EXPLOSION)
-2. **Preheat molds**: 400-600°F (prevents thermal shock, improves flow)
-3. **Clear area**: 10-foot radius, no flammables, no bystanders
-4. **PPE**: Leather apron, gloves, face shield, long sleeves, boots
-
-### Melting Bronze
-1. **Load crucible**: Copper + tin (pre-weighed, correct ratio)
-2. **Heat slowly**: 30-60 minutes to 1950-2000°F
-- **Color**: Golden-orange, fluid (like water)
-- **Test**: Dip iron rod—should flow smoothly off rod
-3. **Skim dross**: Remove oxide layer from surface (scoop with iron spoon)
-
-### Pouring
-1. **Lift crucible** with tongs (firm grip, test balance before lifting)
-2. **Pour steadily**: Smooth stream (not drips, not waterfall)
-- **Too slow**: Bronze cools, doesn't fill mold completely
-- **Too fast**: Turbulence traps air bubbles
-3. **Fill mold completely**: Overfill slightly (shrinkage during cooling)
-4. **Don't stop mid-pour** (cold shuts = weak joint)
-
-### Cooling
-- **Small castings** (< 1 lb): 30 minutes to 1 hour
-- **Large castings** (10+ lbs): 2-6 hours
-- **Don't quench** (rapid cooling = brittleness, cracks)
-
----
-
-## Safety Hazards
-
-### Molten Metal
-⚠️ **Bronze at 1950°F = instant severe burns**, melts through clothing/skin
-- **Never** lean over crucible or mold
-- Tongs must be secure (practice grip before lifting hot crucible)
-- Clear path from furnace to mold (no obstacles)
-
-### Steam Explosions
-⚠️ **Moisture + molten bronze = VIOLENT EXPLOSION** (throws molten metal 10+ feet)
-- **DRY EVERYTHING**: Molds, tools, floors, crucibles
-- Test: Sprinkle water on mold—should steam instantly, not pool
-- Even sweat on hands can cause splash-back (wear dry gloves)
-
-### Toxic Fumes
-⚠️ **Copper/tin oxides** = respiratory irritation, metal fume fever
-- Work outdoors or with excellent ventilation
-- Avoid breathing furnace smoke directly
-- Symptoms: Metallic taste, flu-like symptoms (24-48 hours)
-
-### Fire Hazards
-⚠️ **Charcoal furnace** = open flame, hot coals, sparks
-- Clear 20-foot radius of flammables
-- Water/sand nearby (NOT for molten metal—for surrounding fires)
-- Never leave furnace unattended
-
----
-
-## Common Cast Defects
-
-- Incomplete casting (voids):
-  Cause: Bronze cooled too fast, mold too cold
-  Solution: Preheat mold higher, pour hotter, faster pour
-- Porosity (air bubbles):
-  Cause: Trapped air, turbulence
-  Solution: Add risers (vent holes), pour smoother, degas metal
-- Cracks:
-  Cause: Rapid cooling, thermal shock
-  Solution: Slow cooling, preheat mold, anneal casting
-- Cold shuts (lines):
-  Cause: Stopped pouring, metal cooled
-  Solution: Don't interrupt pour, maintain temperature
-- Rough surface:
-  Cause: Mold too coarse
-  Solution: Finer sand/clay in mold, coat with graphite
-- Mold explosion:
-  Cause: Moisture in mold
-  Solution: Dry mold completely, preheat thoroughly
-
----
-
-## Finishing Techniques
-
-### 1. Removing Casting Imperfections
-- **Cut off sprues/gates**: Hacksaw or chisel
-- **File rough spots**: Metal files (coarse → medium → fine)
-- **Grind**: Angle grinder, grinding stone (large imperfections)
-
-### 2. Sanding & Polishing
-- **Coarse sand** (80-grit): Remove file marks
-- **Medium sand** (150-220 grit): Smooth surface
-- **Fine sand** (400-600 grit): Pre-polish
-- **Polishing compound**: Rouge on buffing wheel (mirror finish)
-
-### 3. Patina (Surface Color)
-Bronze naturally oxidizes to green/brown. **Accelerate** for desired finish:
-- **Green patina**: Vinegar + salt (spray, let oxidize 1-2 weeks)
-- **Brown/black**: Liver of sulfur solution (dip, rinse)
-- **Clear coat**: Wax, lacquer (preserve shiny metal look)
-
----
-
-## Uses & Applications
-
-### Tools
-- **Axes, chisels, knives**: Harder than copper, holds edge
-- **Hammers, mallets**: Durable, won't spark (safe near explosives)
-- **Needles, hooks, pins**: Fine casting, corrosion-resistant
-
-### Weapons (Historical)
-- **Swords, spearheads**: Bronze Age warfare
-- **Arrowheads**: Castable in bulk
-- **Armor**: Helmets, shields (expensive, elite warriors)
-
-### Machinery
-- **Bearings, bushings**: Low friction, self-lubricating
-- **Gears**: Precision casting, durable
-- **Valves, fittings**: Corrosion-resistant (water systems)
-
-### Art & Culture
-- **Bells**: Resonant, loud (communication across miles)
-- **Statues**: Lasts millennia (bronze statues 3,000+ years old still intact)
-- **Coins**: Standardized currency (enabled trade)
-
-### Scientific Instruments
-- **Astrolabes, sextants**: Navigation
-- **Microscope/telescope parts**: Precision components
-- **Measurement tools**: Scales, calipers (corrosion-resistant)
-
----
-
-## Bronze vs Iron
-
-**Timeline**:
-- **3000 BCE**: Bronze Age begins (Mesopotamia)
-- **1200 BCE**: Iron Age begins (3000-year gap!)
-
-**Why the delay?**
-1. **Temperature**: Bronze melts at 1900°F (simple furnace), iron needs 2800°F (unattainable until bloomery developed)
-2. **Castability**: Bronze flows into molds (complex shapes), iron doesn't melt (can't cast until 1400s CE with blast furnaces)
-3. **Availability**: Copper abundant, tin rare (but trade networks developed)
-4. **Hardness**: Bronze adequate for tools/weapons (500 HV) until iron working mastered
-
-**Iron eventually replaced bronze** (stronger, more abundant) but bronze never disappeared—still used for bearings, bells, marine hardware, art (corrosion resistance).
-
----
-
-## Historical Context
-
-**Bronze Age Civilizations**:
-- **Mesopotamia** (3000 BCE): First bronze tools, writing, cities
-- **Egypt** (3000 BCE): Bronze weapons, massive construction
-- **Shang Dynasty China** (1600 BCE): Elaborate bronze vessels, casting mastery
-- **Mycenaean Greece** (1600-1100 BCE): Bronze armor, Linear B tablets
-
-**Bronze = Power**:
-- Control tin sources = control bronze production = military dominance
-- **Collapse of Bronze Age** (1200 BCE): Tin trade disrupted → civilizations collapsed → iron filled the gap
-
-**Restart scenario**: Bronze is **easier to restart than iron** (lower temperature, simpler furnaces). Start with bronze tools → use them to build iron smelting infrastructure.
-
----
-
-## Refs & Study
-
-- The Complete Metalsmith by Tim McCreight (casting, finishing, professional techniques)
-- Practical Casting by Tim McCreight (detailed casting methods)
-- Bronze Age Metalworking by Stuart W. Fleming (archaeological techniques)
-- Lost Wax Casting by Fred R. Miller (comprehensive guide)
-
----
-
-**Next Skills**: Advanced Casting (aluminum, brass), Pattern Making, Mold Design, Metal Founding (large-scale production)
+- Clay crucible: 50% clay plus 50% grog (crushed fired clay). Bowl with pouring lip. Half-inch walls.
+- Dry 1-2 weeks slowly. Fire empty to 1800F before first use. Lifespan 10-50 melts.
+- Graphite crucibles: Best if available. Withstand 3000F plus. Thermal shock resistant.
+- Never iron or steel containers: Bronze dissolves iron at temperature. Contaminates alloy.
+- Crucible tongs: 3 or more ft long handles. Forge from iron or weld steel rod.
+
+## Furnace
+
+- Need sustained 1900-2000F with forced air (bellows or blower).
+- Bowl furnace (easiest): Dig 2 ft pit, line with fire brick or clay, insert tuyere at bottom, fill with charcoal, place crucible, cover with more charcoal. Blast air.
+- Box furnace (more efficient): Brick box 2x2x3 ft. Front loading door. Bottom tuyere. Top lid to retain heat.
+
+## Casting Methods
+
+**Open mold (easiest)**
+- Carve desired shape into sandstone or soapstone. Preheat to 400-600F (prevents cracking).
+- Pour molten bronze. Cool 1-2 hours. Break or flip out. File and finish.
+- Good for: Flat objects, axe heads, knife blanks, ingots.
+
+**Two-piece mold**
+- Carve matching halves. Register pins to align precisely. Cut pour channels (sprue, gates, risers).
+- Clamp halves together with wire or weights. Pour through sprue. Separate after cooling.
+- Good for: 3D shapes, objects with detail on both sides.
+
+**Lost-wax casting (best detail)**
+- Carve exact shape in beeswax. Add wax sprue rods (become pour channels).
+- Coat in clay slurry (50% clay plus 50% sand): thin layer first to capture detail, build to half-inch total.
+- Dry 1-2 weeks. Heat mold slowly to 400-600F. Wax melts and drains out.
+- Continue heating to 1000F to burn residue. Cool back to 400-600F before pouring.
+- Pour bronze at 1950-2000F. Cool slowly (30 min to several hours for large pieces).
+- Break mold to reveal casting. One-time mold but unlimited shape complexity.
+
+**Sand casting (reusable pattern)**
+- Pack 90% sand plus 10% clay around wood pattern in two-part frame. Remove pattern.
+- Cut pour channels. Reassemble. Pour. Same pattern makes multiple castings.
+
+## Pouring Safety
+
+- Dry everything. Any moisture plus molten bronze equals violent steam explosion.
+- Preheat molds. Cold mold causes thermal shock, cracking, and incomplete fill.
+- Leather apron, face shield, dry gloves, long sleeves, boots. No exceptions.
+- Pour steady continuous stream. No stops. Interrupted pour creates cold-shut defects.
+- Do not quench. Slow cooling prevents cracking.
+- Work outdoors. Copper and tin oxide fumes cause metal fume fever.
+
+## Common Defects
+
+- Incomplete casting (voids): Mold too cold, bronze poured too slow. Preheat more, pour faster.
+- Porosity (air bubbles): Turbulent pour. Add risers, pour smoother.
+- Cracks: Rapid cooling. Preheat mold, allow slow cooling.
+- Cold shuts (visible lines): Interrupted pour. Never stop mid-pour.
+- Mold explosion: Moisture. Dry thoroughly and preheat.
+
+## Finishing
+
+- Cut off sprues and gates with hacksaw or chisel.
+- File rough spots coarse to medium to fine.
+- Sand 80-grit to 150-grit to 400-grit for smooth surface.
+- Patina: Green equals vinegar plus salt. Brown or black equals liver of sulfur. Wax preserves shiny finish.
+
+## Uses
+
+- Tools: Axes, chisels, knives, hammers. Bronze hammers do not spark (safe near explosives).
+- Machinery: Bearings, bushings, gears, valves. Corrosion-resistant for water systems.
+- Communication: Bells are resonant and carry sound for miles. Coins enable standardized trade.
+- Art: Statues last millennia. Scientific instruments (astrolabes, calipers).
+
+## Cross-References
+
+- l5-metallurgy-blacksmithing.md
+- l5-materials-charcoal-production.md

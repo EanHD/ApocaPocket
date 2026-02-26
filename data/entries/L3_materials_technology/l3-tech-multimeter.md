@@ -1,722 +1,109 @@
 ---
 id: l3-tech-multimeter
-title: "Multimeter Use"
+title: Multimeter Use
 layer: L3_materials_technology
 category: electronics
 tags: [multimeter, voltage, current, resistance, continuity, troubleshooting, safety]
 difficulty: intermediate
 time_to_read: 25 minutes
-practical_time: 1-2 hours (practice)
+practical_time: 1-2 hours practice
 ---
 
 # Multimeter Use
 
-## Overview
+Use CAT III rated meter minimum. Verify settings before connecting. Wrong settings blow the meter or injure you.
 
-The multimeter is the fundamental diagnostic tool for electrical and electronics work. It measures voltage, current, resistance, and continuity, enabling circuit troubleshooting, component testing, and system diagnosis. Proper technique and safety procedures prevent equipment damage and personal injury.
+## DC Voltage
 
-**Critical Safety:** Multimeters can be connected to circuits carrying lethal voltage (120V AC, 240V AC, high-voltage DC). ALWAYS verify meter settings before connecting probes. Incorrect settings can cause meter explosion, electrical shock, or death.
+Set to VDC. Red probe to positive, black to COM.
+- AA battery: 1.5V new, below 1.2V = depleted.
+- 12V car battery: 12.6V full, below 12.2V = discharged.
+- Charging system: 13.8-14.8V = alternator charging correctly.
+- 12V DC supply: 11.5-12.5V = acceptable.
 
-## Multimeter Types
+Negative reading: probes reversed. Not harmful, just swap them.
 
-### Analog Multimeters
+## AC Voltage
 
-**Construction:**
-- Moving coil meter movement (needle on scale)
-- Mechanical indication
-- No batteries required (except ohms function)
+Set to VAC. Polarity does not matter. One hand in pocket when probing live circuits.
+- US outlet: 120V nominal. Below 110V or above 130V = call utility company.
+- 240V appliance circuit: 228-252V acceptable.
+- Generator output: 115-125V no-load. Some drop under load is normal.
 
-**Advantages:**
-- Shows changing values (needle movement visible)
-- No battery for voltage/current (self-powered by test circuit)
-- Harder to damage with wrong setting
+True RMS meter required for inverter or non-sinusoidal AC sources.
 
-**Disadvantages:**
-- Less accurate (±3-5% typical)
-- Difficult to read precise values
-- Loading effect (draws more current, affects circuit)
-- Parallax error (viewing angle affects reading)
+## Current (Amps)
 
-**Use Case:** Quick checks, trending values, teaching tool
+Move red probe to A input. Meter goes IN SERIES with circuit.
+Connecting across voltage directly shorts the circuit and blows the meter fuse.
 
-### Digital Multimeters (DMM)
+Procedure:
+1. Turn off power.
+2. Break circuit at the measurement point.
+3. Set to ADC or AAC as needed.
+4. Connect meter in series so current flows through it. Apply power and read.
+5. Remove meter and reconnect circuit. Return red probe to V/ohm jack.
 
-**Construction:**
-- ADC (analog-to-digital converter)
-- LCD or LED display
-- Microprocessor-based
-- Battery powered
+Use clamp meter for currents over 10A. No circuit break required.
 
-**Advantages:**
-- High accuracy (±0.5-2% typical, ±0.01% for high-end)
-- Easy to read (numeric display)
-- Auto-ranging (no manual scale selection)
-- Additional functions (capacitance, frequency, temperature)
-- Low circuit loading (high input impedance)
+## Resistance
 
-**Disadvantages:**
-- Requires battery
-- Slower update rate (sampling delay)
-- Can't see changing trends as easily
+Circuit must be de-energized. External voltage gives false readings and damages meter.
 
-**Categories (Safety Rating):**
+Set to ohms. Touch probes to component leads.
+- Good wire: less than 1 ohm.
+- Good fuse: less than 1 ohm. Blown fuse = OL (open).
+- Resistor: should match color code within tolerance.
+- Good battery terminal: less than 0.001 ohm. Corroded: 0.01-0.1 ohm.
 
-- CAT I:
-  Application: Low-voltage electronics
-  Max Voltage: <50V
-  Environment: Battery-powered devices
-- CAT II: Household outlets / 300V / Residential wiring
-- CAT III:
-  Application: Distribution panels
-  Max Voltage: 600V
-  Environment: Commercial/industrial panels
-- CAT IV:
-  Application: Utility service entrance
-  Max Voltage: 1000V
-  Environment: Utility connection, lightning protection
+## Continuity
 
-**Choose meter rated for highest voltage you'll encounter.** Using CAT II meter on CAT III circuit is dangerous (inadequate protection).
+Set to continuity mode (beeper symbol). Circuit must be de-energized.
+- Beep = connected (good wire, closed switch, intact fuse).
+- No beep = open circuit (broken wire, blown fuse, open switch).
 
-### True RMS vs. Averaging
+Faster than resistance mode. Audio feedback lets you watch the work.
 
-**AC Measurement Methods:**
+## Diode Test
 
-**Averaging (Budget DMMs):**
-- Assumes pure sine wave
-- Measures average, multiplies by 1.11 (RMS equivalent for sine)
-- **Accurate ONLY for pure sine waves**
-- Inaccurate for modified square waves (inverters, VFDs, triac dimmers)
+Set to diode mode. Remove component from circuit first.
+- Silicon diode forward: 400-800 mV. Reverse = OL (normal).
+- Schottky: 200-400 mV forward.
+- LED: 1.8-3.6 V forward. May glow dimly during test.
+- Both directions low (under 100 mV): shorted. Discard.
+- Both directions OL: open. Discard.
 
-**True RMS (Better DMMs):**
-- Calculates actual root-mean-square value
-- Accurate for any waveform (sine, square, triangle, distorted)
-- Essential for modern electronics (switching power supplies, inverters)
-- Cost: +$20-50 vs averaging meter
+## Troubleshooting
 
-**When True RMS Matters:**
-- Measuring inverter generator output
-- VFD (variable frequency drive) motor circuits
-- Switched-mode power supplies
-- Dimmer circuits
-- Anywhere non-sinusoidal AC exists
+Dead circuit:
+1. Measure power source voltage (rated value plus or minus 10%).
+2. Continuity test the fuse (under 1 ohm = good, OL = blown).
+3. Continuity test the switch (beep = closed, no beep = open when it should be closed).
+4. Trace voltage toward load until it disappears. Problem is between last good and first dead point.
 
-## Basic Measur
+Intermittent problem:
+- Monitor voltage while wiggling wires and connectors.
+- Voltage changes at wiggle point = loose connection found.
+- Continuity test while flexing wire: intermittent click = intermittent open.
 
-### Voltage Measurement (DC)
+## Safety
 
-**What It Measures:**
-- Potential difference between two points
-- Power source level (battery, power supply)
-- Voltage drop across components
+- One hand in pocket when measuring live AC circuits.
+- Remove rings and watches before working near batteries.
+- Verify power is off with meter before touching wires.
+- Discharge capacitors before resistance testing (stored charge damages meter).
+- Never bypass a blown fuse without finding the fault first.
+- Inspect test leads for cracks before each use.
+- Return red probe to V/ohm jack after any current measurement.
 
-**Safety Check:**
-- Verify meter set to V⎓ (DC voltage)
-- Check voltage range (auto-ranging or select appropriate scale)
-- Inspect test leads for damage
+## Common Errors
 
-**Procedure:**
-1. **Set meter to DC voltage (V⎓)**
-- Auto-ranging: Just select V⎓
-- Manual ranging: Select scale above expected voltage (e.g., 20V scale for 12V battery)
-
-2. **Connect probes:**
-- Black probe to COM (common/ground/negative)
-- Red probe to V/Ω input
-- Touch black probe to negative/ground point
-- Touch red probe to positive/test point
-
-3. **Read display:**
-- Positive value: Red probe more positive than black
-- Negative value: Polarity reversed (not harmful, just backwards)
-
-**Typical Measurements:**
-- AA alkaline (new): 1.5V / 1.4-1.65V / <1.2V = depleted
-- 9V alkaline (new): 9V / 8.5-9.6V / <7.5V = weak
-- Car battery (good): 12.6V / 12.4-12.8V / <12.2V = discharged
-- Car charging system:
-  Expected Voltage: 14.4V
-  Tolerance: 13.8-14.8V
-  Troubleshooting: <13.5V = alternator issue
-- USB 5V supply: 5V / 4.75-5.25V / Outside range = bad supply
-- 12V DC power supply: 12V / 11.5-12.5V / >13V = poor regulation
-
-**Common Mistakes:**
-
-**❌ Wrong:** ✓ Right
-**Measuring 120V AC with meter set to DC:** Verify DC vs AC setting before connecting
-**Selecting 2V range for 12V battery:** Select range above expected voltage
-**Poor probe contact (intermittent reading):** Firm, stable contact with test points
-**Reading voltage on de-energized circuit:** Verify power on (some circuits have switches)
-
-### Voltage Measurement (AC)
-
-**What It Measures:**
-- RMS voltage of alternating current
-- Wall outlets (120V, 240V)
-- Generator output
-- Transformer secondaries
-
-**Safety Check:**
-- **LETHAL VOLTAGE** - 120V AC can kill
-- Verify meter set to V~ (AC voltage)
-- Inspect insulation on probes (no cracks, exposed wire)
-- One hand in pocket (prevents heart current path)
-
-**Procedure:**
-1. **Set meter to AC voltage (V~)**
-2. **Select appropriate range:**
-- 200V or 600V scale for wall outlets
-- Auto-ranging: Meter selects automatically
-3. **Insert probes in outlet or connect to test points:**
-- Polarity doesn't matter (AC reverses 60 times/second)
-- Black to COM, red to V/Ω
-4. **Read display:**
-- Should show 110-125V (nominal 120V in US)
-- 220-250V for 240V circuits
-
-**Typical Measurements:**
-- US household outlet:
-  Nominal: 120V AC
-  Acceptable Range: 114-126V
-  Action If Outside: <110V or >130V - utility problem
-- US 240V appliance:
-  Nominal: 240V AC
-  Acceptable Range: 228-252V
-  Action If Outside: Check both legs (should be equal)
-- Generator output (no-load):
-  Nominal: 120V AC
-  Acceptable Range: 115-125V
-  Action If Outside: Adjust AVR (voltage regulator)
-- Generator under load:
-  Nominal: 120V AC
-  Acceptable Range: 110-120V
-  Action If Outside: Some drop acceptable (<10%)
-
-**Safety Rules:**
-
-**⚠️ Hazard:** Safety Practice
-**Electrocution:** One hand in pocket (prevent hand-to-hand shock path)
-**Arc flash:** Wear safety glasses (arcing at bad connections)
-**Probe slip:** Insulated probes (only exposed tip, rest covered)
-**Wrong setting:** Triple-check AC mode before connecting
-**Backfeeding:** Assume "dead" circuits are live until verified
-
-### Current Measurement (DC & AC)
-
-**What It Measures:**
-- Flow of electrons (amperes)
-- Load current draw
-- Charging current
-- Circuit consumption
-
-**⚠️ CRITICAL:** Current measurement requires **series connection** (meter becomes part of circuit path). Incorrect connection across voltage source causes short circuit, blows meter fuse, potential fire.
-
-**Safety Check:**
-- Verify meter set to A⎓ or A~ (DC or AC current)
-- **Red probe moved to A or mA input** (NOT V/Ω input)
-- Check current range (start with highest range if unknown)
-- Verify fuse present and intact
-
-**Procedure (Series Connection):**
-
-1. **Disconnect circuit:**
-- Turn off power
-- Break circuit at point of measurement (disconnect wire, remove component)
-   
-2. **Set meter to current mode:**
-- A⎓ for DC, A~ for AC
-- Select range (10A scale for unknown loads, 200mA or 2A for small loads)
-- **Move red probe to A input** (may be separate 10A and mA inputs)
-
-3. **Insert meter in series:**
-- Black probe to COM
-- Red probe to A input
-- Connect probes to complete circuit (meter is now "link" in circuit)
-- Current flows: Source → through meter → through load → return to source
-
-4. **Apply power and read:**
-- Current display shows load draw
-- If display shows OL (overload): Current exceeds range, select higher range
-- If display shows small value: May be on wrong range (10A scale reading 50mA shows as 0.05A)
-
-5. **Remove meter:**
-- Turn off power
-- Disconnect probes
-- Reconnect circuit (wire or component back in place)
-- **Return red probe to V/Ω input** (prevents accidental short if voltage measured next)
-
-**Typical Measurements:**
-- LED (with resistor): 10-20mA / Use mA range
-- USB device charging: 0.5-2.1A / Use 10A range initially
-- Laptop charger: 3-5A / 10A range
-- Small heater: 10-15A / May exceed meter capacity
-- Car starter motor: 100-200A / Requires clamp meter
-
-**Clamp Meter (Alternative):**
-- Jaws clamp around wire (no circuit disconnection)
-- Measures magnetic field (proportional to current)
-- Only works on AC or DC clamp meters (AC-only clamp meters are common)
-- Ideal for high currents (10-1000A)
-- Less accurate for small currents (<1A)
-
-**Common Mistakes:**
-
-**❌ Wrong:** ✓ Right
-**Connecting meter across battery (short circuit!):** Connect meter IN SERIES with load
-**Red probe in V/Ω jack when measuring current:** Move red probe to A or mA jack
-**Exceeding 10A on mA range (blows fuse):** Start with highest range, work down
-**Measuring AC with DC setting:** Match AC/DC setting to circuit
-**Forgetting to reconnect circuit after test:** Reconnect wire/component before power on
-
-### Resistance Measurement (Ohms)
-
-**What It Measures:**
-- Resistance of components (resistors, coils, wires)
-- Continuity (zero ohms = connected)
-- Open circuits (infinite ohms = disconnected)
-
-**⚠️ CRITICAL:** **NEVER measure resistance on live circuit.** Meter applies voltage during resistance test. External voltage damages meter and gives false readings.
-
-**Safety Check:**
-- Verify power OFF (circuit de-energized)
-- Discharge capacitors (can hold charge even when power off)
-- Verify meter set to Ω (ohms)
-
-**Procedure:**
-
-1. **De-energize circuit:**
-- Turn off power
-- Disconnect battery
-- Remove component from circuit (if testing component) - in-circuit readings may be inaccurate
-
-2. **Set meter to resistance (Ω):**
-- Select appropriate range (start high if unknown)
-- Auto-ranging: Meter selects automatically
-
-3. **Connect probes:**
-- Black to COM
-- Red to V/Ω
-- Touch probes to component/test points
-- Polarity doesn't matter for resistance
-
-4. **Read display:**
-- Numeric value: Resistance in ohms (Ω), kilohms (kΩ), or megohms (MΩ)
-- OL (overload): Infinite resistance (open circuit)
-- 0 or very low: Short circuit or good connection
-
-**Typical Measurements:**
-- Wire (short length): <1Ω / Good conductor
-- Fuse (good): <1Ω / Conducting
-- Fuse (blown): OL (infinite) / Open circuit, replace fuse
-- Resistor (1kΩ): 950-1050Ω / ±5% tolerance typical
-- Resistor (10kΩ): 9.5-10.5kΩ / Check color bands
-- Heating element: 10-50Ω / Lower = higher wattage
-- Motor winding: 1-20Ω / Depends on motor size
-- Coil/transformer: 10-1000Ω / Varies widely
-- Diode (forward): 400-800Ω / One direction conducts
-- Diode (reverse): OL / Other direction blocks
-
-**Resistor Color Code Verification:**
-- Read color bands to determine value
-- Measure with meter to verify
-- Example: Brown-Black-Red-Gold = 1-0-×100 = 1000Ω ± 5%
-- Meter reading 980-1020Ω confirms good resistor
-
-**Troubleshooting Applications:**
-
-- No power: Fuse resistance / OL = blown, replace
-- Motor won't run:
-  Test: Winding resistance
-  Interpretation: OL = open winding, rewind or replace
-- Heater not heating:
-  Test: Element resistance
-  Interpretation: OL = broken element
-- Short circuit:
-  Test: Measure across suspected short
-  Interpretation: <10Ω indicates short
-- Intermittent connection:
-  Test: Wiggle wire, watch resistance
-  Interpretation: Changing reading = bad connection
-
-**Common Mistakes:**
-
-**❌ Wrong:** ✓ Right
-**Measuring resistance on live circuit:** De-energize completely before testing
-**Touching both probes with fingers:** Finger resistance (1-10MΩ) affects reading
-**In-circuit component test:** Remove one lead for accurate reading
-**Expecting exact resistor value:** Check tolerance band (±5%, ±10%)
-**Not discharging capacitors:** Stored charge gives false readings
-
-### Continuity Test
-
-**What It Is:**
-- Simplified resistance test
-- Beep/tone if resistance < ~50Ω (varies by meter)
-- Visual LED indicator (some meters)
-
-**Purpose:**
-- Quick go/no-go testing
-- Tracing wires
-- Finding shorts
-- Verifying connections
-
-**Procedure:**
-
-1. **Set meter to continuity mode:**
-- Diode/continuity symbol (▷))) or similar)
-- May share setting with diode test
-
-2. **Test meter function:**
-- Touch probes together
-- Should beep/tone
-- Display shows ~0Ω
-
-3. **Test circuit/component:**
-- Power OFF (same as resistance test)
-- Touch probes to test points
-- Beep = continuity (good connection)
-- No beep = open circuit (disconnected)
-
-**Applications:**
-
-- Wire tracing:
-  Method: One probe at each end of wire
-  Interpretation: Beep = connected wire
-- PCB trace:
-  Method: Probe along suspected trace path
-  Interpretation: Beep confirms trace
-- Cable testing:
-  Method: Pin 1 to pin 1, pin 2 to pin 2, etc.
-  Interpretation: Each pair should beep
-- Switch testing:
-  Method: Probes on switch terminals, toggle switch
-  Interpretation: Beep when closed
-- Fuse testing:
-  Method: Probes on fuse ends
-  Interpretation: Beep = good, no beep = blown
-- Finding shorts:
-  Method: One probe to power, one to ground
-  Interpretation: Beep = short present
-
-**Advantages Over Resistance Mode:**
-- Faster (audio feedback, eyes free to work)
-- Easier in hard-to-see locations
-- Don't need to read display (ears work)
-
-## Advanced Functions
-
-### Diode Test
-
-**Purpose:**
-- Test diode polarity and function
-- Identify anode (positive) and cathode (negative)
-- Detect failed diodes (shorted or open)
-
-**How It Works:**
-- Meter applies small voltage (0.5-1.0V)
-- Displays voltage drop across diode
-- Forward bias: 400-800mV (silicon diode)
-- Reverse bias: OL (no conduction)
-
-**Procedure:**
-
-1. Set meter to diode test mode (▷| symbol)
-2. Remove diode from circuit (or disconnect one lead)
-3. Test forward direction:
-- Red probe to anode (band-free end)
-- Black probe to cathode (banded end)
-- Display: 400-800mV (silicon), 200-400mV (Schottky)
-4. Test reverse direction:
-- Swap probes
-- Display: OL (no conduction)
-
-**Interpretation:**
-
-- Silicon diode: 550-700mV / OL / Good
-- Schottky diode: 200-400mV / OL / Good
-- LED: 1.8-3.3V / OL / Good (may glow dimly)
-- Shorted diode: 0-50mV / 0-50mV / Failed short
-- Open diode: OL / OL / Failed open
-
-**LED Testing:**
-- Diode test can light LED dimly
-- Forward voltage identifies color:
-- Red: 1.8-2.2V
-- Yellow/Green: 2.0-2.4V
-- Blue/White: 3.0-3.6V
-- If LED lights, polarity and function confirmed
-
-### Capacitance Test
-
-**Purpose:**
-- Verify capacitor value
-- Detect failed capacitors
-
-**Procedure:**
-
-1. **Discharge capacitor:**
-- Short leads with screwdriver (across terminals)
-- Essential for safety (large caps hold lethal charge)
-2. **Set meter to capacitance mode (F)**
-3. **Remove capacitor from circuit**
-4. **Connect probes to capacitor leads (polarity doesn't matter)**
-5. **Wait for reading to stabilize (2-10 seconds)**
-
-**Interpretation:**
-
-- 100µF ±20%: 80-120µF / 75-125µF / Pass if in range
-- 10µF ±10%: 9-11µF / 8.5-11.5µF / Pass if in range
-- 0.1µF ceramic: ±20% / 0.08-0.12µF / Wide tolerance normal
-
-**Capacitor Failure Modes:**
-- **Open:** Reading much lower than marked value or zero
-- **Shorted:** Continuity test beeps (should be open)
-- **Leaky:** ESR test required (advanced)
-- **Dried out (electrolytic):** Low capacitance, high ESR
-
-### Frequency & Duty Cycle
-
-**Frequency Measurement:**
-- Measures cycles per second (Hz)
-- Applications: Generator output (60 Hz), PWM signals, oscillators
-
-**Procedure:**
-1. Set meter to frequency (Hz)
-2. Connect probes to signal source
-3. Read frequency display
-
-**Typical Values:**
-- US household AC: 60 Hz
-- Generator output: 58-62 Hz (should be stable)
-- PWM signal: 100-20,000 Hz (varies by application)
-
-**Duty Cycle:**
-- Percentage of time signal is HIGH vs LOW
-- 50% = equal on/off time (square wave)
-- Applications: Motor controllers, dimmer circuits
-
-## Practical Troubleshoot
-
-### Dead Circuit (No Power)
-
-**Diagnostic Sequence:**
-
-1. **Verify power source:**
-- Measure voltage at source (battery, power supply)
-- Should read rated voltage ±10%
-- If zero: Source problem (dead battery, tripped breaker)
-
-2. **Check fuse:**
-- Continuity test across fuse
-- Should beep (good) or silent (blown)
-- Or resistance test: <1Ω = good, OL = blown
-
-3. **Check switch:**
-- Continuity test across switch terminals
-- Operate switch
-- Should beep when closed, silent when open
-
-4. **Trace power path:**
-- Measure voltage at progressive points through circuit
-- Start at source, work toward load
-- Voltage disappears = problem between last good point and first bad point
-
-5. **Check ground/return path:**
-- Continuity from load ground to source ground
-- Should beep (good ground connection)
-- No beep = broken ground path
-
-### Intermittent Problem
-
-**Techniques:**
-
-1. **Voltage monitoring:**
-- Connect meter, let run
-- Wiggle wires, tap components
-- Voltage change = loose connection at that point
-
-2. **Resistance testing:**
-- Power off
-- Measure resistance across suspected connection
-- Wiggle/flex wire
-- Resistance change = intermittent connection
-
-3. **Continuity testing:**
-- Same as resistance, but audio feedback faster
-- Beep cutting out = intermittent open
-
-4. **Thermal testing:**
-- Heat suspected component with hot air or iron
-- If problem occurs/disappears with heat: Thermal issue (solder joint, internal component failure)
-
-### Component Testing (Out of Circuit)
-
-**Resistor:**
-- Measure resistance
-- Compare to color code
-- Within tolerance = good
-
-**Capacitor:**
-- Capacitance test (if meter has function)
-- Or resistance test: Should start low, increase to OL (capacitor charging from meter)
-- If stays low: Shorted
-- If immediately OL: May be good or open (can't distinguish without capacitance meter)
-
-**Diode:**
-- Diode test
-- Forward: 400-800mV
-- Reverse: OL
-- Both directions low = shorted
-- Both directions OL = open
-
-**Transistor (Basic):**
-- NPN transistor: Two diodes with shared cathode
-- Base to collector: Forward ~600mV
-- Base to emitter: Forward ~600mV
-- Collector to emitter: OL both directions
-- Test each junction with diode test mode
-
-**Switch:**
-- Continuity test
-- Operate switch
-- Should beep/not beep according to position
-
-**Fuse:**
-- Continuity or resistance test
-- Good: Beep or <1Ω
-- Blown: No beep or OL
-
-**Relay:**
-- Resistance across coil: Should read 10-1000Ω (varies)
-- Continuity across contacts: Should beep when coil energized, silent when not
-- Test by applying rated voltage to coil (from power supply)
-
-## Safety Protocols
-
-### Electrical Shock Prevention
-
-**Lethal Conditions:**
-- Voltage: 50V+ can overcome skin resistance
-- Current: 10mA across heart causes fibrillation (death)
-- Path: Hand-to-hand or hand-to-foot most dangerous (passes through chest)
-
-**Safe Practices:**
-
-****One hand in pocket**:** Prevents hand-to-hand path through heart
-****Work with power off**:** Eliminates shock hazard entirely
-****Verify power off with meter**:** Don't trust switches/breakers
-****Discharge capacitors**:** Store charge even when power off
-****Insulated tools**:** Prevents accidental shorts
-****Dry hands and floor**:** Water conducts, lowers resistance
-****Remove jewelry (rings, watches)**:** Metal conducts, can short across terminals
-****Safety glasses**:** Arc flash protection
-
-### Meter Safety Features
-
-**CAT Rating:**
-- Indicates maximum voltage meter can safely handle
-- CAT III 600V = safe for electrical panels
-- CAT II 300V = safe for household outlets
-- Don't exceed rating
-
-**Fuses:**
-- Current inputs have internal fuses (typically 200mA and 10A)
-- Blow if current input used to measure voltage (shorts meter)
-- Replaceable but must match rating (voltage and current)
-- **Never bypass fuse** (fire/explosion hazard)
-
-**Input Protection:**
-- MOVs (metal oxide varistors) protect against transients
-- Thermal fuses protect against overheat
-- Some meters have "FUSED V/Ω input" (extra protection)
-
-**Warning Symbols:**
-
-**⚡:** High voltage hazard
-**CAT III:** Meter rating
-**10A MAX:** Maximum current on input
-**Double insulation:** Enhanced safety construction
-
-### What NOT to Do
-
-**❌ Dangerous Practice:** ⚠️ Consequence
-**Measuring voltage with meter set to current:** Short circuit, blown fuse, meter explosion
-**Exceeding 10A on mA range:** Blown fuse, possible meter damage
-**Using damaged test leads:** Exposed conductors = shock hazard
-**Measuring resistance on live circuit:** Meter damage, false readings
-**One hand on ground, one on probe:** Current path through heart
-**Cheap meter on high-voltage circuit:** No protection, potential explosion
-**Bypassing blown fuse:** Fire, explosion, electrocution
-**Using meter beyond CAT rating:** Inadequate protection, arc flash
-
-## Common Meter Errors
-
-- Measuring battery with current setting:
-  ✓ Right: Measure voltage with V⎓
-  Why: Current measurement shorts battery
-- Red probe in V/Ω jack when measuring amps:
-  ✓ Right: Move to A jack
-  Why: Wrong jack = wrong measurement
-- Meter set to DC, measuring AC:
-  ✓ Right: Set to AC (V~)
-  Why: DC setting on AC gives false reading
-- Touching probe tips with fingers:
-  ✓ Right: Don't touch tips during measurement
-  Why: Body resistance affects reading
-- Using auto-ranging on fast-changing signal:
-  ✓ Right: Manual range for stable reading
-  Why: Auto-ranging hunts, display jumps
-- Assuming "0.00" means zero:
-  ✓ Right: Check range/units
-  Why: May be 0.00V on 200V scale
-- Forgetting to discharge capacitors:
-  ✓ Right: Discharge before resistance test
-  Why: Stored charge damages meter
-- Probing live circuit with damaged leads:
-  ✓ Right: Inspect leads before use
-  Why: Cracks = shock hazard
-- Leaving meter on current mode when done:
-  ✓ Right: Return to voltage mode
-  Why: Prevents accidental shorts next use
-
-## Tools & Equipment
-
-**Essential:**
-- [ ] Digital multimeter (CAT III rated minimum)
-- [ ] Test leads (insulated, undamaged)
-- [ ] Safety glasses
-
-**Recommended:**
-- [ ] True RMS meter (if measuring non-sinusoidal AC)
-- [ ] Spare fuses (200mA, 10A for your meter)
-- [ ] Alligator clip adapters (hands-free probing)
-- [ ] Banana-to-IC-clip adapters (SMD probing)
-- [ ] Clamp meter (high-current AC measurement)
-
-**Advanced:**
-- [ ] LCR meter (precision capacitance, inductance, ESR)
-- [ ] Oscilloscope (waveform visualization)
-- [ ] Insulation tester (megohmmeter for high-voltage insulation)
-- [ ] Thermal camera (find hot spots in circuits)
-
-## QR-Specs
-
-**Typical DMM Accuracy:**
-- DC voltage: ±0.5% / 0.1mV (200mV range)
-- AC voltage: ±1.0% / 0.1V (200V range)
-- DC current: ±1.5% / 0.01mA (200mA range)
-- AC current: ±2.0% / 0.01A (10A range)
-- Resistance: ±0.8% / 0.1Ω (200Ω range)
-
-**Measurement Ranges:**
-- DC voltage: 200mV to 1000V / Auto-ranging or manual
-- AC voltage: 200V to 750V / True RMS preferred
-- DC current: 200µA to 10A / Separate mA and A inputs
-- AC current: 200mA to 10A / 10A unfused on many meters
-- Resistance: 200Ω to 20MΩ / 200Ω range for low resistance
+- Measuring amps with probes in V/ohm jack: shorts circuit, blows internal fuse.
+- Measuring resistance on live circuit: damages meter, produces false reading.
+- Wrong AC/DC mode selected: zero reading or incorrect value.
+- Touching probe tips with fingers: body resistance affects low-ohm readings.
+- Leaving meter in current mode: causes accidental short on next use.
 
 ---
-
-**Document Revision:** 2026-02-19  
-**Technical Review:** Based on ANSI/ISA-82.02.01 (Safety Requirements for Electrical Equipment) and IEC 61010 (Safety Requirements for Measuring Instruments)  
-**Next:** See Circuit Basics - Salvage (l3-tech-circuit-salvage.md) for component harvesting and identification
+Last updated: 2026-02-19
+Layer: L3 Materials and Technology

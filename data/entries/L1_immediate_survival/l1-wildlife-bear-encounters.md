@@ -18,292 +18,115 @@ related:
 
 # Bear Encounters & Safety
 
-## Overview
-
-Bears cause ~40 human fatalities per year in North America. **Most attacks are preventable through proper food storage, camp hygiene, and encounter protocols.**
-
-Species-specific responses are CRITICAL - wrong response can be fatal.
-
----
-
 ## Bear ID
 
-- Size: 200-600 lbs / 400-800 lbs
-- Color:
-  Black Bear: Black, brown, cinnamon
-  Grizzly Bear: Brown, blond, silver-tipped
-  Polar Bear: White, cream
-- Shoulder hump: NO / YES (muscle hump)
-- Face profile:
-  Black Bear: Straight, dog-like
-  Grizzly Bear: Dish-shaped, concave
-  Polar Bear: Straight, elongated
-- Claws: Short (1.5\"), curved / Long (3-4\"), visible
-- Range: Lower 48, Canada / Western US/Canada, Alaska
-- Behavior: Shy, climbs trees / Aggressive if surprised
-- Response if attacked: FIGHT BACK / PLAY DEAD
+- Black bear: 200-600 lbs, black/brown/cinnamon, no shoulder hump, straight dog-like face, short curved claws — shy, climbs trees
+- Grizzly bear: 400-800 lbs, brown/blond/silver-tipped, YES shoulder hump, dish-shaped face, long 3-4" visible claws — aggressive if surprised
+- Polar bear: white/cream, elongated face, arctic only — apex predator with no fear of humans
 
-⚠️ **CRITICAL:** Species misidentification can be fatal. Grizzlies have shoulder hump, dish face, long claws.
+⚠️ Misidentification is fatal. Hump + dish face = grizzly.
 
 ---
 
-## Prevent
+## Food Storage
 
-### Food Storage
-
-**The "Bear-muda Triangle" (minimum 100 yards apart):**
-- Sleeping area
-- Cooking/eating area (100+ yards downwind from sleep)
-- Food storage (100+ yards from both)
-
-**Storage methods:**
-
-1. **Bear canister** (best):
-- Hard plastic/carbon fiber container (IGBC certified)
-- Weight: 2-3 lbs empty
-- Capacity: 3-5 days food for 1 person
-- Place 100+ yards from camp, away from cliffs (bears may roll them)
-
-2. **Bear hang** (traditional):
-- Rope: 50+ feet paracord or climbing rope
-- Height: 12+ feet off ground, 6+ feet from tree trunk, 4+ feet below branch
-- Method: PCT (Pacific Crest Trail) hang or counterbalance
-- **PROBLEM:** Grizzlies can climb, black bears EXCEL at climbing
-
-3. **Bear lockers** (at campgrounds):
-- Metal boxes provided at campsites
-- Close and latch properly (bears can open unlatched boxes)
-
-**What to store:**
-- ALL food (including wrappers, crumbs)
-- Toothpaste, deodorant, sunscreen, lip balm
-- Trash, dirty dishes, cooking gear
-- Feminine hygiene products
-- Pet food, livestock feed
-
-### Camp Hygiene
-
-**Cooking:**
-- Cook 100+ yards downwind from sleeping area
-- Avoid frying (smell travels miles)
-- Burn food scraps completely (fire hot enough to incinerate)
-- Wash dishes 100+ yards from camp, scatter gray water
-
-**Sleeping:**
-- DO NOT sleep in clothes you cooked in
-- Store "smelly" clothes with food (rain gear, hat worn while cooking)
-- Keep tent clean (no food, wrappers, gum)
-- Close tent completely (bears curious about openings)
-
-**Travel:**
-- Make noise (talk, clap, sing) - "Hey bear!" every 30 seconds
-- Hike in groups (lone hikers higher risk)
-- Stay alert (no headphones, watch for scat/tracks/claw marks)
-- Avoid dawn/dusk (peak bear activity)
-- Stay on trail (thick brush = surprise encounters)
+- Keep sleeping, cooking, and food storage areas 100+ yards apart
+- Bear canister (IGBC certified): place 100+ yards from camp, away from cliffs
+- Bear hang: 12+ feet off ground, 6+ feet from trunk, 4+ feet below branch
+- Bear lockers: close and latch completely — bears open unlatched boxes
+- Store all food, wrappers, toothpaste, deodorant, sunscreen, feminine products, and pet food
+- Cook 100+ yards downwind from sleep area — wash dishes there too
+- Do not sleep in clothes you cooked in
 
 ---
 
 ## Bear Spray Use
 
-**Specifications:**
-- **Capsaicin concentration:** 1-2% (8-10% total capsaicinoids)
-- **Brands:** Counter Assault, UDAP, Frontiersman
-- **Range:** 25-35 feet (7-10 meters)
-- **Duration:** 6-9 seconds of spray
-- **Shelf life:** 3-4 years
-
-**Carrying:**
-- Hip holster (accessible in <2 seconds)
-- NOT in backpack (too slow to deploy)
-- Check expiration date, pressure (shake to feel contents)
+- Capsaicin 1-2%, range 25-35 ft, 6-9 seconds of spray
+- Carry on hip holster — not in backpack, too slow to deploy
+- Check expiration date before each trip
 
 **Deployment:**
-1. **Remove safety clip** (practice this motion)
-2. **Aim slightly downward** (creates cloud barrier)
-3. **Spray when bear is 30-40 feet away** (don't wait until 10 feet - too late)
-4. **Side-to-side motion** (create wall of spray)
-5. **Back away slowly** while continuing to spray
-6. **If bear charges through spray:** Prepare to play dead or fight
+1. Remove safety clip
+2. Aim slightly downward
+3. Spray when bear is 30-40 feet away — do not wait until 10 feet
+4. Side-to-side motion to create a barrier
+5. Back away slowly while spraying
+6. Spray with wind at your back — do not spray into wind
 
-**Environmental factors:**
-- **Wind:** Spray with wind at your back (or you'll get sprayed)
-- **Rain:** Washes away spray faster (spray continuously)
-- **Temperature:** <32°F spray may freeze, >120°F can explode
-
-⚠️ **WARNING:** Bear spray is NOT a repellent. DO NOT spray on yourself, tent, or gear (attracts bears).
+⚠️ Bear spray is NOT a repellent. Do not spray on tent or gear — it attracts bears.
 
 ---
 
-## Encounter Protocols
+## Black Bear Protocol
 
-### Black Bear Encounter
+**Not charging:**
+1. Stand tall, wave arms, open jacket to appear larger
+2. Yell "Hey bear!" in a deep voice — do NOT scream
+3. Back away slowly facing the bear
+4. Do NOT run — triggers chase, bears run 35 mph
+5. Deploy spray at 30 feet if bear approaches
 
-**If you see a black bear (not charging):**
-1. **Make yourself look large:**
-- Stand tall, wave arms overhead
-- Open jacket to appear bigger
-- Stand on log/rock for extra height
-2. **Make noise:**
-- Yell "Hey bear!" in deep, firm voice
-- Clap hands, bang pots
-- Do NOT scream (high-pitched = prey)
-3. **Back away slowly:**
-- Face the bear (don't turn back)
-- Sidestep (maintains visual contact)
-- DO NOT run (triggers chase response - bears run 35mph)
-4. **If bear approaches:**
-- Stand ground, continue yelling
-- Deploy bear spray at 30 feet
-- Throw rocks/sticks near (not at) bear
-5. **If bear makes contact:**
-- **FIGHT BACK aggressively**
-- Punch/kick face, nose, eyes
-- Use rocks, sticks, trekking poles
-- Scream loudly (may deter)
+**If contact:**
+- Fight back aggressively — punch and kick face, nose, eyes
+- Use rocks, sticks, or trekking poles
+- Do NOT play dead — black bears may continue eating you
 
-**Black bears:**
-- Usually shy, avoid humans
-- Attacks are predatory or defensive (cubs/food)
-- Playing dead does NOT work (may continue eating you)
+---
 
-### Grizzly Bear Encounter
+## Grizzly Protocol
 
-**If you see a grizzly (not charging):**
-1. **Talk calmly:** "Hey bear, I'm backing away"
-2. **Back away slowly** (same as black bear)
-3. **Avoid eye contact** (perceived as threat/challenge)
-4. **DO NOT run or climb tree** (grizzlies can run 40mph, climb if motivated)
+**Not charging:**
+1. Talk calmly: "Hey bear, I'm backing away"
+2. Back away slowly
+3. Avoid direct eye contact — perceived as challenge
 
 **If grizzly charges:**
-1. **Deploy bear spray at 40 feet** (grizzlies faster than black bears)
-2. **If spray fails and bear makes contact:**
-- **PLAY DEAD immediately**
-- Lie flat on stomach (harder to flip)
-- Hands clasped behind neck (protects neck/head)
-- Legs spread wide (harder to flip)
-- Backpack on (protects back)
-- **DO NOT MOVE until bear leaves + several minutes**
-3. **If attack continues >5 minutes:**
-- Bear may be treating you as prey (rare)
-- **Switch to fighting back** (aim for face/eyes)
-
-**Grizzly attacks are usually defensive:**
-- Surprised bear protecting cubs/food
-- Goal: convince bear you're not a threat
-- Playing dead makes you "not worth the effort"
-
-### Polar Bear Encounter
-
-**⚠️ EXTREME DANGER:** Polar bears are apex predators with NO natural fear of humans.
-
-**If you see a polar bear:**
-1. **This is a predatory encounter** (not defensive)
-2. **Prepare to fight for your life:**
-- Ready bear spray (deploy at 40+ feet)
-- Flare gun if available
-- Firearm if available (.308 Winchester minimum)
-3. **Do NOT play dead** (polar bears WILL eat you)
-4. **Do NOT run** (triggers chase, you cannot outrun)
-5. **Fight aggressively:**
-- Eyes, nose are vulnerable
-- Scream, yell, make noise
-- Use ANY weapon available
-6. **Seek shelter immediately:**
-- Building, vehicle, boat
-- Polar bears can break through weak structures
-
-**Polar bear range:**
-- Arctic Circle only (Alaska, Canada, Greenland, Russia, Norway)
-- If in polar bear country: ALWAYS carry firearm + bear spray
+1. Deploy spray at 40 feet
+2. If contact: play dead immediately — flat on stomach, hands clasped behind neck, legs spread wide, backpack on
+3. Do NOT move until bear leaves plus several additional minutes
+4. If attack continues beyond 5 minutes: fight back, aim for face and eyes
 
 ---
 
-## Tree Climbing
+## Polar Bear Protocol
 
-**When to climb:**
-- Black bear encounter AND large tree available
-- As last resort if bear spray fails
+⚠️ Polar bears are predatory. Do NOT play dead.
 
-**Requirements:**
-- Tree with branches starting 10+ feet up
-- Climb to 30+ feet (black bears excellent climbers, but may not follow if you're high)
-- Thick branches (4"+ diameter) to support weight
-
-**⚠️ WARNING:**
-- Grizzlies CAN climb if motivated (despite myth)
-- Young grizzlies climb better than adults
-- DO NOT assume tree is safe haven
+1. Prepare to fight — this is not a defensive encounter
+2. Deploy bear spray at 40+ feet
+3. Use flare gun or firearm if available (.308 minimum)
+4. Fight aggressively — target eyes and nose
+5. Do NOT run
+6. Seek shelter in a building, vehicle, or boat immediately
+- In polar bear country: always carry firearm + bear spray
 
 ---
 
-## Surprise Encounters
-
-**If you round corner and bear is <25 feet:**
-1. **DO NOT RUN**
-2. **Deploy bear spray immediately** (even if bear not charging - creates barrier)
-3. **Back away slowly while spraying**
-4. **If bear charges:**
-- Continue spraying
-- Prepare to play dead (grizzly) or fight (black bear)
-
-**Surprising a bear is most dangerous scenario:**
-- Bear startled, defensive
-- Close range = less reaction time
-- Make noise while hiking to prevent this
-
----
-
-## After a Bear Encounter
+## After Encounter
 
 **If sprayed with bear spray:**
-- Move to fresh air immediately
-- Remove contaminated clothing
-- Flush eyes with water (will burn for 30-60 minutes)
+- Move to fresh air, remove contaminated clothing
+- Flush eyes with water — burns 30-60 min, self-resolves in 1-2 hours
 - Wash skin with soap and water
-- **Effects:** Temporary blindness, respiratory distress, severe pain (self-resolves in 1-2 hours)
 
-**If injured by bear:**
-- Apply first aid (control bleeding, stabilize fractures)
-- Evacuate immediately (infection risk from bear saliva/claws)
-- Document injuries (photos for authorities)
-- Report encounter to wildlife officials
+**If injured:**
+- Control bleeding, stabilize fractures
+- Evacuate immediately — infection risk from claws and saliva
+- Report encounter to wildlife officials and document injuries
 
 **If bear killed in self-defense:**
 - Required to report in most jurisdictions
-- Leave carcass untouched (investigation)
-- Photograph scene, bear, injuries
+- Leave carcass untouched — photograph the scene
 
 ---
 
 ## Common Mistakes
 
-1. ❌ **Sleeping with food in tent:** Guarantees bear visit, extremely dangerous
-2. ❌ **Running from bear:** Triggers chase response, you cannot outrun (bears run 35-40mph, humans 15-20mph)
-3. ❌ **Playing dead for black bear:** They may continue eating you - FIGHT BACK
-4. ❌ **Fighting back against grizzly (defensive attack):** Makes attack worse - play dead unless attack prolonged
-5. ❌ **Approaching cubs:** Mother bear WILL attack, often fatal
-6. ❌ **Storing bear spray in backpack:** Too slow to deploy - wear on hip holster
-7. ❌ **Using bear spray as repellent:** Attracts bears, doesn't deter
-
----
-
-## When to Evacuate
-
-**Seek help immediately if:**
-- Injured by bear (even minor scratches - infection risk)
-- Bear destroyed food supply and you're >2 days from resupply
-- Bear habituated to camp (keeps returning) and you cannot relocate
-- Traveling alone in polar bear country (extremely dangerous)
-
----
-
-## Summary: Key Takeaways
-
-1. ✅ **Prevention is 90% of bear safety:** Proper food storage (100+ yards from camp), camp hygiene, make noise while hiking
-2. ✅ **Species identification is CRITICAL:** Shoulder hump + dish face = grizzly (play dead), no hump = black bear (fight back)
-3. ✅ **Bear spray is effective:** 90% success rate, carry on hip holster, deploy at 30-40 feet
-4. ✅ **Do NOT run:** Triggers chase response, bears run 35-40mph (you cannot escape)
-5. ✅ **Grizzly attacks are usually defensive (play dead), black bear attacks are predatory (fight back), polar bears are apex predators (fight for your life)**
-
-**Most bear encounters end peacefully. Follow protocols, stay calm, and you'll likely never have to use these skills.**
+- ❌ Food in tent — guarantees a bear visit
+- ❌ Running from bear — triggers chase, bears run 35-40 mph
+- ❌ Playing dead for black bear — fight back
+- ❌ Fighting back against grizzly on defensive attack — play dead unless attack is prolonged
+- ❌ Approaching cubs — mother will attack
+- ❌ Bear spray in backpack — too slow to deploy, wear on hip holster
+- ❌ Using bear spray as repellent — attracts bears

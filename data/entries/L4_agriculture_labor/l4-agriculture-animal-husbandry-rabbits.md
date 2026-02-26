@@ -1,533 +1,89 @@
 ---
 id: l4-agriculture-animal-husbandry-rabbits
-title: Rabbit Husb
+title: Rabbit Husbandry
 category: L4_agriculture_labor
 ---
-# Rabbit Husb
+# Rabbit Husbandry
 
-**Priority: HIGH** | **Difficulty: Easy-Medium** | **Impact: Most efficient meat per lb feed**
+**Priority: HIGH.** Most efficient meat per lb of feed. 1 buck + 2 does = 200-300 lbs meat/year from 20 sq ft.
 
-## Overview
+## Why Rabbits
 
-Rabbits are the hidden champion of homestead livestock. They produce more edible meat per pound of feed than any other animal, reproduce exponentially, require minimal space, and are silent. A trio (1 buck + 2 does) can produce 200-300 lbs of meat annually in a 20 sq ft area. For small spaces, limited feed, or maximum efficiency, rabbits are unmatched.
+- Feed conversion: 4:1 (vs 6-10:1 for chickens and pigs). Most efficient livestock.
+- Space: 4 sq ft per rabbit (vs 100+ for goat, 1000+ for cow).
+- Fast breeding: 30-day gestation, 6-10 kits per litter, rebreed every 45-60 days.
+- 1 doe = 40-50 kits/year = 150-200 lbs meat. Scale fast: 1 pair → hundreds in 18 months.
+- Silent (urban and apartment viable). White meat. Meat, fur, and manure all useful.
 
-## Why Rabbits?
+## Best Breeds
 
-**Advantages:**
-- ✅ **Feed conversion ratio:** 4:1 (4 lbs feed → 1 lb meat vs 6-10:1 for chickens, pigs)
-- ✅ **Space efficient:** 4 sq ft per rabbit (vs 100+ for goat, 1000+ for cow)
-- ✅ **Fast reproduction:** 30-day gestation, 6-10 kits, rebreed every 45-60 days
-- ✅ **Exponential growth:** 1 pair → 50+ offspring per year
-- ✅ **Silent:** No noise complaints (urban-friendly)
-- ✅ **White meat:** Lean, mild flavor (like chicken)
-- ✅ **Multiple products:** Meat, fur, leather, manure
-- ✅ **Minimal startup cost:** $100-300 for breeding trio + cages
+- New Zealand White: 9-12 lbs, 8-10 kits/litter, fast growth. Industry standard. Start here.
+- Californian: 8-11 lbs, 8-10 kits/litter. Good meat and nice pelt.
+- Rex: 8-10 lbs. Velvet fur (high-value pelt) plus good meat yield.
 
-**Disadvantages:**
-- ❌ Some people find butchering difficult (cute factor)
-- ❌ Heat sensitive (require cooling in hot climates)
-- ❌ Requires daily feeding/watering (no free-ranging)
-- ❌ Predator vulnerable (need secure housing)
-- ❌ Individual processing (many small carcasses vs few large)
-
-**Comparison:**
-- **Rabbits vs Chickens:** 2x feed efficiency, no eggs but more meat per animal
-- **Rabbits vs Goats:** 1/10 space, 2x faster reproduction, meat-only (no milk)
-- **Rabbits vs Cattle:** 1/200 space, same feed efficiency, 1/50 size
-
-**The Math:**
-- 1 doe = 40-50 kits/year = 150-200 lbs meat/year
-- 2 does = 300-400 lbs meat/year (feeds 2-3 people)
-- **From 20 sq ft of hutch space**
-
-## Choose Your Breed
-
-### Meat Breeds (Best for Homestead)
-
-- New Zealand White:
-  Mature Weight: 9-12 lbs
-  Growth Rate: Fast (8-10 weeks to 5 lbs)
-  Litter Size: 8-10 kits
-  Temperament: Calm
-  Notes: Industry standard, proven
-- Californian:
-  Mature Weight: 8-11 lbs
-  Growth Rate: Fast
-  Litter Size: 8-10 kits
-  Temperament: Docile
-  Notes: Good meat, nice pelt
-- Florida White:
-  Mature Weight: 4-6 lbs
-  Growth Rate: Medium
-  Litter Size: 6-8 kits
-  Temperament: Gentle
-  Notes: Compact, all-purpose
-- Satin:
-  Mature Weight: 9-11 lbs
-  Growth Rate: Fast
-  Litter Size: 8-10 kits
-  Temperament: Calm
-  Notes: Beautiful fur, dual-purpose
-- Silver Fox:
-  Mature Weight: 10-12 lbs
-  Growth Rate: Medium
-  Litter Size: 6-8 kits
-  Temperament: Docile
-  Notes: Rare, luxurious fur
-
-**Recommended Starter:** New Zealand White or Californian (proven, available, hardy)
-
-### Dual-Purpose (Meat + Fur/Fiber)
-
-- Rex: 8-10 lbs / Velvet fur (pelts) / Plush coat, good meat
-- Angora:
-  Mature Weight: 5-10 lbs
-  Specialty: Fiber (wool)
-  Notes: Requires grooming, harvest wool
-- American Chinchilla:
-  Mature Weight: 9-12 lbs
-  Specialty: Beautiful pelt
-  Notes: Rare heritage breed
-
-**Choose Dual-Purpose If:** Want additional products beyond meat
-
-### Size Categories
-
-- **Small:** 3-5 lbs (Florida White) - more per cage, less meat per rabbit
-- **Medium:** 6-9 lbs (Dutch, Rex) - balanced
-- **Large:** 9-12 lbs (New Zealand, Californian) - most meat per rabbit, best feed efficiency
-- **Giant:** 13-20+ lbs (Flemish Giant) - slower growth, less efficient (avoid for meat production)
-
-**Best for Meat:** Large breeds (9-12 lbs mature)
+**Starter recommendation:** New Zealand White or Californian. Proven, available, hardy.
 
 ## Housing
 
-### Hutch Requirements
-
-**Size per Rabbit:**
-- **Breeding doe/buck:** 4-6 sq ft floor space (24×30" minimum)
-- **Grow-out (fryers):** 1.5-2 sq ft per rabbit (group housing)
-- **Height:** 18-24" (rabbit should sit upright comfortably)
-
-**Example Setup (1 buck + 2 does):**
-- 3 breeding cages (30×36×18" each) = 18 sq ft
-- 1-2 grow-out cages (36×48×18") for litters = 24 sq ft
-- **Total:** ~20-30 sq ft
-
-### Cage Construction
-
-**Materials:**
-
-**Option 1: Wire Cages (Best)**
-- **Sides/Top:** 1×2" wire mesh (14-16 gauge)
-- **Floor:** 1/2×1" wire (14 gauge) - allows droppings to fall through
-- **Advantages:** Easy cleaning, good airflow, durable
-- **Disadvantages:** Cold in winter (add resting board)
-
-**Option 2: Wood Hutches**
-- **Frame:** 2×4 lumber, exterior plywood
-- **Floor:** Wire or slats (must allow droppings through)
-- **Advantages:** Warmer in winter
-- **Disadvantages:** Hard to clean, shorter lifespan (urine rots wood)
-
-**Option 3: Colony System**
-- Large pen (10×10 ft) with multiple rabbits
-- **Pros:** Natural behavior, less individual caging
-- **Cons:** Harder to manage breeding, potential fighting, disease spread
-- **Use case:** Experienced keepers only
-
-**Features:**
-1. **Feeders:** J-feeders (attach to cage door) - prevent waste
-2. **Waterers:** Bottles (winter) or bowls (summer) - 32 oz minimum
-3. **Nest box:** 10×18×10" (provide for kindling - birthing)
-4. **Resting board:** Flat wood board (relief from wire floor)
-
-### Location
-
-**Ideal Setup:**
-- **Shade:** Critical (rabbits overheat easily)
-- >85°F = heat stress (provide frozen water bottles, fans, misters)
-- **Protection from elements:** Rain, wind, direct sun
-- Covered roof (barn, shed, or tarps)
-- **Ventilation:** Good airflow (prevent respiratory disease)
-- **Predator protection:** Secure from dogs, raccoons, weasels, hawks
-- Wire floors + secure latches
-
-**Temperature Range:**
-- **Ideal:** 50-70°F
-- **Tolerable:** 40-80°F
-- **Danger:** <20°F (add straw bedding, windbreaks) or >85°F (cooling measures)
+- Breeding adults: 4-6 sq ft floor space (24×30" min), 18-24" height per cage.
+- Grow-out litters: 1.5-2 sq ft per kit. Group housing acceptable.
+- Wire floor: 1/2×1" mesh gauge. Droppings fall through. Easy cleaning.
+- Add resting board (flat wood) for relief from wire.
+- Location: Full shade. Over 85°F = heat stress. Provide frozen water bottles and fans.
+- Predator-proof latches. Secure from dogs, raccoons, weasels, hawks.
+- Ideal temp: 50-70°F. Danger: below 20°F or above 85°F.
 
 ## Feeding
 
-### Commercial Pellets (Easiest, Most Reliable)
-
-**Type:** Rabbit pellets (16-18% protein)
-
-**Amount:**
-- Bucks (maintenance): Adult / 4-6 oz (1/2 cup)
-- Does (maintenance): Adult / 4-6 oz
-- Pregnant does: Last 2 weeks / 6-8 oz
-- Lactating does: With litter / Unlimited (8-12 oz)
-- Grow-outs (fryers): 4-12 weeks / Unlimited (4-6 oz)
-
-**Cost:** $15-25 per 50 lb bag (feeds 1 breeding doe ~3 months)
-
-**Storage:** Cool, dry, dark (prevent mold)
-- Use within 6 months (nutrients degrade)
-
-**Why Pellets?**
-- Complete nutrition (balanced protein, vitamins, minerals)
-- Consistent (no guessing)
-- Easy to store
-
-### Hay (Essential Supplement)
-
-**Type:** Grass hay (timothy, orchard grass) or alfalfa
-
-**Purpose:**
-- Fiber (prevents GI stasis - killer condition)
-- Entertainment (prevents boredom)
-- Dental health (wears down constantly-growing teeth)
-
-**Amount:** Unlimited (always available)
-
-**Quality:** Green, dry, no mold (moldy hay = death)
-
-### Fresh Greens (Supplement)
-
-**Safe Greens (in moderation):**
-- Lettuce (not iceberg), kale, chard, parsley
-- Carrot tops, beet greens
-- Dandelion greens, clover, plantain (from yard - no pesticides)
-- Comfrey (excellent - nutrient-dense)
-
-**Introduction:** Slowly (sudden change = diarrhea)
-- Start with 1-2 oz/day, increase gradually
-
-**Proportion:** Greens = 10-20% of diet (not replacement for pellets/hay)
-
-**❌ Avoid:**
-- Iceberg lettuce (no nutrition, diarrhea)
-- Rhubarb leaves (toxic)
-- Potato/tomato leaves (toxic)
-- Avocado (toxic)
-
-### Water
-
-**Critical:** Fresh, clean water at all times
-- 16-32 oz per rabbit/day (more if lactating, hot weather)
-- **Winter:** Heated waterers or change water 2-3x/day (prevent freezing)
-- **Summer:** Cool water (helps with heat stress)
-
-**Container:** Bottles (prevent spillage) or heavy ceramic bowls (can't tip)
-
-### Self-Sufficient Feeding (No Pellets)
-
-**Possible but challenging.** Requires knowledge and observation.
-
-**Components:**
-1. **Hay (basis):** Grass or legume hay (free-choice)
-2. **Grains:** Oats, barley, wheat (2-4 oz/day)
-3. **Greens:** Fresh forage (varies by season)
-4. **Protein:** Alfalfa hay (growing/lactating rabbits)
-5. **Mineral supplement:** Salt, kelp
-
-**Challenges:**
-- Seasonal variation (less greens in winter)
-- Nutritional imbalances (slower growth, lower reproduction)
-- More labor (daily foraging/prep)
-
-**Recommendation:** Use pellets if available (reliability > self-sufficiency in most scenarios)
+- Pellets: 16-18% protein. 4-6 oz/day adults. Unlimited for lactating does and grow-out kits.
+- Hay: Unlimited, always available. Prevents GI stasis which kills rabbits.
+- Greens: 10-20% of diet. Dandelion, clover, kale, carrot tops. Introduce slowly to avoid diarrhea.
+- Water: Fresh, clean, always available. Heated in winter.
+- Avoid: Iceberg lettuce (diarrhea), rhubarb/potato/avocado leaves (toxic).
 
 ## Breeding
 
-### Breeding Age
-
-- **Does:** 6-8 months (or 5-6 lbs, 80% mature weight)
-- **Bucks:** 6-8 months
-- **⚠️ Don't breed too young:** Underdeveloped does may have complications
-
-### Breeding Method
-
-**Always take doe to buck's cage (never vice versa).**
-- Territorial behavior: Does fight in their own space, bucks don't
-
-**Process:**
-1. Place doe in buck's cage
-2. Buck mounts, breeds (seconds - quick!)
-3. **Fall-off:** Buck falls off to side/back (indicates successful breeding)
-4. Allow second breeding (5-10 minutes later) - increases conception
-5. Return doe to her cage
-6. **Record date** (critical for timing kindling)
-
-**Signs Doe is Receptive:**
-- Presenting (raises hindquarters)
-- Active, interested in buck
-- **Vent color:** Dark pink/purple = receptive, pale = not ready
-
-**If Doe Refuses:**
-- Try different buck
-- Wait 1-2 days, try again
-- Check vent color (hormone cycle)
-
-### Gestation & Kindling (Birth)
-
-**Gestation:** 28-32 days (average 31 days)
-
-**Day 10-14:** Palpation (feel for marble-sized embryos) - experienced breeders only
-
-**Day 28:** Provide nest box
-- Fill with straw/hay
-- Doe will pull fur to line nest (day 28-31)
-
-**Kindling (usually at night):**
-- Does give birth alone (no assistance needed usually)
-- 6-10 kits born in 10-30 minutes
-- Doe eats placenta (normal), pulls fur over kits
-
-**Morning After:**
-- **Check nest:** Remove dead kits (DOA or stillborn - 10-20% normal)
-- Count live kits
-- Ensure all covered with fur (warmth critical)
-- **Don't over-handle:** Briefly check, then leave alone
-
-**Kits:**
-- Born blind, deaf, hairless (altricial)
-- Eyes open day 10-12
-- Leave nest day 18-21
-
-### Litter Management
-
-**Litter Size:**
-- First-time does: 4-6 kits (often smaller)
-- Experienced does: 8-10 kits
-
-**Culling/Fostering:**
-- **If >10 kits:** Foster excess to another doe (same kindling date ±3 days)
-- Rub kits with foster doe's fur (mask scent)
-- **If <6 kits:** Fine (more milk per kit, faster growth)
-
-**Doe Feeding:**
-- Unlimited pellets + hay (milk production is energy-intensive)
-- Ensure constant water (dehydration = stops nursing)
-
-**Weaning:** 
-- Age: 6-8 weeks
-- Weight: 3-4 lbs
-- Method: Remove kits to grow-out cage, leave doe in breeding cage
-- **Rebreeding:** Wean kits, wait 1-2 weeks, rebreed doe
-
-**Breeding Schedule Options:**
-
-**Intensive (Every 45 Days):**
-- Breed doe → Kindle (day 31) → Wean (day 42) → Rebreed (day 45)
-- **Output:** 7-8 litters/year = 50-70 kits/doe/year
-- **Stress:** High on doe (feed well, cull does that can't keep up)
-
-**Moderate (Every 60-75 Days):**
-- Breed → Kindle → Wean (6-8 weeks) → Rest 2-3 weeks → Rebreed
-- **Output:** 5-6 litters/year = 40-50 kits/doe/year
-- **Recommended:** Sustainable, good doe health
-
-**Seasonal:**
-- Breed spring + fall (avoid summer heat stress)
-- **Output:** 2-3 litters/year = 20-30 kits/doe/year
-- **Use case:** Hot climates, limited feed availability
+- Breeding age: 6-8 months or when doe reaches 80% of mature weight (5-6 lbs).
+- Always take doe to buck's cage. Never vice versa. Does fight in their own territory.
+- Allow 2 matings 10 minutes apart. Buck falls off to side = successful breeding.
+- Record breeding date. Gestation: 31 days average.
+- Provide nest box at day 28. Doe lines with pulled fur from her own body.
+- Check nest morning after kindling. Remove dead kits. Minimal handling in week 1.
+- Wean at 6-8 weeks. Rebreed doe 1-2 weeks after weaning.
+- Moderate schedule: 5-6 litters/year = 40-50 kits/doe. Sustainable long-term.
 
 ## Growth & Harvest
 
-### Timeline
+- Optimal harvest age: 10-12 weeks at 5-6 lbs live weight.
+- Dressed weight: 50-55% of live weight (5 lb rabbit → 2.5-3 lbs meat, 4-5 servings).
+- Processing time: 10-15 min/rabbit with practice.
+- Steps: Cervical dislocation → bleed (cut jugular) → skin (peel like removing a sock) → eviscerate (cut belly, remove organs) → rinse → chill 24 hrs.
+- Pelts: Stretch on frame, dry. Value $5-15 each depending on quality.
 
-- 0: 2-3 oz / Newborn / In nest
-- 3: 1-1.5 lbs / Leaving nest / Still nursing
-- 6-8: 3-4 lbs / Weaned / Move to grow-out
-- 10-12: 5-6 lbs / Fryer (butcher) / Ideal harvest
-- 16-20: 7-9 lbs / Roaster / Large carcass, tougher
-- 24+: 9-12+ lbs / Breeder or cull / Meat quality declines
+## Health
 
-**Optimal Harvest Age:** 10-12 weeks (5-6 lbs live weight)
-- **Why:** Best feed conversion, tender meat, before sexual maturity (fighting)
+- Clean cages weekly. Wet and dirty = ammonia buildup and respiratory disease.
+- Quarantine all new rabbits 30 days before introducing to existing herd.
+- GI stasis (no droppings, not eating): Hay, water, belly massage. Vet if no improvement in 12 hrs.
+- Snuffles (sneezing, nasal discharge): Pasteurella bacteria. Antibiotics or cull chronic cases.
+- Sore hocks (red raw feet): Add resting board, topical ointment, clean cage.
+- Heat stress (panting, drooling, lethargy): Frozen water bottles, fans, cool water immediately.
+- Cull for: Chronic health issues, poor mothering (eats kits), small consistent litters, aggression.
 
-**Dressed Weight:** 50-55% of live weight
-- 5 lb live rabbit → 2.5-3 lbs dressed weight
+## Manure
 
-**Sex Determination (Week 8):**
-- Select best females for breeding replacements
-- All males + extra females → meat
+- Rabbit manure can go directly on garden. No composting required. Does not burn plants.
+- 1 rabbit = approximately 100 lbs manure/year.
+- Excellent worm composting input. Worms thrive in rabbit manure.
 
-### The Exponential Growth Model
+## The Math
 
-**Starting Trio:** 1 buck + 2 does
-
-**Year 1 (Moderate Breeding):**
-- 2 does × 5 litters/year × 8 kits = 80 kits born
-- 50% survival/kept = 40 rabbits
-- Keep 6 best females → Now have 8 does + 2 bucks
-- Harvest: 34 rabbits = ~100 lbs meat
-
-**Year 2:**
-- 8 does × 5 litters × 8 kits = 320 kits born
-- Harvest: 300+ rabbits = ~900 lbs meat
-- **1 pair → 300 rabbits in 18 months**
-
-**This is exponential food production.**
-
-## Processing
-
-**⚠️ Graphic Content**
-
-**Age:** 10-12 weeks (fryer weight)
-
-**Tools:**
-- Sharp knife
-- Game shears or poultry shears
-- Cool water for rinsing
-- Bags for packaging
-
-### Process (Overview)
-
-1. **Dispatch:** Sharp blow to base of skull or cervical dislocation
-- Instant, humane
-2. **Bleed:** Hang by hind legs, cut jugular (1-2 minutes)
-3. **Skin:** 
-- Cut around hind legs, peel skin like removing sock
-- Skin comes off in one piece
-4. **Eviscerate:** 
-- Cut from pelvis to sternum (don't puncture intestines)
-- Remove organs (save heart, liver, kidneys if desired)
-5. **Rinse:** Cold water
-6. **Chill:** Refrigerate 24 hours (improves tenderness)
-7. **Package:** Freeze or cook fresh
-
-**Time:** 10-15 minutes per rabbit (with practice)
-
-**Yield:** 1 fryer (5 lbs live) = 2.5-3 lbs meat = 4-5 servings
-
-**Pelts (Bonus):**
-- Stretch on frame, dry (tanning later)
-- Use: Gloves, trim, crafts, trade
-- Value: $5-15 per pelt (depending on quality, breed)
-
-## Health & Common Issues
-
-**Rabbits are generally hardy.** Main issues:
-
-### Preventive Care
-
-- **Clean cages:** Remove droppings weekly (prevents ammonia buildup)
-- **Dry environment:** Wet = respiratory disease, sore hocks
-- **Good ventilation:** Prevent respiratory disease
-- **Predator-proof:** Stress kills (dogs barking, predators prowling)
-- **Quarantine new rabbits:** 30 days (prevent disease spread)
-
-### Common Problems
-
-- GI Stasis:
-  Symptoms: Not eating, no droppings
-  Cause: Low fiber, stress, dehydration
-  Treatment: Hay, water, belly massage (vet if severe)
-- Snuffles (Pasteurella):
-  Symptoms: Sneezing, discharge, matted paws
-  Cause: Bacteria (stress-triggered)
-  Treatment: Antibiotics (vet), cull chronic cases
-- Sore Hocks:
-  Symptoms: Red, raw feet
-  Cause: Wire floor, heavy rabbit, dirty cage
-  Treatment: Resting boards, treat with ointment
-- Heat Stress:
-  Symptoms: Panting, lethargy, drooling
-  Cause: >85°F temperature
-  Treatment: Frozen bottles, fans, shade, cool water
-- Ear Mites:
-  Symptoms: Head shaking, crusty ears
-  Cause: Mites
-  Treatment: Ivermectin or oil treatment
-- Malocclusion:
-  Symptoms: Overgrown teeth, not eating
-  Cause: Genetic (misaligned teeth)
-  Treatment: Trim teeth (vet) or cull
-- Coccidiosis:
-  Symptoms: Diarrhea, weight loss (young rabbits)
-  Cause: Parasite (Eimeria)
-  Treatment: Amprolium, cleanliness
-
-**When to Cull:**
-- Chronic health issues (snuffles, malocclusion)
-- Aggressive temperament (bites, attacks)
-- Poor mothering (eats kits, won't nurse)
-- Low production (small litters, poor growth)
-
-### No Vaccines Needed
-
-Unlike chickens (Marek's) or goats (CDT), rabbits don't require routine vaccinations in most areas.
-
-**Exception:** RHDV2 (Rabbit Hemorrhagic Disease Virus)
-- Vaccine available in endemic areas (check local regulations)
-
-## Manure Gold
-
-**Rabbit manure is unique:** Can be applied directly to garden (doesn't "burn" plants)
-
-**NPK:** ~2.4-1.4-0.6 (nitrogen-phosphorus-potassium)
-
-**Uses:**
-1. **Direct application:** Scatter on garden (no composting required)
-2. **Compost ingredient:** Excellent nitrogen source (mix with bedding/hay)
-3. **Manure tea:** Soak in water (liquid fertilizer)
-4. **Worm composting:** Worms love rabbit manure (vermicomposting)
-
-**Output:** 1 rabbit = ~100 lbs manure/year
-
-## Rabbits Critical
-
-**Survival Math:**
-- **Setup:** $200-400 (trio + cages + feeders/waterers)
-- **Feed cost:** $30-50/month (3 breeders + grow-outs)
-- **Output:** 200-300 lbs meat/year (from 20 sq ft)
-- **Equivalent:** 600-900 meals worth of protein
-
-**Per Square Foot:**
-- Rabbits: ~10-15 lbs meat/sq ft/year
-- Chickens: ~3-5 lbs meat/sq ft/year
-- Goats: ~0.2-0.5 lbs meat/sq ft/year
-
-**Rabbits are THE most space-efficient livestock.**
-
-**Other Benefits:**
-- Silent (apartment/urban viable)
-- Fast reproduction (rebuild flock quickly if disaster)
-- Quality manure (garden productivity)
-- Pelts (clothing, trade goods)
-
-**Resilience:**
-- Small startup (vs cattle, pigs)
-- Fast growth (meat in 10 weeks vs 6+ months)
-- Exponential scaling (1 pair → hundreds in 1 year)
-
-## Common Mistakes
-
-**❌ Wrong:** ✓ Right
-**No shade (heat stress kills):** Full shade in summer, >85°F = cooling measures
-**Breeding buck to multiple does same day:** 1-2 breedings/day max (sperm depletion)
-**Taking buck to doe's cage (fighting):** Always take doe to buck
-**No nest box (kits freeze):** Provide day 28 (does line with fur)
-**Handling kits excessively (doe rejects):** Brief check, minimal handling first week
-**Dirty cages (ammonia, disease):** Clean weekly, good ventilation
-**Moldy hay (enterotoxemia kills):** Inspect hay, discard any mold
-**Overbreeding does (burnout):** Moderate schedule, cull poor producers
+- 20 sq ft of hutch space: 200-300 lbs meat/year (1 buck + 2 does).
+- Scaled to 8 does in year 2: 300+ rabbits harvested = roughly 900 lbs meat.
+- Space efficiency: Rabbits ~10-15 lbs meat/sq ft/year vs chickens 3-5, goats 0.2-0.5.
 
 ## Cross-References
-- **[l4-agriculture-animal-husbandry-chickens.md]** - Complementary livestock
-- **[l4-agriculture-composting.md]** - Rabbit manure use
-- **[l3-food-preservation-canning.md]** - Canning rabbit meat
-- **[l2-shelter-basic-construction.md]** - Building hutches
 
-## Sources
-- Storey's Guide to Raising Rabbits (Bennett)
-- "Rabbit Production" by Cheeke, Patton, Lukefahr, McNitt
-- American Rabbit Breeders Association (ARBA)
-- Extension publications: Penn State, OSU, Texas A&M
-- USDA Small-Scale Rabbit Production
-
-**Last Updated:** 2026 | **Reviewed by:** Extension Livestock Specialists, ARBA Standards Committee
+- l4-agriculture-animal-husbandry-chickens.md
+- l4-agriculture-composting.md
+- l3-food-preservation-canning.md

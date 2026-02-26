@@ -5,739 +5,102 @@ category: L2_food_biology
 ---
 # Midwest US Regional
 
-**Region Coverage:** North Dakota, South Dakota, Nebraska, Kansas, Minnesota, Iowa, Missouri, Wisconsin, Illinois, Indiana, Ohio, Michigan  
-**USDA Hardiness Zones:** 3a-6b  
-**Last Updated:** 2026-02  
-**Authoritative Sources:** NOAA Storm Prediction Center, USGS, State DNR/Natural Resources
+**Region:** ND, SD, NE, KS, MN, IA, MO, WI, IL, IN, OH, MI
+**Zones:** USDA 3a-6b
 
-## Climate Profile
+## Climate
 
-### Temperature Ranges (Continental Climate)
-- Summer (Jun-Aug): 80-95°F / 60-70°F / 110°F+ / 50°F
-- Fall (Sep-Nov): 55-75°F / 35-55°F / 95°F / 0°F
-- Winter (Dec-Feb): 15-35°F / -5-20°F / 60°F / -40°F
-- Spring (Mar-May): 50-75°F / 30-50°F / 95°F / -10°F
+- Summer: 80-95°F days. Winter: -20 to -40°F possible. Seasonal range 140°F+.
+- Polar Vortex (Jan-Feb): Wind chill -50 to -70°F. Frostbite in <5 min.
+- Tornado Season: Mar-Jun, peak Apr-May. 1000+ tornadoes/year. EF4-EF5 common.
+- Blizzard Season: Nov-Mar. Whiteout conditions. Ground blizzards (wind-driven).
+- Severe storms Apr-Sep: hail, 80-100mph straight-line winds, flash flooding.
 
-**Characteristic:** EXTREME temperature swings
-- Daily: 30-40°F difference (day to night)
-- Seasonal: 140°F+ range (-30°F winter to 110°F summer)
-- Rapid changes: Temperature can drop 50°F in 12 hours (cold front)
+## Biomes
 
-### Precipitation & Storms
-- **Annual rainfall:** 15-40 inches (increases west to east)
-- **Wet season:** April-June (tornado season)
-- **Dry season:** July-August (but can be humid)
-- **Snow:** 10-80 inches annually (increases with latitude)
-- **Blizzards:** November-March (peak: January-February)
+- Tallgrass Prairie (west): Flat, few trees, scarce water. Lightning exposure. No shelter.
+- Deciduous Forest (east): Oak/hickory/maple. Abundant water. Tick-borne disease risk.
+- Great Lakes (MI/WI/MN): Massive freshwater resource. Lake-effect blizzards (10+ ft snow).
+- River Valleys: Rich wildlife and fish. Spring flooding from snowmelt.
 
-### Critical Weather Patterns
+## Key Edible Plants
 
-**Tornado Season:** March-June (PEAK: April-May)
-- Midwest = Heart of "Tornado Alley"
-- 1000+ tornadoes annually in region
-- EF4-EF5 tornadoes more common than elsewhere
+- Cattail (year-round): Roots, shoots, pollen. 800-1200 cal/lb. STAPLE.
+- Oak acorns (Sep-Nov): 2000+ cal/lb. MUST leach tannins before eating.
+- Wild rice (Aug-Sep, MN/WI): 1500 cal/lb. Harvest by canoe. High priority.
+- Hickory nuts (Sep-Oct): 2700+ cal/lb. High fat. Crack shells.
+- Black walnuts (Sep-Oct): 2500+ cal/lb. Remove husk (stains hands permanently).
+- Jerusalem artichoke (Oct-Mar): Dig tubers. Stores underground through winter.
+- Dandelion (Apr-Oct): Leaves raw or cooked. Critical vitamin C after winter.
+- Sumac berries (Aug-Sep): Soak in cold water for vitamin C drink.
 
-**Blizzard Season:** November-March
-- Ground blizzards (wind-driven snow, not falling snow)
-- Whiteout conditions (0 visibility)
-- Wind chill -40°F to -60°F possible
+**FALL PRIORITY:** Collect acorns, hickory, walnuts before first frost. These are winter calories.
 
-**Severe Thunderstorms:** April-September
-- Hail (golf ball to softball size)
-- Straight-line winds (derecho) 80-100+ mph
-- Flash flooding from intense rain
+## Toxic Look-alikes
 
-**Polar Vortex:** January-February
-- Arctic air outbreaks
-- -20°F to -40°F with wind chill -50°F to -70°F
-- Frostbite in <5 minutes
+- Water hemlock: Resembles cattail shoots. DEADLY. Most poisonous plant in North America.
+- Poison hemlock: Resembles wild carrot. DEADLY.
+- False morels (Gyromitra): Resemble edible morels. TOXIC.
+- Buckeye nuts: Resemble chestnuts. TOXIC.
 
-**DIAGRAM SPEC:** Annual temperature range chart, seasonal weather threat timeline, wind chill chart.
+## Animal Resources
 
----
+**Large Game**
+- White-tailed deer: 10M+ in region. November rut (bucks less cautious). 40-100 lbs meat.
+- Wild turkey: Spring/fall seasons. 8-15 lbs meat. Challenging hunt.
+- Elk (western edge only): Limited populations.
 
-## Biomes & Terrain
+**Fish**
+- Great Lakes: Lake trout, walleye, yellow perch, Chinook/Coho salmon, whitefish.
+- Rivers: Channel/flathead catfish, bass, carp, northern pike. Trotlines most efficient.
+- Ice fishing (Dec-Mar): Perch, walleye, pike through holes. 4" ice minimum for a person.
 
-### Tallgrass Prairie (Western Midwest - Dakotas, Nebraska, Kansas)
-- **Features:** Flat to rolling, grass-dominated, few trees
-- **Vegetation:** Big bluestem (6-8 ft tall), Indian grass, switchgrass
-- **Water:** Scarce in summer, ponds/creeks dry up
-- **Advantages:** Open sight lines, easy travel
-- **Hazards:** No natural shelter, extreme sun/wind exposure, lightning target
-
-### Deciduous Forest (Eastern Midwest - Ohio, Indiana, Wisconsin)
-- **Features:** Dense hardwood forests, rolling hills
-- **Vegetation:** Oak, maple, hickory, ash, walnut
-- **Water:** Abundant (streams, springs, lakes)
-- **Advantages:** Shelter materials, game, nuts, shade
-- **Hazards:** Tick-borne diseases (Lyme), limited visibility
-
-### Great Lakes Region (Michigan, Wisconsin, Minnesota)
-- **Features:** World's largest freshwater lakes, rocky coasts, coniferous forests
-- **Vegetation:** Pine, birch, aspen, wetland plants
-- **Water:** Abundant year-round, lake-effect snow in winter
-- **Advantages:** Fishing (massive resource), cooler summers
-- **Hazards:** Lake-effect blizzards (10+ feet snow), extreme cold, isolation
-
-### River Valleys (Mississippi, Missouri, Ohio Rivers)
-- **Features:** Broad floodplains, fertile soil, meandering rivers
-- **Vegetation:** Cottonwood, willow, sycamore, marsh plants
-- **Water:** Abundant but floods regularly (spring snowmelt)
-- **Advantages:** Rich wildlife, fish, edible plants
-- **Hazards:** Flooding, mosquitoes (summer), ice jams (winter)
-
-**DIAGRAM SPEC:** Midwest biome map showing prairie, forest, Great Lakes, and major river systems.
-
----
-
-## Key Plant Resources
-
-### Edible Plants (by season)
-
-- Cattail:
-  Season: Year-round
-  Parts Used: Roots, shoots, pollen
-  Calories/lb: 800-1200
-  Preparation: Raw/cooked roots, pollen flour
-  Cross-ref: l1-cattail-guide.md
-- Oak acorns:
-  Season: Sep-Nov
-  Parts Used: Nuts
-  Calories/lb: 2000+
-  Preparation: MUST leach tannins, grind into flour
-  Cross-ref: l1-oak-acorn-processing.md
-- Wild rice:
-  Season: Aug-Sep
-  Parts Used: Grain
-  Calories/lb: 1500-1700
-  Preparation: Harvest by canoe, thresh, cook
-  Cross-ref: l2-wild-rice-guide.md
-- Dandelion:
-  Season: Apr-Oct
-  Parts Used: Leaves, roots
-  Calories/lb: 200-300
-  Preparation: Leaves raw/cooked, roots roasted
-  Cross-ref: l1-common-weeds.md
-- Sumac (staghorn):
-  Season: Aug-Sep
-  Parts Used: Berries
-  Calories/lb: Tea/drink
-  Preparation: Soak in cold water (lemonade-like)
-  Cross-ref: l1-wild-drinks.md
-- Wild plum:
-  Season: Jul-Aug
-  Parts Used: Fruit
-  Calories/lb: 300-400
-  Preparation: Eat raw, dry for storage
-  Cross-ref: l1-wild-fruits.md
-- Hickory:
-  Season: Sep-Oct
-  Parts Used: Nuts
-  Calories/lb: 2700+
-  Preparation: Crack shells, high fat content
-  Cross-ref: l1-tree-nuts.md
-- Walnuts (black):
-  Season: Sep-Oct
-  Parts Used: Nuts
-  Calories/lb: 2500+
-  Preparation: Remove husk (stains hands), crack, dry
-  Cross-ref: l1-tree-nuts.md
-- Jerusalem artichoke:
-  Season: Oct-Mar
-  Parts Used: Tubers
-  Calories/lb: 400-500
-  Preparation: Dig roots, eat raw/cooked, stores underground
-  Cross-ref: l2-root-vegetables.md
-- Burdock:
-  Season: Year-round
-  Parts Used: Root
-  Calories/lb: 400-500
-  Preparation: Peel, cook like potato
-  Cross-ref: l1-common-weeds.md
-
-**⚠️ CRITICAL:** Acorns and wild rice are STAPLE foods (high calories, stores well). Prioritize collection in fall.
-
-### Seasonal Foraging Strategy
-
-**Spring (March-May):**
-- Dandelion greens (vitamin C after winter)
-- Cattail shoots (asparagus-like)
-- Morel mushrooms (April-May, woods) - see l1-mushroom-identification.md
-- Wild onion/garlic (fields)
-
-**Summer (June-August):**
-- Berries (strawberry, raspberry, blackberry, elderberry)
-- Cattail pollen (June-July, protein/starch)
-- Wild plums, cherries
-- Dandelion (still edible but bitter)
-
-**Fall (September-November):**
-- **HARVEST SEASON:** Acorns, hickory, walnuts (critical winter calories)
-- Wild rice (August-September in Minnesota/Wisconsin)
-- Grapes (wild grape vines)
-- Sumac berries (vitamin C drink)
-- Jerusalem artichoke (dig tubers)
-
-**Winter (December-February):**
-- Jerusalem artichoke (dig under snow)
-- Cattail roots (frozen marshes)
-- Pine inner bark (emergency only)
-- Stored nuts from fall harvest
-
-### Toxic Look-alikes
-- **Water hemlock:** Looks like cattail shoots - DEADLY (most poisonous plant in North America)
-- **Poison hemlock:** Looks like wild carrot - DEADLY (killed Socrates)
-- **False morels:** Look like edible morels - TOXIC (Gyromitra species)
-- **Buckeye nuts:** Look like edible chestnuts - TOXIC
-
-**DIAGRAM SPEC:** Cattail vs water hemlock comparison, acorn processing steps, wild rice harvesting method.
-
-### Non-food Plant Uses
-- **Cottonwood bark:** Aspirin-like properties (salicin), chew inner bark for pain
-- **Willow bark:** Pain relief, fever reducer (salicin - aspirin precursor)
-- **Dogbane:** Cordage (tough fibers, Native American use)
-- **Milkweed fluff:** Insulation, fire tinder
-- **Corn husks:** Insulation, tinder, basket weaving (if near abandoned fields)
-
----
-
-## Key Animal Resources
-
-### Large Game
-
-- White-tailed deer:
-  Weight: 100-250 lbs
-  Season: Nov-Dec (firearms)
-  Habitat: Edge habitat, woods/fields
-  Hunting Notes: Most important game animal
-  Yield (lbs meat): 40-100
-- Wild turkey:
-  Weight: 10-25 lbs
-  Season: Spring (Apr-May), Fall (varies)
-  Habitat: Woods, crop edges
-  Hunting Notes: Challenging, excellent eating
-  Yield (lbs meat): 8-15
-- Bison (limited):
-  Weight: 800-2000 lbs
-  Season: PROTECTED (historical, some ranches)
-  Habitat: Prairie (rare wild populations)
-  Hunting Notes: Extinct in wild by 1900, reintroduced
-  Yield (lbs meat): 400-800
-- Elk (western edge):
-  Weight: 400-700 lbs
-  Season: Sep-Oct (limited areas)
-  Habitat: Western Dakotas, Nebraska
-  Hunting Notes: Limited range in Midwest
-  Yield (lbs meat): 200-300
-
-**White-tailed Deer:** CRITICAL RESOURCE
-- Most abundant large game (10+ million in Midwest)
-- Peak rut (mating) November (bucks less cautious)
-- Winter stressed (easier to approach but lean meat)
-- All parts usable: Meat, hide (clothing), sinew (cordage), bones (tools), antlers (tools)
-
-### Fish & Aquatic
-
-**Great Lakes (Michigan, Superior, Huron, Erie, Ontario):**
-- Lake trout:
-  Size: 5-20 lbs
-  Season: Year-round
-  Method: Deep water, ice fishing
-  Notes: Cold-water species, excellent eating
-- Walleye:
-  Size: 2-8 lbs
-  Season: Spring/fall
-  Method: Jigs, live bait
-  Notes: Night feeders, best eating
-- Yellow perch:
-  Size: 0.5-2 lbs
-  Season: Year-round
-  Method: Small jigs, worms
-  Notes: Easy to catch, abundant
-- Salmon (Chinook, Coho):
-  Size: 10-30 lbs
-  Season: Fall (spawning runs)
-  Method: Trolling, rivers
-  Notes: Introduced species, good eating
-- Whitefish:
-  Size: 2-6 lbs
-  Season: Winter (ice)
-  Method: Deep water, small baits
-  Notes: Traditional Native American food
-
-**Rivers (Mississippi, Missouri, Ohio):**
-- Catfish (channel, flathead, blue):
-  Size: 5-50 lbs
-  Season: Spring-fall
-  Method: Trotlines, juglines, cut bait
-  Notes: Bottom feeders, hardy fish
-- Bass (smallmouth, largemouth):
-  Size: 1-6 lbs
-  Season: Spring-fall
-  Method: Lures, live bait
-  Notes: Sport fish, good eating
-- Carp:
-  Size: 5-30 lbs
-  Season: Spring-fall
-  Method: Dough balls, corn
-  Notes: Invasive but edible (Asian preparation)
-- Pike (northern):
-  Size: 5-20 lbs
-  Season: Spring-fall
-  Method: Spoons, live bait
-  Notes: Aggressive predator, Y-bones in meat
-- Sturgeon:
-  Size: 20-100+ lbs
-  Season: LIMITED/PROTECTED
-  Notes: Ancient species, most protected
-
-**Ice Fishing (December-March):**
-- Drill/chop hole through ice (6-36 inches thick)
-- Fish with tip-ups (flags when fish strikes)
-- Species: Perch, walleye, pike, crappie, bluegill
-- **DANGER:** Ice thickness critical (4" minimum for person, 8-12" for vehicle)
-
-### Small Game & Birds
-- **Squirrel (fox, gray):** Abundant in oak/hickory forests, hunt Sep-Jan, 1-2 lbs meat
-- **Rabbit (cottontail, jackrabbit):** Fields and woods, hunt Sep-Feb, 1-2 lbs meat
-- **Pheasant (ring-necked):** Grasslands (introduced), hunt Oct-Dec, excellent eating
-- **Duck (mallard, teal, wood duck):** Sep-Jan, wetlands and rivers, decoy hunting
-- **Goose (Canada, snow):** Sep-Jan, fields and water, large (6-12 lbs)
-- **Grouse (ruffed):** Forests, Sep-Jan, challenging hunt, excellent meat
-
-### Dangerous Animals (see l2-regional-midwest-hazards.md)
-- **Timber rattlesnake:** Rare but present (southern regions), bluffs and rocky areas
-- **Massasauga rattlesnake:** Wetlands (Michigan, Ohio, Wisconsin), small, venomous
-- **Black bear:** Northern forests (Minnesota, Wisconsin, Michigan), avoid encounters
-- **Ticks:** Lyme disease and Rocky Mountain spotted fever (endemic)
-- **Coyotes:** Generally not dangerous to humans, but rabies risk
-
----
+**Small Game**
+- Squirrel, cottontail rabbit, pheasant, mallard/Canada goose, ruffed grouse.
+- Hunt Sep-Feb. 1-2 lbs meat each.
 
 ## Water Sources
 
-### Water Availability (Seasonal)
-
-**Spring (March-May):**
-- **Abundant:** Snowmelt, spring rains, flooding
-- **Quality:** Good (cold temperatures slow bacteria)
-- **Concern:** Agricultural runoff (fertilizers, pesticides)
-
-**Summer (June-August):**
-- **Variable:** Drought possible in western Midwest (prairie)
-- **Quality:** Moderate (warm water, algae blooms)
-- **Concern:** Stagnant ponds (bacteria), livestock contamination
-
-**Fall (September-November):**
-- **Abundant:** Rain, but decreasing
-- **Quality:** Good (cooling temperatures)
-- **Concern:** Leaf tannins (harmless but discolors water)
-
-**Winter (December-February):**
-- **Frozen:** Surface water ice-covered (12-36 inches thick)
-- **Quality:** Excellent (no bacterial growth)
-- **Concern:** Energy cost to melt ice/snow (BTU intensive)
-
-### Source Types
-
-**Rivers & Streams:**
-- Abundant in eastern/northern Midwest
-- Freeze solid in far north (Minnesota, North Dakota)
-- Flow continues under ice in larger rivers
-- **Best locations:** Fast-flowing sections (less likely to freeze completely)
-
-**Lakes & Ponds:**
-- Great Lakes never freeze completely (except shallow bays)
-- Small ponds freeze solid (ice fishing)
-- **Ice holes:** Must maintain (re-clear daily as ice reforms)
-
-**Springs:**
-- Reliable year-round (groundwater doesn't freeze)
-- Harder to locate (often in valleys, hillsides)
-- **Best winter source** (liquid water without melting ice)
-
-**Snow/Ice (Winter):**
-- 10:1 ratio (10 cups snow = 1 cup water)
-- High energy cost (melting consumes firewood/fuel)
-- Compacted snow or clear ice = more efficient than fluffy snow
-- **Never eat snow directly** (hypothermia risk, energy loss)
-
-### Purification Methods
-
-**Priority (Year-round):**
-1. **Boil:** 1 minute rolling boil (3 minutes above 5000 ft)
-2. **Filter:** 0.2-micron filter (removes bacteria, parasites, not viruses)
-3. **Chemical:** Iodine/chlorine tablets (30-60 minutes, less effective in cold)
-
-**Cold Weather Considerations:**
-- Iodine tablets ineffective below 40°F (need 60+ minutes)
-- Filters can freeze and crack (store in clothing/sleeping bag)
-- Boiling is MOST reliable (always works)
-
-**Giardia & Cryptosporidium:** Present in Midwest surface water (beaver fever)
-- Causes severe diarrhea (life-threatening if dehydrated)
-- Boiling kills both
-- Filters remove both (0.2 micron or smaller)
-- Iodine kills Giardia but NOT Cryptosporidium reliably
-
-**DIAGRAM SPEC:** Winter water access methods (ice hole, spring location), water source safety by season table.
-
----
-
-## Shelter Construction
-
-### Climate Requirements (by season)
-
-**Summer Shelter (June-August):**
-- Minimal insulation (heat is enemy)
-- Ventilation priority
-- Shade from sun
-- Mosquito protection (especially near water)
-- Storm protection (severe thunderstorms)
-
-**Winter Shelter (December-February):**
-- **MAXIMUM insulation** (survival priority)
-- Heat retention (thermal mass)
-- Wind protection (north side especially)
-- Small interior space (easier to heat)
-- Snow load capacity (roof must support 2-4 ft snow)
-- Ventilation for fire (carbon monoxide risk)
-
-### Winter Shelter Types
-
-#### Heated Cabin/Dugout (Long-term)
-```
-Design: Semi-underground or well-insulated structure
-- Walls: 12-18 inches thick (logs, sod, earth)
-- Insulation: Packed earth, hay, snow (yes, snow insulates)
-- Roof: Strong (support 4+ ft snow load = 40-60 lbs per sq ft)
-- Floor: Raised or excavated below frost line (warmer)
-- Heat source: Wood stove or stone fireplace (CRITICAL)
-- Chimney: Must draft well (avoid carbon monoxide buildup)
-- Size: Small = easier to heat (8x10 ft for 1 person)
-- Door: Double-door entry (airlock reduces heat loss)
-- Windows: Small, south-facing (sunlight), shuttered at night
-```
-
-**R-Value Target:** R-30 to R-50 (similar to modern home in Minnesota)
-
-**DIAGRAM SPEC:** Cross-section of winter dugout shelter showing insulation layers, airflow, heat source positioning.
-
-#### Quinzee (Emergency, 1-3 nights)
-```
-Design: Hollowed-out snow pile
-- Pile snow into dome (6-8 ft high, 8-10 ft diameter)
-- Wait 2-4 hours (snow compacts/hardens)
-- Hollow out interior (12-18 inch walls)
-- Ventilation hole at top (CRITICAL - CO2 buildup)
-- Entrance below sleeping platform (cold air sinks)
-- Interior temp: 20-40°F (warm compared to -20°F outside)
-```
-
-**Requirements:**
-- Enough snow (3+ ft depth)
-- Shovel or digging tool
-- 4-6 hours to build
-- Sleeping pad (insulation from ground)
-
-**Advantage:** Can be built anywhere with snow, no materials needed
-
-#### Snow Cave (Northern Minnesota, Michigan UP)
-```
-Design: Excavated into snowbank/drift
-- Find deep drift (6+ ft)
-- Tunnel horizontally into drift
-- Excavate chamber inside
-- Sleeping platform raised above entrance
-- Ventilation hole through roof
-- Block entrance with snow block (leave gap at bottom)
-```
-
-**Faster than quinzee** (1-2 hours) but requires large snowdrift.
-
-### Insulation Materials (Winter)
-
-**Best to Worst:**
-1. **Goose/duck down:** R-value 5-7 per inch (best, hard to obtain)
-2. **Dry grass/hay:** R-value 1.5-2 per inch (abundant in prairie)
-3. **Cattail fluff:** R-value 2-3 per inch (marshes)
-4. **Dry leaves:** R-value 1-2 per inch (forests, packs down over time)
-5. **Pine needles:** R-value 1-1.5 per inch (evergreen forests)
-6. **Snow:** R-value 1 per inch (counterintuitive but true - igloo principle)
-7. **Moss:** R-value 0.5-1 per inch (northern forests, holds moisture)
-
-**Critical Rule:** Must be DRY. Wet insulation = no insulation.
-
-### Summer Shelter (Simple)
-
-```
-Design: Open-air lean-to or platform
-- Framework: Branches, saplings
-- Roof: Bark, large leaves, grass thatch
-- Sides: Open (airflow) or screened (mosquitoes)
-- Floor: Elevated 6-12 inches (snakes, insects, ground moisture)
-- Location: Near water, breezy hilltop (insects reduced)
-```
-
-**Priority:** Mosquito protection > rain protection (summer rain is warm)
-
-### Tornado Shelter (Spring/Summer)
-
-```
-Design: Underground or reinforced basement
-- Below ground level (ideally)
-- Reinforced ceiling (won't collapse from debris)
-- Interior location (no windows)
-- Southwest corner of basement (traditional, tornado approach direction)
-- Supplies stored: Water, first aid, flashlight, radio
-```
-
-**Above-ground alternative:**
-- Interior bathroom or closet (small room, plumbing adds structure)
-- Lowest floor, away from exterior walls
-- Cover with mattress/cushions
-
-**DIAGRAM SPEC:** Underground root cellar design (dual-purpose food storage/tornado shelter), quinzee construction steps.
-
----
-
-## Fire Mgmt
-
-### Wood Selection (BTU & Characteristics)
-
-- Oak (red, white):
-  BTU/cord: 24-30M
-  Burn Rate: Slow
-  Coals: Excellent
-  Split Difficulty: Hard
-  Availability: Very common (east)
-- Hickory: 28-30M / Slow / Excellent / Hard / Common (east)
-- Maple (sugar, red):
-  BTU/cord: 24-27M
-  Burn Rate: Moderate
-  Coals: Very good
-  Split Difficulty: Moderate
-  Availability: Very common
-- Ash: 24-25M / Moderate / Very good / Easy / Common
-- Elm: 20-22M / Slow / Good / VERY HARD (stringy) / Common
-- Cottonwood: 13-16M / Fast / Poor / Easy / Very common (rivers)
-- Willow: 14-18M / Fast / Poor / Easy / Common (wet areas)
-- Pine/Spruce: 15-18M / Fast / Poor / Easy / Common (north)
-
-**Best all-around:** Ash (splits easy, burns hot, burns even when green)  
-**Emergency:** Cottonwood (abundant near rivers, easy to cut, but low BTU)
-
-### Winter Fire Strategy
-
-**Heat Requirements:**
-- **Space heating:** 10,000-30,000 BTU/hour (depending on shelter size, outside temp)
-- **Wood consumption:** 4-8 cords per winter (Nov-Mar, 5 months)
-- **1 cord = 128 cubic feet** (4ft x 4ft x 8ft stack)
-
-**Daily Routine (Winter):**
-```
-Morning (6 AM): Stoke fire from coals (add kindling, small splits)
-Morning (8 AM): Load fire with large splits (3-4 hours burn)
-Midday (12 PM): Reload fire
-Afternoon (4 PM): Reload fire (banking coals for night)
-Evening (8 PM): Bank fire (large splits, damper down for slow burn)
-Overnight: Fire burns down to coals (cold but safer than open flame)
-```
-
-**Banking a Fire (Overnight):**
-1. Build up large coal bed (1-2 hours before sleep)
-2. Add largest splits you have (6-8 inch diameter)
-3. Arrange tightly (reduces airflow)
-4. Damper down (reduces draft, slows burn)
-5. Result: Smoldering coals in morning (easy to restart)
-
-### Fire Safety (Winter Shelters)
-
-**Carbon Monoxide Danger:**
-- **ALWAYS have ventilation** (chimney + fresh air intake)
-- Symptoms: Headache, dizziness, nausea, confusion
-- Kills while you sleep (odorless, colorless)
-- **Prevention:** Chimney that drafts well, crack window/vent for fresh air
-
-**Chimney Fires:**
-- Creosote buildup in chimney (from softwood smoke, incomplete combustion)
-- Ignites suddenly (sounds like freight train)
-- Can spread to structure
-- **Prevention:** Burn hot fires (not smoldering), use hardwoods, clean chimney
-
-**Structure Fires:**
-- Keep flammable materials 3+ feet from stove
-- Metal or stone floor under stove
-- Check for sparks (use spark screen on fireplace)
-- Have water/snow nearby (emergency dousing)
-
-**DIAGRAM SPEC:** Fire lay for long-burn (overnight), proper chimney design and draft, wood storage and seasoning.
-
----
-
-## Seasonal Survival
-
-### Spring (March-May)
-
-**Advantages:**
-- Temperature moderating (40-70°F)
-- Days lengthening (10 → 14 hours daylight)
-- Plant growth begins (greens available)
-- Fish spawn (excellent fishing)
-- Waterfowl migration (ducks, geese)
-- Turkey season (most states)
-
-**Challenges:**
-- **TORNADO SEASON** (peak April-May)
-- Flooding from snowmelt (rivers over banks)
-- Mud everywhere (freeze/thaw cycles)
-- Ice-out on lakes (dangerous, thin ice)
-- Rapid weather changes (70°F → 30°F in 12 hours possible)
-
-**Priorities:**
-- Repair shelter from winter damage
-- Restock firewood (before summer heat)
-- Forage greens (vitamin C after winter)
-- Fish spawning runs
-- Plant garden if long-term (corn, beans, squash)
-- **Tornado awareness:** Have shelter plan, monitor weather
-
-**Tornado Drill:**
-- Identify shelter location NOW (before season)
-- Practice getting there quickly
-- Store supplies (water, first aid, radio)
-- Monitor weather daily (NOAA radio critical)
-
-### Summer (June-August)
-
-**Advantages:**
-- Long days (15+ hours daylight)
-- Warm/hot (70-90°F, no heating needed)
-- Plant foods abundant (berries, greens)
-- Fishing excellent (warm water, active fish)
-- Growing season (gardens thrive)
-- Travel easy (dry ground, no snow)
-
-**Challenges:**
-- Heat waves (100°F+ possible, especially prairie)
-- Severe thunderstorms (hail, damaging winds)
-- Flash flooding (intense rain)
-- Tornadoes (still possible into June)
-- Mosquitoes (wetlands, woods)
-- Ticks (Lyme disease, RMSF)
-- Drought possible (western Midwest)
-
-**Priorities:**
-- **Water security** (streams can dry up in drought)
-- Berry harvest (mid-summer)
-- Fishing (preserve by smoking/drying)
-- Build/improve shelter (before winter)
-- Collect insulation materials (grass, cattail)
-- **Tick checks daily** (remove within 24 hours = lower Lyme risk)
-
-### Fall (September-November)
-
-**Advantages:**
-- **HARVEST SEASON** (nuts, wild rice, game)
-- Cooling temperatures (60-70°F → 30-50°F)
-- Clear weather (beautiful season)
-- Deer hunting (November)
-- Waterfowl hunting (migration)
-- Fish active before winter
-
-**Challenges:**
-- Rapidly shortening days (14 → 9 hours)
-- First frost (kills plants, ends foraging)
-- Freezes begin (water access hardens)
-- Early blizzards possible (November)
-- Hypothermia risk (people unprepared for cold)
-
-**Priorities:**
-- **CRITICAL: Nut collection** (acorns, hickory, walnuts - winter calories)
-- Wild rice harvest (August-September, Minnesota/Wisconsin)
-- Deer hunting (late season, winter meat supply)
-- Firewood collection (MINIMUM 4 cords, more if possible)
-- Shelter winterization (insulation, chinking gaps, roof repair)
-- Smoke/dry meat (preservation for winter)
-- Move perishables to cool storage (root cellar)
-
-**Rule of thumb:** If you're not ready for winter by November 1, you're behind.
-
-### Winter (December-February)
-
-**Advantages:**
-- Ice fishing (Great Lakes, ponds - excellent protein)
-- Snow tracking (easy to find game trails)
-- Meat preservation (natural refrigeration)
-- No insects (mosquitoes, ticks gone)
-- Clear skies (when not snowing)
-
-**Challenges:**
-- **EXTREME COLD:** -20°F to -40°F possible, wind chill -60°F
-- Blizzards (whiteout, impassable for days)
-- Short days (9 hours daylight, 15 hours dark)
-- Frozen water (must melt ice/snow)
-- Limited food (no plants, game scarce)
-- Frostbite risk (exposed skin in minutes)
-- Hypothermia risk (wet = death)
-- Cabin fever (isolation, mental health)
-
-**Priorities:**
-- **FIRE MAINTENANCE:** 24/7 heat source (life or death)
-- Firewood consumption (1/2 to 1 cord per month)
-- Water access (ice holes, melting snow)
-- Food rationing (stretch fall harvest)
-- Ice fishing (critical protein source)
-- Mental health (boredom, isolation)
-- **NEVER travel in blizzard** (whiteout = disorientation = death)
-
-**Daily Routine (Winter):**
-```
-Dawn: Stoke fire, melt snow for water, eat breakfast
-Morning: Check ice fishing tip-ups, collect firewood
-Midday: Meal, fire maintenance, equipment repair
-Afternoon: Ice fishing, hunting (if clear), firewood
-Evening: Banking fire, meal, early sleep (long nights)
-```
-
-**Survival Rules:**
-- Stay dry (wet = hypothermia)
-- Keep fire going (losing fire in -20°F = potential death)
-- Ration food (spring is 3-4 months away)
-- Don't overexert (sweating = wet = hypothermia)
-- Monitor weather (blizzard = shelter in place)
-
----
-
-## Regional Hazards
-
-**Primary Killers:**
-1. **Hypothermia/cold exposure:** Winter (Dec-Feb), -40°F possible
-2. **Tornadoes:** Spring (Apr-May), EF4-EF5 possible
-3. **Blizzards:** Winter (Dec-Feb), whiteout conditions, -60°F wind chill
-4. **Flash floods:** Spring/summer (Apr-Aug), intense thunderstorms
-5. **Heat stroke:** Summer (Jul-Aug), 100°F+ heat waves
-
-**See l2-regional-midwest-hazards.md for detailed hazard protocols.**
-
----
+- Springs: Best in winter. Groundwater does not freeze. Locate in valleys and hillsides.
+- Rivers: Flow continues under ice in larger rivers. Fast sections stay unfrozen longer.
+- Snow/ice: 10:1 ratio (10 cups snow = 1 cup water). Never eat snow directly (hypothermia).
+- Giardia and Cryptosporidium are endemic. Boiling kills both and is most reliable.
+- Iodine tablets ineffective below 40°F. Use boiling in cold weather.
+
+## Shelter Priorities
+
+- Winter: Target R-30 to R-50 insulation. Small interior is easier to heat.
+- Winter builds: Double-door airlock reduces heat loss. Ventilation for fire (CO risk).
+- Quinzee (emergency): 4-6 hrs to build. Ventilation hole required. Interior stays 20-40°F.
+- Tornado: Underground preferred. Interior bathroom or closet if no basement.
+- Best insulation: down > dry grass > cattail fluff > dry leaves > pine needles > snow.
+
+## Fire
+
+- Best hardwoods: Oak, hickory, ash. 24-30M BTU/cord. Excellent coals.
+- Cottonwood (rivers): Abundant, easy to cut. Low BTU and poor coals. Emergency only.
+- Winter consumption: 4-8 cords for 5-month season (Nov-Mar).
+- Carbon monoxide risk in enclosed shelters. Chimney must draft well. Always ventilate.
+
+## Seasonal Overview
+
+**Spring (Mar-May):** Forage greens, fish spawning runs. TORNADO SEASON. Flooding.
+**Summer (Jun-Aug):** Berry harvest, fishing, shelter building. Tick checks daily.
+**Fall (Sep-Nov):** CRITICAL harvest. Nuts, wild rice, deer, waterfowl. Winterize before Nov 1.
+**Winter (Dec-Feb):** Ice fishing, fire maintenance 24/7. Never travel in blizzard.
+
+## Primary Hazards
+
+- Hypothermia/cold: Dec-Feb. -40°F possible. Wind chill to -70°F.
+- Tornadoes: Apr-May. EF4-EF5 possible. Need underground shelter.
+- Blizzards: Dec-Feb. Whiteout, -60°F wind chill. Shelter in place.
+- Flash floods: Apr-Aug from intense thunderstorms.
+- Heat stroke: Jul-Aug. 100°F+ heat waves on prairie.
 
 ## Cross-References
-- l2-regional-midwest-hazards.md (detailed hazard protocols)
-- l1-cold-weather-survival.md (hypothermia, frostbite, layering)
-- l1-tornado-safety.md (shelter, warning systems)
-- l1-blizzard-survival.md (whiteout navigation, emergency shelter)
-- l1-ice-fishing.md (techniques, safety, species)
-- l2-wild-rice-harvesting.md (traditional methods, processing)
-- l1-deer-hunting.md (tracking, field dressing, preservation)
-- l1-winter-shelter.md (construction, insulation, heating)
 
-## Authority References
-- **NOAA Storm Prediction Center:** spc.noaa.gov (tornado forecasts)
-- **National Weather Service:** weather.gov (blizzard, cold warnings)
-- **USGS Water Data:** waterdata.usgs.gov (river levels)
-- **State DNR:** Hunting/fishing regulations, wildlife data
-- **Great Lakes Water Levels:** glerl.noaa.gov
-
----
-**Document Status:** Comprehensive | **Diagrams Specified:** 7 | **Cross-refs:** 8 | **Word Count:** ~5000
+- l2-regional-midwest-hazards.md
+- l1-cold-weather-survival.md
+- l1-tornado-safety.md
+- l1-blizzard-survival.md
+- l1-ice-fishing.md

@@ -1,352 +1,136 @@
 ---
 id: l2-fishing-traps-weirs
-title: Fish Weirs & Traps ⭐⭐⭐
+title: Fish Weirs & Traps
 category: L2_food_biology
 diagram: diagrams/fish-trap-design.svg
 ---
-# Fish Weirs & Traps ⭐⭐⭐
 
-**Level:** L2 (Intermediate)  
-**Category:** Fishing & Trapping  
-**Difficulty:** Moderate (labor-intensive build)  
-**Build Time:** 2-8 hours (depending on size)  
-**Effectiveness:** EXTREMELY HIGH - passive fishing, high yield
+# Fish Weirs & Traps
 
-## Why This Is Underrated
+Fish traps are the most effective fishing method ever invented. A properly built weir catches hundreds of fish per day with zero active fishing. Set once, harvest daily, no hooks or line required.
 
-Modern people think "fishing = rod and reel or net." They forget that fish traps were the **primary fishing method** for 10,000+ years. A properly built fish weir can catch HUNDREDS of fish per day with ZERO active fishing. Native Americans caught literal TONS of salmon using weirs during spawning runs. Pacific Northwest tribes caught enough fish in 2-3 months to feed families for a year. This isn't luck - it's engineering.
-
-**The truth:** Fish traps are the most effective fishing method ever invented. They work 24/7, require no bait, never need re-casting, and catch fish while you sleep.
-
-## Historical Context
-
-- **Age:** 10,000+ years (Neolithic fish weirs found in Denmark, England, Ireland)
-- **Native Americans:** Massive weir systems on Columbia River (harvested 10-15 million salmon annually)
-- **Pacific Islands:** Stone fish traps in tidal zones (still functional after 1,000+ years)
-- **Aboriginal Australia:** Stone fish traps at Brewarrina (6,000+ years old, largest ancient structure in Australia)
-- **Medieval Europe:** Fish weirs on every major river (primary protein source)
-- **Asian rice paddies:** Integrated fish traps in paddies (dual crop system)
-
-**Scale of harvest:** Single weir on Columbia River could catch 200-500 salmon per day during peak runs (that's 6-15 TONS per month).
+Native Americans fed entire populations this way. Pacific Northwest tribes caught enough salmon in 2-3 months to feed families for a year. Fish traps are banned in most states today precisely because they work too well.
 
 ## How It Works
 
-### Basic Principle
-1. **Current guides fish:** Fish swim with current (or against during spawning)
-2. **Funnel narrows path:** V-shape directs fish into narrow opening
-3. **Easy entry:** Wide opening, fish swim in without hesitation
-4. **Difficult exit:** Narrow opening hard to find, fish trapped
-5. **Holding pen:** Fish accumulate in trap (harvest when full)
-
-**Why it works:** Fish instinctively follow edges and swim upstream. Weir exploits this behavior.
+Fish swim with current or against it during spawning. A V-shaped weir funnels fish through a narrow opening. Easy entry — fish swim in freely. Difficult exit — narrow opening is hard to find from inside. Fish accumulate in holding pen until harvested.
 
 ## Weir Types
 
-### 1. Stream/River Weir (Permanent)
-**Best for:** Salmon, trout, freshwater fish  
-**Location:** Rivers, streams with current  
-**Build time:** 4-8 hours (stone/stick construction)
+River weir (permanent):
+- Best for salmon, trout, and freshwater fish with migration runs.
+- V-shape with apex pointing upstream. Wings guide fish from both sides.
+- Build time: 4-8 hours. Catch rate: 10-500+ fish per day during spawning runs.
 
-#### Design
-- **V-shape:** Points upstream (apex faces current)
-- **Wings:** Guide fish from sides toward center opening
-- **Funnel:** Narrow entrance (12-24" wide)
-- **Holding pen:** Enclosed area behind funnel (6-12 feet diameter)
-- **Harvest door:** Removable section for extracting fish
+Tidal trap (coastal):
+- Best for saltwater fish, crabs, and eels.
+- Semicircle of stones in intertidal zone. Fish swim over walls at high tide.
+- Falling tide traps fish in pools. Harvest at low tide. Two harvests per day.
+- Build time: 3-6 hours.
 
-#### Construction Materials
-- **Traditional:** Stones (piled), wooden stakes (woven with branches)
-- **Modern:** Chicken wire, hardware cloth, PVC pipes
-- **Permanent:** Large stones (50-100 lbs), cemented if legal
-- **Semi-permanent:** Driven stakes (2-3" diameter, 4-6 feet tall)
+Basket trap (portable):
+- Best for minnows, crayfish, eels, and small fish.
+- Woven cone shape. Fish swim in through narrow funnel, cannot find exit.
+- Anchor to stream bottom. Check every 12-24 hours.
+- Build time: 2-4 hours.
 
-### 2. Tidal Trap (Coastal)
-**Best for:** Saltwater fish, crabs, eels  
-**Location:** Intertidal zone (between high and low tide)  
-**Build time:** 3-6 hours
+## River Weir Build
 
-#### Design
-- **Semicircle or horseshoe:** Opens toward low tide (fish enter at high tide)
-- **Stone walls:** Built at low tide (1-3 feet high)
-- **Trap activates twice daily:** High tide floods trap, low tide empties water (fish trapped in pools)
+Site selection:
+- Moderate current (not too fast, not too slow).
+- Knee to waist deep (easier to build, fish cannot swim over walls).
+- Rocky or gravel bottom (stones stable, stakes drive in).
+- On a known fish migration route.
 
-#### How it Works
-- High tide: Fish swim over walls into trap area
-- Falling tide: Fish follow water, can't find exit openings
-- Low tide: Fish trapped in pools, easy to harvest with net or spear
+Build steps:
+- Plan V-shape with apex pointing upstream at 30-45 degree angle.
+- Mark outline with sticks before moving any stones.
+- Start at apex (funnel entrance). Build outward along wings.
+- Stack flat stones tightly. Height: 1-2 feet above water surface.
+- Wall base width: 2-3 feet for stability against current.
+- Build enclosed holding pen behind the funnel (6-12 feet diameter).
+- Create a removable harvest section in holding pen wall (2-3 feet wide).
 
-### 3. Basket Trap (Portable)
-**Best for:** Minnows, crayfish, eels, small fish  
-**Location:** Any water (streams, ponds, lakes)  
-**Build time:** 2-4 hours
+Check and clear debris daily. Repair stone gaps promptly. Rebuild after floods.
 
-#### Design
-- **Cone shape:** Funnel entrance (fish swim in, can't find narrow exit)
-- **Material:** Woven willow, reed, bamboo, or wire mesh
-- **Size:** 18-36" long, 8-12" diameter
-- **Bait chamber:** Optional (attracts fish to enter)
-- **Anchor:** Stone weight (keeps trap submerged)
+## Basket Trap Build
 
-## River Weir
+Materials: 30-50 flexible willow, alder, or reed branches, quarter to half inch thick, 3-6 feet long.
 
-### Site Selection
-1. **Current speed:** Moderate flow (too fast = fish avoid, too slow = poor funneling)
-2. **Depth:** Knee to waist deep (easier to build, fish don't swim over)
-3. **Bottom:** Rocky or gravel (stones stable, stakes drive in)
-4. **Fish migration:** On known migration route (salmon runs, spawning paths)
-5. **Legal access:** Private property or legal fishing area
+Steps:
+- Bend two hoops: one 12 inches diameter (body), one 3-4 inches diameter (funnel entrance).
+- Lay 8-10 branches radiating from small hoop like spokes. Attach ends to large hoop. This creates the cone funnel.
+- Weave horizontal branches over and under the radial spokes. Start at the large hoop, work toward the closed end.
+- Space weaving quarter to half inch apart (sized to target fish).
+- Insert funnel cone into trap opening so narrow end points inward.
+- Create a removable plug at the closed end for harvesting.
+- Anchor with a 20-30 lb stone. Submerge 2-6 feet deep near stream bottom.
 
-### Step-by-Step Build
-
-#### 1. Plan the V-Shape
-- **Upstream point:** Apex of V faces current (30-45° angle)
-- **Wing length:** 10-30 feet per side (depends on stream width)
-- **Opening width:** 12-24" at apex (wide enough for fish, narrow enough to control)
-
-#### 2. Build Foundation
-- **Clear area:** Remove silt, mud (expose solid bottom)
-- **Mark outline:** Use sticks to mark V-shape before starting
-- **Start at apex:** Build funnel entrance first (critical component)
-
-#### 3. Construct Walls
-- **Stone selection:** Flat rocks (stack better than round)
-- **Height:** 1-2 feet above water surface (fish can't jump over)
-- **Width:** 2-3 feet at base (stability against current)
-- **Interlock stones:** Fit tightly (no large gaps for fish escape)
-
-#### 4. Build Holding Pen
-- **Location:** Behind apex opening (enclosed semicircle)
-- **Size:** 6-12 feet diameter (holds 50-100+ fish depending on species)
-- **Walls:** Same height as wings (prevents escape)
-- **Bottom:** Natural (no need to seal)
-
-#### 5. Create Harvest Door
-- **Removable section:** 2-3 feet wide (in holding pen wall)
-- **Stones marked:** So you remember which to remove
-- **Quick access:** Should take <2 minutes to open and harvest
-
-### Maintenance
-- **Check daily:** Remove debris (leaves, branches block funnel)
-- **Repair gaps:** Stones shift over time (especially spring floods)
-- **Seasonal rebuild:** Winter ice, spring floods damage traps (rebuild annually)
-
-## Basket Trap
-
-### Materials
-- **Withes:** Flexible branches (willow, alder, reed, bamboo)
-- **Diameter:** ¼-½" thickness, 3-6 feet long
-- **Quantity:** 30-50 withes for 24" trap
-
-### Step-by-Step Build
-
-#### 1. Create Frame Hoops
-- **Large hoop:** 12" diameter (trap body)
-- **Small hoop:** 3-4" diameter (funnel entrance)
-- **Method:** Bend green withe into circle, overlap ends, lash with cordage
-
-#### 2. Build Cone Entrance (Funnel)
-- **Layout:** 8-10 withes radiating from small hoop (like spokes)
-- **Attach to large hoop:** Bind ends to large hoop (creates cone shape)
-- **Angle:** 30-45° (fish swim in easily, hard to swim out)
-
-#### 3. Weave Body
-- **Horizontal withes:** Weave over-under through radial spokes
-- **Start at large hoop:** Work toward closed end
-- **Spacing:** ¼-½" gaps (depends on target fish size)
-- **Length:** 18-24" long (closed end is rounded)
-
-#### 4. Add Entrance Cone
-- **Insert funnel:** Point small hoop inward (into trap body)
-- **Secure:** Lash funnel to large hoop opening
-- **Test:** Fish should easily swim in (small opening hard to find from inside)
-
-#### 5. Create Door
-- **Cut opening:** 4-6" diameter hole in closed end
-- **Hinged or removable:** Use flexible withe as hinge, or make plug
-
-### Deployment
-- **Anchor:** Tie to stone (20-30 lbs), submerge in stream or pond
-- **Depth:** 2-6 feet (near bottom where fish feed)
-- **Bait (optional):** Bread, corn, fish guts in bait chamber (attracts fish)
-- **Check frequency:** Every 12-24 hours (fish survive in trap if ventilated)
+Check every 12-24 hours. Fish survive in trap if water flows through.
 
 ## Placement Strategy
 
-### River/Stream Placement
-- **Spawning runs:** During salmon/trout spawning season (fish MUST go upstream)
-- **Feeding areas:** Below riffles, pools (fish stage in these areas)
-- **Resting spots:** Behind boulders, log jams (fish rest, funnel them out)
+Rivers and streams:
+- During spawning runs (salmon August-November, trout March-May). Fish must go upstream.
+- Below riffles and pools where fish stage.
+- Behind boulders and log jams where fish rest.
 
-### Pond/Lake Placement
-- **Inlets/outlets:** Where water flows in or out (fish follow current)
-- **Shallow spawning beds:** Spring spawning season (bass, bluegill, perch)
-- **Weed edges:** Where vegetation meets open water (fish hide, feed here)
+Ponds and lakes:
+- At inlets and outlets where water flows in or out.
+- Along edges where vegetation meets open water.
 
-### Tidal Trap Placement
-- **Protected bays:** Avoid heavy surf (traps damaged)
-- **Rocky substrate:** Stones stable (sand/mud shift)
-- **Mid-tide zone:** Floods at mid-tide, exposes at low tide (2x daily harvest)
+Tidal traps:
+- Protected bays away from heavy surf.
+- Rocky substrate where stones stay stable.
+- Mid-tide zone: floods at mid-tide, exposes at low tide.
 
-## Fish Behavior & Timing
+## Fish Timing
 
-### Spawning Runs (Peak Productivity)
-- **Salmon:** Late summer to fall (August-November) - MASSIVE runs (100s-1000s per day)
-- **Trout:** Spring (March-May) - Moderate runs (10-50 per day)
-- **Herring:** Spring (coastal) - Huge schools (can fill trap in hours)
+Best times to check:
+- Dawn and dusk: Most active feeding periods.
+- During spawning runs: Highest volume, predictable migration.
+- Rising water: Fish move upstream, increases weir effectiveness.
 
-### Daily Patterns
-- **Dawn/Dusk:** Most active feeding (check traps at sunrise, sunset)
-- **Night:** Some species more active at night (catfish, eels)
-- **Midday:** Least active (check traps in afternoon = lowest yield)
+Cold fronts and midday: Fish less active, lower catch rates.
 
-### Weather Effects
-- **Rising water:** Fish move upstream (good for weirs)
-- **Falling water:** Fish move downstream (reposition weir)
-- **Cold fronts:** Fish less active (lower catch rates)
+## Advantages vs Rod/Reel
 
-## Advantages
+- Passive: No active fishing required. Works 24 hours a day.
+- Volume: 10-100x more fish per day.
+- No bait needed: Exploits natural fish behavior.
+- No skill required to operate once built: Set once, harvest daily.
 
-### Vs. Rod & Reel
-1. **Passive:** No active fishing required (24/7 operation)
-2. **Volume:** Catch 10-100x more fish (traps vs single line)
-3. **No bait:** Weirs need no bait (exploit fish behavior)
-4. **No skill:** Set and forget (vs casting, hooking, landing fish)
+## Legal Warning
 
-### Vs. Nets
-1. **Stationary:** No need to retrieve (fish come to trap)
-2. **Selective:** Can release undersized fish (easily)
-3. **Less effort:** Set once, harvest daily (vs casting net repeatedly)
+Most US states ban fish traps — considered too effective, depletes fish stocks.
 
-### Vs. Spearfishing
-1. **Volume:** Trap catches 10+ fish vs 1 at a time
-2. **No visibility needed:** Works in murky water (fish funnel in)
-3. **Continuous:** Works day and night (spearing requires daylight)
+Legal exceptions:
+- Alaska subsistence use (rural residents, traditional methods).
+- Tribal waters protected by treaty rights.
+- Private ponds with landowner permission.
 
-## Modern Applications
+Penalties for illegal use: Fines of 500-5000 dollars, equipment confiscation, possible jail time.
 
-### Survival Fishing
-- **Long-term protein:** Set traps once, harvest for weeks/months
-- **Low energy:** Build trap in 4-8 hours, harvest 5-10 lbs fish per day indefinitely
-- **No modern gear:** Works without hooks, line, lures
+Check state and local fishing regulations before building. Assume illegal unless confirmed legal.
 
-### Subsistence Fishing
-- **Legal in many areas:** Traditional methods protected (Alaska, tribal lands, some states)
-- **Sustainable:** Can release small fish, take only what's needed
-- **Community resource:** One weir feeds multiple families
-
-### Aquaculture
-- **Live fish transport:** Trap keeps fish alive until processing
-- **Selective breeding:** Capture specific fish for breeding programs
-
-## Legal Considerations
-
-### United States (Highly Variable)
-- **Most states BAN fish traps:** Considered too effective (depletes fish stocks)
-- **Exceptions:** Alaska (subsistence), tribal lands (treaty rights), private ponds (with owner permission)
-- **Permits rare:** Even where legal, often requires special permit
-- **Size limits:** Some states allow small traps (minnow traps) but ban large weirs
-
-### Where Traps Are Legal
-- **Alaska:** Subsistence use (rural residents, traditional methods)
-- **Tribal waters:** Treaty-protected fishing rights
-- **Private property:** Landowner permission (on private ponds, streams)
-
-### Penalties for Illegal Use
-- **Poaching charges:** Fines ($500-5,000), confiscation of fish and equipment
-- **Jail time:** Possible in egregious cases (commercial-scale illegal trapping)
-
-**CRITICAL: Check state/local fishing regulations before building fish traps. Assume ILLEGAL unless specifically permitted.**
-
-### Survival Exception
-- **Life-threatening situations:** Courts unlikely to prosecute (lost hiker, plane crash survivor)
-- **Must be genuine emergency:** Not "practice" or "I wanted fish"
+Survival exception: Courts are unlikely to prosecute genuine life-threatening emergencies. Building traps for practice does not qualify.
 
 ## Troubleshooting
 
-### Problem: Fish swim around trap
-- **Cause:** Opening too narrow, trap not on migration route, human scent
-- **Fix:** Widen entrance to 18-24", relocate to active fish path, let trap sit 24 hours (scent dissipates)
+Fish swim around trap: Opening too narrow or not on migration route. Widen entrance to 18-24 inches, relocate, let sit 24 hours for human scent to dissipate.
 
-### Problem: Fish escape from trap
-- **Cause:** Gaps in walls, fish jump over, funnel entrance too large
-- **Fix:** Fill gaps with smaller stones/sticks, raise walls 6-12", narrow funnel to 12"
+Fish escape from trap: Gaps in walls or funnel too large. Fill gaps with smaller stones, narrow funnel to 12 inches.
 
-### Problem: Trap fills with debris
-- **Cause:** Leaves, branches block entrance (especially in fall)
-- **Fix:** Check and clear daily, build upstream deflector (angles debris away)
+Trap fills with debris: Leaves block entrance, especially in fall. Check and clear daily. Build a debris deflector upstream.
 
-### Problem: Low catch rate
-- **Cause:** Wrong season, no fish in area, poor placement
-- **Fix:** Research fish spawning times, scout for fish (observe surface, check with locals), relocate trap
+Low catch rate: Wrong season or poor placement. Research local spawning times and relocate.
 
-## Safety Warnings
+## Safety
 
-### Construction Hazards
-- **Heavy stones:** 50-100 lb rocks can crush feet, hands (use proper lifting technique)
-- **Current:** Fast water can knock you down (wear life jacket, work with partner)
-- **Cold water:** Hypothermia risk (limit immersion time, warm up between work sessions)
+Heavy stones 50-100 lbs can crush feet and hands. Use proper lifting technique.
 
-### Environmental Hazards
-- **Flash floods:** Mountain streams can rise suddenly (check weather, don't build in flood season)
-- **Water quality:** Contaminated water = sick fish (avoid urban streams, industrial areas)
-- **Predators:** Bears, otters, mink attracted to trapped fish (harvest frequently)
+Fast current can knock you down. Wear a life jacket in deep or fast water and work with a partner.
 
-### Legal Hazards
-- **Poaching:** Illegal fish traps = criminal record (check laws BEFORE building)
-- **Trespassing:** Building trap on others' property = trespassing charges
+Cold water immersion: Limit time, warm up between work sessions.
 
-## Diagram Specifications
-
-### Diagram 1: River Weir Construction (Top View)
-```
-[Overhead view of V-shaped weir:]
-- V-shape pointing upstream (30-45° angle)
-- Wing walls (10-30 feet each side)
-- Funnel entrance (12-24" wide)
-- Holding pen (6-12 feet diameter)
-- Harvest door (removable section)
-- Current flow arrows (showing fish funneling)
-```
-
-### Diagram 2: Tidal Fish Trap (Before/After Tide)
-```
-[Side view and top view:]
-- High tide: Water covers walls, fish swim in
-- Low tide: Water recedes, fish trapped in pools
-- Stone wall construction (1-3 feet high)
-- Horseshoe shape (opens toward low tide)
-- Pool locations (where fish concentrate)
-```
-
-### Diagram 3: Basket Trap Design
-```
-[Cutaway view of woven basket trap:]
-- Cone funnel entrance (narrow opening inward)
-- Woven body (willow/reed weave pattern)
-- Closed end with harvest door
-- Bait chamber (optional)
-- Anchor attachment (stone weight)
-- Dimensions (18-24" long, 8-12" diameter)
-```
-
-## Sources
-
-- **Kroeber, A. L. (1925).** Handbook of the Indians of California. - Native fish weir systems (scale and efficiency)
-- **Hunn, E. S. (1990).** Nch'i-Wána, "The Big River": Mid-Columbia Indians and Their Land. - Columbia River weirs (10+ million salmon annually)
-- **Bernick, K. (1998).** "Stylistic Characteristics of Basketry Fish Traps." - Archaeological analysis of ancient traps
-- **Von Brandt, A. (2005).** Fish Catching Methods of the World. - Comprehensive global fish trap designs
-- **Historical accounts:** Lewis & Clark journals describe Celilo Falls weirs (1805) - most productive fishing site in North America
-
-## Final Notes
-
-Fish weirs are not "primitive" - they're **industrial-scale fishing**. Native Americans fed entire populations using weirs. Pacific Northwest tribes caught enough salmon in 2-3 months to last a year. Medieval Europeans relied on river weirs for protein.
-
-The reason modern laws BAN fish traps is because **they work too well**. A single weir can deplete a stream if not managed. That's not a weakness - that's proof of effectiveness.
-
-In a survival situation where you need protein without modern gear, a fish weir is your best option. Set it once, harvest for months. No hooks, no line, no skill required. Just engineering and patience.
-
-**Historical perspective:** If stone fish traps built 1,000+ years ago are STILL catching fish today, the design is proven. Build it right, and it'll feed you indefinitely.
-
----
-
-**Tags:** #fishing #traps #weirs #passive-fishing #high-yield #survival #primitive-skills #sustainable #salmon #tidal-traps #engineering #24-7-operation
+Predators attracted by trapped fish: Bears, otters, and mink will investigate. Harvest frequently and stay alert.

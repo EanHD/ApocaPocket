@@ -225,9 +225,9 @@ void loop() {
     } else {
         c = homeList(CAT_NAMES, CAT_COLORS, catCounts, NUM_CATS, gBookmarkCount);
         if (gEmergency || c == -2) { gEmergency = true; return; }
-        if (c < 0 && c >= -4) {
-            // Continue rows: -3 = resume history[0], -4 = resume history[1]
-            int hi = (-c) - 3;  // 0 or 1
+        if (c < 0 && c >= -7) {
+            // Continue rows: -3 = history[0] .. -7 = history[4]
+            int hi = (-c) - 3;  // 0..4
             if (hi < gHistoryCount) {
                 // Snapshot before addHistory shifts the array
                 char eid[MAX_EID + 1];

@@ -5,49 +5,63 @@ category: L2_food_biology
 subtopic: mushrooms
 tags:
 - puffball
+- calvatia
 - beginner
 - fall
 region_relevance:
 - temperate
 - global
-summary: Large white ball-shaped mushroom found in fields and meadows. Safe when interior
-  is uniformly white. One of the safest beginner mushrooms with a critical safety
-  check.
-steps:
-- Identify by large (10-50cm+) round white form with no visible stem, cap, or gills
-  externally.
-- 'CRITICAL: Slice in half from top to bottom.'
-- Interior MUST be uniformly pure white with no outline of a developing mushroom inside.
-- "If uniformly white: safe to eat. Slice and cook like tofu \u2014 fry, bread, or\
-  \ grill."
+confidence: high
+difficulty: intermediate
+summary: Large white ball-shaped mushroom in fields and meadows. Safe ONLY when interior is uniformly white. Must slice before eating — Amanita eggs are deadly lookalike.
 warnings:
-- 'If interior shows ANY discoloration (yellow/brown/green): too old, discard.'
-- "If interior shows outline of cap/gills: it is a young Amanita (potentially deadly)\
-  \ \u2014 DISCARD IMMEDIATELY."
-- Always slice and inspect interior before eating.
+- CRITICAL: Always slice in half vertically before eating — no exceptions.
+- If interior shows outline of cap/gills: young Amanita (potentially deadly) — DISCARD IMMEDIATELY.
+- If interior shows ANY discoloration (yellow/brown/green): too old, discard.
 related_entries:
 - l2-mushrooms-safety
 - l2-mushrooms-deadly-lookalikes
-- l2-mushrooms-chicken-of-the-woods
 sources:
+- peterson-field-guide-edible-plants
 - nama-mushroom-id
-- extension-mushroom-guides
-last_verified: '2026-02-18'
+last_verified: '2026-02-24'
 audit_status: verified
-confidence: high
-offline_assets: []
 ---
 
-## Overview
-Large white ball-shaped mushroom found in fields and meadows. Safe when interior is uniformly white. One of the safest beginner mushrooms with a critical safety check.
+## Identification
+- White round to oval ball on ground
+- Size: baseball to soccer ball (10-50cm+)
+- Smooth white outer skin
+- No stem, cap, or gills externally
+- Calvatia gigantea: largest, most common
 
-## Step-by-step
-1. Identify by large (10-50cm+) round white form with no visible stem, cap, or gills externally.
-2. CRITICAL: Slice in half from top to bottom.
-3. Interior MUST be uniformly pure white with no outline of a developing mushroom inside.
-4. If uniformly white: safe to eat. Slice and cook like tofu — fry, bread, or grill.
+## Slice Test
+- ALWAYS cut in half top to bottom
+- Interior MUST be pure solid white
+- Any yellow, purple, or discoloration = STOP
+- Outline of cap/gills inside = AMANITA EGG — DEADLY
+- Solid white throughout = true puffball only
 
-## Warnings
-- If interior shows ANY discoloration (yellow/brown/green): too old, discard.
-- If interior shows outline of cap/gills: it is a young Amanita (potentially deadly) — DISCARD IMMEDIATELY.
-- Always slice and inspect interior before eating.
+## Amanita Egg Warning
+- Young Amanita buttons look like puffballs
+- Death cap starts as white egg underground
+- Slicing reveals cap/stem/gill outline inside
+- No shortcut: every specimen must be sliced
+
+## Where to Find
+- Meadows, open fields, forest edges
+- Often in fairy rings or scattered groups
+- Late summer through fall
+
+## Harvest and Prep
+- Cut at base; take whole ball
+- Slice immediately to verify interior
+- Peel outer skin if tough
+- Slice like bread; saute slices in fat
+- Mild flavor; protein-rich
+
+## Nutritional Value
+- Protein: ~5g per 100g fresh
+- Vitamins B, C, D; calcium, potassium
+- ~40 cal per 100g
+- One of best-yield edible mushrooms by weight

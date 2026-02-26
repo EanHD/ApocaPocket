@@ -6,46 +6,65 @@ subtopic: mushrooms
 tags:
 - maitake
 - hen-of-the-woods
+- grifola
 - fall
 - oak
 region_relevance:
+- eastern-us
 - temperate
-summary: Large polypore fruiting at the base of oaks in fall. Overlapping gray-brown
-  fan-shaped caps. Excellent flavor and can produce massive fruitings (5-25kg).
-steps:
-- Identify by cluster of overlapping gray-brown fan-shaped caps with white pore surface
-  underneath, growing at base of living/dead oaks.
-- 'Spore print: white.'
-- Harvest with knife; can return to same tree annually.
-- "Clean well (harbors debris). Cook thoroughly \u2014 roast, saut\xE9, or dry."
+confidence: high
+difficulty: beginner
+summary: Large polypore at base of oaks in fall. Overlapping gray-brown fan caps with white pore surface. Excellent flavor, high medicinal value. Can produce massive fruitings.
 warnings:
-- "Berkeley's polypore (Bondarzewia berkeleyi) is a larger, tougher lookalike \u2014\
-  \ has thicker flesh and bitter taste."
+- Berkeley's polypore (Bondarzewia berkeleyi) is a larger, tougher lookalike — bitter taste.
 - Black-staining polypore (Meripilus sumstinei) bruises black.
-- Both lookalikes are not deadly but are poor eating.
+- Both lookalikes are not deadly but poor eating.
 related_entries:
 - l2-mushrooms-chicken-of-the-woods
 - l2-mushrooms-chanterelle
 - l2-mushrooms-safety
 sources:
+- peterson-field-guide-edible-plants
 - nama-mushroom-id
-- extension-mushroom-guides
-last_verified: '2026-02-18'
+last_verified: '2026-02-24'
 audit_status: verified
-confidence: high
-offline_assets: []
 ---
 
-## Overview
-Large polypore fruiting at the base of oaks in fall. Overlapping gray-brown fan-shaped caps. Excellent flavor and can produce massive fruitings (5-25kg).
+## Identification
+- Cluster of overlapping gray-brown caps
+- Each cap 2-8 in; fan-shaped, wavy
+- White to cream pore surface underneath
+- Grows at base of oak trees
+- Firm; earthy aromatic smell
+- Spore print: white
 
-## Step-by-step
-1. Identify by cluster of overlapping gray-brown fan-shaped caps with white pore surface underneath, growing at base of living/dead oaks.
-2. Spore print: white.
-3. Harvest with knife; can return to same tree annually.
-4. Clean well (harbors debris). Cook thoroughly — roast, sauté, or dry.
+## Where to Find
+- Base of large oak trees in fall
+- September-November in eastern US
+- Often returns to same tree yearly
+- Mark oak trees for annual return
 
-## Warnings
-- Berkeley's polypore (Bondarzewia berkeleyi) is a larger, tougher lookalike — has thicker flesh and bitter taste.
-- Black-staining polypore (Meripilus sumstinei) bruises black.
-- Both lookalikes are not deadly but are poor eating.
+## Confirming Identity
+- Pore surface (tiny holes), not gills
+- Gray-brown top; white underside
+- At oak base; not high on trunk
+- Many overlapping wavy caps together
+
+## Harvest and Prep
+- Cut entire cluster at base with knife
+- Leave 20% to spread spores
+- Clean well; harbors debris
+- Saute in fat; holds texture in soup
+- Dry: slice thin and dehydrate
+
+## Nutritional Value
+- Immune-modulating beta-glucans (high)
+- Iron, zinc, niacin, vitamin D
+- Protein: ~4g per 100g
+- ~31 cal per 100g; nutrient-dense
+- Blood sugar modulating properties
+
+## Lookalikes
+- Berkeley's polypore: tan, bitter, thick flesh
+- Black-staining polypore: bruises black
+- Neither is deadly; both poor eating

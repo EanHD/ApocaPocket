@@ -36,225 +36,49 @@ offline_assets: []
 ---
 
 ## Overview
-Choking occurs when an object blocks the airway, preventing breathing. The brain can be damaged in 4-6 minutes without oxygen. Death can occur in 8-10 minutes. Rapid recognition and correct technique save lives. Over 5,000 choking deaths occur yearly in the US - most are preventable.
+Brain damage: 4-6 min without oxygen. Death: 8-10 min. Over 5,000 US deaths/year — most preventable.
 
 ## Recognition
+**Mild (can breathe):** forceful cough, can speak, wheezing between coughs → encourage coughing, do NOT interfere
+**Severe (complete obstruction):** cannot speak/cough/breathe, silent or gasping, cyanosis, hands clutching throat → intervene immediately
 
-### Mild Airway Obstruction (Can Still Breathe)
-**Signs:**
-- Forceful coughing
-- Can speak/make sounds
-- Wheezing between coughs
-- Red face
-- Watering eyes
+## Adults & Children
 
-**Action:** 
-- Encourage continued coughing (most effective)
-- Do NOT interfere
-- Stay with victim, call 911 if worsens
-- Do NOT perform abdominal thrusts
+### Confirm & Call
+- Ask "Are you choking?" — nods but cannot speak = complete obstruction
+- Call 911 or send someone immediately
 
-### Severe Airway Obstruction (Cannot Breathe)
-**Universal choking sign:** Hands clutching throat
+### Heimlich Maneuver
+1. Stand behind victim; wrap arms around waist; victim leans slightly forward
+2. Make fist; place thumb side ABOVE navel, BELOW ribcage, center of abdomen
+3. Grasp fist with other hand; deliver quick inward and UPWARD thrusts
+4. Up to 5 thrusts per cycle; repeat until object expelled, victim breathes, or goes unconscious
 
-**Signs:**
-- Cannot speak, cry, or cough effectively
-- Silent or weak cough
-- Cannot breathe or gasping
-- Blue lips/face (cyanosis)
-- Panicked expression
-- Loss of consciousness (progresses rapidly)
+### If Victim Loses Consciousness
+- Lower to ground carefully; start CPR immediately (compressions first)
+- Before each rescue breath: look in mouth, remove object only if visible — NO blind finger sweeps
+- Continue until EMS arrives or object is expelled
 
-**Action:** Immediate intervention required
+## Infants (<1 Year)
+1. Face-down on forearm, head lower than chest, support head/jaw with your hand
+2. **5 back blows** — heel of hand between shoulder blades (firm blows)
+3. Flip face-up; check mouth; remove object only if clearly visible
+4. **5 chest thrusts** — 2 fingers center of chest below nipple line, 1.5" depth
+5. Alternate 5 back blows + 5 chest thrusts until expelled, crying, or unconscious
+6. If unconscious: infant CPR (30:2), check mouth before each breath cycle
 
-## Step-by-Step Treatment
+## Special Situations
+**Pregnant or obese:** chest thrusts — fist on center of breastbone, thrust straight backward
+**Self-Heimlich:** fist above navel + other hand grasps; thrust over chair back or countertop edge
+**Unconscious found:** check responsiveness, call 911, begin CPR, check mouth before giving breaths
 
-### For Conscious Adults & Children (Age 1+)
-
-#### 1. Confirm Complete Obstruction (3 seconds)
-- Ask "Are you choking?"
-- If victim nods but cannot speak = complete obstruction
-- If coughing weakly or silent = complete obstruction
-- Call 911 or send someone to call
-
-#### 2. Heimlich Maneuver (Abdominal Thrusts)
-
-**Position:**
-1. Stand behind victim
-2. Wrap arms around waist
-3. Victim should lean slightly forward
-
-**Hand placement:**
-- Make fist with one hand
-- Place thumb side of fist ABOVE navel, BELOW ribcage
-- Center of abdomen
-- Grasp fist with other hand
-
-**Thrust technique:**
-- Quick, inward and UPWARD thrust
-- Use significant force
-- Separate thrusts (not continuous pressure)
-- Aim: compress diaphragm, force air from lungs to dislodge object
-
-**Repetitions:**
-- Perform up to 5 thrusts
-- Check if object expelled after each thrust
-- Repeat cycles of 5 until:
-- Object expelled
-- Victim starts coughing/breathing
-- Victim becomes unconscious
-
-#### 3. If Victim Becomes Unconscious
-
-- Lower victim to ground (support head)
-- Call 911 if not already called
-- **Begin CPR immediately** (start with compressions)
-- Before each rescue breath cycle:
-- Look in mouth
-- Remove object if visible (only if you can see it)
-- Do NOT do blind finger sweep
-- Continue CPR until EMS arrives or object expelled
-
-### For Conscious Infants (<1 Year)
-
-**Do NOT use abdominal thrusts on infants**
-
-#### 1. Position Infant
-- Sit or kneel
-- Hold infant face-down on your forearm
-- Support head/jaw with your hand
-- Rest your forearm on your thigh
-- Infant's head lower than chest
-
-#### 2. Back Blows (5 repetitions)
-- Use heel of hand
-- Strike between shoulder blades
-- Firm blows (use significant force)
-- Complete 5 back blows
-
-#### 3. Flip and Check
-- Turn infant face-up (support head)
-- Check mouth for object
-- Remove if visible and accessible
-
-#### 4. Chest Thrusts (5 repetitions)
-- Place 2 fingers on center of chest (just below nipple line)
-- Give 5 quick downward thrusts
-- Depth: 1.5 inches (4 cm)
-- Similar to CPR compressions but slower rate
-
-#### 5. Repeat Cycle
-- Alternate 5 back blows + 5 chest thrusts
-- Check mouth after each cycle
-- Continue until:
-- Object expelled
-- Infant starts crying/coughing
-- Infant becomes unconscious
-
-#### 6. If Infant Becomes Unconscious
-- Place on firm surface
-- Call 911 if not already called
-- Begin infant CPR (30 compressions : 2 breaths)
-- Check mouth before each breath cycle
-
-### Special Situations
-
-#### Pregnant or Obese Victim
-**Use chest thrusts instead of abdominal:**
-- Position same as Heimlich (behind victim)
-- Place fist on CENTER of chest (on breastbone)
-- Between nipples, similar to CPR hand position
-- Thrust straight backward (not upward)
-- 5 thrusts, check, repeat
-
-#### Self-Heimlich (You Are Choking Alone)
-
-**Method 1 - Own fist:**
-- Make fist, place above navel
-- Grasp with other hand
-- Bend over hard surface (table, chair back)
-- Thrust inward and upward repeatedly
-
-**Method 2 - Chair/counter:**
-- Position abdomen against edge of table, countertop, or chair back
-- Press/thrust forcefully inward and upward
-- Repeat until object expelled
-
-#### Unconscious Victim Found
-- Do NOT assume choking
-- Check for responsiveness
-- Call 911
-- Begin CPR (compressions first)
-- Check mouth before giving breaths
-- If object visible, remove it
-
-## Critical Measurements
-- **Heimlich fist position:** Above navel, below ribcage
-- **Heimlich thrust direction:** Inward and upward
-- **Back blows:** Between shoulder blades, heel of hand
-- **Infant chest thrusts:** 1.5 inches (4 cm) depth
-- **Cycles:** 5 back blows + 5 chest thrusts (infants)
-- **Heimlich repetitions:** Up to 5 thrusts per cycle
+## Post-Rescue
+- Seek medical evaluation even if "feels fine" — thrusts can rupture stomach or spleen, break ribs
+- Watch for abdominal pain, difficulty swallowing, or persistent coughing
 
 ## Common Mistakes
-- ❌ Performing abdominal thrusts on mild obstruction (victim coughing effectively)
 - ❌ Blind finger sweeps (can push object deeper)
-- ❌ Thrusting too high (on ribcage - can break ribs)
-- ❌ Thrusting too low (below navel - ineffective)
-- ❌ Using abdominal thrusts on infants
-- ❌ Not calling 911 early enough
-- ❌ Stopping too soon - continue until successful or unconscious
-
-## Post-Rescue Actions
-
-**After successful object removal:**
-- Call 911 or go to emergency room
-- Abdominal thrusts can cause internal injuries:
-- Ruptured stomach
-- Ruptured spleen
-- Broken ribs
-- Internal bruising
-- Medical evaluation required even if victim "feels fine"
-- Watch for abdominal pain, difficulty swallowing, persistent coughing
-
-## Prevention (Brief)
-- Cut food into small pieces (especially for children/elderly)
-- Chew thoroughly before swallowing
-- Avoid talking/laughing with food in mouth
-- Supervise young children during meals
-- Keep small objects away from infants/toddlers
-- Avoid hard candy, nuts, grapes for children <4 years
-
-## High-Risk Foods
-**Adults:**
-- Meat (especially steak, hot dogs)
-- Hard candy
-- Nuts
-- Raw carrots
-
-**Children:**
-- Hot dogs
-- Grapes (whole)
-- Hard candy
-- Nuts
-- Popcorn
-- Chunks of meat/cheese
-- Raw vegetables
-- Chewing gum
-
-## When to Call 911
-- **Immediately** for complete airway obstruction
-- Cannot breathe, speak, or cough
-- Blue lips/face
-- Infant cannot cry
-- Victim becomes unconscious
-- Object not expelled after multiple attempts
-- **After successful removal** (victim needs medical evaluation)
-
-## Warnings
-- **Abdominal thrusts can cause internal injury** - always seek medical evaluation afterward
-- **Do NOT perform blind finger sweeps** - only remove object if clearly visible
-- **Pregnant/obese victims:** Use chest thrusts, not abdominal
-- **Infants:** Never use abdominal thrusts - only back blows and chest thrusts
-- **Partial obstruction (effective coughing):** Do NOT interfere - coughing is most effective
-- **Small object in airway but breathing:** Go to ER immediately - can shift and block airway
+- ❌ Interfering with effective coughing (mild obstruction)
+- ❌ Thrusting too high (on ribcage) or too low (below navel)
+- ❌ Abdominal thrusts on infants or pregnant women
+- ❌ Stopping too soon — continue until successful or victim is unconscious

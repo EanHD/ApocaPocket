@@ -79,7 +79,7 @@ Signal fires are the most visible long-range rescue signal — visible up to 20 
 
 **Triangle Spacing:** 75-100 ft between fires (25-30 paces)
 
-## Smoke Production Guide
+## Smoke Production
 
 **White Smoke (dark backgrounds):**
 - Fresh evergreen boughs (best)
@@ -127,7 +127,9 @@ on calm days. Dispersed smoke loses contrast.
 
 **Continue signaling until:** Rescue personnel arrive OR aircraft clearly departs (not just passing over)
 
-## See Also
-- [Fire Ignition Methods](/l1-fire-ignition-methods) — Starting fires quickly
-- [Tinder Identification](/l1-fire-tinder-identification) — Fire starting materials
-- [Wood Selection](/l1-fire-wood-selection) — Choosing fuel wood
+## What Can Go Wrong
+- Fire burns out before rescue arrives; prepare fuel for 2+ burns
+- Wrong smoke color lost in background; white on dark, black on snow
+- Wind over 15 mph disperses smoke; switch to tall flame at night
+- Fuel pile too small; prepare 2x the calculated amount
+- Response goal: visible smoke plume within 60 seconds of ignition

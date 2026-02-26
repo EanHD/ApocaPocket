@@ -42,213 +42,56 @@ offline_assets:
 ---
 
 ## Overview
-Burns are tissue damage from heat, chemicals, electricity, radiation, or friction. Immediate proper cooling reduces tissue damage depth and pain. Key priorities: stop burning process, cool appropriately, prevent infection, assess for evacuation needs.
-
-**Critical timing:** First 10-20 minutes determine outcome. Brain damage from shock/hypoxia begins in 4-6 minutes for severe burns.
+Immediate proper cooling (first 10-20 min) reduces tissue damage. Priorities: stop burning, cool, prevent infection, assess for evacuation.
 
 ## Burn Classification
 
-### By Depth
+### Depth
+- Superficial (1st): epidermis only · red, dry, no blisters · heals 3-7 days, no scarring
+- Partial-thickness (2nd): epidermis + dermis · red, wet, blistered, blanches · heals 2-3 wks, possible scarring
+- Full-thickness (3rd): all skin layers · white/brown/black, leathery, does NOT blanch, low/no pain · requires grafting
+- 4th degree: extends to muscle/bone · charred, black
 
-- Superficial (1st degree):
-  Layer Affected: Epidermis only
-  Appearance: Red, dry, no blisters
-  Pain Level: High (nerve endings intact)
-  Healing: 3-7 days, no scarring
-- Partial-Thickness (2nd degree):
-  Layer Affected: Epidermis + part of dermis
-  Appearance: Red, wet, blistered, blanches with pressure
-  Pain Level: Very high (nerve endings exposed)
-  Healing: 2-3 weeks, possible scarring
-- Full-Thickness (3rd degree):
-  Layer Affected: All skin layers + subcutaneous
-  Appearance: White/brown/black, leathery, dry, does NOT blanch
-  Pain Level: Low/none (nerves destroyed)
-  Healing: Requires grafting, severe scarring
-- 4th Degree: Extends to muscle/bone / Charred, black
+### Extent — Rule of 9s (Adults)
+Head/neck 9% · each arm 9% · chest 9% · abdomen 9% · upper back 9% · lower back 9% · each leg front 9% · each leg back 9% · genitals 1%
+**Quick estimate:** patient's palm (incl. fingers) = 1% BSA · Children: infant head = 18% (proportionally larger)
 
-### By Extent: Rule of 9s (Adults)
+## Protocol
 
-**Body Part:** % Body Surface Area (BSA)
-**Head/neck:** 9%
-**Each arm:** 9% (18% both)
-**Chest:** 9%
-**Abdomen:** 9%
-**Upper back:** 9%
-**Lower back:** 9%
-**Each leg (front):** 9% (18% both legs front)
-**Each leg (back):** 9% (18% both legs back)
-**Genitals:** 1%
+### 1. Stop the Burn (30 sec)
+- Fire: stop/drop/roll; smother flames with blanket
+- Chemical: brush off dry powder FIRST, then flush
+- Electrical: ensure power is OFF before touching victim
+- Remove clothing, jewelry, rings BEFORE swelling starts; leave clothing stuck to skin
 
-**Quick estimate:** Patient's palm (including fingers) = 1% BSA
+### 2. Cool the Burn (10-20 min)
+- Cool running water 59-77°F (15-25°C) for 10-20 min minimum
+- ❌ No ice or ice water (causes vasoconstriction, tissue damage, hypothermia)
+- Large burns >20% BSA: cool in intervals; STOP if victim shivers
+- Chemical burns: flush 20-45 min continuously; brush dry chemicals first
+- Electrical: minimal cooling — internal damage often worse than visible surface
 
-**Children:** Head is proportionally larger (18% for infant vs 9% adult)
+### 3. Assess & Cover
+- Depth, extent (Rule of 9s), location (face/hands/feet/genitals/joints = critical)
+- Circumferential burns: monitor pulses distal to burn every 30 min
+- Cover with clean non-adherent dressing or cling film; do NOT break blisters
 
-## Step-by-Step Protocol
+### 4. Pain & Hydration
+- Adults: ibuprofen 400-600 mg + acetaminophen 500-1000 mg q6-8h; elevate burned extremity
+- Burns >10% BSA: begin oral rehydration; Parkland formula: 4 mL × kg × %BSA in 24h (half in first 8h)
 
-### 1. Stop the Burning Process (First 30 seconds)
-- **Fire:** Stop, drop, and roll; smother flames with blanket
-- **Hot liquid:** Remove soaked clothing immediately (unless stuck to skin)
-- **Chemical:** Brush off dry chemical powder, then flush
-- **Electrical:** Ensure power source is OFF before touching victim
-- **Remove:** Clothing, jewelry, watches, rings BEFORE swelling starts
-
-### 2. Scene Safety and ABCs (30 seconds)
-- Ensure scene is safe
-- **Airway:** Check for inhalation injury signs (see below)
-- **Breathing:** Listen for wheezing, stridor
-- **Circulation:** Check pulse, assess for shock
-
-### 3. Assess Burn Severity (1-2 minutes)
-- **Depth:** Superficial/partial/full-thickness
-- **Extent:** Use Rule of 9s or palm method
-- **Location:** Face, hands, feet, genitals, joints are critical
-- **Circumferential:** Burns that encircle limb/chest
-
-### 4. Cool the Burn (10-20 minutes)
-**For thermal burns:**
-- Cool running water (15-25°C / 59-77°F)
-- **Duration:** 10-20 minutes minimum
-- **Do NOT use:** Ice, ice water (causes vasoconstriction, tissue damage, hypothermia)
-- **Large burns:** Cool in intervals, watch for hypothermia (shivering, confusion)
-- **Stop cooling if:** Patient shivers, burn >20% BSA (risk of hypothermia)
-
-**For chemical burns:**
-- Remove contaminated clothing (wear gloves!)
-- Flush with copious water 20-45 minutes continuously
-- For dry chemicals: Brush off first, THEN flush
-- Special chemicals (phenol, white phosphorus) may need specific neutralization
-
-**For electrical burns:**
-- Do NOT cool excessively - internal damage often worse than visible
-- Assume cardiac injury, check pulse
-
-### 5. Pain Management
-- **Remove heat:** Cooling provides significant pain relief
-- **Position:** Elevate burned extremity above heart
-- **Medication (if available):**
-- Adults: Ibuprofen 400-600mg + Acetaminophen 500-1000mg every 6-8 hours
-- Children: Ibuprofen 10mg/kg every 6-8 hours
-
-### 6. Cover and Protect (After cooling)
-- **Clean, dry, non-adherent dressing** or clean cloth
-- **Do NOT break blisters** - they protect from infection
-- Plastic wrap (cling film) is acceptable if clean
-- **Avoid:** Cotton balls, fluffy materials that shed fibers
-- Wrap loosely, do not constrict
-
-### 7. Monitor and Maintain
-- **Circulation:** Check pulses below burn every 30 minutes (circumferential burns)
-- **Shock:** Monitor heart rate, blood pressure, mental status
-- **Hydration:** For burns >10% BSA, begin oral rehydration (see l1-medical-oral-rehydration-recipe)
-- **Hypothermia:** Keep victim warm after cooling phase
-
-## Immed Evac Criteria
-
-**Evacuate immediately if ANY:**
+## When to Evacuate
 - Burns >10% BSA (adult) or >5% BSA (child)
 - Any full-thickness (3rd degree) burn
 - Burns to face, hands, feet, genitals, or major joints
-- Circumferential burns (encircling limb/chest/neck)
-- Electrical or chemical burns
-- Inhalation injury suspected
-- Age <5 or >60 years with burns >5% BSA
-- Burn + other trauma (fracture, head injury)
-- Altered mental status, signs of shock
-
-## Inhale Injury
-
-**Suspect inhalation injury if:**
-- Burned in enclosed space (house fire, car)
-- Singed nasal hairs, eyebrows, or facial hair
-- Soot in mouth, nose, or sputum
-- Hoarse voice, stridor (high-pitched breathing sound)
-- Coughing, wheezing
-- Shortness of breath
-
-**Action:** Immediate evacuation - airway swelling can be rapid and fatal
-
-## Special Burn Types
-
-### Chemical Burns
-- Continue flushing 20-45 minutes
-- Remove all contaminated clothing
-- **Strong acids/alkalis:** Can continue burning for hours
-- **Hydrofluoric acid (HF):** Extremely dangerous, requires calcium gluconate gel
-- Do not neutralize (acid with base or vice versa) - creates heat
-
-### Electrical Burns
-- Entry and exit wounds may look minor, but internal damage is severe
-- Assume cardiac dysrhythmia - check pulse, consider CPR
-- Muscle damage causes kidney risk from myoglobin release
-- Increased fluid needs
-- Mandatory evacuation
-
-### Radiation Burns (Sunburn-type)
-- Cool compresses
-- Moisturizing lotion (aloe vera)
-- NSAIDs for pain
-- Usually not urgent unless severe blistering
+- Circumferential burns; electrical or chemical burns
+- Inhalation injury suspected (singed hairs, soot, hoarse voice, stridor, enclosed-space fire)
+- Age <5 or >60 with burns >5% BSA; burn + other trauma; altered mental status or shock
 
 ## Common Mistakes
-
-- ❌ Applying ice or ice water (causes additional tissue damage)
+- ❌ Ice or ice water (causes additional tissue damage)
+- ❌ Butter, oils, toothpaste, or home remedies (traps heat, increases infection)
 - ❌ Breaking blisters (increases infection risk)
-- ❌ Applying butter, oils, toothpaste, or home remedies (traps heat, increases infection)
-- ❌ Using fluffy cotton materials (fibers stick to wound)
-- ❌ Inadequate cooling duration (<10 minutes)
-- ❌ Overcooling large burns (causes dangerous hypothermia)
-- ❌ Removing stuck clothing (leave it, cool around it)
-- ❌ Not removing jewelry before swelling
-- ❌ Underestimating electrical burns (look minor, are major)
-
-## Ongoing Care
-
-### Dressing Changes
-- Change daily or if soaked/dirty
-- Gently clean with saline or clean water
-- Do NOT scrub or remove stuck material
-- Reapply non-adherent dressing
-
-### Infection Watch
-- Increased pain, redness, swelling after day 2-3
-- Pus, foul odor
-- Fever >38.5°C (101.3°F)
-- Red streaks from wound
-
-### Fluid Requirements (Burns >10% BSA)
-**Parkland Formula (first 24 hours):**
-- 4 mL × weight (kg) × % BSA burned
-- Give half in first 8 hours, half over next 16 hours
-- Example: 70kg person with 20% burn = 4 × 70 × 20 = 5,600 mL
-- First 8 hours: 2,800 mL
-- Next 16 hours: 2,800 mL
-
-**Oral rehydration if conscious and able to drink**
-
-## Burn Severity
-
-- Minor:
-  Characteristics: Superficial, <10% BSA, no critical areas
-  Treatment: Cool, dress, monitor
-  Evacuation: Usually no
-- Moderate:
-  Characteristics: Partial-thickness 10-20% BSA, or small full-thickness
-  Treatment: Cool, dress, fluids, pain meds
-  Evacuation: Likely yes
-- Major:
-  Characteristics: >20% BSA, full-thickness >5%, face/hands/feet/genitals, circ
-  Treatment: Aggressive cooling, IV fluids, emergency evac
-  Evacuation: Always
-
-## Long-term
-- Scarring and contractures (especially across joints)
-- Physical therapy to maintain range of motion
-- Psychological trauma (especially facial burns)
-- Infection remains risk for weeks
-- Nutrition needs increased 2-3× normal for healing
-
-## When Not to Treat
-- Chemical exposure you cannot identify - evacuate without extensive washing if unsure
-- Radiation exposure from nuclear source - decontamination protocols needed
-- Extensive burns with limited resources - focus on comfort, rapid evacuation
+- ❌ Cooling <10 min (inadequate); overcooling large burns (hypothermia risk)
+- ❌ Removing stuck clothing; not removing jewelry before swelling
+- ❌ Underestimating electrical burns (minor surface, major internal damage)

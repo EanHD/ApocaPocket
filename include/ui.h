@@ -59,8 +59,7 @@ extern bool gNeedsRedraw;
 //   numCats+1     = Bookmarks
 //   numCats+2     = History
 //   -2            = Emergency
-//   -3            = Resume gHistory[0]  (Continue row)
-//   -4            = Resume gHistory[1]  (Continue row)
+//   -3..-7        = Resume gHistory[n-3]  (Continue rows 0-4)
 //   -1            = back/error
 int homeList(const char** catNames, const uint16_t* catColors,
              const int* catCounts, int numCats, int bmCount);

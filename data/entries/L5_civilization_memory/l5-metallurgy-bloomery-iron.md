@@ -3,428 +3,126 @@ id: l5-metallurgy-bloomery-iron
 title: Bloomery Iron Smelting
 category: L5_civilization_memory
 ---
+
 # Bloomery Iron Smelting
+
 **Level 5: Metallurgy & Manufacturing**
 
-## Why This Matters
-Iron smelting is **THE TECHNOLOGY THAT DEFINED CIVILIZATION** for 3,000+ years. Iron tools unlocked:
-- **Agriculture**: Iron plows → 10× farming efficiency → food surplus → population growth
-- **Construction**: Nails, hinges, tools, saws → buildings, infrastructure
-- **Manufacturing**: Axes, chisels, drills → woodworking, metalworking
-- **Warfare**: Swords, armor, arrows → security, expansion
-
-**Bronze vs Iron comparison**:
-- Bronze: Rare (requires copper + tin, not abundant), 500 HV hardness
-- Iron: **Abundant** (4th most common element in Earth's crust), 800+ HV hardness when carburized to steel
-
-**One bloomery operator can produce 50-100 lbs of iron per week** → supplies an entire village with tools that last years. **This is civilization's most important multiplier technology.**
+Iron smelting is the technology that enabled agricultural revolution, infrastructure, and tools for 3,000+ years. Iron is the 4th most common element in Earth's crust. One bloomery operator can produce 50-100 lbs of iron per week — enough to supply a village.
 
 ---
 
-## Iron ID
+## Identify Iron Ore
 
-### What Is Iron Ore?
-**Iron oxide minerals** (iron + oxygen, must be separated by smelting):
+**Common ore types**:
+- Hematite (Fe2O3): red-brown, heavy, 70% iron. Most common.
+- Magnetite (Fe3O4): black, magnetic, 72% iron. Volcanic areas, riverbeds.
+- Limonite (FeO(OH)): yellow-brown, earthy, 60% iron. Bogs and swamps.
 
-- Hematite:
-  Formula: Fe₂O₃
-  Iron Content: 70%
-  Appearance: Red/brown, heavy, rust-like
-  Location: Most common, widespread
-- Magnetite:
-  Formula: Fe₃O₄
-  Iron Content: 72%
-  Appearance: Black, magnetic
-  Location: Volcanic areas, riverbeds
-- Limonite:
-  Formula: FeO(OH)
-  Iron Content: 60%
-  Appearance: Yellow-brown, earthy
-  Location: Swamps, bogs (bog iron)
-- Siderite:
-  Formula: FeCO₃
-  Iron Content: 48%
-  Appearance: Gray-brown, crystalline
-  Location: Sedimentary deposits
+**Field tests**:
+- Color: red-brown staining on rock = hematite. Black metallic = magnetite.
+- Streak: scrape on concrete — red-brown streak confirms hematite.
+- Weight: iron ore is 2-3x heavier than normal rock.
+- Magnet: magnetite strongly attracts compass needle.
+- Roast test: heat small piece 30 min in fire — if it becomes magnetic, contains iron.
 
-### Field Tests
-
-**1. Color test**:
-- Red/brown staining on rocks → likely hematite
-- Black, metallic luster → magnetite
-- Yellow/orange crust → limonite (bog iron)
-
-**2. Streak test**:
-- Scrape rock on concrete/stone
-- **Red-brown streak** = hematite (best indicator)
-- Black streak = magnetite
-- Yellow-brown = limonite
-
-**3. Magnet test**:
-- **Magnetite**: Strongly magnetic (attracts magnet/compass needle)
-- Hematite/limonite: Weakly magnetic or not magnetic
-
-**4. Heft test**:
-- Iron ore is **HEAVY** (2-3× heavier than normal rock)
-- If it looks like rock but feels like metal → probably iron ore
-
-**5. Roasting test** (destructive):
-- Heat small piece in fire 30 minutes
-- If it becomes magnetic → contains iron
-
-### Best Locations
-- **Riverbeds**: Heavy iron ore settles (placer deposits)
-- **Outcrops**: Exposed red/brown rock layers (sedimentary iron)
-- **Bogs/swamps**: "Bog iron" (limonite) in shallow water/mud
-- **Volcanic areas**: Magnetite in black sand
-- **Hillsides**: Weathered iron-rich layers
-
-**Historical note**: Many early civilizations used **bog iron** (easy to collect, no mining needed)
+**Best locations**: riverbeds (placer deposits), bog edges (bog iron), hillside rock outcrops, volcanic black sand.
 
 ---
 
 ## Ore Preparation
 
-### 1. Crushing
-**Purpose**: Increase surface area (speeds reaction with carbon)
+**Crush**: Break to pea-sized pieces (1/4"-1/2"). Too fine blocks airflow. Too coarse = incomplete reduction.
 
-**Method**:
-- Break large chunks with hammer/sledge
-- Grind to pea-sized pieces (1/4 to 1/2 inch)
-- Too fine = blocks airflow
-- Too coarse = incomplete reduction
+**Roast** (recommended):
+1. Spread ore in 2-3" layer.
+2. Heat to red-hot (1200-1500°F) for 1-2 hours.
+3. Let cool naturally. Ore becomes reddish and lighter (water driven off).
 
-**Tools**: Hammer, grinding stone, mortar & pestle (for small batches)
-
-### 2. Roasting (Optional but Recommended)
-**Purpose**: 
-- Remove moisture (prevents steam explosions)
-- Convert carbonates/hydroxides to oxides (easier reduction)
-- Pre-heat ore (saves fuel during smelt)
-
-**Method**:
-1. Spread ore in shallow layer (2-3 inches)
-2. Heat in fire or kiln to red-hot (1200-1500°F)
-3. Hold temperature 1-2 hours
-4. Let cool naturally
-5. **Result**: Ore is reddish, lighter (water driven off)
-
-### 3. Flux (Optional for High-Silica Ores)
-**Purpose**: Flux combines with silica (sand) in ore → liquid slag (separates from iron)
-
-**Materials**:
-- **Limestone** (calcium carbonate): Most common flux
-- **Crushed shells**: Alternative source of calcium
-- **Ratio**: 5-10% of ore weight
+**Flux** (for high-silica ores): Add 5-10% limestone or crushed shells to help slag flow.
 
 ---
 
-## Bloomery Furnace
+## Furnace Construction
 
-### What Is a Bloomery?
-**Low-shaft furnace** (3-4 feet tall) that produces **spongy iron "bloom"** (not molten—iron's melting point is 2800°F, unattainable with charcoal/air blast). Carbon from charcoal reduces iron oxide to metallic iron.
+**Materials**: 50% clay + 50% sand. Add straw to reduce cracking.
 
-### Materials
+**Dimensions**: 3-4 ft tall, 10-14" internal diameter, 4-6" walls.
 
-**Furnace body**:
-- **Clay** (50%) + **Sand** (50%) → refractory mix (fire-resistant)
-- Alternative: **Fire bricks** (if available)
-- **Straw/grass**: Mixed into clay for insulation, prevents cracking
-
-**Structure**:
-- **Stone base**: Foundation (raises furnace, aids drainage)
-- **Slag tap hole**: Bottom opening (molten slag drains out)
-- **Tuyere (air inlet)**: Pipe/tube for bellows (8-12 inches above base)
-- **Chimney/top**: Open top (gases escape, ore/fuel loaded)
-
-### Dimensions (Small Bloomery)
-
-**Height**: 3-4 feet (shaft height)
-**Internal diameter**: 10-14 inches (smaller = hotter, larger = more capacity)
-**Wall thickness**: 4-6 inches (insulation, structural strength)
-**Tuyere height**: 8-12 inches above base (optimal airflow)
-
-### Construction Steps
-
-1. **Foundation**:
-- Dig pit or build stone platform (level, stable)
-- Create slag run-off channel (shallow trench)
-
-2. **Build walls**:
-- **Option A** (Clay): Form clay-sand mixture around mold (barrel, logs)
-- Dry slowly over 1-2 weeks (crack = failure)
-- Fire empty furnace gently to harden clay
-- **Option B** (Brick): Stack fire bricks with clay mortar
-- Circular interior, square exterior
-
-3. **Tuyere installation**:
-- Insert pipe (clay, stone, or iron) through wall at 45° downward angle
-- Pipe diameter: 1-2 inches (connects to bellows)
-- Seal around pipe with clay (airtight except through pipe)
-
-4. **Slag tap**:
-- Arch-shaped opening at base (4-6 inches wide, 3-4 inches tall)
-- Plug with clay before smelting (breaks through when slag ready)
-
-5. **Curing**:
-- Dry furnace 1-2 weeks (cracks = rebuild)
-- Fire gently with wood for 2-4 hours (first use)
-- Let cool, inspect for cracks, repair with clay
+**Build steps**:
+1. Stone base with slag drain channel.
+2. Build circular clay walls around mold (barrel or logs).
+3. Install tuyere (air inlet pipe) through wall at 45° downward angle, 8-12" above base.
+4. Leave slag tap opening at base — arch 4-6" wide, plug with clay before smelting.
+5. Dry 1-2 weeks. Fire gently first use. Inspect and repair cracks.
 
 ---
 
-## Bellows Air Supply
+## Bellows and Airflow
 
-**Why necessary**: Charcoal needs **forced air** to reach 2300-2500°F (temperature required for iron reduction)
+Charcoal needs forced air to reach 2300-2500°F for iron reduction.
 
-### Bellows Types
+**Box bellows**: Two hinged boards with leather sides and one-way flap valves. 2ft x 3ft boards provide adequate airflow.
 
-**1. Box bellows** (easiest):
-- Two wooden boards hinged at one end
-- Leather sides (flexible, airtight)
-- One-way valves (flap of leather): Air in when opening, air out through nozzle when closing
-- **Size**: 2 ft × 3 ft boards → adequate airflow
-
-**2. Double-action bellows**:
-- Two chambers alternate (continuous airflow)
-- More efficient, consistent blast
-
-**3. Mechanical blowers** (if available):
-- Hand-crank fan, electric blower (modern)
-- Adjust with damper (avoid too much air = oxidizes iron)
-
-### Airflow Rate
-**Target**: 20-40 CFM (cubic feet per minute) continuous
-- Too little: Temperature drops, smelt fails
-- Too much: Oxidizes iron (burns away), waste fuel
-
-**Test**: Bellows should keep charcoal **glowing white-hot** at tuyere
-
----
-
-## Bloomery Furnace
-
-```
-    [Open Top - Load ore/charcoal]
-          │  ↑ Exhaust gases
-    ╔═════╪═════╗
-    ║     │     ║  ← Refractory clay walls (4-6")
-    ║   ░░ORE░░ ║     Temperature: 1200-1500°F (top)
-    ║  ░CHARCOAL░║
-    ║ ░CHARCOAL░ ║  ← Reaction zone (2000-2300°F)
-    ║░CHARCOAL░░ ║     Fe₂O₃ + CO → Fe + CO₂
-    ║  ░░BLOOM░░ ║  ← Spongy iron bloom forming
-    ║════SLAG════║  ← Molten slag pool (1800°F)
-    ║ [TUYERE]→  ║  ← Air blast from bellows (critical)
-    ╚═══▼═══════╝
-       Slag tap (plug with clay, break when ready)
-
-Airflow Path:
-Bellows → Tuyere → Blast zone (hottest point) → 
-Combustion (C + O₂ → CO) → Rises through ore/charcoal → 
-Reduction (Fe₂O₃ + CO → Fe + CO₂) → Exhaust out top
-
-Temperature Gradient:
-- Tuyere zone: 2300-2500°F (white-hot)
-- Mid-furnace: 2000-2200°F (bright orange)
-- Upper shaft: 1200-1500°F (dull red)
-- Exhaust: 800-1000°F
-```
+**Target**: 20-40 CFM continuous. Keep charcoal glowing white-hot at tuyere.
+- Too little air: temperature drops, smelt fails.
+- Too much air: oxidizes and burns iron.
 
 ---
 
 ## Smelting Process
 
-### Materials Needed (Per Smelt)
+**Materials for 10 lbs iron output**: 20 lbs ore, 60 lbs charcoal, 2 lbs limestone flux (optional), 8-12 hours, 2 people.
 
-**For 10 lbs of iron output**:
-- **Iron ore**: 20 lbs (50% yield typical)
-- **Charcoal**: 60 lbs (3:1 charcoal:ore ratio)
-- **Flux** (optional): 2 lbs limestone
-- **Time**: 8-12 hours
-- **Labor**: 2 people (1 bellows operator, 1 furnace tender)
-
-### Step-by-Step
-
-**1. Pre-heat furnace** (1-2 hours):
-- Fill with charcoal
-- Light fire at tuyere
-- Blow bellows continuously
-- **Goal**: Entire furnace glowing red-hot, stable temperature
-
-**2. Begin charging** (layering):
-- **Layer 1**: Charcoal (fill to tuyere level)
-- **Layer 2**: Ore (handful, ~2 lbs)
-- **Layer 3**: Charcoal (cover ore)
-- **Repeat layers** every 15-20 minutes
-- **Maintain charcoal level** at top (never let it drop below halfway)
-
-**3. Slag formation** (2-4 hours in):
-- Molten slag (liquid rock, iron impurities) forms at bottom
-- **Color**: Orange-red, glassy, flows like honey
-- **Test**: Poke iron rod into slag tap hole—if flows easily, ready to drain
-
-**4. Tap slag**:
-- Break clay plug at slag tap hole (use iron rod)
-- Slag flows into collection channel/pit (avoid water—steam explosion)
-- **DO NOT drain completely** (small slag pool protects bloom)
-- Re-plug hole with clay if multiple taps needed
-
-**5. Bloom formation** (6-10 hours total):
-- **Bloom grows** at furnace bottom (above slag pool)
-- Spongy iron mass + slag + unburned charcoal
-- **Signs bloom is ready**:
-- Furnace sounds "dead" (less vigorous burning)
-- Less slag production
-- Steady charcoal consumption
-
-**6. Extraction**:
-- **Stop bellows**, let temperature drop slightly (1-2 hours)
-- **Break open furnace** (if single-use) or extract through top (if reusable design)
-- **Pull bloom**: Use iron tongs/hooks
-- Bloom is red-hot (1800-2000°F), **glowing**
-- **EXTREME BURN HAZARD**
-
-**7. Initial consolidation**:
-- Place bloom on anvil or flat stone
-- **Hammer while hot** (squeeze out slag, compact iron)
-- Bloom will spark, slag will ooze out
-- Reheat in forge as needed (stays workable longer)
+**Steps**:
+1. Pre-heat furnace 1-2 hours (blow bellows continuously until glowing red-hot throughout).
+2. Begin charging in layers: charcoal, then 2 lbs ore, then charcoal. Add new layers every 15-20 min.
+3. Maintain charcoal level at top. Never let it drop below halfway.
+4. After 2-4 hours: slag (orange-red liquid) forms at bottom. Break clay plug to drain. Re-plug with clay.
+5. After 6-10 hours: furnace sounds quieter. Less slag produced. Bloom has formed.
+6. Stop bellows. Let temperature drop 1-2 hours.
+7. Extract bloom with long tongs — it is 1800-2000°F and glowing red.
+8. Hammer immediately on flat stone to squeeze out slag.
 
 ---
 
-## Bloom to Iron
+## Bloom to Iron Bar
 
-### Step 1: Remove Slag
-- Heat bloom to yellow-hot (2000°F+) in forge
-- Hammer vigorously (flatten, fold, hammer again)
-- Slag squeezes out (looks like orange glass)
-- **Repeat 5-10 times** (each heat cycle removes more slag)
+1. Heat bloom to yellow-hot in forge.
+2. Hammer vigorously to flatten. Slag squeezes out as orange glass.
+3. Fold and reweld. Repeat 5-10 heat cycles until slag-free.
+4. Shape into bars or tool forms.
 
-### Step 2: Consolidate
-- Fold and weld bloom into solid bar
-- **Process**: Heat → hammer flat → fold over → hammer → repeat
-- Carbon from charcoal enters iron surface → **steel forms** (hardened layer)
-
-### Step 3: Shape
-- Forge into bars, rods, or rough tool shapes
-- Store for later use or forge into tools immediately
-
-**Yield**: 
-- Start: 10 lbs bloom (50% iron, 50% slag/impurities)
-- Finish: 5-7 lbs wrought iron bar
+**Yield**: 10 lbs bloom → 5-7 lbs wrought iron bar.
 
 ---
 
-## Safety Hazards
+## Safety
 
-### Molten Slag
-⚠️ **Slag is 1800-2000°F liquid rock** → severe burns, melts clothing/skin
-- Wear: Leather apron, gloves, boots, eye protection
-- Clear area around slag tap (no flammables)
-- **NEVER add water to slag** → violent steam explosion
+**Molten slag (1800-2000°F)**: wear leather apron, gloves, boots, eye protection. Clear area around slag tap. Never add water to slag — steam explosion.
 
-### Carbon Monoxide
-⚠️ **CO is odorless, lethal** (produced during smelting)
-- Operate outdoors or with excellent ventilation
-- Avoid leaning over furnace (CO concentrates at top)
-- Symptoms: Headache, dizziness, nausea → move to fresh air immediately
+**Carbon monoxide**: work outdoors or with excellent ventilation. CO is odorless and lethal. Headache or dizziness — move to fresh air immediately.
 
-### Furnace Failure
-⚠️ **Furnace collapse = molten material dump**
-- Inspect walls before each smelt (cracks = danger)
-- Keep bystanders 10+ feet away
-- Have sand nearby (smother fire/contain spills—NOT water)
+**Furnace collapse**: inspect walls before each smelt. Keep bystanders 10+ feet away. Have dry sand nearby to smother spills — not water.
 
-### Hot Bloom Extraction
-⚠️ **Bloom is 1800-2000°F when extracted** (invisible heat after stops glowing red)
-- Use long tongs (3+ feet)
-- Thick leather gloves (welding gloves ideal)
-- Clear area (drop = fire hazard)
+**Bloom extraction**: use 3+ foot tongs. Heavy leather gloves.
 
 ---
 
-## Common Mistakes
+## Common Problems
 
-- Bloom doesn't form:
-  Cause: Temperature too low
-  Solution: More airflow, better charcoal, preheat longer
-- Iron oxidizes (burns):
-  Cause: Too much air
-  Solution: Reduce bellows blast, layer ore deeper
-- Furnace won't stay hot:
-  Cause: Insufficient charcoal
-  Solution: Maintain charcoal level, use hardwood charcoal
-- Slag won't flow:
-  Cause: Too viscous (needs flux)
-  Solution: Add limestone (5-10%), higher temperature
-- Bloom is tiny/no iron:
-  Cause: Ore not reduced
-  Solution: Longer smelt time, hotter temperature, more charcoal
-- Furnace cracks:
-  Cause: Thermal shock, wet clay
-  Solution: Dry thoroughly, preheat slowly, add straw to clay
+- Bloom does not form: temperature too low — more airflow, better charcoal, preheat longer.
+- Iron oxidizes: too much air — reduce bellows blast.
+- Furnace cools fast: insufficient charcoal — maintain level, use hardwood charcoal.
+- Slag too thick to flow: add limestone flux (5-10%), increase temperature.
+- Furnace cracks: dried too fast or clay too wet — add straw, cure slowly.
 
 ---
 
-## Bloomery Iron
+## Primary Products
 
-### Tools
-- **Farming**: Plow blades, hoes, sickles, scythes
-- **Woodworking**: Axes, chisels, saw blades, drill bits
-- **Blacksmithing**: Hammers, tongs, anvils (large blooms)
-
-### Construction
-- **Nails**: Most important product (hold buildings together)
-- **Hinges**: Doors, gates, chests
-- **Brackets**: Structural supports
-- **Chains**: Heavy lifting, securing
-
-### Weapons & Defense
-- **Knives**: Utility and combat
-- **Swords**: Requires carburizing (adding carbon) → steel
-- **Armor**: Helmets, shields (rare, expensive)
-
----
-
-## Iron Age
-
-**Before iron** (Bronze Age, 3000-1200 BCE):
-- Tools: Bronze (rare, expensive)
-- Agriculture: Wooden/stone plows (inefficient)
-- Population: Limited by food production
-
-**After iron** (Iron Age, 1200 BCE-present):
-- Tools: Iron (abundant, cheap)
-- Agriculture: Iron plows → 10× efficiency → food surplus
-- Population: Explodes (more food = more people)
-
-**The multiplier effect**:
-```
-1 bloomery → 50 lbs iron/week →
-  50 tools (axes, plows, knives) →
-    500 people fed (farming efficiency) +
-    Buildings constructed (nails) +
-    Infrastructure (wheels, hinges, chains) →
-      EXPONENTIAL GROWTH
-```
-
-**Historical examples**:
-- **Hittites** (1200 BCE): First iron weapons → conquered Bronze Age civilizations
-- **Roman Empire**: Iron tools/weapons → built roads, aqueducts, conquered Europe
-- **Medieval Europe**: Iron plows → agricultural revolution → population 3× in 300 years
-
-**One bloomery operator unlocks modern civilization.**
-
----
-
-## Refs & Study
-
-- The Mastery and Uses of Fire in Antiquity by J.E. Rehder (archaeological iron smelting)
-- Iron and Steel in Ancient Times by Vagn Fabritius Buchwald (comprehensive history/techniques)
-- Experimental Iron Smelting by EXARC (modern experimental archaeology)
-- Colonial Williamsburg archives (18th-century bloomery techniques)
-
----
-
-**Next Skills**: Blacksmithing (l5-metallurgy-blacksmithing.md), Tool Making, Carburization (making steel), Cast Iron Production (higher-temp furnace)
+- Nails (most important — hold buildings together).
+- Plow blades, hoes, sickles.
+- Axes, chisels, drill bits.
+- Hinges, brackets, chains.
+- Knives (carbon content from charcoal provides hardness).

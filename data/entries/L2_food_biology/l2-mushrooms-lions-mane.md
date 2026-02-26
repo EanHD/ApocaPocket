@@ -5,44 +5,65 @@ category: L2_food_biology
 subtopic: mushrooms
 tags:
 - lions-mane
+- hericium
 - teeth
 - hardwood
 - medicinal
 region_relevance:
+- eastern-us
+- pacific-northwest
 - temperate
-- boreal
-summary: "Distinctive white globe of cascading teeth/spines growing on dead or dying\
-  \ hardwoods. No dangerous lookalikes among Hericium species \u2014 all are edible."
-steps:
-- Identify by white globe shape with long dangling spines/teeth (no cap, no gills).
-- Found on dead or wounded hardwoods (oak, beech, maple), often high up.
-- "Harvest when white and firm \u2014 yellowing indicates age."
-- "Tear into pieces and saut\xE9 in butter \u2014 has a seafood/lobster-like flavor."
+confidence: high
+difficulty: beginner
+summary: Unmistakable white globe of cascading teeth on hardwood. No dangerous lookalikes — all Hericium species are edible. Mild seafood-like flavor.
 warnings:
-- All Hericium species are edible, making this a very safe genus.
-- "Old specimens (yellow/brown) may cause GI upset \u2014 harvest fresh."
+- All Hericium species are edible; this is a very safe genus.
+- Old specimens (yellow/brown) may cause GI upset — harvest fresh only.
 related_entries:
 - l2-mushrooms-oyster
 - l2-mushrooms-hen-of-the-woods
 - l2-mushrooms-safety
 sources:
+- peterson-field-guide-edible-plants
 - nama-mushroom-id
-- extension-mushroom-guides
-last_verified: '2026-02-18'
+last_verified: '2026-02-24'
 audit_status: verified
-confidence: high
-offline_assets: []
 ---
 
-## Overview
-Distinctive white globe of cascading teeth/spines growing on dead or dying hardwoods. No dangerous lookalikes among Hericium species — all are edible.
+## Identification
+- White globular mass of cascading teeth
+- Teeth hanging downward 1/4-1 in long
+- No cap; pure white to cream
+- Grows on wounded or dead hardwood
+- Size: softball to basketball
 
-## Step-by-step
-1. Identify by white globe shape with long dangling spines/teeth (no cap, no gills).
-2. Found on dead or wounded hardwoods (oak, beech, maple), often high up.
-3. Harvest when white and firm — yellowing indicates age.
-4. Tear into pieces and sauté in butter — has a seafood/lobster-like flavor.
+## No Lookalikes
+- Nothing else looks like lion's mane
+- White cascading teeth = only Hericium
+- All Hericium species are edible
+- H. americanum, H. coralloides: all safe
 
-## Warnings
-- All Hericium species are edible, making this a very safe genus.
-- Old specimens (yellow/brown) may cause GI upset — harvest fresh.
+## Where to Find
+- Wounds in living hardwood trees
+- Dead and dying beech, oak, maple
+- Late summer through fall
+- Look 15-30 ft up on trunk wounds
+
+## Harvest and Prep
+- Cut at point where it meets tree
+- Handle gently; teeth break off easily
+- Tear into chunks; texture like crab meat
+- Squeeze out moisture before cooking
+- Saute in fat: mild seafood flavor
+
+## Freshness Check
+- Fresh: white, firm, clean smell
+- Aging: yellow-brown spots, bitter
+- Old: fully brown or pink; discard
+- Best within 3-5 days of harvest
+
+## Nutritional Value
+- Protein: ~4g per 100g fresh
+- NGF (nerve growth factor) compounds
+- Iron, zinc, selenium
+- Cognitive benefits studied clinically

@@ -203,24 +203,26 @@ void waitAny() {
 //           -2=Emergency, -1=back/error
 // ─────────────────────────────────────────────────────────────
 int homeList(const char** catNames, const uint16_t* /*catColors*/,
-             const int* /*catCounts*/, int numCats, int bmCount) {
+             const int* catCounts, int numCats, int bmCount) {
     // ── Build item list ──────────────────────────────────────────────────────
     // Slot layout (dynamic based on history):
-    //   [0..nResume-1] Continue rows  (≤2, COL_ACCENT badge)
+    //   [0..nResume-1] Continue rows  (≤5, COL_ACCENT badge)
     //   [nResume]      Emergency       (COL_WARN badge)
     //   [nResume+1 .. nResume+numCats] Categories
     //   then: Search, History, Bookmarks
 
-    static const char* items[16];
-    static uint16_t    colors[16];
-    // Buffers for "↺ Title" labels (truncated to fit one menu row)
-    static char resumeBuf[2][TITLE_DISPLAY_LEN + 4]; // "↺ " prefix + title
+    static const char* items[20];
+    static uint16_t    colors[20];
+    // Buffers for "> Title" labels (truncated to fit one menu row)
+    static char resumeBuf[5][TITLE_DISPLAY_LEN + 4];
+    // Buffers for "Category (N)" labels
+    static char catBufs[8][36];
 
     int n = 0;
     int nResume = 0;
 
-    // ── Continue rows (last 2 history entries) ────────────────────────────
-    int histShow = min((int)gHistoryCount, 2);
+    // ── Continue rows (last 5 history entries) ────────────────────────────
+    int histShow = min((int)gHistoryCount, 5);
     for (int i = 0; i < histShow; i++) {
         snprintf(resumeBuf[i], sizeof(resumeBuf[i]), "> %s", gHistory[i].title);
         items[n]  = resumeBuf[i];
@@ -232,9 +234,13 @@ int homeList(const char** catNames, const uint16_t* /*catColors*/,
     // ── Emergency ─────────────────────────────────────────────────────────
     items[n] = "Emergency";  colors[n] = COL_WARN;  n++;
 
-    // ── Categories ────────────────────────────────────────────────────────
-    for (int i = 0; i < numCats; i++) {
-        items[n] = catNames[i];  colors[n] = 0;  n++;
+    // ── Categories with entry counts ──────────────────────────────────────
+    for (int i = 0; i < numCats && i < 8; i++) {
+        if (catCounts && catCounts[i] > 0)
+            snprintf(catBufs[i], sizeof(catBufs[i]), "%s (%d)", catNames[i], catCounts[i]);
+        else
+            snprintf(catBufs[i], sizeof(catBufs[i]), "%s", catNames[i]);
+        items[n] = catBufs[i];  colors[n] = 0;  n++;
     }
 
     // ── Utility items ─────────────────────────────────────────────────────
@@ -324,6 +330,16 @@ void splash() {
     snprintf(buf, sizeof(buf), "%d entries loaded", gIndex.count());
     screen.centerText(buf, CY + DISP_H / 2 + 4, COL_SEC);
     delay(1500);
+
+    // Screen 3 — controls hint (2s auto-advance, shown once at boot)
+    screen.fillArea(CX, CY, CW, CH, COL_BG);
+    screen.centerText("Quick Controls", CY + DISP_H / 2 - 60, COL_TER);
+    screen.centerText("UP+DN : Emergency", CY + DISP_H / 2 - 36, COL_WARN);
+    screen.centerText("LEFT  : Back",      CY + DISP_H / 2 - 12, COL_SEC);
+    screen.centerText("RIGHT : Next/Fwd",  CY + DISP_H / 2 + 12, COL_SEC);
+    screen.centerText("OK    : Select",    CY + DISP_H / 2 + 36, COL_SEC);
+    screen.centerText("OK hold : Options", CY + DISP_H / 2 + 60, COL_TER);
+    delay(2000);
     // Auto-proceed to main menu — no button press required
 }
 
@@ -689,8 +705,21 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
                     cardIdx++;
                     break;
                 }
-                // ── Last card: show "See Also" if related entries exist ──────
-                // Find up to 4 entries in the same subfolder (same folderIdx)
+                // Last card: clean return to entry list (no popup)
+                delete[] entryLines;
+                return;
+            }
+
+            // OK tap: quick bookmark toggle with header feedback
+            if (btnOk.tapped()) {
+                bookmarked = toggleBookmark(eid);
+                screen.topStripDots(hdr, true, cardIdx, cardCount, bookmarked);
+                break;
+            }
+
+            // OK long-press: context menu (bookmark / diagram / see also / close)
+            if (btnOk.held()) {
+                // Pre-scan for related entries (same subfolder, max 4)
                 static uint16_t rel[4];
                 int rc = 0;
                 for (uint16_t ri = 0; ri < gIndex.count() && rc < 4; ri++) {
@@ -700,29 +729,50 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
                         if (strcmp(rid, eid) != 0) rel[rc++] = ri;
                     }
                 }
+
+                const char* ctxItems[5];
+                int ctxCount = 0;
+                int idxBookmark = -1, idxDiagram = -1, idxSeeAlso = -1, idxClose = -1;
+
+                idxBookmark = ctxCount++;
+                ctxItems[idxBookmark] = bookmarked ? "Remove Bookmark" : "Add Bookmark";
+                // Re-view diagram (quick access even from text cards)
+                if (diagramAvail) {
+                    idxDiagram = ctxCount++;
+                    ctxItems[idxDiagram] = "View Diagram";
+                }
+                // See Also: related entries in same subfolder
                 if (rc > 0) {
+                    idxSeeAlso = ctxCount++;
+                    ctxItems[idxSeeAlso] = "See Also";
+                }
+                idxClose = ctxCount++;
+                ctxItems[idxClose] = "Close";
+
+                int ctx = menu("Options", ctxItems, ctxCount);
+                if (ctx == idxBookmark) {
+                    bookmarked = toggleBookmark(eid);
+                } else if (diagramAvail && ctx == idxDiagram) {
+                    showDiagram(diagEid[0] ? diagEid : eid, hdr);
+                } else if (rc > 0 && ctx == idxSeeAlso) {
                     static const char* relPtrs[4];
                     for (int ri = 0; ri < rc; ri++) relPtrs[ri] = gIndex.title(rel[ri]);
                     int rs = menu("See Also", relPtrs, rc);
                     if (rs >= 0 && !gGoHome && !gEmergency) {
                         char reid[MAX_EID + 1];
                         gIndex.readEid(rel[rs], reid, sizeof(reid));
-                        uint8_t rfi   = gIndex.folderIdx(rel[rs]);
+                        uint8_t rfi    = gIndex.folderIdx(rel[rs]);
                         const char* rt = gIndex.title(rel[rs]);
                         addHistory(reid, rfi, rt);
                         delete[] entryLines;
                         showCardEntry(reid, rfi, rt, 0);
                         return;
                     }
-                    prevCard = -1;  // redraw after menu exits
-                    break;
                 }
-                // No related entries: wrap to first card
-                cardIdx = 0;
+
+                prevCard = -1;  // force full redraw
                 break;
             }
-
-            // Scroll within card (only if scrollable)
             if (cur.scrollable) {
                 if (btnUp.tapped() || btnUp.repeating()) {
                     if (scroll > 0) { scroll--; break; }
@@ -734,33 +784,6 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
                 // On non-scrollable cards UP/DOWN also flips cards (feels natural)
                 if (btnUp.tapped())  { cardIdx = (cardIdx - 1 + cardCount) % cardCount; break; }
                 if (btnDn.tapped())  { cardIdx = (cardIdx + 1) % cardCount;             break; }
-            }
-
-            // OK long-press: context menu (bookmark / close)
-            // Note: diagrams are now card 0 — no menu item needed
-            if (btnOk.held()) {
-                const char* ctxItems[3];
-                int ctxCount = 0;
-                int idxBookmark = -1, idxDiagram = -1, idxClose = -1;
-
-                idxBookmark = ctxCount++;
-                ctxItems[idxBookmark] = bookmarked ? "Remove Bookmark" : "Add Bookmark";
-                // Re-view diagram (quick access even from text cards)
-                if (diagramAvail) {
-                    idxDiagram = ctxCount++;
-                    ctxItems[idxDiagram] = "View Diagram";
-                }
-                idxClose = ctxCount++;
-                ctxItems[idxClose] = "Close";
-
-                int ctx = menu("Options", ctxItems, ctxCount);
-                if (ctx == idxBookmark)
-                    bookmarked = toggleBookmark(eid);
-                else if (diagramAvail && ctx == idxDiagram)
-                    showDiagram(diagEid[0] ? diagEid : eid, hdr);
-
-                prevCard = -1;  // force full redraw
-                break;
             }
         }
     }

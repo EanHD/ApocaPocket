@@ -12,371 +12,137 @@ related: [l2-hunting-game-preservation-alaska, l2-hunting-butchering-improvised,
 
 # Large Game Field Dressing
 
-**⏱️ TIME CRITICAL**: Field dressing must begin within 30 minutes of kill to preserve meat quality and prevent spoilage. In warm weather (>50°F), every minute counts.
-
----
+Field dressing must begin within 30 minutes of kill. In warm weather over 50 degrees F, every minute counts.
 
 ## Why Dress Now
 
-**Reasons:**
-1. **Heat buildup**: Internal organs generate heat (100-105°F), spoiling meat from inside
-2. **Bacterial growth**: Intestines contain billions of bacteria that spread rapidly after death
-3. **Contamination risk**: Punctured organs (bladder, intestines) ruin surrounding meat
-4. **Meat quality**: Delayed gutting = gamey taste, discoloration, toughness
-5. **Weight**: Removing organs reduces weight by 20-30% (critical for packing out)
+Organs generate 100-105 degrees of internal heat and spoil meat from inside. Intestinal bacteria spread instantly after death. Delayed gutting causes gamey taste, discoloration, and toughness. Removing organs reduces pack weight 20-30%.
 
-**Timeline:**
-- 0-30 minutes: Optimal (meat stays clean, minimal heat buildup)
-- 30-60 minutes: Acceptable (slight quality loss)
-- 60-120 minutes: Poor (noticeable degradation, especially in warm weather)
-- 120+ minutes: Significant spoilage risk
+Timeline:
+- 0-30 min: Optimal.
+- 30-60 min: Acceptable, slight quality loss.
+- 60-120 min: Noticeable degradation.
+- 120+ min: Significant spoilage risk.
 
----
+## Tools
 
-## 🔪 Tools Needed
+Essential:
+- Sharp fixed-blade knife, 4-6 inch. Dull knife tears organs and causes contamination.
+- Bone saw or hatchet for splitting pelvis or sternum on moose-sized animals.
+- 20+ feet of rope for positioning.
+- Breathable game bags to protect meat from flies.
+- Latex or nitrile gloves.
 
-### Essential:
-- **Sharp knife**: Fixed blade, 4-6 inch (primary tool)
-- **Bone saw or hatchet**: For splitting pelvis/sternum (moose)
-- **Rope or cordage**: 20+ feet (for positioning/dragging)
-- **Game bags**: Breathable cloth (protect from flies)
-- **Latex/nitrile gloves**: Sanitation (optional but recommended)
+## Positioning
 
-### Nice to Have:
-- Second knife (backup, or one person on each side)
-- Gambrel or meat hook (hanging animal)
-- Sharpening stone (maintain edge)
-- Tarp or plastic sheet (ground protection, meat transport)
+Position animal on its back, head uphill. Spread hind legs wide. Tie legs to stakes or trees.
 
-**⚠️ Knife sharpness is critical**: Dull knife = torn organs = contamination
+Confirm animal is dead before approaching. Approach from the rear, not from the antler side.
 
----
+## Opening Cut
 
-## Field Dressing
+- Pinch skin between two fingers near base of sternum. Make a 1-2 inch cut.
+- Insert two fingers into opening to lift skin away from organs.
+- Knife blade faces UP, cutting from inside out to avoid puncturing organs.
+- Slice toward pelvis. Cut around genitals, not through them.
+- Continue to anus.
+- From sternum, cut toward throat to expose chest cavity.
 
-### Step 1: Positioning (5-10 minutes)
+Critical: Shallow cuts only. Puncturing intestines equals fecal contamination of all surrounding meat.
 
-**For Moose/Caribou/Deer:**
-1. Position animal on back, head uphill if possible (gravity helps drainage)
-2. Spread hind legs apart (use rope around legs, tie to trees/stakes)
-3. If ground is wet/dirty, place tarp underneath or use logs to elevate chest
+## Organ Removal
 
-**Safety Note**: Ensure animal is dead (check eye reflex, breathing). Approach from rear, not from antler side.
+Chest cavity:
+- Cut diaphragm (thin muscle separating chest from abdomen).
+- Reach into chest. Cut windpipe and esophagus as high as possible.
+- Pull down firmly. Heart and lungs come out together.
+- Set heart and liver aside for eating. Check for shot damage.
 
-### Step 2: Initial Cuts (5 minutes)
+Abdominal cavity:
+- Do NOT cut into intestines or stomach.
+- Roll intestines out of body cavity. They are held loosely by membrane.
+- Cut membrane attachments with small careful cuts.
+- Work front to back, rolling entire mass out.
+- Circle-cut around anus and pull rectum through pelvis.
 
-**The Opening Cut:**
-1. Locate base of sternum (breastbone) and pelvis
-2. Pinch skin between two fingers, make small cut (1-2 inches)
-3. Insert two fingers into opening, lift skin away from organs
-4. Knife blade facing UP (cutting from inside out), slice toward pelvis
-5. Stop at genitals, cut around (not through) penis or udder
-6. Continue to anus
+Bladder (do not puncture):
+- Locate bladder in lower abdomen near pelvis.
+- Cut connective tissue carefully around it.
+- Pull out gently. Tie off urethra or pinch closed if full.
+- If punctured: rinse affected meat with clean water immediately.
 
-**Critical**: Shallow cuts only. Puncturing intestines = fecal contamination.
+## Cooling
 
-**From sternum toward neck:**
-1. Same technique (fingers lifting skin, blade up)
-2. Cut to base of throat (esophagus/windpipe)
-3. Total opening: Neck to pelvis
+Target: Meat below 40 degrees F within 2-4 hours.
 
-### Step 3: Removing Organs (30-45 minutes)
+Methods:
+- Prop chest cavity open with a stick for airflow.
+- Hang the animal if possible.
+- Move to shade immediately.
+- Quarter large animals immediately for faster cooling.
+- Cover with game bags once cooled.
 
-**Chest Cavity (Heart & Lungs):**
-1. Cut diaphragm (thin muscle separating chest from abdomen)
-2. Reach up into chest, cut windpipe and esophagus (as high as possible)
-3. Pull down firmly, heart/lungs come out together
-4. Set aside (heart and liver are edible, check for shot damage)
+Place hand deep in cavity after 2-4 hours. Should feel cool. If still warm, cooling is too slow.
 
-**Abdominal Cavity (Intestines & Stomach):**
-1. **CRITICAL**: Do NOT cut into intestines or stomach
-2. Roll intestines/stomach OUT of body cavity (they're held loosely by membrane)
-3. Cut membrane attachments carefully (small cuts, pull away from organs)
-4. Work from front to back, rolling entire mass out
-5. Cut around anus (circle cut), pull rectum through pelvis
+## Quartering
 
-**For Moose (Extra Large):**
-- May need to split sternum with saw (access chest cavity easier)
-- May need to split pelvis (access anus/rectum)
-- Consider quartering before removing all organs (too heavy otherwise)
+Quarter moose or elk when too large to drag, pack-out is over 0.5 miles, or weather is warm.
 
-### Step 4: Bladder & Genitals (5 minutes)
+Four main sections:
+- Front quarters (2): Shoulder and front leg assembly.
+- Hind quarters (2): Hip and rear leg assembly.
+- Backstraps (2): Long muscles along spine. Prime cuts.
+- Tenderloins (2): Inside cavity below spine. Harvest first.
 
-**CRITICAL**: Bladder must be removed without puncturing
+Steps:
+- Remove front legs (no bone connection, just muscle and tissue).
+- Remove backstraps by cutting along spine, 2-3 foot strips.
+- Remove tenderloins from inside cavity.
+- Remove hind quarters by cutting through hip joint or sawing pelvis.
+- Wrap each section in a game bag.
 
-1. Locate bladder (lower abdomen, near pelvis)
-2. Carefully cut connective tissue around it
-3. Gently pull out, keeping tension (prevents spilling)
-4. If full, pinch urethra closed or tie with string
-5. Cut free and discard (or set far aside)
-
-**If you puncture bladder**: Rinse affected meat with clean water immediately
-
-### Step 5: Final Cleaning (10 minutes)
-
-1. Remove any remaining organs, fat, or connective tissue
-2. Wipe cavity with clean cloth or dry grass (absorb blood)
-3. Inspect for bullet/arrow damage (trim contaminated meat)
-4. Prop chest cavity open with stick (airflow for cooling)
-
-**Do NOT rinse with water** unless absolutely necessary (bacteria growth)
-
----
-
-## Cool Meat
-
-**Target**: Get meat below 40°F within 2-4 hours
-
-**Methods:**
-1. **Prop open**: Stick in chest cavity (airflow)
-2. **Hang if possible**: Head-up or head-down, spreads cavity open
-3. **Shade**: Move to shaded area, avoid direct sun
-4. **Quarter immediately**: (See below) - Increases cooling surface area
-5. **Game bags**: Once cooled slightly, protect from flies
-
-**Temperature Check (No Thermometer):**
-- Place hand deep inside cavity
-- Should feel cool to touch within 2-4 hours
-- If still warm after 4 hours, cooling is too slow (risk of spoilage)
-
----
-
-## Qtrng
-
-**When to Quarter:**
-- Animal too large to drag whole (moose, elk)
-- Long distance to camp (>0.5 miles)
-- Multiple trips required
-- Warm weather (faster cooling)
-
-### Quartering Cuts
-
-**Four Main Quarters:**
-1. **Front quarters** (2): Shoulder/front leg assembly
-2. **Hind quarters** (2): Hip/rear leg assembly
-3. **Backstraps** (2): Long muscles along spine (prime cuts)
-4. **Tenderloins** (2): Inside body cavity, below spine
-5. **Neck meat**: Strip from neck bones
-6. **Rib meat**: Optional, if time permits
-
-**Steps:**
-1. Remove front legs (no bone connection to body, just muscle/tissue)
-2. Remove backstraps (cut along spine, 2-3 feet long strips)
-3. Remove tenderloins (inside cavity, already exposed)
-4. Remove hind quarters (cut through hip joint or saw pelvis)
-5. Wrap each quarter in game bag
-
-**Estimated Weights:**
-
-- Moose: 400-600 lbs / 50-75 lbs / 8-12 trips
-- Caribou: 100-200 lbs / 25-50 lbs / 2-4 trips
-- Deer: 40-80 lbs / 10-20 lbs / 1-2 trips
-
----
-
-## ⚠️ Common Mistakes
-
-### ❌ Puncturing Intestines/Stomach
-**Result**: Fecal matter and stomach acid contaminate meat  
-**Prevention**: Shallow cuts, lift organs away before cutting  
-**Fix**: Rinse affected area with clean water, trim if heavily contaminated
-
-### ❌ Cutting Through Bladder
-**Result**: Urine on meat (strong taste, bacterial growth)  
-**Prevention**: Careful bladder removal, tie off urethra if full  
-**Fix**: Rinse immediately, trim affected areas
-
-### ❌ Leaving Animal on Ground Too Long
-**Result**: Bottom side spoils, contaminated by dirt/moisture  
-**Prevention**: Hang or elevate as soon as possible  
-**Fix**: Trim dirty exterior, wash with clean water if needed
-
-### ❌ Not Cooling Fast Enough
-**Result**: Internal heat spoils deep meat (even if surface feels cool)  
-**Prevention**: Quarter large animals immediately, prop open cavity  
-**Fix**: If spoilage detected (smell, color), trim aggressively
-
-### ❌ Cutting Into Gallbladder
-**Result**: Bitter bile ruins liver and surrounding meat  
-**Prevention**: Gallbladder is on liver (small greenish sac), cut around it carefully  
-**Fix**: Rinse affected liver, discard if heavily contaminated
-
----
+Approximate trips out: Moose 8-12, caribou 2-4, deer 1-2.
 
 ## Bear Safety
 
-**Field dressing attracts predators** (smell of blood, organs)
+Field dressing attracts predators. Blood and organ smell carries far.
 
-### Before Starting:
-- Survey area (360°, look for bears, fresh sign)
-- Work with partner if possible (one dresses, one watches)
-- Keep firearm loaded and accessible
-- Make noise periodically (announce your presence)
+Before starting: Survey 360 degrees for bears. Keep firearm loaded and accessible. Work with a partner if possible.
 
-### During Work:
-- Stay alert (look up every 2-3 minutes)
-- Have bear spray within arm's reach
-- Work quickly but carefully
-- Avoid headphones/distractions
+During work: Look up every 2-3 minutes. Keep bear spray within reach. Work quickly.
 
-### After Completion:
-- Move organs 50+ yards downwind from carcass
-- If leaving carcass overnight: hang quarters 15 feet high (or gut pile will attract bears to carcass)
-- Return with caution (bears claim carcasses as their own)
+After completion:
+- Move gut pile 50+ yards downwind from carcass.
+- If leaving overnight, hang quarters at least 15 feet high.
+- Return to carcass with caution. Bears claim carcasses as their own.
 
-**If bear approaches:**
-- Stop work immediately
-- Back away slowly (don't run)
-- Speak calmly and firmly
-- If bear becomes aggressive, use spray or firearm
-- **Abandon carcass if necessary** (your life > the meat)
+If a bear approaches: Stop work. Back away slowly. Do not run. Speak calmly. Use spray or firearm if it charges. Abandon carcass if necessary. Your life outweighs the meat.
 
----
+## Common Mistakes
 
-## Time Est
+- Puncturing intestines: Use shallow cuts. Lift skin before cutting.
+- Cutting through bladder: Remove carefully. Tie off urethra if full.
+- Not cooling fast enough: Quarter large animals immediately. Open cavity wide.
+- Cutting into gallbladder (small green sac on liver): Bitter bile ruins surrounding meat.
+- Leaving animal on wet ground: Elevate or hang as soon as possible.
 
-- Deer: 20-30 minutes / 15-20 minutes / 35-50 minutes
-- Caribou: 30-45 minutes / 25-35 minutes / 55-80 minutes
-- Moose:
-  Field Dress (Gut): 60-90 minutes
-  Quartering: 45-75 minutes
-  105-165 minutes (1.75-2.75 hours)
+## Quick Checklist
 
-**Variables**: Experience, tool quality, ground conditions, bear pressure
+Before starting:
+- Animal confirmed dead.
+- Area surveyed for predators.
+- Knife is sharp.
+- Firearm accessible.
 
-**Team of 2**: Reduces time by ~30-40%
+During:
+- Opening cut made from sternum to pelvis.
+- All organs removed from chest and abdomen.
+- Bladder removed intact.
+- Anus cut free.
+- No fecal or urine contamination detected.
 
----
-
-## Sanitation
-
-### Preventing Contamination:
-
-**Clean knife:**
-- Wipe blade frequently (blood carries bacteria)
-- Sharpen as needed (clean cuts, not tears)
-- Rinse if contacted fecal matter
-
-**Clean hands:**
-- Wear gloves if available
-- Rinse hands after touching organs
-- Keep one hand clean (for handling meat)
-
-**Avoid cross-contamination:**
-- Don't place edible organs (heart, liver) on dirty ground
-- Use separate bags for different cuts
-- Mark damaged/questionable meat (inspect later)
-
-### Inspecting Organs (Disease Check):
-
-**Healthy organs:**
-- Liver: Deep red, smooth surface, firm texture
-- Lungs: Pink to red, spongy, no spots
-- Heart: Red, firm, no discoloration
-- Kidneys: Dark red, firm
-
-**Signs of disease (DISCARD ANIMAL):**
-- White spots or cysts (parasites)
-- Abscesses (pus-filled lumps)
-- Discolored or swollen organs
-- Foul odor (not just blood smell)
-
-**When in doubt**: Contact wildlife agency (Alaska Dept of Fish & Game) or discard meat
-
----
-
-## Field Dress
-
-### Hot Weather (60°F+)
-- **Priority**: Speed and cooling (race against spoilage)
-- Quarter immediately (don't wait)
-- Hang in shade with airflow
-- Consider stream cooling or snow if available
-- Start preservation process within 2-4 hours
-
-### Cold Weather (Below 40°F)
-- **Advantage**: Natural refrigeration
-- Can hang whole animal for several days
-- Less urgency for preservation
-- Still remove organs (prevents tainting meat)
-
-### Wet Conditions
-- Use tarp to keep meat off muddy ground
-- Wipe cavity dry (moisture = bacteria)
-- Hang as soon as possible
-
-### Remote Backcountry
-- Plan multiple trips (cache meat, return)
-- Hang high and mark location (GPS, flagging tape)
-- Protect from predators (tree cache, meat pole)
-
----
-
-## 📋 Quick Checklist
-
-**Before starting:**
-- [ ] Animal is confirmed dead
-- [ ] Area surveyed for bears
-- [ ] Knife is sharp
-- [ ] Animal positioned (on back, legs spread)
-- [ ] Firearm accessible
-
-**During field dressing:**
-- [ ] Opening cut made (sternum to pelvis)
-- [ ] Organs removed (chest and abdomen)
-- [ ] Bladder removed intact
-- [ ] Anus cut free
-- [ ] Cavity cleaned and inspected
-- [ ] No fecal or urine contamination
-
-**After field dressing:**
-- [ ] Cavity propped open (cooling)
-- [ ] Meat protected from flies (game bags)
-- [ ] Organs moved away from carcass (bears)
-- [ ] Plan for transport/preservation made
-
----
-
-## 📚 Sources
-
-- Alaska Department of Fish & Game, "Big Game Field Care Guide"
-- USDA Food Safety and Inspection Service (FSIS), "Wild Game Handling"
-- The Complete Guide to Hunting, Butchering, and Cooking Wild Game: Volume 1, Steven Rinella
-- U.S. Army Survival Manual FM 21-76, Chapter 8
-- Bushcraft 101, Dave Canterbury, Chapter 8
-- Montana Fish, Wildlife & Parks, "Field Dressing Big Game"
-
----
-
-## Diagram Specs
-
-**Diagram 1: "Opening Cuts - Ventral View"**
-- Deer/moose body outline, belly-up
-- Cut lines marked (sternum to pelvis, around genitals)
-- Knife angle shown (blade up, shallow)
-- Critical zones labeled (avoid: intestines, bladder, gallbladder)
-
-**Diagram 2: "Organ Removal Sequence"**
-- Step-by-step illustrations (4-6 panels)
-- Panel 1: Diaphragm cut
-- Panel 2: Heart/lung removal
-- Panel 3: Intestine roll-out
-- Panel 4: Bladder removal
-- Annotations for each step
-
-**Diagram 3: "Quartering Cuts - Lateral View"**
-- Moose/deer side profile
-- Dotted lines showing where to cut (front quarter, hind quarter, backstrap)
-- Bone vs joint cuts labeled
-- Estimated weights per section
-
-**Diagram 4: "Bear Safety Zones"**
-- Overhead view of field dressing site
-- Concentric circles: work zone, watch zone, danger zone
-- Bear approach vectors
-- Safe retreat directions
-- Organ disposal location marked (downwind, 50+ yards)
-
----
-
-**Remember**: Field dressing is not glamorous, but it's essential. Work quickly, stay alert, and respect the animal by utilizing the meat properly. Every hunter's responsibility is to minimize waste and ensure the harvest is not in vain.
+After:
+- Cavity propped open for cooling.
+- Meat in game bags.
+- Gut pile moved away from carcass.
+- Transport and preservation plan made.

@@ -11,431 +11,115 @@ audit_status: "verified"
 audit_date: "2026-02-19"
 sources:
 - "USDA Plants Database"
-- "Urban Foraging: Finding and Eating Wild Plants in the City (2021)"
 - "Edible Wild Plants of North America (Peterson Field Guide)"
 ---
 
-# Urban Foraging - City
+# Urban Foraging
 
-## Overview
-
-**Cities contain surprising amounts of edible plants - parks, medians, abandoned lots, street trees, and even sidewalk cracks.** Urban foraging provides free, fresh food when grocery stores fail or become inaccessible.
-
-**Advantages:**
-- Widely available (every city has parks, street trees)
-- No wilderness travel required (safer in civil unrest)
-- Often overlooked (low competition vs wilderness areas)
-- Year-round options (many cities plant ornamental fruit trees)
-
-**Cautions:**
-- Pollution (exhaust fumes, pesticides, dog urine)
-- Legal issues (public vs private property)
-- Misidentification (some ornamental plants toxic)
-
-**Harvest window:** Spring (tender greens) → Summer (fruits) → Fall (nuts, seeds) → Winter (roots, tree bark)
+Cities contain edible plants in parks, medians, vacant lots, and street trees. No wilderness travel required.
 
 ---
 
-## Safety Rules
+## Safety First
 
-### Pollution Zones (Avoid or Use Caution)
+**Avoid (high risk)**:
+- Within 25 feet of busy roads (lead, exhaust).
+- Industrial zones and railroad tracks (herbicides, chemicals).
+- Treated lawns (pesticide spray markers).
 
-**HIGH RISK (avoid):**
-- Within 25 feet of busy roads (lead, exhaust particulates)
-- Industrial areas (chemical contamination)
-- Railroad tracks (creosote, herbicides)
-- Treated lawns (pesticides, herbicides - visible spray markers)
+**Use caution (wash thoroughly)**:
+- 25-100 feet from roads.
+- Dog-walking areas (fecal bacteria).
+- Public parks (may be sprayed — ask grounds crew).
 
-**MODERATE RISK (wash thoroughly):**
-- 25-100 feet from roads (reduced but present contamination)
-- Dog walking areas (fecal bacteria, urine - wash well)
-- Public parks (may be sprayed - ask grounds crew)
-
-**LOWER RISK:**
-- Residential yards (with permission)
-- Community gardens
-- Untreated city parks
-- Greenways and trails (away from roads)
-
-### Washing Protocol
-
-**All urban foraged plants:**
-1. Rinse in cold water (remove visible dirt, debris)
-2. Soak in vinegar solution (1 part vinegar : 3 parts water) for 5 minutes
-3. Rinse again in clean water
-4. Pat dry with clean towel
-
-**If high pollution suspected:**
-- Discard outer leaves (concentrate pollutants)
-- Cook instead of eating raw (reduces some contaminants)
-- Limit consumption (don't rely 100% on urban foraging)
+**Wash protocol for all urban foraged plants**:
+1. Rinse in cold water.
+2. Soak in 1 part vinegar : 3 parts water for 5 minutes.
+3. Rinse again. Pat dry.
 
 ---
 
 ## Common Edibles
 
-### Dandelion (Taraxacum officinale)
+**Dandelion** (Taraxacum officinale) — all year:
+- ID: yellow flower, toothed rosette leaves, milky white sap in hollow stem.
+- Young leaves: raw in salads. Older leaves: boil (change water 2x).
+- Roots: roast and grind as coffee substitute.
+- No toxic lookalikes. Very safe.
 
-**Identification:**
-- Yellow flower (many petals, 1-2" diameter)
-- Toothed leaves (rosette pattern, "lion's tooth")
-- White sap in stem (milky latex)
-- Hollow stem
-- No branching (single flower per stem)
+**Plantain** (Plantago major/lanceolata) — spring to fall:
+- ID: oval leaves with parallel veins, low rosette, tears into stringy fibers.
+- Young leaves: salads or cooked greens. Seeds: collect from dried spike.
+- Lookalike warning: Lily of the Valley has similar leaves but strong sweet perfume. Plantain has no smell.
 
-**Edible Parts:**
-- **Leaves:** Young leaves best (tender, less bitter) - salads, cooked greens
-- **Flowers:** Yellow petals (remove green base - bitter) - salads, wine, jelly
-- **Roots:** Roasted (coffee substitute), raw (very bitter)
-- **All parts edible all year** (leaves more tender in spring)
+**Purslane** (Portulaca oleracea) — summer:
+- ID: succulent fleshy leaves, reddish stem, grows flat along ground, clear sap.
+- Entire above-ground plant edible raw or cooked. Tart, lemony flavor.
+- Contains omega-3 fatty acids (rare in plants).
+- Toxic lookalike: spurge has milky sap. Test: break stem — clear = purslane, milky = avoid.
 
-**Nutrition:** High in vitamins A, C, K, iron, calcium
+**Clover** (Trifolium spp.) — spring to fall:
+- ID: three leaflets, round flower heads (white, pink, or red).
+- Flowers: raw in salads or dried for tea. Young leaves: cooked (cook to reduce tannins).
+- No toxic lookalikes in urban areas.
 
-**Harvest:** Entire plant (pull up root if you want it, or cut leaves and leave root to regrow)
+**Chickweed** (Stellaria media) — spring, cool seasons:
+- ID: tiny oval leaves, small white flowers (5 petals deeply split), single line of hairs rotating around stem.
+- Entire above-ground plant edible. Mild flavor. Best raw.
+- Toxic lookalike: scarlet pimpernel has red/orange flowers — chickweed has white only.
 
-**Lookalikes:** 
-- Cat's ear (multiple flowers per stem, forked stem) - also edible
-- Flatweed (no milky sap) - also edible
-- **No toxic lookalikes** (dandelions are very safe)
-
----
-
-### Plantain (Plantago major / lanceolata)
-
-**Identification:**
-- Broad leaves (oval, parallel veins)
-- Low to ground (rosette)
-- Flower spike (thin, tall, green with tiny brown flowers)
-- Stringy when leaf torn (fibrous)
-
-**Edible Parts:**
-- **Young leaves:** Tender (spring), tougher (summer) - salads, cooked greens
-- **Seeds:** Tiny (collect from flower spike when dry) - nutritious, psyllium fiber
-
-**Nutrition:** Vitamins A, C, K, calcium, iron
-
-**Medicinal:** Poultice for insect bites, minor wounds (anti-inflammatory)
-
-**Harvest:** Pick leaves before flower stalk forms (most tender)
-
-**Lookalikes:**
-- Lily of the Valley leaves (toxic) - but has strong sweet smell, grows in clusters, plantain has no smell
-- **SMELL TEST:** Plantain = no smell, Lily of the Valley = sweet perfume smell
-
----
-
-### Purslane (Portulaca oleracea)
-
-**Identification:**
-- Succulent (fleshy, thick leaves)
-- Reddish stem
-- Small yellow flowers (5 petals)
-- Grows flat along ground
-- Smooth leaves (no hairs)
-
-**Edible Parts:**
-- **Leaves and stems:** Entire above-ground plant - raw (salads, tart/lemony taste), cooked (sautéed, pickled)
-
-**Nutrition:** 
-- **Omega-3 fatty acids** (rare in plants)
-- Vitamins A, C, E, magnesium
-
-**Harvest:** Pinch off tips (plant regrows), or pull entire plant
-
-**Lookalikes:**
-- Spurge (toxic) - has milky sap (purslane has clear sap)
-- **SAP TEST:** Break stem - clear sap = purslane, milky sap = spurge (AVOID)
-
----
-
-### Clover (Trifolium species - Red, White)
-
-**Identification:**
-- Three leaflets (classic "shamrock" shape)
-- Round flower heads (white, pink, or red)
-- Low growing (lawn weed)
-
-**Edible Parts:**
-- **Flowers:** Sweet taste - raw (salads), dried (tea)
-- **Leaves:** Young only (tender) - raw in small amounts, cooked better (contains tannins)
-- **Seeds:** Tiny (collect from dried flower heads) - nutritious but tedious
-
-**Nutrition:** Protein, calcium, vitamins B, C
-
-**Caution:** Large amounts raw can cause digestive upset (bloating) - cook to reduce tannins
-
-**Harvest:** Flower heads (pull gently from stem), young leaves
-
-**Lookalikes:**
-- Wood sorrel (also edible, heart-shaped leaflets, sour taste)
-- **No toxic lookalikes in urban areas**
-
----
-
-### Chickweed (Stellaria media)
-
-**Identification:**
-- Small white flowers (5 petals, deeply split - looks like 10 petals)
-- Tiny leaves (oval, opposite pairs)
-- Single line of hairs on stem (rotates around stem)
-- Sprawling ground cover
-
-**Edible Parts:**
-- **Entire above-ground plant:** Tender, mild flavor - raw (salads), cooked (greens)
-
-**Nutrition:** Vitamins A, C, iron, calcium
-
-**Harvest:** Pinch off tender tips (4-6 inches), leave roots
-
-**Lookalikes:**
-- Mouse-ear chickweed (also edible, hairy leaves)
-- Scarlet pimpernel (toxic) - but has red/orange flowers (chickweed = white)
-
----
-
-### Lamb's Quarters (Chenopodium album)
-
-**Identification:**
-- Diamond-shaped leaves (toothed edges)
-- White powdery coating on young leaves (looks frosted)
-- Grows 1-3 feet tall
-- Green flower clusters (not showy)
-
-**Edible Parts:**
-- **Young leaves and shoots:** Before flowering - raw (small amounts), cooked (spinach substitute)
-- **Seeds:** Tiny black seeds (collect when mature) - quinoa relative, nutritious
-
-**Nutrition:** 
-- **Higher protein than spinach**
-- Vitamins A, C, calcium, iron
-
-**Caution:** Contains oxalic acid (like spinach) - don't eat in huge quantities raw (cook to reduce)
-
-**Harvest:** Top 6-8 inches of young plants (most tender)
-
-**Lookalikes:**
-- Pigweed (Amaranth) - also edible
-- **No common toxic lookalikes**
+**Lamb's Quarters** (Chenopodium album) — summer:
+- ID: diamond-shaped toothed leaves with white powdery coating on young growth.
+- Young leaves and shoots before flowering: raw (small amounts) or cooked as spinach substitute.
+- Seeds: nutritious (quinoa relative). Cook before large quantities (oxalic acid like spinach).
 
 ---
 
 ## Urban Fruit Trees
 
-### Apple Trees (Malus species)
+**Apple/Crabapple** (Malus spp.) — fall (Aug-Oct):
+- Old residential areas, parks. Twist test: if comes off easily, ripe.
 
-**Locations:**
-- Old residential areas (backyard trees overgrown)
-- Parks (ornamental crabapples)
-- Abandoned lots (former homesteads)
+**Pear** (Pyrus spp.) — fall (Aug-Sep):
+- Similar locations as apples. Pick slightly underripe, ripen off tree.
 
-**Harvest:**
-- **Fall (Aug-Oct):** Apples ripen (varies by variety)
-- Test: Gently twist - if comes off easily, ripe
-- **Crabapples:** Small (1-2"), often tart - still edible (jelly, cider)
+**Mulberry** (Morus spp.) — early summer (Jun-Jul):
+- Street trees in older neighborhoods. Spread tarp, shake branches. Stains — wear dark clothes.
+- Very short shelf life: eat within 24 hours or freeze.
 
-**Safety:** Avoid apples with visible rot, insect damage (worms inside - cut around them)
-
----
-
-### Pear Trees (Pyrus species)
-
-**Locations:**
-- Similar to apples (old residential, parks)
-- Often unpruned and overgrown
-
-**Harvest:**
-- **Fall (Aug-Sep):** Pears ripen (pick slightly underripe, ripen off tree)
-- Test: Gently lift - if stem separates, ready
-
-**Identification:** Bell-shaped fruit, white flowers in spring
+**Oak acorns** (Quercus spp.) — fall (Sep-Nov):
+- Collect from ground. **Raw acorns require leaching** (tannins are toxic):
+  1. Shell acorns.
+  2. Boil in water 2-3x (change water when it turns brown) OR cold soak in running water 1-3 days.
+  3. Taste: should be mild and nutty. Bitter = leach more.
+  4. Dry and grind to flour.
 
 ---
 
-### Mulberry Trees (Morus species)
+## Seasonal Availability
 
-**Locations:**
-- Street trees (common urban planting)
-- Parks, parking lots
-- Sidewalk trees (messy berries, often removed now but older neighborhoods have them)
-
-**Harvest:**
-- **Early Summer (Jun-Jul):** Berries ripen red then dark purple/black
-- Spread tarp or sheet under tree, shake branches (berries fall)
-- Eat fresh, or make jam, wine
-
-**Nutrition:** High in vitamin C, iron, fiber
-
-**Caution:** Stains clothing (wear dark colors), very short shelf life (eat within 24 hours or freeze)
+- Spring (Mar-May): dandelion, chickweed, plantain, lamb's quarters (best season for greens).
+- Summer (Jun-Aug): purslane, mulberries, clover.
+- Fall (Sep-Nov): apples, pears, acorns, plantain seeds.
+- Winter (Dec-Feb): dandelion roots, chickweed (mild climates), pine needle tea (vitamin C).
 
 ---
 
-### Oak Trees (Quercus species - for acorns)
+## Toxic Red Flags
 
-**Locations:**
-- Parks, residential areas, street trees
-
-**Harvest:**
-- **Fall (Sep-Nov):** Acorns mature (brown, fall from tree)
-- Collect from ground (easier than climbing)
-- Look for plump acorns with caps attached
-
-**Processing (REQUIRED - raw acorns toxic):**
-1. Shell acorns (remove hard outer shell)
-2. **Leach tannins:** Boil in water 2-3 times (change water when brown), OR cold leach (soak in stream/running water 1-3 days)
-3. Taste: Should be mild, nutty (if bitter, leach more)
-4. Dry (oven 200°F or air dry)
-5. Grind into flour (food processor, mortar & pestle)
-
-**Uses:** Acorn flour (mix 1:1 with wheat flour for bread, pancakes), acorn meal (porridge)
-
-**Time investment:** High (shelling + leaching = hours), but calorie-rich payoff
-
----
-
-## Forage Safely
-
-### Best Locations (Priority Order)
-
-1. **Residential yards (with permission)** - lowest pollution, known pesticide status
-2. **Community gardens (ask)** - managed, often organic
-3. **Parks (away from roads, athletic fields)** - moderate pollution, may be sprayed
-4. **Greenways / trails** - lower traffic, nature corridors
-5. **Sidewalk cracks / medians** - high pollution (wash thoroughly)
-
-### Legal Considerations
-
-**Generally OK:**
-- Public parks (unless signs prohibit)
-- Sidewalk strips (between sidewalk and street)
-- Abandoned lots (technically trespassing, but rarely enforced if not destructive)
-
-**Ask First:**
-- Private yards (knock on door, offer to share harvest)
-- Community gardens (join or ask permission)
-- Business properties (ask management)
-
-**Prohibited:**
-- National parks (federal crime to forage)
-- Protected nature preserves
-- Private property with "No Trespassing" signs
-
-**Courtesy:** Take only what you'll use, leave some for wildlife and other foragers
-
----
-
-## Seasonal Forage
-
-### Spring (Mar-May)
-- **Greens:** Dandelion, chickweed, plantain, lamb's quarters (young, tender)
-- **Flowers:** Dandelion, clover (just blooming)
-- **Trees:** None (fruit trees flowering but not fruiting yet)
-
-### Summer (Jun-Aug)
-- **Greens:** Purslane, plantain, lamb's quarters (tougher, best cooked)
-- **Flowers:** Clover, dandelion (continuous)
-- **Fruits:** Mulberries (Jun-Jul), early apples/pears (late Aug)
-
-### Fall (Sep-Nov)
-- **Greens:** Limited (dandelion, chickweed if mild weather)
-- **Fruits:** Apples, pears (Sep-Oct)
-- **Nuts/Seeds:** Acorns (Sep-Nov), plantain seeds, lamb's quarters seeds
-
-### Winter (Dec-Feb)
-- **Greens:** Dandelion (if ground not frozen), chickweed (mild climates)
-- **Roots:** Dandelion root (dig up)
-- **Evergreen greens:** Limited (pine needles for tea - vitamin C)
+- **Milky sap**: except in dandelion and lettuce = potential toxin.
+- **Umbrella-shaped white flower clusters**: entire Apiaceae family — poison hemlock in this family is lethal.
+- **Shiny leaves with white berries**: pokeweed, baneberry, bittersweet nightshade.
+- **Strong unpleasant smell**: jimsonweed, nightshade.
+- **Exception**: wild garlic or onion smells strong but is safe and edible.
 
 ---
 
 ## Common Mistakes
 
-**❌ Mistake:** ✓ Correct
-**Foraging right next to busy roads:** Stay 25+ feet away (pollution)
-**Not washing urban plants:** Always wash + vinegar soak (5 min)
-**Eating large amounts of unknown plants:** Start small (test for allergies, digestive upset)
-**Ignoring dog walking areas:** Avoid or wash very thoroughly (fecal bacteria)
-**Harvesting from treated lawns:** Look for spray markers, ask property owner
-**Taking entire plant populations:** Take 20% max, leave rest to regrow
-**Eating raw acorns:** MUST leach tannins (toxic otherwise)
-**Foraging in national parks:** Illegal federally (stick to city parks)
-
----
-
-## Poison Plants
-
-### Red Flags (DO NOT EAT)
-
-**Milky sap (unless dandelion):**
-- Spurge, dogbane, various toxic plants
-- Exception: Dandelion, lettuce (both safe)
-
-**Umbrella-shaped flower clusters (Apiaceae family):**
-- Poison hemlock (DEADLY), water hemlock (DEADLY)
-- Exception: Wild carrot (Queen Anne's Lace) - but avoid entire family unless expert
-
-**Shiny leaves + white berries:**
-- Pokeweed (roots/berries toxic, young leaves require special cooking)
-- Bittersweet nightshade, white baneberry
-
-**Strong unpleasant smell:**
-- Jimsonweed (thorn apple), nightshades
-- Exception: Wild garlic/onion (safe, edible)
-
----
-
-## Preparation Methods
-
-### Raw (Salads)
-- **Best for:** Dandelion (young leaves), chickweed, purslane, plantain (young), clover flowers
-- **Wash thoroughly** (vinegar soak)
-- Mix with other greens (strong flavors blend better)
-
-### Cooked (Sautéed, Boiled)
-- **Best for:** Tougher greens (older dandelion, plantain, lamb's quarters)
-- **Method:** Sauté with oil/butter + garlic, OR boil 5-10 min (discard water if bitter)
-- Reduces bitterness, makes more digestible
-
-### Dried (Tea, Seasoning)
-- **Best for:** Dandelion root (roasted "coffee"), clover flowers, plantain leaves
-- **Method:** Air dry 1-2 weeks (or dehydrator), store in sealed container
-
----
-
-## Nutrient Compare
-
-- Dandelion greens: 45 / 2.7 / 203% / 58% / 17%
-- Lamb's quarters: 43 / 4.2 / 148% / 133% / 16%
-- Purslane: 20 / 2.0 / 26% / 35% / 11%
-- Plantain: 61 / 2.4 / 40% / 30% / 12%
-- Chickweed: 30 / 2.5 / 15% / 20% / 8%
-- Spinach (comparison): 23 / 2.9 / 56% / 47% / 15%
-
-**Key takeaway:** Wild urban greens often MORE nutritious than store-bought spinach.
-
----
-
-## Related Entries
-- [Edible Plant Identification Protocol](#) (L2)
-- [Poisonous Plant Lookalikes](#) (L2)
-- [Food Preservation - Drying](#) (L2)
-- [Wild Food Preparation](#) (L2)
-- [Foraging Ethics and Sustainability](#) (L2)
-
----
-
-## Sources
-- USDA Plants Database (plant identification)
-- Peterson Field Guide: Edible Wild Plants of North America
-- Urban Foraging: Finding and Eating Wild Plants in the City (Ava Chin, 2021)
-- Wild Food Foraging Guide (regional botanical surveys)
-
----
-
-**DIAGRAM NEEDED:** `urban-foraging-common-plants.svg`
-- Visual ID guide: Dandelion, plantain, purslane, clover, chickweed, lamb's quarters (leaves, flowers, full plant)
-- Pollution safety zones (color coded: green >100ft, yellow 25-100ft, red <25ft from road)
-- Urban fruit trees (apple, pear, mulberry, oak acorn)
-- Lookalike comparisons (purslane vs spurge, plantain vs lily of the valley)
-
-**Last Updated:** 2026-02-19  
-**Audit Status:** Verified - USDA database, field guides, and botanical sources
+- Foraging within 25 ft of busy roads: move farther or skip it.
+- Not washing: always vinegar soak (5 min) for urban plants.
+- Eating large amounts of new plants: start small, test for reactions.
+- Eating raw acorns: always leach tannins first.
+- Foraging in national parks: federal offense.
+- Taking entire plant populations: harvest 20% max, leave rest to regrow.
