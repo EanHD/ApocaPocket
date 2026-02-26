@@ -3,23 +3,16 @@ id: l1-mental-health-exercise-movement
 title: Exercise & Movement
 category: L1_immediate_survival
 ---
+
 # Exercise & Movement
 
 ## Why Move
 
-Your body evolved for 10-15 miles of movement daily. Sedentary life is the anomaly. Movement is medicine.
-
+- Body evolved for 10-15 miles of daily movement; sedentary life is the anomaly
 - Exercise as effective as SSRIs for mild-moderate depression
 - 30 min cardio 5x/week = 47% reduction in depression symptoms
-- 60% reduction in panic symptoms with regular exercise
-- Regular exercise delays dementia onset 5-7 years
-- Sedentary humans are sick humans. No exceptions.
-
-**What exercise does neurochemically:**
-- Endorphins: natural pain relief and euphoria
-- BDNF: increases 300%, promotes new brain cell growth
-- Dopamine: motivation, pleasure, reward processing
-- Serotonin: mood stabilization, depression prevention
+- 60% reduction in panic symptoms; delays dementia onset 5-7 years
+- Neurochemicals: endorphins (pain relief), BDNF (+300%), dopamine (motivation), serotonin (mood)
 
 ## The Big 5
 
@@ -78,9 +71,7 @@ Survival work IS exercise. Count it.
 
 **Balance your week:** include push tasks, pull tasks, leg-dominant work, and sustained cardio.
 
-Work parties combine purpose + exercise. Dual benefit, no wasted time.
-
-## Stretch and Mobility
+## Stretching
 
 **Daily 10 minutes prevents injury and reduces pain.**
 
@@ -100,41 +91,27 @@ Evening (wind down):
 
 **Dancing:** synchronized movement releases oxytocin. Reduces depression 47%. No equipment. All ages.
 
-**Martial arts:** shadow boxing, kata, partner drills. Builds discipline, confidence, focus, and respect.
+**Martial arts:** shadow boxing, kata, partner drills. Builds discipline, confidence, focus.
 
-**Games:** tag variations, capture the flag, kickball. Fun removes the feeling of exercise. Natural interval training.
+**Games:** tag, capture the flag, kickball. Fun removes the feeling of exercise. Natural interval training.
 
-## MH Protocols
+## Health Protocols
 
-**Depression prescription:**
-- 30 min moderate cardio, 5x/week
-- Intensity: can talk but not sing (60-70% max heart rate)
-- Type: any sustained movement (walk, jog, circuit)
-- Timeline: 2-4 weeks for noticeable effect, 8-12 weeks for full benefit
+**Depression:** 30 min moderate cardio 5x/week; any sustained movement; 2-4 weeks for effect, 8-12 for full benefit
 
-**Anxiety protocol:**
-- Type: rhythmic, repetitive (walking, jogging, swimming)
-- Duration: 20-30 min
-- Frequency: daily or as needed during anxiety spike
-- Mechanism: depletes cortisol and adrenaline, activates calming response
+**Anxiety:** rhythmic/repetitive movement (walking, jogging) 20-30 min daily; depletes cortisol and adrenaline
 
-**Sleep improvement:**
-- Exercise in morning or afternoon, not within 2 hours of bed
-- 30+ minutes, consistent
-- Fall asleep 15-30 min faster, deeper sleep, wake less
+**Sleep:** exercise in morning or afternoon (not within 2 hr of bed); fall asleep 15-30 min faster
 
-**PTSD:** start gentle (yoga, walking), build gradually, group format ideal.
+**PTSD:** start gentle (yoga, walking), build gradually, group format ideal
 
 ## Build the Culture
 
-**Daily rhythm:**
-- Morning: 10-min stretch, then light walk to activate circadian rhythm
+- Morning: 10-min stretch + light walk (circadian activation)
 - Afternoon: functional work or structured circuit
-- Evening: gentle stretching or social walk
-
-**Community integration:**
+- Evening: gentle stretch or social walk
 - Group morning workout: accountability, competition, skill sharing
-- Work parties: rotate tasks, labor as social time
+- Work parties: rotate tasks, labor doubles as social time
 - Dance nights weekly, sports tournaments monthly
 
 ## Mission

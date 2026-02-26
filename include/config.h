@@ -91,7 +91,7 @@
 #define EID_FIELD_SIZE     48
 #define TITLE_FIELD_SIZE   64
 #define TITLE_DISPLAY_LEN  28
-#define NUM_FOLDERS        22 // Number of entry folders in database
+#define NUM_FOLDERS        25 // Number of entry folders in database
 
 // -- Battery monitoring (FIX #5) --
 // Set to true if you have a 2:1 voltage divider on VBAT

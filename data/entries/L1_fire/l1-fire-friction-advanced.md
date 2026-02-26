@@ -35,122 +35,77 @@ audit_status: verified
 
 # Friction Fire Mastery
 
-An expert makes fire in 30-60 seconds with a hand drill. Matches run out. Lighters fail. Friction fire works forever when technique and materials are right.
-
-This is not a last resort. Every human culture developed it. Historical peoples made fire as casually as flicking a lighter.
+An expert makes fire in 30-60 seconds with a hand drill. Matches run out. Lighters fail. Friction fire works when technique and materials are right.
 
 ## Methods Compared
 
 Bow drill (learn here first):
-- Requires 4 components: bow, spindle, fireboard, socket.
-- Time: 2-5 min (experienced), 10-20 min (beginner).
-- Mechanical advantage makes it forgiving.
+- Requires: bow, spindle, fireboard, socket (4 components)
+- Time: 2-5 min (experienced), 10-20 min (beginner)
+- Mechanical advantage makes it forgiving
 
 Hand drill (fastest method):
-- Requires 2 components: spindle and fireboard only.
-- Time: 30-60 sec (expert), 3-5 min (experienced).
-- No cordage needed. Requires conditioning and technique.
+- Requires: spindle and fireboard only — no cordage
+- Time: 30-60 sec (expert), 3-5 min (experienced)
 
 Fire plow (no cordage):
-- Requires board and plow stick only.
-- Time: 2-4 min (experienced).
-- More physically demanding but works when no cordage is available.
+- Board and plow stick only; more physically demanding
+- Time: 2-4 min (experienced); works when no cordage is available
 
 ## Hand Drill Materials
 
-Spindle: Yucca, mullein stalk, horseweed, sotol, or cattail stalk. 18-30 inches long, half to three-quarter inch diameter. Must be straight, dry, and pithy.
-
-Fireboard: Same species as spindle or slightly harder (cottonwood, willow, cedar, aspen). 12-18 inches long, 2-4 inches wide, three-quarter inch thick. Flat, dry, no knots.
+Spindle: yucca, mullein stalk, horseweed, sotol, or cattail — 18-30" long, ½-¾" diameter, straight, dry, pithy.
+Fireboard: same species or slightly harder (cottonwood, willow, cedar) — 12-18" long, ¾" thick, flat, dry, no knots.
 
 ## Hand Drill Technique
 
-Prepare fireboard:
-- Carve a dimple one-quarter inch deep, half inch from edge.
-- Cut V-notch from edge to center of dimple (one-eighth the width of spindle).
+Prepare fireboard: carve ¼" deep dimple ½" from edge; cut V-notch from edge to center of dimple (⅛ spindle width).
 
-Hand position: Flat palms, fingers straight, hands at top of spindle.
+Hand position: flat palms, fingers straight, hands at top of spindle.
 
-Body mechanics: Kneel with one knee down, one foot forward. Place fireboard under forward foot. Lean body weight into spindle — not arm strength.
+Body mechanics: one knee down, one foot forward on fireboard. Lean body weight into spindle — not arm strength.
 
-Spin technique:
-- Fast spins (100-200 rpm) generate more heat than slow hard pressure.
-- Keep consistent rhythm.
-- Hands slide down spindle as it spins, maintaining downward pressure.
-- Return quickly to top to minimize heat loss.
+Spin: fast (100-200 rpm) generates more heat than slow hard pressure. Hands slide down maintaining downward pressure; return quickly to top.
 
-Coal formation sequence:
-- 0-20 seconds: Light smoke, sawdust accumulates.
-- 20-40 seconds: Heavy smoke, sawdust darkens to black.
-- 40-60 seconds: Sustained smoke plus burning smell.
-- 60+ seconds: Smoke continues AFTER stopping. Coal achieved.
+**Coal sequence:** 0-20 sec: light smoke · 20-40 sec: heavy smoke, black sawdust · 40-60 sec: sustained smoke + burning smell · 60+ sec: smoke continues AFTER stopping = coal achieved.
 
-Do not stop when you see smoke. Stop when smoke continues after you stop spinning.
+**Do not stop when you see smoke. Stop when smoke continues after you stop spinning.**
 
-## Fire Plow Technique
+## Fire Plow
 
-Carve a groove one-quarter inch deep in a flat board, 8-12 inches long.
-
-Grip plow stick like a broom handle. Push down the groove at 45 degrees with firm pressure.
-
-Stroke rate: 50-60 strokes per minute. Lift slightly on return stroke. Sawdust accumulates at bottom and ignites.
-
-Advantage: No cordage. Possible one-handed in emergency.
+Carve a ¼" deep groove 8-12" long in a flat board. Push down at 45° with firm pressure, 50-60 strokes/min. Lift slightly on return. Sawdust accumulates at bottom and ignites.
 
 ## Wood Selection
 
-Best combinations:
-- Spindle and board same species: Cottonwood, willow, cedar, or yucca (easiest and fastest).
-- Soft spindle with harder board: Mullein stalk with cedar board.
-
-Seek: Wood that dents with a thumbnail. Snaps cleanly when dry. Produces smoke within 30 seconds in test dimple.
-
-Avoid: Resinous wood (pine — clogs notch with sap), dense hardwood for spindle (oak, hickory — too hard), green or fresh-cut wood.
+Best: cottonwood, willow, cedar, or yucca — spindle and board same species is easiest.
+Seek: dents with thumbnail, snaps cleanly when dry, produces smoke within 30 sec in test dimple.
+Avoid: resinous wood (pine clogs notch with sap), dense hardwood (oak, hickory), green or fresh-cut.
 
 ## Tinder Bundle
 
-The coal must be transferred to tinder and blown to flame. 80% of failures happen at this stage.
-
-Best tinders:
-- Shredded inner bark (cedar, cottonwood): Flour-consistency fibers.
-- Dried standing grass: Rolled into grapefruit-sized bird nest.
-- Cattail fluff: Extremely easy ignition.
-
-Bundle construction: Coarse fibers on outside, medium fibers middle, fine fibers at core. Nest shape with cavity in center for coal.
-
-Prepare your tinder bundle before starting the drill.
+Best tinders: shredded inner bark (cedar, cottonwood) · dried standing grass · cattail fluff
+Build: coarse fibers outside, medium in middle, fine at core; nest shape with cavity for coal.
+**Prepare your tinder bundle before starting the drill.** 80% of failures happen at this stage.
 
 ## Coal Transfer
 
-Tap or pour coal from notch onto a dry leaf or bark.
+Tap or pour coal from notch onto a dry leaf or bark. Fold tinder loosely around coal; blow gently and steadily, increasing breath as glow brightens. Flame appears quickly.
+If coal dies during transfer: tinder too coarse or wet — add finer shredded inner bark.
 
-Fold tinder bundle loosely around coal. Blow gently and steadily. Increase breath as glow brightens. Flame appears quickly.
+## Training Milestones
 
-If coal dies during transfer: Tinder is too coarse or not dry enough. Add finer inner bark.
-
-## Training Program
-
-Weeks 1-2 (bow drill basics, 20 min per day):
-- Goal: Make first coal. Build technique and rhythm.
-
-Weeks 3-4 (bow drill mastery, 15 min per day):
-- Goal: Under 3 minutes, 90% success rate.
-
-Month 2 (hand drill introduction, 20 min per day):
-- Goal: First coal. Expect blisters — calluses build over time.
-
-Months 3-6 (hand drill mastery, 15 min per day):
-- Goal: Under 60 seconds, 80% success rate.
+- Weeks 1-2 (bow drill, 20 min/day): first coal; build technique and rhythm
+- Weeks 3-4 (bow drill, 15 min/day): under 3 min, 90% success rate
+- Month 2 (hand drill, 20 min/day): first coal; expect blisters — calluses build over time
+- Months 3-6 (hand drill, 15 min/day): under 60 sec, 80% success rate
 
 ## Troubleshooting
 
-Smoke but no coal: Stopped too early. Continue 20-30 seconds after heavy smoke starts.
-
-Spindle slips or will not spin: Sweaty hands or smooth spindle. Dry hands, carve slight texture.
-
-Board splits at notch: Notch too close to edge. Move notch half to 1 inch from edge.
-
-Coal dies during tinder transfer: Tinder too coarse. Add fine shredded inner bark, ensure tinder is bone-dry.
+- Smoke but no coal: stopped too early — continue 20-30 sec after heavy smoke starts
+- Spindle slips or will not spin: dry hands; carve slight texture on spindle
+- Board splits at notch: too close to edge — move notch ½-1" farther from edge
+- Coal dies in tinder transfer: add fine shredded inner bark; ensure tinder is bone-dry
 
 ## Safety
 
-Clear a 10-foot radius before starting. Keep water nearby. Check wind direction — embers travel. Build calluses gradually on hands before relying on hand drill in field conditions.
+Clear 10-foot radius before starting. Keep water nearby. Check wind direction — embers travel. Build hand calluses gradually before relying on hand drill in field conditions.

@@ -35,26 +35,29 @@ from pathlib import Path
 FOLDERS = [
     "L1_disaster",              # 0
     "L1_fire",                  # 1
-    "L1_immediate_survival",    # 2
-    "L1_medical",               # 3
-    "L1_navigation",            # 4
-    "L1_shelter",               # 5
-    "L1_strategy",              # 6
-    "L1_urban",                 # 7
-    "L1_water",                 # 8
-    "L1_wilderness",            # 9
-    "L2_food_biology",          # 10
-    "L2_nutrition",             # 11
-    "L3_materials_chemistry",   # 12
-    "L3_materials_elements",    # 13
-    "L3_materials_technology",  # 14
-    "L3_water",                 # 15
-    "L4_agriculture",           # 16
-    "L4_agriculture_labor",     # 17
-    "L4_tools_rebuilding",      # 18
-    "L5_civilization_memory",   # 19
-    "L5_community_knowledge",   # 20
-    "L5_sanitation",            # 21
+    "L1_medical",               # 2
+    "L1_navigation",            # 3
+    "L1_shelter",               # 4
+    "L1_strategy",              # 5
+    "L1_urban",                 # 6
+    "L1_water",                 # 7
+    "L1_wilderness",            # 8
+    "L2_food_biology",          # 9
+    "L2_hunting",               # 10
+    "L2_mushrooms",             # 11
+    "L2_nutrition",             # 12
+    "L2_plants",                # 13
+    "L2_regional",              # 14
+    "L3_materials_chemistry",   # 15
+    "L3_materials_elements",    # 16
+    "L3_materials_technology",  # 17
+    "L3_water",                 # 18
+    "L4_agriculture",           # 19
+    "L4_agriculture_labor",     # 20
+    "L4_tools_rebuilding",      # 21
+    "L5_civilization_memory",   # 22
+    "L5_community_knowledge",   # 23
+    "L5_sanitation",            # 24
 ]
 
 # Category: determined by folder prefix (L1=0, L2=1, L3=2, L4=3, L5=4)
@@ -66,26 +69,29 @@ def folder_category(folder_name):
 SUBFOLDER_NAMES = {
     0:  "Disaster Response",
     1:  "Fire",
-    2:  "Immediate Survival",
-    3:  "Medical",
-    4:  "Navigation",
-    5:  "Shelter",
-    6:  "Strategy",
-    7:  "Urban Survival",
-    8:  "Water",
-    9:  "Wilderness",
-    10: "Food Biology",
-    11: "Nutrition",
-    12: "Chemistry",
-    13: "Elements",
-    14: "Technology",
-    15: "Water Treatment",
-    16: "Agriculture",
-    17: "Agri. Labor",
-    18: "Tools & Rebuild",
-    19: "Civilization",
-    20: "Community",
-    21: "Sanitation",
+    2:  "Medical",
+    3:  "Navigation",
+    4:  "Shelter",
+    5:  "Strategy & Prep",
+    6:  "Urban Survival",
+    7:  "Water",
+    8:  "Wilderness",
+    9:  "Food Prep",
+    10: "Hunting & Fishing",
+    11: "Mushrooms",
+    12: "Nutrition",
+    13: "Plants",
+    14: "Regional Guides",
+    15: "Chemistry",
+    16: "Elements",
+    17: "Technology",
+    18: "Water Treatment",
+    19: "Agriculture",
+    20: "Agri. Labor",
+    21: "Tools & Rebuild",
+    22: "Civilization",
+    23: "Community",
+    24: "Sanitation",
 }
 
 RECORD_SIZE    = 128  # EID[48] + Title[64] + Cat[1] + FolderIdx[1] + Padding[14]

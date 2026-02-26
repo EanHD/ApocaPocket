@@ -39,7 +39,6 @@ related:
 - Evacuate immediately
 - ⚠️ Brain damage in 30-60 min, death in 2-3 hours if untreated
 
----
 
 ## Hyperglycemia
 
@@ -61,7 +60,6 @@ related:
 - DKA: 1-2L water first hour then 500mL/hr, 0.1 units/kg/hr insulin IM, evacuate urgently
 - ⚠️ DKA fatal within 24-48 hours without treatment — evacuate
 
----
 
 ## Insulin Storage
 
@@ -81,7 +79,6 @@ related:
 - Clumping, crystals, or discoloration = discard
 - When in doubt: use it — degraded is better than none
 
----
 
 ## Type 1 vs Type 2
 
@@ -92,7 +89,6 @@ related:
 - Survival without insulin — Type 1: days to weeks (fatal); Type 2: months to years
 - Emergency priority — Type 1: extreme; Type 2: high but more flexible
 
----
 
 ## Medication Rationing
 
@@ -108,7 +104,6 @@ related:
 - Sulfonylureas: reduce dose to avoid hypos
 - If on insulin: ration as above; Type 2s often survive without
 
----
 
 ## Evacuation Criteria
 
@@ -124,7 +119,6 @@ related:
 - Medical ID noting diabetes type
 - Glucagon kit if available
 
----
 
 ## Common Mistakes
 

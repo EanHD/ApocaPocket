@@ -13,26 +13,29 @@ static uint8_t subNameCount = 0;
 static const char* const FOLDERS[] = {
     "/data/entries/L1_disaster",            // 0
     "/data/entries/L1_fire",               // 1
-    "/data/entries/L1_immediate_survival",  // 2
-    "/data/entries/L1_medical",             // 3
-    "/data/entries/L1_navigation",          // 4
-    "/data/entries/L1_shelter",             // 5
-    "/data/entries/L1_strategy",            // 6
-    "/data/entries/L1_urban",               // 7
-    "/data/entries/L1_water",               // 8
-    "/data/entries/L1_wilderness",          // 9
-    "/data/entries/L2_food_biology",        // 10
-    "/data/entries/L2_nutrition",           // 11
-    "/data/entries/L3_materials_chemistry", // 12
-    "/data/entries/L3_materials_elements",  // 13
-    "/data/entries/L3_materials_technology",// 14
-    "/data/entries/L3_water",               // 15
-    "/data/entries/L4_agriculture",         // 16
-    "/data/entries/L4_agriculture_labor",   // 17
-    "/data/entries/L4_tools_rebuilding",    // 18
-    "/data/entries/L5_civilization_memory", // 19
-    "/data/entries/L5_community_knowledge", // 20
-    "/data/entries/L5_sanitation"           // 21
+    "/data/entries/L1_medical",             // 2
+    "/data/entries/L1_navigation",          // 3
+    "/data/entries/L1_shelter",             // 4
+    "/data/entries/L1_strategy",            // 5
+    "/data/entries/L1_urban",               // 6
+    "/data/entries/L1_water",               // 7
+    "/data/entries/L1_wilderness",          // 8
+    "/data/entries/L2_food_biology",        // 9
+    "/data/entries/L2_hunting",             // 10
+    "/data/entries/L2_mushrooms",           // 11
+    "/data/entries/L2_nutrition",           // 12
+    "/data/entries/L2_plants",              // 13
+    "/data/entries/L2_regional",            // 14
+    "/data/entries/L3_materials_chemistry", // 15
+    "/data/entries/L3_materials_elements",  // 16
+    "/data/entries/L3_materials_technology",// 17
+    "/data/entries/L3_water",               // 18
+    "/data/entries/L4_agriculture",         // 19
+    "/data/entries/L4_agriculture_labor",   // 20
+    "/data/entries/L4_tools_rebuilding",    // 21
+    "/data/entries/L5_civilization_memory", // 22
+    "/data/entries/L5_community_knowledge", // 23
+    "/data/entries/L5_sanitation"           // 24
 };
 // NUM_FOLDERS now defined in config.h
 

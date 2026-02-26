@@ -1,6 +1,6 @@
 ---
 id: l2-food-allergies-anaphylaxis
-title: Food Allergies & Anaphylaxis
+title: Food Allergies
 category: "L2"
 subcategory: "nutrition"
 tags: ["allergies", "anaphylaxis", "epi-pen", "food-safety", "emergency"]
@@ -10,7 +10,7 @@ sources: ["fare-food-allergy-guidelines", "aaaai-anaphylaxis-protocols"]
 related: ["l1-medical-choking-airway", "l1-medical-allergic-reactions"]
 ---
 
-# Food Allergies & Anaphylaxis
+# Food Allergies
 
 **CRITICAL**: Anaphylaxis can be fatal in 15–30 minutes. Early epinephrine saves lives. 32 million Americans have food allergies.
 
