@@ -81,7 +81,7 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
                int* scrollPos = nullptr);
 // drawEntryLine is used by both showEntry and showCardEntry
 void drawEntryLine(const char* ln, int16_t y_scr);
-void textInput(const char* title, char* output, int maxLen);
+int  searchFlow(const Index& idx);  // integrated search: char grid + live results
 
 // Poll: updates buttons, power, sleep/wake, combos
 void poll();

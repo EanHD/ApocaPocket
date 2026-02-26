@@ -918,100 +918,184 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
     }
 }
 
-// -- Search text input: 6-column alphabet grid (a-z, space, DEL) --
-// Navigation: UP/DN = rows, RT = move right, OK = add char, BK = delete/done.
-void textInput(const char* title, char* output, int maxLen) {
-    // Grid characters: a-z (0-25), _ = space (26), DEL = special (27)
-    static const char  CHARS[]  = "abcdefghijklmnopqrstuvwxyz_";
-    static const int   TOTAL    = 28;   // 27 chars + DEL
+// -- Integrated search: character grid + live results panel ──────────────────
+// Layout (screen-space y coords):
+//   TOP_Y+0  : query display box (24px)
+//   TOP_Y+26 : character grid, 5 rows × 26px = 130px
+//   TOP_Y+158: divider + result count label
+//   TOP_Y+166: up to 3 result rows × 26px = 78px (ends ~TOP_Y+244 ≈ BOT_Y)
+//
+// Controls:
+//   UP/DN      : move row in grid  (DN past last row → jump to results)
+//   RT         : move right in grid
+//   BK tap     : move LEFT in grid  (in results mode: back to grid)
+//   BK hold    : go home
+//   OK         : add character (grid) / select entry (results)
+//   RT results : select entry (alias for OK when in results panel)
+//
+// Live results update every keystroke. Auto-jump to results when 1 match.
+
+int searchFlow(const Index& idx) {
+    static const char  CHARS[]  = "abcdefghijklmnopqrstuvwxyz ";
+    static const int   TOTAL    = 28;   // 27 chars + DEL tile
     static const int   DEL_IDX  = 27;
     static const int   COLS     = 6;
-    static const int   ROWS     = 5;    // ceil(28/6) = 5
-    static const int   CELL_W   = CANVAS_W / COLS;  // 39px
-    static const int   CELL_H   = 34;
-    static const int   GRID_Y   = TOP_Y + 28;  // screen-space Y of first row
+    static const int   ROWS     = 5;
+    static const int   CELL_W   = CANVAS_W / COLS;   // 39px
+    static const int   CELL_H   = 26;
+    static const int   QBOX_H   = 24;
+    static const int   GRID_Y   = TOP_Y + QBOX_H + 2;                 // 56
+    static const int   DIV_Y    = GRID_Y + ROWS * CELL_H + 2;         // 188
+    static const int   RES_Y    = DIV_Y + 8;                          // 196
+    static const int   RES_H    = 26;
+    static const int   MAX_VIS  = 3;
 
-    int ci = 0, len = 0;
-    output[0] = '\0';
+    char     query[24] = "";
+    int      len = 0;
+    int      ci  = 0;       // grid cursor
+    int      ri  = 0;       // result cursor
+    bool     inR = false;   // focus: results panel?
+    uint16_t results[MAX_MENU_ITEMS];
+    int      rcount = 0;
+    bool     changed = true;
 
-    screen.topStrip(title, true, nullptr);
-    bool changed = true;
+    screen.topStrip("Search", true, nullptr);
 
     while (true) {
         if (changed) {
             screen.clearCanvas();
 
-            // ── Query display box ─────────────────────────────────────────────
-            char dispBuf[26]; int dl = 0;
-            for (int i = 0; i < len && i < 22; i++)
-                dispBuf[dl++] = output[i];
-            dispBuf[dl++] = '_'; dispBuf[dl] = '\0';
-            screen.canvasFill(CX + 4, TOP_Y + 2, CANVAS_W - 8, 22, COL_SEL);
-            screen.canvasText(dispBuf, CX + TEXT_PAD_X, TOP_Y + 4, COL_PRI);
-
-            // ── Alphabet grid ─────────────────────────────────────────────────
-            for (int i = 0; i < TOTAL; i++) {
-                int row = i / COLS, col = i % COLS;
-                int16_t cx = (int16_t)(col * CELL_W);          // canvas-space x (CX=0)
-                int16_t cy = (int16_t)(GRID_Y + row * CELL_H); // screen-space y
-                bool sel   = (i == ci);
-
-                // Selection fill (screen-space args subtract CX/TOP_Y internally)
-                if (sel)
-                    screen.canvasFill(cx + 2, cy + 2, CELL_W - 4, CELL_H - 4, COL_ACCENT);
-
-                char lbl[4];
-                if      (i == DEL_IDX)    strncpy(lbl, "DEL", 4);
-                else if (CHARS[i] == '_') { lbl[0] = '_'; lbl[1] = '\0'; }
-                else                      { lbl[0] = CHARS[i]; lbl[1] = '\0'; }
-
-                // y_scr for canvasText = screen-space TOP of the glyph cap
-                int16_t ty = (int16_t)(cy + (CELL_H - FONT_CAP_H) / 2);
-                screen.canvasText(lbl, cx + 4, ty, sel ? COL_BG : COL_SEC);
+            // ── Query display box ────────────────────────────────────────────
+            screen.canvasFill(CX + 4, TOP_Y + 2, CANVAS_W - 8, QBOX_H - 2, COL_SEL);
+            if (len > 0) {
+                char disp[26];
+                strncpy(disp, query, 22); disp[22] = '\0';
+                if (!inR) { int dl = strlen(disp); disp[dl] = '_'; disp[dl+1] = '\0'; }
+                screen.canvasText(disp, CX + TEXT_PAD_X, TOP_Y + 5, COL_PRI);
+            } else {
+                screen.canvasText(inR ? "" : "_", CX + TEXT_PAD_X, TOP_Y + 5, COL_SEC);
             }
 
-            // ── Hint bar at bottom ────────────────────────────────────────────
-            screen.canvasText("OK:add   BK:del/done", CX + TEXT_PAD_X, BOT_Y - 16, COL_TER);
+            // ── Character grid (dimmed while browsing results) ───────────────
+            uint16_t charCol = inR ? COL_TER : COL_SEC;
+            for (int i = 0; i < TOTAL; i++) {
+                int row = i / COLS, col = i % COLS;
+                int16_t cx = (int16_t)(col * CELL_W);
+                int16_t cy = (int16_t)(GRID_Y + row * CELL_H);
+                bool    sel = (!inR && i == ci);
+                if (sel)
+                    screen.canvasFill(cx + 2, cy + 2, CELL_W - 4, CELL_H - 4, COL_ACCENT);
+                char lbl[4];
+                if      (i == DEL_IDX)       strncpy(lbl, "DEL", 4);
+                else if (CHARS[i] == ' ')  { lbl[0] = '_'; lbl[1] = '\0'; }
+                else                       { lbl[0] = CHARS[i]; lbl[1] = '\0'; }
+                int16_t ty = (int16_t)(cy + (CELL_H - FONT_CAP_H) / 2);
+                screen.canvasText(lbl, cx + 4, ty, sel ? COL_BG : charCol);
+            }
+
+            // ── Divider + result count ───────────────────────────────────────
+            screen.canvasFill(CX + TEXT_PAD_X, DIV_Y, CANVAS_W - 2 * TEXT_PAD_X, 1, COL_TER);
+            if (len > 0 && rcount > 0) {
+                char cntBuf[16];
+                snprintf(cntBuf, sizeof(cntBuf), "%d found", rcount);
+                screen.canvasText(cntBuf, CX + TEXT_PAD_X, DIV_Y - 12, COL_TER);
+            }
+
+            // ── Results panel ────────────────────────────────────────────────
+            if (len == 0) {
+                screen.canvasCenterText("Type to search", RES_Y + RES_H, COL_TER);
+            } else if (rcount == 0) {
+                screen.canvasCenterText("No results", RES_Y + RES_H, COL_SEC);
+            } else {
+                int startR = max(0, min(ri - 1, rcount - MAX_VIS));
+                for (int i = 0; i < MAX_VIS && (startR + i) < rcount; i++) {
+                    int    ii  = startR + i;
+                    int16_t ry = (int16_t)(RES_Y + i * RES_H);
+                    bool   rsel = (inR && ii == ri);
+                    if (rsel)
+                        screen.canvasFill(CX + 2, ry, CANVAS_W - 4, RES_H - 2, COL_SEL);
+                    char tbuf[30];
+                    snprintf(tbuf, sizeof(tbuf), "%s%s",
+                             rsel ? "> " : "  ", idx.title(results[ii]));
+                    screen.canvasText(tbuf, CX + TEXT_PAD_X, ry + (RES_H - FONT_CAP_H) / 2,
+                                      rsel ? COL_PRI : (inR ? COL_BODY : COL_SEC));
+                }
+                // Scroll hints when results extend beyond panel
+                if (inR && startR > 0)
+                    screen.canvasCenterText("^", RES_Y - 6, COL_TER);
+                if (inR && startR + MAX_VIS < rcount)
+                    screen.canvasCenterText("v", RES_Y + MAX_VIS * RES_H + 2, COL_TER);
+            }
 
             screen.pushCanvas();
             changed = false;
         }
 
         poll();
-        if (gEmergency || gGoHome || gGoBookmarks) { output[0] = '\0'; return; }
+        if (gEmergency || gGoHome || gGoBookmarks) return -1;
         if (gNeedsRedraw) {
-            screen.topStrip(title, true, nullptr);
+            screen.topStrip("Search", true, nullptr);
             gNeedsRedraw = false; changed = true; continue;
         }
 
-        if (btnUp.tapped() || btnUp.repeating()) {
-            if (ci >= COLS) {
-                ci -= COLS;
-            } else {
-                // Wrap to last row of same column (clamped to TOTAL-1)
-                ci = min(TOTAL - 1, (ROWS - 1) * COLS + (ci % COLS));
+        if (!inR) {
+            // ── Grid mode ───────────────────────────────────────────────────
+            if (btnUp.tapped() || btnUp.repeating()) {
+                if (ci >= COLS) ci -= COLS;
+                else ci = min(TOTAL - 1, (ROWS - 1) * COLS + (ci % COLS));  // wrap to bottom
+                changed = true;
+            } else if (btnDn.tapped() || btnDn.repeating()) {
+                int nc = ci + COLS;
+                if (nc < TOTAL) {
+                    ci = nc;
+                } else if (rcount > 0) {
+                    inR = true; ri = 0;  // jump down into results
+                } else {
+                    ci = ci % COLS;      // wrap to top of same column
+                }
+                changed = true;
+            } else if (btnRt.tapped() || btnRt.repeating()) {
+                ci = (ci + 1) % TOTAL;
+                changed = true;
+            } else if (btnBk.held()) {
+                gGoHome = true; return -1;
+            } else if (btnBk.tapped()) {
+                ci = (ci - 1 + TOTAL) % TOTAL;  // navigate LEFT
+                changed = true;
+            } else if (btnOk.tapped()) {
+                if (ci == DEL_IDX) {
+                    if (len > 0) {
+                        query[--len] = '\0';
+                        rcount = (len > 0) ? searchTitles(idx, query, results, MAX_MENU_ITEMS) : 0;
+                        if (ri >= rcount) ri = max(0, rcount - 1);
+                        changed = true;
+                    }
+                } else if (len < (int)sizeof(query) - 1) {
+                    query[len++] = (CHARS[ci] == ' ') ? ' ' : CHARS[ci];
+                    query[len]   = '\0';
+                    rcount = searchTitles(idx, query, results, MAX_MENU_ITEMS);
+                    ri = 0;
+                    if (rcount == 1) { inR = true; }  // auto-jump when narrowed to 1
+                    changed = true;
+                }
             }
-            changed = true;
-        } else if (btnDn.tapped() || btnDn.repeating()) {
-            int nc = ci + COLS;
-            ci = (nc < TOTAL) ? nc : ci % COLS;  // wrap to top of same column
-            changed = true;
-        } else if (btnRt.tapped() || btnRt.repeating()) {
-            ci = (ci + 1) % TOTAL;
-            changed = true;
-        } else if (btnOk.tapped()) {
-            if (ci == DEL_IDX) {
-                if (len > 0) { output[--len] = '\0'; changed = true; }
-            } else if (len < maxLen - 1) {
-                output[len++] = (CHARS[ci] == '_') ? ' ' : CHARS[ci];
-                output[len]   = '\0';
-                ci = 0; changed = true;
+        } else {
+            // ── Results mode ────────────────────────────────────────────────
+            if (btnUp.tapped() || btnUp.repeating()) {
+                if (ri > 0) ri--;
+                else inR = false;   // UP at top → back to grid
+                changed = true;
+            } else if (btnDn.tapped() || btnDn.repeating()) {
+                if (ri < rcount - 1) ri++;
+                changed = true;
+            } else if (btnOk.tapped() || btnRt.tapped()) {
+                return (int)results[ri];
+            } else if (btnBk.held()) {
+                gGoHome = true; return -1;
+            } else if (btnBk.tapped()) {
+                inR = false; changed = true;  // back to grid
             }
-        } else if (btnBk.held()) {
-            gGoHome = true; output[0] = '\0'; return;
-        } else if (btnBk.tapped()) {
-            if (len > 0) { output[--len] = '\0'; changed = true; }
-            else { return; }  // empty → done / cancel
         }
     }
 }
+

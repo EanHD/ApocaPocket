@@ -252,31 +252,10 @@ void loop() {
             openEntry((uint16_t)entryId);
 
     } else if (c == searchIdx) {
-        // ── Search ──
-        char query[24];
-        textInput("Search", query, sizeof(query));
-        if (query[0] == '\0' || gGoHome || gEmergency) return;
-
-        uint16_t results[MAX_MENU_ITEMS];
-        int rcount = searchTitles(gIndex, query, results, MAX_MENU_ITEMS);
-
-        if (rcount == 0) {
-            screen.topStrip("Search", true, nullptr);
-            screen.clearCanvas();
-            screen.canvasCenterText("No results found", (TOP_Y + BOT_Y) / 2, COL_SEC);
-            screen.pushCanvas();
-            delay(1500);
-            return;
-        }
-
-        for (int i = 0; i < rcount; i++)
-            menuPtrs[i] = gIndex.title(results[i]);
-
-        char rTitle[28];
-        snprintf(rTitle, sizeof(rTitle), "Results (%d)", rcount);
-        int s = menu(rTitle, menuPtrs, rcount);
-        if (s >= 0 && !gGoHome && !gEmergency)
-            openEntry(results[s]);
+        // ── Search: integrated char-grid + live results ──
+        int eid = searchFlow(gIndex);
+        if (eid >= 0 && !gGoHome && !gEmergency)
+            openEntry((uint16_t)eid);
 
     } else if (c == bmIdx) {
         // ── Bookmarks ──

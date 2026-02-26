@@ -616,15 +616,51 @@ static bool containsCI(const char* haystack, const char* needle) {
     return false;
 }
 
+// Returns a relevance score for a title against a query (0 = no match).
+// 50 = title starts with query, 30 = word/boundary match, 10 = anywhere.
+static int titleScore(const char* title, const char* query) {
+    int hlen = strlen(title);
+    int nlen = strlen(query);
+    if (nlen == 0 || nlen > hlen) return 0;
+
+    // Find first case-insensitive match
+    int firstPos = -1;
+    for (int i = 0; i <= hlen - nlen; i++) {
+        bool match = true;
+        for (int j = 0; j < nlen; j++) {
+            if (toLowerC(title[i + j]) != toLowerC(query[j])) { match = false; break; }
+        }
+        if (match) { firstPos = i; break; }
+    }
+    if (firstPos < 0) return 0;
+    if (firstPos == 0) return 50;                        // starts with query
+    char prev = title[firstPos - 1];
+    if (prev == ' ' || prev == '-' || prev == ':' || prev == '(')
+        return 30;                                       // word boundary match
+    return 10;                                           // substring match
+}
+
 int searchTitles(const Index& idx, const char* query,
                  uint16_t* results, int maxResults) {
+    struct Match { uint16_t eid; int8_t score; };
+    static Match buf[200];
     int count = 0;
-    for (uint16_t i = 0; i < idx.count() && count < maxResults; i++) {
-        if (containsCI(idx.title(i), query)) {
-            results[count++] = i;
-        }
+
+    for (uint16_t i = 0; i < idx.count() && count < 200; i++) {
+        int s = titleScore(idx.title(i), query);
+        if (s > 0) { buf[count].eid = i; buf[count].score = (int8_t)s; count++; }
     }
-    return count;
+
+    // Insertion sort descending by score (N typically small)
+    for (int i = 1; i < count; i++) {
+        Match key = buf[i]; int j = i - 1;
+        while (j >= 0 && buf[j].score < key.score) { buf[j+1] = buf[j]; j--; }
+        buf[j+1] = key;
+    }
+
+    int out = count < maxResults ? count : maxResults;
+    for (int i = 0; i < out; i++) results[i] = buf[i].eid;
+    return out;
 }
 
 // -- Metadata (subfolder names) --
