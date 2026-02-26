@@ -4,81 +4,59 @@ title: Alaska Regional Hazards
 category: L2_food_biology
 ---
 
-# Alaska Regional Hazards
+# Alaska Hazards
 
-Region: All Alaska. 663,300 sq mi. 99% has no road access.
+Region: All Alaska. Interior, arctic, southcentral, Southeast rainforest. 663,300 sq mi.
 
-## Extreme Cold Protocol
+## Extreme Cold
 
-At -40°F: Frostbite in 2-5 min. Batteries die. Fuel gels. Metal shatters. All normal rules change.
+Interior winter: -40 to -60°F common. Record: -80°F (Prospect Creek, 1971).
+Critical threshold: -40°F. Metal snaps. Batteries fail. Exposed skin freezes in 30 seconds.
+Vehicle prep: keep tank full. Park facing out. Survival bag in every vehicle at all times.
+Frostbite timeline: 30 min at -20°F with 15 mph wind. 5 min at -40°F. 2 min at -60°F.
+Layering: polypropylene base, fleece mid, down layer, wind shell. No cotton ever at any layer.
+Vapor barrier: in extreme cold, plastic bag over socks inside boot prevents boot moisture freezing.
+Fire: carry 3 ignition methods. Standard lighters fail below -20°F. Use waterproof matches plus firestarter.
 
-Hypothermia stages:
-- Mild (95-90°F): Shivering, fumbling hands. Get to shelter, dry clothes, warm fluids.
-- Moderate (90-82°F): Shivering STOPS. Confusion. Paradoxical undressing. Body heat from another person, heated fluids, shelter.
-- Severe (<82°F): Unconscious, rigid, slow pulse. Check pulse 60 seconds. CPR if none. Handle gently (rough movement = cardiac arrest). "Not dead until warm and dead."
+## Hypothermia
 
-Frostbite: Do not rewarm if refreezing possible. Thaw in 98-105°F water 20-30 min. Pain during rewarming is good. Do not rub. Keep frozen and walk out if necessary; refreezing after thaw = amputation.
+Alaska reality: hypothermia can kill in summer at 50°F with rain and wind.
+Stages: shivering (mild, core above 95°F) > stumbling and confusion (moderate, 90-95°F) > no shivering (severe, below 90°F).
+Severe: do not rub extremities. Handle gently. Warm core first. Give warm fluids only if conscious.
+Field rewarming: remove all wet clothing. Insulate from ground. Skin-to-skin in sleeping bag.
+Prevention: never get wet if avoidable. Wool and synthetics retain warmth when wet. Cotton does not.
 
-Keep batteries inside clothing. Use lithium batteries only. Ferrocerium rod ignites at any temp (lighters fail at -40°F).
+## Brown Bears
 
-## Brown Bear Protocol
+Alaska brown bear: largest land predator in North America. Males up to 1,000 lbs.
+Peak danger: berry season (Aug-Sep) and salmon streams (Jul-Sep).
+Bear spray: mandatory for Alaska backcountry. Minimum 7.9 oz canister. Effective at 25-30 feet.
+Encounter response: speak calmly. Do not run. Stand tall. Avoid direct eye contact.
+Defensive attack: play dead. Face down. Hands laced over neck. Spread legs to resist rollover.
+Predatory attack (night, stalking): fight back aggressively with everything available. Never play dead to predatory bear.
 
-Alaska has 30,000-35,000 brown bears. 30-40 attacks/year. No recorded attacks on groups of 4+.
+## Ice Safety
 
-Most dangerous situations: salmon streams Jul-Sep (bears concentrated), sows with cubs May-Jul, fall fattening Sep-Oct, bear on a carcass (leave immediately if you smell decay or see ravens circling).
+River ice: clear blue ice is strongest. White or opaque ice has air pockets and lower load rating.
+Minimum safe thickness: walking = 4 inches. Snowmachine = 8 inches. ATV = 10 inches. Truck = 12 inches.
+Spring breakup: ice weakens from bottom upward. Surface looks solid but cannot bear load. Avoid all river ice Mar-May.
+Self-rescue: carry ice picks on chest on a cord. Kick feet horizontal, claw forward, roll away from hole.
+Travel over ice: always carry dry clothes in a waterproof bag.
 
-Prevention: Yell "hey bear" every 30-60 sec. Bear spray in hip holster, safety off, practice drawing. Bear-resistant canister required in many areas. Never store food or scented items in tent.
+## Permafrost + Water
 
-Encounter response:
-- Distance: Stand your ground, talk calmly, wave arms, back away slowly. Do not run.
-- Charge coming: Stand ground. Spray when bear is within 20-30 ft. Aim at face, 2-second burst.
-- Contact (defensive): Lie flat on stomach, hands behind neck, legs spread. Stay still even if biting. Wait 10+ min after bear leaves.
-- Contact (predatory, bear won't stop): FIGHT BACK. Eyes, nose, face. Maximum aggression.
+Permafrost: ground permanently frozen under most of interior and arctic Alaska. Surface thaws seasonally.
+Do not dig latrines near water sources. Permafrost prevents natural filtration. Contamination spreads.
+Glacial or silty water: filter through bandana first to protect pump filter. Silt destroys ceramic filters fast.
+Giardia is endemic in Alaska streams. Treat all surface water regardless of how clear it appears.
+Snowmelt: safest water source if collected away from animal activity. No treatment needed from clean source.
 
-Predatory signs: stalking, silent approach, continues attack after 2+ min.
+## Bush Survival
 
-## Black Bear Protocol
-
-Less aggressive than brown. Give space. Don't run. Same spray procedure. Play dead for defensive, fight back for predatory.
-
-## Ice and River Safety
-
-Glacial rivers: milky white, fast (5-10 mph), cold (35-40°F). Never wade above thigh-deep.
-
-Safe river crossing: Scout first. Unclip pack hip belt. Face upstream, sidestep at 45 degrees. Use pole for 3-point contact. Do not cross if fast whitewater is visible.
-
-If swept: Jettison pack. Float on back, feet downstream. Angle toward shore. Do not try to stand (foot entrapment).
-
-Ice crossing: Test every step with pole. Avoid areas near current or springs. If falling through: spread arms on ice surface, kick feet, crawl out horizontal, roll away from hole.
-
-Cold water immersion: 40-50°F water = 30-90 min survival. Gasp reflex in first 3 min = do not swim yet, float and control breathing. After 30 min = swim failure, must be rescued.
-
-## Bush Plane as Lifeline
-
-Most Alaska communities are fly-in only. Bush plane = ambulance, supply line, rescue.
-
-- File a float plan before any backcountry travel (leave with someone who will call SAR if you don't return)
-- Satellite communicator (Garmin InReach or SPOT) is minimum for backcountry
-- PLB (Personal Locator Beacon): One-way SOS only, no subscription, use only for life-threatening emergency
-- Satellite phone (Iridium): Two-way, works anywhere, $50-150/month
-- VHF radio 121.5 MHz: Emergency frequency monitored by aircraft
-
-## Alaska Contacts
-
-- Alaska Rescue Coordination Center (AKRCC): 1-800-420-7230 (primary SAR coordination)
-- Alaska State Troopers: 907-269-5511 (statewide dispatch)
-- US Coast Guard District 17: 907-463-2000 (Southeast AK and coastal)
-- National Weather Service Alaska: weather.gov/alaska
-
-## Monthly Danger Peaks
-
-Nov-Mar: Extreme cold, polar night, equipment failure, blizzards
-May-Jul: Brown bears (cubs), cold water, river crossings
-Jul-Sep: Salmon streams = highest bear density
-Sep-Oct: Bears fattening (aggressive), moose rut, early winter
-
-Most dangerous condition: Cold water immersion (30-90 min to death)
-Second: Cold exposure at -40°F+ without shelter
-Third: Remote injury with no way to call for help
-
-Cross-refs: l1-extreme-cold-survival.md, l2-brown-bear-safety.md, l1-cold-water-survival.md
+Cell service is absent in most of Alaska. Satellite communicator (SPOT or Garmin inReach) is mandatory for backcountry.
+Signaling: mirror flash visible 10 or more miles in direct sun. Green vegetation on fire = white smoke.
+Float plan: file with someone before any trip. Include return date, route, and destination contact.
+Improvised shelter: snow trench insulated with spruce boughs is warmer than a tent in high wind.
+Food priority: fish (streams are abundant) > small game (ptarmigan, snowshoe hare) > berries.
+Never eat unknown mushrooms. Never eat polar bear liver. Toxic vitamin A levels can be lethal.
+Nearest help may be 50-200 miles. Self-rescue must be the primary plan, not rescue from outside.

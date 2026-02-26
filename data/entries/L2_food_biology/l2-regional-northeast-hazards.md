@@ -4,54 +4,68 @@ title: Northeast US Regional
 category: L2_food_biology
 ---
 
-# Northeast US Regional
+# Northeast US Hazards
 
-Region: ME, NH, VT, MA, RI, CT, NY, PA, NJ, MD, DE, WV
+Region: ME NH VT MA RI CT NY PA NJ MD DE WV
 
-## Top 5 Hazards
+## Seasonal Risks
 
-Blizzard/Nor'easter (Oct-Apr, peak Jan-Mar): EXTREME. 1-4 ft snow, 30-60 mph winds, power out days to weeks. Kills via CO poisoning (improper heating) more than cold exposure. Stay inside. Never heat with stove/grill/generator indoors.
+Oct-Apr: Nor'easters, blizzards, ice storms. Cold injury daily risk Dec-Feb.
+May-Jun: Spring flooding from snowmelt plus rain. Tick season begins. Late freeze risk.
+Jul-Aug: Heat waves in urban areas (uncommon but deadly). Flooding from tropical systems.
+Sep-Oct: Coastal flooding. Tropical remnants. Tick season peak. Nor'easter season opens.
 
-Ice storm (Dec-Mar): EXTREME power outage risk. Half-inch ice = widespread outages 1-3 weeks. Falling branches kill. Stay inside until 24-48 hrs after storm ends. Trees fail without warning for days after.
+## Nor'easters
 
-Flooding (Apr-May snowmelt + summer storms): HIGH. Rivers flood April-May from snowpack. Flash floods in August from tropical remnants. Same rules: do not drive through water.
+Rapid development. Typical warning window: 12-24 hours.
+Wind: 40-80 mph. Snowfall: 1-3 feet in 24 hours. Coastal storm surge 2-8 feet.
+Coastal zones: low-lying areas flood. Evacuate before roads close.
+Power outages: 1-7 days common. Weeks after major storms with tree falls on lines.
+Action trigger: winter storm warning = stay home. Nor'easter watch = stock up and prepare now.
 
-Lyme disease (May-Sep, peak Jun-Jul): HIGH and underestimated. 90% of US cases in Northeast. Nymph tick = poppy-seed size, easily missed. Must be attached 36-48 hrs to transmit. Bull's-eye rash in only 70-80% of cases. Treat with doxycycline 100mg 2x/day x 21 days.
+## Blizzards
 
-Cold injury/hypothermia (Nov-Mar): HIGH in mountains and during storm isolation. White Mountains and Adirondacks have alpine conditions year-round. Wet + cold = faster hypothermia than dry cold.
+Criteria: 35+ mph sustained winds plus quarter-mile visibility plus 3 or more hours duration.
+Whiteout: disorientation in minutes even 100 feet from shelter. Use guide rope to reach outbuildings.
+Carbon monoxide: running generator or vehicle inside a garage kills. Keep combustion 20 feet from windows.
+Hypothermia indoors: unheated house plus outside cold equals danger. Seal one room. Share body heat.
+Roof load: 20 or more inches of wet heavy snow is structural risk on flat or low-pitch roofs.
 
-## Seasonal Prep
+## Ice Storms
 
-Fall (Sep-Oct): 7-14 day food supply. Fill propane/kerosene. Firewood indoors for 2+ weeks. Generator fuel stabilized. Battery-powered CO detector.
+Freezing rain of 0.5 inch or more brings down power lines. Roads impassable for 1-3 days.
+Ice looks like wet pavement from above. Do not assume traction exists.
+Fall prevention: shuffle step, weight forward, arms out. Microspikes or ice cleats if available.
+Downed trees block roads after major ice storms. Chainsaw is a primary recovery tool.
 
-Winter (Nov-Mar): Keep car gas above half-tank. Extra blankets in every room. Drip faucets when below 10°F. Know your neighbor check-in plan.
+## Flooding
 
-Spring (Apr-May): Flood route awareness. Tick prevention gear ready before first outdoor activity.
+Spring flooding: rivers peak 1-3 days after snowmelt plus rain on saturated ground.
+Flash floods: rain on frozen or saturated ground runs off with no absorption.
+Do not drive through flooded roads. Six inches of fast water knocks adult down. 12 inches floats car.
+Basement flooding: turn off electrical panel breakers before entering any water-flooded basement.
 
-## Key Actions by Hazard
+## Ticks and Lyme
 
-Nor'easter: Listen for NWS warning 24 hrs out. Gather inside before storm. Central room = easier to heat. Crack window if using combustion heat (CO). Roof rake if 3+ ft accumulation.
+Peak season: May through September. Black-legged tick (deer tick) carries Lyme, babesiosis, anaplasmosis.
+Check entire body after any outdoor activity: groin, armpits, scalp, behind ears, back of knees.
+Removal: fine-tip tweezers. Grasp close to skin surface. Pull steadily upward. No twisting or burning.
+Lyme symptoms: expanding bull's-eye rash, fever, fatigue, joint pain. Appear 3-30 days after bite.
+Treatment: doxycycline if tick was attached over 36 hours in endemic area. Consult a doctor.
 
-Ice storm: Do not go outside during or for 24 hrs after. Power line on ground = stay 30 ft away regardless of appearance. Generator runs outside only, 20 ft from doors.
+## Cold Injury
 
-Lyme: Permethrin clothing + DEET skin for all outdoor activity May-Sep. Check body within 1-2 hrs after return. Priority spots: scalp, behind ears, groin, armpits, behind knees. Save removed tick in sealed bag with date.
+Frostnip: red, numb, tingling skin. Rewarm with body heat. No permanent damage if caught early.
+Frostbite: white or gray waxy skin. Do not rub. Rewarm only if no chance of refreezing.
+Hypothermia: shivering = mild. Stumbling and confusion = moderate. No shivering = severe.
+Severe: handle gently. No rough movement. Rewarm core before extremities.
+Layering: moisture-wicking base plus insulating mid-layer plus wind and waterproof shell.
 
-Cold injury: Frostbite = white/gray waxy skin. Do not rewarm if refreezing possible. Rewarm in 98-105°F water 20-30 min. Extreme pain during rewarming is good (nerves working).
+## Grid-Down Winter
 
-Black bear encounter: Make noise while hiking. Stand your ground if charged, do not run. Play dead for defensive attack (sow with cubs, startled bear). Fight back for predatory attack (bear stalking and won't stop).
-
-## Monthly Danger Peaks
-
-Most dangerous months: January-February (cold + storm isolation + CO risk)
-Most dangerous condition: Carbon monoxide from indoor generator/grill use
-Second: Multi-week power outage in winter without backup heat
-Third: Lyme disease (chronic if untreated)
-
-## Heat Priority
-
-1. Wood stove or fireplace (best, no CO in structure)
-2. Kerosene heater with open window (ventilation required)
-3. Propane heater with open window (ventilation required)
-4. Never: gas oven, charcoal grill, gasoline generator indoors
-
-Cross-refs: l1-cold-weather-survival.md, l2-tick-borne-disease.md, l1-power-outage-winter.md
+Heat priority: prevent pipes from bursting. Drain system if leaving. Keep one room above freezing.
+Heating alternatives: wood stove, vented propane heater, kerosene heater with cracked window for air.
+CO alarm: required with any combustion heat source indoors. Battery-powered model.
+Pipes: freeze at sustained temperatures below 20°F. Keep trickle running or drain before long outage.
+Food: root vegetables, canned goods, dried beans store well and tolerate cold storage.
+Mobility: snowshoes or cross-country skis for travel if roads impassable more than 3 days.
