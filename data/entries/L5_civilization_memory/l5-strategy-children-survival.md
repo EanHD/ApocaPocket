@@ -79,21 +79,21 @@ steps:
 - Prioritize protein and fat for energy
 - Avoid unfamiliar foods during stress
 
-## Medical Vulnerabilities
+## Medical Risks
 
 - Hypoglycemia more rapid in children
 - Temperature regulation less efficient
 - Signs of shock appear faster
 - Fast breathing rate: serious sign
 
-## Education During Crisis
+## Education in Crisis
 
 - Stories and games maintain morale
 - Teach practical skills as needed
 - Keep learning to reduce fear
 - Daily reading if materials available
 
-## Movement Considerations
+## Movement Planning
 
 - Children tire faster, need more rest
 - Carry small children when needed

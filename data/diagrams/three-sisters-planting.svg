@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle">THREE SISTERS</text>
+
+<!-- Background garden bed -->
+<ellipse cx="120" cy="130" rx="108" ry="95" fill="#1a0f00" stroke="#664422" stroke-width="1"/>
+
+<!-- SQUASH (outermost, large irregular leaves) -->
+<ellipse cx="50" cy="80" rx="25" ry="18" fill="#00FF00" fill-opacity="0.3" stroke="#00FF00" stroke-width="1.5"/>
+<ellipse cx="190" cy="80" rx="25" ry="18" fill="#00FF00" fill-opacity="0.3" stroke="#00FF00" stroke-width="1.5"/>
+<ellipse cx="50" cy="175" rx="25" ry="18" fill="#00FF00" fill-opacity="0.3" stroke="#00FF00" stroke-width="1.5"/>
+<ellipse cx="190" cy="175" rx="25" ry="18" fill="#00FF00" fill-opacity="0.3" stroke="#00FF00" stroke-width="1.5"/>
+<ellipse cx="120" cy="50" rx="22" ry="14" fill="#00FF00" fill-opacity="0.3" stroke="#00FF00" stroke-width="1.5"/>
+<ellipse cx="120" cy="205" rx="22" ry="14" fill="#00FF00" fill-opacity="0.3" stroke="#00FF00" stroke-width="1.5"/>
+<text x="120" y="230" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">SQUASH shades/retains moisture</text>
+
+<!-- BEANS (middle ring) -->
+<circle cx="85" cy="95" r="10" fill="#FFFF00" fill-opacity="0.4" stroke="#FFFF00" stroke-width="1.5"/>
+<circle cx="155" cy="95" r="10" fill="#FFFF00" fill-opacity="0.4" stroke="#FFFF00" stroke-width="1.5"/>
+<circle cx="85" cy="160" r="10" fill="#FFFF00" fill-opacity="0.4" stroke="#FFFF00" stroke-width="1.5"/>
+<circle cx="155" cy="160" r="10" fill="#FFFF00" fill-opacity="0.4" stroke="#FFFF00" stroke-width="1.5"/>
+<!-- Bean vines climbing to center corn -->
+<line x1="90" y1="100" x2="112" y2="118" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="150" y1="100" x2="128" y2="118" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="90" y1="155" x2="112" y2="132" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="150" y1="155" x2="128" y2="132" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+
+<!-- CORN (center, vertical stalk) -->
+<line x1="120" y1="80" x2="120" y2="150" stroke="#FF8800" stroke-width="4"/>
+<!-- Corn leaves -->
+<line x1="120" y1="100" x2="105" y2="88" stroke="#FF8800" stroke-width="2"/>
+<line x1="120" y1="108" x2="135" y2="96" stroke="#FF8800" stroke-width="2"/>
+<line x1="120" y1="118" x2="106" y2="110" stroke="#FF8800" stroke-width="2"/>
+<!-- Corn top tassel -->
+<line x1="120" y1="80" x2="116" y2="68" stroke="#FF8800" stroke-width="1.5"/>
+<line x1="120" y1="80" x2="124" y2="68" stroke="#FF8800" stroke-width="1.5"/>
+<line x1="120" y1="80" x2="120" y2="67" stroke="#FF8800" stroke-width="1.5"/>
+<circle cx="120" cy="125" r="16" fill="none" stroke="#FF8800" stroke-width="1.5" stroke-dasharray="2,2"/>
+
+<!-- Labels -->
+<text x="120" y="126" font-family="monospace" font-size="10" fill="#FF8800" text-anchor="middle">CORN</text>
+<text x="120" y="138" font-family="monospace" font-size="10" fill="#FF8800" text-anchor="middle">support</text>
+<text x="88" y="82" font-family="monospace" font-size="10" fill="#FFFF00">BEANS</text>
+<text x="82" y="92" font-family="monospace" font-size="10" fill="#FFFF00">+nitrogen</text>
+
+<!-- Spacing note and timing -->
+<text x="5" y="14" font-family="monospace" font-size="10" fill="#FFFFFF">Spacing: 30cm · rows 90cm</text>
+<text x="5" y="25" font-family="monospace" font-size="10" fill="#FF8800">Corn first → beans+squash 2wks</text>
+</svg>

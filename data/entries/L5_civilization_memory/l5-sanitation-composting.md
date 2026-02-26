@@ -22,74 +22,64 @@ sources:
 - WHO excreta composting guidelines
 last_verified: '2026-02-24'
 audit_status: verified
+diagram: diagrams/composting-toilet-workflow.svg
 ---
-
 # Composting Toilet
 
-## Overview
+## Toilet Alternatives
 
-- Sawdust system: simplest, most proven
-- Bucket collection; transfer to compost pile
-- Carbon cover (sawdust) controls odor
-  and balances nitrogen for composting
-- No flush water needed
-- End product: safe, valuable compost
-- Must thermophilically compost 1+ year
-- Used successfully by millions worldwide
+Three options from least to most infrastructure:
 
-## Sawdust System
+Cat hole (1-2 people, short-term):
+- Dig 6-8 inches deep, 4 inches wide
+- At least 200 feet (60m) from water, trails, camp
+- Cover immediately with removed soil
+- One use per hole. Move location every time.
+- Do not reuse an area within 1 year
 
-- Bucket: 5 gal with tight-fitting lid
-- After each use: cover with sawdust,
-  wood shavings, or dry leaf litter
-- 1 cup cover material per use
-- No odor when properly covered
-- When full: transfer to compost pile
-- Rinse bucket; add rinse water to pile
+Pit latrine (group use, weeks to months):
+- Dig 3-5 feet deep, 1 foot square
+- 200 feet from any water source, downhill from camp
+- Build simple enclosure for rain protection and privacy
+- Cover each use with dry soil, ash, or sawdust (1 cup)
+- Fill in and relocate when within 1 foot of surface
 
-## Compost Pile Build
+Bucket and sawdust system (semi-permanent):
+- 5-gallon bucket with tight-fitting lid
+- Cover each use with sawdust or dry leaf litter (1 cup)
+- Transfer to covered compost pile when full
+- Rinse bucket, add rinse water to pile
+- Two-pile system: one receiving, one curing
 
-- Pile must be large: 1 cubic yard minimum
-- Large mass required for heat generation
-- Base layer: coarse carbon (wood chips)
-- Deposit bucket contents in center
-- Cover immediately with carbon material
-- Surround with thick straw or wood chips
-- Contained bin: two-chamber design best
+## Location Rules
 
-## Temp and Pathogen Kill
+Always apply regardless of method:
+- Minimum 200 feet from any water source
+- Downhill and downwind from living areas
+- Not in drainage paths or seasonal low spots
+- Mark locations to prevent accidental repeat use
 
-- Target: 113F sustained for 72+ hours
-- Or 131F for 1 hour (pasteurization)
-- Thermometer check confirms safety
-- If pile does not heat: add nitrogen
-  (green material, urine) and moisten
-- Cold pile: pathogens persist; do not use
-- Two-pile system: one filling, one curing
+In flat terrain: distance from water is the priority.
 
-## One-Year Curing
+## Pathogen Die-Off Time
 
-- After pile is full: cap and leave for 1 year
-- Do not add new material during cure year
-- After cure: compost looks and smells
-  like dark, rich humus; no pathogens
-- Test: smell and appearance, not color
-- If in doubt: leave another full year
-- Use on fruit trees; not root vegetables
+Pathogens survive for months to years in cold, wet waste.
+Hot composting eliminates them. Cold composting does not.
 
-## Urine Diversion
+For safe use near food:
+- Hot compost (131F sustained 72+ hours): cure 1 year
+- Cold pile (no measured heat): cure 2 years minimum
+- Use on fruit trees first. Never on root vegetables.
 
-- Urine separate greatly reduces volume
-- Diluted urine: excellent liquid fertilizer
-- Reduces pile moisture management
-- Divert urine to mulch basin or orchard
-- Combined systems also work with
-  sufficient carbon cover per use
+If pile never reached temperature: treat as hazardous.
+Apply only to non-food areas or do not apply at all.
 
-## Long-Term Value
+## Covering Materials
 
-- Eliminates sewage completely
-- Builds soil fertility; reduces fertilizer
-- Works in cold climates with management
-- Safer than most latrine systems
-- Closes the nutrient cycle completely
+Covering controls odor and adds the carbon layer needed:
+- Sawdust: best, fine, dry, absorbs moisture quickly
+- Dry leaf litter: effective, widely available
+- Wood ash: good, raises pH to aid pathogen elimination
+- Straw or dry grass: acceptable, less effective on odor
+
+Use 1 cup per deposit. Without covering: flies and odor.

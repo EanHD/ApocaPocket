@@ -1,7 +1,7 @@
 ---
 id: l4-agriculture-goat-keeping
 id: l4-agriculture-goat-keeping
-title: Goat Keeping — Milk, Meat, & Small Ruminants
+title: Goat Keeping
 category: L4_agriculture_labor
 subtopic:
 - "agriculture tags:"

@@ -42,6 +42,7 @@ audit_status: "verified steps:"
 last_verified: 2026-02-19
 confidence: high
 offline_assets: []
+diagram: diagrams/water-purification-comparison.svg
 ---
 
 ## Overview

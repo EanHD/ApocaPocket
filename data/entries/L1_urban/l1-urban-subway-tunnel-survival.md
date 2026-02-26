@@ -1,6 +1,6 @@
 ---
 id: l1-urban-subway-tunnel-survival
-title: "Subway & Tunnel Survival"
+title: Subway & Tunnel
 category: "L1"
 subcategory: "urban"
 tags: ["subway", "tunnel", "underground", "flooding", "third-rail", "evacuation"]

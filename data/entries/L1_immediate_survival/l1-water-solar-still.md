@@ -22,6 +22,7 @@ sources:
 - us-army-fm-21-76
 last_verified: '2026-02-24'
 audit_status: verified
+diagram: diagrams/solar-still-setup.svg
 ---
 
 # Solar Still

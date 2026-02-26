@@ -53,7 +53,7 @@ steps:
 ---
 # Group Survival
 
-## Roles and Responsibilities
+## Roles & Duties
 
 - Leader: decisions and morale
 - Security: perimeter and watch
@@ -74,7 +74,7 @@ steps:
 - Focus on group interest not personal
 - Remove dangerous individuals if needed
 
-## Food and Resource Allocation
+## Food & Resource Alloc
 
 - Children and medical needs first
 - Work contribution tracked fairly

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle">SNARE BASICS</text>
+
+<!-- SIMPLE LOOP SNARE (top half) -->
+<text x="120" y="28" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">LOOP SNARE — for rabbit/squirrel</text>
+
+<!-- Branch above trail -->
+<rect x="40" y="35" width="160" height="8" rx="3" fill="#664422"/>
+<text x="200" y="44" font-family="monospace" font-size="10" fill="#664422">branch</text>
+
+<!-- Snare wire up to branch -->
+<line x1="120" y1="43" x2="120" y2="55" stroke="#FFFFFF" stroke-width="2"/>
+
+<!-- Loop circle (fist-width ~8cm for rabbit) -->
+<ellipse cx="120" cy="68" rx="18" ry="13" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+
+<!-- Height indicator: head-height above ground -->
+<line x1="148" y1="81" x2="180" y2="81" stroke="#555" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="180" y1="60" x2="180" y2="100" stroke="#555" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="182" y="73" font-family="monospace" font-size="10" fill="#FFFF00">10cm</text>
+<text x="182" y="85" font-family="monospace" font-size="10" fill="#FFFF00">above</text>
+<text x="182" y="97" font-family="monospace" font-size="10" fill="#FFFF00">ground</text>
+
+<!-- Ground line -->
+<line x1="20" y1="100" x2="220" y2="100" stroke="#664422" stroke-width="3"/>
+
+<!-- Animal trail marks (footprints) -->
+<ellipse cx="80" cy="108" rx="4" ry="3" fill="#FF8800" fill-opacity="0.5"/>
+<ellipse cx="95" cy="112" rx="4" ry="3" fill="#FF8800" fill-opacity="0.5"/>
+<ellipse cx="110" cy="108" rx="4" ry="3" fill="#FF8800" fill-opacity="0.5"/>
+<!-- Arrow showing animal path through snare -->
+<text x="70" y="125" font-family="monospace" font-size="10" fill="#FF8800">tracks → place on trail</text>
+
+<!-- Loop size note -->
+<text x="14" y="80" font-family="monospace" font-size="10" fill="#FFFFFF">fist-wide</text>
+<text x="14" y="93" font-family="monospace" font-size="10" fill="#FFFFFF">loop</text>
+<line x1="50" y1="87" x2="104" y2="80" stroke="#555" stroke-width="1" stroke-dasharray="3,2"/>
+
+<!-- FIGURE-4 DEADFALL (bottom half) -->
+<line x1="5" y1="138" x2="235" y2="138" stroke="#333" stroke-width="1"/>
+<text x="120" y="152" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">FIGURE-4 DEADFALL TRIGGER</text>
+
+<!-- Heavy rock -->
+<rect x="50" y="158" width="80" height="22" rx="3" fill="#555" stroke="#888" stroke-width="1"/>
+<text x="90" y="173" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">HEAVY ROCK</text>
+
+<!-- 3-stick figure-4 support -->
+<!-- Vertical stick -->
+<line x1="110" y1="180" x2="110" y2="210" stroke="#FF8800" stroke-width="3" stroke-linecap="round"/>
+<!-- Diagonal stick -->
+<line x1="110" y1="195" x2="140" y2="215" stroke="#FF8800" stroke-width="3" stroke-linecap="round"/>
+<!-- Horizontal bait stick -->
+<line x1="110" y1="210" x2="160" y2="210" stroke="#FF8800" stroke-width="3" stroke-linecap="round"/>
+<!-- Bait label -->
+<text x="165" y="214" font-family="monospace" font-size="10" fill="#00FF00">← bait here</text>
+<!-- Ground -->
+<line x1="20" y1="220" x2="220" y2="220" stroke="#664422" stroke-width="2"/>
+<text x="14" y="235" font-family="monospace" font-size="10" fill="#FFFFFF">Touch bait → rock drops</text>
+</svg>

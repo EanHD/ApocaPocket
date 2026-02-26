@@ -21,6 +21,7 @@ sources:
 - us-army-fm-21-76
 last_verified: '2026-02-24'
 audit_status: verified
+diagram: diagrams/fire-lay-types.svg
 ---
 
 # Star Fire Lay

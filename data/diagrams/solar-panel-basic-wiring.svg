@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle">SOLAR WIRING</text>
+
+<!-- Main wiring diagram: left to right flow -->
+<!-- SOLAR PANEL -->
+<rect x="5" y="28" width="46" height="36" rx="3" fill="#003366" stroke="#00FFFF" stroke-width="2"/>
+<!-- Panel grid lines -->
+<line x1="5" y1="40" x2="51" y2="40" stroke="#00FFFF" stroke-width="0.5" stroke-opacity="0.5"/>
+<line x1="5" y1="52" x2="51" y2="52" stroke="#00FFFF" stroke-width="0.5" stroke-opacity="0.5"/>
+<line x1="21" y1="28" x2="21" y2="64" stroke="#00FFFF" stroke-width="0.5" stroke-opacity="0.5"/>
+<line x1="37" y1="28" x2="37" y2="64" stroke="#00FFFF" stroke-width="0.5" stroke-opacity="0.5"/>
+<text x="28" y="72" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">PANEL</text>
+
+<!-- Arrow 1 -->
+<line x1="52" y1="46" x2="72" y2="46" stroke="#FF4444" stroke-width="2"/>
+<line x1="52" y1="56" x2="72" y2="56" stroke="#333333" stroke-width="2"/>
+<polygon points="70,42 78,46 70,50" fill="#FF4444"/>
+<polygon points="70,52 78,56 70,60" fill="#333333"/>
+
+<!-- CHARGE CONTROLLER -->
+<rect x="78" y="28" width="52" height="36" rx="3" fill="#1a1a00" stroke="#FFFF00" stroke-width="2"/>
+<text x="104" y="47" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">CHARGE</text>
+<text x="104" y="58" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">CTRL</text>
+<text x="104" y="72" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">prevents overcharge</text>
+
+<!-- Arrow 2 -->
+<line x1="130" y1="46" x2="148" y2="46" stroke="#FF4444" stroke-width="2"/>
+<line x1="130" y1="56" x2="148" y2="56" stroke="#333333" stroke-width="2"/>
+<polygon points="146,42 154,46 146,50" fill="#FF4444"/>
+<polygon points="146,52 154,56 146,60" fill="#333333"/>
+
+<!-- BATTERY -->
+<rect x="154" y="28" width="40" height="36" rx="3" fill="#1a1a1a" stroke="#00FF00" stroke-width="2"/>
+<text x="174" y="44" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">12V</text>
+<text x="174" y="57" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">BATT</text>
+<text x="174" y="72" font-family="monospace" font-size="10" fill="#555" text-anchor="middle">fuse here</text>
+
+<!-- FUSE symbol near battery output -->
+<rect x="196" y="40" width="18" height="12" rx="2" fill="none" stroke="#FF8800" stroke-width="2"/>
+<line x1="196" y1="46" x2="190" y2="46" stroke="#FF8800" stroke-width="2"/>
+<line x1="214" y1="46" x2="220" y2="46" stroke="#FF8800" stroke-width="2"/>
+<text x="204" y="64" font-family="monospace" font-size="10" fill="#FF8800" text-anchor="middle">FUSE</text>
+
+<!-- Arrow 3 to load -->
+<line x1="220" y1="46" x2="234" y2="46" stroke="#FF4444" stroke-width="2"/>
+<polygon points="232,42 240,46 232,50" fill="#FF4444"/>
+
+<!-- LOAD label off right edge -->
+<text x="200" y="80" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">→ LOAD</text>
+
+<!-- Wire color legend -->
+<line x1="5" y1="92" x2="235" y2="92" stroke="#333" stroke-width="1"/>
+<text x="120" y="104" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">WIRE COLORS · 12V SYSTEM</text>
+<rect x="10" y="112" width="16" height="10" fill="#FF4444" rx="1"/>
+<text x="30" y="122" font-family="monospace" font-size="10" fill="#FFFFFF">RED = positive (+)</text>
+<rect x="10" y="128" width="16" height="10" fill="#222" stroke="#555" stroke-width="1" rx="1"/>
+<text x="30" y="138" font-family="monospace" font-size="10" fill="#FFFFFF">BLACK = negative (−)</text>
+
+<!-- Series vs Parallel note -->
+<line x1="5" y1="148" x2="235" y2="148" stroke="#333" stroke-width="1"/>
+<text x="120" y="161" font-family="monospace" font-size="11" fill="#00FFFF" text-anchor="middle">PANEL WIRING</text>
+
+<!-- Series: two panels stacked with +/- labels -->
+<text x="14" y="175" font-family="monospace" font-size="10" fill="#FFFFFF">SERIES: voltage adds</text>
+<!-- Panel symbols -->
+<rect x="14" y="178" width="22" height="14" rx="1" fill="#003366" stroke="#00FFFF" stroke-width="1"/>
+<text x="25" y="188" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle">+−</text>
+<line x1="36" y1="185" x2="46" y2="185" stroke="#FF4444" stroke-width="1.5"/>
+<rect x="46" y="178" width="22" height="14" rx="1" fill="#003366" stroke="#00FFFF" stroke-width="1"/>
+<text x="57" y="188" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle">+−</text>
+
+<!-- Parallel: two panels side by side -->
+<text x="110" y="175" font-family="monospace" font-size="10" fill="#FFFFFF">PARALLEL: amps add</text>
+<rect x="110" y="178" width="22" height="14" rx="1" fill="#003366" stroke="#00FFFF" stroke-width="1"/>
+<rect x="110" y="196" width="22" height="14" rx="1" fill="#003366" stroke="#00FFFF" stroke-width="1"/>
+<line x1="132" y1="185" x2="140" y2="185" stroke="#FF4444" stroke-width="1.5"/>
+<line x1="132" y1="203" x2="140" y2="203" stroke="#FF4444" stroke-width="1.5"/>
+<line x1="140" y1="185" x2="140" y2="203" stroke="#FF4444" stroke-width="1.5"/>
+
+<text x="120" y="228" font-family="monospace" font-size="10" fill="#FF8800" text-anchor="middle">Fuse rated 125% max current</text>
+</svg>

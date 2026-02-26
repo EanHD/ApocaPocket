@@ -23,6 +23,7 @@ sources:
 - Taozhu Gong Yangyu Jing (460 BC)
 last_verified: '2026-02-24'
 audit_status: verified
+diagram: diagrams/l4-companion-planting.svg
 ---
 
 # Fan Li Polyculture System

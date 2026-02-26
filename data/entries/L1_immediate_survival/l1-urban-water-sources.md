@@ -13,6 +13,7 @@ sources:
 - "FEMA Urban Search and Rescue Field Operations Guide"
 - "Red Cross Urban Disaster Response Manual"
 - "CDC Emergency Water Guidelines"
+diagram: diagrams/water-source-decision.svg
 ---
 
 # Urban Water Sources -

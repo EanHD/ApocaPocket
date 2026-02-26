@@ -42,6 +42,7 @@ steps:
 - 'Ankle/foot: wrap in pillow or thick clothing and bind. Or use figure-8 wrap with elastic/cloth bandage. Leave toes exposed to monitor circulation.'
 - 'After splinting: elevate injured limb above heart level when possible. Apply cold (wet cloth, creek water, snow in cloth) for 20 minutes on, 20 minutes off to reduce swelling.'
 - 'Check circulation every 30 minutes: pulse below fracture, skin color, temperature, sensation, and ability to move fingers/toes.'
+diagram: diagrams/bone-setting-splint.svg
 ---
 
 # Improvised Splinting

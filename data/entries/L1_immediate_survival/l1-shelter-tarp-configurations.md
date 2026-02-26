@@ -62,7 +62,7 @@ steps:
 - 'TARP SPECIFICATIONS: Size: 8×10 ft for 1-2 people, 10×12 ft for 2-3 people, 12×12 ft for 3-4 or group gear. Material: silnylon (lightest, 8-16 oz), polyethylene (cheapest, 1.5-3 lbs), canvas (heaviest but durable, 4-6 lbs). Grommets: minimum 6 (corners + midpoints), 8-12 ideal for flexibility.'
 - 'RIDGELINE SETUP: use 1/8" paracord or larger. Height: 4-5 ft for most setups, 5-6 ft for lean-to with tall person. Tension: tight enough that ridgeline doesn''t sag when tarp draped. Use trucker''s hitch or tensioner for easy adjustment.'
 - 'PRACTICE DRILL: set up each configuration once in good weather to learn rigging before needing it in rain/dark. Time yourself: A-frame <5 min, lean-to <3 min, diamond fly <7 min. Mark your preferred tie-out points with small loops of colored cord for fast identification in field.'
-diagram: /assets/diagrams/L1/shelter/tarp-configurations.svg
+diagram: diagrams/tarp-configurations.svg
 ---
 
 # Tarp Shelter Setups

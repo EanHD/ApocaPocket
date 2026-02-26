@@ -34,6 +34,7 @@ steps:
   method). (5) Strain, bottle. (6) Leave 60+ lbs honey for bees (winter food).'
 - 'WINTER MANAGEMENT: Bees cluster for warmth (do not open hive in cold). Reduce hive entrance (keeps mice out). Check weight (lift hive - should feel heavy. Light = feed sugar syrup). Insulate if extreme
   cold.'
+diagram: diagrams/beehive-anatomy.svg
 ---
 # Beekeeping Advanced
 

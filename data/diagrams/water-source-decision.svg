@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+  <rect width="240" height="240" fill="black"/>
+  <text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle" font-weight="bold">WATER SOURCE</text>
+
+  <!-- Header row -->
+  <text x="10" y="26" font-family="monospace" font-size="10" fill="#FFFF00">SOURCE</text>
+  <text x="145" y="26" font-family="monospace" font-size="10" fill="#FFFF00">ACTION</text>
+  <line x1="8" y1="30" x2="232" y2="30" stroke="#FFFF00" stroke-width="1"/>
+
+  <!-- Rain / Dew -->
+  <rect x="8" y="32" width="224" height="26" fill="#002200"/>
+  <text x="14" y="47" font-family="monospace" font-size="10" fill="#00FF00">Rain / Dew</text>
+  <text x="145" y="47" font-family="monospace" font-size="10" fill="#00FF00">Drink direct ✓</text>
+
+  <!-- Running stream -->
+  <rect x="8" y="59" width="224" height="26" fill="#111100"/>
+  <text x="14" y="74" font-family="monospace" font-size="10" fill="#FFFF00">Running stream</text>
+  <text x="145" y="74" font-family="monospace" font-size="10" fill="#FFFF00">Filter + Boil</text>
+
+  <!-- Still water -->
+  <rect x="8" y="86" width="224" height="26" fill="#111100"/>
+  <text x="14" y="101" font-family="monospace" font-size="10" fill="#FFFF00">Still water</text>
+  <text x="145" y="101" font-family="monospace" font-size="10" fill="#FFFF00">Boil + Chemical</text>
+
+  <!-- Urban tap -->
+  <rect x="8" y="113" width="224" height="26" fill="#111100"/>
+  <text x="14" y="128" font-family="monospace" font-size="10" fill="#FFFF00">Urban tap</text>
+  <text x="145" y="128" font-family="monospace" font-size="10" fill="#FFFF00">Boil if advisory</text>
+
+  <!-- Ground dig -->
+  <rect x="8" y="140" width="224" height="26" fill="#111100"/>
+  <text x="14" y="155" font-family="monospace" font-size="10" fill="#FF8800">Ground dig</text>
+  <text x="145" y="155" font-family="monospace" font-size="10" fill="#FF8800">Filter + Boil</text>
+
+  <!-- Saltwater -->
+  <rect x="8" y="167" width="224" height="26" fill="#220000"/>
+  <text x="14" y="182" font-family="monospace" font-size="10" fill="#FF4444" font-weight="bold">Saltwater</text>
+  <text x="145" y="182" font-family="monospace" font-size="10" fill="#FF4444" font-weight="bold">NEVER DRINK</text>
+
+  <line x1="8" y1="194" x2="232" y2="194" stroke="#444" stroke-width="1"/>
+  <line x1="138" y1="30" x2="138" y2="194" stroke="#444" stroke-width="1"/>
+
+  <!-- Legend -->
+  <text x="12" y="208" font-family="monospace" font-size="10" fill="#FFFF00">KEY:</text>
+  <rect x="38" y="198" width="10" height="10" fill="#00FF00"/>
+  <text x="52" y="208" font-family="monospace" font-size="10" fill="#00FF00">Safe</text>
+  <rect x="90" y="198" width="10" height="10" fill="#FFFF00"/>
+  <text x="104" y="208" font-family="monospace" font-size="10" fill="#FFFF00">Treat</text>
+  <rect x="148" y="198" width="10" height="10" fill="#FF8800"/>
+  <text x="162" y="208" font-family="monospace" font-size="10" fill="#FF8800">High risk</text>
+
+  <!-- Warning -->
+  <rect x="8" y="216" width="224" height="20" rx="2" fill="#3a0000" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="120" y="229" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle" font-weight="bold">When in doubt: Filter+Boil+Chemical</text>
+</svg>

@@ -1,0 +1,77 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">FALLOUT SHELTER</text>
+
+<!-- Outside label with fallout particles -->
+<text x="120" y="24" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">OUTSIDE — Fallout particles raining down</text>
+<!-- Particle dots -->
+<circle cx="30" cy="30" r="2" fill="#FF4444"/>
+<circle cx="55" cy="28" r="1.5" fill="#FF4444"/>
+<circle cx="80" cy="32" r="2" fill="#FF4444"/>
+<circle cx="105" cy="27" r="1.5" fill="#FF4444"/>
+<circle cx="130" cy="31" r="2" fill="#FF4444"/>
+<circle cx="155" cy="26" r="1.5" fill="#FF4444"/>
+<circle cx="180" cy="30" r="2" fill="#FF4444"/>
+<circle cx="205" cy="28" r="1.5" fill="#FF4444"/>
+<!-- Falling lines -->
+<line x1="30" y1="32" x2="28" y2="38" stroke="#FF4444" stroke-width="0.7"/>
+<line x1="55" y1="30" x2="53" y2="36" stroke="#FF4444" stroke-width="0.7"/>
+<line x1="80" y1="34" x2="78" y2="40" stroke="#FF4444" stroke-width="0.7"/>
+<line x1="105" y1="29" x2="103" y2="35" stroke="#FF4444" stroke-width="0.7"/>
+<line x1="130" y1="33" x2="128" y2="39" stroke="#FF4444" stroke-width="0.7"/>
+<line x1="155" y1="28" x2="153" y2="34" stroke="#FF4444" stroke-width="0.7"/>
+<line x1="180" y1="32" x2="178" y2="38" stroke="#FF4444" stroke-width="0.7"/>
+<line x1="205" y1="30" x2="203" y2="36" stroke="#FF4444" stroke-width="0.7"/>
+
+<!-- Wood frame house (outermost, worst) -->
+<rect x="10" y="40" width="160" height="100" fill="#110800" stroke="#FF4444" stroke-width="1" rx="3"/>
+<text x="90" y="52" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">Wood frame house</text>
+<text x="90" y="61" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">thin walls — minimal protection</text>
+
+<!-- Brick/concrete building (better) -->
+<rect x="22" y="65" width="136" height="70" fill="#1A0F00" stroke="#FFFF00" stroke-width="1.5" rx="3"/>
+<text x="90" y="77" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Brick / Concrete building</text>
+<text x="90" y="87" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Better — mass absorbs radiation</text>
+
+<!-- Underground / basement (best) -->
+<rect x="36" y="92" width="108" height="38" fill="#001A00" stroke="#00FF00" stroke-width="2" rx="3"/>
+<text x="90" y="104" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">UNDERGROUND/BASEMENT</text>
+<text x="90" y="114" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">BEST PROTECTION</text>
+<text x="90" y="123" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Center room, no windows</text>
+
+<!-- Inside best shelter notes -->
+<text x="8" y="148" fill="#00FF00" font-size="10.0" font-weight="bold" font-family="monospace">Inside shelter:</text>
+<text x="8" y="157" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Cover vents/gaps with tape+plastic</text>
+<text x="8" y="165" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Stock food, water, battery radio</text>
+<text x="8" y="173" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Stay in center room away from walls</text>
+
+<!-- Timeline on right -->
+<rect x="175" y="40" width="63" height="132" fill="#0A0A00" stroke="#00FFFF" stroke-width="1" rx="2"/>
+<text x="207" y="51" fill="#00FFFF" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">TIMELINE</text>
+<text x="178" y="63" fill="#FFFF00" font-size="10.0" font-family="monospace">Hr 1:</text>
+<text x="178" y="71" fill="#FFFFFF" font-size="10.0" font-family="monospace">Stay inside</text>
+<line x1="178" y1="75" x2="236" y2="75" stroke="#333333" stroke-width="0.5"/>
+<text x="178" y="83" fill="#FFFF00" font-size="10.0" font-family="monospace">24 hrs:</text>
+<text x="178" y="91" fill="#00FF00" font-size="10.0" font-family="monospace">Radiation</text>
+<text x="178" y="99" fill="#00FF00" font-size="10.0" font-family="monospace">drops 90%</text>
+<line x1="178" y1="103" x2="236" y2="103" stroke="#333333" stroke-width="0.5"/>
+<text x="178" y="111" fill="#FFFF00" font-size="10.0" font-family="monospace">7 days:</text>
+<text x="178" y="119" fill="#00FF00" font-size="10.0" font-family="monospace">Near</text>
+<text x="178" y="127" fill="#00FF00" font-size="10.0" font-family="monospace">background</text>
+<line x1="178" y1="131" x2="236" y2="131" stroke="#333333" stroke-width="0.5"/>
+<text x="178" y="139" fill="#FF4444" font-size="10.0" font-family="monospace">Don't go out</text>
+<text x="178" y="147" fill="#FF4444" font-size="10.0" font-family="monospace">until official</text>
+<text x="178" y="155" fill="#FF4444" font-size="10.0" font-family="monospace">all-clear!</text>
+<text x="178" y="165" fill="#FFFFFF" font-size="10.0" font-family="monospace">7/10 rule:</text>
+<text x="178" y="172" fill="#FFFFFF" font-size="10.0" font-family="monospace">7x time=</text>
+
+<!-- Bottom rule of 7s -->
+<line x1="2" y1="182" x2="238" y2="182" stroke="#444444" stroke-width="1"/>
+<text x="120" y="192" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">RULE OF SEVENS: Every 7x time = 10x less radiation</text>
+<text x="120" y="202" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">1hr→7hr→2days→2wks→3mo: each step 1/10th dose</text>
+<text x="120" y="212" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Basement center = ~40x more protection than outside</text>
+
+<!-- Warning bottom -->
+<rect x="2" y="222" width="236" height="16" fill="#1A0000" stroke="#FF4444" stroke-width="1" rx="1"/>
+<text x="120" y="232" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">Shelter-in-place = highest survival advantage</text>
+</svg>

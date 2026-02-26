@@ -2,6 +2,7 @@
 id: l2-trapping-snares-advanced
 title: Advanced Snares &
 category: L2_food_biology
+diagram: diagrams/snare-types.svg
 ---
 # Advanced Snares &
 

@@ -89,7 +89,7 @@ last_verified: '2026-02-19'
 - Use flat of anvil corner for angles
 - Work quickly, narrow reheating window
 
-## Hardening and Tempering
+## Harden & Temper
 
 - High-carbon steel: quench in water or oil
 - Fast quench = harder but more brittle

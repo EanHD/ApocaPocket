@@ -8,6 +8,14 @@
 // BMP path: /data/diagrams/{eid}.bmp
 // Diagrams live in the root data/diagrams/ folder on the SD card.
 // Copy diagrams/bmp/*.bmp from the repo to data/diagrams/ on the SD card.
+//
+// Conversion command (run from repo root):
+//   for f in data/diagrams/*.svg; do
+//     n=$(basename "$f" .svg)
+//     rsvg-convert -w 240 -h 240 "$f" -o /tmp/d.png
+//     convert /tmp/d.png -background black -flatten -resize 240x240 \
+//       -gravity center -extent 240x240 -type TrueColor BMP3:data/diagrams/bmp/"$n".bmp
+//   done
 static void buildDiagPath(const char* eid, char* buf, int bufLen) {
     snprintf(buf, bufLen, "/data/diagrams/%.32s.bmp", eid);
 }
@@ -112,9 +120,9 @@ bool showDiagram(const char* eid, const char* title) {
     screen.centerText("Loading diagram", DISP_H / 2 - 8, COL_SEC);
     drawLoadProgress(0);
 
-    // Row buffers on stack (200px wide × 3 bytes BGR + 200 × 2 bytes RGB565)
-    // 200*3 = 600, 200*2 = 400 → 1000 bytes total — within RP2040 stack
-    const int MAX_ROW = 200;
+    // Row buffers on stack (240px wide × 3 bytes BGR + 240 × 2 bytes RGB565)
+    // 240*3 = 720, 240*2 = 480 → 1200 bytes total — well within RP2040 stack
+    const int MAX_ROW = 240;
     uint8_t  bgrBuf[MAX_ROW * 3];
     uint16_t rgbBuf[MAX_ROW];
 

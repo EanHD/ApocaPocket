@@ -2,6 +2,7 @@
 id: l2-fishing-traps-weirs
 title: Fish Weirs & Traps ⭐⭐⭐
 category: L2_food_biology
+diagram: diagrams/fish-trap-design.svg
 ---
 # Fish Weirs & Traps ⭐⭐⭐
 

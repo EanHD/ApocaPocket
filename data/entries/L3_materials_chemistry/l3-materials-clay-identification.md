@@ -68,7 +68,7 @@ steps:
 - Shrinks and hardens when fired
 - Found in riverbeds, cut banks
 
-## Field Test — Plasticity
+## Test: Plasticity
 
 - Take small amount, wet thoroughly
 - Roll into thin rope (pencil thick)

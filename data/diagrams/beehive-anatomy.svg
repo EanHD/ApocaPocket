@@ -1,0 +1,82 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">HIVE ANATOMY</text>
+
+<!-- HIVE STAND -->
+<rect x="40" y="218" width="110" height="10" fill="#442200" stroke="#FFFFFF" stroke-width="1"/>
+<line x1="50" y1="218" x2="45" y2="228" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="60" y1="218" x2="55" y2="228" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="130" y1="218" x2="135" y2="228" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="140" y1="218" x2="145" y2="228" stroke="#FFFFFF" stroke-width="2"/>
+<text x="172" y="228" fill="#FFFFFF" font-size="10.0" font-family="monospace">HIVE STAND</text>
+<line x1="155" y1="223" x2="170" y2="223" stroke="#FFFFFF" stroke-width="0.7"/>
+
+<!-- BOTTOM BOARD -->
+<rect x="35" y="207" width="120" height="11" fill="#331100" stroke="#FFFFFF" stroke-width="1"/>
+<rect x="35" y="210" width="18" height="7" fill="#000000" stroke="#FFFF00" stroke-width="0.5"/>
+<text x="95" y="215" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">BOTTOM BOARD</text>
+<text x="172" y="215" fill="#FFFFFF" font-size="10.0" font-family="monospace">Bottom board</text>
+<line x1="155" y1="213" x2="170" y2="213" stroke="#FFFFFF" stroke-width="0.7"/>
+<text x="25" y="215" fill="#FFFF00" font-size="10.0" text-anchor="end" font-family="monospace">ENT</text>
+
+<!-- DEEP BODY 2 (lower brood) -->
+<rect x="40" y="178" width="110" height="29" fill="#1A0A00" stroke="#00FFFF" stroke-width="1.5"/>
+<text x="95" y="189" fill="#00FFFF" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">DEEP BODY</text>
+<text x="95" y="199" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">BROOD (eggs, larvae)</text>
+<text x="95" y="207" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">capped brood box 2</text>
+
+<!-- DEEP BODY 1 (upper brood) -->
+<rect x="40" y="149" width="110" height="29" fill="#1A0A00" stroke="#00FFFF" stroke-width="1.5"/>
+<text x="95" y="160" fill="#00FFFF" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">DEEP BODY</text>
+<text x="95" y="170" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">BROOD box 1</text>
+<text x="95" y="178" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">queen lives here</text>
+<text x="172" y="167" fill="#00FFFF" font-size="10.0" font-family="monospace">Brood boxes</text>
+<line x1="150" y1="164" x2="170" y2="164" stroke="#00FFFF" stroke-width="0.7"/>
+
+<!-- QUEEN EXCLUDER -->
+<rect x="40" y="142" width="110" height="7" fill="#002222" stroke="#FFFF00" stroke-width="1"/>
+<!-- Mesh dots -->
+<text x="95" y="148" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">- - - QUEEN EXCLUDER - - -</text>
+<text x="172" y="148" fill="#FFFF00" font-size="10.0" font-family="monospace">Queen excluder</text>
+<line x1="150" y1="146" x2="170" y2="146" stroke="#FFFF00" stroke-width="0.7"/>
+
+<!-- HONEY SUPER -->
+<rect x="40" y="113" width="110" height="29" fill="#1A1000" stroke="#FFFF00" stroke-width="1.5"/>
+<text x="95" y="124" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">HONEY SUPER</text>
+<text x="95" y="134" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">honey storage</text>
+<text x="95" y="142" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">(shallow box)</text>
+<text x="172" y="128" fill="#FFFF00" font-size="10.0" font-family="monospace">Honey super</text>
+<line x1="150" y1="126" x2="170" y2="126" stroke="#FFFF00" stroke-width="0.7"/>
+
+<!-- INNER COVER -->
+<rect x="38" y="105" width="114" height="8" fill="#221100" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="95" cy="109" r="4" fill="black" stroke="#FFFFFF" stroke-width="1"/>
+<text x="95" y="111" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">O</text>
+<text x="130" y="111" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">INNER COVER</text>
+<text x="172" y="111" fill="#FFFFFF" font-size="10.0" font-family="monospace">Inner cover</text>
+<line x1="150" y1="109" x2="170" y2="109" stroke="#FFFFFF" stroke-width="0.7"/>
+
+<!-- ROOF -->
+<polygon points="30,105 160,105 166,98 24,98" fill="#332200" stroke="#FFFFFF" stroke-width="1"/>
+<text x="95" y="104" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">OUTER COVER / ROOF</text>
+<text x="172" y="101" fill="#FFFFFF" font-size="10.0" font-family="monospace">Outer cover</text>
+<line x1="150" y1="100" x2="170" y2="100" stroke="#FFFFFF" stroke-width="0.7"/>
+
+<!-- Vertical arrow on left -->
+<line x1="22" y1="98" x2="22" y2="218" stroke="#444444" stroke-width="0.7"/>
+
+<!-- Key Facts box -->
+<rect x="2" y="18" width="38" height="74" fill="#0A0A00" stroke="#00FF00" stroke-width="1" rx="2"/>
+<text x="21" y="27" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">KEY FACTS</text>
+<text x="21" y="37" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Inspect</text>
+<text x="21" y="44" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">7-10 days</text>
+<text x="21" y="54" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Eggs=queen</text>
+<text x="21" y="61" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">present</text>
+<text x="21" y="71" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Tan caps=</text>
+<text x="21" y="78" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">hlthy brood</text>
+<text x="21" y="88" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">Bees at ent=</text>
+
+<!-- Bottom note -->
+<line x1="2" y1="232" x2="238" y2="232" stroke="#444444" stroke-width="0.7"/>
+<text x="120" y="238" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Bees clustering at entrance = overcrowded, add super</text>
+</svg>

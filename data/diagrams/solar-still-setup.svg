@@ -1,0 +1,72 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">SOLAR STILL</text>
+
+<!-- Sun rays at top right -->
+<circle cx="210" cy="28" r="10" fill="#FFFF00" fill-opacity="0.3" stroke="#FFFF00" stroke-width="1"/>
+<text x="210" y="31" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">SUN</text>
+<!-- Sun rays hitting sheet -->
+<line x1="200" y1="36" x2="160" y2="80" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+<polygon points="160,80 163,73 157,73" fill="#FFFF00"/>
+<line x1="205" y1="38" x2="130" y2="85" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+<polygon points="130,85 132,78 127,79" fill="#FFFF00"/>
+<line x1="208" y1="35" x2="100" y2="78" stroke="#FFFF00" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+<!-- Ground level line -->
+<line x1="5" y1="95" x2="235" y2="95" stroke="#8B4513" stroke-width="2"/>
+<text x="5" y="103" fill="#8B4513" font-size="10.0" font-family="monospace">GROUND</text>
+
+<!-- Hole cross-section -->
+<line x1="30" y1="95" x2="30" y2="160" stroke="#8B4513" stroke-width="1.5"/>
+<line x1="30" y1="160" x2="170" y2="160" stroke="#8B4513" stroke-width="1.5"/>
+<line x1="170" y1="160" x2="170" y2="95" stroke="#8B4513" stroke-width="1.5"/>
+<!-- dirt shading inside hole walls -->
+<rect x="30" y="95" width="140" height="65" fill="#8B4513" fill-opacity="0.15"/>
+
+<!-- Dimensions -->
+<line x1="18" y1="95" x2="18" y2="160" stroke="#FFFFFF" stroke-width="0.5"/>
+<polygon points="18,95 15,103 21,103" fill="#FFFFFF"/>
+<polygon points="18,160 15,152 21,152" fill="#FFFFFF"/>
+<text x="3" y="132" fill="#FFFFFF" font-size="10.0" font-family="monospace">45cm</text>
+<line x1="30" y1="172" x2="170" y2="172" stroke="#FFFFFF" stroke-width="0.5"/>
+<polygon points="30,172 38,169 38,175" fill="#FFFFFF"/>
+<polygon points="170,172 162,169 162,175" fill="#FFFFFF"/>
+<text x="90" y="180" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">90cm wide</text>
+
+<!-- Vegetation inside hole -->
+<ellipse cx="80" cy="148" rx="25" ry="8" fill="#00FF00" fill-opacity="0.3" stroke="#00FF00" stroke-width="0.8"/>
+<text x="80" y="151" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">vegetation</text>
+<ellipse cx="135" cy="152" rx="18" ry="6" fill="#00FF00" fill-opacity="0.2" stroke="#00FF00" stroke-width="0.5"/>
+
+<!-- Plastic sheet stretched over hole -->
+<line x1="5" y1="95" x2="97" y2="115" stroke="#00FFFF" stroke-width="1.5"/>
+<line x1="97" y1="115" x2="195" y2="95" stroke="#00FFFF" stroke-width="1.5"/>
+<text x="100" y="85" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">plastic sheet</text>
+
+<!-- Small rock in center creating dip -->
+<circle cx="97" cy="114" r="4" fill="#FFFFFF" fill-opacity="0.5" stroke="#FFFFFF" stroke-width="1"/>
+<text x="97" y="125" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">rock</text>
+
+<!-- Collection container -->
+<rect x="82" y="125" width="30" height="18" rx="2" fill="#00FFFF" fill-opacity="0.2" stroke="#00FFFF" stroke-width="1"/>
+<text x="97" y="135" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">CUP</text>
+<text x="97" y="141" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">collect</text>
+
+<!-- Condensation drip arrows -->
+<line x1="85" y1="115" x2="88" y2="124" stroke="#00FFFF" stroke-width="0.8" stroke-dasharray="1,1"/>
+<polygon points="88,124 85,118 91,118" fill="#00FFFF"/>
+<text x="55" y="112" fill="#00FFFF" font-size="10.0" font-family="monospace">condensation</text>
+<text x="55" y="119" fill="#00FFFF" font-size="10.0" font-family="monospace">drips down</text>
+
+<!-- Optional straw/tube -->
+<line x1="112" y1="130" x2="195" y2="95" stroke="#FFFF00" stroke-width="0.8" stroke-dasharray="2,2"/>
+<text x="185" y="107" fill="#FFFF00" font-size="10.0" font-family="monospace">tube</text>
+<text x="180" y="115" fill="#FFFF00" font-size="10.0" font-family="monospace">(optional)</text>
+
+<!-- Output and notes -->
+<line x1="2" y1="186" x2="238" y2="186" stroke="#00FFFF" stroke-width="0.5"/>
+<text x="120" y="196" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">OUTPUT: 500ml–1L per day</text>
+<text x="120" y="206" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Best in strong direct sunlight</text>
+<text x="120" y="216" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Add green vegetation to boost yield</text>
+<text x="120" y="227" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Seal sheet edges with dirt to trap moisture</text>
+</svg>

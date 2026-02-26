@@ -71,7 +71,7 @@ steps:
 - Aggressive behavior change
 - Suicidal statements: take seriously
 
-## Psychological First Aid
+## Psych First Aid
 
 - Connect: calm non-intrusive presence
 - Safety: provide physical security
@@ -92,7 +92,7 @@ steps:
 - Humor when appropriate
 - Creative expression (stories, song)
 
-## Trauma vs Normal Stress
+## Trauma vs Stress
 
 - Trauma: 4+ weeks impairment after event
 - Normal: improving over days and weeks

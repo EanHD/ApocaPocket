@@ -1,7 +1,7 @@
 ---
 id: l3-chemistry-candle-making
 id: l3-chemistry-candle-making
-title: Tallow and Beeswax Candle Making
+title: Candle Making
 category: L3_materials_elements
 subtopic:
 - "basic_chemistry tags:"

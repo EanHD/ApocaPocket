@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+  <rect width="240" height="240" fill="black"/>
+  <text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle" font-weight="bold">FIRE METHOD</text>
+
+  <!-- Decision question -->
+  <rect x="8" y="18" width="224" height="18" rx="2" fill="#003333" stroke="#00FFFF" stroke-width="1.5"/>
+  <text x="120" y="30" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">What do you have?</text>
+
+  <!-- Column headers -->
+  <line x1="8" y1="40" x2="232" y2="40" stroke="#FFFF00" stroke-width="1"/>
+  <text x="12" y="52" font-family="monospace" font-size="10" fill="#FFFF00">METHOD</text>
+  <text x="118" y="52" font-family="monospace" font-size="10" fill="#FFFF00">SKILL</text>
+  <text x="160" y="52" font-family="monospace" font-size="10" fill="#FFFF00">COND.</text>
+  <text x="204" y="52" font-family="monospace" font-size="10" fill="#FFFF00">SPD</text>
+  <line x1="8" y1="56" x2="232" y2="56" stroke="#FFFF00" stroke-width="1"/>
+
+  <!-- Row 1: Lighter/Matches -->
+  <rect x="8" y="57" width="224" height="38" fill="#001a00"/>
+  <text x="12" y="70" font-family="monospace" font-size="10" fill="#00FF00" font-weight="bold">Lighter/</text>
+  <text x="12" y="83" font-family="monospace" font-size="10" fill="#00FF00" font-weight="bold">Matches</text>
+  <text x="118" y="72" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">None</text>
+  <text x="172" y="72" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">Any</text>
+  <text x="216" y="72" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">Fast</text>
+  <line x1="8" y1="95" x2="232" y2="95" stroke="#333" stroke-width="1"/>
+
+  <!-- Row 2: Ferro Rod -->
+  <rect x="8" y="96" width="224" height="38" fill="#001a0a"/>
+  <text x="12" y="109" font-family="monospace" font-size="10" fill="#00FFFF" font-weight="bold">Ferro Rod</text>
+  <text x="118" y="116" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">Low</text>
+  <text x="172" y="116" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">Any</text>
+  <text x="216" y="116" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">Fast</text>
+  <line x1="8" y1="134" x2="232" y2="134" stroke="#333" stroke-width="1"/>
+
+  <!-- Row 3: Bow Drill -->
+  <rect x="8" y="135" width="224" height="38" fill="#1a1a00"/>
+  <text x="12" y="148" font-family="monospace" font-size="10" fill="#FF8800" font-weight="bold">Bow Drill</text>
+  <text x="118" y="155" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle">High</text>
+  <text x="172" y="155" font-family="monospace" font-size="10" fill="#FF8800" text-anchor="middle">Dry</text>
+  <text x="216" y="155" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle">Slow</text>
+  <line x1="8" y1="173" x2="232" y2="173" stroke="#333" stroke-width="1"/>
+
+  <!-- Row 4: Solar Lens -->
+  <rect x="8" y="174" width="224" height="38" fill="#1a1000"/>
+  <text x="12" y="187" font-family="monospace" font-size="10" fill="#FFFF00" font-weight="bold">Solar Lens</text>
+  <text x="118" y="194" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">Low</text>
+  <text x="172" y="194" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">Sunny</text>
+  <text x="216" y="194" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">Med</text>
+  <line x1="8" y1="212" x2="232" y2="212" stroke="#333" stroke-width="1"/>
+
+  <!-- Vertical dividers -->
+  <line x1="110" y1="40" x2="110" y2="212" stroke="#444" stroke-width="1"/>
+  <line x1="153" y1="40" x2="153" y2="212" stroke="#444" stroke-width="1"/>
+  <line x1="197" y1="40" x2="197" y2="212" stroke="#444" stroke-width="1"/>
+
+  <!-- Footer tip -->
+  <text x="120" y="227" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">Always prep tinder FIRST</text>
+</svg>

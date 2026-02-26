@@ -51,7 +51,7 @@ steps:
 ---
 # Community Defense
 
-## Threat Assessment First
+## Threat Assessment
 
 - What is the nature of the threat?
 - Opportunistic crime vs organized threat
@@ -79,7 +79,7 @@ steps:
 - Elevated observation post
 - Signal protocol when threat seen
 
-## Non-Lethal Options First
+## Non-Lethal Options
 
 - Bright lights and noise can deter
 - Community visibility deters opportunists

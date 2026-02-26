@@ -22,6 +22,7 @@ sources:
 - Dick Heizer Flintknapping
 last_verified: '2026-02-24'
 audit_status: verified
+diagram: diagrams/l3-stone-tool-knapping.svg
 ---
 
 # Stone Knapping

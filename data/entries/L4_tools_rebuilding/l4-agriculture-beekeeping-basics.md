@@ -75,7 +75,7 @@ last_verified: '2026-02-19'
 - Veil and gloves: minimum protection
 - Bee jacket: full protection option
 
-## First Inspection After 1 Week
+## First Inspection: 1 Wk
 
 - Light smoker with dry material
 - Puff 2-3 times at entrance

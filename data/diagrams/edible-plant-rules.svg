@@ -1,0 +1,73 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">PLANT EDIBILITY TEST</text>
+
+<!-- Step boxes with arrows -->
+<!-- Step 1 -->
+<rect x="4" y="16" width="232" height="15" fill="#110000" stroke="#FF4444" stroke-width="1"/>
+<text x="10" y="26" fill="#FF4444" font-size="10.5" font-weight="bold" font-family="monospace">1 AVOID:</text>
+<text x="62" y="26" fill="#FFFFFF" font-size="10.0" font-family="monospace">milky sap · pods/beans · umbrella flowers</text>
+<line x1="120" y1="31" x2="120" y2="36" stroke="#555555" stroke-width="1"/>
+<polygon points="117,36 123,36 120,40" fill="#555555"/>
+
+<!-- Step 2 -->
+<rect x="4" y="40" width="232" height="15" fill="#111100" stroke="#FFFF00" stroke-width="1"/>
+<text x="10" y="50" fill="#FFFF00" font-size="10.5" font-weight="bold" font-family="monospace">2 SMELL:</text>
+<text x="60" y="50" fill="#FFFFFF" font-size="10.0" font-family="monospace">crush leaf — no bitter almond, no rank odor</text>
+<line x1="120" y1="55" x2="120" y2="60" stroke="#555555" stroke-width="1"/>
+<polygon points="117,60 123,60 120,64" fill="#555555"/>
+
+<!-- Step 3 -->
+<rect x="4" y="64" width="232" height="15" fill="#001100" stroke="#00FF00" stroke-width="1"/>
+<text x="10" y="74" fill="#00FF00" font-size="10.5" font-weight="bold" font-family="monospace">3 SKIN TEST:</text>
+<text x="80" y="74" fill="#FFFFFF" font-size="10.0" font-family="monospace">rub on inner wrist · wait 15 min</text>
+<!-- Wrist diagram -->
+<line x1="200" y1="68" x2="232" y2="68" stroke="#FFFFFF" stroke-width="2"/>
+<text x="216" y="77" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">wrist</text>
+<line x1="120" y1="79" x2="120" y2="84" stroke="#555555" stroke-width="1"/>
+<polygon points="117,84 123,84 120,88" fill="#555555"/>
+
+<!-- Reaction check for step 3 -->
+<text x="10" y="90" fill="#00FF00" font-size="10.0" font-family="monospace">→ No reaction? Continue. Reaction? DISCARD PLANT.</text>
+<line x1="120" y1="92" x2="120" y2="97" stroke="#555555" stroke-width="1"/>
+<polygon points="117,97 123,97 120,101" fill="#555555"/>
+
+<!-- Step 4 -->
+<rect x="4" y="101" width="232" height="14" fill="#001100" stroke="#00FF00" stroke-width="1"/>
+<text x="10" y="111" fill="#00FF00" font-size="10.5" font-weight="bold" font-family="monospace">4 LIP TEST:</text>
+<text x="72" y="111" fill="#FFFFFF" font-size="10.0" font-family="monospace">touch to lip · wait 3 min · no tingle/burn</text>
+<line x1="120" y1="115" x2="120" y2="120" stroke="#555555" stroke-width="1"/>
+<polygon points="117,120 123,120 120,124" fill="#555555"/>
+
+<!-- Step 5 -->
+<rect x="4" y="124" width="232" height="14" fill="#001100" stroke="#00FF00" stroke-width="1"/>
+<text x="10" y="134" fill="#00FF00" font-size="10.5" font-weight="bold" font-family="monospace">5 TONGUE:</text>
+<text x="74" y="134" fill="#FFFFFF" font-size="10.0" font-family="monospace">place on tongue · wait 15 min · no reaction</text>
+<line x1="120" y1="138" x2="120" y2="143" stroke="#555555" stroke-width="1"/>
+<polygon points="117,143 123,143 120,147" fill="#555555"/>
+
+<!-- Step 6 -->
+<rect x="4" y="147" width="232" height="14" fill="#001100" stroke="#00FFFF" stroke-width="1"/>
+<text x="10" y="157" fill="#00FFFF" font-size="10.5" font-weight="bold" font-family="monospace">6 CHEW:</text>
+<text x="58" y="157" fill="#FFFFFF" font-size="10.0" font-family="monospace">chew small piece · do NOT swallow · 15 min</text>
+<line x1="120" y1="161" x2="120" y2="166" stroke="#555555" stroke-width="1"/>
+<polygon points="117,166 123,166 120,170" fill="#555555"/>
+
+<!-- Step 7 -->
+<rect x="4" y="170" width="232" height="14" fill="#001100" stroke="#00FFFF" stroke-width="1"/>
+<text x="10" y="180" fill="#00FFFF" font-size="10.5" font-weight="bold" font-family="monospace">7 SWALLOW:</text>
+<text x="80" y="180" fill="#FFFFFF" font-size="10.0" font-family="monospace">small amount · wait 8 hrs · sick? vomit</text>
+<line x1="120" y1="184" x2="120" y2="189" stroke="#555555" stroke-width="1"/>
+<polygon points="117,189 123,189 120,193" fill="#555555"/>
+
+<!-- Step 8 -->
+<rect x="4" y="193" width="232" height="14" fill="#002200" stroke="#00FF00" stroke-width="1"/>
+<text x="10" y="203" fill="#00FF00" font-size="10.5" font-weight="bold" font-family="monospace">8 EAT:</text>
+<text x="46" y="203" fill="#FFFFFF" font-size="10.0" font-family="monospace">small amount · wait 24 hrs · OK → eat freely</text>
+
+<!-- Warning box -->
+<rect x="4" y="210" width="232" height="28" fill="#220000" stroke="#FF4444" stroke-width="1.5"/>
+<text x="120" y="220" fill="#FF4444" font-size="10.5" font-weight="bold" text-anchor="middle" font-family="monospace">⚠ NEVER TEST: mushrooms · white/red-sap berries</text>
+<text x="120" y="230" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Test ONE plant part at a time (leaf ≠ root ≠ berry)</text>
+<text x="120" y="238" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Takes ~2 days per plant — plan ahead</text>
+</svg>

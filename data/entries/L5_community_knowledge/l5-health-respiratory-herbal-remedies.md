@@ -35,7 +35,7 @@ steps:
 - 'LIMITATIONS: These remedies provide symptom relief but do not cure infections. Bacterial infections (pneumonia, strep throat) require antibiotics when available. Viral infections resolve on their own
   but can be dangerous in vulnerable people.'
 ---
-# Respiratory Herbal Remedies
+# Respiratory Herbs
 
 ## Steam Inhalation
 

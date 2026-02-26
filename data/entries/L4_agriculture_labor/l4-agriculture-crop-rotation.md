@@ -1,9 +1,10 @@
 ---
 id: l4-agriculture-crop-rotation
-title: Crop Rot
+title: Crop Rotation
 category: L4_agriculture_labor
+diagram: diagrams/crop-rotation-wheel.svg
 ---
-# Crop Rot
+# Crop Rotation
 
 **Priority: HIGH** | **Difficulty: Medium** | **Impact: Prevent disease, build soil, increase yields**
 
@@ -11,7 +12,7 @@ category: L4_agriculture_labor
 
 Crop rotation is the practice of growing different crops in sequence on the same land. It breaks pest/disease cycles, balances soil nutrients, improves soil structure, and increases yields without external inputs. This is the difference between depleted, disease-prone soil and regenerative, productive land. Ancient farmers knew this; modern industrial agriculture forgot it. You won't.
 
-## Crop Rot
+## Crop Rotation Plan
 
 **Problem with Monoculture (Same Crop Every Year):**
 - ❌ Pests/diseases build up in soil (host available every season)
@@ -370,7 +371,7 @@ Divide crops into 4 families. Rotate families through 4 beds/plots over 4 years.
 
 **Principle stays same:** Don't grow same family in same place consecutively. Scale up by adding beds/fields.
 
-## Crop Rot
+## Crop Rotation Plan
 
 **Yield Increases:**
 - 20-30% higher yields (average, vs monoculture)

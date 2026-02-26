@@ -48,7 +48,7 @@ steps:
 - 'LATITUDE ESTIMATION (bonus): Polaris altitude = latitude (northern hemisphere). Measuring: Extend arm, fist width = ~10° (varies by person, calibrate yours). Count fist widths from horizon to Polaris. Example: 4.5 fists = 45° = 45°N latitude (Minneapolis, Milan). Southern hemisphere: Southern Cross distance above horizon correlates to latitude but less direct.'
 - 'DIRECTION MAINTENANCE: Once direction established, maintain bearing by: 1) Landmark sighting — pick distant landmark on your bearing, walk toward it. Before reaching, pick new landmark on same bearing. 2) Stick trail — place stick pointing toward bearing every 100 paces, look back to verify alignment. 3) Night: keep Polaris over left/right shoulder to walk east/west. 4) Recheck direction hourly using multiple methods.'
 - 'PRACTICE DRILL: 1) Use shadow-stick method, compare to known direction (compass). Calculate error. 2) Find Polaris at night, take bearing. 3) Time your local solar noon for one week, note variations. 4) Calibrate your fist width (degrees). 5) Practice in different weather/seasons. Goal: establish direction in <20 minutes any time, any clear conditions.'
-diagram: /assets/diagrams/L1/navigation/natural-navigation.svg
+diagram: diagrams/natural-navigation.svg
 ---
 
 # Navigation Without

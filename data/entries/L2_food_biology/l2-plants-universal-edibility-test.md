@@ -44,6 +44,7 @@ steps:
   valuable than the edibility test.'
 last_verified: '2026-02-18'
 audit_status: verified
+diagram: diagrams/edible-plant-rules.svg
 ---
 
 # Universal Edibility Test

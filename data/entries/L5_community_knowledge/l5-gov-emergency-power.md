@@ -43,10 +43,10 @@ audit_status: verified
 
 - Define in advance; not during crisis
 - Examples of valid triggers:
-  - Attack on community
-  - Disease epidemic
-  - Critical infrastructure failure
-  - Natural disaster (flood, fire, quake)
+- Attack on community
+- Disease epidemic
+- Critical infrastructure failure
+- Natural disaster (flood, fire, quake)
 - Requires: council declaration; majority
 - Duration: 7-30 days; not open-ended
 - Renewal requires new vote
@@ -55,15 +55,15 @@ audit_status: verified
 
 - Specify exactly what may be done
 - Examples of valid powers:
-  - Mandatory evacuation orders
-  - Commandeer stored resources
-  - Suspend normal work assignments
-  - Restrict movement temporarily
+- Mandatory evacuation orders
+- Commandeer stored resources
+- Suspend normal work assignments
+- Restrict movement temporarily
 - Invalid even in emergency:
-  - Permanent property seizure
-  - Criminal punishment without process
-  - Suspension of constitutional rights
-  - Dissolution of governing bodies
+- Permanent property seizure
+- Criminal punishment without process
+- Suspension of constitutional rights
+- Dissolution of governing bodies
 
 ## Safeguards
 

@@ -46,422 +46,53 @@ offline_assets:
 - assets/diagrams/L1/medical/shock-recognition.svg
 ---
 
-## Overview
-Shock is inadequate blood flow and oxygen delivery to tissues and organs, resulting in cell death. It's a life-threatening emergency that can occur from bleeding, heart failure, infection, allergic reactions, or spinal injury. **Early recognition and treatment are critical** - survival drops dramatically after 30-60 minutes of untreated shock.
-
-**Key concept:** Shock is NOT about blood pressure alone - it's about inadequate perfusion (blood flow) to organs.
-
-## Types of Shock
-
-- Hypovolemic: Blood/fluid loss / Low volume
-- Cardiogenic: Heart failure / Pump failure
-- Distributive: Vasodilation / Vessels too wide
-- Obstructive:
-  Cause: Blocked blood flow
-  Primary Problem: Mechanical obstruction
-  Field Recognition: Tension pneumothorax, cardiac tamponade
+# Shock Recognition
 
 ## Recognize Shock
 
-### Classic Signs (In Order of Appearance)
-
-- Early (Compensated):
-  Mental Status: Anxious, restless
-  Skin: Pale, cool extremities
-  Pulse: Fast (>100), normal strength
-  BP: Normal
-  Breathing: Fast (>20)
-  Urine: Reduced
-- Progressive (Decompensated):
-  Mental Status: Confused, lethargic
-  Skin: Pale/gray, cold, clammy
-  Pulse: Fast (>120), weak/thready
-  BP: Low (<90 systolic)
-  Breathing: Fast (>30), shallow
-  Urine: Minimal/none
-- Irreversible (Terminal): Unresponsive / Mottled, cold
-
-### Vital Sign Measurements
-
-**Normal adult values:**
-- Heart rate: 60-100 beats/min
-- Respiratory rate: 12-20 breaths/min
-- Blood pressure: 90-140 systolic, 60-90 diastolic
-- Mental status: Alert, oriented
-- Skin: Warm, dry, pink
-- Urine output: >30 mL/hour (1 mL/kg/hr)
-
-**Shock indicators:**
-- Heart rate >100 (tachycardia) or weak/thready
-- Respiratory rate >20 or <10
-- Systolic BP <90 mmHg (or 30 mmHg below baseline)
-- Altered mental status (confusion, agitation, lethargy)
-- Skin pale/gray, cool, clammy (cold sweat)
-- Capillary refill >2 seconds
-- Urine output <30 mL/hour
-
-### Quick Assessment Method (No Equipment Needed)
-
-**ABCD approach:**
-- **Airway:** Patent? Speaking clearly?
-- **Breathing:** Rate >20 or <10? Shallow?
-- **Circulation:** Pulse >100? Weak? Capillary refill >2 sec?
-- **Disability (mental status):** Alert? Confused? Anxious?
-
-**Capillary refill test:**
-1. Press fingernail bed for 5 seconds (turns white)
-2. Release and count seconds until returns to pink
-3. Normal: <2 seconds
-4. Shock: >2 seconds (poor perfusion)
-
-**Radial pulse assessment:**
-- Strong radial pulse = systolic BP >80 mmHg (adequate)
-- Weak/absent radial pulse = systolic BP <80 mmHg (shock)
-- Only carotid pulse = systolic BP <60 mmHg (severe shock)
+- Rapid weak pulse (over 100/min), pale cool clammy skin
+- Confusion, restlessness, or decreasing responsiveness
+- Capillary refill over 2 seconds (press nail 5 sec, time return to pink)
+- No radial pulse = systolic BP below 80 (severe shock)
+- Earliest sign is anxiety and restlessness — not low blood pressure
 
 ## Shock Types
 
-### 1. Hypovolemic Shock (Most Common)
-
-**Cause:** Blood or fluid loss
-- Hemorrhage (bleeding)
-- Severe dehydration (vomiting, diarrhea)
-- Burns (plasma loss)
-- Heat stroke (fluid loss)
-
-**Key signs:**
-- History of bleeding, trauma, or fluid loss
-- Classic shock signs (pale, cool, fast pulse)
-- Flat neck veins (low volume)
-- Thirst
-
-**Blood loss estimation:**
-
-- I: <15% (<750mL) / <100
-- II: 15-30% (750-1500mL) / 100-120
-- III: 30-40% (1500-2000mL) / 120-140
-- IV: >40% (>2000mL) / >140
-
-### 2. Cardiogenic Shock
-
-**Cause:** Heart failure (MI, arrhythmia, contusion)
-
-**Key signs:**
-- Chest pain/pressure
-- Difficulty breathing (worse lying flat)
-- Jugular vein distension (swollen neck veins)
-- Pulmonary edema (pink frothy sputum)
-- Shock signs PLUS elevated neck veins
-
-**Critical difference:** Do NOT lay flat or elevate legs - sit patient up!
-
-### 3. Distributive Shock
-
-#### Septic Shock
-**Cause:** Severe infection
-
-**Key signs:**
-- Fever >38.5°C (101.3°F) or <36°C (96.8°F)
-- History of infection/wound
-- **Early:** Warm, flushed skin (vasodilation)
-- **Late:** Cold, clammy skin (looks like hypovolemic)
-
-#### Neurogenic Shock
-**Cause:** Spinal cord injury
-
-**Key signs:**
-- History of spinal trauma
-- **Warm, dry skin** (no sweating below injury)
-- Slow or normal heart rate (paradoxical - should be fast)
-- Low blood pressure
-- Loss of function below injury level
-
-#### Anaphylactic Shock
-**Cause:** Severe allergic reaction
-
-**Key signs:**
-- Exposure to allergen (food, bee sting, medication)
-- Rapid onset (<30 minutes)
-- Hives, itching, swelling
-- Difficulty breathing, wheezing
-- Swelling of face/tongue/throat
-- See l1-medical-allergic-reactions for full treatment
-
-### 4. Obstructive Shock
-
-**Cause:** Physical obstruction of blood flow
-
-**Types:**
-- Tension pneumothorax (collapsed lung with pressure)
-- Cardiac tamponade (blood around heart)
-- Massive pulmonary embolism (clot in lung)
-
-**Key signs:**
-- Severe chest injury
-- Distended neck veins
-- Difficulty breathing
-- Shock signs despite no visible bleeding
-
-## Step-by-Step Protocol
-
-### 1. Scene Safety (10 seconds)
-- Ensure scene is safe for you and victim
-- Note mechanism of injury
-
-### 2. Initial Assessment (30 seconds)
-- Check responsiveness, breathing, pulse
-- Perform rapid trauma survey if injured
-- Identify obvious bleeding
-
-### 3. Treat Underlying Cause (PRIORITY)
-
-**Stop external bleeding:**
-- Direct pressure, tourniquet if needed
-- See l1-medical-severe-bleeding
-
-**Anaphylaxis:**
-- Epinephrine auto-injector (EpiPen) 0.3mg IM to thigh
-- See l1-medical-allergic-reactions
-
-**Spinal injury:**
-- Immobilize spine
-- See l1-medical-spinal-precautions
-
-**Burns:**
-- Stop burning process, cool appropriately
-- See l1-medical-burns
-
-### 4. Position Patient Correctly
-
-**For hypovolemic shock (bleeding, dehydration):**
-- Lay flat on back
-- Elevate legs 8-12 inches (20-30 cm) above heart
-- Use backpack, rolled clothing, logs
-- This shifts ~500mL blood to vital organs
-
-**DO NOT elevate legs if:**
-- Spinal injury suspected
-- Head injury (keep head level or slightly elevated)
-- Chest injury or difficulty breathing
-- Fractured pelvis or legs
-- Cardiogenic shock (sit up instead)
-- Abdominal injury with evisceration
-
-**For cardiogenic shock or pulmonary edema:**
-- Sit patient upright (45-90°)
-- Legs down, not elevated
-- Reduces fluid returning to overloaded heart
-
-**For spinal injury (neurogenic shock):**
-- Keep flat, neutral spine alignment
-- Do NOT elevate legs (increases spinal pressure)
-
-### 5. Maintain Body Temperature
-
-**Prevent heat loss:**
-- Remove wet clothing
-- Place blanket/dry clothing underneath patient
-- Cover with blankets, sleeping bags
-- Insulate from cold ground
-- Protect from wind
-- **Do NOT overheat** - goal is prevent hypothermia, not rewarm excessively
-
-**Why it matters:** Hypothermia worsens shock by reducing heart function and clotting
-
-### 6. Provide Fluids (If Appropriate)
-
-**Oral rehydration (if patient meets ALL criteria):**
-- Conscious and alert
-- Can swallow safely
-- No abdominal trauma
-- Not vomiting
-- Surgery unlikely in next 8 hours
-
-**What to give:**
-- Oral rehydration solution (see l1-medical-oral-rehydration-recipe)
-- Water with pinch of salt and sugar
-- Small sips every few minutes
-- Goal: 250-500mL per hour if tolerated
-
-**Do NOT give fluids if:**
-- Unconscious or altered mental status
-- Vomiting or nausea
-- Abdominal injury
-- Difficulty swallowing
-- Anaphylaxis (give epinephrine FIRST)
-
-### 7. Monitor Continuously
-
-**Check every 5-15 minutes:**
-- Mental status (AVPU: Alert, Verbal, Pain, Unresponsive)
-- Pulse rate and strength
-- Respiratory rate
-- Skin color/temperature
-- Capillary refill
-
-**Document findings:**
-- Write times and values on tape/paper attached to patient
-- Track trends (improving vs. worsening)
-
-### 8. Prepare for Deterioration
-
-**Be ready to:**
-- Start CPR if pulse/breathing stops
-- Position for vomiting (recovery position if no spinal injury)
-- Reassess and adjust interventions
-
-### 9. Rapid Evacuation
-
-**All shock states require hospital care**
-- IV fluids
-- Blood transfusion
-- Surgery
-- Medications
-- Advanced monitoring
-
-**Evacuation priority:**
-- Immediate: Class III/IV hemorrhage, anaphylaxis, cardiogenic shock
-- Urgent: All other shock states
-- Time matters: Each hour increases mortality
-
-## Special Populations
-
-### Children
-
-**Critical differences:**
-- Compensate MUCH better than adults
-- By time they show shock signs, they're in critical state
-- Faster heart rates baseline (infants: 120-160, children: 80-120)
-- Lower blood pressure baseline
-- Need smaller fluid volumes (10-20 mL/kg bolus)
-
-**Pediatric shock signs:**
-- Lethargy, decreased playfulness
-- Weak cry
-- Poor feeding
-- Sunken fontanelle (infants)
-- No tears when crying
-
-### Pregnant Women (3rd Trimester)
-
-- Uterus compresses major blood vessels when lying flat
-- Position on LEFT side (not right) if must lay flat
-- Can lose 30-35% blood volume before showing shock signs
-- Two patients to consider (mother and fetus)
-
-### Elderly
-
-- Medications (beta-blockers) may prevent fast heart rate
-- Less able to compensate
-- Baseline blood pressure may be higher (90 systolic may be shock for them)
-- More vulnerable to hypothermia
-
-## Common Mistakes
-
-- ❌ Waiting for low blood pressure to diagnose shock (late sign)
-- ❌ Elevating legs in ALL shock cases (harmful in cardiogenic, spinal, head injury)
-- ❌ Giving oral fluids to unconscious or vomiting patient
-- ❌ Overheating patient (goal is prevent hypothermia, not active rewarming)
-- ❌ Ignoring mental status changes (earliest sign of shock)
-- ❌ Not treating underlying cause first
-- ❌ Delaying evacuation because patient seems stable
-- ❌ Checking blood pressure instead of perfusion signs
-- ❌ Missing internal bleeding (no visible blood loss)
-
-## Internal Bleeding
-
-**Mechanism of injury:**
-- Fall from height
-- High-speed collision
-- Blunt trauma to abdomen/chest/pelvis
-- Crush injury
-- Penetrating trauma
-
-**Signs:**
-- Shock without obvious external bleeding
-- Abdominal pain, distension, rigidity
-- Bruising over abdomen/flanks
-- Blood in vomit, stool, urine
-- Pelvic instability (DO NOT test - causes more bleeding)
-
-**Action:** Rapid evacuation for surgical control
-
-## Summary Ref
-
-### Shock Recognition Checklist
-
-- [ ] Mental status: Anxious, confused, or lethargic?
-- [ ] Pulse: >100, weak, or thready?
-- [ ] Breathing: >20 or shallow?
-- [ ] Skin: Pale, cold, clammy?
-- [ ] Capillary refill: >2 seconds?
-
-**If YES to 2 or more:** Treat for shock
-
-### Treatment Priorities (in order)
-
-1. **Airway/Breathing** - Ensure patent airway
-2. **Control bleeding** - Stop external hemorrhage
-3. **Position correctly** - Based on shock type
-4. **Prevent heat loss** - Keep warm (not hot)
-5. **Consider fluids** - If appropriate
-6. **Monitor continuously** - Every 5-15 minutes
-7. **Evacuate rapidly** - All shock requires hospital
-
-### Position Quick Guide
-
-- Hypovolemic (bleeding):
-  Position: Flat + legs up 8-12"
-  Why: Returns blood to core
-- Cardiogenic (heart):
-  Position: Sit upright 45-90°
-  Why: Reduces heart workload
-- Neurogenic (spine):
-  Position: Flat, neutral spine
-  Why: Prevents cord damage
-- Anaphylaxis:
-  Position: Flat or semi-reclined
-  Why: Depends on breathing
-- If in doubt:
-  Position: Flat, monitor closely
-  Why: Safe default position
-
-**Never elevate legs if:** Spinal injury, head injury, chest injury, difficulty breathing, fractured pelvis/legs
-
-## Long-Term Field Care
-
-**First 2 hours are critical:**
-- Most shock deaths occur in first hour
-- Aggressive treatment and monitoring
-- Push for fastest possible evacuation
-
-**If stuck >2 hours:**
-- Continue oral fluids (if appropriate)
-- Maintain body temperature
-- Monitor vital signs hourly
-- Watch for complications:
-- Acute kidney injury (decreased urine)
-- Multi-organ failure
-- ARDS (lung failure)
-- Coagulopathy (bleeding disorder)
-
-**Reality check:** Shock has high mortality without hospital care. Field care buys time but is NOT definitive treatment.
-
-## Documentation Template
-
-```
-SHOCK ASSESSMENT - Time: _____
-Mental status: Alert / Confused / Lethargic / Unresponsive
-Pulse: _____ /min (Strong / Weak / Thready / Absent)
-Breathing: _____ /min (Normal / Shallow / Labored)
-Skin: Pink / Pale / Gray / Cyanotic | Warm / Cool / Cold
-Capillary refill: <2 sec / >2 sec
-Suspected cause: _____________________
-Treatment given: _____________________
-Position: Flat / Legs elevated / Sitting / Spinal precautions
-Fluids: None / Oral _____mL
-Response: Improving / Stable / Worsening
-Next check time: _____
-```
-
-**Remember:** Shock kills. Treat aggressively, evacuate rapidly, monitor continuously. When in doubt, treat for shock.
+- Hypovolemic: blood or fluid loss — flat neck veins, thirsty, trauma
+- Cardiogenic: heart failure — distended neck veins, cannot lie flat
+- Anaphylactic: allergen exposure — hives, throat swelling, wheezing
+- Septic: severe infection — fever or very low temp, warm flushed skin
+- Neurogenic: spinal injury — warm dry skin, slow or normal heart rate
+
+## Treatment Priority
+
+- Stop all external bleeding first: tourniquet, packing, direct pressure
+- Anaphylaxis: epinephrine 0.3mg IM to outer thigh — do this first
+- Hypovolemic shock: lay flat, elevate legs 8-12 inches above heart
+- Cardiogenic shock: sit upright 45-90 degrees, do NOT elevate legs
+- Neurogenic shock: lay flat, maintain neutral spine alignment
+- All types: keep warm, remove wet clothing, prevent hypothermia
+
+## Fluids
+
+- Give oral fluids ONLY if: conscious, not vomiting, no abdominal injury
+- Small sips — 250mL every 15-20 minutes if tolerated
+- Do NOT give fluids if: unconscious, vomiting, or abdominal trauma
+- Anaphylaxis: give epinephrine first — fluids are secondary
+- IV Normal Saline: 1000mL bolus for adults in hypovolemic shock
+
+## What NOT to Do
+
+- Do NOT wait for low blood pressure — it is a late sign of shock
+- Do NOT elevate legs in cardiogenic, spinal, or head injury
+- Do NOT give fluids to an unconscious patient
+- Do NOT assume stable — shock can deteriorate suddenly and rapidly
+- Do NOT skip treating the underlying cause (bleeding, allergy, etc.)
+
+## Monitor / Evacuate
+
+- All shock requires hospital care — field treatment buys time only
+- Check mental status, pulse, and skin every 5-15 minutes
+- Document and track trend — improving or worsening
+- Internal bleeding: no visible blood but significant mechanism present
+- Children compensate longer — by the time signs appear, state is critical

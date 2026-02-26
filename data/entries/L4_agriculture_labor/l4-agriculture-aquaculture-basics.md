@@ -44,7 +44,7 @@ steps:
 - Protein source year-round
 - Waste water fertilizes gardens
 
-## Best Species for Small Scale
+## Best Small-Scale Fish
 
 - Tilapia: fast, tolerates poor water
 - Catfish: hardy, easy to raise

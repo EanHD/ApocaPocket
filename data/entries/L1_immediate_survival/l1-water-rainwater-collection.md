@@ -32,6 +32,7 @@ sources:
 last_verified: '2026-02-18'
 confidence: high
 offline_assets: []
+diagram: diagrams/solar-still-cross-section.svg
 ---
 
 ## Overview

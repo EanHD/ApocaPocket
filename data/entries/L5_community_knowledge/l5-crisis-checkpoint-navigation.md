@@ -73,7 +73,7 @@ steps:
 - Do not reach for anything unexplained
 - Let officer control the interaction
 
-## Avoiding Unsafe Checkpoints
+## Avoid Bad Checkpoints
 
 - Travel at low-activity hours
 - Use trails, waterways, back roads
@@ -87,7 +87,7 @@ steps:
 - Medical documentation can help passage
 - Children documents especially important
 
-## Understanding the System
+## System Overview
 
 - Checkpoints control movement
 - Document checks are standard

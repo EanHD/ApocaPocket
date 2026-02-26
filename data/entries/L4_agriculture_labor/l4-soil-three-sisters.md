@@ -23,6 +23,7 @@ sources:
 - Haudenosaunee Traditional Knowledge
 last_verified: '2026-02-24'
 audit_status: verified
+diagram: diagrams/three-sisters-planting.svg
 ---
 
 # Three Sisters Garden

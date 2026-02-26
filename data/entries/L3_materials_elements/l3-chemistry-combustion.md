@@ -29,6 +29,7 @@ audit_status: verified
 last_verified: '2026-02-19'
 confidence: high
 offline_assets: []
+diagram: diagrams/fire-triangle.svg
 ---
 
 ## Overview

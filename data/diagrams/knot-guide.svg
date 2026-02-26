@@ -1,0 +1,101 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">ESSENTIAL KNOTS</text>
+
+<!-- Grid dividers -->
+<line x1="120" y1="16" x2="120" y2="145" stroke="#333333" stroke-width="1"/>
+<line x1="4" y1="90" x2="236" y2="90" stroke="#333333" stroke-width="1"/>
+<line x1="4" y1="145" x2="236" y2="145" stroke="#333333" stroke-width="1"/>
+
+<!-- 1. BOWLINE (top-left) -->
+<text x="60" y="24" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">BOWLINE</text>
+<text x="60" y="33" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Non-slip loop · rescue</text>
+<!-- Bowline diagram: rabbit/hole illustration -->
+<!-- Standing part (vertical rope going up) -->
+<line x1="52" y1="40" x2="52" y2="55" stroke="#00FFFF" stroke-width="2"/>
+<!-- Loop (the hole) -->
+<ellipse cx="52" cy="60" rx="12" ry="6" fill="none" stroke="#00FFFF" stroke-width="1.5"/>
+<!-- Rabbit ear (working end comes up through hole) -->
+<line x1="52" y1="54" x2="52" y2="48" stroke="#FFFF00" stroke-width="1.5"/>
+<!-- Working end goes around standing part -->
+<path d="M 52 48 Q 65 44 65 54 Q 65 64 52 66" stroke="#FFFF00" stroke-width="1.5" fill="none"/>
+<!-- Working end goes back down through hole -->
+<line x1="52" y1="66" x2="52" y2="74" stroke="#FFFF00" stroke-width="1.5"/>
+<!-- Fixed loop at bottom -->
+<path d="M 30 80 Q 30 88 52 88 Q 74 88 74 80" stroke="#00FFFF" stroke-width="2" fill="none"/>
+<text x="60" y="84" fill="#FFFF00" font-size="10.0" font-family="monospace">loop</text>
+<!-- Mnemonic text -->
+<text x="10" y="74" fill="#AAAAAA" font-size="10.0" font-family="monospace">rabbit up thru</text>
+<text x="10" y="81" fill="#AAAAAA" font-size="10.0" font-family="monospace">hole, round</text>
+<text x="10" y="88" fill="#AAAAAA" font-size="10.0" font-family="monospace">tree, back in</text>
+
+<!-- 2. CLOVE HITCH (top-right) -->
+<text x="180" y="24" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">CLOVE HITCH</text>
+<text x="180" y="33" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Quick post anchor</text>
+<!-- Post (vertical) -->
+<rect x="172" y="38" width="8" height="48" fill="#885533" stroke="#664422" stroke-width="1"/>
+<!-- First loop -->
+<path d="M 140 50 L 172 50 Q 180 50 180 55 Q 180 60 172 60 L 145 60" stroke="#00FFFF" stroke-width="2" fill="none"/>
+<!-- Second loop (crossing) -->
+<path d="M 145 60 L 172 65 Q 180 65 180 72 Q 180 78 172 78 L 140 72" stroke="#FFFF00" stroke-width="2" fill="none"/>
+<!-- Tail ends -->
+<line x1="140" y1="50" x2="128" y2="44" stroke="#00FFFF" stroke-width="1.5"/>
+<line x1="140" y1="72" x2="128" y2="78" stroke="#FFFF00" stroke-width="1.5"/>
+<text x="130" y="86" fill="#AAAAAA" font-size="10.0" font-family="monospace">2 loops, cross</text>
+
+<!-- 3. SQUARE KNOT (middle-left) -->
+<text x="60" y="100" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">SQUARE KNOT</text>
+<text x="60" y="109" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Join two equal ropes</text>
+<!-- Square knot diagram -->
+<!-- Left rope -->
+<line x1="8" y1="122" x2="30" y2="122" stroke="#00FFFF" stroke-width="2"/>
+<!-- Right rope -->
+<line x1="90" y1="122" x2="112" y2="122" stroke="#FFFF00" stroke-width="2"/>
+<!-- Knot body: L over R then R over L -->
+<path d="M 30 122 Q 40 114 50 122 Q 60 130 70 122 Q 80 114 90 122" stroke="#00FFFF" stroke-width="2" fill="none"/>
+<path d="M 30 122 Q 40 130 50 122 Q 60 114 70 122 Q 80 130 90 122" stroke="#FFFF00" stroke-width="2" fill="none"/>
+<text x="60" y="138" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">L over R, R over L</text>
+
+<!-- 4. SHEET BEND (middle-right) -->
+<text x="180" y="100" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">SHEET BEND</text>
+<text x="180" y="109" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Join diff-size ropes</text>
+<!-- Sheet bend diagram -->
+<!-- Thick rope bight -->
+<path d="M 128 118 Q 140 125 152 118 L 152 128 Q 140 135 128 128 Z" fill="none" stroke="#FF8800" stroke-width="2.5"/>
+<!-- Thin rope -->
+<line x1="128" y1="135" x2="128" y2="118" stroke="#FFFFFF" stroke-width="1.5"/>
+<path d="M 128 118 Q 140 112 164 116" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+<line x1="164" y1="116" x2="164" y2="132" stroke="#FFFFFF" stroke-width="1.5"/>
+<line x1="164" y1="132" x2="130" y2="132" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="180" y="138" fill="#FF8800" font-size="10.0" text-anchor="middle" font-family="monospace">thick=bight,thin wraps</text>
+
+<!-- 5. PRUSIK KNOT (bottom center) -->
+<text x="120" y="155" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">PRUSIK KNOT — friction hitch for climbing</text>
+<!-- Main rope (thick, horizontal) -->
+<line x1="20" y1="178" x2="220" y2="178" stroke="#FF8800" stroke-width="4"/>
+<!-- Prusik loop (thin cord wraps 3x) -->
+<!-- First wrap -->
+<path d="M 100 178 Q 100 165 110 163 Q 120 161 130 163 Q 140 165 140 178" stroke="#00FFFF" stroke-width="1.5" fill="none"/>
+<!-- Second wrap -->
+<path d="M 105 178 Q 105 168 115 166 Q 120 165 125 166 Q 135 168 135 178" stroke="#00FFFF" stroke-width="1.5" fill="none" stroke-dasharray="2,1"/>
+<!-- Third wrap -->
+<path d="M 110 178 Q 110 171 118 170 Q 122 170 130 170 Q 130 178 110 178" stroke="#00FFFF" stroke-width="1" fill="none" stroke-dasharray="1,1"/>
+<!-- Loop tail hanging below -->
+<line x1="100" y1="178" x2="96" y2="195" stroke="#00FFFF" stroke-width="1.5"/>
+<line x1="140" y1="178" x2="144" y2="195" stroke="#00FFFF" stroke-width="1.5"/>
+<path d="M 96 195 Q 120 205 144 195" stroke="#00FFFF" stroke-width="1.5" fill="none"/>
+<!-- Load arrow -->
+<line x1="120" y1="205" x2="120" y2="215" stroke="#FF4444" stroke-width="1.5"/>
+<polygon points="116,213 124,213 120,218" fill="#FF4444"/>
+<text x="120" y="225" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">load</text>
+
+<!-- Prusik notes -->
+<text x="20" y="188" fill="#FFFFFF" font-size="10.0" font-family="monospace">Grips under load</text>
+<text x="20" y="197" fill="#FFFFFF" font-size="10.0" font-family="monospace">slides when released</text>
+<text x="155" y="188" fill="#FFFF00" font-size="10.0" font-family="monospace">loop cord must</text>
+<text x="155" y="197" fill="#FFFF00" font-size="10.0" font-family="monospace">be thinner rope</text>
+
+<!-- Bottom note -->
+<rect x="4" y="228" width="232" height="10" fill="#111111" stroke="#333333" stroke-width="1"/>
+<text x="120" y="236" fill="#AAAAAA" font-size="10.0" text-anchor="middle" font-family="monospace">Practice before needing — muscle memory is critical</text>
+</svg>

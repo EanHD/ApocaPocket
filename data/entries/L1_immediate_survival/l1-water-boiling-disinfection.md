@@ -52,7 +52,7 @@ steps:
 - 'VOLUME PLANNING: Plan for evaporation loss 10-15% during boiling. For 1 liter finished water, start with 1.1-1.2 liters. Daily water needs: sedentary = 2-3 liters, active = 3-6 liters, hot climate = 6-10 liters. Fuel requirements (wood): ~1 lb hardwood to boil 1 quart from cold. ~0.5 lb to re-boil already hot water.'
 - 'VERIFICATION: How to confirm water actually boiled: 1) Visual: saw large bubbles across entire surface. 2) Audible: heard continuous vigorous bubbling. 3) Steam: saw significant steam production. 4) Duration: maintained rolling boil for full required time. When in doubt, boil longer — no harm in extra time.'
 - 'LIMITATIONS: Boiling kills pathogens but does NOT remove: heavy metals (lead, mercury, arsenic), chemical pollutants (pesticides, solvents), salt/salinity, bad taste from minerals, radioactive particles, microplastics. For chemical contamination, use activated carbon filtration or distillation in addition to boiling.'
-diagram: /assets/diagrams/L1/water/boiling-process.svg
+diagram: diagrams/water-boiling-process.svg
 ---
 
 # Boiling for Safe Water

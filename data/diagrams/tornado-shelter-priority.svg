@@ -1,9 +1,32 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='700'>
-<rect width='100%' height='100%' fill='#05070a'/>
-<text x='40' y='60' fill='#fca5a5' font-size='36' font-family='Arial'>Tornado Shelter Priority (Best → Last Resort)</text>
-<rect x='80' y='110' width='1040' height='80' rx='10' fill='#1f2937' stroke='#22c55e'/><text x='110' y='160' fill='white' font-size='30'>1) Safe room / storm shelter</text>
-<rect x='80' y='210' width='1040' height='80' rx='10' fill='#1f2937' stroke='#84cc16'/><text x='110' y='260' fill='white' font-size='30'>2) Basement interior corner (away from windows)</text>
-<rect x='80' y='310' width='1040' height='80' rx='10' fill='#1f2937' stroke='#eab308'/><text x='110' y='360' fill='white' font-size='30'>3) Interior lowest-floor room (bath/closet)</text>
-<rect x='80' y='410' width='1040' height='80' rx='10' fill='#3f1d2e' stroke='#f97316'/><text x='110' y='460' fill='white' font-size='30'>4) Last resort: low ditch, head/neck protection</text>
-<rect x='80' y='530' width='1040' height='90' rx='10' fill='#3f1d2e' stroke='#ef4444'/><text x='110' y='585' fill='white' font-size='28'>Avoid: mobile homes, windows, overpasses</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+  <rect width="240" height="240" fill="black"/>
+  <text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle" font-weight="bold">TORNADO SHELTER</text>
+
+  <!-- P1 -->
+  <rect x="8" y="19" width="224" height="36" rx="2" fill="#003300" stroke="#00FF00" stroke-width="2"/>
+  <text x="14" y="32" font-family="monospace" font-size="11" fill="#00FF00" font-weight="bold">P1 UNDERGROUND</text>
+  <text x="14" y="48" font-family="monospace" font-size="10" fill="#FFFFFF">Storm cellar / purpose-built shelter</text>
+
+  <!-- P2 -->
+  <rect x="8" y="59" width="224" height="36" rx="2" fill="#002200" stroke="#44FF44" stroke-width="1.5"/>
+  <text x="14" y="72" font-family="monospace" font-size="11" fill="#44FF44" font-weight="bold">P2 BASEMENT</text>
+  <text x="14" y="88" font-family="monospace" font-size="10" fill="#FFFFFF">Interior corner, away from windows</text>
+
+  <!-- P3 -->
+  <rect x="8" y="99" width="224" height="36" rx="2" fill="#333300" stroke="#FFFF00" stroke-width="1.5"/>
+  <text x="14" y="112" font-family="monospace" font-size="11" fill="#FFFF00" font-weight="bold">P3 INTERIOR ROOM</text>
+  <text x="14" y="128" font-family="monospace" font-size="10" fill="#FFFFFF">Lowest floor, no windows, crouch</text>
+
+  <!-- P4 -->
+  <rect x="8" y="139" width="224" height="36" rx="2" fill="#332200" stroke="#FF8800" stroke-width="1.5"/>
+  <text x="14" y="152" font-family="monospace" font-size="11" fill="#FF8800" font-weight="bold">P4 BATHTUB</text>
+  <text x="14" y="168" font-family="monospace" font-size="10" fill="#FFFFFF">Cover with mattress, face down</text>
+
+  <!-- P5 -->
+  <rect x="8" y="179" width="224" height="36" rx="2" fill="#330000" stroke="#FF4444" stroke-width="2"/>
+  <text x="14" y="192" font-family="monospace" font-size="11" fill="#FF4444" font-weight="bold">P5 DITCH/CULVERT</text>
+  <text x="14" y="208" font-family="monospace" font-size="10" fill="#FFFFFF">Last resort — lie flat, protect head</text>
+
+  <!-- Last resort label -->
+  <text x="120" y="228" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle">↑ LAST RESORT — NEVER a vehicle</text>
 </svg>

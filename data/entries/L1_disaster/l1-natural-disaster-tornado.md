@@ -14,6 +14,7 @@ related:
 - "l1-shelter-lightning-safety"
 - "l1-strategy-first-24-hours"
 - "l1-medical-trauma-basics"
+diagram: diagrams/tornado-shelter-priority.svg
 ---
 
 # Tornado Survival

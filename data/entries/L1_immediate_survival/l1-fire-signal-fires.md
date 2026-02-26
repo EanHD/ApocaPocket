@@ -1,6 +1,6 @@
 ---
 id: l1-fire-signal-fires
-title: "Signal Fire Construction"
+title: Signal Fire Construction
 category: L1_immediate_survival
 subtopic: fire
 tags:
@@ -52,7 +52,7 @@ steps:
 - 'BACKUP SIGNALS: While fires burning, use supplementary signals: SIGNAL MIRROR (glass/polished metal) aimed at aircraft — visible 10-15 miles. WHISTLE (three blasts) for ground rescuers. BRIGHT CLOTHING laid in X or SOS pattern on ground (10 ft letters). MOVEMENT: wave arms overhead (Y shape = yes/help needed).'
 - 'FIRE SAFETY: Clear 10 ft radius around EACH fire to bare soil. Remove dead grass, leaves, dry branches. Dig shallow firepit (6" deep, 2-3 ft diameter). Have water/dirt nearby to extinguish if necessary. NEVER leave signal fires unattended once lit. Extinguish completely before leaving area (if rescue successful) or if weather becomes dangerous (high winds, approaching wildfire).'
 - 'PRACTICE DRILL: Build one signal fire in safe conditions. Time yourself: preparation should take 15-20 minutes. Practice lighting tinder with wet hands/wind. Test smoke production with green boughs — learn how much material produces optimal column. Practice triangle layout with pacing (75-100 ft spacing). Pre-position materials at each site.'
-diagram: /assets/diagrams/L1/signal/signal-fires.svg
+diagram: diagrams/signal-fires.svg
 ---
 
 # Signal Fire Build — Day

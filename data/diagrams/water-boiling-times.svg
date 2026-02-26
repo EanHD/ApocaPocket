@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle">WATER TREATMENT</text>
+
+<!-- Thermometer visual left side -->
+<rect x="10" y="28" width="14" height="120" rx="4" fill="#222" stroke="#555" stroke-width="1"/>
+<circle cx="17" cy="152" r="9" fill="#00FFFF"/>
+<!-- Thermometer fill levels -->
+<rect x="12" y="100" width="10" height="48" rx="2" fill="#00FFFF"/>
+<!-- Tick marks -->
+<line x1="24" y1="50" x2="30" y2="50" stroke="#555" stroke-width="1"/>
+<line x1="24" y1="75" x2="30" y2="75" stroke="#555" stroke-width="1"/>
+<line x1="24" y1="100" x2="32" y2="100" stroke="#00FFFF" stroke-width="2"/>
+<!-- 100°C label -->
+<text x="35" y="104" font-family="monospace" font-size="11" fill="#00FFFF">100°C = SAFE</text>
+<text x="35" y="120" font-family="monospace" font-size="10" fill="#FFFFFF">kills all pathogens</text>
+
+<!-- Altitude chart -->
+<line x1="55" y1="135" x2="55" y2="30" stroke="#444" stroke-width="1"/>
+<line x1="55" y1="135" x2="235" y2="135" stroke="#444" stroke-width="1"/>
+
+<!-- Bars for altitude/time -->
+<!-- Sea level: 1 min -->
+<rect x="60" y="118" width="55" height="17" fill="#00FF00" rx="2"/>
+<text x="87" y="130" font-family="monospace" font-size="10" fill="#000" text-anchor="middle">0m · 1min</text>
+<!-- 2000m: 3 min -->
+<rect x="120" y="95" width="55" height="40" fill="#FFFF00" rx="2"/>
+<text x="147" y="119" font-family="monospace" font-size="10" fill="#000" text-anchor="middle">2000m·3min</text>
+<!-- 3000m: 5 min -->
+<rect x="180" y="63" width="52" height="72" fill="#FF8800" rx="2"/>
+<text x="206" y="100" font-family="monospace" font-size="10" fill="#000" text-anchor="middle">3000m·5min</text>
+
+<!-- Axis labels -->
+<text x="55" y="148" font-family="monospace" font-size="10" fill="#555">└</text>
+<text x="120" y="148" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">ALTITUDE →</text>
+<text x="26" y="80" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">↑ m</text>
+
+<!-- Rolling boil vs simmer visual -->
+<line x1="5" y1="162" x2="235" y2="162" stroke="#444" stroke-width="1"/>
+<!-- Rolling boil: big bubbles -->
+<ellipse cx="40" cy="178" rx="7" ry="5" fill="none" stroke="#00FFFF" stroke-width="2"/>
+<ellipse cx="55" cy="174" rx="5" ry="4" fill="none" stroke="#00FFFF" stroke-width="2"/>
+<ellipse cx="68" cy="180" rx="6" ry="4" fill="none" stroke="#00FFFF" stroke-width="2"/>
+<text x="85" y="180" font-family="monospace" font-size="10" fill="#00FF00">ROLLING BOIL ✓</text>
+<!-- Simmer: small dots -->
+<circle cx="40" cy="206" r="2" fill="#FF8800"/>
+<circle cx="50" cy="202" r="2" fill="#FF8800"/>
+<circle cx="62" cy="208" r="2" fill="#FF8800"/>
+<text x="85" y="208" font-family="monospace" font-size="10" fill="#FF8800">SIMMER = NOT enough</text>
+<text x="5" y="228" font-family="monospace" font-size="10" fill="#FFFF00">Turbid water: FILTER then BOIL</text>
+</svg>

@@ -70,7 +70,7 @@ steps:
 - Litter carry: poles through sleeping bags
 - Modify tasks to seated position
 
-## Wheelchair Considerations
+## Wheelchair Access
 
 - Manual wheelchair difficult on rough terrain
 - Carry ramps in emergency kit

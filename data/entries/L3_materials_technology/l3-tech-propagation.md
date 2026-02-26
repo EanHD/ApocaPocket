@@ -1,7 +1,7 @@
 ---
 id: l3-tech-propagation
 id: l3-tech-propagation
-title: "Radio Propagation: Understanding Signal Behavior"
+title: Radio Propagation
 layer: L3_materials_technology
 category: communications
 tags:

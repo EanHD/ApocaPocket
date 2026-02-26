@@ -47,7 +47,7 @@ last_verified: '2026-02-19'
 ---
 # Star Navigation
 
-## Finding North — Polaris
+## Find North: Polaris
 
 - Locate Big Dipper (visible N hemisphere)
 - Two stars at cup far edge: pointers
@@ -75,7 +75,7 @@ last_verified: '2026-02-19'
 - Extend long axis of cross 4.5x
 - True south is in that direction
 
-## Orion for East and West
+## Orion: East & West
 
 - Orion belt rises due east
 - Sets due west

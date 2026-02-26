@@ -1,0 +1,77 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<!-- Title -->
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">CROP ROTATION</text>
+
+<!-- Outer wheel circle -->
+<circle cx="108" cy="118" r="72" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+
+<!-- Quadrant dividers (cross lines) -->
+<line x1="108" y1="46" x2="108" y2="190" stroke="#FFFFFF" stroke-width="1"/>
+<line x1="36" y1="118" x2="180" y2="118" stroke="#FFFFFF" stroke-width="1"/>
+
+<!-- Quadrant fills -->
+<!-- Top-right: YEAR 1 Legumes -->
+<path d="M108,118 L108,46 A72,72 0 0,1 180,118 Z" fill="#004400" stroke="#00FF00" stroke-width="1"/>
+<!-- Bottom-right: YEAR 2 Brassicas -->
+<path d="M108,118 L180,118 A72,72 0 0,1 108,190 Z" fill="#003300" stroke="#00FF00" stroke-width="1"/>
+<!-- Bottom-left: YEAR 3 Root veg -->
+<path d="M108,118 L108,190 A72,72 0 0,1 36,118 Z" fill="#442200" stroke="#FFFF00" stroke-width="1"/>
+<!-- Top-left: YEAR 4 Alliums -->
+<path d="M108,118 L36,118 A72,72 0 0,1 108,46 Z" fill="#220044" stroke="#00FFFF" stroke-width="1"/>
+
+<!-- Quadrant Labels -->
+<!-- Top-right: Year 1 -->
+<text x="136" y="84" fill="#00FF00" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">YR 1</text>
+<text x="136" y="94" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">LEGUMES</text>
+<text x="136" y="103" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">beans,peas</text>
+<text x="136" y="112" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">+N fix</text>
+
+<!-- Bottom-right: Year 2 -->
+<text x="147" y="136" fill="#00FF00" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">YR 2</text>
+<text x="147" y="146" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">BRASSICA</text>
+<text x="147" y="155" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">cabbage,kale</text>
+<text x="147" y="164" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">uses N</text>
+
+<!-- Bottom-left: Year 3 -->
+<text x="72" y="136" fill="#FFFF00" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">YR 3</text>
+<text x="72" y="146" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">ROOT VEG</text>
+<text x="72" y="155" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">carrot,potato</text>
+<text x="72" y="164" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">low N need</text>
+
+<!-- Top-left: Year 4 -->
+<text x="72" y="84" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">YR 4</text>
+<text x="72" y="94" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">ALLIUMS</text>
+<text x="72" y="103" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">onion,garlic</text>
+<text x="72" y="112" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">rest period</text>
+
+<!-- Center circle -->
+<circle cx="108" cy="118" r="22" fill="#111111" stroke="#FFFF00" stroke-width="1.5"/>
+<text x="108" y="113" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">ROTATE</text>
+<text x="108" y="121" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">EVERY</text>
+<text x="108" y="129" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">YEAR</text>
+
+<!-- Clockwise arrow arc (top, going right) -->
+<path d="M 108,44 A 74,74 0 0,1 148,52" fill="none" stroke="#FFFF00" stroke-width="2"/>
+<polygon points="148,52 155,46 142,46" fill="#FFFF00"/>
+
+<!-- Benefits on right side -->
+<text x="193" y="35" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">BENEFITS</text>
+<text x="193" y="47" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Prevents</text>
+<text x="193" y="55" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">pest buildup</text>
+<text x="193" y="67" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Replenishes</text>
+<text x="193" y="75" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">nitrogen</text>
+<text x="193" y="87" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Breaks</text>
+<text x="193" y="95" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">disease</text>
+<text x="193" y="103" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">cycles</text>
+
+<!-- Divider line -->
+<line x1="185" y1="20" x2="185" y2="195" stroke="#444444" stroke-width="1"/>
+
+<!-- Bottom note -->
+<rect x="2" y="199" width="236" height="16" fill="#111100" stroke="#FFFF00" stroke-width="1" rx="2"/>
+<text x="120" y="209" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Never grow same family in same bed 2 yrs running</text>
+
+<!-- Side labels for quadrants on right column -->
+<line x1="185" y1="108" x2="240" y2="108" stroke="#444444" stroke-width="1"/>
+</svg>

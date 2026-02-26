@@ -1,6 +1,6 @@
 ---
 id: l1-vehicle-as-shelter
-title: "Using Vehicle as Shelter"
+title: Vehicle as Shelter
 category: "L1"
 subcategory: "shelter"
 tags: ["vehicle", "shelter", "sleeping", "ventilation", "condensation", "security"]

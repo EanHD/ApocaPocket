@@ -33,7 +33,7 @@ steps:
 ---
 # Metalwork Basics
 
-## Basic Metal Identification
+## Metal Identification
 
 - Iron vs steel: steel has 0.2-2% carbon
 - Wrought iron: soft, welds easily

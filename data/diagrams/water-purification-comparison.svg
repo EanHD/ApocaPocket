@@ -1,0 +1,97 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="12.6" font-weight="bold" text-anchor="middle" font-family="monospace">PURIFICATION METHODS</text>
+
+<!-- Header row -->
+<rect x="1" y="16" width="238" height="11" fill="#222200" stroke="#FFFF00" stroke-width="1"/>
+<text x="28" y="24" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">METHOD</text>
+<text x="100" y="24" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">KILLS</text>
+<text x="165" y="24" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">TIME</text>
+<text x="215" y="24" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">NOTES</text>
+
+<!-- Column separators -->
+<line x1="54" y1="16" x2="54" y2="195" stroke="#444444" stroke-width="0.7"/>
+<line x1="144" y1="16" x2="144" y2="195" stroke="#444444" stroke-width="0.7"/>
+<line x1="188" y1="16" x2="188" y2="195" stroke="#444444" stroke-width="0.7"/>
+
+<!-- Row 1: BOIL -->
+<rect x="1" y="27" width="238" height="13" fill="#001100"/>
+<text x="28" y="36" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">BOIL</text>
+<text x="100" y="36" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Bact+Virus+Crypt</text>
+<text x="165" y="36" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">1 min rolling</text>
+<text x="215" y="36" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Best,needs fuel</text>
+
+<!-- Row 2: IODINE -->
+<rect x="1" y="40" width="238" height="13" fill="#0A0A00"/>
+<text x="28" y="49" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">IODINE</text>
+<text x="100" y="49" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Bact+Virus</text>
+<text x="165" y="49" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">30 min</text>
+<text x="215" y="49" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Bad taste,no crypt</text>
+
+<!-- Row 3: CHLORINE -->
+<rect x="1" y="53" width="238" height="13" fill="#001100"/>
+<text x="28" y="62" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">CHLORINE</text>
+<text x="100" y="62" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Bact+Virus</text>
+<text x="165" y="62" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">30 min</text>
+<text x="215" y="62" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Widely available</text>
+
+<!-- Row 4: UV -->
+<rect x="1" y="66" width="238" height="13" fill="#0A0A00"/>
+<text x="28" y="75" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">UV/SteriPen</text>
+<text x="100" y="75" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Bact+Virus+Crypt</text>
+<text x="165" y="75" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">90 sec</text>
+<text x="215" y="75" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Needs battery</text>
+
+<!-- Row 5: Ceramic Filter -->
+<rect x="1" y="79" width="238" height="13" fill="#001100"/>
+<text x="28" y="88" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">CeramicFilter</text>
+<text x="100" y="88" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Bact+Protozoa</text>
+<text x="165" y="88" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Minutes</text>
+<text x="215" y="88" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">NOT viruses!</text>
+
+<!-- Row 6: Activated Carbon -->
+<rect x="1" y="92" width="238" height="13" fill="#0A0A00"/>
+<text x="28" y="101" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">Activ.Carbon</text>
+<text x="100" y="101" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Chem+taste</text>
+<text x="165" y="101" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">Minutes</text>
+<text x="215" y="101" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">NOT pathogens!</text>
+
+<!-- Row 7: SODIS -->
+<rect x="1" y="105" width="238" height="13" fill="#001100"/>
+<text x="28" y="114" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">SODIS</text>
+<text x="100" y="114" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Bact+Virus</text>
+<text x="165" y="114" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">6 hr+ sun</text>
+<text x="215" y="114" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Clear bottle</text>
+
+<!-- Row border -->
+<line x1="1" y1="118" x2="239" y2="118" stroke="#444444" stroke-width="0.7"/>
+<line x1="1" y1="27" x2="239" y2="27" stroke="#444444" stroke-width="0.7"/>
+
+<!-- Legend -->
+<text x="8" y="128" fill="#00FF00" font-size="10.0" font-family="monospace">■</text>
+<text x="17" y="128" fill="#00FF00" font-size="10.0" font-family="monospace">= Effective</text>
+<text x="80" y="128" fill="#FFFF00" font-size="10.0" font-family="monospace">■</text>
+<text x="89" y="128" fill="#FFFF00" font-size="10.0" font-family="monospace">= Partial</text>
+<text x="145" y="128" fill="#FF4444" font-size="10.0" font-family="monospace">■</text>
+<text x="154" y="128" fill="#FF4444" font-size="10.0" font-family="monospace">= Not effective</text>
+
+<!-- Particle sizes note -->
+<line x1="2" y1="133" x2="238" y2="133" stroke="#444444" stroke-width="0.7"/>
+<text x="120" y="142" fill="#00FFFF" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">PARTICLE SIZES (small to large)</text>
+<text x="120" y="152" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Virus &lt; Bacteria &lt; Protozoa &lt; Sediment</text>
+<text x="120" y="161" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Crypto/Giardia = protozoa (chemical resistant)</text>
+
+<!-- Combo recommendation -->
+<line x1="2" y1="167" x2="238" y2="167" stroke="#FFFF00" stroke-width="1"/>
+<rect x="2" y="168" width="236" height="22" fill="#001A00" stroke="#00FF00" stroke-width="1.5" rx="2"/>
+<text x="120" y="178" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">BEST FIELD COMBO:</text>
+<text x="120" y="188" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Filter first → then boil or chemical treat</text>
+
+<!-- Turbid water note -->
+<text x="120" y="202" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Turbid/cloudy water: pre-filter through cloth first</text>
+<text x="120" y="211" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Cold water: double chemical dose or time</text>
+<text x="120" y="220" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">When in doubt: BOIL — removes ALL biological threats</text>
+
+<line x1="2" y1="226" x2="238" y2="226" stroke="#444444" stroke-width="0.7"/>
+<text x="120" y="235" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">Clear ≠ safe | Flowing ≠ safe | Always treat wild water</text>
+</svg>

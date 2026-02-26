@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+  <rect width="240" height="240" fill="black"/>
+  <text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle" font-weight="bold">SHELTER SITE</text>
+
+  <!-- Column headers -->
+  <rect x="8" y="17" width="109" height="18" rx="2" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+  <text x="62" y="29" font-family="monospace" font-size="11" fill="#00FF00" text-anchor="middle" font-weight="bold">✓ GOOD</text>
+  <rect x="123" y="17" width="109" height="18" rx="2" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="177" y="29" font-family="monospace" font-size="11" fill="#FF4444" text-anchor="middle" font-weight="bold">✗ BAD</text>
+
+  <!-- Center divider -->
+  <line x1="119" y1="35" x2="119" y2="238" stroke="#555" stroke-width="1"/>
+
+  <!-- Row 1 -->
+  <rect x="8" y="37" width="109" height="32" fill="#001800"/>
+  <text x="14" y="50" font-family="monospace" font-size="10" fill="#00FF00">High ground</text>
+  <text x="14" y="63" font-family="monospace" font-size="10" fill="#FFFFFF">Good drainage</text>
+  <rect x="123" y="37" width="109" height="32" fill="#180000"/>
+  <text x="129" y="50" font-family="monospace" font-size="10" fill="#FF4444">Valley/ravine</text>
+  <text x="129" y="63" font-family="monospace" font-size="10" fill="#FFFFFF">Flash flood risk</text>
+
+  <!-- Row 2 -->
+  <rect x="8" y="70" width="109" height="32" fill="#001800"/>
+  <text x="14" y="83" font-family="monospace" font-size="10" fill="#00FF00">Natural windbreak</text>
+  <text x="14" y="96" font-family="monospace" font-size="10" fill="#FFFFFF">Rocks or hills</text>
+  <rect x="123" y="70" width="109" height="32" fill="#180000"/>
+  <text x="129" y="83" font-family="monospace" font-size="10" fill="#FF4444">Dead trees above</text>
+  <text x="129" y="96" font-family="monospace" font-size="10" fill="#FFFFFF">Widow makers</text>
+
+  <!-- Row 3 -->
+  <rect x="8" y="103" width="109" height="32" fill="#001800"/>
+  <text x="14" y="116" font-family="monospace" font-size="10" fill="#00FF00">Near water</text>
+  <text x="14" y="129" font-family="monospace" font-size="10" fill="#FFFFFF">(not flood zone)</text>
+  <rect x="123" y="103" width="109" height="32" fill="#180000"/>
+  <text x="129" y="116" font-family="monospace" font-size="10" fill="#FF4444">Ant/insect nests</text>
+  <text x="129" y="129" font-family="monospace" font-size="10" fill="#FFFFFF">Check ground</text>
+
+  <!-- Row 4 -->
+  <rect x="8" y="136" width="109" height="32" fill="#001800"/>
+  <text x="14" y="149" font-family="monospace" font-size="10" fill="#00FF00">Flat sleeping</text>
+  <text x="14" y="162" font-family="monospace" font-size="10" fill="#FFFFFF">Level ground</text>
+  <rect x="123" y="136" width="109" height="32" fill="#180000"/>
+  <text x="129" y="149" font-family="monospace" font-size="10" fill="#FF4444">Flood plain</text>
+  <text x="129" y="162" font-family="monospace" font-size="10" fill="#FFFFFF">Check watermarks</text>
+
+  <!-- Row 5 -->
+  <rect x="8" y="169" width="109" height="32" fill="#001800"/>
+  <text x="14" y="182" font-family="monospace" font-size="10" fill="#00FF00">Visible to</text>
+  <text x="14" y="195" font-family="monospace" font-size="10" fill="#00FF00">rescuers</text>
+  <rect x="123" y="169" width="109" height="32" fill="#180000"/>
+  <text x="129" y="182" font-family="monospace" font-size="10" fill="#FF4444">Animal trails</text>
+  <text x="129" y="195" font-family="monospace" font-size="10" fill="#FFFFFF">Predator paths</text>
+
+  <!-- Footer -->
+  <line x1="8" y1="204" x2="232" y2="204" stroke="#FFFF00" stroke-width="1"/>
+  <text x="120" y="217" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">Scout site BEFORE building</text>
+  <text x="120" y="230" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">Check weather forecast first</text>
+</svg>

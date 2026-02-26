@@ -1,6 +1,6 @@
 ---
 id: l3-tech-battery-bank
-title: "Battery Bank Construction"
+title: Battery Bank Construction
 layer: L3_materials_technology
 category: energy/power
 tags: [batteries, energy-storage, off-grid, electrical-systems, safety]
@@ -8,6 +8,7 @@ difficulty: intermediate
 time_required: "4-8 hours construction + testing"
 prerequisites: ["basic electricity", "DC circuits", "safety protocols"]
 related: ["l3-tech-charge-controllers", "l3-tech-solar-wiring", "l3-tech-battery-maintenance"]
+diagram: diagrams/solar-panel-basic-wiring.svg
 ---
 
 # Battery Bank Construction

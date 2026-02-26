@@ -44,6 +44,7 @@ steps:
   Run devices on 12V DC whenever possible.'
 - 'MAINTENANCE: lead-acid batteries need water top-up (use distilled/rainwater only) every 1-3 months. Check terminals for corrosion (clean with baking soda + water). Lithium batteries are maintenance-free
   but sensitive to deep discharge — never let voltage drop below 2.5V per cell.'
+diagram: diagrams/solar-charging-wiring.svg
 ---
 # Solar Charging
 
@@ -61,7 +62,7 @@ steps:
 - Flexible: lightweight, curved surfaces
 - Portable folding: easy to move
 
-## Charge Controller Types
+## Controller Types
 
 - PWM (cheaper): 70-75% efficient
 - MPPT (better): 93-97% efficient

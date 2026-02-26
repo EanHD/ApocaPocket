@@ -49,7 +49,7 @@ steps:
 - 'WET CONDITIONS: ferro rods work when wet — wipe dry on your shirt first. The challenge is dry tinder. Carry prepared tinder (petroleum jelly cotton balls) in a waterproof container (film canister or small Nalgene). In the field, look inside dead standing trees (standing dead wood stays drier), under bark slabs, in the center of dead grass clumps, under dense conifer branches, or scrape wood shavings from dry interior of logs.'
 - 'MAINTENANCE: ferro rods don''t expire. Store dry. If oxidation develops (white powder on surface), scrape it off with knife edge. A 6-inch rod (3/8" diameter) provides 10,000-20,000 strikes. Carry a backup (3" mini rod on keychain). Replace when rod worn down to 2" or diameter reduced by half.'
 - 'PRACTICE DRILL: achieve consistent ignition in under 30 seconds with natural tinder before relying on ferro rod in emergency. Practice in wet conditions. Time yourself: prepared tinder should ignite in 1-3 strikes; natural tinder in 5-10 strikes once mastered.'
-diagram: /assets/diagrams/L1/fire/ferro-rod-technique.svg
+diagram: diagrams/ferro-rod-technique.svg
 ---
 
 # Ferro Rod and Tinder Prep

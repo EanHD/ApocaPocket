@@ -1,6 +1,6 @@
 ---
 id: l1-fire-bow-drill-detailed
-title: "Bow Drill Complete Guide"
+title: Bow Drill Guide
 category: L1_immediate_survival
 subtopic: fire
 tags:
@@ -61,7 +61,7 @@ steps:
 - 'IGNITION: blow with steady, gentle breaths (2-3 seconds per breath) at the base where ember sits. As smoke increases, blow harder and more continuously. Cup bundle loosely in hands to concentrate heat. Smoke will transition from white (water vapor) to thick (ember burning tinder) to flame. This takes 30-60 seconds typically. When flames appear, place immediately into prepared fire lay.'
 - 'TROUBLESHOOTING GUIDE: Black dust/no ember = too much pressure, not enough speed (speed up). Brown dust/no ember = increase pressure. Dust but no smoke = wood too damp or dusty (try new wood). String slipping on spindle = tighten bow tension OR roughen spindle with knife cuts OR add pine resin/rosin to string. Spindle popping out = not vertical, or socket too shallow. Handhold smoking = add lubricant. Ember dies after transfer = tinder too coarse (need finer center material) or blowing too hard initially.'
 - 'PRACTICE BENCHMARKS: 1) First success (any ember): 5-10 attempts typical. 2) Consistent success (80%+ rate): 20-30 practice sessions. 3) Speed milestone: sub-3-minute ember (from setup to ember) indicates mastery. 4) Weather challenge: achieve ember in damp/cold conditions with emergency tinder.'
-diagram: /assets/diagrams/L1/fire/bow-drill-technique.svg
+diagram: diagrams/bow-drill-technique.svg
 ---
 
 # Bow Drill Fire Starting —

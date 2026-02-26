@@ -49,6 +49,7 @@ steps:
   with flour-water paste or clay. Replace condenser water frequently to keep it cold.'
 audit_status: verified
 last_verified: '2026-02-19'
+diagram: diagrams/distillation-still.svg
 ---
 # Ethanol Distillation
 

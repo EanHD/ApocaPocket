@@ -9,67 +9,67 @@
   
   <!-- Phase 1: Recognition -->
   <circle cx="30" cy="30" r="4" fill="#FFFF00"/>
-  <text x="30" y="45" fill="#FFFF00" font-family="monospace" font-size="7" text-anchor="middle">HOUR 1</text>
-  <text x="30" y="54" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">RECOGNIZE</text>
+  <text x="30" y="45" fill="#FFFF00" font-family="monospace" font-size="10.0" text-anchor="middle">HOUR 1</text>
+  <text x="30" y="54" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">RECOGNIZE</text>
   <rect x="5" y="58" width="50" height="32" fill="#FFFF00" fill-opacity="0.15"/>
-  <text x="30" y="66" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Unusual</text>
-  <text x="30" y="73" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">illness</text>
-  <text x="30" y="80" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">spreading</text>
-  <text x="30" y="87" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">rapidly</text>
+  <text x="30" y="66" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">Unusual</text>
+  <text x="30" y="73" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">illness</text>
+  <text x="30" y="80" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">spreading</text>
+  <text x="30" y="87" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">rapidly</text>
   
   <!-- Phase 2: Isolation -->
   <circle cx="80" cy="30" r="4" fill="#00FFFF"/>
-  <text x="80" y="45" fill="#00FFFF" font-family="monospace" font-size="7" text-anchor="middle">DAY 1</text>
-  <text x="80" y="54" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">ISOLATE</text>
+  <text x="80" y="45" fill="#00FFFF" font-family="monospace" font-size="10.0" text-anchor="middle">DAY 1</text>
+  <text x="80" y="54" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">ISOLATE</text>
   <rect x="55" y="58" width="50" height="32" fill="#00FFFF" fill-opacity="0.15"/>
-  <text x="80" y="66" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Separate</text>
-  <text x="80" y="73" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">sick from</text>
-  <text x="80" y="80" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">healthy</text>
-  <text x="80" y="87" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Stockpile</text>
+  <text x="80" y="66" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">Separate</text>
+  <text x="80" y="73" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">sick from</text>
+  <text x="80" y="80" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">healthy</text>
+  <text x="80" y="87" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">Stockpile</text>
   
   <!-- Phase 3: Protect -->
   <circle cx="130" cy="30" r="4" fill="#00FFFF"/>
-  <text x="130" y="45" fill="#00FFFF" font-family="monospace" font-size="7" text-anchor="middle">WEEK 1</text>
-  <text x="130" y="54" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">PROTECT</text>
+  <text x="130" y="45" fill="#00FFFF" font-family="monospace" font-size="10.0" text-anchor="middle">WEEK 1</text>
+  <text x="130" y="54" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">PROTECT</text>
   <rect x="105" y="58" width="50" height="32" fill="#00FFFF" fill-opacity="0.15"/>
-  <text x="130" y="66" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">PPE use</text>
-  <text x="130" y="73" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Home care</text>
-  <text x="130" y="80" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">protocols</text>
-  <text x="130" y="87" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Hygiene</text>
+  <text x="130" y="66" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">PPE use</text>
+  <text x="130" y="73" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">Home care</text>
+  <text x="130" y="80" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">protocols</text>
+  <text x="130" y="87" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">Hygiene</text>
   
   <!-- Phase 4: Organize -->
   <circle cx="180" cy="30" r="4" fill="#FFFFFF"/>
-  <text x="180" y="45" fill="#FFFFFF" font-family="monospace" font-size="7" text-anchor="middle">MONTH 1</text>
-  <text x="180" y="54" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">ORGANIZE</text>
+  <text x="180" y="45" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">MONTH 1</text>
+  <text x="180" y="54" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">ORGANIZE</text>
   <rect x="155" y="58" width="50" height="32" fill="#FFFFFF" fill-opacity="0.15"/>
-  <text x="180" y="66" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Community</text>
-  <text x="180" y="73" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">care</text>
-  <text x="180" y="80" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">Supply</text>
-  <text x="180" y="87" fill="#FFFFFF" font-family="monospace" font-size="6" text-anchor="middle">chains</text>
+  <text x="180" y="66" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">Community</text>
+  <text x="180" y="73" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">care</text>
+  <text x="180" y="80" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">Supply</text>
+  <text x="180" y="87" fill="#FFFFFF" font-family="monospace" font-size="10.0" text-anchor="middle">chains</text>
   
   <!-- Infection Control Layers -->
-  <text x="120" y="105" fill="#FFFF00" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">INFECTION CONTROL LAYERS</text>
+  <text x="120" y="105" fill="#FFFF00" font-family="monospace" font-size="11.2" font-weight="bold" text-anchor="middle">INFECTION CONTROL LAYERS</text>
   
   <rect x="10" y="112" width="220" height="12" fill="#00FFFF" fill-opacity="0.2"/>
-  <text x="15" y="121" fill="#FFFFFF" font-family="monospace" font-size="7">1. DISTANCE (6+ feet)</text>
+  <text x="15" y="121" fill="#FFFFFF" font-family="monospace" font-size="10.0">1. DISTANCE (6+ feet)</text>
   
   <rect x="10" y="126" width="220" height="12" fill="#00FFFF" fill-opacity="0.2"/>
-  <text x="15" y="135" fill="#FFFFFF" font-family="monospace" font-size="7">2. BARRIERS (masks, shields)</text>
+  <text x="15" y="135" fill="#FFFFFF" font-family="monospace" font-size="10.0">2. BARRIERS (masks, shields)</text>
   
   <rect x="10" y="140" width="220" height="12" fill="#00FFFF" fill-opacity="0.2"/>
-  <text x="15" y="149" fill="#FFFFFF" font-family="monospace" font-size="7">3. HYGIENE (handwashing)</text>
+  <text x="15" y="149" fill="#FFFFFF" font-family="monospace" font-size="10.0">3. HYGIENE (handwashing)</text>
   
   <rect x="10" y="154" width="220" height="12" fill="#00FFFF" fill-opacity="0.2"/>
-  <text x="15" y="163" fill="#FFFFFF" font-family="monospace" font-size="7">4. VENTILATION (fresh air)</text>
+  <text x="15" y="163" fill="#FFFFFF" font-family="monospace" font-size="10.0">4. VENTILATION (fresh air)</text>
   
   <rect x="10" y="168" width="220" height="12" fill="#00FFFF" fill-opacity="0.2"/>
-  <text x="15" y="177" fill="#FFFFFF" font-family="monospace" font-size="7">5. DISINFECTION (surfaces)</text>
+  <text x="15" y="177" fill="#FFFFFF" font-family="monospace" font-size="10.0">5. DISINFECTION (surfaces)</text>
   
   <!-- Fatal Mistakes -->
-  <text x="120" y="195" fill="#FFFF00" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">FATAL MISTAKES</text>
+  <text x="120" y="195" fill="#FFFF00" font-family="monospace" font-size="11.2" font-weight="bold" text-anchor="middle">FATAL MISTAKES</text>
   
-  <text x="120" y="205" fill="#FF0000" font-family="monospace" font-size="6" text-anchor="middle">× Caregiver infection (no PPE)</text>
-  <text x="120" y="213" fill="#FF0000" font-family="monospace" font-size="6" text-anchor="middle">× Ignoring early signs</text>
-  <text x="120" y="221" fill="#FF0000" font-family="monospace" font-size="6" text-anchor="middle">× Panic hoarding → violence</text>
-  <text x="120" y="229" fill="#FF0000" font-family="monospace" font-size="6" text-anchor="middle">× Abandoning sick</text>
+  <text x="120" y="205" fill="#FF0000" font-family="monospace" font-size="10.0" text-anchor="middle">× Caregiver infection (no PPE)</text>
+  <text x="120" y="213" fill="#FF0000" font-family="monospace" font-size="10.0" text-anchor="middle">× Ignoring early signs</text>
+  <text x="120" y="221" fill="#FF0000" font-family="monospace" font-size="10.0" text-anchor="middle">× Panic hoarding → violence</text>
+  <text x="120" y="229" fill="#FF0000" font-family="monospace" font-size="10.0" text-anchor="middle">× Abandoning sick</text>
 </svg>

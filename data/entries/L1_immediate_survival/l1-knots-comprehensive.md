@@ -33,6 +33,7 @@ steps:
 - 'SHEET BEND: Join two ropes of different diameters. Better than square knot for unequal ropes.'
 - 'PRUSIK: Friction hitch slides up rope but grips under load. Climbing safety, hauling.'
 - 'TRUCKER HITCH: Mechanical advantage for tightening loads. Creates 3:1 pulley. Securing cargo.'
+diagram: diagrams/knot-quick-ref.svg
 ---
 
 # Essential Knots

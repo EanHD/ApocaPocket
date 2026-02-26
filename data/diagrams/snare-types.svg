@@ -1,0 +1,104 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">BASIC SNARES</text>
+
+<!-- Vertical dividers -->
+<line x1="80" y1="16" x2="80" y2="178" stroke="#333333" stroke-width="1"/>
+<line x1="160" y1="16" x2="160" y2="178" stroke="#333333" stroke-width="1"/>
+
+<!-- LEFT: Simple Loop Snare -->
+<text x="40" y="24" fill="#00FFFF" font-size="10.5" font-weight="bold" text-anchor="middle" font-family="monospace">SIMPLE LOOP</text>
+
+<!-- Ground -->
+<line x1="8" y1="140" x2="76" y2="140" stroke="#885533" stroke-width="2"/>
+<!-- Stake -->
+<rect x="37" y="100" width="6" height="40" fill="#885533"/>
+<!-- Wire from stake going up and out to noose -->
+<path d="M 40 100 L 40 80 L 50 70" stroke="#AAAAAA" stroke-width="1.5" fill="none"/>
+<!-- Noose loop -->
+<ellipse cx="50" cy="62" rx="16" ry="12" fill="none" stroke="#AAAAAA" stroke-width="1.5"/>
+<!-- Height indicator -->
+<line x1="8" y1="140" x2="8" y2="120" stroke="#FFFF00" stroke-width="1"/>
+<line x1="6" y1="120" x2="10" y2="120" stroke="#FFFF00" stroke-width="1"/>
+<text x="11" y="132" fill="#FFFF00" font-size="10.0" font-family="monospace">10cm</text>
+<!-- Width indicator -->
+<line x1="34" y1="55" x2="66" y2="55" stroke="#FFFF00" stroke-width="1"/>
+<polygon points="34,53 28,55 34,57" fill="#FFFF00"/>
+<polygon points="66,53 72,55 66,57" fill="#FFFF00"/>
+<text x="40" y="51" fill="#FFFF00" font-size="10.0" font-family="monospace">fist-wide</text>
+
+<text x="40" y="152" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Wire/cordage</text>
+<text x="40" y="161" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">loop. Anchor</text>
+<text x="40" y="170" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">to stake/root</text>
+
+<!-- CENTER: Spring Snare (Paiute) -->
+<text x="120" y="24" fill="#00FFFF" font-size="10.5" font-weight="bold" text-anchor="middle" font-family="monospace">SPRING SNARE</text>
+
+<!-- Ground -->
+<line x1="84" y1="140" x2="156" y2="140" stroke="#885533" stroke-width="2"/>
+<!-- Bent sapling (arc) -->
+<path d="M 120 140 Q 100 120 95 85 Q 92 60 105 45" stroke="#885533" stroke-width="2" fill="none"/>
+<!-- Sapling tip -->
+<circle cx="105" cy="45" r="2" fill="#885533"/>
+<!-- Trigger stick (vertical in ground) -->
+<line x1="120" y1="105" x2="120" y2="140" stroke="#885533" stroke-width="2"/>
+<!-- Horizontal toggle/bait stick -->
+<line x1="100" y1="105" x2="128" y2="105" stroke="#885533" stroke-width="1.5"/>
+<!-- Cordage from sapling to toggle -->
+<line x1="105" y1="45" x2="113" y2="105" stroke="#AAAAAA" stroke-width="1"/>
+<!-- Noose loop hanging from trigger -->
+<ellipse cx="130" cy="120" rx="13" ry="10" fill="none" stroke="#AAAAAA" stroke-width="1.5"/>
+<line x1="120" y1="105" x2="130" y2="110" stroke="#AAAAAA" stroke-width="1"/>
+<!-- Labels -->
+<text x="84" y="80" fill="#FFFF00" font-size="10.0" font-family="monospace">spring</text>
+<text x="84" y="87" fill="#FFFF00" font-size="10.0" font-family="monospace">sapling</text>
+<text x="122" y="98" fill="#FFFF00" font-size="10.0" font-family="monospace">trigger</text>
+<text x="138" y="125" fill="#FFFF00" font-size="10.0" font-family="monospace">snare</text>
+
+<text x="120" y="152" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Bent sapling</text>
+<text x="120" y="161" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">pulls noose</text>
+<text x="120" y="170" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">tight &amp; up</text>
+
+<!-- RIGHT: Deadfall Figure-4 -->
+<text x="200" y="24" fill="#00FFFF" font-size="10.5" font-weight="bold" text-anchor="middle" font-family="monospace">FIGURE-4</text>
+
+<!-- Ground -->
+<line x1="164" y1="140" x2="236" y2="140" stroke="#885533" stroke-width="2"/>
+<!-- Weight rock -->
+<rect x="170" y="80" width="58" height="20" fill="#555555" stroke="#777777" stroke-width="1"/>
+<text x="199" y="93" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">ROCK/LOG</text>
+
+<!-- Figure-4 trigger sticks -->
+<!-- Upright stick -->
+<line x1="190" y1="100" x2="190" y2="140" stroke="#885533" stroke-width="2"/>
+<!-- Diagonal stick -->
+<line x1="190" y1="100" x2="218" y2="140" stroke="#885533" stroke-width="2"/>
+<!-- Platform/bait stick -->
+<line x1="190" y1="118" x2="224" y2="118" stroke="#885533" stroke-width="2"/>
+
+<!-- Labels -->
+<text x="178" y="107" fill="#FFFF00" font-size="10.0" font-family="monospace">upright</text>
+<text x="215" y="133" fill="#FFFF00" font-size="10.0" font-family="monospace">diag</text>
+<text x="194" y="113" fill="#FFFF00" font-size="10.0" font-family="monospace">platform</text>
+
+<!-- Bait label -->
+<circle cx="220" cy="118" r="3" fill="#FF8800"/>
+<text x="224" y="114" fill="#FF8800" font-size="10.0" font-family="monospace">BAIT</text>
+
+<text x="200" y="152" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">3-stick trigger</text>
+<text x="200" y="161" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Weight crushes</text>
+<text x="200" y="170" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">when bait taken</text>
+
+<!-- Bottom placement note -->
+<rect x="4" y="180" width="232" height="24" fill="#111100" stroke="#FFFF00" stroke-width="1"/>
+<text x="120" y="190" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">PLACEMENT: Animal trails · near burrows · water</text>
+<text x="120" y="200" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Mask human scent · Check every 4-6 hrs</text>
+
+<!-- Legal warning -->
+<rect x="4" y="207" width="232" height="14" fill="#330000" stroke="#FF4444" stroke-width="1"/>
+<text x="120" y="217" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">⚠ May be illegal — survival use only</text>
+
+<!-- Rabbit size indicator -->
+<text x="40" y="183" fill="#AAAAAA" font-size="10.0" text-anchor="middle" font-family="monospace">rabbit loop:</text>
+<text x="40" y="190" fill="#AAAAAA" font-size="10.0" text-anchor="middle" font-family="monospace">fist-width</text>
+</svg>

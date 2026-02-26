@@ -1,0 +1,112 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">NAVIGATE WITHOUT COMPASS</text>
+
+<!-- Section dividers -->
+<line x1="4" y1="83" x2="236" y2="83" stroke="#333333" stroke-width="1"/>
+<line x1="4" y1="158" x2="236" y2="158" stroke="#333333" stroke-width="1"/>
+
+<!-- TOP: Shadow Stick Method -->
+<text x="120" y="24" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">SHADOW STICK METHOD</text>
+
+<!-- Ground line -->
+<line x1="20" y1="73" x2="236" y2="73" stroke="#555533" stroke-width="1.5"/>
+
+<!-- Stick vertical -->
+<line x1="80" y1="40" x2="80" y2="73" stroke="#FFFFFF" stroke-width="2"/>
+<text x="80" y="38" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">stick</text>
+
+<!-- Sun -->
+<circle cx="180" cy="35" r="8" fill="#FFFF00"/>
+<line x1="180" y1="22" x2="180" y2="18" stroke="#FFFF00" stroke-width="1"/>
+<line x1="193" y1="25" x2="196" y2="22" stroke="#FFFF00" stroke-width="1"/>
+<line x1="193" y1="35" x2="197" y2="35" stroke="#FFFF00" stroke-width="1"/>
+<line x1="188" y1="43" x2="191" y2="46" stroke="#FFFF00" stroke-width="1"/>
+
+<!-- Shadow A -->
+<line x1="80" y1="73" x2="50" y2="73" stroke="#888888" stroke-width="2"/>
+<circle cx="50" cy="73" r="3" fill="#FFFFFF"/>
+<text x="50" y="68" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">A</text>
+
+<!-- Wait arrow + B point -->
+<text x="120" y="64" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">wait 15 min</text>
+<line x1="105" y1="66" x2="115" y2="69" stroke="#FFFF00" stroke-width="1"/>
+<polygon points="112,68 117,71 115,66" fill="#FFFF00"/>
+
+<!-- Shadow B (different angle after 15min) -->
+<line x1="80" y1="73" x2="56" y2="73" stroke="#888888" stroke-width="1" stroke-dasharray="2,2"/>
+<circle cx="56" cy="73" r="3" fill="#AAAAAA"/>
+<text x="56" y="68" fill="#AAAAAA" font-size="10.0" text-anchor="middle" font-family="monospace">B</text>
+
+<!-- A→B arrow = West→East -->
+<line x1="50" y1="78" x2="118" y2="78" stroke="#00FF00" stroke-width="1.5"/>
+<polygon points="115,75 122,78 115,81" fill="#00FF00"/>
+<text x="44" y="82" fill="#00FF00" font-size="10.0" font-family="monospace">W</text>
+<text x="120" y="82" fill="#00FF00" font-size="10.0" font-family="monospace">E</text>
+<text x="140" y="74" fill="#00FFFF" font-size="10.0" font-family="monospace">A→B = W→E</text>
+<text x="140" y="82" fill="#00FFFF" font-size="10.0" font-family="monospace">⊥ to AB = N/S</text>
+
+<!-- MIDDLE: Watch Method -->
+<text x="120" y="92" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">WATCH METHOD (N. HEMISPHERE)</text>
+
+<!-- Clock face -->
+<circle cx="55" cy="122" r="22" fill="#111111" stroke="#FFFFFF" stroke-width="1"/>
+<!-- Clock numbers -->
+<text x="55" y="103" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">12</text>
+<text x="55" y="147" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">6</text>
+<text x="30" y="126" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">9</text>
+<text x="79" y="126" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">3</text>
+<!-- Hour hand at ~10 (pointing toward sun) -->
+<line x1="55" y1="122" x2="43" y2="107" stroke="#FFFF00" stroke-width="2"/>
+<text x="38" y="105" fill="#FFFF00" font-size="10.0" font-family="monospace">hr</text>
+<!-- 12 o'clock line -->
+<line x1="55" y1="122" x2="55" y2="104" stroke="#AAAAAA" stroke-width="1" stroke-dasharray="2,1"/>
+<!-- Bisect angle = south -->
+<line x1="55" y1="122" x2="47" y2="105" stroke="#FF4444" stroke-width="1.5" stroke-dasharray="3,1"/>
+<text x="8" y="112" fill="#FF4444" font-size="10.0" font-family="monospace">bisect</text>
+<text x="8" y="120" fill="#FF4444" font-size="10.0" font-family="monospace">angle=S</text>
+
+<text x="95" y="100" fill="#FFFFFF" font-size="10.0" font-family="monospace">1. Point hour hand</text>
+<text x="95" y="110" fill="#FFFFFF" font-size="10.0" font-family="monospace">   at the sun</text>
+<text x="95" y="122" fill="#FFFFFF" font-size="10.0" font-family="monospace">2. Bisect angle</text>
+<text x="95" y="132" fill="#FFFFFF" font-size="10.0" font-family="monospace">   hr hand &amp; 12</text>
+<text x="95" y="144" fill="#FF4444" font-size="10.0" font-family="monospace">→ That line = SOUTH</text>
+<text x="95" y="154" fill="#00FFFF" font-size="10.0" font-family="monospace">S.Hemi: use 12 not hr</text>
+
+<!-- BOTTOM: Star Navigation -->
+<text x="120" y="167" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">NIGHT: BIG DIPPER → POLARIS</text>
+
+<!-- Big Dipper stars -->
+<!-- Bowl -->
+<circle cx="30" cy="200" r="2" fill="#FFFFFF"/>
+<circle cx="40" cy="195" r="2" fill="#FFFFFF"/>
+<circle cx="50" cy="192" r="2" fill="#FFFFFF"/>
+<circle cx="52" cy="200" r="2" fill="#FFFFFF"/>
+<!-- Handle -->
+<circle cx="62" cy="205" r="2" fill="#FFFFFF"/>
+<circle cx="73" cy="210" r="2" fill="#FFFFFF"/>
+<circle cx="84" cy="208" r="2" fill="#FFFFFF"/>
+<!-- Dipper lines -->
+<line x1="30" y1="200" x2="40" y2="195" stroke="#555555" stroke-width="1"/>
+<line x1="40" y1="195" x2="50" y2="192" stroke="#555555" stroke-width="1"/>
+<line x1="50" y1="192" x2="52" y2="200" stroke="#555555" stroke-width="1"/>
+<line x1="52" y1="200" x2="30" y2="200" stroke="#555555" stroke-width="1"/>
+<line x1="52" y1="200" x2="62" y2="205" stroke="#555555" stroke-width="1"/>
+<line x1="62" y1="205" x2="73" y2="210" stroke="#555555" stroke-width="1"/>
+<line x1="73" y1="210" x2="84" y2="208" stroke="#555555" stroke-width="1"/>
+<!-- Pointer stars to Polaris -->
+<line x1="40" y1="195" x2="150" y2="185" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="30" y1="200" x2="150" y2="185" stroke="#FFFF00" stroke-width="1" stroke-dasharray="3,2"/>
+<!-- Polaris -->
+<circle cx="153" cy="184" r="4" fill="#00FFFF"/>
+<text x="160" y="182" fill="#00FFFF" font-size="10.0" font-family="monospace">POLARIS</text>
+<text x="160" y="191" fill="#00FFFF" font-size="10.0" font-family="monospace">= NORTH</text>
+
+<text x="30" y="178" fill="#FFFF00" font-size="10.0" font-family="monospace">BIG DIPPER</text>
+<text x="28" y="220" fill="#FFFFFF" font-size="10.0" font-family="monospace">Pointer stars (bowl edge) → Polaris ~5x apart</text>
+
+<!-- North label with arrow -->
+<line x1="153" y1="174" x2="153" y2="165" stroke="#00FFFF" stroke-width="1.5"/>
+<polygon points="149,167 157,167 153,162" fill="#00FFFF"/>
+<text x="153" y="234" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">N</text>
+</svg>

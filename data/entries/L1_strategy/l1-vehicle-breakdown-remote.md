@@ -14,6 +14,7 @@ related:
 - "l1-vehicle-winter-survival"
 - "l1-shelter-site-selection"
 - "l1-water-sources-and-collection"
+diagram: diagrams/vehicle-breakdown-decision-flow.svg
 ---
 
 # Vehicle Breakdown in

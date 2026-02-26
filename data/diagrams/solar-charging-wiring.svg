@@ -1,0 +1,62 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">SOLAR SYSTEM WIRING</text>
+
+<!-- Solar Panel -->
+<rect x="70" y="18" width="100" height="36" fill="#001133" stroke="#00FFFF" stroke-width="1.5" rx="2"/>
+<!-- Grid lines on panel -->
+<line x1="96" y1="18" x2="96" y2="54" stroke="#00FFFF" stroke-width="0.5"/>
+<line x1="120" y1="18" x2="120" y2="54" stroke="#00FFFF" stroke-width="0.5"/>
+<line x1="144" y1="18" x2="144" y2="54" stroke="#00FFFF" stroke-width="0.5"/>
+<line x1="70" y1="30" x2="170" y2="30" stroke="#00FFFF" stroke-width="0.5"/>
+<line x1="70" y1="42" x2="170" y2="42" stroke="#00FFFF" stroke-width="0.5"/>
+<text x="120" y="27" fill="#00FFFF" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">SOLAR PANEL</text>
+<text x="120" y="50" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">12V or 24V panel</text>
+
+<!-- Arrow panel to controller -->
+<line x1="120" y1="54" x2="120" y2="72" stroke="#FFFF00" stroke-width="1.5"/>
+<polygon points="120,78 115,68 125,68" fill="#FFFF00"/>
+
+<!-- Charge Controller -->
+<rect x="60" y="78" width="120" height="34" fill="#111111" stroke="#FFFF00" stroke-width="1.5" rx="2"/>
+<text x="120" y="90" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">CHARGE CONTROLLER</text>
+<text x="120" y="101" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">PWM or MPPT</text>
+<text x="120" y="109" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Match voltage to battery</text>
+
+<!-- Arrow controller to battery (left) -->
+<line x1="85" y1="112" x2="65" y2="128" stroke="#FF4444" stroke-width="1.5"/>
+<polygon points="60,133 62,120 72,128" fill="#FF4444"/>
+
+<!-- Arrow controller to load (right) -->
+<line x1="155" y1="112" x2="175" y2="128" stroke="#00FF00" stroke-width="1.5"/>
+<polygon points="180,133 168,128 178,120" fill="#00FF00"/>
+
+<!-- Battery box -->
+<rect x="10" y="133" width="100" height="42" fill="#110000" stroke="#FF4444" stroke-width="1.5" rx="2"/>
+<text x="60" y="145" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">BATTERY</text>
+<text x="60" y="155" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">12V AGM or LiFePO4</text>
+<text x="40" y="166" fill="#FFFF00" font-size="12.6" font-weight="bold" text-anchor="middle" font-family="monospace">+</text>
+<text x="80" y="166" fill="#FFFFFF" font-size="12.6" font-weight="bold" text-anchor="middle" font-family="monospace">-</text>
+<text x="60" y="171" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Fuse: 30A+ at battery</text>
+
+<!-- Devices box -->
+<rect x="130" y="133" width="100" height="42" fill="#001100" stroke="#00FF00" stroke-width="1.5" rx="2"/>
+<text x="180" y="145" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">DEVICES / LOAD</text>
+<text x="180" y="155" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">USB charger</text>
+<text x="180" y="163" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">LED lights</text>
+<text x="180" y="171" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Radio/devices</text>
+
+<!-- Wiring notes section -->
+<line x1="2" y1="182" x2="238" y2="182" stroke="#444444" stroke-width="1"/>
+<text x="120" y="192" fill="#FFFF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">WIRING RULES</text>
+<text x="12" y="202" fill="#FF4444" font-size="10.0" font-family="monospace">■</text>
+<text x="20" y="202" fill="#FFFFFF" font-size="10.0" font-family="monospace">RED = Positive (+)</text>
+<text x="120" y="202" fill="#FFFFFF" font-size="10.0" font-family="monospace">■</text>
+<text x="126" y="202" fill="#FFFFFF" font-size="10.0" font-family="monospace">BLACK = Negative (-)</text>
+<text x="12" y="212" fill="#00FFFF" font-size="10.0" font-family="monospace">Fuse within 30cm of battery</text>
+<text x="12" y="221" fill="#00FF00" font-size="10.0" font-family="monospace">MPPT saves up to 30% more power</text>
+
+<!-- Bottom warning -->
+<rect x="2" y="226" width="236" height="12" fill="#330000" stroke="#FF4444" stroke-width="1" rx="1"/>
+<text x="120" y="235" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">⚠ NEVER REVERSE POLARITY</text>
+</svg>

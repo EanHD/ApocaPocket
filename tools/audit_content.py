@@ -69,7 +69,14 @@ def audit_entry(path):
                 score += SCORE_LONG_SECTION
 
     # Tables — critical, renders as raw pipes
-    table_lines = sum(1 for l in lines if l.startswith('|'))
+    # Skip pipe chars inside ``` code blocks (they're legitimate)
+    in_code = False
+    table_lines = 0
+    for l in lines:
+        if l.startswith('```'):
+            in_code = not in_code
+        if not in_code and l.startswith('|'):
+            table_lines += 1
     if table_lines:
         issues.append(f'{table_lines} table lines (renders as pipe characters)')
         score += SCORE_TABLE

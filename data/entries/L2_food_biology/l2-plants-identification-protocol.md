@@ -29,6 +29,7 @@ last_verified: '2026-02-18'
 audit_status: verified
 confidence: high
 offline_assets: []
+diagram: diagrams/edible-plant-universal-test.svg
 ---
 
 ## Overview

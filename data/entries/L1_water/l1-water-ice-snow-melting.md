@@ -14,6 +14,7 @@ related:
 - "l1-medical-hypothermia"
 - "l1-water-boiling-and-purification"
 - "l1-water-storage-safety"
+diagram: diagrams/snow-melting-efficiency.svg
 ---
 
 # Ice and Snow Melting for

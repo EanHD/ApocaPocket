@@ -40,17 +40,17 @@ audit_status: verified
 ## Four Classic Species
 
 - Silver carp (Hypophthalmichthys molitrix)
-  - Feeds on phytoplankton, surface layer
-  - Fast growing, 1-2 kg per season
+- Feeds on phytoplankton, surface layer
+- Fast growing, 1-2 kg per season
 - Bighead carp (H. nobilis)
-  - Feeds on zooplankton, upper-mid layer
-  - Complements silver carp exactly
+- Feeds on zooplankton, upper-mid layer
+- Complements silver carp exactly
 - Grass carp (Ctenopharyngodon idella)
-  - Feeds on aquatic plants, mid layer
-  - Also accepts cut land plants, mulberry
+- Feeds on aquatic plants, mid layer
+- Also accepts cut land plants, mulberry
 - Common carp (Cyprinus carpio)
-  - Bottom feeder, roots through mud
-  - Aerates pond bottom while feeding
+- Bottom feeder, roots through mud
+- Aerates pond bottom while feeding
 
 ## Stocking Ratios
 

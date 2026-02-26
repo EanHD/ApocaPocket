@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle">HYPOTHERMIA</text>
+<line x1="120" y1="18" x2="120" y2="165" stroke="#555" stroke-width="1"/>
+<text x="60" y="31" font-family="monospace" font-size="11" fill="#00FFFF" text-anchor="middle">SIGNS</text>
+<text x="180" y="31" font-family="monospace" font-size="11" fill="#00FFFF" text-anchor="middle">TREAT</text>
+<text x="6" y="48" font-family="monospace" font-size="10" fill="#FFFFFF">Shivering</text>
+<text x="6" y="65" font-family="monospace" font-size="10" fill="#FFFFFF">Confusion/slurred</text>
+<text x="6" y="82" font-family="monospace" font-size="10" fill="#FF8800">Blue lips/pale</text>
+<text x="6" y="99" font-family="monospace" font-size="10" fill="#FF4444">No shiver=CRITICAL</text>
+<text x="124" y="48" font-family="monospace" font-size="10" fill="#FFFFFF">Remove wet</text>
+<text x="124" y="65" font-family="monospace" font-size="10" fill="#FFFFFF">Insulate ground</text>
+<text x="124" y="82" font-family="monospace" font-size="10" fill="#00FF00">Warm core+fluids</text>
+<text x="124" y="99" font-family="monospace" font-size="10" fill="#FF4444">NO rub/alcohol</text>
+<!-- Temp scale bar -->
+<rect x="5"   y="110" width="53" height="18" fill="#00FF00" rx="2"/>
+<rect x="61"  y="110" width="53" height="18" fill="#FFFF00" rx="2"/>
+<rect x="117" y="110" width="53" height="18" fill="#FF8800" rx="2"/>
+<rect x="173" y="110" width="62" height="18" fill="#FF4444" rx="2"/>
+<text x="31"  y="123" font-family="monospace" font-size="10" fill="#000" text-anchor="middle">37° NORM</text>
+<text x="87"  y="123" font-family="monospace" font-size="10" fill="#000" text-anchor="middle">35° MILD</text>
+<text x="143" y="123" font-family="monospace" font-size="10" fill="#000" text-anchor="middle">32° SEVR</text>
+<text x="204" y="123" font-family="monospace" font-size="10" fill="#FFF" text-anchor="middle">28° CRIT</text>
+<!-- Arrow showing danger direction -->
+<line x1="5" y1="135" x2="235" y2="135" stroke="#FF4444" stroke-width="1" stroke-dasharray="4,3"/>
+<polygon points="232,132 240,135 232,138" fill="#FF4444"/>
+<text x="100" y="148" font-family="monospace" font-size="10" fill="#FF4444">DANGER →</text>
+<!-- Body diagram hint: torso outline, warm core concept -->
+<ellipse cx="50" cy="185" rx="18" ry="24" fill="none" stroke="#444" stroke-width="1"/>
+<ellipse cx="50" cy="175" rx="10" ry="10" fill="none" stroke="#444" stroke-width="1"/>
+<ellipse cx="50" cy="186" rx="10" ry="12" fill="#FF8800" fill-opacity="0.3" stroke="#FF8800" stroke-width="1"/>
+<text x="72" y="175" font-family="monospace" font-size="10" fill="#FF8800">Warm torso</text>
+<text x="72" y="190" font-family="monospace" font-size="10" fill="#FF8800">first — not limbs</text>
+</svg>

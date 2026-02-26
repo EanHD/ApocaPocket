@@ -51,7 +51,7 @@ steps:
 - 'STORAGE: Store prepared tinder in waterproof containers: film canisters (35mm), small Nalgene bottles, ziplock bags (double-bagged), mint tins, or vacuum-sealed bags. Label and date. Check monthly for moisture. Keep in pack, vehicle, and survival kit. Redundancy: store in multiple locations — if pack gets wet, you have backup in pocket.'
 - 'REGIONAL VARIATIONS — By climate: DESERT/ARID: yucca fibers, dried cactus fibers, sage bark, dried grasses, palm fronds. TEMPERATE: birch bark, cedar bark, dry leaves, pine needles, grasses. BOREAL/TAIGA: birch bark (best), spruce/pine needles, lichen (dry), moss (dry). TROPICAL: bamboo shavings (inner), palm fiber, dry bamboo leaves, coconut husk fiber (dried). ALPINE: dry grasses above treeline, lichen, moss.'
 - 'PRACTICE DRILL: Identify and prepare tinder from 5 different natural sources in your area. Test each with your fire starting method (ferro rod, friction fire, matches). Time from collection to prepared bundle. Goal: <5 minutes for experienced foragers. Create reference samples and photograph for identification practice.'
-diagram: /assets/diagrams/L1/fire/tinder-types.svg
+diagram: diagrams/tinder-types.svg
 ---
 
 # Natural Tinder Materials

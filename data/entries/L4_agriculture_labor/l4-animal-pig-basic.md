@@ -58,8 +58,8 @@ audit_status: verified
 
 - Pigs are escape artists and root under fences
 - Best: 2 strands electric wire
-  - Strand 1: 20cm high
-  - Strand 2: 40cm high
+- Strand 1: 20cm high
+- Strand 2: 40cm high
 - Or heavy-gauge welded wire buried 30cm
 - Rotational paddocks: move pigs regularly
 - Roots up paddock, then plant and rest it

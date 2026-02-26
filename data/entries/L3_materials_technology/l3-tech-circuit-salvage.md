@@ -1,6 +1,6 @@
 ---
 id: l3-tech-circuit-salvage
-title: "Circuit Basics - Salvage"
+title: Circuit Basics: Salvage
 layer: L3_materials_technology
 category: electronics
 tags: [salvage, components, e-waste, identification, color-codes, recycling, desoldering]

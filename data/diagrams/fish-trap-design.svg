@@ -1,0 +1,94 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">FISH TRAP DESIGNS</text>
+
+<!-- Divider -->
+<line x1="4" y1="118" x2="236" y2="118" stroke="#333333" stroke-width="1"/>
+
+<!-- TOP: Funnel basket trap -->
+<text x="120" y="24" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">FUNNEL BASKET TRAP</text>
+
+<!-- Basket cylinder outline (cross-section) -->
+<rect x="60" y="35" width="120" height="55" fill="#111111" stroke="#885533" stroke-width="1.5" rx="4"/>
+<!-- Funnel entrance left -->
+<line x1="60" y1="35" x2="80" y2="50" stroke="#885533" stroke-width="1.5"/>
+<line x1="60" y1="90" x2="80" y2="75" stroke="#885533" stroke-width="1.5"/>
+<line x1="60" y1="35" x2="60" y2="90" stroke="#885533" stroke-width="1.5"/>
+<rect x="60" y="50" width="20" height="25" fill="#222222"/>
+<!-- Inner funnel opening (small hole) -->
+<line x1="80" y1="50" x2="80" y2="75" stroke="#885533" stroke-width="1"/>
+<!-- Funnel entrance right -->
+<line x1="180" y1="35" x2="160" y2="50" stroke="#885533" stroke-width="1.5"/>
+<line x1="180" y1="90" x2="160" y2="75" stroke="#885533" stroke-width="1.5"/>
+<line x1="180" y1="35" x2="180" y2="90" stroke="#885533" stroke-width="1.5"/>
+<rect x="160" y="50" width="20" height="25" fill="#222222"/>
+<line x1="160" y1="50" x2="160" y2="75" stroke="#885533" stroke-width="1"/>
+
+<!-- Bait in center -->
+<circle cx="120" cy="62" r="6" fill="#FF8800"/>
+<text x="120" y="66" fill="#000000" font-size="10.0" text-anchor="middle" font-family="monospace">BAIT</text>
+
+<!-- Fish swimming in (arrows) -->
+<line x1="20" y1="62" x2="58" y2="62" stroke="#00FFFF" stroke-width="1.5"/>
+<polygon points="55,59 62,62 55,65" fill="#00FFFF"/>
+<!-- Fish icon left -->
+<ellipse cx="14" cy="62" rx="8" ry="4" fill="#00FFFF"/>
+<polygon points="6,58 2,62 6,66" fill="#00FFFF"/>
+
+<line x1="220" y1="62" x2="182" y2="62" stroke="#00FFFF" stroke-width="1.5"/>
+<polygon points="185,59 178,62 185,65" fill="#00FFFF"/>
+<!-- Fish icon right -->
+<ellipse cx="226" cy="62" rx="8" ry="4" fill="#00FFFF"/>
+<polygon points="234,58 238,62 234,66" fill="#00FFFF"/>
+
+<!-- Dimensions label -->
+<text x="120" y="101" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">60cm long · 20cm entrance · woven branches</text>
+<text x="120" y="110" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Current flows in → fish trapped, can't exit cone</text>
+
+<!-- Entrance label -->
+<text x="60" y="32" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">entry</text>
+<text x="180" y="32" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">entry</text>
+
+<!-- BOTTOM: Stone Weir -->
+<text x="120" y="128" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">STONE WEIR (TOP VIEW)</text>
+
+<!-- River banks -->
+<rect x="15" y="136" width="210" height="90" fill="#0a1a2a" rx="3"/>
+<line x1="15" y1="136" x2="225" y2="136" stroke="#336699" stroke-width="2"/>
+<line x1="15" y1="226" x2="225" y2="226" stroke="#336699" stroke-width="2"/>
+
+<!-- Water flow arrows -->
+<line x1="20" y1="148" x2="40" y2="148" stroke="#336699" stroke-width="1"/>
+<polygon points="37,145 44,148 37,151" fill="#336699"/>
+<line x1="20" y1="162" x2="40" y2="162" stroke="#336699" stroke-width="1"/>
+<polygon points="37,159 44,162 37,165" fill="#336699"/>
+<line x1="20" y1="195" x2="40" y2="195" stroke="#336699" stroke-width="1"/>
+<polygon points="37,192 44,195 37,198" fill="#336699"/>
+<line x1="20" y1="210" x2="40" y2="210" stroke="#336699" stroke-width="1"/>
+<polygon points="37,207 44,210 37,213" fill="#336699"/>
+
+<!-- V-shape stone walls -->
+<!-- Top arm of V -->
+<line x1="50" y1="136" x2="160" y2="178" stroke="#885533" stroke-width="4"/>
+<!-- Bottom arm of V -->
+<line x1="50" y1="226" x2="160" y2="184" stroke="#885533" stroke-width="4"/>
+<!-- Opening at tip of V -->
+<!-- Basket/trap at narrow point -->
+<rect x="160" y="175" width="22" height="12" fill="#885533" stroke="#FFFF00" stroke-width="1"/>
+<text x="171" y="184" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">TRAP</text>
+
+<!-- Continuation wall -->
+<line x1="182" y1="178" x2="215" y2="164" stroke="#885533" stroke-width="3"/>
+<line x1="182" y1="184" x2="215" y2="198" stroke="#885533" stroke-width="3"/>
+
+<!-- Fish flow arrow toward V -->
+<line x1="80" y1="165" x2="140" y2="178" stroke="#00FFFF" stroke-width="1.5" stroke-dasharray="3,2"/>
+<polygon points="137,175 144,180 138,183" fill="#00FFFF"/>
+
+<!-- Labels -->
+<text x="72" y="155" fill="#FFFF00" font-size="10.0" font-family="monospace">stone wall</text>
+<text x="53" y="220" fill="#FFFF00" font-size="10.0" font-family="monospace">stone wall</text>
+<text x="185" y="162" fill="#FFFFFF" font-size="10.0" font-family="monospace">exit</text>
+
+<text x="120" y="234" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Stone walls funnel fish into trap at narrow end</text>
+</svg>

@@ -1,7 +1,7 @@
 ---
 id: l3-chemistry-soap-making
 id: l3-chemistry-soap-making
-title: Soap Making from Ash Lye and Fat
+title: Ash Lye Soap Making
 category: L3_materials_elements
 subtopic:
 - "basic_chemistry tags:"

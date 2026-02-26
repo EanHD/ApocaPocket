@@ -29,6 +29,7 @@ title: CPR Fundamentals
 warnings:
 - CPR technique varies by patient age and training level.
 - Do not delay emergency services activation.
+diagram: diagrams/cpr-steps.svg
 ---
 
 ## Overview

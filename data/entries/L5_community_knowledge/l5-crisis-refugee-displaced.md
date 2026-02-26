@@ -47,7 +47,7 @@ steps:
 - 'LONG-TERM: Displaced persons often live in camps or undocumented in cities for years. Priorities: (1) Documentation (refugee status, asylum claim). (2) Income (under-the-table work). (3) Children education.
   (4) Community support (other refugees from your country/region).'
 ---
-# Displaced Persons Survival
+# Displaced Survival
 
 ## Immediate Priorities
 
@@ -56,7 +56,7 @@ steps:
 - Documentation: keep on your person
 - Group cohesion: do not separate
 
-## Documentation Management
+## Document Management
 
 - Carry ID, passport, birth certificates
 - Waterproof bag for documents

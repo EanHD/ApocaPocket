@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+  <rect width="240" height="240" fill="black"/>
+  <text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle" font-weight="bold">FILTRATION METHODS</text>
+  <rect x="8" y="18" width="224" height="46" rx="2" fill="#1a0000" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="14" y="30" font-family="monospace" font-size="11" fill="#FF4444" font-weight="bold">BOILING</text>
+  <text x="14" y="43" font-family="monospace" font-size="10" fill="#00FF00">+ Destroys pathogens</text>
+  <text x="14" y="56" font-family="monospace" font-size="10" fill="#FF4444">- Won't remove chemicals</text>
+  <rect x="8" y="68" width="224" height="46" rx="2" fill="#001a00" stroke="#00FF00" stroke-width="1.5"/>
+  <text x="14" y="80" font-family="monospace" font-size="11" fill="#00FF00" font-weight="bold">SAND/CHARCOAL</text>
+  <text x="14" y="93" font-family="monospace" font-size="10" fill="#00FF00">+ Removes sediment+smell</text>
+  <text x="14" y="106" font-family="monospace" font-size="10" fill="#FF4444">- Pathogens remain</text>
+  <rect x="8" y="118" width="224" height="46" rx="2" fill="#001a1a" stroke="#00FFFF" stroke-width="1.5"/>
+  <text x="14" y="130" font-family="monospace" font-size="11" fill="#00FFFF" font-weight="bold">CHEM. TABLETS</text>
+  <text x="14" y="143" font-family="monospace" font-size="10" fill="#00FF00">+ Eliminates bacteria+virus</text>
+  <text x="14" y="156" font-family="monospace" font-size="10" fill="#FF8800">! Slow 30min, tastes bad</text>
+  <rect x="8" y="168" width="224" height="46" rx="2" fill="#1a1a00" stroke="#FFFF00" stroke-width="1.5"/>
+  <text x="14" y="180" font-family="monospace" font-size="11" fill="#FFFF00" font-weight="bold">SOLAR SODIS</text>
+  <text x="14" y="193" font-family="monospace" font-size="10" fill="#00FF00">+ Neutralizes pathogens</text>
+  <text x="14" y="206" font-family="monospace" font-size="10" fill="#FF8800">! Clear bottle + 6hrs sun</text>
+  <rect x="8" y="218" width="224" height="18" rx="2" fill="#003300" stroke="#00FF00" stroke-width="1"/>
+  <text x="120" y="230" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle" font-weight="bold">BEST: Combine methods</text>
+</svg>

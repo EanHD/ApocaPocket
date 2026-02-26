@@ -1,7 +1,7 @@
 ---
 id: l5-structural-truss-design
 id: l5-structural-truss-design
-title: "Truss Design: Triangulated Load Distribution"
+title: Truss Design
 category: L5_civilization_memory
 subtopic:
 - "structural_engineering tags:"

@@ -55,6 +55,7 @@ steps:
   (for small game). Cordage snares need to be checked MORE frequently as animals can chew through them.'
 last_verified: '2026-02-18'
 audit_status: verified
+diagram: diagrams/basic-snare-setup.svg
 ---
 
 # Essential Snare Designs

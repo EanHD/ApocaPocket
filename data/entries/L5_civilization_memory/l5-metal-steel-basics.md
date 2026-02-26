@@ -82,10 +82,10 @@ audit_status: verified
 - After quench: steel is hard but brittle
 - Polish bright; heat gently over flame
 - Watch color change on polished surface:
-  - Pale straw: 430F; scrapers
-  - Straw: 450F; hand tools
-  - Blue: 570F; springs, chisels
-  - Grey: 620F; toughest; axes
+- Pale straw: 430F; scrapers
+- Straw: 450F; hand tools
+- Blue: 570F; springs, chisels
+- Grey: 620F; toughest; axes
 - Quench at target color to arrest temper
 
 ## Long-Term Value

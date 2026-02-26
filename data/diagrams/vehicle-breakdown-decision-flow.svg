@@ -1,17 +1,70 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='800'>
-<rect width='100%' height='100%' fill='#0b0f14'/>
-<text x='40' y='60' fill='#7dd3fc' font-size='34' font-family='Arial'>Vehicle Breakdown Decision Flow</text>
-<rect x='60' y='110' width='340' height='90' rx='12' fill='#111827' stroke='#22d3ee'/><text x='90' y='165' fill='white' font-size='24'>Breakdown occurs</text>
-<rect x='460' y='110' width='340' height='90' rx='12' fill='#111827' stroke='#22d3ee'/><text x='490' y='165' fill='white' font-size='24'>Injury / severe weather?</text>
-<rect x='860' y='60' width='280' height='90' rx='12' fill='#3f1d2e' stroke='#f43f5e'/><text x='900' y='115' fill='white' font-size='22'>Stay + signal</text>
-<rect x='860' y='170' width='280' height='90' rx='12' fill='#1f2937' stroke='#34d399'/><text x='885' y='225' fill='white' font-size='22'>Assess distance</text>
-<rect x='860' y='300' width='280' height='90' rx='12' fill='#1f2937' stroke='#34d399'/><text x='875' y='355' fill='white' font-size='22'>Known help &lt;1 mile?</text>
-<rect x='860' y='430' width='280' height='90' rx='12' fill='#3f1d2e' stroke='#f43f5e'/><text x='910' y='485' fill='white' font-size='22'>If NO: stay</text>
-<rect x='860' y='560' width='280' height='90' rx='12' fill='#1d3f2a' stroke='#22c55e'/><text x='905' y='615' fill='white' font-size='22'>If YES: go</text>
-<line x1='400' y1='155' x2='460' y2='155' stroke='#94a3b8' stroke-width='3'/>
-<line x1='800' y1='155' x2='860' y2='105' stroke='#94a3b8' stroke-width='3'/>
-<line x1='800' y1='155' x2='860' y2='215' stroke='#94a3b8' stroke-width='3'/>
-<line x1='1000' y1='260' x2='1000' y2='300' stroke='#94a3b8' stroke-width='3'/>
-<line x1='1000' y1='390' x2='1000' y2='430' stroke='#94a3b8' stroke-width='3'/>
-<line x1='1000' y1='520' x2='1000' y2='560' stroke='#94a3b8' stroke-width='3'/>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+  <rect width="240" height="240" fill="black"/>
+  <text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle" font-weight="bold">VEHICLE BREAKDOWN</text>
+
+  <!-- Start box -->
+  <rect x="60" y="18" width="120" height="20" rx="3" fill="#222" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="120" y="31" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">BREAKDOWN OCCURS</text>
+
+  <!-- Arrow down -->
+  <line x1="120" y1="38" x2="120" y2="50" stroke="#FFFFFF" stroke-width="1.5" marker-end="url(#arw)"/>
+
+  <!-- FIRST: Hazard lights -->
+  <rect x="55" y="50" width="130" height="18" rx="2" fill="#332200" stroke="#FF8800" stroke-width="1"/>
+  <text x="120" y="62" font-family="monospace" font-size="10" fill="#FF8800" text-anchor="middle">⚠ HAZARD LIGHTS ON</text>
+
+  <!-- Arrow -->
+  <line x1="120" y1="68" x2="120" y2="80" stroke="#FFFFFF" stroke-width="1.5" marker-end="url(#arw)"/>
+
+  <!-- Decision: Safe to stay? -->
+  <!-- Diamond shape -->
+  <polygon points="120,80 195,100 120,120 45,100" fill="#003333" stroke="#00FFFF" stroke-width="1.5"/>
+  <text x="120" y="97" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">Safe to stay?</text>
+  <text x="120" y="110" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">in vehicle?</text>
+
+  <!-- YES branch (right) -->
+  <line x1="195" y1="100" x2="215" y2="100" stroke="#00FF00" stroke-width="1.5" marker-end="url(#arwg)"/>
+  <text x="198" y="95" font-family="monospace" font-size="10" fill="#00FF00">YES</text>
+  <text x="205" y="113" font-family="monospace" font-size="10" fill="#00FF00">STAY</text>
+  <text x="202" y="123" font-family="monospace" font-size="10" fill="#00FF00">inside</text>
+
+  <!-- NO branch (left) -->
+  <line x1="45" y1="100" x2="25" y2="100" stroke="#FF4444" stroke-width="1.5" marker-end="url(#arwr)"/>
+  <text x="28" y="95" font-family="monospace" font-size="10" fill="#FF4444">NO</text>
+  <text x="10" y="113" font-family="monospace" font-size="10" fill="#FF4444">Move</text>
+  <text x="10" y="123" font-family="monospace" font-size="10" fill="#FF4444">clear</text>
+
+  <!-- Arrow down from diamond -->
+  <line x1="120" y1="120" x2="120" y2="132" stroke="#FFFFFF" stroke-width="1.5" marker-end="url(#arw)"/>
+
+  <!-- Injuries? -->
+  <polygon points="120,132 185,148 120,164 55,148" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+  <text x="120" y="151" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle">INJURIES?</text>
+
+  <!-- YES → signal -->
+  <line x1="185" y1="148" x2="205" y2="148" stroke="#FF4444" stroke-width="1.5" marker-end="url(#arwr)"/>
+  <text x="205" y="143" font-family="monospace" font-size="10" fill="#FF4444">YES</text>
+  <text x="203" y="158" font-family="monospace" font-size="10" fill="#FF4444">911</text>
+
+  <!-- NO → signal tips -->
+  <line x1="120" y1="164" x2="120" y2="175" stroke="#FFFFFF" stroke-width="1.5" marker-end="url(#arw)"/>
+
+  <!-- Signal tips box -->
+  <rect x="8" y="175" width="224" height="60" rx="2" fill="#111" stroke="#FFFF00" stroke-width="1"/>
+  <text x="120" y="187" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">SIGNAL FOR HELP</text>
+  <text x="14" y="200" font-family="monospace" font-size="10" fill="#00FF00">• 3 of anything = distress</text>
+  <text x="14" y="213" font-family="monospace" font-size="10" fill="#00FFFF">• Stay NEAR vehicle if lost</text>
+  <text x="14" y="226" font-family="monospace" font-size="10" fill="#FFFFFF">• Tie bright cloth to antenna</text>
+
+  <defs>
+    <marker id="arw" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#FFFFFF"/>
+    </marker>
+    <marker id="arwg" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#00FF00"/>
+    </marker>
+    <marker id="arwr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#FF4444"/>
+    </marker>
+  </defs>
 </svg>

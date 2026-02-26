@@ -1,6 +1,6 @@
 ---
 id: l1-wildlife-bear-encounters
-title: "Bear Encounters & Safety"
+title: Bear Encounters
 category: "L1"
 subcategory: "wilderness"
 tags: ["bear", "wildlife", "safety", "bear-spray", "attack", "camping"]

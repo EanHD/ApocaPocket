@@ -58,14 +58,14 @@ steps:
 - Never take internally, toxic in quantity
 - Effective topically, well-studied
 
-## Turmeric for Inflammation
+## Turmeric: Anti-Inflam
 
 - Curcumin: anti-inflammatory
 - Better absorbed with fat and pepper
 - Paste for topical joint pain
 - Long-term use for chronic inflammation
 
-## Valerian for Sleep and Tension
+## Valerian: Sleep/Stress
 
 - Reduces anxiety and muscle tension
 - Tea or tincture before sleep

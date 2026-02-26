@@ -1,0 +1,91 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="12.6" font-weight="bold" text-anchor="middle" font-family="monospace">TEMPERATURE EMERGENCIES</text>
+
+<!-- Center divider line -->
+<line x1="120" y1="14" x2="120" y2="238" stroke="#FFFF00" stroke-width="1.5"/>
+
+<!-- === LEFT: HYPOTHERMIA === -->
+<text x="60" y="23" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">HYPOTHERMIA</text>
+<text x="60" y="31" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">too cold ↓</text>
+
+<!-- Stages -->
+<!-- MILD -->
+<rect x="2" y="34" width="116" height="20" fill="#00001A" stroke="#00FFFF" stroke-width="1" rx="1"/>
+<text x="6" y="43" fill="#FFFF00" font-size="10.0" font-weight="bold" font-family="monospace">MILD  37-35°C</text>
+<text x="6" y="51" fill="#FFFFFF" font-size="10.0" font-family="monospace">Shivering, confused</text>
+
+<!-- MODERATE -->
+<rect x="2" y="56" width="116" height="20" fill="#000033" stroke="#4444FF" stroke-width="1" rx="1"/>
+<text x="6" y="65" fill="#FFFF00" font-size="10.0" font-weight="bold" font-family="monospace">MOD  35-32°C</text>
+<text x="6" y="73" fill="#FFFFFF" font-size="10.0" font-family="monospace">Stumbling, drowsy</text>
+
+<!-- SEVERE -->
+<rect x="2" y="78" width="116" height="20" fill="#000055" stroke="#6666FF" stroke-width="1.5" rx="1"/>
+<text x="6" y="87" fill="#FF4444" font-size="10.0" font-weight="bold" font-family="monospace">SEVERE 32-28°C</text>
+<text x="6" y="95" fill="#FFFFFF" font-size="10.0" font-family="monospace">Rigid, unconscious</text>
+
+<!-- CRITICAL -->
+<rect x="2" y="100" width="116" height="14" fill="#1A0000" stroke="#FF4444" stroke-width="2" rx="1"/>
+<text x="60" y="111" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">&lt;28°C = DEATH RISK</text>
+
+<!-- Divider -->
+<line x1="2" y1="117" x2="118" y2="117" stroke="#444444" stroke-width="0.7"/>
+<text x="60" y="125" fill="#00FFFF" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">TREATMENT:</text>
+<text x="4" y="134" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Remove wet clothing</text>
+<text x="4" y="142" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Warm TRUNK first</text>
+<text x="4" y="150" fill="#FF4444" font-size="10.0" font-family="monospace">  (NOT extremities first!)</text>
+<text x="4" y="158" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Warm drinks if conscious</text>
+<text x="4" y="166" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Skin-to-skin, sleeping bag</text>
+<text x="4" y="174" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Insulate from ground</text>
+<rect x="2" y="178" width="116" height="14" fill="#110011" stroke="#FF4444" stroke-width="1" rx="1"/>
+<text x="60" y="188" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">Handle gently—heart sensitive!</text>
+
+<!-- Hypothermia rewarming note -->
+<text x="4" y="200" fill="#00FFFF" font-size="10.0" font-family="monospace">Not dead until warm+dead</text>
+<text x="4" y="208" fill="#FFFFFF" font-size="10.0" font-family="monospace">Start CPR if no pulse</text>
+
+<!-- === RIGHT: HYPERTHERMIA === -->
+<text x="180" y="23" fill="#FF4444" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">HYPERTHERMIA</text>
+<text x="180" y="31" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">too hot ↑</text>
+
+<!-- Stages -->
+<!-- Heat Cramps -->
+<rect x="122" y="34" width="116" height="20" fill="#1A0800" stroke="#FF8800" stroke-width="1" rx="1"/>
+<text x="126" y="43" fill="#FFFF00" font-size="10.0" font-weight="bold" font-family="monospace">HEAT CRAMPS</text>
+<text x="126" y="51" fill="#FFFFFF" font-size="10.0" font-family="monospace">Muscle pain, sweating</text>
+
+<!-- Heat Exhaustion -->
+<rect x="122" y="56" width="116" height="20" fill="#220000" stroke="#FF4444" stroke-width="1" rx="1"/>
+<text x="126" y="65" fill="#FFFF00" font-size="10.0" font-weight="bold" font-family="monospace">HEAT EXHAUSTION</text>
+<text x="126" y="73" fill="#FFFFFF" font-size="10.0" font-family="monospace">Weakness,pale,nausea</text>
+
+<!-- Heat Stroke -->
+<rect x="122" y="78" width="116" height="20" fill="#330000" stroke="#FF4444" stroke-width="2" rx="1"/>
+<text x="126" y="87" fill="#FF4444" font-size="10.0" font-weight="bold" font-family="monospace">HEAT STROKE ⚠</text>
+<text x="126" y="95" fill="#FFFFFF" font-size="10.0" font-family="monospace">Hot DRY skin, confused</text>
+
+<!-- EMERGENCY -->
+<rect x="122" y="100" width="116" height="14" fill="#2A0000" stroke="#FF4444" stroke-width="2" rx="1"/>
+<text x="180" y="111" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">HEAT STROKE = EMERGENCY</text>
+
+<!-- Divider -->
+<line x1="122" y1="117" x2="238" y2="117" stroke="#444444" stroke-width="0.7"/>
+<text x="180" y="125" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">TREATMENT:</text>
+<text x="124" y="134" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Move to SHADE immediately</text>
+<text x="124" y="142" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Cool with wet cloth/spray</text>
+<text x="124" y="150" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Fan aggressively</text>
+<text x="124" y="158" fill="#FFFFFF" font-size="10.0" font-family="monospace">▸ Elevate feet</text>
+<text x="124" y="166" fill="#00FFFF" font-size="10.0" font-family="monospace">▸ Cold water to:</text>
+<text x="124" y="174" fill="#00FFFF" font-size="10.0" font-family="monospace">  neck/armpits/groin</text>
+<rect x="122" y="178" width="116" height="14" fill="#220000" stroke="#FF4444" stroke-width="1" rx="1"/>
+<text x="180" y="188" fill="#FF4444" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">Don't give fluids if unconscious</text>
+<text x="124" y="200" fill="#FFFF00" font-size="10.0" font-family="monospace">Small sips if conscious</text>
+<text x="124" y="208" fill="#FFFFFF" font-size="10.0" font-family="monospace">Oral rehydration salts ideal</text>
+
+<!-- Bottom bar -->
+<line x1="2" y1="214" x2="238" y2="214" stroke="#FFFF00" stroke-width="1"/>
+<text x="60" y="223" fill="#00FFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Normal core = 37°C</text>
+<text x="180" y="223" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">Danger &gt; 40°C</text>
+<text x="120" y="233" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Prevention: hydrate early, rest, cover head</text>
+</svg>

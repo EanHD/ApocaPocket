@@ -49,7 +49,7 @@ steps:
 - 'FILTER + DISINFECTION COMBO (maximum safety): BEST PRACTICE: Filter first (removes sediment and protozoa/bacteria), then chemically disinfect or boil (kills viruses and any remaining pathogens). Why combo: 1) Filtering clarifies water making chemical treatment more effective. 2) Removes bad taste/smell improving drinkability. 3) Chemical treatment kills viruses that many filters miss. 4) Redundancy = safety. Time: filter 1 liter in 2-5 minutes, chemical treat for 30 minutes, total 35-40 minutes.'
 - 'FILTER VERIFICATION: How to confirm filter working: 1) Visual: filtered water is clear (not cloudy). 2) Flow rate: consistent with manufacturer specs (slowing = clog). 3) Taste: no sediment grit when drinking. 4) Inspection: no cracks in housing or filter element. If uncertain: boil filtered water before drinking.'
 - 'EMERGENCY NO-FILTER OPTION: If no filter or materials: 1) SETTLE + DECANT: let water sit 4-6 hours, carefully pour clear water from top without disturbing sediment. 2) BOIL: rolling boil for 1-3 minutes (altitude adjusted). This is always safe but requires fuel. 3) CHEMICAL TREAT: clear water (settled) with iodine/chlorine tablets per instructions.'
-diagram: /assets/diagrams/L1/water/filtration-methods.svg
+diagram: diagrams/filtration-methods.svg
 ---
 
 # Field Water Filtration

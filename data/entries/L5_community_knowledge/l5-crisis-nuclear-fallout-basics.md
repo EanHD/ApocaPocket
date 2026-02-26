@@ -49,10 +49,11 @@ steps:
   and ears with damp cloth. (5) Put on clean clothes from inside shelter. (6) Contaminated items: bag and seal, move away from living area. Do not handle unnecessarily.'
 - 'LONG-TERM (after initial fallout): (1) Avoid contaminated areas (government will map hotspots). (2) Decontaminate property (wash surfaces, remove topsoil). (3) Monitor food and water (government tests
   for contamination). (4) Evacuate if instructed. (5) Medical screening (check for radiation exposure, cancer risk). Recovery will take years to decades.'
+diagram: diagrams/nuclear-fallout-shelter.svg
 ---
 # Nuclear Fallout Basics
 
-## First 24 Hours Critical
+## First 24 Hrs Critical
 
 - Get indoors immediately
 - Go to basement or building center
@@ -66,7 +67,7 @@ steps:
 - Wood frame house: minimal protection
 - Vehicle: poor protection
 
-## Contamination Reduction
+## Decontamination
 
 - Shower with soap and water immediately
 - Remove and bag outer clothing

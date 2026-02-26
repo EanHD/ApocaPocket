@@ -1,0 +1,50 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<!-- Title -->
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">BOW DRILL SETUP</text>
+
+<!-- Handhold/Socket at top -->
+<ellipse cx="85" cy="32" rx="14" ry="8" fill="none" stroke="#00FFFF" stroke-width="1.5"/>
+<text x="108" y="35" fill="#FFFF00" font-size="10.0" font-family="monospace">Handhold</text>
+<text x="108" y="43" fill="#FFFFFF" font-size="10.0" font-family="monospace">(socket)</text>
+
+<!-- Spindle vertical line -->
+<line x1="85" y1="40" x2="85" y2="148" stroke="#00FFFF" stroke-width="2.5"/>
+<text x="58" y="95" fill="#FFFF00" font-size="10.0" font-family="monospace">Spindle</text>
+<text x="58" y="103" fill="#FFFFFF" font-size="10.0" font-family="monospace">45cm</text>
+<!-- dimension arrow -->
+<line x1="72" y1="40" x2="72" y2="148" stroke="#FFFFFF" stroke-width="0.5" stroke-dasharray="2,2"/>
+<polygon points="72,40 69,48 75,48" fill="#FFFFFF"/>
+<polygon points="72,148 69,140 75,140" fill="#FFFFFF"/>
+
+<!-- Fireboard -->
+<rect x="55" y="148" width="60" height="10" fill="#8B4513" fill-opacity="0.6" stroke="#FFFF00" stroke-width="1"/>
+<text x="120" y="156" fill="#FFFF00" font-size="10.0" font-family="monospace">Fireboard</text>
+<!-- Notch in fireboard -->
+<polygon points="85,148 78,158 92,158" fill="black" stroke="#FF4444" stroke-width="1"/>
+<text x="57" y="168" fill="#00FFFF" font-size="10.0" font-family="monospace">notch+coal catch</text>
+
+<!-- Coal catch leaf/bark -->
+<ellipse cx="85" cy="163" rx="10" ry="4" fill="none" stroke="#00FF00" stroke-width="1" stroke-dasharray="2,1"/>
+
+<!-- Tinder bundle -->
+<ellipse cx="85" cy="178" rx="20" ry="8" fill="#8B4513" fill-opacity="0.3" stroke="#00FF00" stroke-width="1"/>
+<text x="85" y="181" fill="#00FF00" font-size="10.0" text-anchor="middle" font-family="monospace">TINDER BUNDLE</text>
+
+<!-- Bow on right side -->
+<path d="M 130,70 Q 160,55 155,120" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="130" y1="70" x2="155" y2="120" stroke="#00FFFF" stroke-width="1" stroke-dasharray="3,2"/>
+<text x="162" y="90" fill="#FFFF00" font-size="10.0" font-family="monospace">Bow</text>
+<text x="162" y="99" fill="#FFFFFF" font-size="10.0" font-family="monospace">string</text>
+<!-- bowstring wraps around spindle indicator -->
+<line x1="85" y1="90" x2="130" y2="70" stroke="#00FFFF" stroke-width="0.5" stroke-dasharray="1,2"/>
+<line x1="85" y1="90" x2="155" y2="120" stroke="#00FFFF" stroke-width="0.5" stroke-dasharray="1,2"/>
+
+<!-- Steps box -->
+<rect x="3" y="190" width="234" height="46" fill="#FFFF00" fill-opacity="0.08" stroke="#FFFF00" stroke-width="0.5"/>
+<text x="6" y="199" fill="#FFFF00" font-size="10.0" font-weight="bold" font-family="monospace">STEPS:</text>
+<text x="6" y="208" fill="#FFFFFF" font-size="10.0" font-family="monospace">1)Notch cut to center  2)45° notch angle</text>
+<text x="6" y="216" fill="#FFFFFF" font-size="10.0" font-family="monospace">3)Tinder under notch  4)Bow horizontal</text>
+<text x="6" y="224" fill="#FFFFFF" font-size="10.0" font-family="monospace">5)Steady down pressure 6)Speed increases</text>
+<text x="6" y="232" fill="#FF4444" font-size="10.0" font-weight="bold" font-family="monospace">250°C to ignite  ⚠ DRY materials essential</text>
+</svg>

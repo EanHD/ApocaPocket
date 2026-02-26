@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle">SOLAR STILL</text>
+
+<!-- Cross-section diagram -->
+<!-- Ground surface line -->
+<line x1="5" y1="80" x2="235" y2="80" stroke="#664422" stroke-width="3"/>
+<text x="200" y="76" font-family="monospace" font-size="10" fill="#664422">GROUND</text>
+
+<!-- Hole trapezoid: wide at top, narrow at bottom -->
+<polygon points="40,80 200,80 170,160 70,160" fill="#332200" stroke="#664422" stroke-width="1"/>
+
+<!-- Plastic sheet draped over hole (triangle shape) -->
+<polyline points="30,78 120,120 210,78" fill="none" stroke="#00FFFF" stroke-width="2"/>
+<!-- Rock in center of sheet (weight) -->
+<circle cx="120" cy="120" r="5" fill="#888"/>
+<text x="130" y="118" font-family="monospace" font-size="10" fill="#FFFFFF">rock</text>
+
+<!-- Collection cup at bottom center -->
+<rect x="108" y="150" width="24" height="16" rx="2" fill="#333" stroke="#00FFFF" stroke-width="2"/>
+<text x="120" y="143" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">cup</text>
+
+<!-- Condensation droplets on underside of plastic -->
+<circle cx="80" cy="108" r="2" fill="#00FFFF"/>
+<circle cx="95" cy="113" r="2" fill="#00FFFF"/>
+<circle cx="110" cy="118" r="2" fill="#00FFFF"/>
+<circle cx="145" cy="113" r="2" fill="#00FFFF"/>
+<circle cx="160" cy="108" r="2" fill="#00FFFF"/>
+<!-- Droplet path arrows down to cup -->
+<line x1="110" y1="120" x2="115" y2="148" stroke="#00FFFF" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="145" y1="115" x2="128" y2="148" stroke="#00FFFF" stroke-width="1" stroke-dasharray="3,2"/>
+
+<!-- Tubing from cup -->
+<path d="M120,168 Q120,178 100,182 Q80,186 75,195" fill="none" stroke="#FF8800" stroke-width="2"/>
+<text x="58" y="208" font-family="monospace" font-size="10" fill="#FF8800">straw tube</text>
+
+<!-- Sun rays from above -->
+<line x1="120" y1="5" x2="120" y2="25" stroke="#FFFF00" stroke-width="2"/>
+<line x1="100" y1="8" x2="105" y2="26" stroke="#FFFF00" stroke-width="1.5"/>
+<line x1="140" y1="8" x2="135" y2="26" stroke="#FFFF00" stroke-width="1.5"/>
+<text x="120" y="38" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">▼ SUN ▼</text>
+
+<!-- Labels for scale -->
+<line x1="5" y1="80" x2="5" y2="160" stroke="#555" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="7" y="122" font-family="monospace" font-size="10" fill="#555">0.5m</text>
+
+<!-- Dimension labels -->
+<line x1="40" y1="170" x2="200" y2="170" stroke="#555" stroke-width="1"/>
+<text x="120" y="183" font-family="monospace" font-size="10" fill="#555" text-anchor="middle">← 1m wide →</text>
+
+<!-- Output note -->
+<text x="120" y="220" font-family="monospace" font-size="10" fill="#00FF00" text-anchor="middle">Output: 0.5–1L/day (sunny)</text>
+<text x="120" y="235" font-family="monospace" font-size="10" fill="#FFFFFF" text-anchor="middle">Plastic · cup · rocks · tube</text>
+</svg>

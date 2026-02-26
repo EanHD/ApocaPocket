@@ -1,0 +1,56 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="12" fill="#FFFF00" font-size="10" font-weight="bold" text-anchor="middle" font-family="monospace">FIRE TRIANGLE + WOOD</text>
+
+<!-- === TOP SECTION: FIRE TRIANGLE === -->
+<!-- Triangle -->
+<polygon points="120,20 58,108 182,108" fill="#110000" stroke="#FF4444" stroke-width="2"/>
+<!-- Fire glow inside -->
+<polygon points="120,45 95,95 145,95" fill="#331100"/>
+
+<!-- Triangle labels -->
+<!-- HEAT at top vertex -->
+<text x="120" y="37" fill="#FF4444" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">HEAT</text>
+<!-- FUEL on bottom left -->
+<text x="72" y="104" fill="#FFFF00" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">FUEL</text>
+<!-- OXYGEN on bottom right -->
+<text x="168" y="104" fill="#00FFFF" font-size="11.2" font-weight="bold" text-anchor="middle" font-family="monospace">O2</text>
+<!-- Center fire symbol -->
+<text x="120" y="82" fill="#FF4444" font-size="18" text-anchor="middle" font-family="monospace">🔥</text>
+
+<!-- Triangle notes -->
+<text x="120" y="118" fill="#FFFFFF" font-size="10.0" text-anchor="middle" font-family="monospace">Remove any one side = fire dies</text>
+<text x="120" y="126" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">Too much O2 = blows out tinder  Too little = smothers</text>
+
+<!-- Divider -->
+<line x1="2" y1="132" x2="238" y2="132" stroke="#FFFF00" stroke-width="1.5"/>
+
+<!-- === BOTTOM SECTION: WOOD + BUILD === -->
+<text x="4" y="141" fill="#FFFF00" font-size="10.0" font-weight="bold" font-family="monospace">WOOD MOISTURE GUIDE:</text>
+<text x="4" y="151" fill="#00FF00" font-size="10.0" font-family="monospace">▸ &lt;20% (DRY):  snaps when bent — burns well</text>
+<text x="4" y="159" fill="#FFFF00" font-size="10.0" font-family="monospace">▸ 20-50% (SEASONED): 6-12 months drying</text>
+<text x="4" y="167" fill="#FF4444" font-size="10.0" font-family="monospace">▸ &gt;50% (GREEN): bends, won't burn, steams</text>
+
+<!-- LAY STRUCTURE diagram (right side) -->
+<line x1="2" y1="172" x2="238" y2="172" stroke="#444444" stroke-width="0.7"/>
+<text x="4" y="180" fill="#FFFF00" font-size="10.0" font-weight="bold" font-family="monospace">LAY STRUCTURE (inner→outer):</text>
+
+<!-- Concentric circles showing tinder/kindling/fuel -->
+<circle cx="178" cy="205" r="30" fill="none" stroke="#FF4444" stroke-width="8" stroke-opacity="0.3"/>
+<circle cx="178" cy="205" r="18" fill="none" stroke="#FFFF00" stroke-width="8" stroke-opacity="0.4"/>
+<circle cx="178" cy="205" r="8" fill="#FF4444" stroke="none"/>
+
+<text x="178" y="208" fill="#FFFFFF" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">TDR</text>
+<text x="178" y="192" fill="#FFFF00" font-size="10.0" text-anchor="middle" font-family="monospace">KINDLING</text>
+<text x="178" y="232" fill="#FF4444" font-size="10.0" text-anchor="middle" font-family="monospace">FUEL WOOD</text>
+
+<!-- Wood size guide text -->
+<text x="4" y="190" fill="#FF4444" font-size="10.0" font-family="monospace">TINDER: dust/shreds/dry grass</text>
+<text x="4" y="199" fill="#FFFF00" font-size="10.0" font-family="monospace">KINDLING: pencil→finger thick</text>
+<text x="4" y="208" fill="#FFFFFF" font-size="10.0" font-family="monospace">FUEL: wrist→arm thick</text>
+<text x="4" y="217" fill="#00FFFF" font-size="10.0" font-family="monospace">Shape: TEEPEE or LOG CABIN</text>
+
+<!-- Bottom note -->
+<line x1="2" y1="224" x2="238" y2="224" stroke="#444444" stroke-width="0.7"/>
+<text x="120" y="234" fill="#00FF00" font-size="10.0" font-weight="bold" text-anchor="middle" font-family="monospace">Never blow until ember is glowing red</text>
+</svg>

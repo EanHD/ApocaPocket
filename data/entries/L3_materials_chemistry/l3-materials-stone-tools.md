@@ -1,7 +1,7 @@
 ---
 id: l3-materials-stone-tools
 id: l3-materials-stone-tools
-title: Stone Tool Making — Flint Knapping Basics
+title: Stone Tool Making
 category: L3_materials_chemistry
 subtopic:
 - "materials tags:"

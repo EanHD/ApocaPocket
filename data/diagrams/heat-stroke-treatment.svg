@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240">
+<rect width="240" height="240" fill="black"/>
+<text x="120" y="13" font-family="monospace" font-size="12" fill="#FFFF00" text-anchor="middle">HEAT EMERGENCY</text>
+<!-- Divider -->
+<line x1="120" y1="18" x2="120" y2="200" stroke="#555" stroke-width="1"/>
+<!-- Left: Exhaustion -->
+<rect x="2" y="18" width="116" height="16" fill="#FF8800" rx="2"/>
+<text x="60" y="30" font-family="monospace" font-size="11" fill="#000" text-anchor="middle">EXHAUSTION</text>
+<text x="6" y="47" font-family="monospace" font-size="10" fill="#FFFFFF">Heavy sweating</text>
+<text x="6" y="62" font-family="monospace" font-size="10" fill="#FFFFFF">Weak pulse</text>
+<text x="6" y="77" font-family="monospace" font-size="10" fill="#FFFFFF">Pale/nauseous</text>
+<text x="6" y="92" font-family="monospace" font-size="10" fill="#FFFFFF">Temp &lt; 40°C</text>
+<!-- Treat exhaustion -->
+<line x1="6" y1="100" x2="114" y2="100" stroke="#555" stroke-width="1"/>
+<text x="6" y="115" font-family="monospace" font-size="10" fill="#00FF00">→ Cool + rest</text>
+<text x="6" y="130" font-family="monospace" font-size="10" fill="#00FF00">→ Fluids/sports</text>
+<text x="6" y="145" font-family="monospace" font-size="10" fill="#00FF00">→ Shade/shade</text>
+<!-- Right: Stroke -->
+<rect x="122" y="18" width="116" height="16" fill="#FF4444" rx="2"/>
+<text x="180" y="30" font-family="monospace" font-size="11" fill="#FFF" text-anchor="middle">HEAT STROKE</text>
+<text x="126" y="47" font-family="monospace" font-size="10" fill="#FF4444">NO sweating</text>
+<text x="126" y="62" font-family="monospace" font-size="10" fill="#FF4444">Hot dry skin</text>
+<text x="126" y="77" font-family="monospace" font-size="10" fill="#FF4444">Confusion/seizure</text>
+<text x="126" y="92" font-family="monospace" font-size="10" fill="#FF4444">Temp &gt; 40°C</text>
+<!-- Treat stroke -->
+<line x1="126" y1="100" x2="236" y2="100" stroke="#555" stroke-width="1"/>
+<text x="126" y="115" font-family="monospace" font-size="10" fill="#FF4444">→ CALL 911 NOW</text>
+<text x="126" y="130" font-family="monospace" font-size="10" fill="#00FFFF">→ Ice neck/armpits</text>
+<text x="126" y="145" font-family="monospace" font-size="10" fill="#00FFFF">→ Wet sheet/fan</text>
+<!-- Key difference banner -->
+<rect x="2" y="155" width="236" height="18" fill="#FF4444" fill-opacity="0.2" rx="2" stroke="#FF4444" stroke-width="1"/>
+<text x="120" y="168" font-family="monospace" font-size="10" fill="#FF4444" text-anchor="middle">KEY: NO sweat = STROKE = 911</text>
+<!-- Temp icons -->
+<text x="120" y="190" font-family="monospace" font-size="10" fill="#FFFF00" text-anchor="middle">Groin · Neck · Armpits = ice</text>
+<text x="120" y="207" font-family="monospace" font-size="10" fill="#00FFFF" text-anchor="middle">Cool until help arrives</text>
+</svg>

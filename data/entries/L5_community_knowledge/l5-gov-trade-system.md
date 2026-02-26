@@ -64,10 +64,10 @@ audit_status: verified
 - Commodity: widely valued item used as
   currency (grain, salt, metal, cloth)
 - Properties of good currency:
-  - Divisible (can be split)
-  - Durable (does not rot)
-  - Portable (easy to carry)
-  - Scarce but not hoarded by few
+- Divisible (can be split)
+- Durable (does not rot)
+- Portable (easy to carry)
+- Scarce but not hoarded by few
 - Salt and grain: ancient standards
 - Metal coins: durable; scarce; divisible
 
