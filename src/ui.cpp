@@ -393,7 +393,7 @@ void splash() {
     screen.centerText("LEFT  : Back",      CY + DISP_H / 2 - 12, COL_SEC);
     screen.centerText("RIGHT : Next/Fwd",  CY + DISP_H / 2 + 12, COL_SEC);
     screen.centerText("OK    : Select",    CY + DISP_H / 2 + 36, COL_SEC);
-    screen.centerText("OK hold : Options", CY + DISP_H / 2 + 60, COL_TER);
+    screen.centerText("OK hold: Bookmark", CY + DISP_H / 2 + 60, COL_TER);
     delay(2000);
     // Auto-proceed to main menu — no button press required
 }
