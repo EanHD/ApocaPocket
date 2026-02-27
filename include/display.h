@@ -58,7 +58,7 @@ public:
     int  canvasMeasureText(const char* s);
     int16_t canvasCursorX(); // x position after last canvas draw (screen space)
     void canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
-                        uint16_t badgeColor = 0);
+                        uint16_t badgeColor = 0, bool isDivider = false);
 
     Adafruit_ST7789& tft() { return _tft; }
     int getBatteryPct() { return batteryPct(); }

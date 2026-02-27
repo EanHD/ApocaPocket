@@ -75,7 +75,8 @@ int browse(int catIdx, const char* catName, uint16_t catColor = 0);
 // Core UI functions - return selected index or -1 for back
 void splash();
 int  menu(const char* title, const char** items, int count,
-          uint16_t* badgeColors = nullptr, bool showBack = true);
+          uint16_t* badgeColors = nullptr, bool showBack = true,
+          const bool* isDivs = nullptr);
 // Card-deck entry viewer (primary path — parses ## sections into swipeable cards)
 // startCard: which card to open to (0 = first). Used to resume from history.
 void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,

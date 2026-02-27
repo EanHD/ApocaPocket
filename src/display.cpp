@@ -385,24 +385,22 @@ int16_t Screen::canvasCursorX() {
 
 // Draw a menu item into the canvas. y_scr = top of item in screen space.
 // Selected items: vivid accent-blue fill + white text (iOS active cell style).
-// Divider items (txt starts with '\x01'): gray centered letter + horizontal rules.
-// badgeColor: COL_WARN = red text; other nonzero = colored left accent bar.
+// isDivider: section header rendered as centered label with horizontal rules.
+// badgeColor: COL_WARN = red text (Emergency only); other nonzero = left accent bar.
 void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
-                             uint16_t badgeColor) {
+                             uint16_t badgeColor, bool isDivider) {
     if (!_canvas) return;
 
     int16_t yTop = y_scr - TOP_Y;
     int16_t yc   = yTop + MENU_LINE_H / 2;
 
     // ── Divider (section header) ─────────────────────────────────────────────
-    if (txt[0] == '\x01') {
+    if (isDivider) {
         // Draw label centered with horizontal rules on either side.
-        // Use fsans9Width (not getTextBounds) — reliable pixel-accurate measurement.
         _setFont(*_canvas);
-        const char* lbl = txt + 1;
-        int16_t textW = (int16_t)fsans9Width(lbl);
+        int16_t textW = (int16_t)fsans9Width(txt);
         int16_t lx = (CANVAS_W - textW) / 2;
-        if (lx < TEXT_PAD_X) lx = TEXT_PAD_X;   // safety clamp — never clip "B"
+        if (lx < TEXT_PAD_X) lx = TEXT_PAD_X;
         int16_t ry = yTop + MENU_LINE_H / 2;
         int16_t leftLen  = lx - TEXT_PAD_X - 4;
         int16_t rightLen = CANVAS_W - TEXT_PAD_X - lx - textW - 4;
@@ -410,7 +408,7 @@ void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
         if (rightLen > 0) _canvas->drawFastHLine(lx + textW + 4, ry, rightLen, COL_TER);
         _canvas->setTextColor(COL_SEC);
         _canvas->setCursor(lx, yc + FONT_CAP_H / 2);
-        _canvas->print(lbl);
+        _canvas->print(txt);
         _setFont(*_canvas);
         return;
     }

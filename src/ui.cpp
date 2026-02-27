@@ -208,7 +208,8 @@ int homeList(const char** catNames, const uint16_t* /*catColors*/,
     // ── Item and return-code arrays ──────────────────────────────────────────
     static const char* items[28];
     static uint16_t    colors[28];
-    static int         retCodes[28];   // explicit return value per slot (dividers = -99)
+    static int         retCodes[28];
+    static bool        isDivs[28];   // true = section header (not selectable)
     // Buffers for "> Title" labels (truncated to fit one menu row)
     static char resumeBuf[5][TITLE_DISPLAY_LEN + 4];
     // Buffers for "Category (N)" labels
@@ -220,46 +221,47 @@ int homeList(const char** catNames, const uint16_t* /*catColors*/,
     // ── Continue rows (last 5 history entries) ────────────────────────────
     int histShow = min((int)gHistoryCount, 5);
     if (histShow > 0) {
-        items[n] = "\x01RECENT";   colors[n] = 0;  retCodes[n] = -99;  n++;
+        items[n] = "RECENT";  colors[n] = 0;  retCodes[n] = -99;  isDivs[n] = true;  n++;
         for (int i = 0; i < histShow; i++) {
             snprintf(resumeBuf[i], sizeof(resumeBuf[i]), "> %s", gHistory[i].title);
             items[n]    = resumeBuf[i];
             colors[n]   = COL_ACCENT;
-            retCodes[n] = -3 - i;   // -3=history[0], -4=history[1], …
+            retCodes[n] = -3 - i;
+            isDivs[n]   = false;
             n++;
             nResume++;
         }
     }
 
     // ── Emergency ─────────────────────────────────────────────────────────
-    items[n] = "Emergency";  colors[n] = COL_WARN;  retCodes[n] = -2;  n++;
+    items[n] = "Emergency";  colors[n] = COL_WARN;  retCodes[n] = -2;  isDivs[n] = false;  n++;
 
     // ── Categories with entry counts ──────────────────────────────────────
-    items[n] = "\x01BROWSE";  colors[n] = 0;  retCodes[n] = -99;  n++;
+    items[n] = "BROWSE";  colors[n] = 0;  retCodes[n] = -99;  isDivs[n] = true;  n++;
     for (int i = 0; i < numCats && i < 8; i++) {
         if (catCounts && catCounts[i] > 0)
             snprintf(catBufs[i], sizeof(catBufs[i]), "%s (%d)", catNames[i], catCounts[i]);
         else
             snprintf(catBufs[i], sizeof(catBufs[i]), "%s", catNames[i]);
-        items[n] = catBufs[i];  colors[n] = 0;  retCodes[n] = i;  n++;
+        items[n] = catBufs[i];  colors[n] = 0;  retCodes[n] = i;  isDivs[n] = false;  n++;
     }
 
     // ── Utility items ─────────────────────────────────────────────────────
     static char histBuf[20];
     static char bmBuf[22];
-    items[n] = "\x01TOOLS";  colors[n] = 0;  retCodes[n] = -99;  n++;
-    items[n] = "Search";    colors[n] = 0;  retCodes[n] = numCats;      n++;
+    items[n] = "TOOLS";  colors[n] = 0;  retCodes[n] = -99;  isDivs[n] = true;  n++;
+    items[n] = "Search";    colors[n] = 0;  retCodes[n] = numCats;      isDivs[n] = false;  n++;
     if (gHistoryCount > 0) snprintf(histBuf, sizeof(histBuf), "History (%d)", gHistoryCount);
     else                   snprintf(histBuf, sizeof(histBuf), "History");
-    items[n] = histBuf;     colors[n] = 0;  retCodes[n] = numCats + 2;  n++;
+    items[n] = histBuf;  colors[n] = 0;  retCodes[n] = numCats + 2;  isDivs[n] = false;  n++;
     if (bmCount > 0) snprintf(bmBuf, sizeof(bmBuf), "Bookmarks (%d)", bmCount);
     else             snprintf(bmBuf, sizeof(bmBuf), "Bookmarks");
-    items[n] = bmBuf;       colors[n] = 0;  retCodes[n] = numCats + 1;  n++;
+    items[n] = bmBuf;  colors[n] = 0;  retCodes[n] = numCats + 1;  isDivs[n] = false;  n++;
 
-    int sel = menu("ApocaPocket", items, n, colors, /*showBack=*/false);
+    int sel = menu("ApocaPocket", items, n, colors, /*showBack=*/false, isDivs);
     if (gEmergency || gGoHome || sel < 0 || sel >= n) return -1;
     int code = retCodes[sel];
-    if (code == -99) return -1;   // shouldn't happen (dividers are skipped)
+    if (code == -99) return -1;
     return code;
 }
 
@@ -289,7 +291,8 @@ int browse(int catIdx, const char* catName, uint16_t catColor) {
     // A-Z divider injection buffers — reused across calls
     // Extra slots: up to 26 letter dividers + MAX_MENU_ITEMS entries
     static const char* azPtrs[MAX_MENU_ITEMS + 26];
-    static char        azDivBufs[26][4];   // "\x01A", "\x01B", etc.
+    static char        azDivBufs[26][3];   // single letter: "A", "B", etc.
+    static bool        azDivFlags[MAX_MENU_ITEMS + 26];  // true = divider row
     // Maps azPtrs index → entIdx[] index, -1 for dividers
     static int16_t     azMap[MAX_MENU_ITEMS + 26];
     // Badge color per item — catColor for entries, 0 for dividers
@@ -310,7 +313,7 @@ int browse(int catIdx, const char* catName, uint16_t catColor) {
         int ei;
 
         if (entCount > 20) {
-            // Build A-Z interleaved list
+            // Build A-Z interleaved list with bool isDivs flags
             int az = 0;
             char lastLetter = '\0';
             int divIdx = 0;
@@ -318,19 +321,22 @@ int browse(int catIdx, const char* catName, uint16_t catColor) {
                 char fl = (char)toupper((unsigned char)entPtrs[i][0]);
                 if (fl != lastLetter && fl >= 'A' && fl <= 'Z' && divIdx < 26) {
                     lastLetter = fl;
-                    snprintf(azDivBufs[divIdx], 4, "\x01%c", fl);
-                    azPtrs[az]    = azDivBufs[divIdx++];
-                    azMap[az]     = -1;
-                    entBadges[az] = 0;     // dividers have no badge
+                    azDivBufs[divIdx][0] = fl;
+                    azDivBufs[divIdx][1] = '\0';
+                    azPtrs[az]     = azDivBufs[divIdx++];
+                    azMap[az]      = -1;
+                    entBadges[az]  = 0;
+                    azDivFlags[az] = true;
                     az++;
                 }
-                azPtrs[az]    = entPtrs[i];
-                azMap[az]     = (int16_t)i;
-                entBadges[az] = catColor;  // category color left-accent bar
+                azPtrs[az]     = entPtrs[i];
+                azMap[az]      = (int16_t)i;
+                entBadges[az]  = catColor;
+                azDivFlags[az] = false;
                 az++;
             }
             menuCount = az;
-            ei = menu(subNameBuf[si], azPtrs, menuCount, entBadges);
+            ei = menu(subNameBuf[si], azPtrs, menuCount, entBadges, true, azDivFlags);
             // Map back from azPtrs index to entIdx
             if (ei >= 0 && ei < menuCount && azMap[ei] >= 0) {
                 ei = (int)entIdx[azMap[ei]];
@@ -396,18 +402,19 @@ void splash() {
 // topStrip handles header (title + fraction + battery) — updated on every render.
 // Canvas handles content area atomically — zero flicker.
 int menu(const char* title, const char** items, int count,
-         uint16_t* badgeColors, bool showBack) {
+         uint16_t* badgeColors, bool showBack, const bool* isDivs) {
     int sel    = 0;
     int offset = 0;
     int vis    = min(count, MENU_VIS);
     bool dirty = true;
 
     // Local scroll animation: pixelOffset eases toward 0 after each UP/DN press.
-    // Items are drawn shifted by pixelOffset, creating a smooth slide feel.
     int pixelOffset = 0;
 
     // Helper: is item i a non-selectable divider?
-    auto isDiv = [&](int i) { return (i >= 0 && i < count && items[i][0] == '\x01'); };
+    auto isDiv = [&](int i) -> bool {
+        return (i >= 0 && i < count && isDivs && isDivs[i]);
+    };
 
     // Skip initial dividers so we start on a selectable item
     while (isDiv(sel) && sel < count - 1) sel++;
@@ -430,7 +437,8 @@ int menu(const char* title, const char** items, int count,
                 int ii = i + offset;
                 int16_t y = TOP_Y + i * MENU_LINE_H + (int16_t)pixelOffset;
                 screen.canvasMenuItem(items[ii], y, ii == sel,
-                                      badgeColors ? badgeColors[ii] : 0);
+                                      badgeColors ? badgeColors[ii] : 0,
+                                      isDiv(ii));
             }
             screen.pushCanvas();
             if (count > vis) screen.scrollBar(sel, count, MENU_VIS);
