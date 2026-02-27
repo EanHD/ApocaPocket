@@ -65,7 +65,7 @@ void Screen::init() {
 // ── Chrome ────────────────────────────────────────────────────────────────
 // Unified header: bg, divider, optional back chevron, title, rightLabel, battery%.
 // Single call replaces the old begin() + header() + statusBar() pattern.
-void Screen::topStrip(const char* title, bool showBack, const char* rightLabel) {
+void Screen::topStrip(const char* title, bool showBack, const char* rightLabel, int16_t reservePx) {
     _tft.fillRect(CX, CY, CW, HDR_H, COL_HDR);
     _tft.drawFastHLine(CX, CY + HDR_H, CW, COL_TER);
 
@@ -112,7 +112,7 @@ void Screen::topStrip(const char* title, bool showBack, const char* rightLabel) 
         uint16_t tw, th;
         while (buf[0]) {
             _tft.getTextBounds(buf, titleStart, baseline, &x1, &y1, &tw, &th);
-            if (titleStart + (int16_t)tw <= rightEdge - 4) break;
+            if (titleStart + (int16_t)tw <= rightEdge - 4 - reservePx) break;
             int len = (int)strlen(buf);
             if (len <= 2) break;
             buf[len - 3] = '.'; buf[len - 2] = '.'; buf[len - 1] = '\0';
@@ -128,30 +128,44 @@ void Screen::topStrip(const char* title, bool showBack, const char* rightLabel) 
 // cur = 0-based card index, total = card count.
 void Screen::topStripDots(const char* title, bool showBack, int cur, int total,
                            bool bookmarked) {
-    // Render the base header (title, battery, back chevron) with no rightLabel.
-    // Then overlay the dots/fraction in the same right-side space.
-    topStrip(title, showBack, nullptr);
-
-    int16_t baseline = CY + 9 + FONT_CAP_H;
+    // Pre-measure how much space the dots or fraction will need so topStrip can
+    // correctly truncate the title before we draw the overlay.
     _setFont(_tft);
+    int16_t baseline = CY + 9 + FONT_CAP_H;
+    int16_t reservePx;
+    char frac[12];
+    frac[0] = '\0';
 
-    // Battery already rendered by topStrip — we know it used TEXT_PAD_X+bw space.
-    // Re-measure battery string to find the right anchor.
+    if (total <= 10) {
+        const int PITCH = 10, R = 3;
+        reservePx = (int16_t)((total - 1) * PITCH + R * 2 + 4);
+    } else {
+        if (bookmarked) snprintf(frac, sizeof(frac), "* %d/%d", cur + 1, total);
+        else            snprintf(frac, sizeof(frac), "%d/%d",   cur + 1, total);
+        int16_t x1, y1; uint16_t rw, rh;
+        _tft.getTextBounds(frac, 0, baseline, &x1, &y1, &rw, &rh);
+        reservePx = (int16_t)rw + 4;
+    }
+
+    // Render base header — title is now truncated to leave room for dots/fraction.
+    topStrip(title, showBack, nullptr, reservePx);
+
+    // Re-measure battery to find rightEdge anchor (same as topStrip uses).
+    _setFont(_tft);
     int b = batteryPct();
     char batBuf[8];
     snprintf(batBuf, sizeof(batBuf), "%d%%", b);
     int16_t x1, y1; uint16_t bw, bh;
     _tft.getTextBounds(batBuf, 0, baseline, &x1, &y1, &bw, &bh);
-    int16_t rightEdge = (int16_t)DISP_W - TEXT_PAD_X - (int16_t)bw - 6; // 6px gap before battery
+    int16_t rightEdge = (int16_t)DISP_W - TEXT_PAD_X - (int16_t)bw - 6;
 
     if (total <= 10) {
         // Dots: filled circle = current, open ring = others
-        // Each dot: 6px diameter, 10px pitch → total width = (total-1)*10 + 6
         const int PITCH = 10;
-        const int R     = 3;   // radius
+        const int R     = 3;
         int dotsW       = (total - 1) * PITCH + R * 2;
         int16_t dx      = rightEdge - dotsW;
-        int16_t dy      = CY + HDR_H / 2;  // vertical center of header
+        int16_t dy      = CY + HDR_H / 2;
 
         for (int i = 0; i < total; i++) {
             int16_t cx = dx + i * PITCH + R;
@@ -163,9 +177,6 @@ void Screen::topStripDots(const char* title, bool showBack, int cur, int total,
         }
     } else {
         // Fraction fallback for long entries
-        char frac[12];
-        if (bookmarked) snprintf(frac, sizeof(frac), "* %d/%d", cur + 1, total);
-        else            snprintf(frac, sizeof(frac), "%d/%d",   cur + 1, total);
         uint16_t rw, rh;
         _tft.getTextBounds(frac, 0, baseline, &x1, &y1, &rw, &rh);
         _tft.setTextColor(COL_SEC);

@@ -17,7 +17,7 @@ public:
     // Draws header bg, divider, optional back chevron, title, rightLabel, battery%.
     // Replaces the old begin() + header() + statusBar() / cardHeader() pattern.
     void topStrip(const char* title, bool showBack = false,
-                  const char* rightLabel = nullptr);
+                  const char* rightLabel = nullptr, int16_t reservePx = 0);
     // Card-deck variant: shows progress dots for <=10 cards, fraction for >10.
     // Bookmarked entries show a star prefix on the fraction.
     void topStripDots(const char* title, bool showBack, int cur, int total,
