@@ -272,7 +272,7 @@ void loop() {
 
     if (c < NUM_CATS) {
         // ── Browse: Category → split-pane (subfolder | entries) → View ──
-        int entryId = browse(c, CAT_NAMES[c]);
+        int entryId = browse(c, CAT_NAMES[c], CAT_COLORS[c]);
         if (entryId >= 0 && !gGoHome && !gEmergency)
             openEntry((uint16_t)entryId);
 

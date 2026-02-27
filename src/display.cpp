@@ -378,35 +378,53 @@ int16_t Screen::canvasCursorX() {
     return _canvas->getCursorX() + CX;
 }
 
-// Draw a menu item into the canvas. y_scr = vertical centre y in screen space.
-// Instrument-minimal menu item: inverted bg on selection, optional red text for Emergency.
-// y_scr = top of this item in screen space. badgeColor == COL_WARN → red text.
+// Draw a menu item into the canvas. y_scr = top of item in screen space.
+// Selected items: vivid accent-blue fill + white text (iOS active cell style).
+// Divider items (txt starts with '\x01'): gray centered letter + horizontal rules.
+// badgeColor: COL_WARN = red text; other nonzero = colored left accent bar.
 void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
                              uint16_t badgeColor) {
     if (!_canvas) return;
 
-    // Canvas-space: top of item, then derive centre
     int16_t yTop = y_scr - TOP_Y;
     int16_t yc   = yTop + MENU_LINE_H / 2;
 
-    // Selection: full-width pill (subtle inverted bg)
-    if (selected) {
-        _canvas->fillRoundRect(4, yTop + 2, CANVAS_W - 8, MENU_LINE_H - 4, 4, COL_SEL);
+    // ── Divider (section header) ─────────────────────────────────────────────
+    if (txt[0] == '\x01') {
+        // Draw letter centered with horizontal rules on either side
+        _setFont(*_canvas);
+        const char* lbl = txt + 1;
+        int16_t x1, y1; uint16_t lw, lh;
+        _canvas->getTextBounds(lbl, 0, yc + FONT_CAP_H / 2, &x1, &y1, &lw, &lh);
+        int16_t lx = (CANVAS_W - (int16_t)lw) / 2;
+        int16_t ry = yTop + MENU_LINE_H / 2;
+        _canvas->drawFastHLine(TEXT_PAD_X,         ry, lx - TEXT_PAD_X - 4,             COL_TER);
+        _canvas->drawFastHLine(lx + (int16_t)lw + 4, ry, CANVAS_W - lx - (int16_t)lw - 4 - TEXT_PAD_X, COL_TER);
+        _canvas->setTextColor(COL_SEC);
+        _canvas->setCursor(lx, yc + FONT_CAP_H / 2);
+        _canvas->print(lbl);
+        _setFont(*_canvas);
+        return;
     }
 
-    // Text colors
-    uint16_t line1Color = selected ? COL_ACCENT : COL_PRI;
-    uint16_t line2Color = selected ? COL_SEC    : COL_TER;
-    // Emergency (COL_WARN) → red text when unselected
+    // ── Selection pill ───────────────────────────────────────────────────────
+    if (selected) {
+        // Accent-blue fill: white text on vivid blue — high contrast, unambiguous
+        _canvas->fillRoundRect(4, yTop + 2, CANVAS_W - 8, MENU_LINE_H - 4, 5, COL_ACCENT);
+    }
+
+    // ── Text colors ──────────────────────────────────────────────────────────
+    uint16_t line1Color = selected ? COL_PRI  : COL_PRI;
+    uint16_t line2Color = selected ? 0xC67F   : COL_TER;  // light blue-gray on sel, dim gray otherwise
+    // Emergency → red text when unselected
     if (!selected && badgeColor == COL_WARN) line1Color = COL_WARN;
-    // Accented items (e.g. "Continue", COL_ACCENT) → colored text + left bar
+    // Accented items (e.g. "Continue", category badge) → colored text + left accent bar
     if (!selected && badgeColor != 0 && badgeColor != COL_WARN) {
         line1Color = badgeColor;
-        // 3px accent bar on left edge (mirrors card accent bar treatment)
-        _canvas->fillRect(0, yTop + 4, 3, MENU_LINE_H - 8, badgeColor);
+        _canvas->fillRoundRect(0, yTop + 4, 4, MENU_LINE_H - 8, 2, badgeColor);
     }
 
-    // Split into up to 2 lines — pixel-accurate, never truncates mid-word
+    // ── Text layout — split into up to 2 lines ───────────────────────────────
     char line1[64], line2[64];
     int16_t budget = CANVAS_W - TEXT_PAD_X * 2;
     fsans9SplitTwo(txt, line1, line2, budget);

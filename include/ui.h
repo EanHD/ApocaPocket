@@ -70,7 +70,7 @@ int homeList(const char** catNames, const uint16_t* catColors,
 
 // Two-level category browser: subfolder list → entry list (two sequential menus).
 // Returns: gIndex entry ID, or -1 = back to homeList
-int browse(int catIdx, const char* catName);
+int browse(int catIdx, const char* catName, uint16_t catColor = 0);
 
 // Core UI functions - return selected index or -1 for back
 void splash();
