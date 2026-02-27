@@ -727,7 +727,9 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
             screen.topStripDots(hdr, true, cardIdx, cardCount, bookmarked);
         }
 
-        int bodyStartY = TOP_Y + CARD_HDR_H;
+        // 4px breathing room between the card header divider and first body line.
+        // Without this, body text sits 1px below the divider — looks cramped/cut.
+        int bodyStartY = TOP_Y + CARD_HDR_H + 4;
         int lpp        = (BOT_Y - bodyStartY) / LINE_H;
 
         int maxScroll = (cur.scrollable) ? max(0, cur.lineCount - lpp) : 0;

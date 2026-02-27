@@ -293,32 +293,20 @@ void Screen::clearCanvas() {
 }
 
 // Push the canvas atomically to the content area.
-// If gSlideNext is set, does a safe "reveal from right" wipe over 4 frames:
-//   draws the canvas at its FINAL position (CX), then blacks out the left portion
-//   that hasn't "arrived" yet. This avoids writing beyond display width (which
-//   causes ST7789 row-wrap corruption).
-// Also clears the 4px strip to the right of the canvas (x=234..237) to prevent
-// scrollbar ghost pixels leaking between screens.
+// Clears the right strip (x=236..239) on every push to prevent scrollbar ghosting.
+// gSlideNext: brief black flash before content arrives (signals screen change cleanly).
 void Screen::pushCanvas() {
     if (!_canvas) return;
 
     // Right-strip clear: scrollbar lives here (drawn outside canvas by scrollBar()).
-    // Must wipe it on every full-screen transition so stale bar doesn't ghost.
     const int16_t stripX = (int16_t)(CX + CANVAS_W);
-    const int16_t stripW = (int16_t)(DISP_W - CX - CANVAS_W - CX);
+    const int16_t stripW = (int16_t)(DISP_W - CX - CANVAS_W);
     if (stripW > 0) _tft.fillRect(stripX, TOP_Y, stripW, CANVAS_H, COL_BG);
 
     if (gSlideNext) {
         gSlideNext = false;
-        // 4-step reveal: canvas always drawn at final position CX,
-        // then a black rectangle masks the left N/5ths (the "not yet arrived" part).
-        const int16_t W = (int16_t)CANVAS_W;
-        for (int step = 4; step >= 1; step--) {
-            _tft.drawRGBBitmap(CX, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
-            int16_t maskW = (W * step) / 5;
-            if (maskW > 0) _tft.fillRect(CX, TOP_Y, maskW, CANVAS_H, COL_BG);
-            delay(14);
-        }
+        // One-frame black flash: visually signals a new screen without flickering animation.
+        _tft.fillRect(CX, TOP_Y, CANVAS_W, CANVAS_H, COL_BG);
     }
     _tft.drawRGBBitmap(CX, TOP_Y, _canvas->getBuffer(), CANVAS_W, CANVAS_H);
 }
@@ -408,15 +396,18 @@ void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
 
     // ── Divider (section header) ─────────────────────────────────────────────
     if (txt[0] == '\x01') {
-        // Draw letter centered with horizontal rules on either side
+        // Draw label centered with horizontal rules on either side.
+        // Use fsans9Width (not getTextBounds) — reliable pixel-accurate measurement.
         _setFont(*_canvas);
         const char* lbl = txt + 1;
-        int16_t x1, y1; uint16_t lw, lh;
-        _canvas->getTextBounds(lbl, 0, yc + FONT_CAP_H / 2, &x1, &y1, &lw, &lh);
-        int16_t lx = (CANVAS_W - (int16_t)lw) / 2;
+        int16_t textW = (int16_t)fsans9Width(lbl);
+        int16_t lx = (CANVAS_W - textW) / 2;
+        if (lx < TEXT_PAD_X) lx = TEXT_PAD_X;   // safety clamp — never clip "B"
         int16_t ry = yTop + MENU_LINE_H / 2;
-        _canvas->drawFastHLine(TEXT_PAD_X,         ry, lx - TEXT_PAD_X - 4,             COL_TER);
-        _canvas->drawFastHLine(lx + (int16_t)lw + 4, ry, CANVAS_W - lx - (int16_t)lw - 4 - TEXT_PAD_X, COL_TER);
+        int16_t leftLen  = lx - TEXT_PAD_X - 4;
+        int16_t rightLen = CANVAS_W - TEXT_PAD_X - lx - textW - 4;
+        if (leftLen  > 0) _canvas->drawFastHLine(TEXT_PAD_X, ry, leftLen,  COL_TER);
+        if (rightLen > 0) _canvas->drawFastHLine(lx + textW + 4, ry, rightLen, COL_TER);
         _canvas->setTextColor(COL_SEC);
         _canvas->setCursor(lx, yc + FONT_CAP_H / 2);
         _canvas->print(lbl);
@@ -431,13 +422,12 @@ void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
     }
 
     // ── Text colors ──────────────────────────────────────────────────────────
-    uint16_t line1Color = selected ? COL_PRI  : COL_PRI;
-    uint16_t line2Color = selected ? 0xC67F   : COL_TER;  // light blue-gray on sel, dim gray otherwise
-    // Emergency → red text when unselected
+    uint16_t line1Color = COL_PRI;   // always white — readable against dark bg
+    uint16_t line2Color = selected ? 0xC67F : COL_TER;
+    // Emergency → red text (COL_WARN items only — e.g. "Emergency" in homeList)
     if (!selected && badgeColor == COL_WARN) line1Color = COL_WARN;
-    // Accented items (e.g. "Continue", category badge) → colored text + left accent bar
-    if (!selected && badgeColor != 0 && badgeColor != COL_WARN) {
-        line1Color = badgeColor;
+    // Category / continue accent → left color bar only, text stays white
+    if (badgeColor != 0 && badgeColor != COL_WARN) {
         _canvas->fillRoundRect(0, yTop + 4, 4, MENU_LINE_H - 8, 2, badgeColor);
     }
 
