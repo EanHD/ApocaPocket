@@ -296,6 +296,15 @@ uint8_t Index::folderIdx(uint16_t i) const {
     return _entries[i].folderIdx;
 }
 
+uint16_t Index::find(const char* titlePrefix) const {
+    if (!titlePrefix || !_entries) return UINT16_MAX;
+    size_t n = strlen(titlePrefix);
+    for (uint16_t i = 0; i < _count; i++) {
+        if (strncmp(_entries[i].title, titlePrefix, n) == 0) return i;
+    }
+    return UINT16_MAX;
+}
+
 bool Index::readEid(uint16_t i, char* eidOut, size_t eidSize) {
     if (i >= _count) return false;
 

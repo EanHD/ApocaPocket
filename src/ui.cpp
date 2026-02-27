@@ -12,6 +12,7 @@ bool gGoHome = false;
 bool gEmergency = false;
 bool gGoBookmarks = false;
 bool gNeedsRedraw = false;
+bool gSlideNext   = false;  // triggers slide-in-from-right on next pushCanvas()
 
 // Smooth scroll animation state (global, not currently used)
 ScrollAnim gScrollAnim = {0, 0, 0};
@@ -353,8 +354,19 @@ int menu(const char* title, const char** items, int count,
     int vis    = min(count, MENU_VIS);
     bool dirty = true;
 
+    // Local scroll animation: pixelOffset eases toward 0 after each UP/DN press.
+    // Items are drawn shifted by pixelOffset, creating a smooth slide feel.
+    int pixelOffset = 0;
+
     while (true) {
         if (dirty) {
+            // Ease pixel offset toward zero (halve each frame, snap at ±1)
+            if (pixelOffset != 0) {
+                int step = pixelOffset / 2;
+                if (step == 0) step = (pixelOffset > 0) ? 1 : -1;
+                pixelOffset -= step;
+            }
+
             char frac[8];
             snprintf(frac, sizeof(frac), "%d/%d", sel + 1, count);
             screen.topStrip(title, showBack, frac);
@@ -362,13 +374,14 @@ int menu(const char* title, const char** items, int count,
             screen.clearCanvas();
             for (int i = 0; i < vis; i++) {
                 int ii = i + offset;
-                int16_t y = TOP_Y + i * MENU_LINE_H;
+                int16_t y = TOP_Y + i * MENU_LINE_H + (int16_t)pixelOffset;
                 screen.canvasMenuItem(items[ii], y, ii == sel,
                                       badgeColors ? badgeColors[ii] : 0);
             }
             screen.pushCanvas();
             if (count > vis) screen.scrollBar(sel, count, MENU_VIS);
-            dirty = false;
+            // Keep redrawing while animation is in progress
+            dirty = (pixelOffset != 0);
         }
 
         poll();
@@ -381,9 +394,11 @@ int menu(const char* title, const char** items, int count,
             if (sel > 0) {
                 sel--;
                 if (sel < offset) offset = sel;
+                pixelOffset = MENU_LINE_H / 3;   // items slide down into position
             } else {
                 sel = count - 1;
                 offset = max(0, count - vis);
+                pixelOffset = 0;  // no animation on wrap-around
             }
             dirty = true;
         }
@@ -391,12 +406,14 @@ int menu(const char* title, const char** items, int count,
             if (sel < count - 1) {
                 sel++;
                 if (sel >= offset + vis) offset = sel - vis + 1;
+                pixelOffset = -(MENU_LINE_H / 3);  // items slide up into position
             } else {
                 sel = 0; offset = 0;
+                pixelOffset = 0;  // no animation on wrap-around
             }
             dirty = true;
         }
-        if (btnOk.tapped()) return sel;
+        if (btnOk.tapped()) { gSlideNext = true; return sel; }
     }
 }
 
@@ -702,6 +719,7 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
             if (btnRt.tapped()) {
                 bool isLast = (cardIdx == cardCount - 1);
                 if (!isLast) {
+                    gSlideNext = true;
                     cardIdx++;
                     break;
                 }
@@ -966,7 +984,7 @@ int searchFlow(const Index& idx) {
             screen.clearCanvas();
 
             // ── Query display box ────────────────────────────────────────────
-            screen.canvasFill(CX + 4, TOP_Y + 2, CANVAS_W - 8, QBOX_H - 2, COL_SEL);
+            screen.canvasFillRoundRect(CX + 4, TOP_Y + 2, CANVAS_W - 8, QBOX_H - 2, 4, COL_SEL);
             if (len > 0) {
                 char disp[26];
                 strncpy(disp, query, 22); disp[22] = '\0';
@@ -984,7 +1002,7 @@ int searchFlow(const Index& idx) {
                 int16_t cy = (int16_t)(GRID_Y + row * CELL_H);
                 bool    sel = (!inR && i == ci);
                 if (sel)
-                    screen.canvasFill(cx + 2, cy + 2, CELL_W - 4, CELL_H - 4, COL_ACCENT);
+                    screen.canvasFillRoundRect(cx + 2, cy + 2, CELL_W - 4, CELL_H - 4, 3, COL_ACCENT);
                 char lbl[4];
                 if      (i == DEL_IDX)       strncpy(lbl, "DEL", 4);
                 else if (CHARS[i] == ' ')  { lbl[0] = '_'; lbl[1] = '\0'; }
@@ -1013,7 +1031,7 @@ int searchFlow(const Index& idx) {
                     int16_t ry = (int16_t)(RES_Y + i * RES_H);
                     bool   rsel = (inR && ii == ri);
                     if (rsel)
-                        screen.canvasFill(CX + 2, ry, CANVAS_W - 4, RES_H - 2, COL_SEL);
+                        screen.canvasFillRoundRect(CX + 2, ry, CANVAS_W - 4, RES_H - 2, 4, COL_SEL);
                     char tbuf[30];
                     snprintf(tbuf, sizeof(tbuf), "%s%s",
                              rsel ? "> " : "  ", idx.title(results[ii]));

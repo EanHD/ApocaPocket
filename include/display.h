@@ -53,6 +53,7 @@ public:
     void canvasTextBold(const char* s, int16_t x_scr, int16_t y_scr, uint16_t color);
     void canvasCenterText(const char* s, int16_t y_scr, uint16_t color);
     void canvasFill(int16_t x_scr, int16_t y_scr, int16_t w, int16_t h, uint16_t color);
+    void canvasFillRoundRect(int16_t x_scr, int16_t y_scr, int16_t w, int16_t h, int16_t r, uint16_t color);
     void canvasFillCircle(int16_t x_scr, int16_t y_scr, int16_t r, uint16_t color);
     int  canvasMeasureText(const char* s);
     int16_t canvasCursorX(); // x position after last canvas draw (screen space)

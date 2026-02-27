@@ -3,6 +3,9 @@
 #include <Fonts/FreeSans9pt7b.h>
 #include <Fonts/FreeSansBold9pt7b.h>
 
+// Declared in ui.cpp — used by pushCanvas() for slide-in transition
+extern bool gSlideNext;
+
 Screen screen;
 
 // Apply FreeSans9pt7b to any Adafruit_GFX target (TFT or canvas).
@@ -288,9 +291,18 @@ void Screen::clearCanvas() {
 }
 
 // Push the canvas atomically to the content area.
-// Single SPI transaction → no partial-frame flicker.
+// If gSlideNext is set, slides in from the right over 4 frames before settling.
 void Screen::pushCanvas() {
     if (!_canvas) return;
+    if (gSlideNext) {
+        gSlideNext = false;
+        // 4-step ease-in from right: offset 4/5, 3/5, 2/5, 1/5 of canvas width
+        const int16_t W = (int16_t)CANVAS_W;
+        _tft.drawRGBBitmap(CX + W * 4 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
+        _tft.drawRGBBitmap(CX + W * 3 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
+        _tft.drawRGBBitmap(CX + W * 2 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
+        _tft.drawRGBBitmap(CX + W * 1 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
+    }
     _tft.drawRGBBitmap(CX, TOP_Y, _canvas->getBuffer(), CANVAS_W, CANVAS_H);
 }
 
@@ -334,6 +346,13 @@ void Screen::canvasFill(int16_t x_scr, int16_t y_scr, int16_t w, int16_t h,
                         uint16_t color) {
     if (!_canvas) return;
     _canvas->fillRect(x_scr - CX, y_scr - TOP_Y, w, h, color);
+}
+
+// Fill a rounded rectangle on the canvas. x_scr/y_scr are screen-space coordinates.
+void Screen::canvasFillRoundRect(int16_t x_scr, int16_t y_scr, int16_t w, int16_t h,
+                                 int16_t r, uint16_t color) {
+    if (!_canvas) return;
+    _canvas->fillRoundRect(x_scr - CX, y_scr - TOP_Y, w, h, r, color);
 }
 
 // Fill a circle on the canvas. x_scr/y_scr are screen-space centre coordinates.

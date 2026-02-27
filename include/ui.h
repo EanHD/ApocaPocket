@@ -52,6 +52,10 @@ struct ScrollAnim {
 // Signals that a full redraw is needed (set by poll() after battery warning)
 extern bool gNeedsRedraw;
 
+// When true, the next pushCanvas() slides the content in from the right (navigate deeper).
+// Set before returning from a menu selection; cleared by pushCanvas() after the animation.
+extern bool gSlideNext;
+
 // Home menu — fluid single-column list.
 // Returns:
 //   0..numCats-1  = category

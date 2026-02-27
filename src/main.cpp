@@ -8,20 +8,20 @@
 #include "led.h"
 
 static const char* CAT_NAMES[] = {
-    "Immediate Survival",
-    "Food & Biology",
+    "Survival",
+    "Food & Foraging",
     "Materials",
-    "Tools & Rebuild",
+    "Tools",
     "Civilization"
 };
 #define NUM_CATS 5
 
 // Category badge colors (one per category, matches CAT_NAMES order)
 static const uint16_t CAT_COLORS[NUM_CATS] = {
-    COL_WARN,    // Immediate Survival — red (urgent)
-    COL_OK,      // Food & Biology — green
+    COL_WARN,    // Survival — red (urgent)
+    COL_OK,      // Food & Foraging — green
     COL_YELLOW,  // Materials — yellow
-    COL_ACCENT,  // Tools & Rebuild — blue
+    COL_ACCENT,  // Tools — blue
     COL_SEC,     // Civilization — gray
 };
 
@@ -31,6 +31,17 @@ static const char* menuPtrs[MAX_MENU_ITEMS];
 static char menuBuf[MAX_MENU_ITEMS][64]; // for dynamically built labels (subfolder names can be long)
 static uint16_t menuColors[MAX_MENU_ITEMS]; // badge colors (0 = none)
 static int subCountsArr[16]; // entry count per subfolder (for subfolderGrid)
+
+// Quick Access: cached index IDs for the 4 survival gateway entries.
+// Populated once at startup by Index::find(). UINT16_MAX = not found.
+static uint16_t gQaIds[4] = { UINT16_MAX, UINT16_MAX, UINT16_MAX, UINT16_MAX };
+static const char* QA_LABELS[] = {
+    "Fire: Start Here",
+    "Water Safety",
+    "Field Medical",
+    "Shelter Overview",
+    "All Survival Entries"
+};
 
 static void openEntry(uint16_t indexId) {
     char eid[MAX_EID + 1];
@@ -163,6 +174,12 @@ void setup() {
     loadMetadata();
     Serial.println("[OK] Metadata");
 
+    // Cache Quick Access gateway entry IDs for zero-friction Emergency access
+    gQaIds[0] = gIndex.find("Fire: Start Here");
+    gQaIds[1] = gIndex.find("Water Safety Overview");
+    gQaIds[2] = gIndex.find("Field Medical Overview");
+    gQaIds[3] = gIndex.find("Shelter Overview");
+
     loadBookmarks();
 
     // Report free memory
@@ -185,24 +202,32 @@ void loop() {
     bool wantBm  = gGoBookmarks;   // capture before reset
     gGoBookmarks = false;
 
-    // Emergency combo: jump to L1 immediate survival
+    // Emergency combo: Quick Access to the 4 survival gateways
     if (gEmergency) {
         gEmergency = false;
         while (btnUp.down() || btnDn.down()) delay(20);
 
-        uint8_t subs[16];
-        uint8_t subCount;
-        gIndex.getSubfolders(0, subs, subCount, 16);
-        if (subCount > 0) {
-            uint16_t indices[MAX_MENU_ITEMS];
-            uint16_t entCount;
-            gIndex.getBySubfolder(0, subs[0], indices, entCount, MAX_MENU_ITEMS);
-            int n = min((int)entCount, MAX_MENU_ITEMS);
-            for (int i = 0; i < n; i++)
-                menuPtrs[i] = gIndex.title(indices[i]);
-            int es = menu("EMERGENCY", menuPtrs, n);
-            if (es >= 0 && !gGoHome && !gEmergency)
-                openEntry(indices[es]);
+        int es = menu("EMERGENCY", QA_LABELS, 5, nullptr, true);
+        if (es >= 0 && es < 4) {
+            // Direct gateway entry — one press to the answer
+            if (gQaIds[es] != UINT16_MAX && !gGoHome && !gEmergency)
+                openEntry(gQaIds[es]);
+        } else if (es == 4) {
+            // All Survival Entries fallback — browse first subfolder of cat 0
+            uint8_t subs[16];
+            uint8_t subCount;
+            gIndex.getSubfolders(0, subs, subCount, 16);
+            if (subCount > 0) {
+                uint16_t indices[MAX_MENU_ITEMS];
+                uint16_t entCount;
+                gIndex.getBySubfolder(0, subs[0], indices, entCount, MAX_MENU_ITEMS);
+                int n = min((int)entCount, MAX_MENU_ITEMS);
+                for (int i = 0; i < n; i++)
+                    menuPtrs[i] = gIndex.title(indices[i]);
+                int sub = menu("Survival", menuPtrs, n);
+                if (sub >= 0 && !gGoHome && !gEmergency)
+                    openEntry(indices[sub]);
+            }
         }
         return;
     }

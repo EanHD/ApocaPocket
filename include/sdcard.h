@@ -25,6 +25,9 @@ public:
     // Read eid from SD on demand (avoids 391*32 = 12KB in RAM)
     bool readEid(uint16_t i, char* eidOut, size_t eidSize);
 
+    // Scan in-RAM titles for a prefix match. Returns UINT16_MAX if not found.
+    uint16_t find(const char* titlePrefix) const;
+
     // Query helpers
     void getSubfolders(uint8_t cat, uint8_t* subs, uint8_t& count, uint8_t maxSubs);
     void getBySubfolder(uint8_t cat, uint8_t sub, uint16_t* indices,
