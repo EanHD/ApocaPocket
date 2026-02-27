@@ -438,8 +438,7 @@ int menu(const char* title, const char** items, int count,
         poll();
         if (gNeedsRedraw) { dirty = true; gNeedsRedraw = false; continue; }
         if (gEmergency || gGoHome || gGoBookmarks) return -1;
-        if (btnBk.held()) { gGoHome = true; return -1; }
-        if (btnBk.tapped()) return -1;
+        if (btnBk.held() || btnBk.tapped()) return -1;
 
         if (btnUp.tapped() || btnUp.repeating()) {
             if (sel > 0) {
@@ -769,11 +768,10 @@ void showCardEntry(const char* eid, uint8_t folderIdx, const char* title,
             if (gNeedsRedraw) { prevCard = -1; gNeedsRedraw = false; break; }
             if (gEmergency || gGoHome || gGoBookmarks) { delete[] entryLines; return; }
 
-            if (btnBk.held())   { gGoHome = true; delete[] entryLines; return; }
-            if (btnBk.tapped()) {
-                // LEFT at card 0 → back to list; LEFT elsewhere → previous card
-                if (cardIdx > 0) { cardIdx--; break; }
-                else             { delete[] entryLines; return; }
+            if (btnBk.held() || btnBk.tapped()) {
+                // LEFT/long-LEFT at card 0 → back to list; elsewhere → previous card
+                if (btnBk.tapped() && cardIdx > 0) { cardIdx--; break; }
+                else { delete[] entryLines; return; }
             }
 
             // Card navigation: RIGHT
@@ -924,7 +922,7 @@ void showEntry(const char* eid, uint8_t folderIdx, const char* title,
             }
             if (btnBk.held()) {
                 if (scrollPos) *scrollPos = scroll;
-                delete[] entryLines; gGoHome = true; return;
+                delete[] entryLines; return;
             }
             if (btnBk.tapped()) {
                 if (scrollPos) *scrollPos = scroll;
@@ -1136,10 +1134,8 @@ int searchFlow(const Index& idx) {
             } else if (btnRt.tapped() || btnRt.repeating()) {
                 ci = (ci + 1) % TOTAL;
                 changed = true;
-            } else if (btnBk.held()) {
-                gGoHome = true; return -1;
-            } else if (btnBk.tapped()) {
-                ci = (ci - 1 + TOTAL) % TOTAL;  // navigate LEFT
+            } else if (btnBk.held() || btnBk.tapped()) {
+                ci = (ci - 1 + TOTAL) % TOTAL;  // navigate LEFT (held = same as tap in grid)
                 changed = true;
             } else if (btnOk.tapped()) {
                 if (ci == DEL_IDX) {
@@ -1170,7 +1166,7 @@ int searchFlow(const Index& idx) {
             } else if (btnOk.tapped() || btnRt.tapped()) {
                 return (int)results[ri];
             } else if (btnBk.held()) {
-                gGoHome = true; return -1;
+                return -1;  // long press = back to previous menu
             } else if (btnBk.tapped()) {
                 inR = false; changed = true;  // back to grid
             }
