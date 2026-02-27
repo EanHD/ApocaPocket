@@ -259,6 +259,8 @@ void Screen::scrollBar(int pos, int total, int visible) {
     if (total <= visible) return;
     int trackH = BOT_Y - TOP_Y;
     int trackX = DISP_W - CX - 3;
+    // Clear the full track area first — prevents ghost pixels from previous position
+    _tft.fillRect(trackX, TOP_Y, 3, trackH, COL_BG);
     // Track: thin dim line
     _tft.drawFastVLine(trackX + 1, TOP_Y, trackH, COL_TER);
     // Thumb: rounded rect for iOS-style indicator
@@ -291,17 +293,32 @@ void Screen::clearCanvas() {
 }
 
 // Push the canvas atomically to the content area.
-// If gSlideNext is set, slides in from the right over 4 frames before settling.
+// If gSlideNext is set, does a safe "reveal from right" wipe over 4 frames:
+//   draws the canvas at its FINAL position (CX), then blacks out the left portion
+//   that hasn't "arrived" yet. This avoids writing beyond display width (which
+//   causes ST7789 row-wrap corruption).
+// Also clears the 4px strip to the right of the canvas (x=234..237) to prevent
+// scrollbar ghost pixels leaking between screens.
 void Screen::pushCanvas() {
     if (!_canvas) return;
+
+    // Right-strip clear: scrollbar lives here (drawn outside canvas by scrollBar()).
+    // Must wipe it on every full-screen transition so stale bar doesn't ghost.
+    const int16_t stripX = (int16_t)(CX + CANVAS_W);
+    const int16_t stripW = (int16_t)(DISP_W - CX - CANVAS_W - CX);
+    if (stripW > 0) _tft.fillRect(stripX, TOP_Y, stripW, CANVAS_H, COL_BG);
+
     if (gSlideNext) {
         gSlideNext = false;
-        // 4-step ease-in from right: offset 4/5, 3/5, 2/5, 1/5 of canvas width
+        // 4-step reveal: canvas always drawn at final position CX,
+        // then a black rectangle masks the left N/5ths (the "not yet arrived" part).
         const int16_t W = (int16_t)CANVAS_W;
-        _tft.drawRGBBitmap(CX + W * 4 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
-        _tft.drawRGBBitmap(CX + W * 3 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
-        _tft.drawRGBBitmap(CX + W * 2 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
-        _tft.drawRGBBitmap(CX + W * 1 / 5, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
+        for (int step = 4; step >= 1; step--) {
+            _tft.drawRGBBitmap(CX, TOP_Y, _canvas->getBuffer(), W, CANVAS_H);
+            int16_t maskW = (W * step) / 5;
+            if (maskW > 0) _tft.fillRect(CX, TOP_Y, maskW, CANVAS_H, COL_BG);
+            delay(14);
+        }
     }
     _tft.drawRGBBitmap(CX, TOP_Y, _canvas->getBuffer(), CANVAS_W, CANVAS_H);
 }
