@@ -422,10 +422,8 @@ void Screen::canvasMenuItem(const char* txt, int16_t y_scr, bool selected,
     // ── Text colors ──────────────────────────────────────────────────────────
     uint16_t line1Color = COL_PRI;   // always white — readable against dark bg
     uint16_t line2Color = selected ? 0xC67F : COL_TER;
-    // Emergency → red text (COL_WARN items only — e.g. "Emergency" in homeList)
-    if (!selected && badgeColor == COL_WARN) line1Color = COL_WARN;
-    // Category / continue accent → left color bar only, text stays white
-    if (badgeColor != 0 && badgeColor != COL_WARN) {
+    // Badge color → left accent bar only; text always stays white
+    if (badgeColor != 0) {
         _canvas->fillRoundRect(0, yTop + 4, 4, MENU_LINE_H - 8, 2, badgeColor);
     }
 

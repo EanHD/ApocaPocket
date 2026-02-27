@@ -408,9 +408,6 @@ int menu(const char* title, const char** items, int count,
     int vis    = min(count, MENU_VIS);
     bool dirty = true;
 
-    // Local scroll animation: pixelOffset eases toward 0 after each UP/DN press.
-    int pixelOffset = 0;
-
     // Helper: is item i a non-selectable divider?
     auto isDiv = [&](int i) -> bool {
         return (i >= 0 && i < count && isDivs && isDivs[i]);
@@ -421,13 +418,6 @@ int menu(const char* title, const char** items, int count,
 
     while (true) {
         if (dirty) {
-            // Ease pixel offset toward zero (halve each frame, snap at ±1)
-            if (pixelOffset != 0) {
-                int step = pixelOffset / 2;
-                if (step == 0) step = (pixelOffset > 0) ? 1 : -1;
-                pixelOffset -= step;
-            }
-
             char frac[8];
             snprintf(frac, sizeof(frac), "%d/%d", sel + 1, count);
             screen.topStrip(title, showBack, frac);
@@ -435,15 +425,14 @@ int menu(const char* title, const char** items, int count,
             screen.clearCanvas();
             for (int i = 0; i < vis; i++) {
                 int ii = i + offset;
-                int16_t y = TOP_Y + i * MENU_LINE_H + (int16_t)pixelOffset;
+                int16_t y = TOP_Y + i * MENU_LINE_H;
                 screen.canvasMenuItem(items[ii], y, ii == sel,
                                       badgeColors ? badgeColors[ii] : 0,
                                       isDiv(ii));
             }
             screen.pushCanvas();
-            if (count > vis) screen.scrollBar(sel, count, MENU_VIS);
-            // Keep redrawing while animation is in progress
-            dirty = (pixelOffset != 0);
+            if (count > vis) screen.scrollBar(offset, count, MENU_VIS);
+            dirty = false;
         }
 
         poll();
@@ -457,12 +446,10 @@ int menu(const char* title, const char** items, int count,
                 sel--;
                 while (isDiv(sel) && sel > 0) sel--;  // skip dividers
                 if (sel < offset) offset = sel;
-                if (btnUp.tapped()) pixelOffset = 4;
             } else {
                 sel = count - 1;
                 while (isDiv(sel) && sel > 0) sel--;
                 offset = max(0, count - vis);
-                pixelOffset = 0;
             }
             dirty = true;
         }
@@ -471,12 +458,10 @@ int menu(const char* title, const char** items, int count,
                 sel++;
                 while (isDiv(sel) && sel < count - 1) sel++;  // skip dividers
                 if (sel >= offset + vis) offset = sel - vis + 1;
-                if (btnDn.tapped()) pixelOffset = -4;
             } else {
                 sel = 0;
                 while (isDiv(sel) && sel < count - 1) sel++;
                 offset = 0;
-                pixelOffset = 0;
             }
             dirty = true;
         }
