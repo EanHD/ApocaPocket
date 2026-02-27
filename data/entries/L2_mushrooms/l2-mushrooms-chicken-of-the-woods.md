@@ -41,11 +41,11 @@ Large bright orange-and-yellow bracket fungus growing on hardwood trees. Meaty t
 
 ## Step-by-step
 1. Identify by large overlapping shelves, bright orange top and yellow pore surface (no gills), growing on standing/fallen hardwood.
-2. Harvest young tender edges only — older portions become tough and chalky.
+2. Harvest young tender edges only  -  older portions become tough and chalky.
 3. Spore print: white.
-4. Cook thoroughly — slice and sauté, bread and fry, or add to soups.
+4. Cook thoroughly  -  slice and saute, bread and fry, or add to soups.
 
 ## Warnings
-- Some people have GI reactions — try a small amount first.
-- Avoid specimens growing on conifers, eucalyptus, or locust — higher reaction rates.
+- Some people have GI reactions  -  try a small amount first.
+- Avoid specimens growing on conifers, eucalyptus, or locust  -  higher reaction rates.
 - Do not eat raw.

@@ -6,17 +6,18 @@ category: L5_civilization_memory
 
 # Glassmaking
 
-Glass enables windows, containers, lenses, and lab equipment. Without glass, modern science and medicine are impossible. One glassmaker supplies a community with optical tools that multiply capability 100x.
+Glass enables windows, containers, lenses, and lab equipment. Without glass, modern science and medicine are impossible. One glassmaker supplies a community with optical tools that multiply
+capability 100x.
 
 ## Glass Formula
 
 Soda-lime glass (90% of all glass):
-- Silica (SiO₂): 70% — sand or quartz (glass-former)
-- Soda ash (Na₂CO₃): 15% — lowers melting point from 3100°F to 2000-2400°F
-- Lime (CaO): 10% — limestone or shells (stabilizer, durability)
-- Cullet (recycled glass): 5% — speeds melting
+- Silica (SiO2): 70%  -  sand or quartz (glass-former)
+- Soda ash (Na2CO3): 15%  -  lowers melting point from 3100 degF to 2000-2400 degF
+- Lime (CaO): 10%  -  limestone or shells (stabilizer, durability)
+- Cullet (recycled glass): 5%  -  speeds melting
 
-Without flux (soda ash), pure silica melts at 3100°F — unattainable with charcoal. Flux makes glass achievable.
+Without flux (soda ash), pure silica melts at 3100 degF  -  unattainable with charcoal. Flux makes glass achievable.
 
 ## Raw Materials
 
@@ -25,7 +26,7 @@ Silica sources:
 - Crushed quartz rock.
 - Sandstone ground fine.
 
-Iron impurities turn glass green/brown — still usable.
+Iron impurities turn glass green/brown  -  still usable.
 
 Soda ash sources:
 - Burn hardwood completely to white ash. Soak in water, filter, boil down to white crystals. Yield: 10 lbs ash = 1 lb soda ash.
@@ -33,8 +34,8 @@ Soda ash sources:
 - Natron deposits (dry lakebeds in arid regions).
 
 Lime sources:
-- Burn limestone at 1600°F to make quicklime (CaO).
-- Slake with water for hydrated lime (Ca(OH)₂).
+- Burn limestone at 1600 degF to make quicklime (CaO).
+- Slake with water for hydrated lime (Ca(OH)2).
 - Dry and grind to powder.
 
 ## Glass Furnace
@@ -42,7 +43,7 @@ Lime sources:
 Build from refractory brick or high-alumina clay mixed 50% with sand.
 
 Dimensions (small furnace):
-- Melting chamber: 3 ft wide × 3 ft deep × 4 ft tall.
+- Melting chamber: 3 ft wide x 3 ft deep x 4 ft tall.
 - Wall thickness: 9-12 inches.
 - Chimney: 10-15 ft tall for strong draft.
 
@@ -53,7 +54,7 @@ Structure (updraft design):
 - Arched crown: Reflects heat downward.
 - Chimney: Creates draft, exhausts gases.
 
-Forced air required: Bellows or blower needed to reach 2000-2400°F.
+Forced air required: Bellows or blower needed to reach 2000-2400 degF.
 
 Fuel needed (small furnace): 50-100 lbs charcoal per 8-hour melt.
 
@@ -68,8 +69,8 @@ Batch preparation (10 lb batch):
 
 Melting (8-12 hours):
 - Preheat crucibles 2-3 hours to prevent cracking.
-- Load batch, increase heat to 2000°F over 2-3 hours.
-- Hold at 2200-2400°F for 4-6 hours until clear and honey-like.
+- Load batch, increase heat to 2000 degF over 2-3 hours.
+- Hold at 2200-2400 degF for 4-6 hours until clear and honey-like.
 - Skim impurities from surface.
 
 Visual check:
@@ -87,7 +88,7 @@ Process:
 - Roll on marver to center.
 - Blow gently through pipe (bubble forms inside).
 - Shape with paddles, shears, and gravity.
-- Reheat frequently — glass cools fast.
+- Reheat frequently  -  glass cools fast.
 - Transfer to pontil rod to finish opening.
 - Anneal immediately.
 
@@ -110,8 +111,8 @@ Required. Without it, glass shatters from thermal shock.
 
 Process:
 - Transfer finished piece to annealing oven immediately.
-- Hold at 900-1000°F for 30 min to 2 hours (longer for thick pieces).
-- Cool 50-100°F per hour until room temperature.
+- Hold at 900-1000 degF for 30 min to 2 hours (longer for thick pieces).
+- Cool 50-100 degF per hour until room temperature.
 - Total time: 8-24 hours.
 
 Never rush cooling. Cracks or explosions will result.
@@ -129,7 +130,7 @@ Most primitive glass is green/blue from iron impurities in sand.
 
 ## Safety
 
-BURN HAZARD: Molten glass is 2000-2400°F. Wear leather gloves, apron, long sleeves, closed-toe boots. Wear dark welding goggles — infrared radiation damages eyes.
+BURN HAZARD: Molten glass is 2000-2400 degF. Wear leather gloves, apron, long sleeves, closed-toe boots. Wear dark welding goggles  -  infrared radiation damages eyes.
 
 STEAM EXPLOSION: Water + molten glass = violent explosion. Keep all water away from furnace. Dry all tools before use.
 

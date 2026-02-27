@@ -26,28 +26,28 @@ Rotation breaks these cycles and improves soil year over year.
 
 Divide your beds into 4 plots. Rotate each family one plot forward each year.
 
-**Family 1 — Legumes** (peas, beans, fava, clover, vetch):
+**Family 1  -  Legumes** (peas, beans, fava, clover, vetch):
 - Fix atmospheric nitrogen (50-150 lbs N/acre).
 - Follow with heavy feeders the next year.
 - Leave roots in soil (nitrogen in nodules). Till above-ground material before flowering.
 
-**Family 2 — Brassicas** (cabbage, broccoli, kale, turnips, radish, kohlrabi):
-- Heavy feeders — use nitrogen left by legumes.
+**Family 2  -  Brassicas** (cabbage, broccoli, kale, turnips, radish, kohlrabi):
+- Heavy feeders  -  use nitrogen left by legumes.
 - Follow legumes. Brassica root exudates break pest/disease cycles.
 
-**Family 3 — Solanaceae + Cucurbits** (tomatoes, peppers, potatoes, squash, cucumber):
+**Family 3  -  Solanaceae + Cucurbits** (tomatoes, peppers, potatoes, squash, cucumber):
 - Moderate feeders. Long growing season.
-- **Never follow nightshades with nightshades** (tomatoes → potatoes = disease disaster).
+- **Never follow nightshades with nightshades** (tomatoes -> potatoes = disease disaster).
 
-**Family 4 — Roots + Alliums** (carrots, beets, parsnips, onions, garlic, leeks):
+**Family 4  -  Roots + Alliums** (carrots, beets, parsnips, onions, garlic, leeks):
 - Light feeders. Scavenge deep nutrients with taproots.
-- Alliums have natural antibiotic properties — clean soil for next rotation.
+- Alliums have natural antibiotic properties  -  clean soil for next rotation.
 
 **Rotation pattern (4 beds)**:
-- Bed 1: Legumes → Brassicas → Solanaceae → Roots → repeat.
-- Bed 2: Brassicas → Solanaceae → Roots → Legumes → repeat.
-- Bed 3: Solanaceae → Roots → Legumes → Brassicas → repeat.
-- Bed 4: Roots → Legumes → Brassicas → Solanaceae → repeat.
+- Bed 1: Legumes -> Brassicas -> Solanaceae -> Roots -> repeat.
+- Bed 2: Brassicas -> Solanaceae -> Roots -> Legumes -> repeat.
+- Bed 3: Solanaceae -> Roots -> Legumes -> Brassicas -> repeat.
+- Bed 4: Roots -> Legumes -> Brassicas -> Solanaceae -> repeat.
 
 ---
 
@@ -67,7 +67,7 @@ Legume roots host Rhizobium bacteria in nodules. Bacteria convert atmospheric N2
 
 ## Disease and Pest Break
 
-Rotation removes the host plant — pest and disease populations crash without food.
+Rotation removes the host plant  -  pest and disease populations crash without food.
 
 **Minimum rotation**: 3 years between same family in same bed.
 **Exceptions requiring longer rotation**:
@@ -93,7 +93,7 @@ Grow between cash crops to never leave soil bare.
 - Mustard, daikon radish (suppresses soil pathogens).
 
 **Protocol**:
-1. Plant immediately after harvest — do not leave soil bare.
+1. Plant immediately after harvest  -  do not leave soil bare.
 2. Grow 6-12 weeks or overwinter.
 3. Terminate before flowering (seeds become weeds).
 4. Mow and leave as mulch, or till in (green manure).
@@ -112,7 +112,7 @@ Grow between cash crops to never leave soil bare.
 - Nasturtium: trap crop for aphids (sacrificial plant).
 - Garlic and onions: general pest deterrent.
 
-Integrate companions within the rotation — they change with each family each year.
+Integrate companions within the rotation  -  they change with each family each year.
 
 ---
 
@@ -122,7 +122,7 @@ Integrate companions within the rotation — they change with each family each y
 - Tomatoes followed by potatoes (same family): separate nightshades by 3+ years.
 - Bare soil between crops: plant cover crop immediately after harvest.
 - Tilling in mature woody cover crop: terminate before flowering (tender).
-- No garden records: keep a map and log — you will forget what grew where.
+- No garden records: keep a map and log  -  you will forget what grew where.
 - Rotating individual crops, not families: rotate the whole family together.
 
 ---

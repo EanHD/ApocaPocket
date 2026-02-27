@@ -19,8 +19,8 @@ steps:
 - 'Build simple antennas: dipole for HF, ground-plane for VHF.'
 - 'Maintain equipment: protect from moisture, check connections, conserve batteries.'
 warnings:
-- Radio transmissions reveal your location—use sparingly in hostile situations.
-- Atmospheric conditions affect HF propagation—have backup communication plans.
+- Radio transmissions reveal your location - use sparingly in hostile situations.
+- Atmospheric conditions affect HF propagation - have backup communication plans.
 related_entries:
 - l5-communication-systems-basics
 - l5-comm-encryption-basics
@@ -44,5 +44,5 @@ Operating and maintaining radio equipment for reliable long-distance electronic 
 5. Maintain equipment: protect from moisture, check connections, conserve batteries.
 
 ## Warnings
-- Radio transmissions reveal your location—use sparingly in hostile situations.
-- Atmospheric conditions affect HF propagation—have backup communication plans.
+- Radio transmissions reveal your location - use sparingly in hostile situations.
+- Atmospheric conditions affect HF propagation - have backup communication plans.

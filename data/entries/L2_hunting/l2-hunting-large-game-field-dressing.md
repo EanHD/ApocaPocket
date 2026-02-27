@@ -16,7 +16,8 @@ Field dressing must begin within 30 minutes of kill. In warm weather over 50 deg
 
 ## Why Dress Now
 
-Organs generate 100-105 degrees of internal heat and spoil meat from inside. Intestinal bacteria spread instantly after death. Delayed gutting causes gamey taste, discoloration, and toughness. Removing organs reduces pack weight 20-30%.
+Organs generate 100-105 degrees of internal heat and spoil meat from inside. Intestinal bacteria spread instantly after death. Delayed gutting causes gamey taste, discoloration, and toughness.
+Removing organs reduces pack weight 20-30%.
 
 Timeline:
 - 0-30 min: Optimal.

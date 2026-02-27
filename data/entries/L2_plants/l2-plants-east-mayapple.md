@@ -37,7 +37,7 @@ audit_status: verified
 - Small green fruit under leaf canopy
 - Ripe fruit: yellow-green, soft, August
 
-## TOXIC PARTS — CRITICAL
+## TOXIC PARTS  -  CRITICAL
 
 - Roots: HIGHLY TOXIC (podophyllotoxin)
 - Leaves: TOXIC
@@ -74,7 +74,7 @@ audit_status: verified
 - Risk-reward: very poor for emergency use
 - Better to find safer alternatives nearby
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes for mayapple itself
 - Unique umbrella leaf form

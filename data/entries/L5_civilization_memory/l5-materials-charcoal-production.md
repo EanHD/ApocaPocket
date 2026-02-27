@@ -6,11 +6,11 @@ category: L5_civilization_memory
 
 # Charcoal Production
 
-Without charcoal, you cannot smelt iron, forge steel, cast bronze, or make glass. Wood fires max at 1800°F. Charcoal reaches 2700°F with forced air. No charcoal = no Iron Age.
+Without charcoal, you cannot smelt iron, forge steel, cast bronze, or make glass. Wood fires max at 1800 degF. Charcoal reaches 2700 degF with forced air. No charcoal = no Iron Age.
 
 Temperature comparison:
-- Wood fire (open flame): 1100-1800°F
-- Charcoal fire (with air blast): 2000-2700°F
+- Wood fire (open flame): 1100-1800 degF
+- Charcoal fire (with air blast): 2000-2700 degF
 
 ## What Is Charcoal
 
@@ -37,7 +37,7 @@ Avoid softwoods (pine, spruce, fir): High resin, lower yield (15-20%), more spar
 
 Preparation: Split logs 3-6 inches diameter. Air-dry 6-12 months. Wet wood wastes energy and lowers yield.
 
-Conversion ratio: 4 lbs wood → 1 lb charcoal (typical).
+Conversion ratio: 4 lbs wood -> 1 lb charcoal (typical).
 
 ## Earth Pit Kiln
 
@@ -58,11 +58,11 @@ Fire and cover:
 - Leave small vents initially.
 
 Monitor smoke:
-- White/gray smoke: Water and volatiles escaping — normal early phase.
-- Thin blue smoke: Charcoal forming — good sign.
-- Yellow flames: Too much oxygen — seal vents tighter.
+- White/gray smoke: Water and volatiles escaping  -  normal early phase.
+- Thin blue smoke: Charcoal forming  -  good sign.
+- Yellow flames: Too much oxygen  -  seal vents tighter.
 
-Cook time: 12-24 hours. Cool time: 24-48 hours. Do NOT uncover early — charcoal burns to ash.
+Cook time: 12-24 hours. Cool time: 24-48 hours. Do NOT uncover early  -  charcoal burns to ash.
 
 ## Drum Kiln
 

@@ -20,7 +20,7 @@ Safe water use when authorities issue a boil water advisory.
 - Making ice.
 - Brushing teeth.
 - Pets and livestock.
-- Baby formula — critical.
+- Baby formula  -  critical.
 
 ## How to Boil
 - Bring to a rolling boil (large bubbles throughout).
@@ -30,12 +30,12 @@ Safe water use when authorities issue a boil water advisory.
 
 ## Do NOT Use Tap For
 - Baby formula or infant food.
-- Coffee makers and ice machines — they don't boil.
+- Coffee makers and ice machines  -  they don't boil.
 - Any automatic appliance that uses tap water.
 
 ## Bathing Rules
 - Adults: tap water for bathing is OK.
-- Do not swallow — keep mouth closed.
+- Do not swallow  -  keep mouth closed.
 - Infants and toddlers: use bottled or boiled water.
 - Open wounds: use boiled or bottled water only.
 

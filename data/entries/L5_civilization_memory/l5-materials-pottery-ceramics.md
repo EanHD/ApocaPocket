@@ -30,7 +30,7 @@ Cleaning: Break clay into fist-sized chunks. Remove rocks and roots. Soak in wat
 
 Sieving: Stir, let heavy particles settle 2-4 hours. Pour off top layer of fine clay. Strain through cloth. Let water evaporate until workable.
 
-Wedging (critical — removes air bubbles that explode in kiln):
+Wedging (critical  -  removes air bubbles that explode in kiln):
 - Cut clay mass in half with wire.
 - Slam one half onto the other.
 - Knead like bread: press, fold, rotate.
@@ -76,35 +76,35 @@ Pit kiln (easiest):
 - Dig pit 2-3 feet deep, 3 feet wide.
 - Build fire, let burn to coals.
 - Set pottery on bed of ash. Cover with broken shards then 6 inches of dirt.
-- Burn 4-8 hours at 1000-1400°F.
+- Burn 4-8 hours at 1000-1400 degF.
 - Do not open for 24 hours.
 
 Updraft kiln (better control):
 - Build from clay bricks or stone with clay mortar.
 - Firebox at bottom, pottery shelf in middle, chimney at top.
 - Dimensions: 3-4 feet tall, 2-3 feet wide, 6-8 inch walls.
-- Fires earthenware at 1000-1650°F, stoneware at 1800-2300°F.
+- Fires earthenware at 1000-1650 degF, stoneware at 1800-2300 degF.
 
 ## Firing
 
-Heat gradually. First 2 hours are critical — steam must escape slowly or pieces explode.
+Heat gradually. First 2 hours are critical  -  steam must escape slowly or pieces explode.
 
 Temperature indicators without pyrometer:
-- 1000°F: Dull red glow visible in darkness.
-- 1400°F: Cherry red visible in dim light.
-- 1800°F: Bright orange.
-- 2000°F: Yellow-orange.
-- 2300°F: Yellow-white.
+- 1000 degF: Dull red glow visible in darkness.
+- 1400 degF: Cherry red visible in dim light.
+- 1800 degF: Bright orange.
+- 2000 degF: Yellow-orange.
+- 2300 degF: Yellow-white.
 
 Bisque firing:
-- 1000-1650°F for 6-12 hours.
+- 1000-1650 degF for 6-12 hours.
 - Load bone-dry pottery. Do not pack tightly.
-- Increase temperature 200°F per hour.
+- Increase temperature 200 degF per hour.
 - Cool naturally 12-24 hours. Do not open early.
 
 ## Glazing
 
-Wood ash glaze (easiest): 80% hardwood ash plus 20% clay. Add water to cream consistency. Fires at 2000-2300°F.
+Wood ash glaze (easiest): 80% hardwood ash plus 20% clay. Add water to cream consistency. Fires at 2000-2300 degF.
 
 Basic mineral glaze formula:
 - Silica: 40-50%.
@@ -112,11 +112,11 @@ Basic mineral glaze formula:
 - Limestone: 10-15%.
 - Clay: 10-15%.
 
-Application: Apply 2-3 coats by dipping or brushing. Target 1/16 inch thickness. Wipe base completely clean — glazed base sticks to kiln shelf.
+Application: Apply 2-3 coats by dipping or brushing. Target 1/16 inch thickness. Wipe base completely clean  -  glazed base sticks to kiln shelf.
 
 ## Safety
 
-Kiln hazard: Temperatures reach 1000-2300°F. Wear leather gloves and long sleeves. Never look directly into hot kiln. CO risk in enclosed spaces — ventilate.
+Kiln hazard: Temperatures reach 1000-2300 degF. Wear leather gloves and long sleeves. Never look directly into hot kiln. CO risk in enclosed spaces  -  ventilate.
 
 Silica dust: Keep clay wet when working. Wear dust mask when sanding dry pottery. Clean with wet mop, never sweep dry clay dust. Dry silica causes silicosis.
 

@@ -8,7 +8,7 @@ category: L1_immediate_survival
 
 ## Why Music Matters
 
-- Every human culture makes music — biological imperative, not coincidence
+- Every human culture makes music  -  biological imperative, not coincidence
 - Music reduces anxiety 65% (British Journal of Psychiatry, 2013)
 - Group singing releases oxytocin equal to physical touch
 - PTSD symptoms reduced 43% with music therapy (Journal of Traumatic Stress, 2015)
@@ -60,7 +60,7 @@ category: L1_immediate_survival
 
 ## Group Music
 
-**Singing circles:** sit in circle; leader starts simple phrase; others join in unison or harmony; repeat until meditative — no instruments needed
+**Singing circles:** sit in circle; leader starts simple phrase; others join in unison or harmony; repeat until meditative  -  no instruments needed
 
 **Drumming circles:** start simple 4/4 beat; layer complexity; 20+ min sustained rhythm induces theta state
 

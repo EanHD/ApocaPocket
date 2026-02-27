@@ -14,11 +14,11 @@ tags:
 - ICS
 region_relevance:
 - global
-summary: "Standardized emergency communication protocols ensure clear, efficient message exchange during crises. Covers NATO phonetic alphabet (pronunciation guide), brevity codes (10-codes, Q-codes, prowords), distress signals (MAYDAY, PAN-PAN, SÉCURITÉ urgency levels), radio discipline (clear speech, brevity, listening protocols), net control operations (check-ins, message traffic, priority handling), and integration with ARES/RACES amateur radio emergency services and ICS (Incident Command System)."
+summary: "Standardized emergency communication protocols ensure clear, efficient message exchange during crises. Covers NATO phonetic alphabet (pronunciation guide), brevity codes (10-codes, Q-codes, prowords), distress signals (MAYDAY, PAN-PAN, SCURIT urgency levels), radio discipline (clear speech, brevity, listening protocols), net control operations (check-ins, message traffic, priority handling), and integration with ARES/RACES amateur radio emergency services and ICS (Incident Command System)."
 steps:
 - "Learn and practice NATO phonetic alphabet for spelling names, locations, callsigns without ambiguity (Alpha, Bravo, Charlie...)"
 - "Memorize essential brevity codes: 10-4 (acknowledged), 10-20 (location), 10-33 (emergency traffic), Q-codes for ham radio"
-- "Understand distress signal hierarchy: MAYDAY (life-threatening), PAN-PAN (urgent non-life-threatening), SÉCURITÉ (safety information)"
+- "Understand distress signal hierarchy: MAYDAY (life-threatening), PAN-PAN (urgent non-life-threatening), SCURIT (safety information)"
 - "Practice radio discipline: Listen before transmitting, speak clearly and slowly, use brevity, avoid unnecessary transmissions"
 - "Participate in practice nets weekly: Learn net control procedures, check-in protocols, message handling (preamble, text, signature)"
 - "Complete ICS training (ICS-100, ICS-200, ICS-700) for integration with formal emergency management (FEMA free online courses)"

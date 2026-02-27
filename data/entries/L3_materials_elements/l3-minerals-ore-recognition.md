@@ -25,9 +25,9 @@ steps:
   gravity.'
 - 'Use streak test on unglazed porcelain: hematite streaks red-brown, magnetite streaks
   black.'
-- Test magnetism with any iron/steel object—magnetite is strongly magnetic.
+- Test magnetism with any iron/steel object - magnetite is strongly magnetic.
 warnings:
-- Some ore minerals contain toxic elements (arsenic, lead)—wash hands after handling.
+- Some ore minerals contain toxic elements (arsenic, lead) - wash hands after handling.
 - Mining and smelting operations require proper ventilation.
 related_entries:
 - l3-minerals-hardness-and-streak
@@ -50,8 +50,8 @@ Field indicators for identifying iron, copper, and tin ore deposits without labo
 3. Copper: green/blue staining (malachite, azurite) on rock surfaces indicates copper mineralization.
 4. Tin (cassiterite): heavy black/brown crystals in stream gravels, very high specific gravity.
 5. Use streak test on unglazed porcelain: hematite streaks red-brown, magnetite streaks black.
-6. Test magnetism with any iron/steel object—magnetite is strongly magnetic.
+6. Test magnetism with any iron/steel object - magnetite is strongly magnetic.
 
 ## Warnings
-- Some ore minerals contain toxic elements (arsenic, lead)—wash hands after handling.
+- Some ore minerals contain toxic elements (arsenic, lead) - wash hands after handling.
 - Mining and smelting operations require proper ventilation.

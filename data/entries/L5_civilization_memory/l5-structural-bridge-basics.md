@@ -20,7 +20,7 @@ steps:
 - Select bridge type based on span, materials available, and load requirements.
 - Always include safety railings, approach grading, and drainage.
 warnings:
-- Dynamic loads (marching, wind) can cause resonance—break step on bridges.
+- Dynamic loads (marching, wind) can cause resonance - break step on bridges.
 - Abutments must be anchored in solid ground or rock.
 related_entries:
 - l5-structural-load-paths
@@ -46,5 +46,5 @@ Fundamental bridge types, their load-carrying principles, and when to use each.
 5. Always include safety railings, approach grading, and drainage.
 
 ## Warnings
-- Dynamic loads (marching, wind) can cause resonance—break step on bridges.
+- Dynamic loads (marching, wind) can cause resonance - break step on bridges.
 - Abutments must be anchored in solid ground or rock.

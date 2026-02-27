@@ -19,7 +19,7 @@ steps:
 - Adjust pace count for slope (uphill = shorter paces) and terrain (brush = more paces).
 - Cross-check position with terrain features whenever possible.
 warnings:
-- Errors accumulate with distance—verify position frequently.
+- Errors accumulate with distance - verify position frequently.
 - Detours around obstacles must be carefully tracked to avoid drift.
 related_entries:
 - l5-map-reading-basics
@@ -44,5 +44,5 @@ Navigating by tracking direction and distance traveled from a known starting poi
 5. Cross-check position with terrain features whenever possible.
 
 ## Warnings
-- Errors accumulate with distance—verify position frequently.
+- Errors accumulate with distance - verify position frequently.
 - Detours around obstacles must be carefully tracked to avoid drift.

@@ -38,22 +38,22 @@ steps:
 - You lose 1 liter per hour sweating
   in extreme desert heat
 - 1 gallon minimum per day when active
-- DO NOT ration water — drink when thirsty
+- DO NOT ration water  -  drink when thirsty
   Body needs water to cool itself
 - Dark urine = danger zone already
 
 ## Heat Management
-- Rest from 10am to 4pm — find shade
+- Rest from 10am to 4pm  -  find shade
 - Travel dawn, dusk, or night only
 - Shade: rock overhang, tarp, dig trench
   and cover with branches or tarp
-- Deserts drop 40-50F at night —
+- Deserts drop 40-50F at night  - 
   prepare for cold too
 
 ## Clothing Strategy
 - Cover ALL skin (sun + sweat reduction)
 - Light-colored loose clothing
-- Head covering — 40% heat loss from head
+- Head covering  -  40% heat loss from head
 - Do NOT strip off clothing in heat
   (exposed skin burns and dehydrates faster)
 
@@ -63,14 +63,14 @@ steps:
   bend where water pooled last
 - Morning dew on rocks/plants
 - Barrel cactus (emergency source)
-- Do not follow animals at night —
+- Do not follow animals at night  - 
   they know water but travel far
 
 ## Desert Hazards
-- Snakes and scorpions hide in shade —
+- Snakes and scorpions hide in shade  - 
   shake out boots before putting on,
   check before sitting on rocks/logs
-- Flash floods in washes — move
+- Flash floods in washes  -  move
   to high ground if rain visible anywhere
 - Quicksand near dry lake beds (rare)
 
@@ -78,4 +78,4 @@ steps:
 - Open terrain = high visibility
 - Use mirror (day), fire (night)
 - Bright colored material on high ground
-- Stay visible — don't hide in vegetation
+- Stay visible  -  don't hide in vegetation

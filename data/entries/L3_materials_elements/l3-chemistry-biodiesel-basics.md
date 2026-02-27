@@ -23,13 +23,13 @@ summary: Transesterification converts vegetable oil into biodiesel that runs in 
 warnings:
 - Methanol is toxic and flammable
 - Lye causes severe chemical burns
-- Biodiesel damages rubber — replace rubber fuel lines
+- Biodiesel damages rubber  -  replace rubber fuel lines
 - Glycerin byproduct is useful (soap making) but must be handled properly
 steps:
-- Heat oil to 55°C
+- Heat oil to 55 degC
 - Mix methanol (20% by volume) with lye (0.3-0.5% by weight)
 - Combine and stir vigorously for 60 minutes
-- Let settle 8-12 hours — glycerin sinks, biodiesel floats
+- Let settle 8-12 hours  -  glycerin sinks, biodiesel floats
 - Drain glycerin from bottom
 - Wash biodiesel with water to remove residual impurities
 - Dry and filter

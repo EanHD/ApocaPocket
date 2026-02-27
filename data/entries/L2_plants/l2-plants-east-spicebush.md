@@ -71,7 +71,7 @@ audit_status: verified
 - Antimicrobial compounds in bark oils
 - Traditional medicinal: fever, body ache
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes in eastern US
 - Spicy smell from any crushed part = definitive

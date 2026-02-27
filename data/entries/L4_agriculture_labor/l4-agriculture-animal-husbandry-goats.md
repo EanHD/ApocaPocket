@@ -33,9 +33,9 @@ category: L4_agriculture_labor
 
 - 15 sq ft per goat indoor minimum. Three-sided structure acceptable. Dry bedding.
 - Ventilation critical. No drafts at goat level. Poor airflow causes respiratory disease.
-- Separate kidding pen: 10×10 ft, quiet and clean, available at kidding time.
+- Separate kidding pen: 10x10 ft, quiet and clean, available at kidding time.
 
-**Fencing — goats escape, this is non-negotiable**
+**Fencing  -  goats escape, this is non-negotiable**
 - Woven wire 4-5 ft high. Small mesh openings. Bury 6" or add ground apron.
 - Add electric wire on top to stop jumping and climbing.
 - Electric fence works if goats are trained to respect it from a young age.
@@ -48,13 +48,13 @@ category: L4_agriculture_labor
 - Hay: 2-4 lbs/day. Alfalfa for dairy does. Grass hay for meat/maintenance animals.
 - Grain: Only for lactating does, last 2 months of pregnancy, and growing kids.
 - Amount: 1/2 to 1 lb grain per 100 lbs body weight when actively milking.
-- Minerals: Loose goat-specific minerals free-choice. Do NOT use sheep minerals — blocks copper and is toxic to goats.
+- Minerals: Loose goat-specific minerals free-choice. Do NOT use sheep minerals  -  blocks copper and is toxic to goats.
 - Baking soda free-choice: Prevents bloat. Always available.
 - Water: 2-4 gallons/day per goat. They refuse dirty water. Heated in winter.
 
 ## Milk Production
 
-- Cycle: Breed in fall → kid in spring → milk 10 months → 2-month dry period → repeat.
+- Cycle: Breed in fall -> kid in spring -> milk 10 months -> 2-month dry period -> repeat.
 - Peak production: 1.5-2 gal/day at 6-8 weeks post-kidding.
 - Milk 2x daily exactly 12 hours apart. Consistency is essential for production.
 - Strain immediately after milking. Chill within 30 minutes. Prevents "goaty" flavor from bacteria.

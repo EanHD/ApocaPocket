@@ -42,9 +42,9 @@ Mild-flavored cool-season green found worldwide in disturbed soils. Excellent ra
 ## Step-by-step
 1. Identify by small opposite leaves, single line of hairs along stem (alternating sides), tiny white star-shaped flowers with deeply cleft petals.
 2. Harvest above-ground portions; snip with scissors.
-3. Best eaten raw — mild, slightly sweet.
+3. Best eaten raw  -  mild, slightly sweet.
 4. Cooks down significantly; add at end of cooking.
 
 ## Warnings
-- Spurge (Euphorbia) can be confused — check for milky sap (chickweed has clear sap).
+- Spurge (Euphorbia) can be confused  -  check for milky sap (chickweed has clear sap).
 - Mouse-ear chickweed (Cerastium) is also edible but hairy.

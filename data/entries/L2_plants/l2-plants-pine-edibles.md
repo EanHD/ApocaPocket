@@ -71,7 +71,7 @@ audit_status: verified
 - Seeds (pinyon): 673 cal/100g; 14g protein
 - Pollen (spring): edible, protein-rich
 
-## Yew Warning — CRITICAL
+## Yew Warning  -  CRITICAL
 
 - Yew (Taxus): looks somewhat like pine
 - Yew: solitary flat needles NOT bundled

@@ -16,17 +16,17 @@ Actions to take when city power goes out for hours to days.
 - Locate flashlights, candles, and battery supply.
 
 ## Food Safety
-- Keep refrigerator closed — safe for 4 hours.
+- Keep refrigerator closed  -  safe for 4 hours.
 - Freezer safe 48 hours full, 24 hours half-full.
 - Eat refrigerator items first, then freezer.
 - When in doubt, throw it out.
 - Never store food in oven for warmth.
 
 ## Water
-- Fill tubs immediately — pressure may drop.
+- Fill tubs immediately  -  pressure may drop.
 - Store in clean containers with lids.
 - One gallon per person per day minimum.
-- Water heater tank holds 40-80 gallons — usable.
+- Water heater tank holds 40-80 gallons  -  usable.
 
 ## Lighting Safety
 - LED flashlights first choice. Long battery life.
@@ -56,4 +56,4 @@ Actions to take when city power goes out for hours to days.
 - Check appliances for damage before running.
 - Reset GFCI outlets (push button on outlet).
 - Restock water, food, and battery supplies.
-- Check freezer — refreeze only if still has ice crystals.
+- Check freezer  -  refreeze only if still has ice crystals.

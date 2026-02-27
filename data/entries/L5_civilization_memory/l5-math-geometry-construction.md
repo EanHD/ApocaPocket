@@ -19,7 +19,7 @@ steps:
 - Lay out a square foundation by constructing perpendiculars at corners.
 - Create regular polygons (hexagon, octagon) inscribed in circles for structural layouts.
 warnings:
-- Use taut string or rigid straightedge—sagging introduces error.
+- Use taut string or rigid straightedge - sagging introduces error.
 - Mark points clearly; lost reference marks require starting over.
 related_entries:
 - l5-math-foundations
@@ -44,5 +44,5 @@ Compass-and-straightedge methods for laying out perpendicular lines, bisecting a
 5. Create regular polygons (hexagon, octagon) inscribed in circles for structural layouts.
 
 ## Warnings
-- Use taut string or rigid straightedge—sagging introduces error.
+- Use taut string or rigid straightedge - sagging introduces error.
 - Mark points clearly; lost reference marks require starting over.

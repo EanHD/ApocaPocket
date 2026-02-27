@@ -39,16 +39,16 @@ offline_assets: []
 ---
 
 ## Overview
-Shrub/small tree producing clusters of small dark berries. Berries MUST be cooked — raw berries, leaves, bark, and stems contain cyanogenic glycosides.
+Shrub/small tree producing clusters of small dark berries. Berries MUST be cooked  -  raw berries, leaves, bark, and stems contain cyanogenic glycosides.
 
 ## Step-by-step
 1. Identify by compound leaves with 5-7 serrated leaflets, flat-topped white flower clusters, and dark purple-black berry clusters.
 2. Harvest fully ripe dark berries only.
-3. Cook berries before eating — boil into syrup, jam, or wine.
+3. Cook berries before eating  -  boil into syrup, jam, or wine.
 4. Flowers can be used raw for tea or fritters (elderflower).
 
 ## Warnings
 - RAW berries cause nausea, vomiting, diarrhea.
 - Leaves, bark, stems, roots, and unripe berries are TOXIC.
-- Water elderberry (Sambucus racemosa — red berries) is more toxic.
-- Pokeweed berry clusters look similar — check leaf shape (simple vs compound).
+- Water elderberry (Sambucus racemosa  -  red berries) is more toxic.
+- Pokeweed berry clusters look similar  -  check leaf shape (simple vs compound).

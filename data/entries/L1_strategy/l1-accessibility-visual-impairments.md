@@ -29,7 +29,7 @@ Never remove marks without telling the person first.
 During fast-moving emergencies:
 - Announce yourself first: "It's [name], I'm with you."
 - One direction at a time: "Take 3 steps forward now."
-- Do not grab — offer your arm and let them take it.
+- Do not grab  -  offer your arm and let them take it.
 - Keep verbal contact constant while moving.
 - If you must leave: say where you're going and when you'll return.
 - Place their hand on a fixed anchor: rope, wall, or post.

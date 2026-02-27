@@ -1,6 +1,6 @@
 ---
 id: l3-metalwork-blacksmith-basics
-title: Blacksmithing Basics —
+title: Blacksmithing Basics  - 
 category: L3_materials_chemistry
 subtopic: materials
 tags:

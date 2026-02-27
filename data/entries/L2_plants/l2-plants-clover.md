@@ -42,7 +42,7 @@ Extremely common legume; flowers and young leaves are edible raw or cooked. Drie
 1. Identify by trifoliate leaves with light chevron markings and round flower heads (white or red).
 2. Eat young leaves raw in salads or cooked.
 3. Dry flower heads for tea (steep 10-15 minutes).
-4. Avoid large quantities raw — contains isoflavones and can cause bloating.
+4. Avoid large quantities raw  -  contains isoflavones and can cause bloating.
 
 ## Warnings
 - Large quantities may cause digestive discomfort.

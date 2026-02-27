@@ -72,7 +72,7 @@ audit_status: verified
 - Major Plains carbohydrate source
 - Dried flour lasts a year or more
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Locoweed (Astragalus): similar pea flowers
 - Locoweed: narrow linear leaflets, not palmate

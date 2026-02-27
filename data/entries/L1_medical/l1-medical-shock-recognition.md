@@ -54,20 +54,20 @@ offline_assets:
 - Confusion, restlessness, or decreasing responsiveness
 - Capillary refill over 2 seconds (press nail 5 sec, time return to pink)
 - No radial pulse = systolic BP below 80 (severe shock)
-- Earliest sign is anxiety and restlessness — not low blood pressure
+- Earliest sign is anxiety and restlessness  -  not low blood pressure
 
 ## Shock Types
 
-- Hypovolemic: blood or fluid loss — flat neck veins, thirsty, trauma
-- Cardiogenic: heart failure — distended neck veins, cannot lie flat
-- Anaphylactic: allergen exposure — hives, throat swelling, wheezing
-- Septic: severe infection — fever or very low temp, warm flushed skin
-- Neurogenic: spinal injury — warm dry skin, slow or normal heart rate
+- Hypovolemic: blood or fluid loss  -  flat neck veins, thirsty, trauma
+- Cardiogenic: heart failure  -  distended neck veins, cannot lie flat
+- Anaphylactic: allergen exposure  -  hives, throat swelling, wheezing
+- Septic: severe infection  -  fever or very low temp, warm flushed skin
+- Neurogenic: spinal injury  -  warm dry skin, slow or normal heart rate
 
 ## Treatment Priority
 
 - Stop all external bleeding first: tourniquet, packing, direct pressure
-- Anaphylaxis: epinephrine 0.3mg IM to outer thigh — do this first
+- Anaphylaxis: epinephrine 0.3mg IM to outer thigh  -  do this first
 - Hypovolemic shock: lay flat, elevate legs 8-12 inches above heart
 - Cardiogenic shock: sit upright 45-90 degrees, do NOT elevate legs
 - Neurogenic shock: lay flat, maintain neutral spine alignment
@@ -76,23 +76,23 @@ offline_assets:
 ## Fluids
 
 - Give oral fluids ONLY if: conscious, not vomiting, no abdominal injury
-- Small sips — 250mL every 15-20 minutes if tolerated
+- Small sips  -  250mL every 15-20 minutes if tolerated
 - Do NOT give fluids if: unconscious, vomiting, or abdominal trauma
-- Anaphylaxis: give epinephrine first — fluids are secondary
+- Anaphylaxis: give epinephrine first  -  fluids are secondary
 - IV Normal Saline: 1000mL bolus for adults in hypovolemic shock
 
 ## What NOT to Do
 
-- Do NOT wait for low blood pressure — it is a late sign of shock
+- Do NOT wait for low blood pressure  -  it is a late sign of shock
 - Do NOT elevate legs in cardiogenic, spinal, or head injury
 - Do NOT give fluids to an unconscious patient
-- Do NOT assume stable — shock can deteriorate suddenly and rapidly
+- Do NOT assume stable  -  shock can deteriorate suddenly and rapidly
 - Do NOT skip treating the underlying cause (bleeding, allergy, etc.)
 
 ## Monitor / Evacuate
 
-- All shock requires hospital care — field treatment buys time only
+- All shock requires hospital care  -  field treatment buys time only
 - Check mental status, pulse, and skin every 5-15 minutes
-- Document and track trend — improving or worsening
+- Document and track trend  -  improving or worsening
 - Internal bleeding: no visible blood but significant mechanism present
-- Children compensate longer — by the time signs appear, state is critical
+- Children compensate longer  -  by the time signs appear, state is critical

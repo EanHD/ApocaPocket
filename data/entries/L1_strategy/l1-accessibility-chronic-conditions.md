@@ -16,17 +16,17 @@ category: L1_immediate_survival
 
 ## Diabetes Crisis Signs
 
-Low blood sugar — ACT FAST:
+Low blood sugar  -  ACT FAST:
 - Shaking, sweating, confusion, pale skin
 - Give sugar NOW: juice, candy, honey (only if conscious)
 - Unconscious: do NOT give food or fluids. Seek help immediately.
-High blood sugar — slower but dangerous:
+High blood sugar  -  slower but dangerous:
 - Extreme thirst, frequent urination, fruity breath, confusion
 - Give water. Give insulin if available. Evacuate.
 
 ## Cardiac Crisis Signs
 
-Possible heart attack — evacuate immediately:
+Possible heart attack  -  evacuate immediately:
 - Chest pressure or pain, arm or jaw pain
 - Shortness of breath, sweating, nausea, sense of doom
 - Give aspirin 325 mg (chew, do not swallow whole) if not allergic
@@ -35,11 +35,11 @@ Possible heart attack — evacuate immediately:
 
 ## Asthma Crisis Signs
 
-Mild: coughing, wheeze, tight chest — use rescue inhaler now.
+Mild: coughing, wheeze, tight chest  -  use rescue inhaler now.
 Severe: cannot speak in full sentences, lips or nails blue.
 - Silent chest (no wheeze) = airways nearly closed. Evacuate NOW.
 - Sit upright, lean slightly forward
-- Stay calm — panic worsens the attack
+- Stay calm  -  panic worsens the attack
 
 ## Evacuation Priority
 
@@ -57,4 +57,4 @@ One laminated card per person:
 - Allergies (drug and food)
 - Last emergency episode and what helped
 - Blood type and physician contact
-Keep the card ON the person — pocket or wristband.
+Keep the card ON the person  -  pocket or wristband.

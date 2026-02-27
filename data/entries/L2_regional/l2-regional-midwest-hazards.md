@@ -10,7 +10,7 @@ Region: ND SD NE KS MN IA MO WI IL IN OH MI
 
 ## Seasonal Risks
 
-Dec-Feb: blizzards, extreme cold, ice storms. Wind chill to -50°F in Dakotas and Minnesota.
+Dec-Feb: blizzards, extreme cold, ice storms. Wind chill to -50 degF in Dakotas and Minnesota.
 Mar-May: tornado season peak (Tornado Alley). Spring flooding from snowmelt plus rain.
 Jun-Aug: heat waves, severe storm season, second tornado peak, drought.
 Sep-Nov: early blizzards possible. Flooding continues. Harvest season farm hazards.
@@ -36,16 +36,16 @@ Never drink untreated surface water after any flooding event in agricultural reg
 ## Winter Storms
 
 Blizzard: 35+ mph winds plus blowing snow plus near-zero visibility. Do not drive under blizzard warning.
-Wind chill at -30°F: exposed skin freezes in 10 minutes. Stay indoors and monitor frostbite risk.
+Wind chill at -30 degF: exposed skin freezes in 10 minutes. Stay indoors and monitor frostbite risk.
 Ice storms: 0.5 inch or more of ice accumulation drops power lines. Roads impassable 24-72 hours.
 Shelter-in-place kit: 72 hours minimum of water, food, heat source, carbon monoxide detector.
 Vehicle kit: sleeping bag, candles, emergency food, water. Blizzard stranding is a survival situation.
 
 ## Heat Waves
 
-Midwest summer heat: 90-100°F with high relative humidity creates dangerous heat index.
+Midwest summer heat: 90-100 degF with high relative humidity creates dangerous heat index.
 Corn belt effect: corn transpiration increases local humidity 10-15% above regional average.
-Heat index above 103°F: limit all outdoor exertion. Work in 20-minute intervals with shade breaks.
+Heat index above 103 degF: limit all outdoor exertion. Work in 20-minute intervals with shade breaks.
 High-risk groups: elderly, children, outdoor workers, anyone without air conditioning.
 Cooling centers: libraries, malls, community centers. Locate the nearest one before any heat event.
 

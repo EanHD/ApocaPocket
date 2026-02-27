@@ -1,6 +1,6 @@
 ---
 id: l3-materials-wood-properties-guide
-title: Wood Properties —
+title: Wood Properties  - 
 category: L3_materials_chemistry
 subtopic: materials
 tags:

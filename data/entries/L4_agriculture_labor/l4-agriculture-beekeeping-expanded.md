@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-beekeeping-expanded
-title: Beekeeping Expanded —
+title: Beekeeping Expanded  - 
 category: L4_agriculture_labor
 subtopic: agriculture
 tags:

@@ -65,7 +65,7 @@ audit_status: verified
 - Vitamins A, C, K in large amounts
 - Calcium higher than most wild greens
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Dead nettle (Lamium): no sting, square stem
 - Wood nettle (Laportea): similar sting

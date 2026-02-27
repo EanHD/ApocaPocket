@@ -19,10 +19,10 @@ steps:
 - Pat dry with clean cloth and apply sterile dressing.
 - Monitor for signs of infection over following days.
 warnings:
-- Do not use hydrogen peroxide or alcohol directly in deep wounds — causes tissue
+- Do not use hydrogen peroxide or alcohol directly in deep wounds  -  causes tissue
   damage.
-- Do not remove deeply embedded objects — stabilize in place and seek advanced care.
-- Puncture wounds and animal bites carry high infection risk — monitor closely.
+- Do not remove deeply embedded objects  -  stabilize in place and seek advanced care.
+- Puncture wounds and animal bites carry high infection risk  -  monitor closely.
 related_entries:
 - l1-medical-infection-prevention
 - l1-medical-severe-bleeding
@@ -47,6 +47,6 @@ Proper wound irrigation and cleaning techniques to prevent infection in field co
 6. Monitor for signs of infection over following days.
 
 ## Warnings
-- Do not use hydrogen peroxide or alcohol directly in deep wounds — causes tissue damage.
-- Do not remove deeply embedded objects — stabilize in place and seek advanced care.
-- Puncture wounds and animal bites carry high infection risk — monitor closely.
+- Do not use hydrogen peroxide or alcohol directly in deep wounds  -  causes tissue damage.
+- Do not remove deeply embedded objects  -  stabilize in place and seek advanced care.
+- Puncture wounds and animal bites carry high infection risk  -  monitor closely.

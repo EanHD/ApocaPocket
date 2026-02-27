@@ -10,7 +10,7 @@ category: L1_immediate_survival
 Keep charge between 20-80% for maximum lifespan.
 - Do not hold at 100% for extended periods
 - Do not drain below 10%
-- Charge in shade or cool air — heat degrades cells
+- Charge in shade or cool air  -  heat degrades cells
 - Before long-term storage: charge to 50%
 - Expected field lifespan: 3-5 years
 
@@ -40,7 +40,7 @@ Keep charge between 20-80% for maximum lifespan.
 ## Troubleshooting
 
 Won't boot: hold power 10 sec, release, hold again to restart.
-- No response: charge 30 min first — dead battery will not boot.
+- No response: charge 30 min first  -  dead battery will not boot.
 Display blank (device on): adjust brightness in Settings > Display.
 - Horizontal lines or cracks: hardware damage, not field-repairable.
 SD not reading: remove card, wipe contacts with dry cloth, reinsert.

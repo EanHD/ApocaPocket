@@ -71,7 +71,7 @@ audit_status: verified
 - High water content for mild hydration
 - Best eaten in volume for real nutrition
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Spurge nearby: always check for milky sap

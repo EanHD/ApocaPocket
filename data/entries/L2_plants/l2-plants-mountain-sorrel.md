@@ -72,7 +72,7 @@ audit_status: verified
 - ~30 cal per 100g
 - Priority plant in alpine scurvy prevention
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes in alpine zone
 - Sour taste is definitive field test

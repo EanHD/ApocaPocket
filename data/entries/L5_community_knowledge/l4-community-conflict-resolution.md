@@ -18,7 +18,7 @@ More communities collapse from infighting than from resource scarcity. Address c
 
 - Document rules before conflict starts: resource allocation, decision authority, dispute process, consequences.
 - Fair process matters more than fair outcomes. People accept bad results if the process was fair.
-- Address at first sign. Path: Discomfort → Annoyance → Frustration → Anger → Rage → Violence. Intervene early.
+- Address at first sign. Path: Discomfort -> Annoyance -> Frustration -> Anger -> Rage -> Violence. Intervene early.
 - Weekly community meetings. Anonymous suggestion box. Culture of "no surprises."
 - If someone mentions an issue twice, it is real. Do not dismiss it.
 
@@ -66,11 +66,11 @@ Does not work for: Serious violence, sexual assault, repeated violations.
 
 ## Warning Signs
 
-- Cliques forming, silent treatment, passive aggression → Facilitate within 2 days.
-- Gossip spreading, resource hoarding → Mediate within 24 hours.
-- Verbal threats made → Immediate mediation plus safety plan within 4 hours.
-- Physical altercation → Separate, then arbitration immediately.
-- Weapon involved → Separation or expulsion. No delay.
+- Cliques forming, silent treatment, passive aggression -> Facilitate within 2 days.
+- Gossip spreading, resource hoarding -> Mediate within 24 hours.
+- Verbal threats made -> Immediate mediation plus safety plan within 4 hours.
+- Physical altercation -> Separate, then arbitration immediately.
+- Weapon involved -> Separation or expulsion. No delay.
 
 ## Build Relations First
 

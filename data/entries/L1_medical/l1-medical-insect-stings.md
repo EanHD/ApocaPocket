@@ -35,10 +35,10 @@ tags:
 - tick
 title: Insect Stings and Bites
 warnings:
-- Watch for anaphylaxis signs with ANY sting — can occur even without prior reaction
+- Watch for anaphylaxis signs with ANY sting  -  can occur even without prior reaction
   history.
 - Black widow and brown recluse spider bites require medical attention.
-- Tick bites can transmit Lyme disease and other infections — save tick for identification.
+- Tick bites can transmit Lyme disease and other infections  -  save tick for identification.
 - Multiple stings can cause systemic toxicity even without allergy.
 ---
 
@@ -54,7 +54,7 @@ Managing dangerous insect stings and bites including bees, spiders, scorpions, a
 6. Administer antihistamine for local reactions; epinephrine for anaphylaxis.
 
 ## Warnings
-- Watch for anaphylaxis signs with ANY sting — can occur even without prior reaction history.
+- Watch for anaphylaxis signs with ANY sting  -  can occur even without prior reaction history.
 - Black widow and brown recluse spider bites require medical attention.
-- Tick bites can transmit Lyme disease and other infections — save tick for identification.
+- Tick bites can transmit Lyme disease and other infections  -  save tick for identification.
 - Multiple stings can cause systemic toxicity even without allergy.

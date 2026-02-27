@@ -43,14 +43,14 @@ audit_status: verified
 - Fall/Winter: roots (most bitter but starchy)
 - Year-round: roots, though quality varies
 
-## Leaves — Greens Use
+## Leaves  -  Greens Use
 
 - Young: mild enough to eat raw
 - Mature: bitter but nutritious; boil 5 min
 - Change boiling water once to reduce bitterness
 - Use in soups for nutrition boost
 
-## Flowers — Direct Use
+## Flowers  -  Direct Use
 
 - Eat raw petals; pull from green base
 - Batter and fry (camp luxury)

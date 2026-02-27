@@ -16,7 +16,7 @@ overview: true
 - Stop moving immediately; panic leads to deeper disorientation
 - Breathe; scan for landmarks, water, sound of roads or aircraft
 - Blow whistle (3 blasts = distress); if no whistle, use voice or mirror
-- Stay put if rescuers know your last location — movement hides you
+- Stay put if rescuers know your last location  -  movement hides you
 - If you must move, follow water downhill toward civilization
 
 ## Biome Risks Compared:

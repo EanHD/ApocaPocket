@@ -22,7 +22,7 @@ steps:
 - Apply cold water to entire body, especially head, neck, armpits, groin.
 - Create airflow with fanning to maximize evaporative cooling.
 - Apply ice packs (wrapped) to neck, armpits, groin if available.
-- Monitor temperature every 5-10 minutes - target 38.5-39°C (101-102°F).
+- Monitor temperature every 5-10 minutes - target 38.5-39 degC (101-102 degF).
 - For heat exhaustion - give oral fluids if conscious and able to swallow.
 - For heat stroke - DO NOT give oral fluids until mental status improves.
 - Prepare for seizures and vomiting - position appropriately.
@@ -31,7 +31,7 @@ warnings:
 - Heat stroke is IMMEDIATE LIFE-THREATENING EMERGENCY - brain damage begins within minutes.
 - Do NOT delay cooling to transport - cool first, transport while continuing cooling.
 - Never give oral fluids to unconscious or altered mental status patients.
-- Overcooling risk - stop active cooling at 38.5-39°C to prevent hypothermia.
+- Overcooling risk - stop active cooling at 38.5-39 degC to prevent hypothermia.
 - Seizures are common in heat stroke - protect head but do not restrain.
 - Children and elderly deteriorate faster - lower threshold for aggressive treatment.
 related_entries:
@@ -55,23 +55,23 @@ diagram: diagrams/heat-stroke-treatment.svg
 
 ## Exhaustion vs Stroke
 
-- EXHAUSTION: mental status NORMAL — STROKE: mental status ALTERED
+- EXHAUSTION: mental status NORMAL  -  STROKE: mental status ALTERED
 - Exhaustion: temp under 40C (104F), sweating, weakness, dizziness
 - Stroke: temp over 40C (104F), confused, combative, or unconscious
 - Ask: What day is it? Where are we? Confused answer = heat stroke
-- Do NOT wait for thermometer — altered mental status = act now
+- Do NOT wait for thermometer  -  altered mental status = act now
 
 ## Cool First: Stroke
 
 - Remove all clothing immediately
-- Cold water immersion: submerge body with head out — most effective
+- Cold water immersion: submerge body with head out  -  most effective
 - Evaporative: wet entire body continuously, fan vigorously
-- Ice packs to: neck, armpits, groin — wrap in cloth, not bare skin
+- Ice packs to: neck, armpits, groin  -  wrap in cloth, not bare skin
 - Target: reduce to 38.5-39C (101-102F), then stop active cooling
-- Cool WHILE transporting — do not delay cooling to move patient
-- Do NOT give Tylenol or ibuprofen — they do not work for heat stroke
+- Cool WHILE transporting  -  do not delay cooling to move patient
+- Do NOT give Tylenol or ibuprofen  -  they do not work for heat stroke
 
-## Fluids — When Safe
+## Fluids  -  When Safe
 
 - Heat exhaustion (alert, not vomiting): 250-500mL cool water now
 - Then 250mL every 15-20 minutes for 1-2 hours total
@@ -81,17 +81,17 @@ diagram: diagrams/heat-stroke-treatment.svg
 
 ## Danger Signs
 
-- Seizures: do NOT restrain — protect head, turn on side if possible
+- Seizures: do NOT restrain  -  protect head, turn on side if possible
 - Vomiting: turn on side, clear airway, continue cooling
 - No pulse or not breathing: start CPR and continue cooling together
 - Not improving after 20-30 minutes of aggressive cooling: urgent evac
-- Temperature can rebound after initial improvement — keep monitoring
+- Temperature can rebound after initial improvement  -  keep monitoring
 
 ## Prevention / High Risk
 
 - High risk: elderly, children, obese, dehydrated, alcohol use
 - Medications that increase risk: diuretics, antihistamines, antipsychotics
-- Drink before thirsty — 250mL every 15-20 minutes during exertion
+- Drink before thirsty  -  250mL every 15-20 minutes during exertion
 - Acclimatize over 7-14 days before heavy work in heat
 - Clear or pale urine = hydrated, dark urine = drink now
 

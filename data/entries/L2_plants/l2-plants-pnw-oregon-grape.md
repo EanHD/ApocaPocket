@@ -22,9 +22,9 @@ audit_status: verified
 summary: Oregon grape (Mahonia aquifolium) is the state flower of Oregon. Blue-purple berries are VERY tart but edible and high in vitamin C. Yellow root contains berberine (antimicrobial compound). Both
   berries and roots have traditional medicinal uses.
 warnings:
-- Berries are extremely sour — difficult to eat raw in quantity
-- Root extract is potent — use sparingly (berberine can cause digestive upset in large doses)
-- Leaves are spiny like holly — wear gloves when harvesting berries
+- Berries are extremely sour  -  difficult to eat raw in quantity
+- Root extract is potent  -  use sparingly (berberine can cause digestive upset in large doses)
+- Leaves are spiny like holly  -  wear gloves when harvesting berries
 - Pregnant women should avoid Oregon grape root (stimulates uterus)
 steps:
 - 'IDENTIFICATION: Evergreen shrub, 2-6 feet tall. LEAVES: holly-like, spiny, compound with 5-9 leaflets, shiny. FLOWERS: bright yellow clusters (spring). BERRIES: blue-purple with white bloom, grape-like
@@ -32,7 +32,7 @@ steps:
 - 'BERRY HARVEST: July-September. Pick when dark blue. Taste: pucker-inducing sour. One plant yields 1-2 cups.'
 - 'BERRY USES: (1) Jelly (requires lots of sugar). (2) Mixed with sweeter berries. (3) Dried and powdered as vitamin C supplement. (4) Wine (traditional).'
 - 'ROOT HARVEST: Dig roots in fall. Yellow inside (berberine). Scrub and dry.'
-- 'ROOT USES: Tea (1 tsp dried root per cup, simmer 10 min) — traditional remedy for digestive issues, infections, skin conditions. CAUTION: Strong antimicrobial but can cause nausea if overused.'
+- 'ROOT USES: Tea (1 tsp dried root per cup, simmer 10 min)  -  traditional remedy for digestive issues, infections, skin conditions. CAUTION: Strong antimicrobial but can cause nausea if overused.'
 - 'NUTRITIONAL/MEDICINAL: Berries high in vitamin C and antioxidants. Root contains berberine (antimicrobial, studied for diabetes and infection).'
 ---
 
@@ -47,9 +47,9 @@ steps:
 
 ## Warnings
 
-- Berries are extremely sour — difficult to eat raw in quantity
-- Root extract is potent — use sparingly (berberine can cause digestive upset in l
-- Leaves are spiny like holly — wear gloves when harvesting berries
+- Berries are extremely sour  -  difficult to eat raw in quantity
+- Root extract is potent  -  use sparingly (berberine can cause digestive upset in l
+- Leaves are spiny like holly  -  wear gloves when harvesting berries
 - Pregnant women should avoid Oregon grape root (stimulates uterus)
 
 ## Identification
@@ -70,7 +70,7 @@ steps:
 
 ## Root Uses
 
-- Tea (1 tsp dried root per cup, simmer 10 min) — traditional remedy for
+- Tea (1 tsp dried root per cup, simmer 10 min)  -  traditional remedy for
 
 ## Nutritional/Medicinal
 

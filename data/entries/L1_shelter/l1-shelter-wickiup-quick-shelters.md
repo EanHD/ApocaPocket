@@ -16,11 +16,11 @@ region_relevance:
 confidence: high
 difficulty: moderate
 time_required: 2-4 hours
-summary: The wickiup is the Goldilocks survival shelter — warmer than a lean-to, faster than a cabin, sleeps 4-6 people. Apache and Paiute tribes used these as semi-permanent homes. A properly built wickiup is warmer than a modern tent and lasts 6-12 months.
+summary: The wickiup is the Goldilocks survival shelter  -  warmer than a lean-to, faster than a cabin, sleeps 4-6 people. Apache and Paiute tribes used these as semi-permanent homes. A properly built wickiup is warmer than a modern tent and lasts 6-12 months.
 warnings:
-- Select green (living) saplings for the frame — dry branches snap under load
-- The dome must be fully covered — any gaps allow heat to escape and rain to enter
-- Test the frame by pushing on it before covering — it should flex, not crack
+- Select green (living) saplings for the frame  -  dry branches snap under load
+- The dome must be fully covered  -  any gaps allow heat to escape and rain to enter
+- Test the frame by pushing on it before covering  -  it should flex, not crack
 related_entries:
 - l1-shelter-primitive-types
 - l1-shelter-natural-materials
@@ -58,7 +58,7 @@ audit_status: verified
   grass bundles, cattails, pine boughs)
 - Lashing: bark strips, paracord, rope
 
-## Step 1 — Frame Dome
+## Step 1  -  Frame Dome
 - Mark a circle 8-12 feet across on ground
 - Plant 20-30 saplings around perimeter,
   12-18 inches apart, 6-12 inches deep
@@ -67,7 +67,7 @@ audit_status: verified
 - Weave 3-5 horizontal hoops for rigidity
 - Leave door opening on southeast side
 
-## Step 2 — Cover It
+## Step 2  -  Cover It
 - Start at ground level, work upward
 - Bark: white side out, overlap 6+ inches
 - Grass bundles: overlap each row by 2/3
@@ -75,7 +75,7 @@ audit_status: verified
 - Lash covering to horizontal hoops
 - Leave 12-18 inch smoke hole at apex
 
-## Step 3 — Interior
+## Step 3  -  Interior
 - Bank 6-12 inches of soil around base
   (blocks ground-level drafts)
 - Interior fire pit: center, ringed with stones
@@ -92,7 +92,7 @@ audit_status: verified
 
 ## Troubleshooting
 - Frame collapses: saplings too thin or dry
-  — use 1.5-2 inch fresh-cut wood, plant 12in
+   -  use 1.5-2 inch fresh-cut wood, plant 12in
 - Smoke fills interior: enlarge smoke hole
   to 18-24 inches, use only dry wood
 - Rain leaks through: add more layers,

@@ -14,7 +14,7 @@ summary: Sine, cosine, and tangent ratios for calculating angles, heights, and d
 steps:
 - 'Learn the three primary trig ratios: sin = opposite/hypotenuse, cos = adjacent/hypotenuse,
   tan = opposite/adjacent.'
-- 'Memorize key angle values: 30°, 45°, 60°, 90° and their ratios.'
+- 'Memorize key angle values: 30 deg, 45 deg, 60 deg, 90 deg and their ratios.'
 - Apply tangent to measure heights of structures or trees using shadow length.
 - Use sine rule and cosine rule for non-right triangles in land surveying.
 - 'Practice triangulation: measure one baseline and two angles to find unknown distances.'
@@ -39,7 +39,7 @@ Sine, cosine, and tangent ratios for calculating angles, heights, and distances 
 
 ## Step-by-step
 1. Learn the three primary trig ratios: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent.
-2. Memorize key angle values: 30°, 45°, 60°, 90° and their ratios.
+2. Memorize key angle values: 30 deg, 45 deg, 60 deg, 90 deg and their ratios.
 3. Apply tangent to measure heights of structures or trees using shadow length.
 4. Use sine rule and cosine rule for non-right triangles in land surveying.
 5. Practice triangulation: measure one baseline and two angles to find unknown distances.

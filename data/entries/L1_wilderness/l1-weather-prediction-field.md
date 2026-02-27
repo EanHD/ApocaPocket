@@ -35,18 +35,18 @@ steps:
 
 ## Cloud Types
 - Cirrus (high wispy streaks): weather
-  change in 24 hours — watch carefully
+  change in 24 hours  -  watch carefully
 - Cumulus (puffy white): fair morning,
   but tall anvil tops = thunderstorms
 - Cumulonimbus (dark towering): storms
-  imminent — seek shelter NOW
+  imminent  -  seek shelter NOW
 - Stratus (low gray flat sheet): drizzle
   or snow for hours to days
 
 ## Wind Signs
 - Steady wind from one direction = stable
 - Sudden shift or swirling = front moving
-  through — expect rain or storms soon
+  through  -  expect rain or storms soon
 - Wind increasing rapidly = approaching
   system (storm, cold front)
 - Calm after sustained wind = eye or

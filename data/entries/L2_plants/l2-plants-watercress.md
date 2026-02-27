@@ -47,5 +47,5 @@ Peppery aquatic green found in clean streams and springs. Highly nutritious but 
 4. Excellent in soups, stir-fries, or blanched.
 
 ## Warnings
-- LIVER FLUKE RISK from contaminated water — cook if water source has livestock upstream.
-- Fool's watercress (Apium nodiflorum) is similar but also edible. Hemlock water dropwort is DEADLY — confirm hollow stem and leaf shape carefully.
+- LIVER FLUKE RISK from contaminated water  -  cook if water source has livestock upstream.
+- Fool's watercress (Apium nodiflorum) is similar but also edible. Hemlock water dropwort is DEADLY  -  confirm hollow stem and leaf shape carefully.

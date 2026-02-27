@@ -72,7 +72,7 @@ audit_status: verified
 - Boiling reduces inulin content slightly
 - Mix with other foods to moderate effect
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Common sunflower (H. annuus): also edible seeds
 - Tall rough sunflower leaves are distinctive

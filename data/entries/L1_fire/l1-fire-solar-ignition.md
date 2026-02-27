@@ -17,11 +17,11 @@ steps:
 - 'Parabolic reflector: polish bottom of aluminum can with clay/chocolate, focus at
   center point.'
 - Water-filled clear plastic bag or bottle can serve as improvised lens.
-- 'Ice lens: shape clear ice into convex lens shape — works in freezing sunny conditions.'
-- Hold steady and be patient — may take 30-60 seconds for ignition.
+- 'Ice lens: shape clear ice into convex lens shape  -  works in freezing sunny conditions.'
+- Hold steady and be patient  -  may take 30-60 seconds for ignition.
 warnings:
-- Requires direct, strong sunlight — ineffective on cloudy days or at dawn/dusk.
-- Never look through lens at the sun — instant eye damage.
+- Requires direct, strong sunlight  -  ineffective on cloudy days or at dawn/dusk.
+- Never look through lens at the sun  -  instant eye damage.
 - Nearsighted (concave) lenses will not focus light to a point.
 related_entries:
 - l1-fire-ignition-methods
@@ -44,10 +44,10 @@ Using lenses and reflective surfaces to start fire from sunlight.
 2. Eyeglasses (farsighted/reading only): hold at focal distance to concentrate light.
 3. Parabolic reflector: polish bottom of aluminum can with clay/chocolate, focus at center point.
 4. Water-filled clear plastic bag or bottle can serve as improvised lens.
-5. Ice lens: shape clear ice into convex lens shape — works in freezing sunny conditions.
-6. Hold steady and be patient — may take 30-60 seconds for ignition.
+5. Ice lens: shape clear ice into convex lens shape  -  works in freezing sunny conditions.
+6. Hold steady and be patient  -  may take 30-60 seconds for ignition.
 
 ## Warnings
-- Requires direct, strong sunlight — ineffective on cloudy days or at dawn/dusk.
-- Never look through lens at the sun — instant eye damage.
+- Requires direct, strong sunlight  -  ineffective on cloudy days or at dawn/dusk.
+- Never look through lens at the sun  -  instant eye damage.
 - Nearsighted (concave) lenses will not focus light to a point.

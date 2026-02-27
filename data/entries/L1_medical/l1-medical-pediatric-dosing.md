@@ -17,7 +17,7 @@ sources:
 
 # Pediatric Dosing Guide
 
-Children are not small adults. Adult doses cause liver failure, seizures, or death. Always dose by WEIGHT, not by age. A 10-year-old can weigh 60 lbs or 120 lbs — same age, vastly different dose.
+Children are not small adults. Adult doses cause liver failure, seizures, or death. Always dose by WEIGHT, not by age. A 10-year-old can weigh 60 lbs or 120 lbs  -  same age, vastly different dose.
 
 ## Weight Reference
 
@@ -32,13 +32,13 @@ Approximate weight by age:
 - 4-6 years: 40-50 lbs (18.1-22.7 kg)
 - 6-9 years: 50-70 lbs (22.7-31.8 kg)
 - 9-12 years: 70-100 lbs (31.8-45.4 kg)
-- 12+ years: 100+ lbs — use adult dosing.
+- 12+ years: 100+ lbs  -  use adult dosing.
 
 Ages are approximations only. Always use actual weight.
 
 ## Acetaminophen
 
-Indications: Fever over 100.4°F, mild to moderate pain, post-vaccination discomfort.
+Indications: Fever over 100.4 degF, mild to moderate pain, post-vaccination discomfort.
 
 Dose formula: 10-15 mg per kg every 4-6 hours. Maximum 5 doses per 24 hours.
 
@@ -54,11 +54,12 @@ Doses by weight (liquid 160 mg/5 mL):
 
 Maximum daily dose: 75 mg per kg per day or 4000 mg total, whichever is lower.
 
-Never give to infants under 3 months without doctor guidance. Never combine with cold medicines that already contain acetaminophen. Never give if child has liver disease. Overdose signs: nausea, vomiting, confusion, yellow skin — get help immediately.
+Never give to infants under 3 months without doctor guidance. Never combine with cold medicines that already contain acetaminophen. Never give if child has liver disease. Overdose signs: nausea,
+vomiting, confusion, yellow skin  -  get help immediately.
 
 ## Ibuprofen
 
-Indications: Fever over 102°F, moderate pain, inflammation from sprains or swelling.
+Indications: Fever over 102 degF, moderate pain, inflammation from sprains or swelling.
 
 Dose formula: 10 mg per kg every 6-8 hours. Maximum 4 doses per 24 hours.
 
@@ -74,11 +75,11 @@ Doses by weight (liquid 100 mg/5 mL):
 
 Maximum daily dose: 40 mg per kg per day or 1200 mg, whichever is lower.
 
-Never give to infants under 6 months. Always give with food or milk — causes stomach irritation on empty stomach. Do not give if child has kidney disease, asthma, or is dehydrated.
+Never give to infants under 6 months. Always give with food or milk  -  causes stomach irritation on empty stomach. Do not give if child has kidney disease, asthma, or is dehydrated.
 
 ## Alternating Both Meds
 
-Use alternating only for high fever over 103°F not responding to one medication. Children must be 6 months or older.
+Use alternating only for high fever over 103 degF not responding to one medication. Children must be 6 months or older.
 
 Example schedule:
 - Noon: Acetaminophen.
@@ -90,7 +91,7 @@ Each medication follows its own schedule independently. Do not give both at the 
 
 ## Diphenhydramine
 
-Indications: Allergic reactions, hives, itching, mild insect sting reactions. Not for anaphylaxis — that requires epinephrine.
+Indications: Allergic reactions, hives, itching, mild insect sting reactions. Not for anaphylaxis  -  that requires epinephrine.
 
 Dose formula: 1 mg per kg every 6 hours. Maximum 4 doses per 24 hours.
 
@@ -101,9 +102,9 @@ Doses by weight (liquid 12.5 mg/5 mL):
 - 50-99 lbs: 37.5 mg (15 mL)
 - 100+ lbs: 50 mg (20 mL)
 
-Maximum single dose: 50 mg. Never give to infants under 6 months. Side effect: strong drowsiness for 6+ hours — do not let child run, climb, or swim.
+Maximum single dose: 50 mg. Never give to infants under 6 months. Side effect: strong drowsiness for 6+ hours  -  do not let child run, climb, or swim.
 
-Anaphylaxis signs (do not treat with diphenhydramine — call 911): Difficulty breathing, throat swelling, loss of consciousness.
+Anaphylaxis signs (do not treat with diphenhydramine  -  call 911): Difficulty breathing, throat swelling, loss of consciousness.
 
 ## Oral Rehydration
 
@@ -115,13 +116,13 @@ Emergency ORS recipe (if commercial not available):
 - Half level teaspoon of salt.
 - Mix thoroughly. Use within 24 hours.
 
-Give small sips every 5-10 minutes. Do not give large amounts at once — causes vomiting.
+Give small sips every 5-10 minutes. Do not give large amounts at once  -  causes vomiting.
 
 Severe dehydration (go to hospital immediately): No urination in 8+ hours, no tears when crying, sunken eyes, lethargic or unresponsive, fast heartbeat and rapid breathing.
 
 ## Measurement Tools
 
-Always use oral syringe with mL markings. Never use kitchen spoons — sizes vary and cause overdoses or underdoses.
+Always use oral syringe with mL markings. Never use kitchen spoons  -  sizes vary and cause overdoses or underdoses.
 
 If child vomits after dose:
 - Under 15 min: Re-dose fully (nothing absorbed).
@@ -131,7 +132,7 @@ If child vomits after dose:
 ## When to Seek Care
 
 Seek medical care immediately if:
-- Fever over 104°F in any child.
+- Fever over 104 degF in any child.
 - Any fever in infant under 3 months.
 - Fever lasting over 3 days despite medication.
 - Child is difficult to wake or very lethargic.
@@ -144,7 +145,7 @@ Seek medical care immediately if:
 
 - Dosing by age instead of weight: Always use actual weight.
 - Using kitchen spoon: Use oral syringe with mL markings.
-- Combining similar medications: Check all labels — cold medicines often contain acetaminophen or ibuprofen.
+- Combining similar medications: Check all labels  -  cold medicines often contain acetaminophen or ibuprofen.
 - Exceeding maximum daily doses: Track times and amounts in writing.
 - Not giving ibuprofen with food: Always give with food or milk.
 - Giving aspirin to children under 18: Never. Causes Reye's syndrome.

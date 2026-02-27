@@ -71,7 +71,7 @@ audit_status: verified
 - Anthocyanins: anti-inflammatory
 - Leaves: tannins useful for diarrhea
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes for true blackberry
 - Nightshade berries are NOT aggregate

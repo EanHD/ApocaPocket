@@ -71,7 +71,7 @@ audit_status: verified
 - Spurge causes skin irritation and GI upset
 - Always break stem and check sap color
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Spurge (Euphorbia maculata): MILKY SAP
 - Spurge: much smaller leaves, spotted

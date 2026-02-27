@@ -23,13 +23,13 @@ related:
 During seizure:
 - Move person from furniture, stairs, and water
 - Cushion head with jacket or soft clothing
-- Turn on side (recovery position) — prevents aspiration
+- Turn on side (recovery position)  -  prevents aspiration
 - Time the seizure from start of convulsions
 - DO NOT restrain; DO NOT put objects in mouth; DO NOT give food or water
 
 After seizure:
 - Stay on side; check breathing; remain with person until fully alert (10-30 min)
-- Postictal confusion is normal for 10-30 min — reassure when alert
+- Postictal confusion is normal for 10-30 min  -  reassure when alert
 
 ## Status Epilepticus
 
@@ -40,18 +40,18 @@ Rescue medications (if available):
 - Midazolam IM/intranasal: 5-10 mg adult
 - Lorazepam IM: 4 mg adult
 - Oxygen if available
-- EVACUATE URGENTLY — even if seizure stops (high recurrence risk)
+- EVACUATE URGENTLY  -  even if seizure stops (high recurrence risk)
 
 ## Seizure Types
 
-- Grand mal (tonic-clonic): sudden loss of consciousness → stiffening 10-30 sec → jerking 30-60 sec → postictal confusion 10-30 min
+- Grand mal (tonic-clonic): sudden loss of consciousness -> stiffening 10-30 sec -> jerking 30-60 sec -> postictal confusion 10-30 min
 - Absence (petit mal): 5-10 sec staring spell, no awareness, immediate return to normal; often misidentified as daydreaming
 - Focal: one-limb jerking or face twitching, aura possible; may generalize to grand mal
 - Atonic (drop attack): sudden loss of muscle tone, person collapses; high head trauma risk
 
 ## Medications
 
-CRITICAL: Missing doses increases seizure risk. Keep 1-week backup supply. Do NOT skip doses — rebound seizures.
+CRITICAL: Missing doses increases seizure risk. Keep 1-week backup supply. Do NOT skip doses  -  rebound seizures.
 
 - Phenytoin (Dilantin): 300-400 mg/day; requires consistent blood levels
 - Carbamazepine (Tegretol): 400-1200 mg/day; take with food
@@ -59,16 +59,16 @@ CRITICAL: Missing doses increases seizure risk. Keep 1-week backup supply. Do NO
 - Levetiracetam (Keppra): 500-3000 mg/day; fewest drug interactions
 - Lamotrigine (Lamictal): 200-400 mg/day; slow titration required
 
-Storage: 59-77°F, airtight container, avoid >90°F (degrades medication).
+Storage: 59-77 degF, airtight container, avoid >90 degF (degrades medication).
 If rationing: reduce to minimum effective dose; increase seizure precautions; never alone.
 
 ## Triggers
 
-- Sleep deprivation (most common) — maintain 7-9 hr/night consistently
+- Sleep deprivation (most common)  -  maintain 7-9 hr/night consistently
 - Missed medications
 - Illness (fever, infection) and physical/emotional stress
 - Alcohol (lowers seizure threshold; also withdrawal)
-- Flashing/strobing lights (3% of patients — photosensitive epilepsy)
+- Flashing/strobing lights (3% of patients  -  photosensitive epilepsy)
 - Low blood sugar (hypoglycemia)
 
 ## Post-Seizure Signs
@@ -90,7 +90,7 @@ Within 24 hr: seizure longer or more severe than usual | confusion >30 min | bre
 
 ## Common Mistakes
 
-- Putting objects in mouth — breaks teeth, causes choking; provides no benefit
-- Restraining the person — causes fractures and dislocations
-- Not timing the seizure — critical for identifying status epilepticus
-- Skipping medications when seizure-free — seizures can return suddenly without warning
+- Putting objects in mouth  -  breaks teeth, causes choking; provides no benefit
+- Restraining the person  -  causes fractures and dislocations
+- Not timing the seizure  -  critical for identifying status epilepticus
+- Skipping medications when seizure-free  -  seizures can return suddenly without warning

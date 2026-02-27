@@ -10,18 +10,18 @@ Region: All Alaska. Interior, arctic, southcentral, Southeast rainforest. 663,30
 
 ## Extreme Cold
 
-Interior winter: -40 to -60°F common. Record: -80°F (Prospect Creek, 1971).
-Critical threshold: -40°F. Metal snaps. Batteries fail. Exposed skin freezes in 30 seconds.
+Interior winter: -40 to -60 degF common. Record: -80 degF (Prospect Creek, 1971).
+Critical threshold: -40 degF. Metal snaps. Batteries fail. Exposed skin freezes in 30 seconds.
 Vehicle prep: keep tank full. Park facing out. Survival bag in every vehicle at all times.
-Frostbite timeline: 30 min at -20°F with 15 mph wind. 5 min at -40°F. 2 min at -60°F.
+Frostbite timeline: 30 min at -20 degF with 15 mph wind. 5 min at -40 degF. 2 min at -60 degF.
 Layering: polypropylene base, fleece mid, down layer, wind shell. No cotton ever at any layer.
 Vapor barrier: in extreme cold, plastic bag over socks inside boot prevents boot moisture freezing.
-Fire: carry 3 ignition methods. Standard lighters fail below -20°F. Use waterproof matches plus firestarter.
+Fire: carry 3 ignition methods. Standard lighters fail below -20 degF. Use waterproof matches plus firestarter.
 
 ## Hypothermia
 
-Alaska reality: hypothermia can kill in summer at 50°F with rain and wind.
-Stages: shivering (mild, core above 95°F) > stumbling and confusion (moderate, 90-95°F) > no shivering (severe, below 90°F).
+Alaska reality: hypothermia can kill in summer at 50 degF with rain and wind.
+Stages: shivering (mild, core above 95 degF) > stumbling and confusion (moderate, 90-95 degF) > no shivering (severe, below 90 degF).
 Severe: do not rub extremities. Handle gently. Warm core first. Give warm fluids only if conscious.
 Field rewarming: remove all wet clothing. Insulate from ground. Skin-to-skin in sleeping bag.
 Prevention: never get wet if avoidable. Wool and synthetics retain warmth when wet. Cotton does not.

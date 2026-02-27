@@ -48,7 +48,7 @@ offline_assets:
 ---
 
 ## Overview
-Secondary injury from improper handling causes permanent paralysis. Immobilize immediately — when in doubt, immobilize.
+Secondary injury from improper handling causes permanent paralysis. Immobilize immediately  -  when in doubt, immobilize.
 
 ## Suspect Spinal Injury
 - Fall >10 ft (3m), MVC, diving into shallow water
@@ -66,22 +66,22 @@ Secondary injury from improper handling causes permanent paralysis. Immobilize i
 ## Manual Inline Stab
 - Approach from above victim's head
 - Palms over ears, fingers along jaw/skull, thumbs at back of head
-- Hold neutral — no flex, no extension, no rotation, no lateral bend
-- Gentle firm pressure — do NOT pull or apply traction
+- Hold neutral  -  no flex, no extension, no rotation, no lateral bend
+- Gentle firm pressure  -  do NOT pull or apply traction
 - Maintain until immobilization device is applied
-- Off-angle head: move gently toward neutral; stop if resistance, pain, or spasm → immobilize in position found
+- Off-angle head: move gently toward neutral; stop if resistance, pain, or spasm -> immobilize in position found
 
 ## Log-Roll Technique
 - Lead (head): stabilizes and calls all commands
 - Rescuer 2: shoulders/torso; Rescuer 3: hips; Rescuer 4: legs (optional)
-- Roll as single unit — shoulders and hips together, no twisting
+- Roll as single unit  -  shoulders and hips together, no twisting
 - Place backboard behind victim, roll back onto board
 - Secure at forehead, chest, pelvis, and ankles
 
 ## Cervical Collar
 - Materials: SAM splint, rolled towel (4" cylinder), foam pad
 - Chin to shoulders, ear to ear; wrap and secure with tape
-- Must NOT compress airway — check carotid pulse after applying
+- Must NOT compress airway  -  check carotid pulse after applying
 
 ## Full Spine Immob
 - Board options: door, wide boards lashed, skis/poles lashed
@@ -99,14 +99,14 @@ Remove ONLY if airway obstructed, helmet is loose, or CPR required
 - Rescuer 1 transitions to inline stab as helmet clears; Rescuer 2 applies collar
 
 ## Clearing Spine
-No immobilization needed ONLY IF ALL met: no high-risk mechanism · normal mental status · no intoxicants · no neck/back pain · no neuro symptoms · no midline tenderness · full ROM without pain
+No immobilization needed ONLY IF ALL met: no high-risk mechanism - normal mental status - no intoxicants - no neck/back pain - no neuro symptoms - no midline tenderness - full ROM without pain
 
 ## Common Mistakes
-- ❌ Trusting "I feel fine" after high-risk mechanism
-- ❌ Moving victim before stabilization; log-rolling with <3 people
-- ❌ Not maintaining neutral alignment during movement
-- ❌ Pulling/tractioning neck; hyperextending to open airway (use jaw thrust)
-- ❌ Removing helmet unnecessarily; collar too tight
-- ❌ Not reassessing neuro status after any movement
+- [X] Trusting "I feel fine" after high-risk mechanism
+- [X] Moving victim before stabilization; log-rolling with <3 people
+- [X] Not maintaining neutral alignment during movement
+- [X] Pulling/tractioning neck; hyperextending to open airway (use jaw thrust)
+- [X] Removing helmet unnecessarily; collar too tight
+- [X] Not reassessing neuro status after any movement
 
 **When in doubt, immobilize.**

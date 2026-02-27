@@ -20,7 +20,7 @@ steps:
 - Scrape crystallized salt and re-dissolve in clean water to purify, then re-evaporate.
 - 'Plant indicator: salt-tolerant plants (glasswort, sea lavender) indicate saline
   soils.'
-- Store salt dry in sealed containers—salt absorbs moisture readily.
+- Store salt dry in sealed containers - salt absorbs moisture readily.
 warnings: []
 related_entries:
 - l3-chemistry-salt-production
@@ -43,4 +43,4 @@ Methods for locating and extracting salt from natural deposits, seawater, and br
 3. Boil brine in wide, shallow containers to accelerate evaporation.
 4. Scrape crystallized salt and re-dissolve in clean water to purify, then re-evaporate.
 5. Plant indicator: salt-tolerant plants (glasswort, sea lavender) indicate saline soils.
-6. Store salt dry in sealed containers—salt absorbs moisture readily.
+6. Store salt dry in sealed containers - salt absorbs moisture readily.

@@ -20,7 +20,7 @@ steps:
 - Calibrate against known landmarks or celestial observations.
 warnings:
 - Metal objects and electronics near the compass cause deviation.
-- Magnetic north differs from true north—learn local declination.
+- Magnetic north differs from true north - learn local declination.
 related_entries:
 - l5-map-reading-basics
 - l5-celestial-navigation-basics
@@ -46,4 +46,4 @@ Building a functional magnetic compass from salvaged materials for direction fin
 
 ## Warnings
 - Metal objects and electronics near the compass cause deviation.
-- Magnetic north differs from true north—learn local declination.
+- Magnetic north differs from true north - learn local declination.

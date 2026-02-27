@@ -23,7 +23,7 @@ Potatoes are high-yield staples with strong calorie return and practical storage
 
 ## Planting Basics
 - Use healthy seed potatoes with viable eyes.
-- Typical spacing: 25–30 cm (10–12 in) in-row, 75–90 cm (30–36 in) between rows.
+- Typical spacing: 25 - 30 cm (10 - 12 in) in-row, 75 - 90 cm (30 - 36 in) between rows.
 - Plant depth commonly ~10 cm (4 in), adjusted for soil/climate.
 
 ## Hill & Canopy Mgmt

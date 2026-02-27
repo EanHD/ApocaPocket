@@ -77,7 +77,7 @@ audit_status: verified
 - Vitamins B2, B3; calcium
 - Blood-thinning properties (polysaccharides)
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Rubbery ear shape on dead elder = wood ear

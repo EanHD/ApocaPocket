@@ -33,7 +33,7 @@ Use a layered method: **macro orientation (sun/cardinal)** + **street logic** + 
 
 ## Landmark Chain Method
 Pick 3 escalating landmarks:
-1. Near landmark (1–3 blocks)
+1. Near landmark (1 - 3 blocks)
 2. Mid landmark (district-level)
 3. Far landmark (tower/hill/river)
 

@@ -15,16 +15,16 @@ summary: Recognizing and responding to common waterborne illnesses in survival s
 steps:
 - 'Common symptoms: diarrhea, vomiting, abdominal cramps, fever.'
 - Begin oral rehydration immediately at first sign of diarrhea.
-- Isolate patient's waste — do not allow contamination of water sources.
-- 'Cholera signs: profuse watery ''rice water'' diarrhea — life-threatening dehydration
+- Isolate patient's waste  -  do not allow contamination of water sources.
+- 'Cholera signs: profuse watery ''rice water'' diarrhea  -  life-threatening dehydration
   within hours.'
 - 'Giardia: onset 1-2 weeks after exposure, foul-smelling diarrhea, bloating.'
 - Maintain strict water treatment protocols for entire group.
 warnings:
-- Cholera and dysentery can kill through dehydration within hours — aggressive rehydration
+- Cholera and dysentery can kill through dehydration within hours  -  aggressive rehydration
   critical.
-- Bloody diarrhea (dysentery) indicates invasive infection — antibiotics if available.
-- Cryptosporidium resists chlorine — boiling or fine filtration required.
+- Bloody diarrhea (dysentery) indicates invasive infection  -  antibiotics if available.
+- Cryptosporidium resists chlorine  -  boiling or fine filtration required.
 - One untreated case can contaminate water for entire group.
 related_entries:
 - l1-medical-dehydration
@@ -45,13 +45,13 @@ Recognizing and responding to common waterborne illnesses in survival situations
 ## Step-by-step
 1. Common symptoms: diarrhea, vomiting, abdominal cramps, fever.
 2. Begin oral rehydration immediately at first sign of diarrhea.
-3. Isolate patient's waste — do not allow contamination of water sources.
-4. Cholera signs: profuse watery 'rice water' diarrhea — life-threatening dehydration within hours.
+3. Isolate patient's waste  -  do not allow contamination of water sources.
+4. Cholera signs: profuse watery 'rice water' diarrhea  -  life-threatening dehydration within hours.
 5. Giardia: onset 1-2 weeks after exposure, foul-smelling diarrhea, bloating.
 6. Maintain strict water treatment protocols for entire group.
 
 ## Warnings
-- Cholera and dysentery can kill through dehydration within hours — aggressive rehydration critical.
-- Bloody diarrhea (dysentery) indicates invasive infection — antibiotics if available.
-- Cryptosporidium resists chlorine — boiling or fine filtration required.
+- Cholera and dysentery can kill through dehydration within hours  -  aggressive rehydration critical.
+- Bloody diarrhea (dysentery) indicates invasive infection  -  antibiotics if available.
+- Cryptosporidium resists chlorine  -  boiling or fine filtration required.
 - One untreated case can contaminate water for entire group.

@@ -1,6 +1,6 @@
 ---
 id: l5-health-pain-herbal-remedies
-title: Pain Mgmt — Wild Herbal
+title: Pain Mgmt  -  Wild Herbal
 category: L5_community_knowledge
 subtopic: health
 tags:
@@ -51,7 +51,7 @@ steps:
 - Clove oil on cotton swab: stronger
 - Numbness within minutes
 
-## Arnica — Topical Only
+## Arnica  -  Topical Only
 
 - Bruises, sprains, muscle soreness
 - Apply cream or diluted tincture

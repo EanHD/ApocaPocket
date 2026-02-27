@@ -39,16 +39,16 @@ offline_assets: []
 ---
 
 ## Overview
-Extremely nutritious green high in iron, calcium, and protein — but must be cooked or dried to neutralize stinging hairs. One of the most nutrient-dense wild foods.
+Extremely nutritious green high in iron, calcium, and protein  -  but must be cooked or dried to neutralize stinging hairs. One of the most nutrient-dense wild foods.
 
 ## Step-by-step
 1. Identify by opposite toothed leaves, square stem, and visible stinging hairs.
-2. Harvest with gloves — top 4-6 leaves of young spring plants.
-3. Cook by boiling, steaming, or sautéing (2+ minutes destroys sting).
+2. Harvest with gloves  -  top 4-6 leaves of young spring plants.
+3. Cook by boiling, steaming, or sauteing (2+ minutes destroys sting).
 4. Dried nettle also loses sting and makes excellent tea.
 5. Cooking water can be drunk as nutritious broth.
 
 ## Warnings
-- Handle ONLY with gloves until cooked — stinging hairs inject formic acid.
+- Handle ONLY with gloves until cooked  -  stinging hairs inject formic acid.
 - Do not eat raw.
-- Older plants develop cystoliths that may irritate kidneys — harvest young.
+- Older plants develop cystoliths that may irritate kidneys  -  harvest young.

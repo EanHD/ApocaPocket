@@ -71,7 +71,7 @@ audit_status: verified
 - Traditional use: Chiricahua Apache food
 - Flowers contain antifungal compounds
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Oleander (Nerium): highly toxic
 - Oleander: thick dark leaves, not narrow

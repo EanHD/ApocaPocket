@@ -45,8 +45,8 @@ Fruit of wild roses; extremely high in vitamin C (up to 50x more than oranges). 
 2. Harvest after first frost for best sweetness.
 3. Split hips, remove seeds and irritating hairs inside.
 4. Dry for tea, or cook into syrup/jam.
-5. Avoid boiling — heat degrades vitamin C. Use warm water for tea.
+5. Avoid boiling  -  heat degrades vitamin C. Use warm water for tea.
 
 ## Warnings
-- Interior hairs are an irritant — strain well and remove seeds.
+- Interior hairs are an irritant  -  strain well and remove seeds.
 - Do not harvest from ornamental roses that may be sprayed.

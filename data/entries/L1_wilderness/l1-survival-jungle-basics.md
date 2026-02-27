@@ -46,9 +46,9 @@ steps:
 
 ## Water
 - Boil or filter EVERYTHING
-- Collect rainwater — cleanest source
+- Collect rainwater  -  cleanest source
 - Vine water: cut high, let drain into
-  container — not all vines are safe
+  container  -  not all vines are safe
   (milky sap = toxic, clear = usually ok)
 - Never drink from still pools
 
@@ -64,7 +64,7 @@ steps:
 - Progress is extremely slow (100m/hr)
 - Follow streams (leads to people)
   or animal trails (made by locals)
-- Compass required — no sun or stars
+- Compass required  -  no sun or stars
   under thick jungle canopy
 
 ## Insects and Disease

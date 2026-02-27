@@ -21,9 +21,9 @@ steps:
 - Water evaporates, condenses on plastic, drips into container. Expect 0.5-1 liter
   per day.
 warnings:
-- Solar stills produce small amounts of water — supplement with other methods.
+- Solar stills produce small amounts of water  -  supplement with other methods.
 - Energy spent building may exceed water gained in some conditions.
-- Plastic sheet is essential — no effective substitute exists.
+- Plastic sheet is essential  -  no effective substitute exists.
 related_entries:
 - l1-water-boiling-disinfection
 - l1-water-chemical-disinfection
@@ -49,6 +49,6 @@ Building a solar still to extract water from soil, vegetation, or contaminated s
 6. Water evaporates, condenses on plastic, drips into container. Expect 0.5-1 liter per day.
 
 ## Warnings
-- Solar stills produce small amounts of water — supplement with other methods.
+- Solar stills produce small amounts of water  -  supplement with other methods.
 - Energy spent building may exceed water gained in some conditions.
-- Plastic sheet is essential — no effective substitute exists.
+- Plastic sheet is essential  -  no effective substitute exists.

@@ -19,7 +19,7 @@ steps:
 - Bury or burn animal carcasses and medical waste away from living areas.
 - Track illness patterns to identify outbreaks early.
 warnings:
-- Diarrheal disease kills through dehydration—treat with oral rehydration solution
+- Diarrheal disease kills through dehydration - treat with oral rehydration solution
   immediately.
 - Airborne diseases require physical separation, not just hygiene.
 related_entries:
@@ -46,5 +46,5 @@ Basic epidemiological principles for preventing disease outbreaks in community s
 5. Track illness patterns to identify outbreaks early.
 
 ## Warnings
-- Diarrheal disease kills through dehydration—treat with oral rehydration solution immediately.
+- Diarrheal disease kills through dehydration - treat with oral rehydration solution immediately.
 - Airborne diseases require physical separation, not just hygiene.

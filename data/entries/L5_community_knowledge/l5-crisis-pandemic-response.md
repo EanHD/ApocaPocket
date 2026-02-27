@@ -51,7 +51,8 @@ Exposed (not yet sick): separate room if possible | monitor temperature twice da
 ## PPE Use
 
 Donning: wash hands 20+ sec -> gown/apron -> N95 mask (mold to nose, check seal) -> eye protection -> gloves over gown cuffs.
-Doffing: gloves (peel inside-out, no outside contact) -> sanitize hands -> gown (roll inside-out) -> sanitize hands, exit room -> eye protection (touch straps only) -> mask (touch ties only, not front) -> wash hands 20+ sec.
+Doffing: gloves (peel inside-out, no outside contact) -> sanitize hands -> gown (roll inside-out) -> sanitize hands, exit room -> eye protection (touch straps only) -> mask (touch ties only, not
+front) -> wash hands 20+ sec.
 CRITICAL: do not touch face at any point during doffing sequence.
 
 Improvised PPE: mask = multi-layer tight-woven cotton + HEPA layer | goggles = clear plastic or swim goggles | gown = large trash bag with holes | sanitizer = 2 parts 91% isopropyl + 1 part aloe.

@@ -16,12 +16,12 @@ steps:
 - 'Learn key metric units: meter, kilogram, liter, and their prefixes (milli, centi,
   kilo).'
 - 'Learn key imperial units: foot, pound, gallon and conversion to metric.'
-- 'Memorize critical conversions: 1 inch ≈ 2.54 cm, 1 kg ≈ 2.2 lb, 1 mile ≈ 1.6 km.'
-- 'Use body-based estimation: arm span ≈ height, pace length, hand span.'
+- 'Memorize critical conversions: 1 inch ~ 2.54 cm, 1 kg ~ 2.2 lb, 1 mile ~ 1.6 km.'
+- 'Use body-based estimation: arm span ~ height, pace length, hand span.'
 - Always record units with every measurement to prevent errors.
 warnings:
 - Unit mismatch is a leading cause of engineering failures.
-- Estimation is for planning only—measure precisely before building.
+- Estimation is for planning only - measure precisely before building.
 related_entries:
 - l5-math-foundations
 - l5-math-trigonometry
@@ -40,10 +40,10 @@ Metric and imperial unit systems, conversion factors, and body-based estimation 
 ## Step-by-step
 1. Learn key metric units: meter, kilogram, liter, and their prefixes (milli, centi, kilo).
 2. Learn key imperial units: foot, pound, gallon and conversion to metric.
-3. Memorize critical conversions: 1 inch ≈ 2.54 cm, 1 kg ≈ 2.2 lb, 1 mile ≈ 1.6 km.
-4. Use body-based estimation: arm span ≈ height, pace length, hand span.
+3. Memorize critical conversions: 1 inch ~ 2.54 cm, 1 kg ~ 2.2 lb, 1 mile ~ 1.6 km.
+4. Use body-based estimation: arm span ~ height, pace length, hand span.
 5. Always record units with every measurement to prevent errors.
 
 ## Warnings
 - Unit mismatch is a leading cause of engineering failures.
-- Estimation is for planning only—measure precisely before building.
+- Estimation is for planning only - measure precisely before building.

@@ -72,7 +72,7 @@ audit_status: verified
 - Caloric value low; use as flavoring
 - Water content high; mild hydration
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Clover (Trifolium): round leaflets, no sour
 - Clover is also fully edible; safe confuse

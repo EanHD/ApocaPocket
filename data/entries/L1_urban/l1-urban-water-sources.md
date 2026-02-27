@@ -41,7 +41,7 @@ Capacity: 30-40 gal small, 40-50 gal standard, 50-80 gal large.
 
 ## Toilet Tanks
 
-Safe only if no chemical cleaners are present. Never use toilet bowls — fecal contamination.
+Safe only if no chemical cleaners are present. Never use toilet bowls  -  fecal contamination.
 
 Check before using:
 - Clear water, no chemical smell: safe.
@@ -63,7 +63,7 @@ Yield: Multi-story building = 5-15 gallons. Single-story home = 1-3 gallons.
 
 ## Other Sources
 
-Ice maker or freezer ice: 5-10 lbs = 0.5-1 gallon. Safe — made from tap water before the disaster.
+Ice maker or freezer ice: 5-10 lbs = 0.5-1 gallon. Safe  -  made from tap water before the disaster.
 
 Canned vegetables and fruit: 2-4 oz liquid per can. Safe to drink directly.
 

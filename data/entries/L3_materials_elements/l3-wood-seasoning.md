@@ -17,12 +17,12 @@ steps:
 - Split wood to increase surface area for faster drying.
 - Stack in criss-cross pattern (stickered) with airflow gaps, elevated off ground.
 - Cover top to shed rain while leaving sides open for ventilation.
-- Air-dry hardwoods 6–12 months, softwoods 3–6 months depending on thickness.
+- Air-dry hardwoods 6 - 12 months, softwoods 3 - 6 months depending on thickness.
 - 'Test readiness: seasoned wood is lighter, sounds hollow when struck, has end-grain
   cracks.'
 warnings:
 - Unseasoned wood burns inefficiently and produces excessive creosote.
-- Kiln drying in improvised setups risks fire—monitor temperature carefully.
+- Kiln drying in improvised setups risks fire - monitor temperature carefully.
 related_entries:
 - l3-wood-hardwood-vs-softwood
 - l3-wood-burn-quality
@@ -43,9 +43,9 @@ Methods for drying and curing wood to reduce moisture content for construction a
 2. Split wood to increase surface area for faster drying.
 3. Stack in criss-cross pattern (stickered) with airflow gaps, elevated off ground.
 4. Cover top to shed rain while leaving sides open for ventilation.
-5. Air-dry hardwoods 6–12 months, softwoods 3–6 months depending on thickness.
+5. Air-dry hardwoods 6 - 12 months, softwoods 3 - 6 months depending on thickness.
 6. Test readiness: seasoned wood is lighter, sounds hollow when struck, has end-grain cracks.
 
 ## Warnings
 - Unseasoned wood burns inefficiently and produces excessive creosote.
-- Kiln drying in improvised setups risks fire—monitor temperature carefully.
+- Kiln drying in improvised setups risks fire - monitor temperature carefully.

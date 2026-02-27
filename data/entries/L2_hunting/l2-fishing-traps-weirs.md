@@ -9,11 +9,13 @@ diagram: diagrams/fish-trap-design.svg
 
 Fish traps are the most effective fishing method ever invented. A properly built weir catches hundreds of fish per day with zero active fishing. Set once, harvest daily, no hooks or line required.
 
-Native Americans fed entire populations this way. Pacific Northwest tribes caught enough salmon in 2-3 months to feed families for a year. Fish traps are banned in most states today precisely because they work too well.
+Native Americans fed entire populations this way. Pacific Northwest tribes caught enough salmon in 2-3 months to feed families for a year. Fish traps are banned in most states today precisely because
+they work too well.
 
 ## How It Works
 
-Fish swim with current or against it during spawning. A V-shaped weir funnels fish through a narrow opening. Easy entry — fish swim in freely. Difficult exit — narrow opening is hard to find from inside. Fish accumulate in holding pen until harvested.
+Fish swim with current or against it during spawning. A V-shaped weir funnels fish through a narrow opening. Easy entry  -  fish swim in freely. Difficult exit  -  narrow opening is hard to find from
+inside. Fish accumulate in holding pen until harvested.
 
 ## Weir Types
 
@@ -102,7 +104,7 @@ Cold fronts and midday: Fish less active, lower catch rates.
 
 ## Legal Warning
 
-Most US states ban fish traps — considered too effective, depletes fish stocks.
+Most US states ban fish traps  -  considered too effective, depletes fish stocks.
 
 Legal exceptions:
 - Alaska subsistence use (rural residents, traditional methods).

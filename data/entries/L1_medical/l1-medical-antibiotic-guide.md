@@ -71,14 +71,14 @@ offline_assets: []
 
 ## Key Antibiotics
 
-- Amoxicillin: strep, ear, pneumonia — safe in pregnancy
+- Amoxicillin: strep, ear, pneumonia  -  safe in pregnancy
 - Augmentin: bites, sinusitis, resistant infections
-- Cephalexin: skin, UTI — 5-10% cross-react if penicillin allergy
+- Cephalexin: skin, UTI  -  5-10% cross-react if penicillin allergy
 - Doxycycline: MRSA, Lyme, tick disease, atypical pneumonia
 - Azithromycin: atypical pneumonia, penicillin allergy backup
-- Ciprofloxacin: UTI, diarrhea — last resort
+- Ciprofloxacin: UTI, diarrhea  -  last resort
 - TMP-SMX (Bactrim): MRSA skin infections, UTI
-- Metronidazole: abscess, anaerobic, Giardia — NO alcohol
+- Metronidazole: abscess, anaerobic, Giardia  -  NO alcohol
 
 ## Pediatric Dosing
 
@@ -102,13 +102,13 @@ offline_assets: []
 
 - Anaphylaxis: throat swelling, hives, breathing difficulty
 - Give epinephrine 0.3mg IM immediately for anaphylaxis
-- C. diff: severe watery diarrhea during/after — stop antibiotic
+- C. diff: severe watery diarrhea during/after  -  stop antibiotic
 - Tendon pain with ciprofloxacin: stop immediately, rupture risk
 - Rash + mouth sores + fever (Stevens-Johnson): stop immediately
 
 ## Finish Course / Help
 
-- Complete full course even if feeling better — prevents resistance
+- Complete full course even if feeling better  -  prevents resistance
 - Expect improvement in 48-72 hours
 - No improvement in 72h: wrong drug or wrong diagnosis
 - Sepsis signs: fever + confusion + rapid breathing + fast pulse

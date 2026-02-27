@@ -71,7 +71,7 @@ audit_status: verified
 - ~25 cal per 100g
 - Strong flavor means small amounts used
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes in beach habitat
 - Rocket-shaped seed pods = distinctive

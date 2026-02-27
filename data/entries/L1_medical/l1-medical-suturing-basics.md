@@ -24,12 +24,12 @@ steps:
 - 'Simple interrupted stitch: insert needle 3-5mm from wound edge, pass through one
   side, across the gap, and up through the other side at equal depth (3-5mm deep).'
 - Tie square knot (left-over-right, then right-over-left). Pull edges together until
-  they just touch — do NOT overtighten or tissue will die.
+  they just touch  -  do NOT overtighten or tissue will die.
 - Space stitches 5-7mm apart. Most field wounds need 3-8 stitches.
-- 'Alternative — butterfly closure: cut adhesive tape into hourglass shapes, apply
+- 'Alternative  -  butterfly closure: cut adhesive tape into hourglass shapes, apply
   across wound edges to hold them together. Safer than suturing.'
 - Cover with clean dressing. Change dressing daily. Watch for redness spreading >1cm
-  from edges, pus, red streaks, or fever — all signs of infection requiring stitch
+  from edges, pus, red streaks, or fever  -  all signs of infection requiring stitch
   removal.
 - 'Remove stitches in 7-10 days (face: 5 days, trunk: 10 days, joints: 14 days). Cut
   thread next to knot and pull through.'
@@ -45,12 +45,12 @@ tags:
 - improvised
 title: Emergency Suturing
 warnings:
-- NEVER suture a wound that is infected, contaminated, or more than 6 hours old —
+- NEVER suture a wound that is infected, contaminated, or more than 6 hours old  - 
   this traps bacteria and causes life-threatening infection
-- Bite wounds (animal or human) must NEVER be sutured closed — extremely high infection
+- Bite wounds (animal or human) must NEVER be sutured closed  -  extremely high infection
   risk
 - Abdominal or deep puncture wounds require evacuation, not field suturing
-- Improvised suturing is a LAST RESORT — adhesive strips or butterfly closures are
+- Improvised suturing is a LAST RESORT  -  adhesive strips or butterfly closures are
   safer when available
 - Unsterilized needles can cause tetanus, sepsis, and death
 ---

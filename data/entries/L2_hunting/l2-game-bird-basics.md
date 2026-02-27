@@ -45,9 +45,9 @@ Basic knowledge of common game birds, their habits, and field preparation. Uplan
 2. Upland birds: found in edge habitat (field/forest borders). Flush from cover.
 3. Waterfowl: found on water bodies. Most active dawn/dusk during migration.
 4. Field dress promptly: pluck or skin, remove crop and entrails.
-5. Cook thoroughly — wild birds may carry avian parasites.
+5. Cook thoroughly  -  wild birds may carry avian parasites.
 
 ## Warnings
 - Raptor and songbird hunting is widely prohibited and ecologically harmful.
-- Avian influenza risk — avoid visibly sick birds.
+- Avian influenza risk  -  avoid visibly sick birds.
 - Always cook wild fowl well-done.

@@ -19,7 +19,7 @@ steps:
 - Review and adjust allocations regularly based on changing conditions.
 warnings:
 - Perceived unfairness causes social breakdown faster than actual scarcity.
-- Secret stockpiles destroy trust—maintain transparency.
+- Secret stockpiles destroy trust - maintain transparency.
 related_entries:
 - l5-governance-principles
 - l5-governance-conflict-resolution
@@ -44,4 +44,4 @@ Methods for fair and transparent allocation of scarce resources in a community.
 
 ## Warnings
 - Perceived unfairness causes social breakdown faster than actual scarcity.
-- Secret stockpiles destroy trust—maintain transparency.
+- Secret stockpiles destroy trust - maintain transparency.

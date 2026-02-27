@@ -25,7 +25,7 @@ summary: 'Camas (Camassia quamash) was a dietary staple for Pacific Northwest tr
 warnings:
 - DEATH CAMAS (Zigadenus) is DEADLY and looks nearly identical to camas when not flowering
 - NEVER harvest camas bulbs unless you have seen the plant in flower and are 100 percent certain
-- Raw camas bulbs cause severe digestive upset — MUST be cooked
+- Raw camas bulbs cause severe digestive upset  -  MUST be cooked
 - Camas takes 1-3 days of pit-roasting to break down inulin (complex carb) into digestible sugars
 steps:
 - 'IDENTIFICATION (when flowering): FLOWERS: deep blue-purple, star-shaped, 6 petals, tall spike (1-2 feet). Blooms April-June. LEAVES: grass-like, basal. BULB: onion-like but NO ONION SMELL. HABITAT: wet
@@ -51,7 +51,7 @@ steps:
 
 - DEATH CAMAS (Zigadenus) is DEADLY and looks nearly identical to camas when not f
 - NEVER harvest camas bulbs unless you have seen the plant in flower and are 100 p
-- Raw camas bulbs cause severe digestive upset — MUST be cooked
+- Raw camas bulbs cause severe digestive upset  -  MUST be cooked
 - Camas takes 1-3 days of pit-roasting to break down inulin (complex carb) into di
 
 ## Identification (

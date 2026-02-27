@@ -25,7 +25,7 @@ Ages 5-7: simple fetch tasks, carry light items, sort supplies.
 Ages 8-11: monitoring tasks, prep work, help younger children.
 Ages 12+: adult-level tasks under supervision, navigation, first aid.
 Always explain WHY. Children cooperate better when they understand.
-Assign jobs as dignity — it helps them feel useful and safe.
+Assign jobs as dignity  -  it helps them feel useful and safe.
 
 ## Keeping Children Calm
 
@@ -34,7 +34,7 @@ Your emotional state is contagious. Regulate yourself first.
 - Maintain predictable routines: meals, bedtime, activities
 - Honest simple answers: "We're staying safe. Here's our plan."
 - No graphic details about the threat
-- Physical contact: hugs, holding hands — this anchors them
+- Physical contact: hugs, holding hands  -  this anchors them
 - Let them ask questions. Never shut them down.
 
 ## Signs of Trauma
@@ -50,7 +50,7 @@ These are normal responses. Do not punish. Provide safety.
 ## Educational Tasks
 
 Occupied minds reduce anxiety.
-- Reading, writing, drawing — anything structured
+- Reading, writing, drawing  -  anything structured
 - Teach practical skills: water purification, fire safety, plant ID
 - Math with real objects: counting rations, measuring distances
 - Story-telling: describe today's events in order

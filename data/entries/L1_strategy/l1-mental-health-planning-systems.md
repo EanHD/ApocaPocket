@@ -30,7 +30,7 @@ category: L1_immediate_survival
 
 - Spend 10 min the night before; list all tasks; mark top 3 priorities
 - Time-block specific tasks to specific hours; include meals, breaks, buffer time
-- The 50% rule: tasks take twice as long as estimated — plan 4-6 productive hours/day, not 12
+- The 50% rule: tasks take twice as long as estimated  -  plan 4-6 productive hours/day, not 12
 - Top 3 rule: if top 3 are done, the day is a success; everything else is bonus
 
 ## Weekly Planning
@@ -53,13 +53,13 @@ category: L1_immediate_survival
 - Identify the critical path (longest sequence) and optimize it first
 - Sequential tasks must wait (construction before testing, planting before harvesting)
 - Parallel tasks run simultaneously (lumber cutting + stone gathering at same time)
-- Set milestones at 25%, 50%, 75%, 100% — celebrate each one (morale matters)
+- Set milestones at 25%, 50%, 75%, 100%  -  celebrate each one (morale matters)
 
 ## Contingency Plans
 
 - Identify single points of failure: sole water source, sole fire-starter, key person
 - For each: likelihood x severity = priority; have Plans B, C, D with clear trigger conditions
-- Two is one, one is none — three is comfortable
+- Two is one, one is none  -  three is comfortable
 - Worst case needs a minimum viable response, not obsession
 
 ## Resource Allocation
@@ -73,7 +73,7 @@ category: L1_immediate_survival
 
 - Daily stand-up (10 min): what I did, what I'm doing, what's blocking me
 - Weekly meeting (1 hr): wins, challenges, next-week priorities, task assignments
-- Document decisions (who, what, deadline) — memory fails; written record = clarity
+- Document decisions (who, what, deadline)  -  memory fails; written record = clarity
 - Rotate roles: cross-training prevents bottlenecks and single points of failure
 
 ## Quick Reference
@@ -81,7 +81,7 @@ category: L1_immediate_survival
 - Daily: review yesterday -> top 3 priorities -> time-block -> prep tools
 - Weekly: review wins/fails -> set 3-5 goals -> assign to days -> identify resource needs
 - Resource split: 70% immediate / 20% short-term / 10% long-term (adjust to risk level)
-- Best plan: the one you actually follow — start simple, improve over time
+- Best plan: the one you actually follow  -  start simple, improve over time
 
 ## Sources
 

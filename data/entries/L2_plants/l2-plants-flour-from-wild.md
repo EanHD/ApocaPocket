@@ -25,22 +25,22 @@ related_entries:
 summary: Wild flour sources provide critical carbohydrates for long-term survival. Acorns are the highest-yield wild food in temperate forests (one tree produces 70-150 lbs/year). All require processing
   to remove toxins or improve digestibility.
 warnings:
-- RAW ACORNS ARE TOXIC — tannins cause kidney damage, nausea, and severe GI distress. They MUST be leached before eating
+- RAW ACORNS ARE TOXIC  -  tannins cause kidney damage, nausea, and severe GI distress. They MUST be leached before eating
 - Do not use acorns from red oak group without EXTENSIVE leaching (2-3x more than white oak group)
-- Grinding with rocks produces grit that wears down teeth — use the finest grinding surface available and sift thoroughly
-- Moldy acorns (black spots, mushy texture, ammonia smell) must be discarded — aflatoxin is carcinogenic
+- Grinding with rocks produces grit that wears down teeth  -  use the finest grinding surface available and sift thoroughly
+- Moldy acorns (black spots, mushy texture, ammonia smell) must be discarded  -  aflatoxin is carcinogenic
 steps:
-- 'ACORN FLOUR — Collection: gather in fall when they drop. Prefer white oak group (round-tipped leaves): white oak, chestnut oak, bur oak. These have less tannin than red oak group. Shell by cracking with
+- 'ACORN FLOUR  -  Collection: gather in fall when they drop. Prefer white oak group (round-tipped leaves): white oak, chestnut oak, bur oak. These have less tannin than red oak group. Shell by cracking with
   a rock on a flat stone. Discard any with worm holes or mold.'
-- 'ACORN FLOUR — Cold water leaching: crush shelled acorns coarsely. Place in a mesh bag or cloth in a flowing stream for 3-7 days, or change water in a container every 12 hours for 5-10 days. Taste test:
+- 'ACORN FLOUR  -  Cold water leaching: crush shelled acorns coarsely. Place in a mesh bag or cloth in a flowing stream for 3-7 days, or change water in a container every 12 hours for 5-10 days. Taste test:
   should be mild/nutty with NO bitterness.'
-- 'ACORN FLOUR — Hot water leaching (faster): boil crushed acorns in water. When water turns brown, drain and replace with FRESH boiling water. Repeat 5-10 times until water stays clear and taste is mild.
-  IMPORTANT: always replace with boiling water — adding cold water locks in tannins.'
-- 'ACORN FLOUR — Drying and grinding: spread leached acorn meal on flat rocks or cloth in sun. Dry completely (2-3 days sun, or near fire). Grind dried meal between stones using circular motion. Sift through
+- 'ACORN FLOUR  -  Hot water leaching (faster): boil crushed acorns in water. When water turns brown, drain and replace with FRESH boiling water. Repeat 5-10 times until water stays clear and taste is mild.
+  IMPORTANT: always replace with boiling water  -  adding cold water locks in tannins.'
+- 'ACORN FLOUR  -  Drying and grinding: spread leached acorn meal on flat rocks or cloth in sun. Dry completely (2-3 days sun, or near fire). Grind dried meal between stones using circular motion. Sift through
   cloth to remove large pieces. Regrind. Yield: ~1 lb flour per 2 lbs shelled acorns.'
-- 'CATTAIL FLOUR — Rhizome: harvest cattail roots (rhizomes) year-round but best in fall/winter. Wash, peel outer layer. Crush in water — starch settles to bottom. Pour off water and fiber. Dry the white
+- 'CATTAIL FLOUR  -  Rhizome: harvest cattail roots (rhizomes) year-round but best in fall/winter. Wash, peel outer layer. Crush in water  -  starch settles to bottom. Pour off water and fiber. Dry the white
   starch. Yield: ~100g starch per kg of rhizome. Bland, excellent thickener.'
-- 'CATTAIL FLOUR — Pollen: in early summer, shake male flower heads into a bag. Bright yellow pollen is 50% carbohydrate. Mix 1:1 with other flour or use as nutritional supplement. ~1 tablespoon per flower
+- 'CATTAIL FLOUR  -  Pollen: in early summer, shake male flower heads into a bag. Bright yellow pollen is 50% carbohydrate. Mix 1:1 with other flour or use as nutritional supplement. ~1 tablespoon per flower
   head.'
 - 'AMARANTH FLOUR: harvest seed heads when they turn brown/dry (late summer). Shake/rub seeds out onto cloth. Winnow by pouring between containers in a breeze to remove chaff. Parch seeds in dry pan until
   they pop (like tiny popcorn). Grind parched seeds. High protein (14-16%), complete amino acid profile.'
@@ -64,32 +64,32 @@ audit_status: verified
 
 ## Warnings
 
-- RAW ACORNS ARE TOXIC — tannins cause kidney damage, nausea, and severe GI distre
+- RAW ACORNS ARE TOXIC  -  tannins cause kidney damage, nausea, and severe GI distre
 - Do not use acorns from red oak group without EXTENSIVE leaching (2-3x more than 
-- Grinding with rocks produces grit that wears down teeth — use the finest grindin
-- Moldy acorns (black spots, mushy texture, ammonia smell) must be discarded — afl
+- Grinding with rocks produces grit that wears down teeth  -  use the finest grindin
+- Moldy acorns (black spots, mushy texture, ammonia smell) must be discarded  -  afl
 
 ## Acorn Flour
 
-- — Collection: gather in fall when they drop. Prefer white oak group (r
+-  -  Collection: gather in fall when they drop. Prefer white oak group (r
 
 ## Acorn Flour
 
-- — Cold water leaching: crush shelled acorns coarsely. Place in a mesh 
+-  -  Cold water leaching: crush shelled acorns coarsely. Place in a mesh 
 
 ## Acorn Flour
 
-- — Hot water leaching (faster): boil crushed acorns in water. When wate
+-  -  Hot water leaching (faster): boil crushed acorns in water. When wate
 
 ## Acorn Flour
 
-- — Drying and grinding: spread leached acorn meal on flat rocks or clot
+-  -  Drying and grinding: spread leached acorn meal on flat rocks or clot
 
 ## Cattail Flour
 
-- — Rhizome: harvest cattail roots (rhizomes) year-round but best in fal
+-  -  Rhizome: harvest cattail roots (rhizomes) year-round but best in fal
 
 ## Cattail Flour
 
-- — Pollen: in early summer, shake male flower heads into a bag. Bright 
+-  -  Pollen: in early summer, shake male flower heads into a bag. Bright 
 

@@ -51,7 +51,7 @@ diagram: diagrams/improvised-splint-guide.svg
 - Deformity: abnormal angle, rotation, or shortening of limb
 - Rapid swelling and bruising at the injury site
 - Severe localized pain, worse with movement or palpation
-- Loss of normal function — cannot use or bear weight on limb
+- Loss of normal function  -  cannot use or bear weight on limb
 - When in doubt: treat as fracture, splint, and evacuate
 
 ## Check CSM First
@@ -60,14 +60,14 @@ diagram: diagrams/improvised-splint-guide.svg
 - Sensation: can patient feel light touch on fingers or toes?
 - Motor: can patient wiggle fingers or toes below injury?
 - Check and document BEFORE and AFTER splinting
-- No pulse below fracture = urgent — attempt gentle traction if trained
+- No pulse below fracture = urgent  -  attempt gentle traction if trained
 
 ## Splinting Technique
 
 - Immobilize the joint ABOVE and BELOW the fracture site
-- Splint in position found — do NOT try to straighten unless no pulse
+- Splint in position found  -  do NOT try to straighten unless no pulse
 - Pad all bony prominences: ankles, elbows, knees, wrists
-- Secure snugly — should fit one finger under each tie
+- Secure snugly  -  should fit one finger under each tie
 - Leave fingers or toes exposed to monitor circulation
 - Rigid materials: boards, branches, folded cardboard, tent poles
 
@@ -75,18 +75,18 @@ diagram: diagrams/improvised-splint-guide.svg
 
 - Bone visible through skin: do NOT push it back in
 - Cover with clean moist dressing around (not on) the exposed bone
-- Very high infection risk — start antibiotics if available
+- Very high infection risk  -  start antibiotics if available
 - Cephalexin 500mg or Amoxicillin 500mg every 8 hours
-- Evacuate urgently — surgical debridement needed within 6-8 hours
+- Evacuate urgently  -  surgical debridement needed within 6-8 hours
 
 ## Compartment Syndrome
 
-- Increasing pain not relieved by pain medication — disproportionate
+- Increasing pain not relieved by pain medication  -  disproportionate
 - Tight swollen hard feeling in muscle below injury
 - Tingling or numbness developing in fingers or toes
-- Loosen all bandages and splint immediately — do not re-tighten
-- Do NOT elevate — lower to heart level
-- Surgical emergency — evacuate urgently, permanent damage in 6 hours
+- Loosen all bandages and splint immediately  -  do not re-tighten
+- Do NOT elevate  -  lower to heart level
+- Surgical emergency  -  evacuate urgently, permanent damage in 6 hours
 
 ## After Splinting
 

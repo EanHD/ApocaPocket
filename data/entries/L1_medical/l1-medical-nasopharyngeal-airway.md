@@ -45,14 +45,14 @@ offline_assets: []
 ## What It Is / Use When
 
 - Soft rubber tube through nose to hold airway open past the tongue
-- Better tolerated than OPA — works with intact gag reflex
+- Better tolerated than OPA  -  works with intact gag reflex
 - Use when: semi-conscious (GCS 9-13), snoring breaths, clenched jaw
 - Snoring = tongue blocking airway = NPA needed
 - Allows bag-mask ventilation and suctioning with clenched jaw
 
 ## NEVER use NPA if...
 
-- Suspected skull fracture — NPA can penetrate brain through fracture
+- Suspected skull fracture  -  NPA can penetrate brain through fracture
 - Battle's sign: bruising behind one or both ears after head injury
 - Raccoon eyes: bilateral black eyes appearing after head injury
 - CSF leak: clear watery fluid from nose or ear after head trauma
@@ -60,7 +60,7 @@ offline_assets: []
 
 ## Sizing
 
-- Measure from tip of nostril to earlobe — this determines length
+- Measure from tip of nostril to earlobe  -  this determines length
 - Diameter: largest that slides in without force (size of pinky finger)
 - Adults: 7-8mm internal diameter is typical
 - Choose the larger, less obstructed nostril (inspect both first)
@@ -68,10 +68,10 @@ offline_assets: []
 
 ## Insertion Steps
 
-- Lubricate entire tube with water-soluble gel or water — never dry
+- Lubricate entire tube with water-soluble gel or water  -  never dry
 - Bevel facing the septum (midline), angle parallel to floor of mouth
-- Do NOT angle upward — goes into top of nasal cavity, causes trauma
-- Insert with gentle rotating motion — do not force past resistance
+- Do NOT angle upward  -  goes into top of nasal cavity, causes trauma
+- Insert with gentle rotating motion  -  do not force past resistance
 - If firm resistance: try other nostril or smaller size
 - Advance until flange rests flush at nostril opening
 - Confirm placement: feel air movement through tube during exhalation
@@ -80,7 +80,7 @@ offline_assets: []
 
 - Tape flange to nose or cheek to prevent dislodgement
 - Assess every 5-15 minutes: air moving, breathing improved
-- Minor nosebleed is common — pinch soft nose if moderate bleeding
+- Minor nosebleed is common  -  pinch soft nose if moderate bleeding
 - Severe bleeding: leave tube in place, apply pressure 10 minutes
 - If patient becomes alert enough: allow self-removal, monitor airway
 

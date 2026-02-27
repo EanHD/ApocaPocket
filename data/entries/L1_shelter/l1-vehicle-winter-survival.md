@@ -27,10 +27,10 @@ Go only if: building visible and <1 mile in clear daytime conditions | vehicle u
 
 Run engine 10 min per hour for heat; off for remaining 50 min (conserves fuel, reduces CO risk).
 
-CO poisoning kills faster than cold — prevention is non-negotiable:
+CO poisoning kills faster than cold  -  prevention is non-negotiable:
 - Check and clear exhaust pipe every hour (snow drifts bury tailpipe in 20-30 min)
 - Crack window 1 inch even with clear exhaust (prevents CO buildup from leaks)
-- CO symptoms in order: headache → dizziness/confusion → nausea → drowsiness → unconsciousness
+- CO symptoms in order: headache -> dizziness/confusion -> nausea -> drowsiness -> unconsciousness
 
 If CO symptoms appear: turn engine OFF immediately, open all windows, exit vehicle, do not run engine again until exhaust cleared and confirmed clear.
 
@@ -44,29 +44,29 @@ If CO symptoms appear: turn engine OFF immediately, open all windows, exit vehic
 
 ## Body Heat
 
-- Isometric exercises inside vehicle (tense muscles, arm circles, leg lifts) — generate heat without sweating
+- Isometric exercises inside vehicle (tense muscles, arm circles, leg lifts)  -  generate heat without sweating
 - Huddle together; children in middle, adults on outside
 - Sleep in 1-2 hr shifts with alarm set (hypothermia risk increases during sleep)
 - Eat high-calorie food: fat and protein provide slow-burn energy
 
-Hypothermia progression: shivering (body fighting — good) → confusion/slurred speech → drowsiness/apathy → shivering stops (DANGEROUS — body giving up).
+Hypothermia progression: shivering (body fighting  -  good) -> confusion/slurred speech -> drowsiness/apathy -> shivering stops (DANGEROUS  -  body giving up).
 Treatment: remove wet clothing, add dry layers, warm slowly, warm sweet drinks if conscious, do NOT rub extremities.
 
 ## Snow for Water
 
-Do NOT eat snow directly — lowers core body temperature, causes hypothermia.
+Do NOT eat snow directly  -  lowers core body temperature, causes hypothermia.
 
 Safe melting:
 - Body heat: fill bottle with snow, place inside jacket against chest/stomach (30-60 min)
 - Engine heat: metal container on engine block, check every 5-10 min
 - Sunlight: dark container on dashboard (2-4 hr)
-- Ice provides 2× water per volume vs snow; melt ice first, add snow to resulting water
+- Ice provides 2x water per volume vs snow; melt ice first, add snow to resulting water
 
 ## Signaling
 
 Daytime:
-- Bright orange or red cloth on antenna — visible 1-2 miles, flaps in wind
-- Stomp SOS in snow (letters 10+ ft tall); fill with branches, dirt, or dark material — visible from aircraft
+- Bright orange or red cloth on antenna  -  visible 1-2 miles, flaps in wind
+- Stomp SOS in snow (letters 10+ ft tall); fill with branches, dirt, or dark material  -  visible from aircraft
 - Mirror, CD, or phone screen: flash sunlight toward road and aircraft (visible 10+ miles)
 
 Night:
@@ -77,7 +77,7 @@ Night:
 ## Battery Conservation
 
 Drain rates: headlights 10-15 A (kills battery in 3-6 hr) | hazard lights 0.5-1 A (12-24 hr) | radio 0.5-1 A.
-Engine running charges battery at 13-14 A — the 10 min/hr rule keeps battery charged.
+Engine running charges battery at 13-14 A  -  the 10 min/hr rule keeps battery charged.
 
 - No headlights except when actively signaling
 - Hazard lights only when help is visible or confirmed approaching
@@ -93,8 +93,8 @@ Engine running charges battery at 13-14 A — the 10 min/hr rule keeps battery c
 
 ## Common Mistakes
 
-- Running engine continuously — wastes fuel, elevates CO risk, unnecessary battery drain
-- Not checking exhaust — drifts can bury tailpipe in 20-30 min unnoticed
-- Eating snow directly — lowers core temperature, accelerates hypothermia
-- Running headlights all night — dead battery in 3-6 hr, losing all electrical capability
-- Dismissing headache as "just cold" — could be CO poisoning; turn off engine and ventilate
+- Running engine continuously  -  wastes fuel, elevates CO risk, unnecessary battery drain
+- Not checking exhaust  -  drifts can bury tailpipe in 20-30 min unnoticed
+- Eating snow directly  -  lowers core temperature, accelerates hypothermia
+- Running headlights all night  -  dead battery in 3-6 hr, losing all electrical capability
+- Dismissing headache as "just cold"  -  could be CO poisoning; turn off engine and ventilate

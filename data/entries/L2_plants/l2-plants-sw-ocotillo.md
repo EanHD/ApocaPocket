@@ -71,7 +71,7 @@ audit_status: verified
 - Thorny branches for camp perimeter defense
 - Stems contain some moisture when fresh
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes; unmistakable form
 - Distinctive: tall spiny wands + red tips

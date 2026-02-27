@@ -39,14 +39,14 @@ offline_assets: []
 ---
 
 ## Overview
-Wild alliums (ramps, wild garlic, field garlic) provide pungent flavor and nutrition. Identified by strong garlic/onion smell when crushed — the smell test is the key safety check.
+Wild alliums (ramps, wild garlic, field garlic) provide pungent flavor and nutrition. Identified by strong garlic/onion smell when crushed  -  the smell test is the key safety check.
 
 ## Step-by-step
-1. Crush a leaf — must smell distinctly of garlic/onion. No smell = not allium = potential poison.
+1. Crush a leaf  -  must smell distinctly of garlic/onion. No smell = not allium = potential poison.
 2. Identify ramps by broad elliptical leaves (1-2 per plant), red stem base, appearing in spring.
 3. Field garlic (A. vineale): thin hollow leaves, small bulb clusters.
 4. All parts edible: leaves, stems, bulbs. Use raw or cooked.
 
 ## Warnings
-- CRITICAL: Lily of the valley (Convallaria) and death camas (Zigadenus) are deadly lookalikes — ALWAYS confirm garlic smell before eating.
-- Harvest sustainably — ramps are slow-growing. Take only one leaf per plant.
+- CRITICAL: Lily of the valley (Convallaria) and death camas (Zigadenus) are deadly lookalikes  -  ALWAYS confirm garlic smell before eating.
+- Harvest sustainably  -  ramps are slow-growing. Take only one leaf per plant.

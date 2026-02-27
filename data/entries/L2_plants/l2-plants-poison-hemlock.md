@@ -49,7 +49,8 @@ steps:
 
 # Poison Hemlock and Water
 
-Poison hemlock (Conium maculatum) and water hemlock (Cicuta species) are among the most deadly plants in North America and Europe. Both are easily confused with edible plants like wild carrot, parsnip, and parsley. A single mistake can be FATAL. Learn these identification features before foraging ANY wild umbellifers.
+Poison hemlock (Conium maculatum) and water hemlock (Cicuta species) are among the most deadly plants in North America and Europe. Both are easily confused with edible plants like wild carrot,
+parsnip, and parsley. A single mistake can be FATAL. Learn these identification features before foraging ANY wild umbellifers.
 
 ## Identification
 

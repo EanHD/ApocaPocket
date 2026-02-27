@@ -47,14 +47,14 @@ Immediate proper cooling (first 10-20 min) reduces tissue damage. Priorities: st
 ## Burn Classification
 
 ### Depth
-- Superficial (1st): epidermis only · red, dry, no blisters · heals 3-7 days, no scarring
-- Partial-thickness (2nd): epidermis + dermis · red, wet, blistered, blanches · heals 2-3 wks, possible scarring
-- Full-thickness (3rd): all skin layers · white/brown/black, leathery, does NOT blanch, low/no pain · requires grafting
-- 4th degree: extends to muscle/bone · charred, black
+- Superficial (1st): epidermis only - red, dry, no blisters - heals 3-7 days, no scarring
+- Partial-thickness (2nd): epidermis + dermis - red, wet, blistered, blanches - heals 2-3 wks, possible scarring
+- Full-thickness (3rd): all skin layers - white/brown/black, leathery, does NOT blanch, low/no pain - requires grafting
+- 4th degree: extends to muscle/bone - charred, black
 
-### Extent — Rule of 9s (Adults)
-Head/neck 9% · each arm 9% · chest 9% · abdomen 9% · upper back 9% · lower back 9% · each leg front 9% · each leg back 9% · genitals 1%
-**Quick estimate:** patient's palm (incl. fingers) = 1% BSA · Children: infant head = 18% (proportionally larger)
+### Extent  -  Rule of 9s (Adults)
+Head/neck 9% - each arm 9% - chest 9% - abdomen 9% - upper back 9% - lower back 9% - each leg front 9% - each leg back 9% - genitals 1%
+**Quick estimate:** patient's palm (incl. fingers) = 1% BSA - Children: infant head = 18% (proportionally larger)
 
 ## Protocol
 
@@ -65,11 +65,11 @@ Head/neck 9% · each arm 9% · chest 9% · abdomen 9% · upper back 9% · lower 
 - Remove clothing, jewelry, rings BEFORE swelling starts; leave clothing stuck to skin
 
 ### 2. Cool the Burn (10-20 min)
-- Cool running water 59-77°F (15-25°C) for 10-20 min minimum
-- ❌ No ice or ice water (causes vasoconstriction, tissue damage, hypothermia)
+- Cool running water 59-77 degF (15-25 degC) for 10-20 min minimum
+- [X] No ice or ice water (causes vasoconstriction, tissue damage, hypothermia)
 - Large burns >20% BSA: cool in intervals; STOP if victim shivers
 - Chemical burns: flush 20-45 min continuously; brush dry chemicals first
-- Electrical: minimal cooling — internal damage often worse than visible surface
+- Electrical: minimal cooling  -  internal damage often worse than visible surface
 
 ### 3. Assess & Cover
 - Depth, extent (Rule of 9s), location (face/hands/feet/genitals/joints = critical)
@@ -78,7 +78,7 @@ Head/neck 9% · each arm 9% · chest 9% · abdomen 9% · upper back 9% · lower 
 
 ### 4. Pain & Hydration
 - Adults: ibuprofen 400-600 mg + acetaminophen 500-1000 mg q6-8h; elevate burned extremity
-- Burns >10% BSA: begin oral rehydration; Parkland formula: 4 mL × kg × %BSA in 24h (half in first 8h)
+- Burns >10% BSA: begin oral rehydration; Parkland formula: 4 mL x kg x %BSA in 24h (half in first 8h)
 
 ## When to Evacuate
 - Burns >10% BSA (adult) or >5% BSA (child)
@@ -89,9 +89,9 @@ Head/neck 9% · each arm 9% · chest 9% · abdomen 9% · upper back 9% · lower 
 - Age <5 or >60 with burns >5% BSA; burn + other trauma; altered mental status or shock
 
 ## Common Mistakes
-- ❌ Ice or ice water (causes additional tissue damage)
-- ❌ Butter, oils, toothpaste, or home remedies (traps heat, increases infection)
-- ❌ Breaking blisters (increases infection risk)
-- ❌ Cooling <10 min (inadequate); overcooling large burns (hypothermia risk)
-- ❌ Removing stuck clothing; not removing jewelry before swelling
-- ❌ Underestimating electrical burns (minor surface, major internal damage)
+- [X] Ice or ice water (causes additional tissue damage)
+- [X] Butter, oils, toothpaste, or home remedies (traps heat, increases infection)
+- [X] Breaking blisters (increases infection risk)
+- [X] Cooling <10 min (inadequate); overcooling large burns (hypothermia risk)
+- [X] Removing stuck clothing; not removing jewelry before swelling
+- [X] Underestimating electrical burns (minor surface, major internal damage)

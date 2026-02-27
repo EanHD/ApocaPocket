@@ -24,7 +24,7 @@ Protect yourself when wildfire smoke reaches your area.
 ## Shelter in Place
 - Close all windows and doors.
 - Seal gaps with wet towels or tape.
-- Turn off HVAC — set to recirculate only.
+- Turn off HVAC  -  set to recirculate only.
 - Run air purifier with HEPA filter if available.
 - Stay in interior rooms away from outside walls.
 
@@ -36,7 +36,7 @@ Protect yourself when wildfire smoke reaches your area.
 
 ## High-Risk Groups
 - Pregnant women and unborn babies.
-- Children — lungs still developing.
+- Children  -  lungs still developing.
 - Elderly (65+).
 - Anyone with asthma, COPD, heart disease.
 - Take extra precautions at lower AQI thresholds.
@@ -44,13 +44,13 @@ Protect yourself when wildfire smoke reaches your area.
 ## In Your Car
 - Keep windows fully closed.
 - Set AC/heat to recirculate (NOT fresh air intake).
-- Check dashboard recirculate button — it matters.
+- Check dashboard recirculate button  -  it matters.
 
 ## Emergency Signs
 - Chest tightness or pain.
 - Shortness of breath at rest.
 - Wheezing or persistent cough.
-- Gray or blue lips or fingernails — call 911 now.
+- Gray or blue lips or fingernails  -  call 911 now.
 
 ## Evacuate When
 - AQI exceeds 200 and shelter is inadequate.
@@ -60,6 +60,6 @@ Protect yourself when wildfire smoke reaches your area.
 
 ## Recovery
 - Most smoke events last 1-7 days.
-- Drink water — helps clear airways.
+- Drink water  -  helps clear airways.
 - Avoid exercise until AQI returns below 100.
 - See a doctor if symptoms persist after smoke clears.

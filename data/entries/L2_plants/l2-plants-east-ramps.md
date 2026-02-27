@@ -62,7 +62,7 @@ audit_status: verified
 
 - Eat whole plant raw: bulb, stems, leaves
 - Chop and add to any cooked dish
-- Sauté bulbs in fat as onion substitute
+- Saute bulbs in fat as onion substitute
 - Pickle bulbs in vinegar for long storage
 
 ## Nutritional Value
@@ -72,7 +72,7 @@ audit_status: verified
 - Carbohydrates in bulb for energy
 - Traditional Appalachian spring tonic
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Lily of the valley (Convallaria): DEADLY
 - False hellebore (Veratrum): DEADLY

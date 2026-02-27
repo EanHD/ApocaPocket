@@ -17,7 +17,7 @@ region_relevance:
 summary: "Radio wave propagation: VHF/UHF line-of-sight 5-50 miles; HF skywave 100-12,000+ miles; MF ground wave 10-100 miles. Includes range calculations, band selection by time of day, NVIS regional coverage, and emergency frequency plan."
 steps:
 - "Identify band and mode: VHF/UHF = line-of-sight, HF = skywave, MF = ground wave"
-- "Calculate LOS range: 1.17 × (sqrt(h1) + sqrt(h2)), h in feet"
+- "Calculate LOS range: 1.17 x (sqrt(h1) + sqrt(h2)), h in feet"
 - "For HF: check time of day, solar activity, skip zone before selecting band"
 warnings:
 - "SKIP ZONE: HF may skip 0-500 miles. Use NVIS (80m/40m, low antenna) for regional coverage."
@@ -45,12 +45,12 @@ confidence: high
 
 ## Line-of-Sight Range
 
-Range (miles) = 1.17 × (√h1 + √h2), h = antenna height in feet.
+Range (miles) = 1.17 x (h1 + h2), h = antenna height in feet.
 
 - Handheld-to-handheld (both 6 ft): 5.7 miles
 - Handheld to 40 ft rooftop: 10.3 miles
 - 40 ft rooftop to 1,000 ft mountain: 44.4 miles
-- Urban buildings reduce range 70-90% — elevate antenna above obstructions
+- Urban buildings reduce range 70-90%  -  elevate antenna above obstructions
 
 ## HF by Time of Day
 
@@ -88,11 +88,11 @@ Geomagnetic storm (K-index >5): use 40m/80m/160m. HF above 10 MHz unreliable.
 
 ## Common Errors
 
-- Using 20m at night — band is dead; use 40m/80m after sunset
-- Expecting VHF through buildings — 20-30 dB loss, 90% range cut; elevate antenna
-- High dipole for NVIS — radiates low-angle DX, not regional; use 10-20 ft height
-- Single frequency plan — have 2-3 alternates for each time slot and distance
-- Ignoring space weather — K=7 storm makes 15m/20m unusable; check before operating
+- Using 20m at night  -  band is dead; use 40m/80m after sunset
+- Expecting VHF through buildings  -  20-30 dB loss, 90% range cut; elevate antenna
+- High dipole for NVIS  -  radiates low-angle DX, not regional; use 10-20 ft height
+- Single frequency plan  -  have 2-3 alternates for each time slot and distance
+- Ignoring space weather  -  K=7 storm makes 15m/20m unusable; check before operating
 
 ---
 Last updated: 2026-02-19

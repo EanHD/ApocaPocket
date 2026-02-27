@@ -39,7 +39,7 @@ offline_assets: []
 ---
 
 ## Overview
-Methods for catching fish with minimal or improvised equipment — hooks from bone/thorns/wire, line from plant fiber or paracord, and passive trap designs.
+Methods for catching fish with minimal or improvised equipment  -  hooks from bone/thorns/wire, line from plant fiber or paracord, and passive trap designs.
 
 ## Step-by-step
 1. Fashion hooks from safety pins, thorns, bone splinters, wire, or carved hardwood (gorge hooks).
@@ -50,5 +50,5 @@ Methods for catching fish with minimal or improvised equipment — hooks from bo
 
 ## Warnings
 - Check local regulations where law still applies.
-- Improvised hooks are fragile — set multiple lines.
+- Improvised hooks are fragile  -  set multiple lines.
 - Avoid consuming fish from visibly polluted water.

@@ -46,8 +46,8 @@ offline_assets: []
 - Patient cannot drink: unconscious, severe vomiting, unresponsive
 - Severe dehydration with inability to keep fluids down
 - Hypovolemic shock: blood loss, burns, severe dehydration
-- Last resort — oral rehydration is always preferred if possible
-- Requires training — improper technique causes sepsis
+- Last resort  -  oral rehydration is always preferred if possible
+- Requires training  -  improper technique causes sepsis
 
 ## Dehydration/Shock
 
@@ -59,11 +59,11 @@ offline_assets: []
 
 ## Fluid Types
 
-- Normal Saline (0.9% NaCl): trauma, shock, dehydration — use first
-- Lactated Ringer's: trauma, burns — more physiologic than NS
-- D5W (dextrose water): hypoglycemia only — does NOT treat shock
+- Normal Saline (0.9% NaCl): trauma, shock, dehydration  -  use first
+- Lactated Ringer's: trauma, burns  -  more physiologic than NS
+- D5W (dextrose water): hypoglycemia only  -  does NOT treat shock
 - When unsure: Normal Saline (compatible with blood and all meds)
-- Do NOT use D5W for volume resuscitation — leaves bloodstream quickly
+- Do NOT use D5W for volume resuscitation  -  leaves bloodstream quickly
 
 ## Insertion Basics
 
@@ -72,7 +72,7 @@ offline_assets: []
 - Bevel up, 15-30 degree angle, insert skin then into vein (2-step)
 - Watch for blood flashback in chamber, lower angle, advance catheter
 - Remove tourniquet, connect primed tubing, watch for swelling at site
-- Swelling at site = not in vein (infiltration) — remove, restart
+- Swelling at site = not in vein (infiltration)  -  remove, restart
 
 ## Flow Rates
 
@@ -80,13 +80,13 @@ offline_assets: []
 - Shock bolus children: 20 mL/kg over 15-20 minutes, repeat if needed
 - Maintenance rate adults: 125 mL/hr
 - Drip formula: (volume mL x drop factor) divided by time in minutes
-- Standard tubing: 10-15 drops/mL — micro-drip: 60 drops/mL
+- Standard tubing: 10-15 drops/mL  -  micro-drip: 60 drops/mL
 
 ## Complications to Watch
 
-- Infiltration: swelling and coolness at site — stop IV, remove, restart
-- Phlebitis: redness/warmth along vein length — remove, warm compress
-- Infection: fever, pus, red streaks from site — remove, start antibiotics
-- Air embolism: sudden chest pain, shortness of breath — clamp line, left side
-- Fluid overload: shortness of breath, coughing — stop or slow rate
+- Infiltration: swelling and coolness at site  -  stop IV, remove, restart
+- Phlebitis: redness/warmth along vein length  -  remove, warm compress
+- Infection: fever, pus, red streaks from site  -  remove, start antibiotics
+- Air embolism: sudden chest pain, shortness of breath  -  clamp line, left side
+- Fluid overload: shortness of breath, coughing  -  stop or slow rate
 - Change IV site every 72-96 hours to reduce infection risk

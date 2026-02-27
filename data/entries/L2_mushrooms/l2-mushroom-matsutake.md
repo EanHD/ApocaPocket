@@ -71,7 +71,7 @@ audit_status: verified
 - Iron, copper, selenium
 - ~31 cal per 100g
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Tricholoma nauseosum: unpleasant smell
 - Tricholoma pardinum: toxic; less spicy

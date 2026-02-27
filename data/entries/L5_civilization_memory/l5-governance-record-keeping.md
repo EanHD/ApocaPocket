@@ -20,7 +20,7 @@ steps:
 - Store records in multiple locations to protect against loss.
 warnings:
 - Records on paper require protection from water, fire, and insects.
-- Undocumented decisions lead to disputes—write it down.
+- Undocumented decisions lead to disputes - write it down.
 related_entries:
 - l5-governance-principles
 - l5-governance-resource-allocation
@@ -45,4 +45,4 @@ Systems for maintaining community records, inventories, and institutional knowle
 
 ## Warnings
 - Records on paper require protection from water, fire, and insects.
-- Undocumented decisions lead to disputes—write it down.
+- Undocumented decisions lead to disputes - write it down.

@@ -14,14 +14,14 @@ summary: Identifying dehydration and preparing oral rehydration solutions in the
 steps:
 - 'Recognize signs: thirst, dark urine, dry mouth, dizziness, sunken eyes, skin tenting.'
 - 'Prepare ORS: 1 liter clean water + 6 teaspoons sugar + 1/2 teaspoon salt.'
-- Administer small frequent sips — do not gulp large amounts.
+- Administer small frequent sips  -  do not gulp large amounts.
 - 'For children: 50-100 mL per episode of vomiting/diarrhea.'
 - Continue normal food intake when tolerated.
-- Monitor urine output — goal is clear to light yellow urine.
+- Monitor urine output  -  goal is clear to light yellow urine.
 warnings:
-- Severe dehydration (unconscious, unable to drink) requires IV fluids — oral alone
+- Severe dehydration (unconscious, unable to drink) requires IV fluids  -  oral alone
   insufficient.
-- Incorrect ORS ratios can worsen condition — measure carefully.
+- Incorrect ORS ratios can worsen condition  -  measure carefully.
 - Vomiting and diarrhea combined cause rapid dehydration, especially in children.
 related_entries:
 - l1-water-boiling-disinfection
@@ -42,12 +42,12 @@ Identifying dehydration and preparing oral rehydration solutions in the field.
 ## Step-by-step
 1. Recognize signs: thirst, dark urine, dry mouth, dizziness, sunken eyes, skin tenting.
 2. Prepare ORS: 1 liter clean water + 6 teaspoons sugar + 1/2 teaspoon salt.
-3. Administer small frequent sips — do not gulp large amounts.
+3. Administer small frequent sips  -  do not gulp large amounts.
 4. For children: 50-100 mL per episode of vomiting/diarrhea.
 5. Continue normal food intake when tolerated.
-6. Monitor urine output — goal is clear to light yellow urine.
+6. Monitor urine output  -  goal is clear to light yellow urine.
 
 ## Warnings
-- Severe dehydration (unconscious, unable to drink) requires IV fluids — oral alone insufficient.
-- Incorrect ORS ratios can worsen condition — measure carefully.
+- Severe dehydration (unconscious, unable to drink) requires IV fluids  -  oral alone insufficient.
+- Incorrect ORS ratios can worsen condition  -  measure carefully.
 - Vomiting and diarrhea combined cause rapid dehydration, especially in children.

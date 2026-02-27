@@ -18,9 +18,9 @@ steps:
 - Filter collected water through cloth to remove debris.
 - Treat collected water (boil or chemically disinfect) before drinking.
 warnings:
-- Rooftop runoff may contain bird droppings, chemicals, or heavy metals — always treat.
-- Standing rainwater breeds mosquitoes — cover containers.
-- First flush from any surface is the most contaminated — discard it.
+- Rooftop runoff may contain bird droppings, chemicals, or heavy metals  -  always treat.
+- Standing rainwater breeds mosquitoes  -  cover containers.
+- First flush from any surface is the most contaminated  -  discard it.
 related_entries:
 - l1-water-storage-safety
 - l1-water-boiling-disinfection
@@ -47,6 +47,6 @@ Methods for collecting and storing rainwater for drinking and use.
 6. Treat collected water (boil or chemically disinfect) before drinking.
 
 ## Warnings
-- Rooftop runoff may contain bird droppings, chemicals, or heavy metals — always treat.
-- Standing rainwater breeds mosquitoes — cover containers.
-- First flush from any surface is the most contaminated — discard it.
+- Rooftop runoff may contain bird droppings, chemicals, or heavy metals  -  always treat.
+- Standing rainwater breeds mosquitoes  -  cover containers.
+- First flush from any surface is the most contaminated  -  discard it.

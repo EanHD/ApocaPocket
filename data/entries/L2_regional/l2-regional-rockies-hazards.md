@@ -17,19 +17,19 @@ category: L2_food_biology
 
 ## Altitude Sickness
 
-**AMS (Acute Mountain Sickness) — Common**
+**AMS (Acute Mountain Sickness)  -  Common**
 - Onset: 6-24 hrs after rapid ascent above 8,000 ft.
 - Symptoms: Headache, nausea, fatigue, dizziness, poor sleep, breathlessness.
 - Treatment: Stop ascending. Rest. Hydrate (1+ gal/day). Ibuprofen for headache.
 - If worsening after 24 hrs at same elevation: DESCEND IMMEDIATELY.
 
-**HAPE (Pulmonary Edema) — FATAL**
+**HAPE (Pulmonary Edema)  -  FATAL**
 - Fluid accumulates in lungs. Death in 6-12 hrs without action.
 - Symptoms: Worsening breathlessness, wet cough, pink frothy sputum, blue lips, gurgling chest.
 - Treatment: DESCEND 1,000-3,000 ft NOW. This is the only reliable treatment.
 - Oxygen/Gamow bag/nifedipine only if descent is truly impossible.
 
-**HACE (Cerebral Edema) — FATAL**
+**HACE (Cerebral Edema)  -  FATAL**
 - Brain swells inside skull. Death in 12-24 hrs without action.
 - Symptoms: Severe unrelenting headache, ataxia (loss of coordination), confusion, seizure, coma.
 - Ataxia test: Draw a 3-ft line. Walk heel-to-toe. Stepping off = HACE until proven otherwise.
@@ -45,7 +45,7 @@ category: L2_food_biology
 
 - 25-30 deaths/year in US. 90% triggered by victim or their party.
 - Survival rates: 93% if dug out in 15 min. 30% at 35 min. Under 3% at 130 min.
-- Danger slope: 30-45°. Lee (downwind) slopes are wind-loaded and most dangerous.
+- Danger slope: 30-45 deg. Lee (downwind) slopes are wind-loaded and most dangerous.
 - Red flags: 12+ inches new snow in 24 hrs, wind loading, rapid warming, whumpfing sounds, shooting cracks.
 - Sparse trees = past avalanche path. Avoid.
 
@@ -63,7 +63,7 @@ category: L2_food_biology
 
 ## Lightning
 
-- Rockies pattern: Clear mornings → clouds build 11 AM → storms strike 2-4 PM → clear by evening.
+- Rockies pattern: Clear mornings -> clouds build 11 AM -> storms strike 2-4 PM -> clear by evening.
 - Rule: Be OFF summits and ridges by 2 PM latest. Descend before storm arrives.
 - Warning signs: Towering cumulus, darkening sky, wind increase, temperature drop.
 - Immediate danger: Hair stands up or buzzing sounds. Drop metal tools. Move NOW.

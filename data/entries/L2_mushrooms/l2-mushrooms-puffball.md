@@ -13,10 +13,10 @@ region_relevance:
 - global
 confidence: high
 difficulty: intermediate
-summary: Large white ball-shaped mushroom in fields and meadows. Safe ONLY when interior is uniformly white. Must slice before eating — Amanita eggs are deadly lookalike.
+summary: Large white ball-shaped mushroom in fields and meadows. Safe ONLY when interior is uniformly white. Must slice before eating  -  Amanita eggs are deadly lookalike.
 warnings:
-- CRITICAL: Always slice in half vertically before eating — no exceptions.
-- If interior shows outline of cap/gills: young Amanita (potentially deadly) — DISCARD IMMEDIATELY.
+- CRITICAL: Always slice in half vertically before eating  -  no exceptions.
+- If interior shows outline of cap/gills: young Amanita (potentially deadly)  -  DISCARD IMMEDIATELY.
 - If interior shows ANY discoloration (yellow/brown/green): too old, discard.
 related_entries:
 - l2-mushrooms-safety
@@ -39,7 +39,7 @@ audit_status: verified
 - ALWAYS cut in half top to bottom
 - Interior MUST be pure solid white
 - Any yellow, purple, or discoloration = STOP
-- Outline of cap/gills inside = AMANITA EGG — DEADLY
+- Outline of cap/gills inside = AMANITA EGG  -  DEADLY
 - Solid white throughout = true puffball only
 
 ## Amanita Egg Warning

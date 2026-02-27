@@ -20,7 +20,7 @@ steps:
 - 'Sound signals: horns, bells, drums carry 1-5 km depending on terrain.'
 - Set up relay stations on hilltops for extended range communication chains.
 warnings:
-- Signals are visible to everyone—assume hostile observers.
+- Signals are visible to everyone - assume hostile observers.
 - Weather (fog, wind) degrades both visual and audio signals.
 related_entries:
 - l5-communication-systems-basics
@@ -46,5 +46,5 @@ Using flags, mirrors, smoke, horns, and drums for long-distance communication wi
 5. Set up relay stations on hilltops for extended range communication chains.
 
 ## Warnings
-- Signals are visible to everyone—assume hostile observers.
+- Signals are visible to everyone - assume hostile observers.
 - Weather (fog, wind) degrades both visual and audio signals.

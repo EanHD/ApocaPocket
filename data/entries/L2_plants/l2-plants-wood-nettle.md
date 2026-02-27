@@ -72,7 +72,7 @@ audit_status: verified
 - ~40 cal per 100g cooked
 - One of best spring wild greens in East
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - False nettle (Boehmeria): no stinging hairs
 - False nettle is edible; just not stinging

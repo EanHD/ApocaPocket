@@ -17,11 +17,11 @@ steps:
   for ore.
 - Cold-work native copper by hammering; anneal (heat to red and quench) to restore
   malleability.
-- Smelt copper ore in a charcoal furnace with bellows at ~1100°C.
+- Smelt copper ore in a charcoal furnace with bellows at ~1100 degC.
 - Cast copper into molds for axes, vessels, and fittings.
-- Alloy with tin (5-12%) to create bronze—harder and better for tools.
+- Alloy with tin (5-12%) to create bronze - harder and better for tools.
 warnings:
-- Copper smelting produces toxic fumes—smelt only outdoors.
+- Copper smelting produces toxic fumes - smelt only outdoors.
 - Molten copper splashes violently if it contacts moisture.
 related_entries:
 - l5-metallurgy-basics
@@ -42,10 +42,10 @@ Working native copper and smelting copper ore for tools, vessels, and eventually
 ## Step-by-step
 1. Find native copper nuggets in streambeds or green-stained rocks (malachite, azurite) for ore.
 2. Cold-work native copper by hammering; anneal (heat to red and quench) to restore malleability.
-3. Smelt copper ore in a charcoal furnace with bellows at ~1100°C.
+3. Smelt copper ore in a charcoal furnace with bellows at ~1100 degC.
 4. Cast copper into molds for axes, vessels, and fittings.
-5. Alloy with tin (5-12%) to create bronze—harder and better for tools.
+5. Alloy with tin (5-12%) to create bronze - harder and better for tools.
 
 ## Warnings
-- Copper smelting produces toxic fumes—smelt only outdoors.
+- Copper smelting produces toxic fumes - smelt only outdoors.
 - Molten copper splashes violently if it contacts moisture.

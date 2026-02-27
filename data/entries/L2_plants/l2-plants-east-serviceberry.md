@@ -72,7 +72,7 @@ audit_status: verified
 - After fruit set, plant becomes inconspicuous
 - Mark trees in flower so you can find in fruit
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No deadly lookalikes
 - Crown tip on berry is distinctive

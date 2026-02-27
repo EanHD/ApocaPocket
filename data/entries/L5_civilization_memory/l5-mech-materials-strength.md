@@ -18,10 +18,10 @@ steps:
 - 'Apply safety factors: design load = ultimate strength / safety factor (typically
   2-4 for critical structures).'
 - 'Recognize failure modes: tension, compression, shear, buckling, fatigue.'
-- Test materials empirically when data is unavailable—load incrementally and observe.
+- Test materials empirically when data is unavailable - load incrementally and observe.
 warnings:
 - Fatigue failure occurs below yield strength after many load cycles.
-- Notches and holes concentrate stress—round all corners.
+- Notches and holes concentrate stress - round all corners.
 related_entries:
 - l5-mechanical-engineering-basics
 - l5-structural-load-paths
@@ -43,8 +43,8 @@ Understanding how materials respond to loads, and how to apply safety factors to
 2. Identify yield strength (permanent deformation begins) vs. ultimate strength (failure).
 3. Apply safety factors: design load = ultimate strength / safety factor (typically 2-4 for critical structures).
 4. Recognize failure modes: tension, compression, shear, buckling, fatigue.
-5. Test materials empirically when data is unavailable—load incrementally and observe.
+5. Test materials empirically when data is unavailable - load incrementally and observe.
 
 ## Warnings
 - Fatigue failure occurs below yield strength after many load cycles.
-- Notches and holes concentrate stress—round all corners.
+- Notches and holes concentrate stress - round all corners.

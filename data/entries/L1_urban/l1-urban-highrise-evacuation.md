@@ -21,14 +21,14 @@ sources:
 ## Overview
 
 - High-rise = 7+ stories; NEVER use elevators during fire/earthquake (power fails, elevator recalled)
-- Evacuate EARLY — once 300+ people fill stairwells, descent slows to 10-15 min per floor
+- Evacuate EARLY  -  once 300+ people fill stairwells, descent slows to 10-15 min per floor
 - Evacuate for: fire alarm, visible smoke, felt earthquake (M5+), explosion, official order
 - Shelter in place for: active shooter outside floor, external hazmat cloud, tornado/severe wind
 
 ## Pre-Evac Assessment
 
-1. Touch door (not handle): hot = fire on floor — seal room, call 911, signal from window
-2. Cool door — open slowly; heavy smoke in hall — low-crawl with wet cloth; clear — proceed
+1. Touch door (not handle): hot = fire on floor  -  seal room, call 911, signal from window
+2. Cool door  -  open slowly; heavy smoke in hall  -  low-crawl with wet cloth; clear  -  proceed
 3. Grab go-bag only if pre-staged at door (15 sec max); otherwise leave it
 4. Alert 2-3 neighbors (knock, shout "evacuate!"); don't wait for response
 5. Shoes on, close door behind you, head to stairwell
@@ -73,12 +73,12 @@ sources:
 
 ## Common Mistakes
 
-- Waiting for elevator — always use stairs during fire/earthquake
-- Grabbing belongings — go-bag only, 15 sec max
-- Opening a hot door — touch first; if hot, seal room and signal from window
-- Sprinting — controlled pace prevents pile-ups
-- Ignoring alarm — every alarm is real until proven otherwise
-- Re-entering building — never, not even for pets or documents
+- Waiting for elevator  -  always use stairs during fire/earthquake
+- Grabbing belongings  -  go-bag only, 15 sec max
+- Opening a hot door  -  touch first; if hot, seal room and signal from window
+- Sprinting  -  controlled pace prevents pile-ups
+- Ignoring alarm  -  every alarm is real until proven otherwise
+- Re-entering building  -  never, not even for pets or documents
 
 ## Sources
 

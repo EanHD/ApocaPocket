@@ -71,7 +71,7 @@ audit_status: verified
 - Frost improves sweetness; best late fall
 - High priority winter foraging target
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes for rose hips
 - All Rosa species produce edible hips

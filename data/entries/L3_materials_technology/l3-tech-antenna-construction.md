@@ -24,7 +24,7 @@ warnings:
 - "HIGH VOLTAGE: Transmitting antenna generates RF voltages of 100-1000+ volts at feed point. Never touch antenna while transmitting. RF burns are painful and slow to heal"
 - "TOWER SAFETY: Falls from antenna towers/roofs are leading cause of ham radio fatalities. Use fall arrest harness, work with partner, never climb alone or in wind/rain. Towers >20 feet require professional installation or training"
 - "LIGHTNING: Outdoor antennas act as lightning attractors. Install lightning arrestor, ground system, and disconnect antenna during storms. Direct lightning strike can cause fire, electrocution, equipment damage >$10,000"
-- "POWER LINES: Contact between antenna and power lines causes electrocution and fires. Maintain 2× pole height distance from power lines (if 30-foot pole, stay 60 feet from wires). Falling antenna striking power line is major hazard"
+- "POWER LINES: Contact between antenna and power lines causes electrocution and fires. Maintain 2x pole height distance from power lines (if 30-foot pole, stay 60 feet from wires). Falling antenna striking power line is major hazard"
 - "RF EXPOSURE: Close proximity to transmitting antenna (especially mobile whip antennas) can exceed FCC exposure limits. Maintain 20-200cm distance during transmission depending on power. Never transmit with antenna indoors (in vehicle cabin, inside building without external antenna)"
 - "SWR DAMAGE: Operating radio with SWR >3:1 can damage transmitter finals (output transistors, $100-500 repair). Always check SWR before transmitting at full power"
 related_entries:

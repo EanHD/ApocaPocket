@@ -13,17 +13,17 @@ region_relevance:
 summary: Strategies for retaining body heat in cold conditions without external heat
   sources.
 steps:
-- Insulate from ground first — ground steals heat 25x faster than air.
+- Insulate from ground first  -  ground steals heat 25x faster than air.
 - 'Layer clothing: wicking base, insulating middle, wind/waterproof outer.'
-- Keep dry — wet insulation loses up to 90% of insulating value.
-- Minimize shelter volume — smaller space retains body heat better.
-- Huddle with others — shared body heat significantly increases warmth.
+- Keep dry  -  wet insulation loses up to 90% of insulating value.
+- Minimize shelter volume  -  smaller space retains body heat better.
+- Huddle with others  -  shared body heat significantly increases warmth.
 - Heat rocks near fire, wrap in cloth, place in shelter or sleeping bag (not hot enough
   to burn).
 warnings:
-- Cotton kills — wet cotton provides zero insulation and accelerates heat loss.
-- Do not sleep directly on cold ground — hypothermia risk even in above-freezing temperatures.
-- Tight clothing restricts circulation and reduces warmth — layers should be loose.
+- Cotton kills  -  wet cotton provides zero insulation and accelerates heat loss.
+- Do not sleep directly on cold ground  -  hypothermia risk even in above-freezing temperatures.
+- Tight clothing restricts circulation and reduces warmth  -  layers should be loose.
 related_entries:
 - l1-shelter-insulation-principles
 - l1-medical-hypothermia
@@ -41,14 +41,14 @@ offline_assets: []
 Strategies for retaining body heat in cold conditions without external heat sources.
 
 ## Step-by-step
-1. Insulate from ground first — ground steals heat 25x faster than air.
+1. Insulate from ground first  -  ground steals heat 25x faster than air.
 2. Layer clothing: wicking base, insulating middle, wind/waterproof outer.
-3. Keep dry — wet insulation loses up to 90% of insulating value.
-4. Minimize shelter volume — smaller space retains body heat better.
-5. Huddle with others — shared body heat significantly increases warmth.
+3. Keep dry  -  wet insulation loses up to 90% of insulating value.
+4. Minimize shelter volume  -  smaller space retains body heat better.
+5. Huddle with others  -  shared body heat significantly increases warmth.
 6. Heat rocks near fire, wrap in cloth, place in shelter or sleeping bag (not hot enough to burn).
 
 ## Warnings
-- Cotton kills — wet cotton provides zero insulation and accelerates heat loss.
-- Do not sleep directly on cold ground — hypothermia risk even in above-freezing temperatures.
-- Tight clothing restricts circulation and reduces warmth — layers should be loose.
+- Cotton kills  -  wet cotton provides zero insulation and accelerates heat loss.
+- Do not sleep directly on cold ground  -  hypothermia risk even in above-freezing temperatures.
+- Tight clothing restricts circulation and reduces warmth  -  layers should be loose.

@@ -33,9 +33,9 @@ summary: Water filtration removes sediment, protozoa (Giardia, Crypto), and bact
 warnings:
 - Most field filters do NOT remove dissolved chemicals, heavy metals, salt, or viruses (>0.2 micron filters)
 - Virus removal requires <0.02 micron filter OR chemical/UV disinfection after filtration
-- Improvised filters (cloth, sand, charcoal) remove SEDIMENT ONLY — do not remove pathogens without additional treatment
-- Filters can clog or crack — carry backup treatment method (tablets, boiling capability)
-- Cold water filtration is slower — warm water flows faster through filters
+- Improvised filters (cloth, sand, charcoal) remove SEDIMENT ONLY  -  do not remove pathogens without additional treatment
+- Filters can clog or crack  -  carry backup treatment method (tablets, boiling capability)
+- Cold water filtration is slower  -  warm water flows faster through filters
 steps:
 - 'FILTRATION BASICS: Understanding what filters remove vs retain. Sediment (dirt, debris): removed by any filter. Protozoan cysts (Giardia 8-14 microns, Cryptosporidium 4-6 microns): removed by 0.1-1 micron filters. Bacteria (E. coli, Salmonella 0.5-3 microns): removed by 0.1-0.3 micron filters. Viruses (Hepatitis A, Norovirus 0.02-0.1 microns): require <0.02 micron OR hollow fiber filters with chemical treatment. Chemicals, heavy metals, salt: NOT removed by mechanical filters (need activated carbon or distillation).'
 - 'COMMERCIAL FILTER TYPES: 1) HOLLOW FIBER FILTERS (Sawyer Mini, LifeStraw): 0.1-0.2 micron pore size, removes protozoa + bacteria, lifespan 100,000+ gallons, weight 2-3 oz, must be kept from freezing (cracks fibers), flow rate 1-2 liters/minute. 2) CERAMIC FILTERS (Katadyn, MSR): 0.2-0.3 micron, can be scrubbed clean, fragile (can crack), lifespan 13,000 gallons, weight 8-16 oz. 3) PUMP FILTERS (MSR Guardian, Katadyn Hiker): 0.1-0.2 micron, fast flow (1 liter/minute), heavy (1-1.5 lbs), good for groups. 4) GRAVITY FILTERS (Platypus GravityWorks): hang bag, gravity feeds through filter, hands-free, 1.5-4 liters capacity.'
@@ -44,7 +44,7 @@ steps:
 - 'CLOTH FILTRATION (basic sediment removal): Tightly woven cotton cloth (t-shirt, sari cloth, bandana) folded 4-8 layers. Pour water through slowly. Removes 50-70% of sediment and large particulates. Reduces cholera bacteria (which attach to plankton) by 50%. Removes NO protozoa or viruses. Improves water clarity for subsequent boiling/chemical treatment. Wash cloth after each use. Effectiveness increases with more layers (diminishing returns after 8 layers).'
 - 'TRIPOD FILTER (layered cloth method): Tie three long sticks in tripod, suspend cloth bag filled with: first layer (bottom) = fine cloth or coffee filter, second layer = crushed charcoal (if available), third layer (top) = coarse cloth or grass. Pour water through layers. Gravity fed. Similar to sand filter but faster setup (10 minutes). Less effective but useful when materials limited.'
 - 'BOTTLE FILTER (primitive): Cut bottom off plastic bottle (2-liter), invert, stuff with filtration layers (bottom to top): cloth/cotton ball plug, charcoal (crushed), sand (fine), gravel (small), cloth/grass (pre-filter). Pour water in top (cut bottom now facing up), collect from bottle mouth (original top). Flow rate: 1 cup per 5-10 minutes. Must follow with boiling.'
-- 'USING COMMERCIAL FILTERS: 1) READ INSTRUCTIONS — pore size, flow rate, capacity, maintenance. 2) Prime filter per instructions (usually backflush with clean water). 3) Pre-filter source water through cloth. 4) Connect filter between dirty water source and clean container. 5) Pump/squeeze/gravity feed per design. 6) MAINTAIN: backflush every 20-50 liters (extends life), store dry, protect from freezing. 7) TRACK USAGE: mark on filter or log to know when approaching lifespan limit. Reduced flow = clog (backflush) or end of life (replace).'
+- 'USING COMMERCIAL FILTERS: 1) READ INSTRUCTIONS  -  pore size, flow rate, capacity, maintenance. 2) Prime filter per instructions (usually backflush with clean water). 3) Pre-filter source water through cloth. 4) Connect filter between dirty water source and clean container. 5) Pump/squeeze/gravity feed per design. 6) MAINTAIN: backflush every 20-50 liters (extends life), store dry, protect from freezing. 7) TRACK USAGE: mark on filter or log to know when approaching lifespan limit. Reduced flow = clog (backflush) or end of life (replace).'
 - 'COLD WEATHER CONSIDERATIONS: Hollow fiber and ceramic filters CRACK if water inside freezes (expanding ice). Prevention: 1) Store filter inside sleeping bag at night. 2) Blow air through filter after use to expel water. 3) Keep filter in inside jacket pocket when traveling. If filter freezes: assume compromised, use backup method (boiling, chemical). Some manufacturers (MSR Guardian) advertise freeze-proof designs.'
 - 'FILTER + DISINFECTION COMBO (maximum safety): BEST PRACTICE: Filter first (removes sediment and protozoa/bacteria), then chemically disinfect or boil (kills viruses and any remaining pathogens). Why combo: 1) Filtering clarifies water making chemical treatment more effective. 2) Removes bad taste/smell improving drinkability. 3) Chemical treatment kills viruses that many filters miss. 4) Redundancy = safety. Time: filter 1 liter in 2-5 minutes, chemical treat for 30 minutes, total 35-40 minutes.'
 - 'FILTER VERIFICATION: How to confirm filter working: 1) Visual: filtered water is clear (not cloudy). 2) Flow rate: consistent with manufacturer specs (slowing = clog). 3) Taste: no sediment grit when drinking. 4) Inspection: no cracks in housing or filter element. If uncertain: boil filtered water before drinking.'
@@ -54,7 +54,8 @@ diagram: diagrams/filtration-methods.svg
 
 # Field Water Filtration
 
-Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria through physical barriers. Pore size determines effectiveness: 0.1-0.2 micron filters remove protozoa and bacteria (99.99%+), 0.02 micron removes viruses. Improvised filters remove sediment only - must combine with boiling/chemical treatment. Filter first, then disinfect for maximum safety.
+Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria through physical barriers. Pore size determines effectiveness: 0.1-0.2 micron filters remove protozoa and bacteria
+(99.99%+), 0.02 micron removes viruses. Improvised filters remove sediment only - must combine with boiling/chemical treatment. Filter first, then disinfect for maximum safety.
 
 ## Filter Effectiveness
 
@@ -67,14 +68,14 @@ Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria thro
 
 ## Commercial Filters
 
-- Hollow Fiber (Sawyer): 0.1μ / 2 oz
-- Ceramic (Katadyn): 0.2μ / 8-12 oz
-- Pump (MSR): 0.1μ / 16-20 oz
-- Gravity (Platypus): 0.2μ / 10 oz
+- Hollow Fiber (Sawyer): 0.1 / 2 oz
+- Ceramic (Katadyn): 0.2 / 8-12 oz
+- Pump (MSR): 0.1 / 16-20 oz
+- Gravity (Platypus): 0.2 / 10 oz
 
 ## Sand Filter
 
-**Layer order (bottom → top):**
+**Layer order (bottom -> top):**
 1. Cloth barrier (holds materials)
 2. Fine gravel - 2 inches
 3. Coarse gravel - 2 inches
@@ -98,6 +99,6 @@ Water filtration removes sediment, protozoa (Giardia, Crypto), and bacteria thro
 **Result:** 99.99%+ pathogen removal
 
 ## See Also
-- [Boiling Disinfection](/l1-water-boiling-disinfection) — Thermal water treatment
-- [Chemical Disinfection](/l1-water-chemical-disinfection) — Iodine and chlorine
-- [Contamination Risk](/l1-water-contamination-risk) — Understanding water threats
+- Boiling Disinfection  -  Thermal water treatment
+- Chemical Disinfection  -  Iodine and chlorine
+- Contamination Risk  -  Understanding water threats

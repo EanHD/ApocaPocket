@@ -19,7 +19,7 @@ steps:
 - Apply insulation principles to reduce unwanted heat loss.
 - Design simple steam or hot-air engines using pressure differentials.
 warnings:
-- Pressurized vessels can explode—always include pressure relief.
+- Pressurized vessels can explode - always include pressure relief.
 - Burns from steam are more severe than from dry heat at the same temperature.
 related_entries:
 - l5-mechanical-engineering-basics
@@ -45,5 +45,5 @@ Fundamental principles of heat transfer and energy conversion for building simpl
 5. Design simple steam or hot-air engines using pressure differentials.
 
 ## Warnings
-- Pressurized vessels can explode—always include pressure relief.
+- Pressurized vessels can explode - always include pressure relief.
 - Burns from steam are more severe than from dry heat at the same temperature.

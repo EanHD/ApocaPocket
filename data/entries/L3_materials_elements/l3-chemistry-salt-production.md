@@ -26,8 +26,8 @@ steps:
 - Store in dry, sealed containers. Salt is essential for food preservation, leather
   tanning, and health.
 warnings:
-- Boiling brine produces hot steam and splashing—use eye protection and caution.
-- Concentrated brine is corrosive to metal containers—use clay, glass, or stainless steel when possible.
+- Boiling brine produces hot steam and splashing - use eye protection and caution.
+- Concentrated brine is corrosive to metal containers - use clay, glass, or stainless steel when possible.
 related_entries:
 - l3-minerals-salt-extraction
 - l4-agriculture-food-preservation
@@ -52,5 +52,5 @@ Methods for producing salt at scale through solar evaporation, boiling brine, an
 6. Store in dry, sealed containers. Salt is essential for food preservation, leather tanning, and health.
 
 ## Warnings
-- Boiling brine produces hot steam and splashing—use eye protection and caution.
-- Concentrated brine is corrosive to metal containers—use clay, glass, or stainless steel when possible.
+- Boiling brine produces hot steam and splashing - use eye protection and caution.
+- Concentrated brine is corrosive to metal containers - use clay, glass, or stainless steel when possible.

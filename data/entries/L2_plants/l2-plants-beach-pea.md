@@ -78,7 +78,7 @@ audit_status: verified
 - ~50 cal per 100g fresh pods
 - Coastal supplement; not primary survival food
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Wild vetch (Vicia): similar; check habitat
 - Most coastal Lathyrus = edible young pods

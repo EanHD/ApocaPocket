@@ -12,15 +12,15 @@ region_relevance:
 - global
 summary: How to harden and temper steel tools for optimal edge retention and toughness.
 steps:
-- Heat steel to critical temperature (cherry red, ~800°C) uniformly.
+- Heat steel to critical temperature (cherry red, ~800 degC) uniformly.
 - Quench in water or oil for maximum hardness (martinsite formation).
 - Clean the surface bright to observe temper colors.
-- 'Reheat slowly and watch oxide colors: straw (220°C) for cutting edges, blue (300°C)
+- 'Reheat slowly and watch oxide colors: straw (220 degC) for cutting edges, blue (300 degC)
   for springs.'
 - Quench again when desired color reaches the working edge.
 warnings:
-- Over-hardened steel is brittle and shatters—always temper after hardening.
-- Quenching hot metal in water produces steam—keep face clear.
+- Over-hardened steel is brittle and shatters - always temper after hardening.
+- Quenching hot metal in water produces steam - keep face clear.
 related_entries:
 - l5-metallurgy-basics
 - l5-metallurgy-iron-smelting
@@ -38,12 +38,12 @@ offline_assets: []
 How to harden and temper steel tools for optimal edge retention and toughness.
 
 ## Step-by-step
-1. Heat steel to critical temperature (cherry red, ~800°C) uniformly.
+1. Heat steel to critical temperature (cherry red, ~800 degC) uniformly.
 2. Quench in water or oil for maximum hardness (martinsite formation).
 3. Clean the surface bright to observe temper colors.
-4. Reheat slowly and watch oxide colors: straw (220°C) for cutting edges, blue (300°C) for springs.
+4. Reheat slowly and watch oxide colors: straw (220 degC) for cutting edges, blue (300 degC) for springs.
 5. Quench again when desired color reaches the working edge.
 
 ## Warnings
-- Over-hardened steel is brittle and shatters—always temper after hardening.
-- Quenching hot metal in water produces steam—keep face clear.
+- Over-hardened steel is brittle and shatters - always temper after hardening.
+- Quenching hot metal in water produces steam - keep face clear.

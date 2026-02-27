@@ -21,7 +21,7 @@ steps:
 - Understand true expiration vs labeled dates
 warnings:
 - Degraded medications may be ineffective or toxic (especially insulin, epinephrine, tetracyclines)
-- Heat exposure above 86°F degrades most medications faster than expiration dates suggest
+- Heat exposure above 86 degF degrades most medications faster than expiration dates suggest
 - Some medications remain effective years past expiration but others degrade rapidly
 - Insulin and vaccines require refrigeration - no safe alternative to cold chain
 related_entries:
@@ -45,7 +45,7 @@ offline_assets: []
 
 - Room temp (68-77F / 20-25C): most tablets, capsules, oral antibiotics
 - Refrigerate (36-46F / 2-8C): insulin unopened, vaccines, mixed liquid antibiotics
-- Do NOT freeze: insulin, most liquids — destroys effectiveness
+- Do NOT freeze: insulin, most liquids  -  destroys effectiveness
 - Keep below 86F (30C): nitroglycerin, aspirin, epinephrine, suppositories
 - Worst locations: hot car, bathroom cabinet, kitchen near stove
 
@@ -61,15 +61,15 @@ offline_assets: []
 
 - 88% of medications retained full potency 5+ years past expiration
 - Tablets/capsules stored dry and cool: often effective 5-10+ years
-- Tetracyclines: DO NOT USE EXPIRED — toxic degradation causes kidney damage
-- Insulin: respect labeled expiration — degrades rapidly at room temp
+- Tetracyclines: DO NOT USE EXPIRED  -  toxic degradation causes kidney damage
+- Insulin: respect labeled expiration  -  degrades rapidly at room temp
 - Nitroglycerin: replace every 3-6 months even if not expired
 - Epinephrine: use if clear, discard if pink or brown (oxidized, ineffective)
 
 ## Degradation: Discard
 
-- Vinegar smell: aspirin degraded — discard immediately
-- Crumbling or sticky tablets: moisture damage — discard
+- Vinegar smell: aspirin degraded  -  discard immediately
+- Crumbling or sticky tablets: moisture damage  -  discard
 - Color change in any medication: discard
 - Cloudy liquid that should be clear: discard
 - Unusual or foul odor: discard
@@ -78,14 +78,14 @@ offline_assets: []
 ## Priority Meds
 
 - Insulin: cold chain critical, 28-day limit at room temp once opened
-- Epinephrine: heat and light degrade it — life-saving, protect it
+- Epinephrine: heat and light degrade it  -  life-saving, protect it
 - Nitroglycerin: amber glass, cool storage, replace frequently
 - Seizure, cardiac, and psychiatric meds: treat as highest priority
-- Antibiotics (tablets): room temp, dry, dark — stable for years
+- Antibiotics (tablets): room temp, dry, dark  -  stable for years
 
 ## Field Storage
 
-- Store in core of pack (not outer pockets) — insulated from extremes
+- Store in core of pack (not outer pockets)  -  insulated from extremes
 - Use waterproof container: dry bag, ammo can, or Pelican case
 - Add silica gel desiccant to reduce moisture inside container
 - Wrap light-sensitive meds in foil inside container

@@ -35,7 +35,7 @@ Reliable pumping depends on seals, valves, priming, and routine maintenance.
 
 ## Priming Protocol
 - Fill pump body with clean water.
-- Operate strokes steadily for 1–3 minutes.
+- Operate strokes steadily for 1 - 3 minutes.
 - Re-prime if suction fails.
 
 ## Seal & Valve Maint

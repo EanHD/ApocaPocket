@@ -7,20 +7,20 @@ category: L1_immediate_survival
 
 ## What This Covers
 Safe lighting options when power is out. Candles cause 20%
-of home fires — spikes happen during outages.
+of home fires  -  spikes happen during outages.
 
 ## Priority Order
-1. LED headlamp — hands-free, long battery life.
-2. LED flashlight — reliable, durable.
-3. Battery or crank lantern — area light, no fire risk.
-4. Glow sticks — safe for kids, 8-12 hour life.
-5. Candles — last resort only.
-6. Open flame (fireplace, fire pit) — controlled settings only.
+1. LED headlamp  -  hands-free, long battery life.
+2. LED flashlight  -  reliable, durable.
+3. Battery or crank lantern  -  area light, no fire risk.
+4. Glow sticks  -  safe for kids, 8-12 hour life.
+5. Candles  -  last resort only.
+6. Open flame (fireplace, fire pit)  -  controlled settings only.
 
 ## Battery Light Tips
 - LED lasts 10-20x longer than incandescent.
 - Use only when needed. Turn off to conserve.
-- Phone flashlight drains battery fast — avoid.
+- Phone flashlight drains battery fast  -  avoid.
 - Headlamps free both hands for tasks.
 
 ## Candle Rules
@@ -40,7 +40,7 @@ of home fires — spikes happen during outages.
 ## Glow Sticks
 - 8-12 hours of reliable light.
 - Work in cold and wet conditions.
-- No fire risk — good for children's rooms.
+- No fire risk  -  good for children's rooms.
 - Cannot be turned off once activated.
 
 ## CO Danger from Flames
@@ -52,5 +52,5 @@ of home fires — spikes happen during outages.
 
 ## Conserve Batteries
 - Identify all battery types you have (AA, AAA, D, 9V).
-- Rotate use — don't run all sources at once.
+- Rotate use  -  don't run all sources at once.
 - Rechargeables + solar charger extend supply indefinitely.

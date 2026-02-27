@@ -73,7 +73,7 @@ audit_status: verified
 - Root lather: soap substitute in water
 - Sharp leaf tip + fiber: needle and thread
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Agave (Agave spp): very similar
 - Agave also edible with same methods

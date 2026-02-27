@@ -19,7 +19,7 @@ steps:
 - Establish water testing routines and maintenance schedules.
 warnings:
 - Untreated surface water carries parasites, bacteria, and viruses.
-- Pipe systems require ongoing maintenance—train local technicians.
+- Pipe systems require ongoing maintenance - train local technicians.
 related_entries:
 - l5-health-sanitation-systems
 - l5-health-disease-prevention
@@ -46,4 +46,4 @@ Designing community-scale water collection, treatment, and distribution systems.
 
 ## Warnings
 - Untreated surface water carries parasites, bacteria, and viruses.
-- Pipe systems require ongoing maintenance—train local technicians.
+- Pipe systems require ongoing maintenance - train local technicians.

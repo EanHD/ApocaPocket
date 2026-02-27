@@ -72,7 +72,7 @@ audit_status: verified
 - Water content 85-90%: hydration value
 - Mucilage in pads binds toxins in gut
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes; unique paddle shape
 - Cholla cactus: cylindrical, not flat pads

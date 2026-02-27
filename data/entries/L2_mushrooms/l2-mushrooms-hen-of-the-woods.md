@@ -16,7 +16,7 @@ confidence: high
 difficulty: beginner
 summary: Large polypore at base of oaks in fall. Overlapping gray-brown fan caps with white pore surface. Excellent flavor, high medicinal value. Can produce massive fruitings.
 warnings:
-- Berkeley's polypore (Bondarzewia berkeleyi) is a larger, tougher lookalike — bitter taste.
+- Berkeley's polypore (Bondarzewia berkeleyi) is a larger, tougher lookalike  -  bitter taste.
 - Black-staining polypore (Meripilus sumstinei) bruises black.
 - Both lookalikes are not deadly but poor eating.
 related_entries:

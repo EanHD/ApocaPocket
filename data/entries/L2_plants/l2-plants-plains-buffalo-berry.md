@@ -73,7 +73,7 @@ audit_status: verified
 - Malic acid (tartness) has antimicrobial effect
 - ~40 cal per 100g; low calorie density
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Silver-gray leaves distinctive

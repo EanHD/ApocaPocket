@@ -10,9 +10,9 @@ Region: MT ID WY CO NM mountain zones. Elevation 6,000-14,000+ feet.
 
 ## Temperature Reality
 
-Daily swing: 30-50°F. Hot afternoon, below freezing at night. True even in July at 10,000 feet.
+Daily swing: 30-50 degF. Hot afternoon, below freezing at night. True even in July at 10,000 feet.
 Always pack for freezing temperatures above 9,000 feet regardless of morning forecast.
-Lapse rate: 3.5°F colder for each 1,000 feet of elevation gain. 14,000 ft is 28°F colder than 6,000 ft.
+Lapse rate: 3.5 degF colder for each 1,000 feet of elevation gain. 14,000 ft is 28 degF colder than 6,000 ft.
 Carry every trip: full sleep system, rain shell, insulating layer, and extra food for any delay.
 
 ## Altitude Sickness
@@ -54,5 +54,5 @@ Rattlesnakes: common below 8,000 feet in warm months. Watch foot placement on ro
 
 Never begin summit ascent after 10 AM. Afternoon thunderstorms build daily Jun-Aug.
 Lightning caught above treeline: crouch low, feet together, away from ridges and lone trees.
-Cold water crossings: snowmelt streams run 35-40°F. Hypothermia risk even in summer. Unbuckle pack straps before crossing.
+Cold water crossings: snowmelt streams run 35-40 degF. Hypothermia risk even in summer. Unbuckle pack straps before crossing.
 UV intensity: 50% more than sea level at 12,000 feet. Severe sunburn in 15 minutes without protection.

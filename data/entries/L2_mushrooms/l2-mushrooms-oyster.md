@@ -14,8 +14,8 @@ confidence: high
 difficulty: beginner
 summary: Common wood-decay mushroom growing in clusters on dead/dying hardwoods. Mild flavor, easy to identify. Can fruit year-round in mild climates. Also cultivatable.
 warnings:
-- Angel wing (Pleurocybella porrigens) is a thin white lookalike on conifers — avoid white species on conifer wood.
-- Some people sensitive — try small amounts first.
+- Angel wing (Pleurocybella porrigens) is a thin white lookalike on conifers  -  avoid white species on conifer wood.
+- Some people sensitive  -  try small amounts first.
 - Harvest only fresh specimens; old oysters smell sour.
 related_entries:
 - l2-mushrooms-chicken-of-the-woods
@@ -61,7 +61,7 @@ audit_status: verified
 - ~33 cal per 100g
 - Beta-glucans for immune support
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 - Angel wings (Pleurocybella): on conifers, smaller, white, no stem
 - Reported fatalities in Japan from angel wings
 - RULE: large oyster cluster on hardwood = safe

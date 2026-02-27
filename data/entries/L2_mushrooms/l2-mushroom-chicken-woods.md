@@ -79,7 +79,7 @@ audit_status: verified
 - ~33 cal per 100g fresh
 - One of best protein mushrooms
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes when young
 - Sulfur shelf (another name for same)

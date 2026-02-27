@@ -27,7 +27,7 @@ warnings:
 - "PRIVACY: All analog radio transmissions are PUBLICLY AUDIBLE to anyone with a receiver. Never transmit sensitive information (passwords, locations of valuables, medical details) without encryption"
 - "INTERFERENCE: Using wrong frequencies or excessive power can interfere with emergency services, aviation, or public safety. Know your authorized frequencies"
 - "RF EXPOSURE: Handheld radios are safe at rated power. Fixed/mobile installations >10W require RF exposure evaluation per FCC OET Bulletin 65. Keep antenna >20cm from body during transmission"
-- "BATTERY LIFE: Transmitting consumes 10-20× more power than receiving. A 5W transmission drains battery in 1-2 hours of continuous use. Limit transmissions, use lower power when possible"
+- "BATTERY LIFE: Transmitting consumes 10-20x more power than receiving. A 5W transmission drains battery in 1-2 hours of continuous use. Limit transmissions, use lower power when possible"
 related_entries:
 - l3-tech-antenna-construction
 - l3-tech-propagation

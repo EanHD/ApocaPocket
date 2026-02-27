@@ -19,7 +19,7 @@ steps:
 - When pits are 0.5m from full, cap with soil and dig a new pit.
 warnings:
 - 'Fecal contamination of water is the #1 killer in post-collapse scenarios.'
-- Never use fresh human waste as fertilizer—compost for 1+ year first.
+- Never use fresh human waste as fertilizer - compost for 1+ year first.
 related_entries:
 - l5-health-disease-prevention
 - l5-health-water-infrastructure
@@ -45,4 +45,4 @@ Designing and building sanitation systems to prevent disease from human waste.
 
 ## Warnings
 - Fecal contamination of water is the #1 killer in post-collapse scenarios.
-- Never use fresh human waste as fertilizer—compost for 1+ year first.
+- Never use fresh human waste as fertilizer - compost for 1+ year first.

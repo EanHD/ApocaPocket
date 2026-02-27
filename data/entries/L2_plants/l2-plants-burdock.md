@@ -46,5 +46,5 @@ Large biennial with edible taproot (gobo) and young stalks. First-year roots are
 4. Cook by boiling, stir-frying, or roasting. Young leaf stalks also edible peeled and cooked.
 
 ## Warnings
-- First-year burdock rosette can resemble rhubarb or cocklebur — check for woolly leaf undersides.
+- First-year burdock rosette can resemble rhubarb or cocklebur  -  check for woolly leaf undersides.
 - Do not confuse with toxic nightshades in early growth.

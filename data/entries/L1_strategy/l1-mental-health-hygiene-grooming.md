@@ -9,12 +9,12 @@ category: L1_immediate_survival
 
 When people stop caring for their bodies, they are dying inside. Hygiene neglect is a major depression symptom.
 
-- Grooming routines reduce anxiety 35% â ritual = control = calm
+- Grooming routines reduce anxiety 35% a ritual = control = calm
 - Clean body improves mood 25-40% (embodied cognition)
 - Hygiene neglect appears 2-4 weeks before suicidal ideation in 68% of cases
 - Loss of self-care = loss of self
 
-Maintaining hygiene = declaring âI deserve to live.â This is not vanity. This is survival.
+Maintaining hygiene = declaring aI deserve to live.a This is not vanity. This is survival.
 
 ## Hair Care
 
@@ -115,9 +115,9 @@ Toothache is debilitating. Dental abscess can kill. No dentists means prevention
 **This signals:** depression, trauma response, or early suicidal ideation.
 
 **Response:**
-1. Private conversation: âI noticed you have not been yourself. Want to talk?â
-2. Offer concrete help: âCan I help you draw water for a bath?â
-3. Normalize: âIt is hard right now. I struggle with this too.â
+1. Private conversation: aI noticed you have not been yourself. Want to talk?a
+2. Offer concrete help: aCan I help you draw water for a bath?a
+3. Normalize: aIt is hard right now. I struggle with this too.a
 4. Check in regularly
 5. Escalate if suicidal signs appear
 

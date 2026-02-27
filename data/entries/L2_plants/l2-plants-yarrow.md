@@ -70,7 +70,7 @@ audit_status: verified
 - Flowers edible raw; mild flavor
 - Not a significant calorie source
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Poison hemlock (Conium maculatum)
 - Hemlock: purple-blotched hollow stems

@@ -3,7 +3,7 @@ id: l1-medical-overview
 title: "Field Medical Overview"
 category: "Medical"
 level: 1
-summary: "Emergency triage gateway — find the right entry fast."
+summary: "Emergency triage gateway  -  find the right entry fast."
 tags: ["medical", "triage", "overview", "emergency"]
 ---
 
@@ -12,13 +12,13 @@ tags: ["medical", "triage", "overview", "emergency"]
 ## START HERE
 Someone is hurt. Stay calm.
 Work through in order:
-1. Massive bleeding → STOP IT FIRST
-2. Airway/breathing → CPR if needed
-3. Shock → recognize and treat
+1. Massive bleeding -> STOP IT FIRST
+2. Airway/breathing -> CPR if needed
+3. Shock -> recognize and treat
 4. Then find the specific entry
 
 ## Life-Threatening
-- Wound Packing — deep cavity wounds
+- Wound Packing  -  deep cavity wounds
 - Tourniquet: 2-3 inches above wound
   (commercial or improvised)
 - Press hard, hold 3+ minutes
@@ -26,9 +26,9 @@ Work through in order:
 
 ## Not Breathing / Airway
 - CPR Adult: 30 compressions, 2 breaths
-- Choking and Airway — Heimlich
-- NPA Airway Insertion — airway tool
-- Pediatric CPR — children differ
+- Choking and Airway  -  Heimlich
+- NPA Airway Insertion  -  airway tool
+- Pediatric CPR  -  children differ
 
 ## Shock Recognition
 - Pale, cold, clammy skin
@@ -37,12 +37,12 @@ Work through in order:
 - See: Shock Recognition entry
 
 ## Trauma Injuries
-- Burns — Burn Assessment
-- Fractures — Fracture Stabilization
-- Dislocations — Dislocation Reduction
-- Spinal — Spinal Injury Handling
-- Gunshot — Gunshot Wound Care
-- Chest — Chest Seal Technique
+- Burns  -  Burn Assessment
+- Fractures  -  Fracture Stabilization
+- Dislocations  -  Dislocation Reduction
+- Spinal  -  Spinal Injury Handling
+- Gunshot  -  Gunshot Wound Care
+- Chest  -  Chest Seal Technique
 
 ## Environ Emergencies
 - Too cold: Hypothermia Treatment
@@ -72,6 +72,6 @@ Work through in order:
 
 ## See All Entries
 Medical has 50 entries.
-Navigate: Medical → select category
+Navigate: Medical -> select category
 Most dangerous and time-critical
 entries listed above.

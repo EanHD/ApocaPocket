@@ -37,10 +37,10 @@ steps:
 
 ## Clothing Layers
 - Base: wicking layer (wool or synthetic)
-  — keeps skin dry even when sweating
+   -  keeps skin dry even when sweating
 - Mid: insulation (wool, fleece, down)
 - Outer: windproof and waterproof shell
-- NEVER wear cotton — kills at 40F wet
+- NEVER wear cotton  -  kills at 40F wet
 - Hat, gloves, warm boots, extra socks
 
 ## Shelter
@@ -55,20 +55,20 @@ steps:
 - Build fire on platform (prevents sinking
   into snow and extinguishing itself)
 - Gather dry wood from standing dead trees
-- Melt snow near fire — do not eat snow
+- Melt snow near fire  -  do not eat snow
   (lowers core temp, causes dehydration)
-- Dehydration is common in winter —
+- Dehydration is common in winter  - 
   cold dry air pulls moisture out fast
 
 ## Frostbite Watch
 - Check numb fingers, toes, nose, ears
 - Early: pale or waxy skin, loss of feeling
 - Rewarm gradually (body warmth, warm
-  water) — do NOT rub (breaks tissue)
+  water)  -  do NOT rub (breaks tissue)
 - Do not let frostbitten areas refreeze
 
 ## Winter Travel
-- Deep snow is exhausting — 5x more
+- Deep snow is exhausting  -  5x more
   calories than normal walking
 - Travel on ridges (less snow depth)
 - Avoid avalanche terrain at all costs
@@ -76,6 +76,6 @@ steps:
 ## Common Kills
 - Wet cotton at 40F (hypothermia)
 - Snow blindness (UV from snow reflection)
-  — improvise eye protection (card slits)
-- Falling through ice — test every step,
+   -  improvise eye protection (card slits)
+- Falling through ice  -  test every step,
   avoid if unclear, carry ice picks

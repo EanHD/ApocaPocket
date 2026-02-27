@@ -17,13 +17,13 @@ steps:
 - 'Frame loom: build a rectangular frame, string warp threads top to bottom under
   tension.'
 - Weave weft threads over-under through warp using a shuttle or by hand.
-- 'Plain weave (tabby): alternating over-under pattern—simplest and most durable.'
-- 'Twill weave: offset pattern creates diagonal lines—more flexible fabric.'
+- 'Plain weave (tabby): alternating over-under pattern - simplest and most durable.'
+- 'Twill weave: offset pattern creates diagonal lines - more flexible fabric.'
 - 'Basketry: use willow, reed, or split wood strips; start with a base cross pattern,
   weave outward in spiral.'
 - 'Coiled basketry: wrap a core (grass bundle) with a binding strip, stitching each
   coil to the one below.'
-- Keep materials damp while working—dry fibers crack and break.
+- Keep materials damp while working - dry fibers crack and break.
 warnings: []
 related_entries:
 - l4-tool-rope-making
@@ -43,8 +43,8 @@ Simple loom construction and basketry techniques for making fabric, mats, and co
 ## Step-by-step
 1. Frame loom: build a rectangular frame, string warp threads top to bottom under tension.
 2. Weave weft threads over-under through warp using a shuttle or by hand.
-3. Plain weave (tabby): alternating over-under pattern—simplest and most durable.
-4. Twill weave: offset pattern creates diagonal lines—more flexible fabric.
+3. Plain weave (tabby): alternating over-under pattern - simplest and most durable.
+4. Twill weave: offset pattern creates diagonal lines - more flexible fabric.
 5. Basketry: use willow, reed, or split wood strips; start with a base cross pattern, weave outward in spiral.
 6. Coiled basketry: wrap a core (grass bundle) with a binding strip, stitching each coil to the one below.
-7. Keep materials damp while working—dry fibers crack and break.
+7. Keep materials damp while working - dry fibers crack and break.

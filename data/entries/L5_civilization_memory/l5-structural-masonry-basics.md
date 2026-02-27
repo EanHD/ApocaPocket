@@ -19,8 +19,8 @@ steps:
 - Build corners first, then fill between using string lines for alignment.
 - Include lintels over openings (stone, timber, or steel) to carry wall loads.
 warnings:
-- Unreinforced masonry is weak in earthquakes—add buttresses or reinforcement.
-- Mortar must cure slowly—keep damp for several days.
+- Unreinforced masonry is weak in earthquakes - add buttresses or reinforcement.
+- Mortar must cure slowly - keep damp for several days.
 related_entries:
 - l5-structural-load-paths
 - l5-structural-foundation-types
@@ -44,5 +44,5 @@ Building durable walls from brick or stone with proper bonding patterns and mort
 5. Include lintels over openings (stone, timber, or steel) to carry wall loads.
 
 ## Warnings
-- Unreinforced masonry is weak in earthquakes—add buttresses or reinforcement.
-- Mortar must cure slowly—keep damp for several days.
+- Unreinforced masonry is weak in earthquakes - add buttresses or reinforcement.
+- Mortar must cure slowly - keep damp for several days.

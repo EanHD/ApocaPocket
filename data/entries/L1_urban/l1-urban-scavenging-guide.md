@@ -20,7 +20,7 @@ sources:
 
 ## Safety First
 
-- No resource is worth your life — if a building feels unsafe, leave immediately
+- No resource is worth your life  -  if a building feels unsafe, leave immediately
 - 60% of scavenging deaths = structural collapse; do 5-point check every 15 min inside
 - Recon full perimeter before entering; identify 2+ exits first
 

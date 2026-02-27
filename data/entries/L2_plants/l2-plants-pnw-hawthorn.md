@@ -71,7 +71,7 @@ audit_status: verified
 - Use berries and young leaves for tea
 - Steep 1 tbsp dried berries 10 min
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No deadly lookalikes in PNW
 - Washington hawthorn also fully edible

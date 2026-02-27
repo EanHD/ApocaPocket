@@ -22,13 +22,13 @@ steps:
   and forth.
 - 'For fire: continue until ember forms in notch dust, transfer to tinder bundle,
   blow to flame.'
-- 'Pump drill: add a flywheel (heavy stone disc) to spindle, wrap cord from crossbar—push
+- 'Pump drill: add a flywheel (heavy stone disc) to spindle, wrap cord from crossbar - push
   down and let momentum re-wind.'
 - Pump drills excel at drilling holes in shell, bone, wood, and soft stone.
 - Attach stone or metal bits to spindle tip for drilling applications.
 warnings:
-- Bow drill fire-starting requires practice—expect many attempts before first success.
-- Handhold can heat up—use hardwood, stone, or lubricate with earwax/oil.
+- Bow drill fire-starting requires practice - expect many attempts before first success.
+- Handhold can heat up - use hardwood, stone, or lubricate with earwax/oil.
 related_entries:
 - l4-tool-rope-making
 - l4-tool-stone-basics
@@ -49,10 +49,10 @@ Constructing bow drills and pump drills for fire-starting, hole-drilling, and ro
 2. Carve a notch in the fireboard to collect hot dust; the spindle socket should be a small depression.
 3. Wrap cordage once around spindle; press down with handhold while sawing bow back and forth.
 4. For fire: continue until ember forms in notch dust, transfer to tinder bundle, blow to flame.
-5. Pump drill: add a flywheel (heavy stone disc) to spindle, wrap cord from crossbar—push down and let momentum re-wind.
+5. Pump drill: add a flywheel (heavy stone disc) to spindle, wrap cord from crossbar - push down and let momentum re-wind.
 6. Pump drills excel at drilling holes in shell, bone, wood, and soft stone.
 7. Attach stone or metal bits to spindle tip for drilling applications.
 
 ## Warnings
-- Bow drill fire-starting requires practice—expect many attempts before first success.
-- Handhold can heat up—use hardwood, stone, or lubricate with earwax/oil.
+- Bow drill fire-starting requires practice - expect many attempts before first success.
+- Handhold can heat up - use hardwood, stone, or lubricate with earwax/oil.

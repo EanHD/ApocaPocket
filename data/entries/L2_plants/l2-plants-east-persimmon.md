@@ -71,7 +71,7 @@ audit_status: verified
 - Natural sugars for quick energy
 - ~127 cal per 100g ripe fruit
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Distinctive blocky dark bark

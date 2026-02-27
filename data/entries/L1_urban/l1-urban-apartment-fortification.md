@@ -54,7 +54,7 @@ LAYER 4: Escape routes (if breach occurs)
 - DIY: 2x4 lumber screwed to inside of frame.
 
 **5. Floor-to-ceiling brace (1-2 hours, $50-200)**
-- 2x4 angled 45° from floor to top of door frame. Most effective.
+- 2x4 angled 45 deg from floor to top of door frame. Most effective.
 - Adjustable car jack or extendable pole works.
 - Cannot be defeated by kicks.
 
@@ -62,10 +62,10 @@ LAYER 4: Escape routes (if breach occurs)
 
 ## Window Security
 
-**Ground floor or fire escape access — high risk.**
+**Ground floor or fire escape access  -  high risk.**
 
 - **Dowel rods ($10)**: Cut to exact track width, drop in lower channel. Window cannot open.
-- Keep one window without dowel — emergency exit.
+- Keep one window without dowel  -  emergency exit.
 - **Security film ($30-60/window)**: Holds glass together when broken. Apply with squeegee.
 - **Blackout curtains**: Block light and block view of supplies from outside.
 

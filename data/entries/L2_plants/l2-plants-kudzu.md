@@ -46,8 +46,8 @@ Aggressively invasive vine in southeastern US and warm climates. Leaves, flowers
 2. Young leaves and shoots: cook like greens.
 3. Flowers: eat raw, make tea or jelly.
 4. Roots: dig large tuberous roots, process for starch by crushing and washing.
-5. Root starch settles out of water — dry for flour.
+5. Root starch settles out of water  -  dry for flour.
 
 ## Warnings
-- Avoid plants sprayed with herbicide — kudzu is heavily targeted.
+- Avoid plants sprayed with herbicide  -  kudzu is heavily targeted.
 - Roots require significant effort to dig.

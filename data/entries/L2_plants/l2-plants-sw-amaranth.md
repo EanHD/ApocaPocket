@@ -72,7 +72,7 @@ audit_status: verified
 - Rinse seeds in water; float chaff off
 - Boil 20 min in 3:1 water ratio
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes when mature
 - Young plants: confirm rough texture, no smell

@@ -47,11 +47,11 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 **Caribou** (200-400 lbs):
 - Vital zone: 8-10 inch circle.
-- Often moving — wait for a pause.
+- Often moving  -  wait for a pause.
 
 **Deer** (100-250 lbs):
 - Vital zone: 8 inch circle.
-- Lighter animal — drops faster with good shot.
+- Lighter animal  -  drops faster with good shot.
 
 ---
 
@@ -62,7 +62,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 **Quartering away (good)**:
 - Aim for far shoulder. Bullet travels diagonally through chest.
-- Don't shoot too far back — risk gut shot.
+- Don't shoot too far back  -  risk gut shot.
 
 **Quartering toward (wait)**:
 - Shoulder bone blocks vitals. Narrow exposure. Take the shot only if animal about to leave and no other opportunity.
@@ -89,7 +89,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 
 **Immediately**:
 1. Note exactly where animal was standing.
-2. Observe reaction — hunched, tail down = good hit. Jumping/kicking = questionable.
+2. Observe reaction  -  hunched, tail down = good hit. Jumping/kicking = questionable.
 3. **Wait 30-60 minutes. Do not push the animal.**
 4. Find the arrow or mark entry point.
 
@@ -101,7 +101,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 **Tracking**:
 - Mark every blood spot with flagging tape.
 - If trail stops: circle 20-30 yard radius from last blood.
-- Check thick cover and water sources — wounded animals seek both.
+- Check thick cover and water sources  -  wounded animals seek both.
 
 ---
 
@@ -111,7 +111,7 @@ related: [l2-hunting-large-game-field-dressing, l2-hunting-bow-basics, l1-huntin
 - [ ] Range is within my skill limit
 - [ ] Animal is broadside or quartering away
 - [ ] Stable shooting position (rest, bipod, or sling)
-- [ ] Safe backstop — know what is beyond the animal
+- [ ] Safe backstop  -  know what is beyond the animal
 - [ ] Breathing steady, crosshairs on aiming point (1/3 up, behind shoulder)
 
 **Don't shoot if you are not 90%+ confident in the hit.**

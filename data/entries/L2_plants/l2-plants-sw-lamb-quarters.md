@@ -71,7 +71,7 @@ audit_status: verified
 - Grind to dark flour for pancakes/porridge
 - Related to quinoa; similar nutritional value
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes when young
 - Mealy coating is distinctive

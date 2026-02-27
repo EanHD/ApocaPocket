@@ -72,7 +72,7 @@ audit_status: verified
 - Continue reducing to thick syrup
 - Very sweet; use as energy supplement
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes; unmistakable shape
 - Only cactus this tall in Sonoran Desert

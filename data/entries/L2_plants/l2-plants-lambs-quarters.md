@@ -42,9 +42,9 @@ One of the best wild spinach substitutes. Extremely common garden weed with diam
 ## Step-by-step
 1. Identify by diamond/goosefoot-shaped leaves with white powdery coating, especially on new growth.
 2. Harvest young leaves and tender tops.
-3. Cook like spinach — sauté, steam, or add to soups.
+3. Cook like spinach  -  saute, steam, or add to soups.
 4. Seeds are edible and can be ground to flour (related to quinoa).
 
 ## Warnings
-- Contains oxalic acid — cook to reduce; avoid if prone to kidney stones.
+- Contains oxalic acid  -  cook to reduce; avoid if prone to kidney stones.
 - Can accumulate nitrates from fertilized soil.

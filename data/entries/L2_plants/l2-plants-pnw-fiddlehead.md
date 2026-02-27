@@ -73,7 +73,7 @@ audit_status: verified
 - ~34 cal per 100g cooked
 - Brief seasonal window; prioritize harvest
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Bracken fern (Pteridium aquilinum)
 - Bracken: round stalk, no U groove

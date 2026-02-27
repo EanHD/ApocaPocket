@@ -20,12 +20,12 @@ steps:
 - Twist individual fibers into yarn by rolling on thigh or between palms.
 - 'Reverse-wrap (ply) two yarns together: twist each strand clockwise, wrap them counterclockwise
   around each other.'
-- Splice in new fibers by overlapping 5–10cm before old fiber runs out.
+- Splice in new fibers by overlapping 5 - 10cm before old fiber runs out.
 - 'Three-ply rope: braid or ply three two-ply cords together for greater strength.'
 - Test cordage strength before relying on it for critical loads.
 warnings:
-- Some fiber plants cause skin irritation (nettles)—wear gloves during harvest.
-- Natural cordage degrades when wet—dry thoroughly after use.
+- Some fiber plants cause skin irritation (nettles) - wear gloves during harvest.
+- Natural cordage degrades when wet - dry thoroughly after use.
 related_entries:
 - l4-tool-weaving-basics
 - l4-tool-bow-and-drill
@@ -46,10 +46,10 @@ Making strong rope and cordage from natural plant fibers using twisting and plyi
 2. Ret (soak) fibers in water for days to separate from plant material, then dry.
 3. Twist individual fibers into yarn by rolling on thigh or between palms.
 4. Reverse-wrap (ply) two yarns together: twist each strand clockwise, wrap them counterclockwise around each other.
-5. Splice in new fibers by overlapping 5–10cm before old fiber runs out.
+5. Splice in new fibers by overlapping 5 - 10cm before old fiber runs out.
 6. Three-ply rope: braid or ply three two-ply cords together for greater strength.
 7. Test cordage strength before relying on it for critical loads.
 
 ## Warnings
-- Some fiber plants cause skin irritation (nettles)—wear gloves during harvest.
-- Natural cordage degrades when wet—dry thoroughly after use.
+- Some fiber plants cause skin irritation (nettles) - wear gloves during harvest.
+- Natural cordage degrades when wet - dry thoroughly after use.

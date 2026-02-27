@@ -1,6 +1,6 @@
 ---
 id: l4-technology-pottery-basics
-title: Pottery Basics —
+title: Pottery Basics  - 
 category: L4_agriculture_labor
 subtopic: technology
 tags:
@@ -41,14 +41,14 @@ steps:
 - Air pockets cause explosions when fired
 - Add grog for strength
 
-## Hand Building — Pinch
+## Hand Building  -  Pinch
 
 - Start with ball of clay
 - Push thumb in center
 - Pinch walls thin and even
 - Rotate as you pinch
 
-## Hand Building — Coil
+## Hand Building  -  Coil
 
 - Roll clay into ropes 1-2cm diameter
 - Stack coils and blend inside wall

@@ -1,6 +1,6 @@
 ---
 id: l4-agriculture-chicken-keeping
-title: Chicken Keeping — Eggs,
+title: Chicken Keeping  -  Eggs,
 category: L4_agriculture_labor
 subtopic: agriculture
 tags:

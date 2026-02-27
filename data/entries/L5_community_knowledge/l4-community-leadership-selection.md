@@ -47,7 +47,7 @@ Power concentration corrupts. Even good leaders must rotate out.
 
 ## Checks & Balances
 
-- Recall process: 25% petition → written charges → leader responds → 60% vote to remove.
+- Recall process: 25% petition -> written charges -> leader responds -> 60% vote to remove.
 - Community veto: 40% petition triggers community vote. 60% overturns leader decision.
 - Separation of powers: Never combine resource allocation + security in one person.
 - Never combine arbitration/justice + general leadership (conflict of interest).
@@ -58,7 +58,7 @@ Power concentration corrupts. Even good leaders must rotate out.
 
 - Identify 2-3 backups per role. Shadow current leader 1 day/month minimum.
 - Leader maintains: Decision log, procedure manual, contact list, resource inventory.
-- Document succession order: Primary → 24-hr backup → 7-day backup → trigger new election.
+- Document succession order: Primary -> 24-hr backup -> 7-day backup -> trigger new election.
 - Transition rituals matter: Public handoff, outgoing endorsement, new leader's commitment statement.
 
 ## Bad Leader Signs

@@ -10,8 +10,8 @@ category: L2_food_biology
 
 ## Climate
 
-- Summer: 80-95°F days. Winter: -20 to -40°F possible. Seasonal range 140°F+.
-- Polar Vortex (Jan-Feb): Wind chill -50 to -70°F. Frostbite in <5 min.
+- Summer: 80-95 degF days. Winter: -20 to -40 degF possible. Seasonal range 140 degF+.
+- Polar Vortex (Jan-Feb): Wind chill -50 to -70 degF. Frostbite in <5 min.
 - Tornado Season: Mar-Jun, peak Apr-May. 1000+ tornadoes/year. EF4-EF5 common.
 - Blizzard Season: Nov-Mar. Whiteout conditions. Ground blizzards (wind-driven).
 - Severe storms Apr-Sep: hail, 80-100mph straight-line winds, flash flooding.
@@ -65,13 +65,13 @@ category: L2_food_biology
 - Rivers: Flow continues under ice in larger rivers. Fast sections stay unfrozen longer.
 - Snow/ice: 10:1 ratio (10 cups snow = 1 cup water). Never eat snow directly (hypothermia).
 - Giardia and Cryptosporidium are endemic. Boiling kills both and is most reliable.
-- Iodine tablets ineffective below 40°F. Use boiling in cold weather.
+- Iodine tablets ineffective below 40 degF. Use boiling in cold weather.
 
 ## Shelter Priorities
 
 - Winter: Target R-30 to R-50 insulation. Small interior is easier to heat.
 - Winter builds: Double-door airlock reduces heat loss. Ventilation for fire (CO risk).
-- Quinzee (emergency): 4-6 hrs to build. Ventilation hole required. Interior stays 20-40°F.
+- Quinzee (emergency): 4-6 hrs to build. Ventilation hole required. Interior stays 20-40 degF.
 - Tornado: Underground preferred. Interior bathroom or closet if no basement.
 - Best insulation: down > dry grass > cattail fluff > dry leaves > pine needles > snow.
 
@@ -91,11 +91,11 @@ category: L2_food_biology
 
 ## Primary Hazards
 
-- Hypothermia/cold: Dec-Feb. -40°F possible. Wind chill to -70°F.
+- Hypothermia/cold: Dec-Feb. -40 degF possible. Wind chill to -70 degF.
 - Tornadoes: Apr-May. EF4-EF5 possible. Need underground shelter.
-- Blizzards: Dec-Feb. Whiteout, -60°F wind chill. Shelter in place.
+- Blizzards: Dec-Feb. Whiteout, -60 degF wind chill. Shelter in place.
 - Flash floods: Apr-Aug from intense thunderstorms.
-- Heat stroke: Jul-Aug. 100°F+ heat waves on prairie.
+- Heat stroke: Jul-Aug. 100 degF+ heat waves on prairie.
 
 ## Cross-References
 

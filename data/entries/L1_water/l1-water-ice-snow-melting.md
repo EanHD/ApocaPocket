@@ -43,7 +43,7 @@ After melting, still disinfect when contamination risk exists:
 - Filter + chemical treatment when fuel is limited.
 
 ## Hydration Targets
-- Cold weather still requires regular intake: often **2–4 L/day** depending on exertion.
+- Cold weather still requires regular intake: often **2 - 4 L/day** depending on exertion.
 - Warm sweet fluids improve compliance and heat retention.
 
 ## Common Mistakes

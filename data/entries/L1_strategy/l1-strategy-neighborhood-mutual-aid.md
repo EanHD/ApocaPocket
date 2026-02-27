@@ -19,10 +19,10 @@ outperforms individual stockpiling every time.
 - Find out who has: medical training, generator, tools.
 - Identify: HAM radio operator, mechanic, nurse, farmer.
 - Note: who has well water, large food stores, truck/trailer.
-- Document this — write it down and share with the group.
+- Document this  -  write it down and share with the group.
 
 ## Vulnerable Neighbors
-- Elderly living alone — check on them first.
+- Elderly living alone  -  check on them first.
 - Single parents with young children.
 - People with disabilities or medical needs.
 - Non-English speakers who may miss alerts.
@@ -36,7 +36,7 @@ outperforms individual stockpiling every time.
 
 ## Resource Sharing
 - Establish clear, simple rules before you need them.
-- Rotate scarce resources fairly — document distribution.
+- Rotate scarce resources fairly  -  document distribution.
 - Shared generator use: agree on schedule in advance.
 - Food pooling: communal meals stretch supplies further.
 
@@ -48,14 +48,14 @@ outperforms individual stockpiling every time.
 
 ## Lead Without Authority
 - Suggest actions, don't demand them.
-- Volunteer first — others will follow.
+- Volunteer first  -  others will follow.
 - Acknowledge contributions publicly.
-- Avoid power struggles — focus on outcomes.
+- Avoid power struggles  -  focus on outcomes.
 
 ## Children's Roles
 - Kids can carry messages between households.
 - Light tasks: gathering firewood, filling containers.
-- Assign normalcy activities — games, structured time.
+- Assign normalcy activities  -  games, structured time.
 - Children watching children frees adults for tasks.
 
 ## Conflict Prevention

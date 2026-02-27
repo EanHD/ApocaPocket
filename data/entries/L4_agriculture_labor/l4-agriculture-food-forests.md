@@ -14,13 +14,13 @@ category: L4_agriculture_labor
 
 Stack productive plants vertically to maximize space:
 
-- **Layer 1 — Canopy (30-100 ft)**: Walnut, oak, chestnut, pecan. Mature 10-30 yrs. Space 30-50 ft apart.
-- **Layer 2 — Understory (15-30 ft)**: Apple, pear, plum, cherry. Mature 3-7 yrs. Space 15-20 ft apart.
-- **Layer 3 — Shrubs (3-15 ft)**: Blueberry, currant, gooseberry, hazelnut. Mature 2-4 yrs. Space 4-8 ft apart.
-- **Layer 4 — Herbaceous (1-3 ft)**: Asparagus, rhubarb, comfrey, sorrel, perennial onions. Mature 1-3 yrs.
-- **Layer 5 — Ground cover (<1 ft)**: Strawberry, clover, thyme. Suppress weeds and fix nitrogen.
-- **Layer 6 — Rhizosphere (underground)**: Potatoes, Jerusalem artichoke, garlic, ginger. Annual harvest of perennials.
-- **Layer 7 — Vertical (climbers)**: Grapes, kiwi, hops, climbing beans. Support on trees and trellises.
+- **Layer 1  -  Canopy (30-100 ft)**: Walnut, oak, chestnut, pecan. Mature 10-30 yrs. Space 30-50 ft apart.
+- **Layer 2  -  Understory (15-30 ft)**: Apple, pear, plum, cherry. Mature 3-7 yrs. Space 15-20 ft apart.
+- **Layer 3  -  Shrubs (3-15 ft)**: Blueberry, currant, gooseberry, hazelnut. Mature 2-4 yrs. Space 4-8 ft apart.
+- **Layer 4  -  Herbaceous (1-3 ft)**: Asparagus, rhubarb, comfrey, sorrel, perennial onions. Mature 1-3 yrs.
+- **Layer 5  -  Ground cover (<1 ft)**: Strawberry, clover, thyme. Suppress weeds and fix nitrogen.
+- **Layer 6  -  Rhizosphere (underground)**: Potatoes, Jerusalem artichoke, garlic, ginger. Annual harvest of perennials.
+- **Layer 7  -  Vertical (climbers)**: Grapes, kiwi, hops, climbing beans. Support on trees and trellises.
 
 ---
 
@@ -47,12 +47,12 @@ Plant 1 nitrogen fixer per 3-4 regular plants.
 **One mature chestnut = 2,000 sq ft of wheat without annual planting.**
 
 **Berry shrubs**:
-- Currant and gooseberry: 8-12 lbs/bush/year. Hardy to -40°F. Mature in 2-3 yrs.
-- Elderberry: 12-20 lbs/bush/year. Hardy to -30°F. Also medicinal.
+- Currant and gooseberry: 8-12 lbs/bush/year. Hardy to -40 degF. Mature in 2-3 yrs.
+- Elderberry: 12-20 lbs/bush/year. Hardy to -30 degF. Also medicinal.
 
 **Perennial vegetables**:
 - Asparagus: half lb/plant/year. 20+ year lifespan once established.
-- Rhubarb: 2-3 lbs/plant/year. 20+ year lifespan. Leaves are toxic — stalks only.
+- Rhubarb: 2-3 lbs/plant/year. 20+ year lifespan. Leaves are toxic  -  stalks only.
 - Walking onions: continuous harvest, indefinite lifespan.
 
 ---

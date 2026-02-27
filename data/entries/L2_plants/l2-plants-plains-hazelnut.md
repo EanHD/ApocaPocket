@@ -71,7 +71,7 @@ audit_status: verified
 - Protein: 15g per 100g
 - Folate, vitamin E, manganese high
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Leafy husk clusters in pairs/threes = hazelnut

@@ -13,14 +13,14 @@ summary: Proper methods for storing treated water to prevent recontamination.
 steps:
 - Use food-grade containers with tight-fitting lids.
 - Clean containers with dilute bleach solution before first use.
-- Store in cool, dark location — light promotes algae growth.
+- Store in cool, dark location  -  light promotes algae growth.
 - Use containers with narrow openings or spigots to prevent hand contact with water.
 - Label containers with treatment date.
 - Rotate stored water every 6 months; re-treat if stored longer.
 warnings:
 - Never use containers that held chemicals, fuel, or non-food substances.
 - Dipping cups/hands into stored water recontaminates it.
-- Plastic containers degrade in sunlight — store in shade.
+- Plastic containers degrade in sunlight  -  store in shade.
 related_entries:
 - l1-water-boiling-disinfection
 - l1-water-chemical-disinfection
@@ -40,7 +40,7 @@ Proper methods for storing treated water to prevent recontamination.
 ## Step-by-step
 1. Use food-grade containers with tight-fitting lids.
 2. Clean containers with dilute bleach solution before first use.
-3. Store in cool, dark location — light promotes algae growth.
+3. Store in cool, dark location  -  light promotes algae growth.
 4. Use containers with narrow openings or spigots to prevent hand contact with water.
 5. Label containers with treatment date.
 6. Rotate stored water every 6 months; re-treat if stored longer.
@@ -48,4 +48,4 @@ Proper methods for storing treated water to prevent recontamination.
 ## Warnings
 - Never use containers that held chemicals, fuel, or non-food substances.
 - Dipping cups/hands into stored water recontaminates it.
-- Plastic containers degrade in sunlight — store in shade.
+- Plastic containers degrade in sunlight  -  store in shade.

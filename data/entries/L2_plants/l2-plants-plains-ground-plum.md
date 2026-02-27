@@ -72,7 +72,7 @@ audit_status: verified
 - Vitamins C in fresh pods
 - Limited harvest window; opportunistic
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Locoweed (Astragalus/Oxytropis): TOXIC
 - Toxic species: elongated pods, not plum-fat

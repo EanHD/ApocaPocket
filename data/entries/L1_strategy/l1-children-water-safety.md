@@ -49,7 +49,7 @@ Never leave a child alone near water for any reason.
 
 ## Drowning Prevention
 
-Use all layers — none alone is enough:
+Use all layers  -  none alone is enough:
 - Barriers: fence with locked gate, pool cover when not supervised
 - Flotation: properly fitted PFD on non-swimmers near open water
 - Swim skills: teach children to float on their back as early as possible
@@ -62,6 +62,6 @@ Use all layers — none alone is enough:
 2. Throw a rope, pole, or flotation device first.
 3. Call for help loudly while assisting.
 4. Once out of water: check for breathing.
-5. Not breathing: begin CPR — 30 compressions, 2 breaths. Repeat.
+5. Not breathing: begin CPR  -  30 compressions, 2 breaths. Repeat.
 6. Continue until they breathe or help arrives.
 7. All near-drowning victims need medical evaluation even if they seem fine.

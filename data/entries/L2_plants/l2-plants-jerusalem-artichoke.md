@@ -43,9 +43,9 @@ Perennial sunflower relative producing starchy tubers rich in inulin. Extremely 
 ## Step-by-step
 1. Identify by tall sunflower-like plant (2-3m) with small yellow flowers and rough opposite leaves.
 2. Dig tubers after first frost (sweeter) through winter.
-3. Eat raw (crunchy, nutty) or cooked (roast, boil, sauté).
-4. Replant small tubers for next season — very low maintenance.
+3. Eat raw (crunchy, nutty) or cooked (roast, boil, saute).
+4. Replant small tubers for next season  -  very low maintenance.
 
 ## Warnings
-- High inulin content causes significant gas/bloating in many people — introduce gradually.
-- Can become invasive — plant with containment plan.
+- High inulin content causes significant gas/bloating in many people  -  introduce gradually.
+- Can become invasive  -  plant with containment plan.

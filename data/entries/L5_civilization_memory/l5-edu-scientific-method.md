@@ -20,7 +20,7 @@ steps:
 - Share findings with the community; repeat experiments to verify.
 warnings:
 - 'Confirmation bias: don''t ignore results that contradict your hypothesis.'
-- Anecdotes are not evidence—require repeatable results.
+- Anecdotes are not evidence - require repeatable results.
 related_entries:
 - l5-edu-teaching-methods
 - l5-math-statistics-basics
@@ -46,4 +46,4 @@ Applying systematic observation and experimentation to solve problems and improv
 
 ## Warnings
 - Confirmation bias: don't ignore results that contradict your hypothesis.
-- Anecdotes are not evidence—require repeatable results.
+- Anecdotes are not evidence - require repeatable results.

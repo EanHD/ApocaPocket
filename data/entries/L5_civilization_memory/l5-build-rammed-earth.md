@@ -19,7 +19,7 @@ related_entries:
 - l5-build-foundation
 sources:
 - Easton The Rammed Earth House
-- Traditional pisé construction records
+- Traditional pise construction records
 last_verified: '2026-02-24'
 audit_status: verified
 ---
@@ -28,7 +28,7 @@ audit_status: verified
 
 ## Overview
 
-- Pisé: French term for rammed earth
+- Pise: French term for rammed earth
 - Moist subsoil compacted in forms
 - Achieves near-brick density when done
 - Walls 18-24 in typical

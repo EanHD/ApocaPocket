@@ -1,6 +1,6 @@
 ---
 id: l1-fire-ignition-methods
-title: Fire — Method Overview
+title: Fire  -  Method Overview
 category: L1_immediate_survival
 subtopic: fire
 tags:
@@ -13,8 +13,8 @@ region_relevance:
 confidence: high
 summary: Match your ignition method to your situation. Ferro rod is the best everyday carry. Friction fire works when everything else fails. Know all three skill levels before you need them.
 warnings:
-- Lighters fail below -10C (14F) — always carry a ferro rod as backup
-- Friction fire is nearly impossible in wet conditions — practice before you need it
+- Lighters fail below -10C (14F)  -  always carry a ferro rod as backup
+- Friction fire is nearly impossible in wet conditions  -  practice before you need it
 related_entries:
 - l1-fire-ferro-rod-technique
 - l1-fire-bow-drill-detailed
@@ -31,7 +31,7 @@ audit_status: verified
 diagram: diagrams/fire-method-decision.svg
 ---
 
-# Fire — Method Overview
+# Fire  -  Method Overview
 
 Match your method to your situation.
 Ferro rod is your best everyday carry.
@@ -42,7 +42,7 @@ Know all three levels before you need them.
 
 **Lighter**
 Skill: None | Most weather | Fails below -10C
-Rule: Always carry — but have a backup.
+Rule: Always carry  -  but have a backup.
 
 **Waterproof Matches**
 Skill: None | Wind and rain OK | Finite supply
@@ -78,25 +78,25 @@ Catches sparks other tinders miss.
 
 ## Decision Guide
 
-Have a ferro rod? Use it first — always.
+Have a ferro rod? Use it first  -  always.
 Wet or cold? Ferro rod only. Lighters fail.
 No tools at all? Bow drill (has cordage) or
 fire plow (no cordage, brute strength).
-Sunny and dry? Solar lens — effortless.
+Sunny and dry? Solar lens  -  effortless.
 Spark but wet tinder? Char cloth saves it.
 
 ## Skill Progression
 
-**Level 1 — Carry tools, know basics**
+**Level 1  -  Carry tools, know basics**
 Ferro rod + lighter + matches. Know how to
 prep tinder and build a firelay. Start here.
 
-**Level 2 — Know bow drill**
+**Level 2  -  Know bow drill**
 Practice to first coal. Shifts your mindset
 from "I need tools" to "I can always make
 fire." This is the transformative step.
 
-**Level 3 — Know hand drill**
+**Level 3  -  Know hand drill**
 30-60 second coal production. Expert level.
 Fire becomes routine, not emergency.
 

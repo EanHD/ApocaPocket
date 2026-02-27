@@ -79,7 +79,7 @@ audit_status: verified
 - Do not boil; keep as steep
 - Bog-rosemary (Andromeda): no woolly underside
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Bog-rosemary (Andromeda polifolia): TOXIC
 - Bog-rosemary: smooth white underside

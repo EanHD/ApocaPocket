@@ -8,7 +8,7 @@ category: L1_immediate_survival
 
 ## Why Laughter Works
 
-- Laughter is a human universal — biological survival adaptation, not cultural preference
+- Laughter is a human universal  -  biological survival adaptation, not cultural preference
 - Cortisol (stress hormone) reduced 39% within 20 min of laughter
 - Endorphin release: same pathways as exercise; immune NK cells +40%
 - Shared laughter releases oxytocin (trust/bonding); stronger than conversation alone
@@ -44,7 +44,7 @@ category: L1_immediate_survival
 
 **Laughter Yoga:**
 - Circle; start with "ho-ho, ha-ha"; make eye contact; contagion takes over
-- Body can't distinguish fake from real laughter — same physiological benefits
+- Body can't distinguish fake from real laughter  -  same physiological benefits
 - Reduces depression 35% over 8 weeks
 
 **Comedy Roasts (high-trust groups only):**
@@ -54,7 +54,7 @@ category: L1_immediate_survival
 ## Humor as Coping
 
 - **Gallows humor:** acknowledge threat without being paralyzed; maintains agency; bonding
-- Holocaust prisoners, POWs, and disaster workers all use it — described as "tiny freedom"
+- Holocaust prisoners, POWs, and disaster workers all use it  -  described as "tiny freedom"
 - Viktor Frankl prescribed humor as survival tool; organized secret comedy nights in Auschwitz
 - Trauma survivors with humor = 2x better at complex problem-solving (cognitive reframing)
 - Caution: if ONLY joking and never processing feelings, humor becomes avoidance
@@ -64,7 +64,7 @@ category: L1_immediate_survival
 - Punch up, not down (mock power/absurdity, not the vulnerable)
 - Laugh WITH not AT (everyone laughing, including the target)
 - Know your audience; fresh grief = inappropriate timing
-- "I'm just kidding!" after a hurtful comment is not humor — address it directly
+- "I'm just kidding!" after a hurtful comment is not humor  -  address it directly
 
 ## Toxic Humor
 
@@ -77,7 +77,7 @@ category: L1_immediate_survival
 
 - Every culture has a trickster (Coyote, Anansi, Loki, Monkey King, Br'er Rabbit)
 - Function: social critique through humor; permission to question authority; weak defeating strong
-- Value your community's natural class clowns — they serve a vital social function
+- Value your community's natural class clowns  -  they serve a vital social function
 - Allow some controlled chaos: rigid = brittle; flexible = resilient
 
 ## Mission

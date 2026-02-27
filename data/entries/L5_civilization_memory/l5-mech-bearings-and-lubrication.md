@@ -13,7 +13,7 @@ region_relevance:
 summary: How to reduce friction in rotating and sliding mechanisms using bearings
   and lubricants.
 steps:
-- Understand sliding vs. rolling friction—rolling contact drastically reduces resistance.
+- Understand sliding vs. rolling friction - rolling contact drastically reduces resistance.
 - Fabricate plain bearings from hardwood, bone, or cast bronze for shafts.
 - Use ball or roller bearings salvaged from vehicles for high-speed applications.
 - 'Apply lubricants: animal fat, plant oils, or petroleum products between sliding
@@ -21,7 +21,7 @@ steps:
 - 'Maintain bearings: keep clean, re-lubricate regularly, replace when worn.'
 warnings:
 - Dry bearings overheat and seize, potentially causing fires.
-- Contaminated lubricant accelerates wear—filter or replace regularly.
+- Contaminated lubricant accelerates wear - filter or replace regularly.
 related_entries:
 - l5-mechanical-engineering-basics
 - l5-mech-gear-and-linkage
@@ -38,7 +38,7 @@ offline_assets: []
 How to reduce friction in rotating and sliding mechanisms using bearings and lubricants.
 
 ## Step-by-step
-1. Understand sliding vs. rolling friction—rolling contact drastically reduces resistance.
+1. Understand sliding vs. rolling friction - rolling contact drastically reduces resistance.
 2. Fabricate plain bearings from hardwood, bone, or cast bronze for shafts.
 3. Use ball or roller bearings salvaged from vehicles for high-speed applications.
 4. Apply lubricants: animal fat, plant oils, or petroleum products between sliding surfaces.
@@ -46,4 +46,4 @@ How to reduce friction in rotating and sliding mechanisms using bearings and lub
 
 ## Warnings
 - Dry bearings overheat and seize, potentially causing fires.
-- Contaminated lubricant accelerates wear—filter or replace regularly.
+- Contaminated lubricant accelerates wear - filter or replace regularly.

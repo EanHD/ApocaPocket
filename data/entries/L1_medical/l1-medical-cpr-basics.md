@@ -33,7 +33,7 @@ diagram: diagrams/cpr-steps.svg
 ---
 
 ## Overview
-Immediate chest compressions are critical — brain damage begins in 4-6 minutes. Protocol for adults (age 8+).
+Immediate chest compressions are critical  -  brain damage begins in 4-6 minutes. Protocol for adults (age 8+).
 
 ## Recognition
 - Unresponsive (no response to shouting/shaking)
@@ -42,16 +42,16 @@ Immediate chest compressions are critical — brain damage begins in 4-6 minutes
 
 ## Protocol
 
-### 1-4. Assess → Call → Position
+### 1-4. Assess -> Call -> Position
 1. Check for hazards (traffic, fire, electrical, violence); if unsafe, do not approach
-2. Tap shoulders firmly, shout "Are you okay?" — no response: call for help
+2. Tap shoulders firmly, shout "Are you okay?"  -  no response: call for help
 3. Call 911 (or send someone); request AED; put phone on speaker if alone
 4. Roll victim onto back on firm flat surface; clear visible airway obstructions
 
 ### 5. Chest Compressions
 - **Position:** center of chest (lower half of sternum), heel of one hand, other on top, fingers interlaced, shoulders directly over hands
 - **Depth:** 2.0-2.4 inches (5-6 cm)
-- **Rate:** 100-120/min — count aloud to maintain rhythm
+- **Rate:** 100-120/min  -  count aloud to maintain rhythm
 - **Recoil:** allow full chest recoil between every compression
 - **Minimize interruptions:** <10 seconds for any reason
 
@@ -60,7 +60,7 @@ Immediate chest compressions are critical — brain damage begins in 4-6 minutes
 - **Untrained or uncomfortable:** compression-only CPR is effective
 
 ### 7. Continue (30:2 or continuous compressions)
-- Stop only when: AED arrives · victim shows signs of life · responders take over · physically unable
+- Stop only when: AED arrives - victim shows signs of life - responders take over - physically unable
 
 ### 8. AED Use
 - Turn on, follow voice prompts; wipe chest dry; attach pads per diagram
@@ -80,11 +80,11 @@ Immediate chest compressions are critical — brain damage begins in 4-6 minutes
 **Drowning:** give 5 rescue breaths BEFORE starting compressions (if trained)
 
 ## Common Mistakes
-- ❌ Compressions too shallow (<2") or too slow (<100/min)
-- ❌ Not allowing full chest recoil between compressions
-- ❌ Hands too high (on neck) or too low (on abdomen)
-- ❌ Interruptions >10 seconds; stopping too soon
-- **Rib fractures are acceptable** — compress hard and fast; quality matters more than perfect form
+- [X] Compressions too shallow (<2") or too slow (<100/min)
+- [X] Not allowing full chest recoil between compressions
+- [X] Hands too high (on neck) or too low (on abdomen)
+- [X] Interruptions >10 seconds; stopping too soon
+- **Rib fractures are acceptable**  -  compress hard and fast; quality matters more than perfect form
 
 ## When to Stop CPR
 - Do NOT start: obvious death (rigor mortis, decomposition), valid DNR, scene cannot be made safe

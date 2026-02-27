@@ -15,8 +15,8 @@ summary: Principles of fluid flow for designing water systems, hydraulic presses
 steps:
 - Understand pressure = force / area and how it transmits through fluids (Pascal's
   principle).
-- 'Calculate flow rate: cross-sectional area × velocity.'
-- 'Apply gravity-fed systems: 1 meter of head ≈ 9.8 kPa (1.42 psi) pressure.'
+- 'Calculate flow rate: cross-sectional area x velocity.'
+- 'Apply gravity-fed systems: 1 meter of head ~ 9.8 kPa (1.42 psi) pressure.'
 - 'Build simple pumps: piston pump, rope pump, or ram pump for water lifting.'
 - Minimize friction losses with smooth, large-diameter pipes and few bends.
 warnings:
@@ -40,8 +40,8 @@ Principles of fluid flow for designing water systems, hydraulic presses, and sim
 
 ## Step-by-step
 1. Understand pressure = force / area and how it transmits through fluids (Pascal's principle).
-2. Calculate flow rate: cross-sectional area × velocity.
-3. Apply gravity-fed systems: 1 meter of head ≈ 9.8 kPa (1.42 psi) pressure.
+2. Calculate flow rate: cross-sectional area x velocity.
+3. Apply gravity-fed systems: 1 meter of head ~ 9.8 kPa (1.42 psi) pressure.
 4. Build simple pumps: piston pump, rope pump, or ram pump for water lifting.
 5. Minimize friction losses with smooth, large-diameter pipes and few bends.
 

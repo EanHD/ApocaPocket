@@ -50,9 +50,9 @@ Minimum macronutrient needs shift under survival stress. Caloric needs increase 
 2. Protein: 0.8-1.2g/kg body weight minimum. Critical for wound healing and muscle maintenance.
 3. Fat: 9 kcal/g (vs 4 for protein/carbs). Prioritize fat sources for caloric efficiency.
 4. Carbohydrates: primary quick energy. Grains, tubers, fruits, honey.
-5. Prioritize calories over nutritional balance in acute survival — starvation kills faster than deficiency.
+5. Prioritize calories over nutritional balance in acute survival  -  starvation kills faster than deficiency.
 
 ## Warnings
-- Protein-only diet without fat/carbs causes 'rabbit starvation' — potentially fatal.
+- Protein-only diet without fat/carbs causes 'rabbit starvation'  -  potentially fatal.
 - Caloric deficit compounds rapidly under cold exposure.
-- Dehydration mimics hunger — hydrate first.
+- Dehydration mimics hunger  -  hydrate first.

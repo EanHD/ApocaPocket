@@ -20,8 +20,8 @@ steps:
 - Melt metal in a crucible furnace and pour into the mold cavity.
 - Allow to cool, break out casting, and finish by filing and grinding.
 warnings:
-- Molten metal is extremely dangerous—wear full protective gear.
-- Moisture in the mold causes steam explosions—dry sand thoroughly.
+- Molten metal is extremely dangerous - wear full protective gear.
+- Moisture in the mold causes steam explosions - dry sand thoroughly.
 related_entries:
 - l5-metallurgy-basics
 - l5-metallurgy-copper-working
@@ -46,5 +46,5 @@ Sand casting technique for reproducing metal parts using reusable patterns and s
 5. Allow to cool, break out casting, and finish by filing and grinding.
 
 ## Warnings
-- Molten metal is extremely dangerous—wear full protective gear.
-- Moisture in the mold causes steam explosions—dry sand thoroughly.
+- Molten metal is extremely dangerous - wear full protective gear.
+- Moisture in the mold causes steam explosions - dry sand thoroughly.

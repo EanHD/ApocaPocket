@@ -46,7 +46,7 @@ audit_status: verified
 ## CRITICAL Species Check
 
 - Blue/black berries: S. cerulea, S. nigra
-- Red berries: S. racemosa — DO NOT EAT
+- Red berries: S. racemosa  -  DO NOT EAT
 - Red elderberry causes severe GI upset
 - Blue berries in large flat-topped clusters
 
@@ -71,7 +71,7 @@ audit_status: verified
 - ~73 cal per 100g cooked
 - Safe in quantity when properly cooked
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Water hemlock (Cicuta): NOT a shrub
 - Poison hemlock: no compound leaves

@@ -10,10 +10,10 @@ Region: All Alaska. 663,300 sq mi. Coastal rainforest, interior taiga, arctic tu
 
 ## Climate Zones
 
-Interior (Fairbanks): subarctic continental. Summer highs 80-90°F. Winter lows -40 to -60°F. Extreme swings.
-Arctic (North Slope): tundra. Summer 40-50°F. Winter -20 to -50°F. Permafrost year-round. Near-zero sun Nov-Jan.
+Interior (Fairbanks): subarctic continental. Summer highs 80-90 degF. Winter lows -40 to -60 degF. Extreme swings.
+Arctic (North Slope): tundra. Summer 40-50 degF. Winter -20 to -50 degF. Permafrost year-round. Near-zero sun Nov-Jan.
 Southcentral (Anchorage): maritime influence. Milder winters. Heavy snow possible. Seismic and volcanic risk.
-Southeast (Juneau, Sitka): coastal rainforest. Year-round 30-60°F. 80-200 inches of rain per year.
+Southeast (Juneau, Sitka): coastal rainforest. Year-round 30-60 degF. 80-200 inches of rain per year.
 SW and Aleutians: wind-dominated. Dense fog. Williwaws (sudden violent gusts). Highly unpredictable.
 Daylight: Interior has 21.8 hours of sun on June 21. Near zero hours sun Nov-Jan. Plan navigation accordingly.
 
@@ -32,7 +32,7 @@ Toxic: water hemlock (deadly, grows near water), death camas, wild parsnip look-
 
 Snowmachine (snowmobile):
 - Speed: 20-60 mph. Better for long distances with cargo.
-- Requires fuel. Fails mechanically at extreme cold (-40°F and below).
+- Requires fuel. Fails mechanically at extreme cold (-40 degF and below).
 - Always carry a survival bag and basic tools. Never travel alone by snowmachine.
 
 Dog team:

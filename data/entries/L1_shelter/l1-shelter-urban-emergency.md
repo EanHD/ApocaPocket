@@ -14,16 +14,16 @@ summary: Finding and creating emergency shelter in urban and suburban environmen
 steps:
 - 'Prioritize intact structures: parking garages, stairwells, basements, shipping
   containers.'
-- Avoid damaged structures — aftershocks and structural collapse risk.
-- Use vehicles as temporary shelter — good wind protection but poor insulation.
-- Create insulation from cardboard, newspaper, carpet, curtains — layer everything.
+- Avoid damaged structures  -  aftershocks and structural collapse risk.
+- Use vehicles as temporary shelter  -  good wind protection but poor insulation.
+- Create insulation from cardboard, newspaper, carpet, curtains  -  layer everything.
 - Seal windows/doors with plastic sheeting and tape for wind protection.
 - 'For chemical/nuclear threats: go to interior room, upper floors; seal all openings.'
 warnings:
 - Structurally damaged buildings can collapse without warning.
 - Underground shelters may flood or accumulate toxic gases.
 - Running vehicles in enclosed spaces causes carbon monoxide poisoning.
-- Urban areas may have looters/hostile individuals — security awareness essential.
+- Urban areas may have looters/hostile individuals  -  security awareness essential.
 related_entries:
 - l1-shelter-thermal-management
 - l1-fire-safety-ventilation
@@ -42,9 +42,9 @@ Finding and creating emergency shelter in urban and suburban environments.
 
 ## Step-by-step
 1. Prioritize intact structures: parking garages, stairwells, basements, shipping containers.
-2. Avoid damaged structures — aftershocks and structural collapse risk.
-3. Use vehicles as temporary shelter — good wind protection but poor insulation.
-4. Create insulation from cardboard, newspaper, carpet, curtains — layer everything.
+2. Avoid damaged structures  -  aftershocks and structural collapse risk.
+3. Use vehicles as temporary shelter  -  good wind protection but poor insulation.
+4. Create insulation from cardboard, newspaper, carpet, curtains  -  layer everything.
 5. Seal windows/doors with plastic sheeting and tape for wind protection.
 6. For chemical/nuclear threats: go to interior room, upper floors; seal all openings.
 
@@ -52,4 +52,4 @@ Finding and creating emergency shelter in urban and suburban environments.
 - Structurally damaged buildings can collapse without warning.
 - Underground shelters may flood or accumulate toxic gases.
 - Running vehicles in enclosed spaces causes carbon monoxide poisoning.
-- Urban areas may have looters/hostile individuals — security awareness essential.
+- Urban areas may have looters/hostile individuals  -  security awareness essential.

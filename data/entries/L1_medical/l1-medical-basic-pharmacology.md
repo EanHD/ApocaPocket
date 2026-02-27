@@ -22,10 +22,10 @@ steps:
 - 'Oral antibiotics (if available): amoxicillin 500mg 3x/day for general infections.'
 - Always check for allergies before administering any medication.
 warnings:
-- This is emergency reference only — not a substitute for medical training.
-- Acetaminophen overdose causes fatal liver failure — never exceed dose.
-- Drug interactions and allergies can be deadly — document what is given and when.
-- Pediatric doses differ significantly — do not give adult doses to children.
+- This is emergency reference only  -  not a substitute for medical training.
+- Acetaminophen overdose causes fatal liver failure  -  never exceed dose.
+- Drug interactions and allergies can be deadly  -  document what is given and when.
+- Pediatric doses differ significantly  -  do not give adult doses to children.
 related_entries:
 - l1-medical-infection-prevention
 - l1-medical-allergic-reactions
@@ -51,7 +51,7 @@ Basic medication information for common drugs found in survival kits and pharmac
 6. Always check for allergies before administering any medication.
 
 ## Warnings
-- This is emergency reference only — not a substitute for medical training.
-- Acetaminophen overdose causes fatal liver failure — never exceed dose.
-- Drug interactions and allergies can be deadly — document what is given and when.
-- Pediatric doses differ significantly — do not give adult doses to children.
+- This is emergency reference only  -  not a substitute for medical training.
+- Acetaminophen overdose causes fatal liver failure  -  never exceed dose.
+- Drug interactions and allergies can be deadly  -  document what is given and when.
+- Pediatric doses differ significantly  -  do not give adult doses to children.

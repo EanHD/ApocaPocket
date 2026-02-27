@@ -44,9 +44,9 @@ Passive trapping methods that work while you do other tasks. Focuses on principl
 2. Simple snare: running noose of wire/cord at head height of target animal on a known trail.
 3. Deadfall: figure-4 trigger with weighted rock/log over bait platform.
 4. Funnel trap: guide fences narrowing to a box or enclosure.
-5. Set multiple traps (10+) — success rate per trap is low. Check twice daily.
+5. Set multiple traps (10+)  -  success rate per trap is low. Check twice daily.
 
 ## Warnings
 - Trapping may be illegal where law enforcement exists.
 - Check traps frequently to prevent suffering.
-- Disease risk from handling wild animals — use gloves.
+- Disease risk from handling wild animals  -  use gloves.

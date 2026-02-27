@@ -72,7 +72,7 @@ audit_status: verified
 - Grind to flour; store in sealed container
 - Pound pods first on rock to break down
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Confirm: bipinnate leaves + sweet pods

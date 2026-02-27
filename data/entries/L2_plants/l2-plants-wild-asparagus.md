@@ -41,8 +41,8 @@ Feral asparagus grows along roadsides, fencerows, and irrigation ditches in temp
 1. Find mature fern-like plants in fall/winter to mark locations for spring harvest.
 2. Return in spring to harvest emerging spears at 15-25cm height.
 3. Snap spears at natural breaking point.
-4. Eat raw or cooked — same as store-bought asparagus.
+4. Eat raw or cooked  -  same as store-bought asparagus.
 
 ## Warnings
-- Asparagus berries are mildly toxic — do not eat the red berries.
+- Asparagus berries are mildly toxic  -  do not eat the red berries.
 - Avoid roadside plants exposed to heavy traffic or spraying.

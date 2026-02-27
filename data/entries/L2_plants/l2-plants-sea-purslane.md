@@ -72,7 +72,7 @@ audit_status: verified
 - Omega-3 fatty acids (like purslane)
 - ~16 cal per 100g
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes in coastal habitat
 - Salty succulent in beach zone = sea purslane

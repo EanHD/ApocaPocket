@@ -15,7 +15,7 @@ confidence: high
 difficulty: intermediate
 summary: Acorns must have tannins leached out before eating. Cold water method (days) gives better flavor; hot water method (hours) is faster. Result is versatile flour, porridge, or flatbread.
 warnings:
-- Raw acorns unsafe — tannins cause digestive upset and kidney damage with repeated consumption.
+- Raw acorns unsafe  -  tannins cause digestive upset and kidney damage with repeated consumption.
 - Green or moldy acorns are inedible.
 - Under-leached acorns still cause nausea; taste-test to confirm no bitterness.
 related_entries:

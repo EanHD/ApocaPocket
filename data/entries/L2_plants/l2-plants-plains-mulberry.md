@@ -72,7 +72,7 @@ audit_status: verified
 - Anthocyanins: high antioxidant
 - Short shelf life fresh; dry immediately
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes for true mulberry
 - Aggregate elongated berry shape = distinctive

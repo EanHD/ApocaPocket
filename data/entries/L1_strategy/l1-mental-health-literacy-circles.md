@@ -34,7 +34,7 @@ The human brain requires intellectual stimulation. Without it, we deteriorate.
 
 **Preserve and create:**
 - Write down critical knowledge: medicine, food, water, shelter, cultural stories
-- Create childrenâs primers: alphabet, simple words, sentences
+- Create childrenas primers: alphabet, simple words, sentences
 - Create skill manuals: step-by-step instructions for essential tasks
 - Keep community records: births, deaths, decisions
 
@@ -62,7 +62,7 @@ Rebuild before all who remember are gone. Teach phonics from scratch.
 - 20-30 min daily, 10-20 words per session
 
 **Phase 3: Sentences and comprehension (8-16 weeks)**
-- Simple sentences: âThe cat sat on a mat.â
+- Simple sentences: aThe cat sat on a mat.a
 - Sight words to memorize: the, is, of, and, a, to, in, it, you, that
 - Create simple illustrated readers using known words
 - 30-40 min daily

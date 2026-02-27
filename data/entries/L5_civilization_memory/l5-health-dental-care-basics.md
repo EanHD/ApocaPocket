@@ -19,7 +19,7 @@ steps:
 - Avoid excessive sugar and acidic foods that erode enamel.
 - Address toothaches early with clove oil (eugenol) for pain relief.
 warnings:
-- Dental infections can become life-threatening—don't ignore persistent pain or swelling.
+- Dental infections can become life-threatening - don't ignore persistent pain or swelling.
 - Extraction without training risks broken jaw or uncontrolled bleeding.
 related_entries:
 - l5-health-disease-prevention
@@ -43,5 +43,5 @@ Preventive dental care practices to maintain oral health without modern dentistr
 5. Address toothaches early with clove oil (eugenol) for pain relief.
 
 ## Warnings
-- Dental infections can become life-threatening—don't ignore persistent pain or swelling.
+- Dental infections can become life-threatening - don't ignore persistent pain or swelling.
 - Extraction without training risks broken jaw or uncontrolled bleeding.

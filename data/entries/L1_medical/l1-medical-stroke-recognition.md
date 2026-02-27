@@ -24,15 +24,15 @@ Stroke kills 2 million brain cells per minute. Treat within 3-4.5 hours. Every s
 
 Check all four signs now.
 
-- F — Face: Ask to smile. One side droops = stroke sign.
-- A — Arm: Both arms up, eyes closed. One drifts down = stroke sign.
-- S — Speech: "Can't teach old dog new tricks." Slurred or wrong words = stroke sign.
-- T — Time: Note exact symptom start time. Call 911 now.
+- F  -  Face: Ask to smile. One side droops = stroke sign.
+- A  -  Arm: Both arms up, eyes closed. One drifts down = stroke sign.
+- S  -  Speech: "Can't teach old dog new tricks." Slurred or wrong words = stroke sign.
+- T  -  Time: Note exact symptom start time. Call 911 now.
 
 Add BE-FAST for full screen:
 
-- B — Balance: Sudden dizziness or stumbling.
-- E — Eyes: Sudden vision loss or double vision.
+- B  -  Balance: Sudden dizziness or stumbling.
+- E  -  Eyes: Sudden vision loss or double vision.
 
 ANY positive sign = evacuate immediately. Do not wait.
 
@@ -40,10 +40,10 @@ ANY positive sign = evacuate immediately. Do not wait.
 
 Ischemic (87%): Clot blocks artery. Gradual onset over minutes to hours. Give aspirin.
 
-Hemorrhagic (13%): Vessel ruptures. Sudden "worst headache of my life." DO NOT give aspirin — worsens bleeding.
+Hemorrhagic (13%): Vessel ruptures. Sudden "worst headache of my life." DO NOT give aspirin  -  worsens bleeding.
 
 Suspect hemorrhagic if any of these are present:
-- Thunderclap headache — sudden and severe
+- Thunderclap headache  -  sudden and severe
 - Vomiting
 - Neck stiffness
 - Altered consciousness early
@@ -61,13 +61,13 @@ DO NOT give if thunderclap headache or suspected hemorrhagic stroke. Aspirin in 
 
 ## Positioning
 
-Elevate head 30 degrees. Never lay flat — increases intracranial pressure and aspiration risk.
+Elevate head 30 degrees. Never lay flat  -  increases intracranial pressure and aspiration risk.
 
 Do NOT lower blood pressure. High BP is compensatory. Allow systolic 140-180. Exception: systolic >220 with active bleeding.
 
 ## Women's Symptoms
 
-Women have atypical presentations 40% of the time — no chest pain equivalent.
+Women have atypical presentations 40% of the time  -  no chest pain equivalent.
 
 Common female stroke signs:
 - Extreme fatigue
@@ -120,8 +120,8 @@ During transport:
 
 ## Common Mistakes
 
-- Giving aspirin for hemorrhagic stroke — worsens bleeding, increases mortality.
-- Assuming it's a migraine — stroke mimics migraine, especially under age 50.
-- Waiting to see if it improves — TIA resolves but 40% progress to full stroke.
-- Laying patient flat — increases intracranial pressure.
-- Lowering blood pressure acutely — worsens brain perfusion.
+- Giving aspirin for hemorrhagic stroke  -  worsens bleeding, increases mortality.
+- Assuming it's a migraine  -  stroke mimics migraine, especially under age 50.
+- Waiting to see if it improves  -  TIA resolves but 40% progress to full stroke.
+- Laying patient flat  -  increases intracranial pressure.
+- Lowering blood pressure acutely  -  worsens brain perfusion.

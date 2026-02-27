@@ -6,7 +6,8 @@ category: L4_tools_rebuilding
 
 # Teaching Without Schools
 
-Schools are a modern invention — widespread only since the 1800s. For 200,000 years, humans taught without classrooms and built civilizations. Without effective teaching, civilization collapses in one to two generations.
+Schools are a modern invention  -  widespread only since the 1800s. For 200,000 years, humans taught without classrooms and built civilizations. Without effective teaching, civilization collapses in
+one to two generations.
 
 One expert teaches 10 students. Each becomes an expert. Each teaches 10 more. Knowledge spreads exponentially.
 
@@ -36,7 +37,7 @@ Human memory is powerful when trained. Epic poems of 10,000+ lines were memorize
 
 Information encoded in story, rhythm, and rhyme is 10x more memorable than plain facts.
 
-Repetition: Repeat information 7-10 times spaced over days and weeks. Use call-and-response — teacher says line, students repeat.
+Repetition: Repeat information 7-10 times spaced over days and weeks. Use call-and-response  -  teacher says line, students repeat.
 
 Story embedding: Teach navigation by telling stories of journeys. Myths encode survival knowledge about food sources, weather patterns, and geography.
 
@@ -52,11 +53,11 @@ Testing oral mastery: Exact recitation required, not "close enough." Test after 
 Humans learn by imitation. Watching an expert unconsciously transfers technique, rhythm, and sequence. Words miss 80% of what makes expert technique work.
 
 Teaching protocol:
-- Step 1 — Silent demonstration: Master performs without talking. Repeat 2-3 times. Students watch and absorb.
-- Step 2 — Narrated demonstration: Master performs while explaining each step.
-- Step 3 — Slow-motion demonstration: Break task into smallest steps. Exaggerate movements. Students see critical details.
-- Step 4 — Student attempts with correction: Immediate feedback. Physical correction — master guides student's hands. Do not let mistakes become habits.
-- Step 5 — Repeat until automatic: 10, 100, or 1000 repetitions depending on complexity.
+- Step 1  -  Silent demonstration: Master performs without talking. Repeat 2-3 times. Students watch and absorb.
+- Step 2  -  Narrated demonstration: Master performs while explaining each step.
+- Step 3  -  Slow-motion demonstration: Break task into smallest steps. Exaggerate movements. Students see critical details.
+- Step 4  -  Student attempts with correction: Immediate feedback. Physical correction  -  master guides student's hands. Do not let mistakes become habits.
+- Step 5  -  Repeat until automatic: 10, 100, or 1000 repetitions depending on complexity.
 
 ## Learning by Age
 
@@ -76,7 +77,7 @@ Adolescence (ages 13-18):
 
 Can they teach it? If you cannot teach it, you do not fully understand it. Have student explain or demonstrate to another person.
 
-Can they do it independently? Test without supervision in realistic conditions. Multiple trials required — consistency proves mastery.
+Can they do it independently? Test without supervision in realistic conditions. Multiple trials required  -  consistency proves mastery.
 
 Can they adapt when things go wrong? Master adapts. Novice freezes. Introduce obstacles and missing tools.
 

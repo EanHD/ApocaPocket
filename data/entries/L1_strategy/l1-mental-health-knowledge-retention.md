@@ -26,8 +26,8 @@ Review too soon = wasted time. Review too late = already forgotten. Space review
 Leitner System (paper flashcards):
 - Set up 5 boxes: Day 1, Day 3, Day 7, Day 30, Mastered.
 - New cards start in Box 1.
-- Got it right → move to next box.
-- Got it wrong → back to Box 1.
+- Got it right -> move to next box.
+- Got it wrong -> back to Box 1.
 - Review each box on its schedule.
 
 Time investment: 10-20 cards in 15 minutes. Retention: 85-95% long-term.
@@ -75,11 +75,11 @@ Monthly audit (2 hours):
 
 Test at three levels:
 
-Level 1 — Recognition: Can you identify it when you see it? Standard: 90%+ correct.
+Level 1  -  Recognition: Can you identify it when you see it? Standard: 90%+ correct.
 
-Level 2 — Recall: Can you produce it from memory? Standard: 80%+ correct.
+Level 2  -  Recall: Can you produce it from memory? Standard: 80%+ correct.
 
-Level 3 — Application: Can you use it in the field under realistic conditions? Standard: 3 successes in a row.
+Level 3  -  Application: Can you use it in the field under realistic conditions? Standard: 3 successes in a row.
 
 Stress testing: Test under time pressure, fatigue, and distraction. Knowledge under stress is truly retained knowledge.
 
@@ -106,15 +106,15 @@ Maintenance schedule:
 
 Not all knowledge deserves equal attention.
 
-Tier 1 — Critical (review weekly):
+Tier 1  -  Critical (review weekly):
 - Life-or-death skills (first aid, threats)
 - Core survival (water, fire, shelter)
 
-Tier 2 — Important (review monthly):
+Tier 2  -  Important (review monthly):
 - Foraging, hunting, navigation
 - Tool maintenance
 
-Tier 3 — Useful (review quarterly):
+Tier 3  -  Useful (review quarterly):
 - Comfort improvements
 - Optimization techniques
 

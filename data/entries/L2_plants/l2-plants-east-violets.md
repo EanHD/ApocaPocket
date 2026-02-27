@@ -71,7 +71,7 @@ audit_status: verified
 - Fall: may reflower; leaves persist
 - Winter (mild areas): leaves still accessible
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Heartshaped leaves + purple flower = safe

@@ -42,7 +42,7 @@ steps:
 ## The Threat
 - Wind chill kills at -20F in minutes
 - Sweating inside clothing = moisture
-  freezes = hypothermia — move slowly
+  freezes = hypothermia  -  move slowly
 - Touching bare metal = instant freeze
 - Avalanches (see entry)
 - Frostbite: numb = already happening
@@ -52,7 +52,7 @@ steps:
   smooth ceiling (prevents drips)
   block entrance partially with pack
 - Smaller shelter = easier to heat with
-  body warmth — don't build a palace
+  body warmth  -  don't build a palace
 - Must insulate from ground fully
   (see Ground Insulation entry)
 
@@ -68,7 +68,7 @@ steps:
   (prevents melting into snow)
 - Collect dry wood from standing dead trees
 - Melt ice (more efficient than snow)
-- DO NOT eat snow — lowers core temp
+- DO NOT eat snow  -  lowers core temp
   and causes dehydration
 
 ## Frostbite Prevention
@@ -83,4 +83,4 @@ steps:
 - Cold requires 2x normal calories
 - Eat high-fat foods (fat burns longest)
 - Limit unnecessary exertion
-- Rest when you can — fatigue kills
+- Rest when you can  -  fatigue kills

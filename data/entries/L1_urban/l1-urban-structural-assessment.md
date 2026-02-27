@@ -23,13 +23,13 @@ sources:
 - Entering a compromised building is the #1 cause of post-disaster urban death
 - 60-70% of post-earthquake deaths occur AFTER the initial event from secondary collapse
 - Three categories: GREEN (safe to occupy), YELLOW (<15 min entry only), RED (do not enter)
-- When in doubt, mark RED — no resource is worth your life
+- When in doubt, mark RED  -  no resource is worth your life
 
 ## Rating System
 
 - **GREEN:** Minor cosmetic damage only; safe to occupy normally
 - **YELLOW:** Moderate damage; enter briefly (<15 min), ground floor only, buddy system
-- **RED:** Any critical failure indicator present — DO NOT ENTER
+- **RED:** Any critical failure indicator present  -  DO NOT ENTER
 
 ## Lean Assessment
 
@@ -55,7 +55,7 @@ sources:
 
 - Straight roofline = safe; sag <2 in = caution; sag >6 in = RED
 - Missing sections, standing water >3 in on flat roof, or shifted HVAC units = RED
-- Porches, balconies, fire escapes fail first — check for rust, rot, cracks at attachment points
+- Porches, balconies, fire escapes fail first  -  check for rust, rot, cracks at attachment points
 
 ## Interior Hazards
 
@@ -68,7 +68,7 @@ sources:
 
 - **Shear cracks** (45 deg diagonal): <1/4 in = YELLOW; >1/4 in = RED
 - **Soft-story collapse** (first floor compressed, upper floors intact) = DO NOT ENTER
-- **Foundation offset** >1 in: RED — building no longer on stable base
+- **Foundation offset** >1 in: RED  -  building no longer on stable base
 - Damaged buildings are MORE vulnerable to aftershocks; minimize time inside YELLOW buildings
 
 ## Fire Damage

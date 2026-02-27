@@ -12,7 +12,7 @@ Plan routes before you need them.
 - Know the bottlenecks: stairs, narrow passages, rough terrain.
 - Pre-assign a buddy to each mobility-limited person.
 - Mark their go-bag: first to load, nearest to the door.
-- Walk and practice the route — never improvise under real stress.
+- Walk and practice the route  -  never improvise under real stress.
 
 ## Terrain Assessment
 
@@ -20,7 +20,7 @@ Before moving a person with limited mobility:
 - Test ground firmness with a stick or foot before committing.
 - Avoid slopes steeper than 5 degrees without a second person.
 - Mud and gravel: slow, steady, one person stabilizes while other guides.
-- Wet grass slips; paved curbs tip wheelchairs — identify both.
+- Wet grass slips; paved curbs tip wheelchairs  -  identify both.
 - Stairs require two people minimum; descend back-first.
 
 ## Improvised Aids

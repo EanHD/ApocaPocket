@@ -72,7 +72,7 @@ audit_status: verified
 - Cannot be stored; eat immediately
 - Mash and dry as leather for days-longer storage
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes in eastern US
 - No other tree has large tropical leaves + purple flowers

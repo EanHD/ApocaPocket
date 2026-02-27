@@ -19,7 +19,7 @@ steps:
 - Create credit/debt tracking for deferred exchanges (IOUs with witnesses).
 - Designate market days and neutral trading locations for inter-community exchange.
 warnings:
-- Barter is inefficient for complex economies—develop commodity money when stable.
+- Barter is inefficient for complex economies - develop commodity money when stable.
 - Disputes over value require pre-agreed arbitration.
 related_entries:
 - l5-governance-principles
@@ -44,5 +44,5 @@ Establishing fair exchange systems for goods and services when currency is unava
 5. Designate market days and neutral trading locations for inter-community exchange.
 
 ## Warnings
-- Barter is inefficient for complex economies—develop commodity money when stable.
+- Barter is inefficient for complex economies - develop commodity money when stable.
 - Disputes over value require pre-agreed arbitration.

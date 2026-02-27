@@ -72,7 +72,7 @@ audit_status: verified
 - Iron, magnesium also present
 - Carbohydrates for desert energy
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes in Sonoran Desert
 - Cylindrical joints = cholla; flat pads = prickly pear

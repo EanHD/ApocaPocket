@@ -71,7 +71,7 @@ audit_status: verified
 - Protein: 24g per 100g
 - Omega-3, magnesium, phosphorus, B6
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes for walnut
 - Butternut (J. cinerea): also edible, lighter

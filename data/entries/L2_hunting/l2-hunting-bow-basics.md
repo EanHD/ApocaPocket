@@ -19,12 +19,12 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 ## Recurve vs Compound
 
-**Recurve** — survival pick:
+**Recurve**  -  survival pick:
 - Simple, field-repairable, lightweight.
 - Full draw weight throughout pull (harder to hold).
 - Draw weight: 40-50 lbs for deer/caribou, 50-60 lbs for moose.
 
-**Compound** — accuracy pick:
+**Compound**  -  accuracy pick:
 - 60-80% let-off (easier to hold and aim).
 - Complex cams/cables can fail in field.
 - Heavier, requires tuning tools.
@@ -41,14 +41,14 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 - Fiberglass: cheap backup, heavy.
 
 **Spine matching** (must match draw weight):
-- 40 lb bow → 500-600 spine
-- 50 lb bow → 400-500 spine
-- 60 lb bow → 300-400 spine
+- 40 lb bow -> 500-600 spine
+- 50 lb bow -> 400-500 spine
+- 60 lb bow -> 300-400 spine
 
 **Arrow length**: full draw distance + 1-2 inches. Too short = dangerous.
 
 **Broadheads**: fixed blade, 100-125 grains. Must shave hair off your arm.
-- Fixed blade over mechanical — no moving parts to fail.
+- Fixed blade over mechanical  -  no moving parts to fail.
 
 ---
 
@@ -66,12 +66,12 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 ## After the Shot
 
 1. Mark where animal stood.
-2. Note reaction — hunched/tail down = good hit; jumpy = questionable.
+2. Note reaction  -  hunched/tail down = good hit; jumpy = questionable.
 3. **Wait 30-60 minutes before tracking.** Do not push the animal.
 4. Find arrow and read blood:
-- Bright red, frothy → lung hit (good)
-- Dark red → heart/liver (good)
-- Clear/smelly → gut hit (wait 4-6 hours)
+- Bright red, frothy -> lung hit (good)
+- Dark red -> heart/liver (good)
+- Clear/smelly -> gut hit (wait 4-6 hours)
 5. Mark blood trail every 10 feet with flagging tape.
 6. If trail goes cold: circle 20-30 yard radius from last blood.
 
@@ -86,7 +86,7 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 **Steps**:
 1. Strip bark, heat-straighten, sand smooth.
 2. Split shaft tip 1", insert stone/bone/glass point, bind with sinew, seal with pine pitch.
-3. Split 3 feathers, attach at 120° spacing, bind with sinew front and rear.
+3. Split 3 feathers, attach at 120 deg spacing, bind with sinew front and rear.
 4. Cut shallow nock (1/4") perpendicular to fletching.
 
 **Yield**: 3-5 arrows per day. **Quality**: ~60% of modern arrows.
@@ -97,16 +97,16 @@ related: [l2-hunting-large-game-shot-placement, l2-hunting-large-game-field-dres
 
 - Unstring recurve when not in use.
 - Wax string regularly (beeswax or paraffin).
-- Carry spare string — essential survival gear.
+- Carry spare string  -  essential survival gear.
 - Inspect limbs for cracks before each use.
-- Check arrows for cracks; flex each one — cracked carbon can splinter into hand.
+- Check arrows for cracks; flex each one  -  cracked carbon can splinter into hand.
 
 ---
 
 ## Safety
 
-- **Never dry-fire** (release without arrow) — bow explodes, causes injury.
-- Know backstop — arrows travel 200+ yards.
+- **Never dry-fire** (release without arrow)  -  bow explodes, causes injury.
+- Know backstop  -  arrows travel 200+ yards.
 - Do not overdraw past full draw length.
 
 ---

@@ -18,11 +18,12 @@ related:
 
 # Heart Attack Response
 
-Heart attacks kill 600,000 Americans yearly — the number one cause of death. Every minute of delayed treatment is more heart tissue death. Early recognition plus aspirin plus evacuation equals survival.
+Heart attacks kill 600,000 Americans yearly  -  the number one cause of death. Every minute of delayed treatment is more heart tissue death. Early recognition plus aspirin plus evacuation equals
+survival.
 
 ## Classic Symptoms
 
-Chest pressure or squeezing — not sharp pain. Described as an elephant sitting on the chest. Lasts over 5 minutes. Does not go away with rest.
+Chest pressure or squeezing  -  not sharp pain. Described as an elephant sitting on the chest. Lasts over 5 minutes. Does not go away with rest.
 
 Radiation pattern:
 - Left arm pain (most common, 50% of cases).
@@ -30,7 +31,7 @@ Radiation pattern:
 - Neck or back pain between shoulder blades.
 
 Associated symptoms:
-- Cold sweat — sudden and profuse.
+- Cold sweat  -  sudden and profuse.
 - Nausea or vomiting (30% of cases).
 - Shortness of breath.
 - Lightheadedness or dizziness.
@@ -66,26 +67,26 @@ Many people die because they assumed it was heartburn. If in doubt, treat as hea
 
 ## Emergency Care
 
-Step 1 — Aspirin immediately:
-- 325mg chewed (not swallowed whole — chewing speeds absorption).
+Step 1  -  Aspirin immediately:
+- 325mg chewed (not swallowed whole  -  chewing speeds absorption).
 - Effect starts in 5-10 minutes.
 - Reduces death by 23% when given within 30 minutes.
 
 Do NOT give aspirin if: known aspirin allergy, active bleeding, recent hemorrhagic stroke, severe bleeding disorder.
 
-Step 2 — Nitroglycerin (if available):
+Step 2  -  Nitroglycerin (if available):
 - 0.4mg tablet or spray under tongue.
 - Repeat every 5 minutes, maximum 3 doses in 15 minutes.
 - Do NOT give if systolic BP is under 90, heart rate is under 50, or person has taken Viagra or Cialis in the last 24-48 hours (fatal interaction).
 - Expected effects: headache, slight blood pressure drop, flushing.
 
-Step 3 — Positioning:
+Step 3  -  Positioning:
 - Semi-reclined at 45 degrees.
-- Do NOT lay flat — increases heart workload.
+- Do NOT lay flat  -  increases heart workload.
 - If unconscious with no pulse, lay flat and start CPR.
 
-Step 4 — Calm and reassure:
-- Keep person calm — stress increases heart workload.
+Step 4  -  Calm and reassure:
+- Keep person calm  -  stress increases heart workload.
 - Speak slowly and calmly.
 - Do not leave person alone.
 
@@ -118,7 +119,7 @@ tPA (clot-busting drug) is effective up to 90 minutes from onset for best outcom
 
 Evacuate immediately for: chest pressure lasting over 5 minutes, chest pain plus radiation to arm or jaw, women with atypical symptoms and risk factors, or any suspected heart attack.
 
-Do NOT drive yourself — 25% of heart attack deaths occur while driving. Call 911 or have someone drive you.
+Do NOT drive yourself  -  25% of heart attack deaths occur while driving. Call 911 or have someone drive you.
 
 During transport: Continue aspirin, monitor closely, be ready to start CPR.
 

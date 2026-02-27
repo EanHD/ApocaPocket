@@ -22,12 +22,12 @@ audit_status: verified
 last_verified: '2026-02-19'
 summary: Writing materials made from local plants and minerals. Oak-gall ink (iron gall ink) is permanent and water-resistant. Paper from plant fiber pulp takes 1-2 days including drying.
 warnings:
-- Oak-gall ink is mildly corrosive to metal nibs — use quill or reed pens
-- Fresh ink stains skin and fabric — work carefully
-- Paper-making uses large amounts of water — do near a water source
+- Oak-gall ink is mildly corrosive to metal nibs  -  use quill or reed pens
+- Fresh ink stains skin and fabric  -  work carefully
+- Paper-making uses large amounts of water  -  do near a water source
 - Lye used in pulp processing is caustic
 steps:
-- 'OAK-GALL INK: collect oak galls (round growths on oak trees caused by wasps). Crush 10-12 galls, soak in 1 cup water for 2-3 days. Strain. Add rusty iron nails and let sit 1 week — iron reacts with tannic
+- 'OAK-GALL INK: collect oak galls (round growths on oak trees caused by wasps). Crush 10-12 galls, soak in 1 cup water for 2-3 days. Strain. Add rusty iron nails and let sit 1 week  -  iron reacts with tannic
   acid forming black ink. Add gum arabic (tree sap) as binder. Stores indefinitely.'
 - 'CHARCOAL INK: grind charcoal to fine powder. Mix with water and gum arabic or hide glue. Less permanent than iron-gall but immediate.'
 - 'PAPER PULP: soak plant fiber (cotton rags, linen, hemp, kozo bark, papyrus) in lye solution (wood ash water) for 24 hours. This breaks down lignin. Rinse thoroughly.'

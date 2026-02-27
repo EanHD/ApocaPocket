@@ -47,5 +47,5 @@ Succulent garden weed and one of the richest plant sources of omega-3 fatty acid
 4. Seeds are tiny but edible and nutritious.
 
 ## Warnings
-- Spurge (Euphorbia) is a toxic lookalike — check for milky sap (purslane has clear sap) and round vs paddle leaves.
-- Contains oxalates — moderate consumption if kidney stone prone.
+- Spurge (Euphorbia) is a toxic lookalike  -  check for milky sap (purslane has clear sap) and round vs paddle leaves.
+- Contains oxalates  -  moderate consumption if kidney stone prone.

@@ -19,7 +19,7 @@ steps:
 - Maintain backup routes in case primary paths are compromised.
 - Log all messages sent and received for accountability.
 warnings:
-- Messengers can be intercepted—use encryption for sensitive content.
+- Messengers can be intercepted - use encryption for sensitive content.
 - Single points of failure in relay chains disable the whole network.
 related_entries:
 - l5-communication-systems-basics
@@ -44,5 +44,5 @@ Organizing reliable human messenger and relay networks for communication across 
 5. Log all messages sent and received for accountability.
 
 ## Warnings
-- Messengers can be intercepted—use encryption for sensitive content.
+- Messengers can be intercepted - use encryption for sensitive content.
 - Single points of failure in relay chains disable the whole network.

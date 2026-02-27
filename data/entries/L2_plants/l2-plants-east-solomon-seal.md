@@ -71,7 +71,7 @@ audit_status: verified
 - Vitamins and minerals in young shoots
 - Traditional food of many eastern tribes
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - False Solomon's seal (Maianthemum): edible shoots
 - False variety: berries in terminal cluster (red)

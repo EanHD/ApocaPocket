@@ -19,7 +19,7 @@ steps:
 - Raise bents (assembled frames) and connect with plates, girts, and braces.
 - Add diagonal bracing to resist lateral forces (wind, earthquake).
 warnings:
-- Green timber shrinks and loosens joints—season wood before use.
+- Green timber shrinks and loosens joints - season wood before use.
 - Raising heavy bents requires coordinated crew and safe rigging.
 related_entries:
 - l5-structural-load-paths
@@ -45,5 +45,5 @@ Post-and-beam construction techniques using large timbers joined with traditiona
 5. Add diagonal bracing to resist lateral forces (wind, earthquake).
 
 ## Warnings
-- Green timber shrinks and loosens joints—season wood before use.
+- Green timber shrinks and loosens joints - season wood before use.
 - Raising heavy bents requires coordinated crew and safe rigging.

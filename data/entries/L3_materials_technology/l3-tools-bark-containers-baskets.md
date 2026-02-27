@@ -6,19 +6,19 @@ category: L3_materials_technology
 
 # Bark Containers & Baskets
 
-**Build time:** 30 min–8 hours. Waterproof, lightweight, durable.
+**Build time:** 30 min - 8 hours. Waterproof, lightweight, durable.
 
 ## Best Barks
 
 ### Birch (Best)
 - Species: paper birch, white birch, yellow birch
 - Naturally 100% waterproof (resin layers), flexible, peels in large sheets
-- Harvest in spring — sap running means bark peels easily
+- Harvest in spring  -  sap running means bark peels easily
 - Found: Northern US, Canada, Northern Europe, Russia
 
 ### Cedar
 - Species: western red cedar, eastern red cedar
-- Rot-resistant, aromatic, fibrous — good for weaving and cordage
+- Rot-resistant, aromatic, fibrous  -  good for weaving and cordage
 - Harvest year-round, remove outer bark and use inner
 - Found: Pacific Northwest, Eastern US
 
@@ -33,12 +33,12 @@ category: L3_materials_technology
 ## Birch Bark Harvesting
 
 ### Timing
-- Spring (late April–June): bark peels easily
+- Spring (late April - June): bark peels easily
 - Summer: possible but harder
 - Fall/Winter: nearly impossible
 
 ### Sustainable Rules
-- Never girdle the tree — harvest from one side only
+- Never girdle the tree  -  harvest from one side only
 - Harvest above shoulder height
 - Take 2-4 square feet maximum per tree
 - Tree heals in 2-5 years
@@ -46,9 +46,9 @@ category: L3_materials_technology
 ### Method
 1. Score a vertical line 4-6 feet tall with two horizontal cuts at top and bottom
 2. Insert wooden wedge between bark and wood
-3. Peel carefully around perimeter — bark releases in one sheet
+3. Peel carefully around perimeter  -  bark releases in one sheet
 4. Roll immediately inner-side out to prevent curling
-5. Store rolled in cool, damp place — use within weeks
+5. Store rolled in cool, damp place  -  use within weeks
 
 ---
 
@@ -90,7 +90,7 @@ category: L3_materials_technology
 
 ## Coiled Basket (Brief)
 
-**Build time:** 4-8 hours. Not waterproof — use for dry goods.
+**Build time:** 4-8 hours. Not waterproof  -  use for dry goods.
 
 - Materials: cattail leaves, cedar bark strips, or sweetgrass
 - Stitch each coil to previous row with split roots or matching material
@@ -102,7 +102,7 @@ category: L3_materials_technology
 
 ## Sustainability
 
-- One tree yields multiple containers — do not over-harvest
+- One tree yields multiple containers  -  do not over-harvest
 - Harvest from healthy trees only
 - Do not return to the same tree for 5+ years
 - Check local regulations before harvesting on public land

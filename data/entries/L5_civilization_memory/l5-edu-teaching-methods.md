@@ -19,8 +19,8 @@ steps:
 - Teach in small groups (5-8) for optimal engagement.
 - Test retention through practical application, not just recitation.
 warnings:
-- Skipping practice leads to poor retention—always include hands-on work.
-- Adjust pace to slowest critical learner—lives may depend on their competence.
+- Skipping practice leads to poor retention - always include hands-on work.
+- Adjust pace to slowest critical learner - lives may depend on their competence.
 related_entries:
 - l5-edu-apprenticeship-systems
 - l5-edu-scientific-method
@@ -44,5 +44,5 @@ Practical teaching techniques for transferring knowledge and skills in resource-
 5. Test retention through practical application, not just recitation.
 
 ## Warnings
-- Skipping practice leads to poor retention—always include hands-on work.
-- Adjust pace to slowest critical learner—lives may depend on their competence.
+- Skipping practice leads to poor retention - always include hands-on work.
+- Adjust pace to slowest critical learner - lives may depend on their competence.

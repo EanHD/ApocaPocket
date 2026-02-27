@@ -19,9 +19,9 @@ steps:
 - Elevate injured extremities when possible to reduce swelling.
 - If antibiotics are available and infection develops, begin appropriate course.
 warnings:
-- Untreated wound infections can become sepsis — a life-threatening emergency.
-- Do not close contaminated or bite wounds — leave open to drain.
-- Tetanus risk increases with dirty/puncture wounds — prior vaccination critical.
+- Untreated wound infections can become sepsis  -  a life-threatening emergency.
+- Do not close contaminated or bite wounds  -  leave open to drain.
+- Tetanus risk increases with dirty/puncture wounds  -  prior vaccination critical.
 related_entries:
 - l1-medical-wound-cleaning
 - l1-medical-burns
@@ -48,6 +48,6 @@ Preventing wound infections in austere environments without access to hospitals.
 6. If antibiotics are available and infection develops, begin appropriate course.
 
 ## Warnings
-- Untreated wound infections can become sepsis — a life-threatening emergency.
-- Do not close contaminated or bite wounds — leave open to drain.
-- Tetanus risk increases with dirty/puncture wounds — prior vaccination critical.
+- Untreated wound infections can become sepsis  -  a life-threatening emergency.
+- Do not close contaminated or bite wounds  -  leave open to drain.
+- Tetanus risk increases with dirty/puncture wounds  -  prior vaccination critical.

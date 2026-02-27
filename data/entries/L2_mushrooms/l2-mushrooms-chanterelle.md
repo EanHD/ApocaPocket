@@ -62,7 +62,7 @@ audit_status: verified
 - ~38 cal per 100g fresh
 - Vitamin D when sun-dried
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 - Jack-o-lantern (Omphalotus): true sharp gills, glows green at night, grows ON wood
 - False chanterelle (Hygrophoropsis): orange, thin true gills
 - RULE: blunt forked ridges = safe; sharp gills = stop

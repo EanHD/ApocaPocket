@@ -71,7 +71,7 @@ audit_status: verified
 - Protein: 13g; good amino acid profile
 - Hickory oil: render from crushed nuts + water
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes for hickory
 - Taste test eliminates bitter species

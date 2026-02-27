@@ -13,7 +13,7 @@ region_relevance:
 confidence: high
 summary: All wild and untreated water can carry pathogens. Boiling is most reliable. Bleach/iodine when no fire. SODIS when no chemicals. Always filter turbid water first.
 warnings:
-- Clear water is NOT safe water — pathogens are invisible
+- Clear water is NOT safe water  -  pathogens are invisible
 - Treat ALL unknown water sources including springs and streams
 related_entries:
 - l1-water-boiling-disinfection
@@ -38,14 +38,14 @@ water first, then treat.
 
 ## Method Ranking
 
-**Most reliable → field expedient:**
+**Most reliable -> field expedient:**
 
-1. **Boiling** — kills everything, needs fire
-2. **Bleach** — kills bacteria/viruses, fast
-3. **Iodine tabs** — kills bacteria/viruses, fast
-4. **SODIS** — kills most, needs sun + 6hrs
-5. **Filtration** — removes particles/some bugs
-6. **Solar still** — last resort, very slow
+1. **Boiling**  -  kills everything, needs fire
+2. **Bleach**  -  kills bacteria/viruses, fast
+3. **Iodine tabs**  -  kills bacteria/viruses, fast
+4. **SODIS**  -  kills most, needs sun + 6hrs
+5. **Filtration**  -  removes particles/some bugs
+6. **Solar still**  -  last resort, very slow
 
 ## Pre-Treatment
 

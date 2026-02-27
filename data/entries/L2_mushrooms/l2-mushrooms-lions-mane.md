@@ -15,10 +15,10 @@ region_relevance:
 - temperate
 confidence: high
 difficulty: beginner
-summary: Unmistakable white globe of cascading teeth on hardwood. No dangerous lookalikes — all Hericium species are edible. Mild seafood-like flavor.
+summary: Unmistakable white globe of cascading teeth on hardwood. No dangerous lookalikes  -  all Hericium species are edible. Mild seafood-like flavor.
 warnings:
 - All Hericium species are edible; this is a very safe genus.
-- Old specimens (yellow/brown) may cause GI upset — harvest fresh only.
+- Old specimens (yellow/brown) may cause GI upset  -  harvest fresh only.
 related_entries:
 - l2-mushrooms-oyster
 - l2-mushrooms-hen-of-the-woods

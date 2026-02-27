@@ -12,7 +12,7 @@ category: L4_agriculture_labor
 - Feed conversion: 4:1 (vs 6-10:1 for chickens and pigs). Most efficient livestock.
 - Space: 4 sq ft per rabbit (vs 100+ for goat, 1000+ for cow).
 - Fast breeding: 30-day gestation, 6-10 kits per litter, rebreed every 45-60 days.
-- 1 doe = 40-50 kits/year = 150-200 lbs meat. Scale fast: 1 pair → hundreds in 18 months.
+- 1 doe = 40-50 kits/year = 150-200 lbs meat. Scale fast: 1 pair -> hundreds in 18 months.
 - Silent (urban and apartment viable). White meat. Meat, fur, and manure all useful.
 
 ## Best Breeds
@@ -25,13 +25,13 @@ category: L4_agriculture_labor
 
 ## Housing
 
-- Breeding adults: 4-6 sq ft floor space (24×30" min), 18-24" height per cage.
+- Breeding adults: 4-6 sq ft floor space (24x30" min), 18-24" height per cage.
 - Grow-out litters: 1.5-2 sq ft per kit. Group housing acceptable.
-- Wire floor: 1/2×1" mesh gauge. Droppings fall through. Easy cleaning.
+- Wire floor: 1/2x1" mesh gauge. Droppings fall through. Easy cleaning.
 - Add resting board (flat wood) for relief from wire.
-- Location: Full shade. Over 85°F = heat stress. Provide frozen water bottles and fans.
+- Location: Full shade. Over 85 degF = heat stress. Provide frozen water bottles and fans.
 - Predator-proof latches. Secure from dogs, raccoons, weasels, hawks.
-- Ideal temp: 50-70°F. Danger: below 20°F or above 85°F.
+- Ideal temp: 50-70 degF. Danger: below 20 degF or above 85 degF.
 
 ## Feeding
 
@@ -55,9 +55,9 @@ category: L4_agriculture_labor
 ## Growth & Harvest
 
 - Optimal harvest age: 10-12 weeks at 5-6 lbs live weight.
-- Dressed weight: 50-55% of live weight (5 lb rabbit → 2.5-3 lbs meat, 4-5 servings).
+- Dressed weight: 50-55% of live weight (5 lb rabbit -> 2.5-3 lbs meat, 4-5 servings).
 - Processing time: 10-15 min/rabbit with practice.
-- Steps: Cervical dislocation → bleed (cut jugular) → skin (peel like removing a sock) → eviscerate (cut belly, remove organs) → rinse → chill 24 hrs.
+- Steps: Cervical dislocation -> bleed (cut jugular) -> skin (peel like removing a sock) -> eviscerate (cut belly, remove organs) -> rinse -> chill 24 hrs.
 - Pelts: Stretch on frame, dry. Value $5-15 each depending on quality.
 
 ## Health

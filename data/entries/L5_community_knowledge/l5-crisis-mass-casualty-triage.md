@@ -47,10 +47,10 @@ Yell loudly: "Anyone who can walk, move to [point to safe area]!"
 All who walk = GREEN (minor). Assign one person to manage them.
 
 **Step 2: Non-Walking Victims (30 seconds max each)**
-- Breathing? NO → Open airway (head tilt-chin lift). Still no breathing → BLACK (dead). Starts breathing → RED.
-- Breathing rate over 30/min → RED (respiratory distress).
-- Radial pulse weak or absent → RED (shock).
-- Mental status: "Squeeze my hand." No response → RED. Responds and follows commands → YELLOW.
+- Breathing? NO -> Open airway (head tilt-chin lift). Still no breathing -> BLACK (dead). Starts breathing -> RED.
+- Breathing rate over 30/min -> RED (respiratory distress).
+- Radial pulse weak or absent -> RED (shock).
+- Mental status: "Squeeze my hand." No response -> RED. Responds and follows commands -> YELLOW.
 
 **Triage categories**
 - GREEN (Minor): Can walk. Minor injuries. Can wait hours for care.
@@ -62,21 +62,21 @@ All who walk = GREEN (minor). Assign one person to manage them.
 
 ## Timeline
 
-**0-15 min — Rapid Triage**
+**0-15 min  -  Rapid Triage**
 - Triage Officer moves through ALL victims systematically. Tag only. Do not stop to treat.
 - Treatment Team stands by until all REDs identified.
 
-**15-30 min — RED Interventions**
+**15-30 min  -  RED Interventions**
 - Bleeding: Tourniquet for arterial (spurting). Direct pressure for venous (oozing). Fast, move on.
 - Airway: Recovery position for unconscious. Clear visible obstructions.
 - Sucking chest wounds: Seal with plastic taped on 3 sides (allows air out, not in).
 - Shock: Lie flat, elevate legs if no spinal injury, keep warm.
 
-**30 min to 2 hrs — YELLOW Care and Re-Triage**
+**30 min to 2 hrs  -  YELLOW Care and Re-Triage**
 - Begin treating YELLOW tags once all REDs are stabilized.
-- Re-triage ALL victims every 15-30 min. Stable → deteriorating or vice versa.
+- Re-triage ALL victims every 15-30 min. Stable -> deteriorating or vice versa.
 
-**Evacuation order (when ambulances arrive): RED → YELLOW → GREEN.**
+**Evacuation order (when ambulances arrive): RED -> YELLOW -> GREEN.**
 
 ## Fatal Mistakes
 

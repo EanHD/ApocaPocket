@@ -19,10 +19,10 @@ steps:
   base.
 - Produce charcoal by slow-burning hardwood in a covered pit.
 - Charge furnace with alternating layers of charcoal and crushed ore.
-- Maintain forced air (bellows) for 6-10 hours to reach ~1200°C; extract bloom and
+- Maintain forced air (bellows) for 6-10 hours to reach ~1200 degC; extract bloom and
   hammer out slag.
 warnings:
-- Extreme heat and carbon monoxide—work outdoors with ventilation.
+- Extreme heat and carbon monoxide - work outdoors with ventilation.
 - Molten slag causes severe burns; wear protection and keep water away from furnace.
 related_entries:
 - l5-metallurgy-basics
@@ -45,8 +45,8 @@ How to produce usable iron from ore using a bloomery furnace with charcoal fuel.
 2. Build a bloomery furnace from clay/stone, ~1m tall with tuyere (air inlet) near base.
 3. Produce charcoal by slow-burning hardwood in a covered pit.
 4. Charge furnace with alternating layers of charcoal and crushed ore.
-5. Maintain forced air (bellows) for 6-10 hours to reach ~1200°C; extract bloom and hammer out slag.
+5. Maintain forced air (bellows) for 6-10 hours to reach ~1200 degC; extract bloom and hammer out slag.
 
 ## Warnings
-- Extreme heat and carbon monoxide—work outdoors with ventilation.
+- Extreme heat and carbon monoxide - work outdoors with ventilation.
 - Molten slag causes severe burns; wear protection and keep water away from furnace.

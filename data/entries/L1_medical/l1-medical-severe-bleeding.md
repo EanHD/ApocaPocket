@@ -35,7 +35,7 @@ Life-threatening hemorrhage kills in 3-5 minutes. Immediate direct pressure and 
 
 ## Signs
 **Life-threatening:** blood spurting (arterial), pooling rapidly, soaked clothing, >500mL (2 cups)
-**Shock:** pale clammy skin · rapid weak pulse >100 bpm · rapid shallow breathing · confusion · thirst
+**Shock:** pale clammy skin - rapid weak pulse >100 bpm - rapid shallow breathing - confusion - thirst
 
 ## Protocol
 
@@ -45,8 +45,8 @@ Life-threatening hemorrhage kills in 3-5 minutes. Immediate direct pressure and 
 
 ### 2. Direct Pressure (min 3 min)
 - Firm continuous pressure with clean cloth/gauze, palm of hand
-- Do NOT lift to check — if soaked through, add more cloth on top
-- Minor: 3-5 min · Moderate: 5-10 min · Severe: 10+ min or until EMS
+- Do NOT lift to check  -  if soaked through, add more cloth on top
+- Minor: 3-5 min - Moderate: 5-10 min - Severe: 10+ min or until EMS
 
 ### 3. Wound Packing (Deep/Junctional Wounds)
 - Pack gauze (hemostatic preferred: QuikClot, Celox) deep into wound cavity
@@ -54,29 +54,29 @@ Life-threatening hemorrhage kills in 3-5 minutes. Immediate direct pressure and 
 - Hemostatic agents (kaolin/chitosan-based) are more effective than plain gauze
 
 ### 4. Tourniquet (Life-Threatening Extremity Only)
-- Use when: direct pressure fails after 3 min · multiple casualties · unsafe environment
-- Do NOT use on: non-extremity wounds (head/neck/torso/groin) · minor bleeding
-- Placement: 2-3 inches ABOVE wound · not on joint · bare skin · as high as possible if unsure
+- Use when: direct pressure fails after 3 min - multiple casualties - unsafe environment
+- Do NOT use on: non-extremity wounds (head/neck/torso/groin) - minor bleeding
+- Placement: 2-3 inches ABOVE wound - not on joint - bare skin - as high as possible if unsure
 - Tighten windlass until bleeding stops AND pulse beyond TQ is absent (4-8 turns)
-- **Mark time** — write "TQ" + time on tourniquet or victim's forehead/arm
-- Do NOT remove in field — only trained medical personnel should remove
-- Commercial (preferred): CAT · SOFT-T · SAM XT
+- **Mark time**  -  write "TQ" + time on tourniquet or victim's forehead/arm
+- Do NOT remove in field  -  only trained medical personnel should remove
+- Commercial (preferred): CAT - SOFT-T - SAM XT
 - Improvised: 2"+ wide cloth strip + rigid windlass (pen/stick); never rope or wire
 
 ### 5. Pressure Dressing & Shock
 - Wrap elastic bandage over packed wound; check circulation distal to dressing
-- Lay victim flat · elevate legs 12" (no head/chest/abdominal injury) · keep warm · nothing by mouth
+- Lay victim flat - elevate legs 12" (no head/chest/abdominal injury) - keep warm - nothing by mouth
 
 ## Special Situations
-- **Arterial:** bright red, spurting with pulse → tourniquet if pressure fails
-- **Venous:** dark red, steady flow → usually controlled with direct pressure
+- **Arterial:** bright red, spurting with pulse -> tourniquet if pressure fails
+- **Venous:** dark red, steady flow -> usually controlled with direct pressure
 - **Scalp:** bleeds heavily even when minor; wrap entire head; skip pressure if skull fracture suspected
 - **Amputation:** tourniquet stump; wrap amputated part in dry cloth in plastic bag; keep cool (not on ice)
-- **Internal bleeding:** bruising/swelling/rigidity, coughing/vomiting blood, shock without external source → lay flat, keep warm, evacuate urgently, nothing by mouth
+- **Internal bleeding:** bruising/swelling/rigidity, coughing/vomiting blood, shock without external source -> lay flat, keep warm, evacuate urgently, nothing by mouth
 
 ## Common Mistakes
-- ❌ Lifting dressing to check (breaks clot)
-- ❌ Tourniquet on joint, on wound, or not tightened enough (causes more bleeding)
-- ❌ Removing tourniquet in field
-- ❌ Improvised tourniquet narrower than 1.5"
-- ❌ Not packing wound deeply enough
+- [X] Lifting dressing to check (breaks clot)
+- [X] Tourniquet on joint, on wound, or not tightened enough (causes more bleeding)
+- [X] Removing tourniquet in field
+- [X] Improvised tourniquet narrower than 1.5"
+- [X] Not packing wound deeply enough

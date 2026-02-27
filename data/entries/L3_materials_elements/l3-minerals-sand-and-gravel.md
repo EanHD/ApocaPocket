@@ -15,9 +15,9 @@ summary: Evaluating sand and gravel deposits for suitability in construction, mo
   and filtration.
 steps:
 - Source from river beds, glacial deposits, and eroded hillsides.
-- Good construction sand is angular (sharp), not rounded—angular grains interlock
+- Good construction sand is angular (sharp), not rounded - angular grains interlock
   better.
-- Avoid sand with high clay or organic content—rub between fingers, it should feel
+- Avoid sand with high clay or organic content - rub between fingers, it should feel
   gritty not slippery.
 - 'Wash sand: stir in water, let settle, pour off muddy water. Repeat until water
   runs clear.'
@@ -41,8 +41,8 @@ Evaluating sand and gravel deposits for suitability in construction, mortar, and
 
 ## Step-by-step
 1. Source from river beds, glacial deposits, and eroded hillsides.
-2. Good construction sand is angular (sharp), not rounded—angular grains interlock better.
-3. Avoid sand with high clay or organic content—rub between fingers, it should feel gritty not slippery.
+2. Good construction sand is angular (sharp), not rounded - angular grains interlock better.
+3. Avoid sand with high clay or organic content - rub between fingers, it should feel gritty not slippery.
 4. Wash sand: stir in water, let settle, pour off muddy water. Repeat until water runs clear.
 5. Grade gravel by size: pass through improvised screens for uniform aggregate.
 6. Mix ratios for basic mortar: roughly 1 part lime/cement to 3 parts sand by volume.

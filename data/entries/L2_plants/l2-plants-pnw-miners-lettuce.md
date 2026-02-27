@@ -72,7 +72,7 @@ audit_status: verified
 - Find on north-facing slopes in heat
 - One of earliest spring greens available
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Disc-around-stem is unique feature

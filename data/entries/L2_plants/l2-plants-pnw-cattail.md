@@ -72,7 +72,7 @@ audit_status: verified
 - Shoots: vitamins A, B, C; potassium
 - One of highest-yield wild carb sources
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Yellow flag iris (Iris pseudacorus)
 - Iris leaves fan-shaped, not flat strap

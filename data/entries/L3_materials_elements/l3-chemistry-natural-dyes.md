@@ -15,15 +15,15 @@ summary: Extracting and fixing plant-based dyes for coloring textiles and cordag
 steps:
 - 'Common dye sources: onion skins (yellow-orange), walnut hulls (brown), berries
   (purple/blue), turmeric (yellow).'
-- Chop plant material, simmer in water for 1–2 hours to extract color.
+- Chop plant material, simmer in water for 1 - 2 hours to extract color.
 - Strain out solids to get dye bath.
 - 'Mordant fabric first: soak in alum solution (if available) or use tannin-rich water
   (oak bark) to help dye bind.'
-- Submerge fabric in dye bath, simmer for 1–2 hours, stirring occasionally.
+- Submerge fabric in dye bath, simmer for 1 - 2 hours, stirring occasionally.
 - Rinse in cool water, hang to dry. Colors deepen with repeated dipping.
 warnings:
-- Some dye plants are toxic (pokeweed)—do not ingest dye baths.
-- Some mordants (chrome, tin) are toxic—alum and tannin are safest.
+- Some dye plants are toxic (pokeweed) - do not ingest dye baths.
+- Some mordants (chrome, tin) are toxic - alum and tannin are safest.
 related_entries:
 - l3-chemistry-ph-basics
 - l4-tool-weaving-basics
@@ -41,12 +41,12 @@ Extracting and fixing plant-based dyes for coloring textiles and cordage.
 
 ## Step-by-step
 1. Common dye sources: onion skins (yellow-orange), walnut hulls (brown), berries (purple/blue), turmeric (yellow).
-2. Chop plant material, simmer in water for 1–2 hours to extract color.
+2. Chop plant material, simmer in water for 1 - 2 hours to extract color.
 3. Strain out solids to get dye bath.
 4. Mordant fabric first: soak in alum solution (if available) or use tannin-rich water (oak bark) to help dye bind.
-5. Submerge fabric in dye bath, simmer for 1–2 hours, stirring occasionally.
+5. Submerge fabric in dye bath, simmer for 1 - 2 hours, stirring occasionally.
 6. Rinse in cool water, hang to dry. Colors deepen with repeated dipping.
 
 ## Warnings
-- Some dye plants are toxic (pokeweed)—do not ingest dye baths.
-- Some mordants (chrome, tin) are toxic—alum and tannin are safest.
+- Some dye plants are toxic (pokeweed) - do not ingest dye baths.
+- Some mordants (chrome, tin) are toxic - alum and tannin are safest.

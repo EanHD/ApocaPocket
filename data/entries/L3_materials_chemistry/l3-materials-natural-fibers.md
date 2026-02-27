@@ -1,6 +1,6 @@
 ---
 id: l3-materials-natural-fibers
-title: Natural Fibers — Plant
+title: Natural Fibers  -  Plant
 category: L3_materials_chemistry
 subtopic: materials
 tags:
@@ -44,7 +44,7 @@ steps:
 ---
 # Natural Fibers
 
-## Flax — Linen
+## Flax  -  Linen
 
 - Grow in cool climates, 90-day crop
 - Ret stalks to loosen fibers: 2 weeks

@@ -18,15 +18,15 @@ steps:
 - 'Hand-picking: inspect plants daily, remove and destroy pest insects and eggs.'
 - 'Companion planting: marigolds deter nematodes, basil repels some flies, nasturtiums
   trap aphids.'
-- 'Biological control: encourage predators—ladybugs eat aphids, birds eat caterpillars,
+- 'Biological control: encourage predators - ladybugs eat aphids, birds eat caterpillars,
   toads eat slugs.'
 - 'Soap spray: dilute soap in water (1 tbsp per liter) for soft-bodied insects (aphids,
   mites).'
-- Accept some damage—healthy plants tolerate minor pest pressure without intervention.
+- Accept some damage - healthy plants tolerate minor pest pressure without intervention.
 warnings:
-- Even natural pesticides (neem, pyrethrin) can harm beneficial insects—use as last
+- Even natural pesticides (neem, pyrethrin) can harm beneficial insects - use as last
   resort.
-- Identify pests correctly before treatment—many insects are beneficial.
+- Identify pests correctly before treatment - many insects are beneficial.
 related_entries:
 - l4-agriculture-crop-rotation
 - l4-agriculture-composting
@@ -48,10 +48,10 @@ Non-chemical and low-tech approaches to managing garden and crop pests.
 2. Physical barriers: row covers, netting, fences, and copper tape for slugs.
 3. Hand-picking: inspect plants daily, remove and destroy pest insects and eggs.
 4. Companion planting: marigolds deter nematodes, basil repels some flies, nasturtiums trap aphids.
-5. Biological control: encourage predators—ladybugs eat aphids, birds eat caterpillars, toads eat slugs.
+5. Biological control: encourage predators - ladybugs eat aphids, birds eat caterpillars, toads eat slugs.
 6. Soap spray: dilute soap in water (1 tbsp per liter) for soft-bodied insects (aphids, mites).
-7. Accept some damage—healthy plants tolerate minor pest pressure without intervention.
+7. Accept some damage - healthy plants tolerate minor pest pressure without intervention.
 
 ## Warnings
-- Even natural pesticides (neem, pyrethrin) can harm beneficial insects—use as last resort.
-- Identify pests correctly before treatment—many insects are beneficial.
+- Even natural pesticides (neem, pyrethrin) can harm beneficial insects - use as last resort.
+- Identify pests correctly before treatment - many insects are beneficial.

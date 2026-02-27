@@ -24,7 +24,7 @@ steps:
 warnings:
 - "LINE-OF-SIGHT: Mesh networks (especially LoRa, Wi-Fi) require line-of-sight or near-line-of-sight between nodes. Buildings, hills, dense foliage block signals. Deploy nodes on rooftops, hills, or elevated poles. A single blocked path can isolate entire neighborhood"
 - "HOP LIMIT: Each relay (hop) adds latency (50-500ms per hop) and reduces effective bandwidth (50% per hop for Wi-Fi). Keep hop count <4 for usable real-time communications. 10-hop mesh has 10-20 second latency"
-- "ENCRYPTION: Unencrypted mesh traffic is readable by anyone with compatible receiver. Always enable encryption (AES-256 for Meshtastic, WPA2/WPA3 for Wi-Fi mesh). Default encryption keys widely known — change immediately"
+- "ENCRYPTION: Unencrypted mesh traffic is readable by anyone with compatible receiver. Always enable encryption (AES-256 for Meshtastic, WPA2/WPA3 for Wi-Fi mesh). Default encryption keys widely known  -  change immediately"
 - "POWER: Mesh nodes require continuous power (solar + battery or grid). Single dead node can partition network. Plan battery capacity for 24-72 hours autonomy (LoRa: 1-5Ah, Wi-Fi: 20-100Ah)"
 - "FREQUENCY REGULATIONS: LoRa operates on unlicensed ISM bands (915 MHz US, 868 MHz EU) with duty cycle limits (1-10% in EU, unlimited in US). Exceeding duty cycle violates regulations and degrades network performance"
 - "BANDWIDTH LIMITS: Meshtastic/LoRa limited to 1-10 kbps (text messaging only, no voice/video). Wi-Fi mesh degrades rapidly with >10-20 active users per node. Bluetooth mesh limited to sensor data and short messages"

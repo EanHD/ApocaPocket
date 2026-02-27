@@ -33,10 +33,10 @@ Water treatment: rolling boil 1 minute, or 8 drops unscented bleach per gallon, 
 
 ### 3. Heat
 
-Heat index 103°F or higher is dangerous for all outdoor activity.
+Heat index 103 degF or higher is dangerous for all outdoor activity.
 Heat stroke: hot dry skin, confusion, rapid pulse. Cool immediately by any means. Medical emergency.
-Work limit: 20 minutes maximum in direct sun above 100°F. Rest in shade. Drink 1 quart per hour.
-High humidity blocks sweat evaporation. Danger starts at 85°F with 90% humidity during exertion.
+Work limit: 20 minutes maximum in direct sun above 100 degF. Rest in shade. Drink 1 quart per hour.
+High humidity blocks sweat evaporation. Danger starts at 85 degF with 90% humidity during exertion.
 
 ### 4. Venomous Snakes
 

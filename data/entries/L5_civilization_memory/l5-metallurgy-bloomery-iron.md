@@ -8,7 +8,8 @@ category: L5_civilization_memory
 
 **Level 5: Metallurgy & Manufacturing**
 
-Iron smelting is the technology that enabled agricultural revolution, infrastructure, and tools for 3,000+ years. Iron is the 4th most common element in Earth's crust. One bloomery operator can produce 50-100 lbs of iron per week — enough to supply a village.
+Iron smelting is the technology that enabled agricultural revolution, infrastructure, and tools for 3,000+ years. Iron is the 4th most common element in Earth's crust. One bloomery operator can
+produce 50-100 lbs of iron per week  -  enough to supply a village.
 
 ---
 
@@ -21,10 +22,10 @@ Iron smelting is the technology that enabled agricultural revolution, infrastruc
 
 **Field tests**:
 - Color: red-brown staining on rock = hematite. Black metallic = magnetite.
-- Streak: scrape on concrete — red-brown streak confirms hematite.
+- Streak: scrape on concrete  -  red-brown streak confirms hematite.
 - Weight: iron ore is 2-3x heavier than normal rock.
 - Magnet: magnetite strongly attracts compass needle.
-- Roast test: heat small piece 30 min in fire — if it becomes magnetic, contains iron.
+- Roast test: heat small piece 30 min in fire  -  if it becomes magnetic, contains iron.
 
 **Best locations**: riverbeds (placer deposits), bog edges (bog iron), hillside rock outcrops, volcanic black sand.
 
@@ -36,7 +37,7 @@ Iron smelting is the technology that enabled agricultural revolution, infrastruc
 
 **Roast** (recommended):
 1. Spread ore in 2-3" layer.
-2. Heat to red-hot (1200-1500°F) for 1-2 hours.
+2. Heat to red-hot (1200-1500 degF) for 1-2 hours.
 3. Let cool naturally. Ore becomes reddish and lighter (water driven off).
 
 **Flux** (for high-silica ores): Add 5-10% limestone or crushed shells to help slag flow.
@@ -52,15 +53,15 @@ Iron smelting is the technology that enabled agricultural revolution, infrastruc
 **Build steps**:
 1. Stone base with slag drain channel.
 2. Build circular clay walls around mold (barrel or logs).
-3. Install tuyere (air inlet pipe) through wall at 45° downward angle, 8-12" above base.
-4. Leave slag tap opening at base — arch 4-6" wide, plug with clay before smelting.
+3. Install tuyere (air inlet pipe) through wall at 45 deg downward angle, 8-12" above base.
+4. Leave slag tap opening at base  -  arch 4-6" wide, plug with clay before smelting.
 5. Dry 1-2 weeks. Fire gently first use. Inspect and repair cracks.
 
 ---
 
 ## Bellows and Airflow
 
-Charcoal needs forced air to reach 2300-2500°F for iron reduction.
+Charcoal needs forced air to reach 2300-2500 degF for iron reduction.
 
 **Box bellows**: Two hinged boards with leather sides and one-way flap valves. 2ft x 3ft boards provide adequate airflow.
 
@@ -81,7 +82,7 @@ Charcoal needs forced air to reach 2300-2500°F for iron reduction.
 4. After 2-4 hours: slag (orange-red liquid) forms at bottom. Break clay plug to drain. Re-plug with clay.
 5. After 6-10 hours: furnace sounds quieter. Less slag produced. Bloom has formed.
 6. Stop bellows. Let temperature drop 1-2 hours.
-7. Extract bloom with long tongs — it is 1800-2000°F and glowing red.
+7. Extract bloom with long tongs  -  it is 1800-2000 degF and glowing red.
 8. Hammer immediately on flat stone to squeeze out slag.
 
 ---
@@ -93,17 +94,17 @@ Charcoal needs forced air to reach 2300-2500°F for iron reduction.
 3. Fold and reweld. Repeat 5-10 heat cycles until slag-free.
 4. Shape into bars or tool forms.
 
-**Yield**: 10 lbs bloom → 5-7 lbs wrought iron bar.
+**Yield**: 10 lbs bloom -> 5-7 lbs wrought iron bar.
 
 ---
 
 ## Safety
 
-**Molten slag (1800-2000°F)**: wear leather apron, gloves, boots, eye protection. Clear area around slag tap. Never add water to slag — steam explosion.
+**Molten slag (1800-2000 degF)**: wear leather apron, gloves, boots, eye protection. Clear area around slag tap. Never add water to slag  -  steam explosion.
 
-**Carbon monoxide**: work outdoors or with excellent ventilation. CO is odorless and lethal. Headache or dizziness — move to fresh air immediately.
+**Carbon monoxide**: work outdoors or with excellent ventilation. CO is odorless and lethal. Headache or dizziness  -  move to fresh air immediately.
 
-**Furnace collapse**: inspect walls before each smelt. Keep bystanders 10+ feet away. Have dry sand nearby to smother spills — not water.
+**Furnace collapse**: inspect walls before each smelt. Keep bystanders 10+ feet away. Have dry sand nearby to smother spills  -  not water.
 
 **Bloom extraction**: use 3+ foot tongs. Heavy leather gloves.
 
@@ -111,17 +112,17 @@ Charcoal needs forced air to reach 2300-2500°F for iron reduction.
 
 ## Common Problems
 
-- Bloom does not form: temperature too low — more airflow, better charcoal, preheat longer.
-- Iron oxidizes: too much air — reduce bellows blast.
-- Furnace cools fast: insufficient charcoal — maintain level, use hardwood charcoal.
+- Bloom does not form: temperature too low  -  more airflow, better charcoal, preheat longer.
+- Iron oxidizes: too much air  -  reduce bellows blast.
+- Furnace cools fast: insufficient charcoal  -  maintain level, use hardwood charcoal.
 - Slag too thick to flow: add limestone flux (5-10%), increase temperature.
-- Furnace cracks: dried too fast or clay too wet — add straw, cure slowly.
+- Furnace cracks: dried too fast or clay too wet  -  add straw, cure slowly.
 
 ---
 
 ## Primary Products
 
-- Nails (most important — hold buildings together).
+- Nails (most important  -  hold buildings together).
 - Plow blades, hoes, sickles.
 - Axes, chisels, drill bits.
 - Hinges, brackets, chains.

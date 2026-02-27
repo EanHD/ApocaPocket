@@ -26,22 +26,22 @@ last_verified: '2026-02-19'
 summary: 'A properly made wooden bow is an effective hunting and defense tool. Best woods: yew, osage orange, black locust, hickory, elm, ash, maple. A simple flatbow can be made in 1-2 days from a seasoned
   stave.'
 warnings:
-- A breaking bow stave can send sharp splinters into eyes and face — always wear eye protection or keep face to the side when tillering
-- Never dry-fire a bow (release string without arrow) — this can shatter the bow violently
-- A survival bow will be less powerful than a commercial bow — effective range is 15-25 yards for hunting
+- A breaking bow stave can send sharp splinters into eyes and face  -  always wear eye protection or keep face to the side when tillering
+- Never dry-fire a bow (release string without arrow)  -  this can shatter the bow violently
+- A survival bow will be less powerful than a commercial bow  -  effective range is 15-25 yards for hunting
 - Green (unseasoned) wood bows take excessive set quickly and lose power. Allow to season 1-4 weeks if possible.
 steps:
 - 'WOOD SELECTION: ideal stave is a straight branch or split log, 60-68 inches long, 2 inches wide, free of knots and twists on the back (outer side). Top choices: osage orange, yew, hickory, black locust.
   Acceptable: ash, elm, maple, oak (red oak is poor). The back of the bow (facing target) should be a single unbroken growth ring.'
-- SPLIT OR SAW the stave from a log section 5-6 inches in diameter. Split in half, then quarters. Each quarter can become a bow. The back of the bow follows the outer ring of the tree — NEVER cut into this
+- SPLIT OR SAW the stave from a log section 5-6 inches in diameter. Split in half, then quarters. Each quarter can become a bow. The back of the bow follows the outer ring of the tree  -  NEVER cut into this
   surface.
-- 'ROUGH SHAPE: the handle (center 4 inches) is 1.5 inches wide and full thickness. The limbs taper gradually from handle to tips — 1.5 inches wide at handle, tapering to ¾ inch at tips. Leave the belly
+- 'ROUGH SHAPE: the handle (center 4 inches) is 1.5 inches wide and full thickness. The limbs taper gradually from handle to tips  -  1.5 inches wide at handle, tapering to 3/4 inch at tips. Leave the belly
   (inner side, facing you) thick for now.'
 - 'TILLERING: the art of removing wood from the belly so both limbs bend evenly. Place the bow on a stick (''tillering stick'') with notches at intervals. Pull the string to increasing draw lengths: 6 inches,
   12 inches, 18 inches, checking bend after each. Remove wood (scraping with knife or glass) from stiff spots on the belly. Both limbs must bend in a smooth arc.'
-- 'Target draw weight for hunting: 40-50 lbs at 28-inch draw. For a 66-inch flatbow, leave limbs 1.5 inches wide and ~¾ inch thick at the handle, tapering to ½ inch thick near tips. Measure draw weight
+- 'Target draw weight for hunting: 40-50 lbs at 28-inch draw. For a 66-inch flatbow, leave limbs 1.5 inches wide and ~3/4 inch thick at the handle, tapering to 1/2 inch thick near tips. Measure draw weight
   by hanging known weights.'
-- 'CUT STRING NOCKS: small grooves ½ inch from each tip, angled to hold the string. Do not cut into the back — only the sides and belly.'
+- 'CUT STRING NOCKS: small grooves 1/2 inch from each tip, angled to hold the string. Do not cut into the back  -  only the sides and belly.'
 - 'STRING: twisted plant fiber (linen, dogbane, nettle, sinew) or paracord. Bow string should be 3-4 inches shorter than the bow. Brace height (string to handle distance) should be 6-7 inches for a flatbow.'
 - 'ARROWS: straight shoots of dogwood, viburnum, willow, or bamboo, 28-30 inches long, pencil-thick. Straighten over heat. Fletch with feathers (split feather, 3 per arrow, glued/tied with sinew). Point:
   sharpened hardwood, knapped stone, or filed metal.'

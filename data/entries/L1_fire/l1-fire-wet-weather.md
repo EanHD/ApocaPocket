@@ -27,15 +27,15 @@ audit_status: verified
 summary: Rain and snow make fire starting dramatically harder. Success requires finding dry fuel sources, creating a dry platform, using a top-down fire lay, and protecting the fire from wind and precipitation
   during the critical ignition phase.
 warnings:
-- Hypothermia kills faster than hunger or thirst — getting a fire going in wet/cold conditions is a life-or-death skill
-- Wet firewood creates excessive smoke and creosote — ventilate your shelter to prevent carbon monoxide buildup
-- Never use gasoline or liquid accelerants on a fire — explosive vapor causes severe burns
-- Standing dead wood is almost always drier than anything on the ground — look up, not down
+- Hypothermia kills faster than hunger or thirst  -  getting a fire going in wet/cold conditions is a life-or-death skill
+- Wet firewood creates excessive smoke and creosote  -  ventilate your shelter to prevent carbon monoxide buildup
+- Never use gasoline or liquid accelerants on a fire  -  explosive vapor causes severe burns
+- Standing dead wood is almost always drier than anything on the ground  -  look up, not down
 steps:
 - 'DRY TINDER SOURCES (even in rain): birch bark (waterproof outer layer), dead standing grass/weeds, inner bark of dead cedar/juniper (shred finely), pine resin lumps, fatwood (resin-saturated pine heartwood
   from stumps), dead fern fronds under tree canopy, pocket lint, vaseline-soaked cotton balls (carry these in your kit).'
-- 'DRY KINDLING: snap dead twigs off standing trees — they''re drier than ground wood. Split larger sticks to expose dry inner wood. Pencil-thick and thinner. You need at least TWO large handfuls.'
-- 'DRY FUEL WOOD: standing dead trees and large dead branches still attached to trees. Split logs in half or quarters — the interior is dry even if the exterior is soaked. Batoning (splitting wood with
+- 'DRY KINDLING: snap dead twigs off standing trees  -  they''re drier than ground wood. Split larger sticks to expose dry inner wood. Pencil-thick and thinner. You need at least TWO large handfuls.'
+- 'DRY FUEL WOOD: standing dead trees and large dead branches still attached to trees. Split logs in half or quarters  -  the interior is dry even if the exterior is soaked. Batoning (splitting wood with
   a knife and baton stick) is essential in wet conditions.'
 - 'BUILD A PLATFORM: lay 3-4 arm-thick green logs side by side on wet/snowy ground. Build your fire ON this platform. This prevents ground moisture from wicking up and killing the fire.'
 - 'WIND PROTECTION: build fire against a rock face, log wall, or bank. Or construct a quick wind screen from stacked logs or leaned branches. In snow, dig a pit to below-wind level.'
@@ -45,8 +45,8 @@ steps:
   the bridge between tinder and kindling.'
 - 'IGNITION: ferro rod is most reliable wet-weather ignition (works when wet, thousands of strikes). Aim sparks into a nest of fine birch bark shavings or fatwood scrapings. Waterproof matches second choice.
   Lighters fail in cold.'
-- Once flame is established, shelter it from rain with your body or a bark slab overhead. Feed kindling slowly — don't smother the young fire. Gradually increase fuel size over 5-10 minutes.
-- 'SNOW SPECIFIC: fire on snow requires a platform of green logs or flat rocks. Dig fire pit to ground level if snow is less than 3 feet deep. Melt snow for water only in a pot near fire — eating snow lowers
+- Once flame is established, shelter it from rain with your body or a bark slab overhead. Feed kindling slowly  -  don't smother the young fire. Gradually increase fuel size over 5-10 minutes.
+- 'SNOW SPECIFIC: fire on snow requires a platform of green logs or flat rocks. Dig fire pit to ground level if snow is less than 3 feet deep. Melt snow for water only in a pot near fire  -  eating snow lowers
   core body temperature.'
 ---
 
@@ -80,7 +80,7 @@ steps:
 - Medium kindling perpendicular on top
 - Small kindling on top of that
 - Tinder on the very top
-- Light the tinder — fire burns downward,
+- Light the tinder  -  fire burns downward,
   drying each layer before igniting it
 
 ## Feather Sticks

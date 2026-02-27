@@ -80,7 +80,7 @@ audit_status: verified
 - ~34 cal per 100g fresh
 - Dried: concentrated nutrition
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Satan's bolete (B. satanas): red pores TOXIC
 - Bitter bolete (Tylopilus): bitter taste, similar

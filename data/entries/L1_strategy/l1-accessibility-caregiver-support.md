@@ -20,7 +20,7 @@ Caregiver breakdown puts BOTH people at risk. Stop if you notice:
 Never let one person carry all care.
 - Assign shifts: max 4-6 hrs continuous caregiving
 - Schedule mandatory rest before you hit the wall
-- Wake your relief partner on time — don't push through
+- Wake your relief partner on time  -  don't push through
 - Keep a simple log: who's on, who's resting, what was done
 - Eating and sleeping are non-negotiable for the caregiver
 

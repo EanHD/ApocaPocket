@@ -16,7 +16,7 @@ category: L4_agriculture_labor
 - 10 hens = 2000+ eggs/year plus manure for composting.
 - 25 broilers (12 weeks) = 75-100 lbs meat.
 - Setup: $200-500. Feed: $15-30/month for 6 hens.
-- Fast reproduction — flock doubles in 6 months.
+- Fast reproduction  -  flock doubles in 6 months.
 
 ---
 
@@ -31,13 +31,13 @@ category: L4_agriculture_labor
 
 **Run (outdoor)**:
 - 10 sq ft per bird minimum.
-- Fencing: 1/2" hardware cloth (not chicken wire — weasels bite through it).
+- Fencing: 1/2" hardware cloth (not chicken wire  -  weasels bite through it).
 - Bury fence 12" underground or lay 18" apron to stop digging.
 - Roof or net to stop hawk attacks.
 
 **Predator protection**:
 - Use complex latches (raccoons open simple hooks).
-- Close pop door every night — most predators are nocturnal.
+- Close pop door every night  -  most predators are nocturnal.
 - Hardware cloth over all openings including vents.
 
 ---
@@ -87,11 +87,11 @@ category: L4_agriculture_labor
 **Natural incubation**: Broody hen sits on up to 12 fertile eggs for 21 days. Raises chicks herself.
 
 **Artificial incubation**:
-1. Incubator at 99.5°F, 50-55% humidity, days 1-18.
+1. Incubator at 99.5 degF, 50-55% humidity, days 1-18.
 2. Turn eggs 3-5x daily (or automatic turner).
 3. Day 18 lockdown: stop turning, raise humidity to 65-70%.
 4. Day 21: chicks hatch. Leave 12-24 hours to dry.
-5. Move to brooder: 95°F week 1, drop 5°F/week until room temp.
+5. Move to brooder: 95 degF week 1, drop 5 degF/week until room temp.
 
 **Best dual-purpose breeds**: Rhode Island Red, Plymouth Rock, Sussex, Orpington, Wyandotte.
 
@@ -104,9 +104,9 @@ category: L4_agriculture_labor
 **Monthly**: deep clean coop, check for mites under wings and at vent, inspect feet for bumblefoot.
 
 **Common issues**:
-- Coccidiosis: bloody droppings — treat with Amprolium (Corid).
-- Respiratory: sneezing, gurgling — improve ventilation, treat with antibiotics if severe.
-- Mites/lice: feather loss, pale comb — treat with permethrin spray, provide dust baths.
+- Coccidiosis: bloody droppings  -  treat with Amprolium (Corid).
+- Respiratory: sneezing, gurgling  -  improve ventilation, treat with antibiotics if severe.
+- Mites/lice: feather loss, pale comb  -  treat with permethrin spray, provide dust baths.
 
 **Biosecurity**: quarantine new birds 30 days before introducing to flock. Remove dead birds immediately.
 
@@ -115,7 +115,7 @@ category: L4_agriculture_labor
 ## Butchering Overview
 
 **Age**: 8-12 weeks (broilers), 16-20 weeks (dual-purpose).
-**Process**: fast 12-24 hours > cut jugular > bleed 2-3 min > scald 140-160°F 30-60 sec > pluck > eviscerate > cold water rinse > age refrigerated 24-48 hours.
+**Process**: fast 12-24 hours > cut jugular > bleed 2-3 min > scald 140-160 degF 30-60 sec > pluck > eviscerate > cold water rinse > age refrigerated 24-48 hours.
 **Yield**: 65-75% of live weight.
 **Time**: 15-30 minutes per bird once practiced.
 

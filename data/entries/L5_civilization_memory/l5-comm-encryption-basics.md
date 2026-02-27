@@ -18,9 +18,9 @@ steps:
 - 'One-time pad: use a random key as long as the message for unbreakable encryption.'
 - Pre-distribute codebooks to trusted parties; destroy after use.
 warnings:
-- Simple ciphers are breakable by frequency analysis—don't rely on them for critical
+- Simple ciphers are breakable by frequency analysis - don't rely on them for critical
   secrets.
-- Key distribution is the hardest problem—protect keys physically.
+- Key distribution is the hardest problem - protect keys physically.
 related_entries:
 - l5-communication-systems-basics
 - l5-comm-radio-operation
@@ -44,5 +44,5 @@ Simple cipher methods for protecting sensitive communications from interception.
 5. Pre-distribute codebooks to trusted parties; destroy after use.
 
 ## Warnings
-- Simple ciphers are breakable by frequency analysis—don't rely on them for critical secrets.
-- Key distribution is the hardest problem—protect keys physically.
+- Simple ciphers are breakable by frequency analysis - don't rely on them for critical secrets.
+- Key distribution is the hardest problem - protect keys physically.

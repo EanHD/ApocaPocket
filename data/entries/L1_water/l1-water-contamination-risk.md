@@ -33,7 +33,7 @@ offline_assets: []
 
 Field risk screening guide. Know what to look for
 before committing to a source. Clear water is NOT
-safe water — pathogens and chemicals are invisible.
+safe water  -  pathogens and chemicals are invisible.
 
 ## Visual Screening
 
@@ -77,12 +77,12 @@ Check these before collecting:
 
 ## Red Flags
 
-**Find another source — do not treat:**
+**Find another source  -  do not treat:**
 - Fluorescent green, blue-green, or red color
-  (cyanobacteria/toxic algal bloom — not
+  (cyanobacteria/toxic algal bloom  -  not
   reliably neutralized by boiling or bleach)
 - Strong petrochemical smell or visible oil
-  (chemical contamination — treatment won't help)
+  (chemical contamination  -  treatment won't help)
 - Dead fish or animals concentrated at source
 - Obvious industrial or mining discharge nearby
 - Bright orange or yellow sediment on streambed
@@ -96,7 +96,7 @@ Distance from human activity matters:
 - Settlements: contamination travels 0.5-3 miles
   (sewage, greywater, solid waste)
 - Mining sites: contamination can persist
-  for decades — entire watershed at risk
+  for decades  -  entire watershed at risk
 - Roads: fuel/oil runoff within 100 ft of road
   can affect adjacent streams
 
@@ -115,10 +115,10 @@ Distance from human activity matters:
 
 ## When in Doubt
 
-- Treat ALL unknown sources — biological risk
+- Treat ALL unknown sources  -  biological risk
   is the most likely threat
-- Boiling is the gold standard — kills everything
+- Boiling is the gold standard  -  kills everything
 - If water smells or tastes wrong after treatment,
-  do not drink — find another source
+  do not drink  -  find another source
 - Document sources that gave good/bad results
   for future reference

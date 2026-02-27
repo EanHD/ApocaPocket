@@ -72,7 +72,7 @@ audit_status: verified
 - Low calorie: ~20 cal per 100g
 - High water content but vitamin value real
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Needle-like leaves + black berries = crowberry

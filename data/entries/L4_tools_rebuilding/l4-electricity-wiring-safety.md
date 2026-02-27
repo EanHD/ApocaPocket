@@ -15,19 +15,19 @@ summary: Safe practices for basic electrical wiring, connections, and grounding 
   improvised systems.
 steps:
 - Always disconnect power before working on wiring.
-- Use appropriate wire gauge for current load—thinner wire overheats with too much
+- Use appropriate wire gauge for current load - thinner wire overheats with too much
   current.
-- 'Rule of thumb: 14 AWG for ≤15A, 12 AWG for ≤20A in copper wire.'
+- 'Rule of thumb: 14 AWG for <=15A, 12 AWG for <=20A in copper wire.'
 - 'Make secure connections: twist wires together, solder if possible, insulate with
   tape or heat shrink.'
 - 'Ground metal enclosures: connect to a metal rod driven into moist earth.'
-- Install fuses or breakers—a simple fuse is a thin wire that melts before the main
+- Install fuses or breakers - a simple fuse is a thin wire that melts before the main
   wire overheats.
 - Keep wiring away from water, heat sources, and areas where it can be damaged.
 warnings:
-- Electrical shock can be fatal—never work on live circuits.
-- Poor connections cause arcing and fire—ensure all joints are tight and insulated.
-- Battery banks can deliver hundreds of amps in a short circuit—treat with same respect
+- Electrical shock can be fatal - never work on live circuits.
+- Poor connections cause arcing and fire - ensure all joints are tight and insulated.
+- Battery banks can deliver hundreds of amps in a short circuit - treat with same respect
   as mains power.
 related_entries:
 - l4-electricity-ohms-law
@@ -47,14 +47,14 @@ Safe practices for basic electrical wiring, connections, and grounding in improv
 
 ## Step-by-step
 1. Always disconnect power before working on wiring.
-2. Use appropriate wire gauge for current load—thinner wire overheats with too much current.
-3. Rule of thumb: 14 AWG for ≤15A, 12 AWG for ≤20A in copper wire.
+2. Use appropriate wire gauge for current load - thinner wire overheats with too much current.
+3. Rule of thumb: 14 AWG for <=15A, 12 AWG for <=20A in copper wire.
 4. Make secure connections: twist wires together, solder if possible, insulate with tape or heat shrink.
 5. Ground metal enclosures: connect to a metal rod driven into moist earth.
-6. Install fuses or breakers—a simple fuse is a thin wire that melts before the main wire overheats.
+6. Install fuses or breakers - a simple fuse is a thin wire that melts before the main wire overheats.
 7. Keep wiring away from water, heat sources, and areas where it can be damaged.
 
 ## Warnings
-- Electrical shock can be fatal—never work on live circuits.
-- Poor connections cause arcing and fire—ensure all joints are tight and insulated.
-- Battery banks can deliver hundreds of amps in a short circuit—treat with same respect as mains power.
+- Electrical shock can be fatal - never work on live circuits.
+- Poor connections cause arcing and fire - ensure all joints are tight and insulated.
+- Battery banks can deliver hundreds of amps in a short circuit - treat with same respect as mains power.

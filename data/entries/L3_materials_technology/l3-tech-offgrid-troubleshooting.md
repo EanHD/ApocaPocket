@@ -12,7 +12,7 @@ related: [l3-tech-battery-maintenance, l3-tech-solar-wiring]
 
 # Off-Grid Power Fixes
 
-Diagnose from source to load: solar → controller → battery → inverter → load.
+Diagnose from source to load: solar -> controller -> battery -> inverter -> load.
 
 ## No Power at All
 

@@ -1,6 +1,6 @@
 ---
 id: l5-health-wound-herbal-poultices
-title: Wound Care — Herbal
+title: Wound Care  -  Herbal
 category: L5_community_knowledge
 subtopic: health
 tags:

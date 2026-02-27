@@ -28,11 +28,11 @@ warnings:
 - None of these are effective against all bacteria
 steps:
 - 'HONEY (topical only): manuka honey (MGO 400+) or raw local honey applied to wounds. Change dressing daily. Effective against staph, strep, E.coli.'
-- 'RAW GARLIC: crush 2-3 cloves, let sit 10 min (activates allicin), consume raw. Repeat 3× daily. Broad-spectrum but destroyed by cooking.'
-- 'OREGANO OIL: 2-3 drops under tongue 2× daily OR dilute in carrier oil for topical. Contains carvacrol (antimicrobial compound).'
-- 'COLLOIDAL SILVER (controversial): 10-20 ppm solution, 1 tsp 3× daily. ONLY short-term use (<2 weeks). Overuse causes permanent discoloration.'
+- 'RAW GARLIC: crush 2-3 cloves, let sit 10 min (activates allicin), consume raw. Repeat 3x daily. Broad-spectrum but destroyed by cooking.'
+- 'OREGANO OIL: 2-3 drops under tongue 2x daily OR dilute in carrier oil for topical. Contains carvacrol (antimicrobial compound).'
+- 'COLLOIDAL SILVER (controversial): 10-20 ppm solution, 1 tsp 3x daily. ONLY short-term use (<2 weeks). Overuse causes permanent discoloration.'
 - 'TEA TREE OIL: topical only (toxic if ingested). 5-10% dilution for wound treatment.'
-- These are adjuncts — always combine with proper wound care, drainage, and clean dressing changes
+- These are adjuncts  -  always combine with proper wound care, drainage, and clean dressing changes
 ---
 # Natural Antimicrobials
 

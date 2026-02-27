@@ -70,7 +70,7 @@ audit_status: verified
 - Sprouted seeds: vitamins B, C, E
 - Greens: folate, vitamins K and C
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Wood sorrel (Oxalis): heart-shaped leaflets
 - Wood sorrel is also edible; sour taste

@@ -19,7 +19,7 @@ steps:
 - Identify underlying interests (needs) vs. stated positions (demands).
 - Seek mutually acceptable solutions; document agreements and follow up.
 warnings:
-- Unresolved conflicts escalate—address disputes early.
+- Unresolved conflicts escalate - address disputes early.
 - Mediator must remain genuinely neutral or lose credibility.
 related_entries:
 - l5-governance-principles
@@ -44,5 +44,5 @@ Techniques for resolving disputes peacefully through structured mediation and de
 5. Seek mutually acceptable solutions; document agreements and follow up.
 
 ## Warnings
-- Unresolved conflicts escalate—address disputes early.
+- Unresolved conflicts escalate - address disputes early.
 - Mediator must remain genuinely neutral or lose credibility.

@@ -18,8 +18,8 @@ steps:
 - Produce paper from plant fiber pulp, or use birch bark, clay tablets, or slate.
 - Standardize spelling and abbreviations for official records.
 warnings:
-- Ink fades over time—use carbon-based inks for permanence.
-- Damp storage destroys paper—keep records dry and ventilated.
+- Ink fades over time - use carbon-based inks for permanence.
+- Damp storage destroys paper - keep records dry and ventilated.
 related_entries:
 - l5-communication-systems-basics
 - l5-governance-record-keeping
@@ -43,5 +43,5 @@ Maintaining and teaching writing for record-keeping and knowledge preservation.
 5. Standardize spelling and abbreviations for official records.
 
 ## Warnings
-- Ink fades over time—use carbon-based inks for permanence.
-- Damp storage destroys paper—keep records dry and ventilated.
+- Ink fades over time - use carbon-based inks for permanence.
+- Damp storage destroys paper - keep records dry and ventilated.

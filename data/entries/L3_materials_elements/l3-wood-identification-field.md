@@ -17,7 +17,7 @@ steps:
 - 'Examine bark texture: smooth, furrowed, plated, or peeling.'
 - 'Check leaf shape: needle vs broadleaf, simple vs compound, alternate vs opposite.'
 - Cut a cross-section to observe growth rings, heartwood color, and grain pattern.
-- Smell fresh-cut wood—many species have distinctive odors (cedar, pine, walnut).
+- Smell fresh-cut wood - many species have distinctive odors (cedar, pine, walnut).
 - Test hardness by pressing a thumbnail into end grain.
 - Cross-reference bark + leaf + grain to narrow species identification.
 warnings: []
@@ -40,6 +40,6 @@ Field methods for identifying wood species by bark, leaf, grain, and growth char
 1. Examine bark texture: smooth, furrowed, plated, or peeling.
 2. Check leaf shape: needle vs broadleaf, simple vs compound, alternate vs opposite.
 3. Cut a cross-section to observe growth rings, heartwood color, and grain pattern.
-4. Smell fresh-cut wood—many species have distinctive odors (cedar, pine, walnut).
+4. Smell fresh-cut wood - many species have distinctive odors (cedar, pine, walnut).
 5. Test hardness by pressing a thumbnail into end grain.
 6. Cross-reference bark + leaf + grain to narrow species identification.

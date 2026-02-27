@@ -35,12 +35,12 @@ Stay with the vehicle unless there is **known, nearby, safe shelter**. A vehicle
 ## Immed Veh Chks
 - Flat tire: replace if safe and tools available.
 - Battery: check terminals, try jump-start.
-- Overheating: wait 30–60 min before opening cap.
+- Overheating: wait 30 - 60 min before opening cap.
 - Fuel leak: do not run engine; move away from vapors.
 
 ## Water/Food
-- Target hydration in heat: **2–4 L/day** per adult minimum.
-- Cold weather: **2–3 L/day** still required.
+- Target hydration in heat: **2 - 4 L/day** per adult minimum.
+- Cold weather: **2 - 3 L/day** still required.
 - Eat small frequent portions; avoid high-salt meals if water is limited.
 
 ## Signaling Priorities

@@ -9,7 +9,7 @@ time_to_read: 20 minutes
 practical_time: 1-2 hours practice required
 ---
 
-# Electronics Basics -
+# Electronics Basics
 
 Soldering is a skill. Expect ugly joints for the first 50-100 attempts. Practice on scrap boards before critical repairs.
 

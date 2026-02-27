@@ -45,11 +45,11 @@ Basic identification of common edible freshwater fish families. Most freshwater 
 ## Step-by-step
 1. Sunfish/bluegill: small, pan-sized, found in ponds and slow streams. Easiest beginner target.
 2. Catfish: bottom feeders, whisker barbels, scaleless. Found in rivers and ponds. Excellent eating.
-3. Trout: cold clear streams, spotted sides. Cook same day — spoils fast.
-4. Carp: large, common in warm water. Bony but edible — score flesh before cooking.
+3. Trout: cold clear streams, spotted sides. Cook same day  -  spoils fast.
+4. Carp: large, common in warm water. Bony but edible  -  score flesh before cooking.
 5. General: gut and cook all fish promptly. Firm flesh and clear eyes indicate freshness.
 
 ## Warnings
-- Cook all freshwater fish thoroughly — many carry parasites (tapeworm, liver flukes).
+- Cook all freshwater fish thoroughly  -  many carry parasites (tapeworm, liver flukes).
 - Avoid fish from obviously polluted water.
-- Pufferfish (if encountered) are extremely toxic — avoid entirely.
+- Pufferfish (if encountered) are extremely toxic  -  avoid entirely.

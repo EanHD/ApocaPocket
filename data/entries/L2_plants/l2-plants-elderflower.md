@@ -72,7 +72,7 @@ audit_status: verified
 - Diaphoretic: induces sweating for fever
 - Anti-inflammatory for respiratory infection
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Water hemlock (Cicuta): similar white clusters
 - Hemlock: NO compound alternate leaves

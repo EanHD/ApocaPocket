@@ -71,7 +71,7 @@ audit_status: verified
 - Sugar: quick energy when ripe
 - Dried plums last months; calorie-dense
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Chokecherry (P. virginiana): smaller berries
 - Chokecherry flesh edible; pit also toxic

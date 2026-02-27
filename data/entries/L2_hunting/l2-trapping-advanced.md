@@ -21,7 +21,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 **Parts**: vertical stick (12"), horizontal bait stick (8"), diagonal (10"), weight (20-80 lbs).
 
 **Assembly**:
-1. Cut 1/4" notches — vertical near bottom, horizontal at both ends, diagonal at both ends.
+1. Cut 1/4" notches  -  vertical near bottom, horizontal at both ends, diagonal at both ends.
 2. Lock horizontal notch over vertical notch.
 3. Insert diagonal to form "4" shape.
 4. Balance weight on vertical stick. Attach bait to horizontal.
@@ -41,7 +41,7 @@ related: [l1-trapping-basics, l2-hunting-large-game-field-dressing, l1-food-proc
 4. Thread cordage under weight, over post.
 5. Insert short toggle stick through cordage loop.
 
-Animal pulls bait → releases toggle → weight falls.
+Animal pulls bait -> releases toggle -> weight falls.
 
 ---
 
@@ -71,10 +71,10 @@ Animal pulls bait → releases toggle → weight falls.
 **Simple loop**:
 1. Make fixed loop (1/2") at one end.
 2. Thread other end through it (slip knot).
-3. Set loop size — squirrel: 3-4", rabbit: 5-6".
+3. Set loop size  -  squirrel: 3-4", rabbit: 5-6".
 4. Attach to stake or spring pole.
 
-**Spring snare**: bent sapling lifts animal after catch — prevents escape and predator theft.
+**Spring snare**: bent sapling lifts animal after catch  -  prevents escape and predator theft.
 
 ---
 
@@ -84,7 +84,7 @@ Human scent cuts success 50-80%.
 
 - Wear gloves when handling traps.
 - Boil traps in bark-water or smoke over fire.
-- Never touch bait directly — use sticks.
+- Never touch bait directly  -  use sticks.
 - Approach trail from downwind.
 
 ---
@@ -95,7 +95,7 @@ Human scent cuts success 50-80%.
 
 **Morning check steps**:
 1. Approach quietly (animal may be alive).
-2. Dispatch alive animals immediately — blunt strike to base of skull.
+2. Dispatch alive animals immediately  -  blunt strike to base of skull.
 3. Reset or relocate if no catch after 3 days.
 4. Clean trap, re-smoke or re-boil after each catch.
 
@@ -123,8 +123,8 @@ Human scent cuts success 50-80%.
 
 ## Minimum Trap Kit
 
-- 6× 110 Conibear
-- 6× 220 Conibear
+- 6x 110 Conibear
+- 6x 220 Conibear
 - 50 ft 22-gauge brass wire
 - Setting tongs
 - 20 ft light chain
@@ -138,7 +138,7 @@ Human scent cuts success 50-80%.
 ## Ethics
 
 - Deadfall/Conibear: kill in 1-2 minutes. Snares: 3-5 minutes.
-- Use correct trap size — avoid non-target animals.
-- Check every 24 hours — no exceptions.
+- Use correct trap size  -  avoid non-target animals.
+- Check every 24 hours  -  no exceptions.
 - Use all meat, hide, bone. Bury remains.
-- Survival emergency overrides regulation — document circumstances.
+- Survival emergency overrides regulation  -  document circumstances.

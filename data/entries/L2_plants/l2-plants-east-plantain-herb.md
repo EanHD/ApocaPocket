@@ -71,7 +71,7 @@ audit_status: verified
 - Seeds: similar to psyllium; fiber-rich
 - ~27 cal per 100g leaves
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Parallel veins are distinctive

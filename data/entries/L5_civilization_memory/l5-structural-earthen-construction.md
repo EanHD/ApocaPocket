@@ -20,7 +20,7 @@ steps:
 - Protect all earthen walls with roof overhangs and waterproof foundation courses.
 warnings:
 - Earthen walls dissolve in prolonged rain without protection.
-- Thick walls are needed for structural strength—minimum 30 cm.
+- Thick walls are needed for structural strength - minimum 30 cm.
 related_entries:
 - l5-structural-load-paths
 - l5-structural-masonry-basics
@@ -45,4 +45,4 @@ Building durable structures from earth-based materials available almost anywhere
 
 ## Warnings
 - Earthen walls dissolve in prolonged rain without protection.
-- Thick walls are needed for structural strength—minimum 30 cm.
+- Thick walls are needed for structural strength - minimum 30 cm.

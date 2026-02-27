@@ -66,6 +66,6 @@ Layering: moisture-wicking base plus insulating mid-layer plus wind and waterpro
 Heat priority: prevent pipes from bursting. Drain system if leaving. Keep one room above freezing.
 Heating alternatives: wood stove, vented propane heater, kerosene heater with cracked window for air.
 CO alarm: required with any combustion heat source indoors. Battery-powered model.
-Pipes: freeze at sustained temperatures below 20°F. Keep trickle running or drain before long outage.
+Pipes: freeze at sustained temperatures below 20 degF. Keep trickle running or drain before long outage.
 Food: root vegetables, canned goods, dried beans store well and tolerate cold storage.
 Mobility: snowshoes or cross-country skis for travel if roads impassable more than 3 days.

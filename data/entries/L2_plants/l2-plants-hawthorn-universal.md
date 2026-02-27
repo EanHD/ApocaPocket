@@ -71,7 +71,7 @@ audit_status: verified
 - Heart-supportive properties in all parts
 - ~52 cal per 100g flesh
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes anywhere
 - All Crataegus species are safe to eat

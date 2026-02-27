@@ -44,9 +44,9 @@ offline_assets: []
 Understanding seasonal animal behavior cycles improves foraging success and safety. Animals are most active and predictable during feeding, breeding, and migration periods.
 
 ## Step-by-step
-1. Spring: breeding season — males territorial and visible. Nesting birds aggressive. Fish spawning in shallows.
+1. Spring: breeding season  -  males territorial and visible. Nesting birds aggressive. Fish spawning in shallows.
 2. Summer: dispersed feeding. Dawn/dusk activity peaks. Water sources become gathering points.
-3. Fall: migration and fat-building. Best hunting season — animals are heaviest. Salmon runs. Nut/fruit competition.
+3. Fall: migration and fat-building. Best hunting season  -  animals are heaviest. Salmon runs. Nut/fruit competition.
 4. Winter: reduced activity, concentrated near food/shelter. Tracking easiest in snow. Hibernators unavailable.
 
 ## Warnings

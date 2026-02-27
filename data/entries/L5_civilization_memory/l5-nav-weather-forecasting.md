@@ -12,17 +12,17 @@ region_relevance:
 - global
 summary: Predicting weather changes using cloud types, wind shifts, and natural indicators.
 steps:
-- 'Learn cloud types: cirrus (high, fair) → cirrostratus (halo) → approaching front.'
+- 'Learn cloud types: cirrus (high, fair) -> cirrostratus (halo) -> approaching front.'
 - Cumulus building vertically (cumulonimbus) signals thunderstorms in 2-4 hours.
 - Wind shifting clockwise (veering) often means improving weather; counter-clockwise
   (backing) means deteriorating.
 - 'Observe animal behavior: birds flying low, insects staying near ground suggest
   low pressure.'
-- 'Build a simple barometer: sealed jar with water tube—rising water = falling pressure
+- 'Build a simple barometer: sealed jar with water tube - rising water = falling pressure
   = incoming storm.'
 warnings:
 - Local terrain (mountains, coasts) modifies large-scale weather patterns.
-- Don't rely on single indicators—use multiple signs for reliable forecasts.
+- Don't rely on single indicators - use multiple signs for reliable forecasts.
 related_entries:
 - l5-map-reading-basics
 - l5-nav-river-and-terrain
@@ -40,12 +40,12 @@ offline_assets: []
 Predicting weather changes using cloud types, wind shifts, and natural indicators.
 
 ## Step-by-step
-1. Learn cloud types: cirrus (high, fair) → cirrostratus (halo) → approaching front.
+1. Learn cloud types: cirrus (high, fair) -> cirrostratus (halo) -> approaching front.
 2. Cumulus building vertically (cumulonimbus) signals thunderstorms in 2-4 hours.
 3. Wind shifting clockwise (veering) often means improving weather; counter-clockwise (backing) means deteriorating.
 4. Observe animal behavior: birds flying low, insects staying near ground suggest low pressure.
-5. Build a simple barometer: sealed jar with water tube—rising water = falling pressure = incoming storm.
+5. Build a simple barometer: sealed jar with water tube - rising water = falling pressure = incoming storm.
 
 ## Warnings
 - Local terrain (mountains, coasts) modifies large-scale weather patterns.
-- Don't rely on single indicators—use multiple signs for reliable forecasts.
+- Don't rely on single indicators - use multiple signs for reliable forecasts.

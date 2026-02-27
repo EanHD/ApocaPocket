@@ -73,7 +73,7 @@ audit_status: verified
 - Antioxidants in flowers (beta-carotene)
 - Widely used by First Nations peoples
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes
 - Unique: magenta 4-petal flowers

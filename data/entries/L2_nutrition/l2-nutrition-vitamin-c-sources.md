@@ -27,8 +27,8 @@ Vitamin C deficiency (scurvy) can appear after prolonged low intake. Prevention 
 - Smokers often need additional intake.
 
 ## Deficiency Timeline
-- 4–8 weeks: fatigue, irritability.
-- 8–12 weeks: gum bleeding, easy bruising.
+- 4 - 8 weeks: fatigue, irritability.
+- 8 - 12 weeks: gum bleeding, easy bruising.
 - Later: poor wound healing, joint pain, tooth issues.
 
 ## High-Value Sources

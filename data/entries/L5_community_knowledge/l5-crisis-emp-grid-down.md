@@ -36,16 +36,16 @@ Modern civilization has 72 hours before chaos begins when electricity stops.
 
 ## Immediate Actions
 
-Minutes 0-5: assess scope — try battery AM/FM radio; check if car starts (pre-1980 more likely to work).
-Minutes 5-15: STAY HOME — roads become chaos within minutes; lock all doors; close blinds.
-Minutes 15-60 — FILL WATER NOW: fill every container (bathtubs, pots, bottles, buckets). City water pressure fails when pumps stop (hours) or tanks empty (6-24 hr). Most critical first-hour action.
+Minutes 0-5: assess scope  -  try battery AM/FM radio; check if car starts (pre-1980 more likely to work).
+Minutes 5-15: STAY HOME  -  roads become chaos within minutes; lock all doors; close blinds.
+Minutes 15-60  -  FILL WATER NOW: fill every container (bathtubs, pots, bottles, buckets). City water pressure fails when pumps stop (hours) or tanks empty (6-24 hr). Most critical first-hour action.
 Remaining first hour: count food supply (days/person) | count water (1 gal/person/day minimum) | note medications remaining | inventory fuel, tools, lights, and defense supplies.
 
 ## First 24 Hours
 
-Water: locate ongoing source — well, stream, rain collection, pool (for washing/sanitation).
+Water: locate ongoing source  -  well, stream, rain collection, pool (for washing/sanitation).
 Food: eat perishables first (spoil in 4-8 hr without refrigeration); ration shelf-stable food immediately.
-Security: establish watch rotation if multiple people; reinforce entry points; stay quiet and dark — no generator noise, no lit windows. Expect violence by Day 3.
+Security: establish watch rotation if multiple people; reinforce entry points; stay quiet and dark  -  no generator noise, no lit windows. Expect violence by Day 3.
 Communication: battery AM/FM radio; knock patterns and flashlight signals with trusted neighbors.
 
 ## Days 2-7
@@ -64,17 +64,17 @@ Communication: battery AM/FM radio; knock patterns and flashlight signals with t
 ## Stay vs Go
 
 Stay if: defensible home, water source nearby, trusted neighbors, food and garden potential. Default choice.
-Go if: high-rise with no water, inner-city high violence, clear destination confirmed available. Go in first 24 hr OR after month 1 — Days 2-30 are the most dangerous travel period.
+Go if: high-rise with no water, inner-city high violence, clear destination confirmed available. Go in first 24 hr OR after month 1  -  Days 2-30 are the most dangerous travel period.
 Never go without a specific destination. Highways are dangerous: stranded vehicles, ambushes, crowds.
 
 ## Fatal Mistakes
 
-- Going to store Day 1 — mob and looting; stay home 72 hours
-- Not filling water first — pressure fails fast; water before everything else
-- Assuming it is temporary — plan for months; adjust down if it ends sooner
-- Lone wolf defense — overwhelmed alone; form alliance by Day 3-5
-- Running generator or lights visibly — advertises supplies, invites raiding
-- No sanitation system — dysentery and cholera cause more deaths than direct violence
+- Going to store Day 1  -  mob and looting; stay home 72 hours
+- Not filling water first  -  pressure fails fast; water before everything else
+- Assuming it is temporary  -  plan for months; adjust down if it ends sooner
+- Lone wolf defense  -  overwhelmed alone; form alliance by Day 3-5
+- Running generator or lights visibly  -  advertises supplies, invites raiding
+- No sanitation system  -  dysentery and cholera cause more deaths than direct violence
 
 ## Long-Term Skills
 

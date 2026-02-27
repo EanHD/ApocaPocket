@@ -26,7 +26,7 @@ summary: 'Trout (rainbow, brook, brown, cutthroat) are widespread freshwater fis
   for flavor and nutrition. Must be cleaned and cooked thoroughly. Learn to identify
   species by coloration, spotting pattern, and habitat.'
 warnings:
-- Raw or undercooked fish can carry parasites (tapeworms, roundworms) - cook to 145°F
+- Raw or undercooked fish can carry parasites (tapeworms, roundworms) - cook to 145 degF
   internal temp
 - Trout from polluted waters accumulate toxins and heavy metals - avoid fish downstream
   of industry, mines, agriculture runoff
@@ -67,7 +67,7 @@ steps:
   backbone, remove ribs). Coat in flour/cornmeal if available. Fry in fat/oil until
   golden and flaky (3-5 min per side). (3) BOILING/STEW: Add whole gutted fish or
   chunks to boiling water/stew. Cook 10-15 min. (4) SMOKING: See preservation entries.
-  Target internal temp: 145°F (flesh flakes easily when done, opaque throughout).'
+  Target internal temp: 145 degF (flesh flakes easily when done, opaque throughout).'
 - 'YIELDS AND PORTIONS: Whole fish is ~60% edible meat (after gutting, heading, removing
   fins). 1-pound trout yields ~10oz of meat. Plan 8-12 oz whole fish per person per
   meal. A 12-inch trout weighs ~12 oz whole, yields ~7oz meat (150-200 calories,
@@ -76,7 +76,7 @@ steps:
   quality), Fat: 8g (rich in omega-3 fatty acids EPA & DHA - heart/brain health),
   Vitamin D: 5-10 mcg (50-100% DV), Vitamin B12: 5mcg (200% DV), Selenium: 15mcg.
   One of the healthiest wild foods. Excellent survival food - easy to catch, nutritious.'
-- 'STORAGE: FRESH: Clean immediately, keep cold (33-40°F). Use within 24 hours in
+- 'STORAGE: FRESH: Clean immediately, keep cold (33-40 degF). Use within 24 hours in
   field conditions (48 hours if well-iced). Fish spoils quickly - smell test (fresh
   fish smells mild/ocean-like, spoiled fish smells strongly fishy/ammonia). SMOKED:
   Lasts 1-2 weeks unrefrigerated if fully smoked/dried. FROZEN: Lasts 6-8 months.'

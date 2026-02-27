@@ -55,14 +55,14 @@ Rope enables shelters, tools, hunting, fishing, transport, and construction. One
 1. Hold two fiber bundles anchored at one end.
 2. Twist strand A clockwise, then cross it over strand B.
 3. Twist strand B clockwise, then cross it over strand A.
-4. Repeat — twist, cross, twist, cross.
+4. Repeat  -  twist, cross, twist, cross.
 5. Add new fibers by overlapping 4-6 inches. Keep consistent tension.
 
 **Three-ply rope** (stronger, rounder):
 1. Make three two-ply strands.
 2. Twist each strand tightly (same direction, e.g., clockwise).
 3. Ply all three together in the opposite direction (counterclockwise).
-4. Rotate — each strand stays twisted while plying.
+4. Rotate  -  each strand stays twisted while plying.
 
 ---
 
@@ -89,11 +89,11 @@ Rope enables shelters, tools, hunting, fishing, transport, and construction. One
 
 ## Common Errors
 
-- Rope unravels: wrong twist direction — use counter-twist when plying.
-- Fibers break during twist: too dry or over-twisted — dampen fibers, twist gentler.
-- Weak spots: fibers not overlapped enough — overlap new fiber 6+ inches.
-- Rope rots quickly: moisture trapped — dry thoroughly after use, hang for airflow.
-- Splices pull apart: too few tucks — minimum 3 tucks per strand.
+- Rope unravels: wrong twist direction  -  use counter-twist when plying.
+- Fibers break during twist: too dry or over-twisted  -  dampen fibers, twist gentler.
+- Weak spots: fibers not overlapped enough  -  overlap new fiber 6+ inches.
+- Rope rots quickly: moisture trapped  -  dry thoroughly after use, hang for airflow.
+- Splices pull apart: too few tucks  -  minimum 3 tucks per strand.
 
 ---
 
@@ -103,14 +103,14 @@ Rope enables shelters, tools, hunting, fishing, transport, and construction. One
 - Hunting: snares, bowstrings, trap triggers.
 - Fire: bow drill cordage.
 - Construction: hoisting, scaffolding, structural lashing.
-- Water: well draw rope (use rot-resistant fiber — cedar, agave).
+- Water: well draw rope (use rot-resistant fiber  -  cedar, agave).
 - Fishing: lines, nets.
 
 ---
 
 ## Preservation
 
-- Dry thoroughly after use — prevents rot.
+- Dry thoroughly after use  -  prevents rot.
 - Coil without kinks, hang or lay flat.
 - Store in cool, dry, dark place with airflow.
 - Inspect regularly for fraying and weak spots.

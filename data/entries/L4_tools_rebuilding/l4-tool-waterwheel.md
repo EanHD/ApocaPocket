@@ -25,9 +25,9 @@ steps:
 - Build a millrace (channel) to direct water to the wheel and control flow with a
   gate.
 warnings:
-- Moving machinery causes crush and entanglement injuries—guard exposed gears and
+- Moving machinery causes crush and entanglement injuries - guard exposed gears and
   belts.
-- Water structures can fail in floods—build with flood contingency.
+- Water structures can fail in floods - build with flood contingency.
 related_entries:
 - l4-tool-levers-and-pulleys
 - l4-electricity-simple-generators
@@ -53,5 +53,5 @@ Designing and building simple waterwheels to convert flowing water into mechanic
 7. Build a millrace (channel) to direct water to the wheel and control flow with a gate.
 
 ## Warnings
-- Moving machinery causes crush and entanglement injuries—guard exposed gears and belts.
-- Water structures can fail in floods—build with flood contingency.
+- Moving machinery causes crush and entanglement injuries - guard exposed gears and belts.
+- Water structures can fail in floods - build with flood contingency.

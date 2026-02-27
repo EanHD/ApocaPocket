@@ -15,11 +15,11 @@ region_relevance:
 - temperate
 confidence: high
 difficulty: intermediate
-summary: Prized spring mushroom with honeycomb-ridged cap. Key ID: hollow single chamber inside when sliced lengthwise. False morel (Gyromitra) is deadly — always slice to confirm.
+summary: Prized spring mushroom with honeycomb-ridged cap. Key ID: hollow single chamber inside when sliced lengthwise. False morel (Gyromitra) is deadly  -  always slice to confirm.
 warnings:
-- FALSE MOREL (Gyromitra) is DEADLY — brain-like wrinkled cap (not honeycomb), NOT hollow inside (cottony/chambered).
+- FALSE MOREL (Gyromitra) is DEADLY  -  brain-like wrinkled cap (not honeycomb), NOT hollow inside (cottony/chambered).
 - Always slice to confirm single hollow interior.
-- Raw morels cause GI illness — always cook thoroughly.
+- Raw morels cause GI illness  -  always cook thoroughly.
 related_entries:
 - l2-mushrooms-safety
 - l2-mushrooms-deadly-lookalikes
@@ -50,7 +50,7 @@ audit_status: verified
 - False morel (Gyromitra): cap hangs free like skirt
 - True morel: honeycomb pits AND ridges
 - False morel: brain-like wrinkled, not pitted
-- Gyromitra contains gyromitrin toxin — deadly
+- Gyromitra contains gyromitrin toxin  -  deadly
 
 ## Where to Find
 - Near dead elms, ash, old orchards

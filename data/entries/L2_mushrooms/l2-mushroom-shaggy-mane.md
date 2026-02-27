@@ -77,7 +77,7 @@ audit_status: verified
 - ~20 cal per 100g
 - Best fresh; no preservation value
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - No dangerous lookalikes when young
 - Older specimens with black ink: still the same

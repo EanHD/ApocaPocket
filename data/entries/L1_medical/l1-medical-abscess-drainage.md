@@ -17,8 +17,8 @@ sources:
 steps:
 - 'IDENTIFY: a ripe abscess is red, swollen, warm, and FLUCTUANT (feels soft/fluid-filled
   when pressed, like a water balloon). If the abscess is still hard and diffuse, it''s
-  not ready — apply warm compresses (clean cloth soaked in warm water) for 20 minutes,
-  4× daily for 1-3 days to bring it to a head.'
+  not ready  -  apply warm compresses (clean cloth soaked in warm water) for 20 minutes,
+  4x daily for 1-3 days to bring it to a head.'
 - 'STERILIZE: clean the skin over and around the abscess with iodine, alcohol, or
   soap and water. Sterilize your blade (heat in flame until red, cool in alcohol).'
 - 'ANESTHESIA: if available, inject lidocaine around (not into) the abscess. If not
@@ -40,7 +40,7 @@ steps:
   and daily dressing changes until healed.
 subtopic: medical_first_aid
 summary: A skin abscess (boil) is a localized collection of pus that will not resolve
-  with antibiotics alone — it must be drained. An undrained abscess can progress to
+  with antibiotics alone  -  it must be drained. An undrained abscess can progress to
   sepsis. The procedure is simple but must be done with proper technique to prevent
   spread.
 tags:
@@ -52,13 +52,13 @@ tags:
 title: Abscess Drainage
 warnings:
 - Abscesses near the eyes, nose bridge, or temple ('danger triangle of the face')
-  should NOT be drained in the field — infection can spread to the brain via venous
+  should NOT be drained in the field  -  infection can spread to the brain via venous
   drainage
 - Abscesses in the armpit, groin, or near major blood vessels require extreme caution
-  — these areas contain major arteries and nerves
+   -  these areas contain major arteries and nerves
 - If red streaking extends from the abscess, the patient has lymphangitis (spreading
-  infection) — drainage is urgent but antibiotics are also critical
-- Do NOT squeeze an abscess — this forces bacteria deeper into tissue
+  infection)  -  drainage is urgent but antibiotics are also critical
+- Do NOT squeeze an abscess  -  this forces bacteria deeper into tissue
 ---
 
 # Abscess Drainage

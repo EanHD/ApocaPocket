@@ -23,10 +23,10 @@ last_verified: '2026-02-18'
 summary: 'Immobilize fractures and dislocations to prevent further injury, reduce pain, and enable transport. The rule: splint above and below the injury, immobilizing the joints on either side of the break.'
 warnings:
 - Never attempt to straighten or realign a deformed limb unless circulation is absent below the fracture (no pulse, blue/white fingers or toes)
-- Check circulation BEFORE and AFTER splinting — if fingers/toes become blue, numb, or cold, the splint is too tight
-- Open fractures (bone visible or puncture wound at fracture site) require wound coverage BEFORE splinting — do not push bone back in
+- Check circulation BEFORE and AFTER splinting  -  if fingers/toes become blue, numb, or cold, the splint is too tight
+- Open fractures (bone visible or puncture wound at fracture site) require wound coverage BEFORE splinting  -  do not push bone back in
 - 'Spinal injury: DO NOT MOVE the patient unless in immediate danger. Immobilize head and neck in position found.'
-- Swelling will increase for 24-48 hours — check and loosen bindings regularly
+- Swelling will increase for 24-48 hours  -  check and loosen bindings regularly
 steps:
 - 'Rigid splint materials: straight sticks (wrist-thick), trekking poles, tent poles, rolled newspaper/magazine, corrugated cardboard, bark slabs, split bamboo, rifle/shotgun barrel.'
 - 'Padding: place cloth, moss, leaves, or clothing between splint and skin. Padding prevents pressure sores and improves immobilization.'
@@ -34,9 +34,9 @@ steps:
   chest.'
 - 'Lower leg fracture: place splints on inside and outside of leg. Extend from mid-thigh to past the foot. Bind at 5-6 points. Include the foot in a natural position. A buddy''s leg can serve as splint
   (tie injured leg to uninjured leg).'
-- 'Improvised traction splint (femur fracture): critical for thigh fractures which can bleed 1-2 liters internally. Use two long sticks — one from armpit to past foot, one from groin to past foot. Pad groin
+- 'Improvised traction splint (femur fracture): critical for thigh fractures which can bleed 1-2 liters internally. Use two long sticks  -  one from armpit to past foot, one from groin to past foot. Pad groin
   and armpit. Apply gentle traction by pulling foot and securing with cravat to lower splint end.'
-- 'Sling-and-swath for shoulder/collarbone: fold triangular bandage (or large cloth cut diagonally). Place forearm in sling at 90° angle. Tie at neck. Wrap a ''swath'' (belt or cloth strip) around torso
+- 'Sling-and-swath for shoulder/collarbone: fold triangular bandage (or large cloth cut diagonally). Place forearm in sling at 90 deg angle. Tie at neck. Wrap a ''swath'' (belt or cloth strip) around torso
   and arm to prevent swinging.'
 - 'Finger splint: tape injured finger to adjacent finger (buddy splint) with small padding between. Or use a popsicle stick/twig as rigid splint with tape.'
 - 'Ankle/foot: wrap in pillow or thick clothing and bind. Or use figure-8 wrap with elastic/cloth bandage. Leave toes exposed to monitor circulation.'
@@ -92,7 +92,7 @@ Securing:
 - Leg: 2 padded boards, inner/outer
 - Knee: splint in slight flexion
 - Do not straighten angulated fractures
-- Splint as found — in position found
+- Splint as found  -  in position found
 - Femur: traction needed (see entry)
 - Buddy splint: tie to the other leg
 - Toes exposed to monitor circulation

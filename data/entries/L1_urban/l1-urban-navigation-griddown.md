@@ -37,7 +37,7 @@ sources:
 - Morning: sun in East (shadow points West)
 - Noon: sun in South, shadow points North
 - Afternoon: sun in West (shadow points East)
-- Shadow stick: plant stick, mark shadow tip, wait 15 min, mark again — line between marks = W to E
+- Shadow stick: plant stick, mark shadow tip, wait 15 min, mark again  -  line between marks = W to E
 
 **Stars (night):**
 - Big Dipper pointer stars x 5 = Polaris (North Star, true North within 1 degree)

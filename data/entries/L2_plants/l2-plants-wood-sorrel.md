@@ -40,11 +40,11 @@ offline_assets: []
 Small clover-lookalike with heart-shaped leaflets and pleasant lemony flavor from oxalic acid. Excellent trail snack and salad addition in small quantities.
 
 ## Step-by-step
-1. Identify by three heart-shaped (notched) leaflets — NOT round like clover. Five-petaled flowers (yellow, white, or pink).
+1. Identify by three heart-shaped (notched) leaflets  -  NOT round like clover. Five-petaled flowers (yellow, white, or pink).
 2. Eat leaves, flowers, and seed pods raw.
 3. Use as lemon substitute in cooking and drinks.
 4. Leaves fold down at night and in strong sun.
 
 ## Warnings
-- Contains oxalic acid — eat in moderation, not as a staple.
+- Contains oxalic acid  -  eat in moderation, not as a staple.
 - Avoid large quantities if kidney stone prone.

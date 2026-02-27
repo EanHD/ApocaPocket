@@ -14,18 +14,18 @@ summary: Building simple season-extending structures from salvaged or natural ma
 steps:
 - 'Cold frame: a bottomless box (wood, cinder block) with a transparent lid (glass,
   clear plastic) angled south.'
-- 'Size: ~1m × 2m is manageable; lid must open for ventilation.'
+- 'Size: ~1m x 2m is manageable; lid must open for ventilation.'
 - 'Hoop house: bend flexible rods (PVC, willow, metal) into arches, cover with clear
   plastic sheeting.'
-- Anchor hoops firmly—wind is the primary threat to lightweight structures.
+- Anchor hoops firmly - wind is the primary threat to lightweight structures.
 - 'Ventilation is critical: open ends/sides on warm days to prevent overheating and
   disease.'
-- 'Thermal mass: fill dark containers with water inside the structure—absorbs heat
+- 'Thermal mass: fill dark containers with water inside the structure - absorbs heat
   by day, releases at night.'
-- These structures extend growing season 4–8 weeks on each end and protect from frost.
+- These structures extend growing season 4 - 8 weeks on each end and protect from frost.
 warnings:
-- Overheating kills plants faster than cold—always provide ventilation options.
-- Plastic degrades in UV—replace or protect sheeting annually.
+- Overheating kills plants faster than cold - always provide ventilation options.
+- Plastic degrades in UV - replace or protect sheeting annually.
 related_entries:
 - l4-agriculture-soil-basics
 - l4-agriculture-irrigation-gravity
@@ -43,13 +43,13 @@ Building simple season-extending structures from salvaged or natural materials.
 
 ## Step-by-step
 1. Cold frame: a bottomless box (wood, cinder block) with a transparent lid (glass, clear plastic) angled south.
-2. Size: ~1m × 2m is manageable; lid must open for ventilation.
+2. Size: ~1m x 2m is manageable; lid must open for ventilation.
 3. Hoop house: bend flexible rods (PVC, willow, metal) into arches, cover with clear plastic sheeting.
-4. Anchor hoops firmly—wind is the primary threat to lightweight structures.
+4. Anchor hoops firmly - wind is the primary threat to lightweight structures.
 5. Ventilation is critical: open ends/sides on warm days to prevent overheating and disease.
-6. Thermal mass: fill dark containers with water inside the structure—absorbs heat by day, releases at night.
-7. These structures extend growing season 4–8 weeks on each end and protect from frost.
+6. Thermal mass: fill dark containers with water inside the structure - absorbs heat by day, releases at night.
+7. These structures extend growing season 4 - 8 weeks on each end and protect from frost.
 
 ## Warnings
-- Overheating kills plants faster than cold—always provide ventilation options.
-- Plastic degrades in UV—replace or protect sheeting annually.
+- Overheating kills plants faster than cold - always provide ventilation options.
+- Plastic degrades in UV - replace or protect sheeting annually.

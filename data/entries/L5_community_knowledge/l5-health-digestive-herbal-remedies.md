@@ -1,6 +1,6 @@
 ---
 id: l5-health-digestive-herbal-remedies
-title: Digestive Issues — Wild
+title: Digestive Issues  -  Wild
 category: L5_community_knowledge
 subtopic: health
 tags:

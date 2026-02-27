@@ -35,33 +35,33 @@ related: ["l3-tech-solar-wiring", "l3-tech-charge-controllers", "l3-tech-battery
 **STC ratings are lab conditions. Real output = 75-85% of nameplate.**
 
 Derating factors:
-- Temperature: -0.4%/°C above 25°C (panels reach 45-65°C in sun).
+- Temperature: -0.4%/ degC above 25 degC (panels reach 45-65 degC in sun).
 - Soiling: -2 to -10%.
 - Wiring losses: -2 to -3%.
 
-**Example**: 300W panel at 55°C cell temp → actual ~240W typical.
+**Example**: 300W panel at 55 degC cell temp -> actual ~240W typical.
 
 ---
 
 ## System Sizing
 
-**Step 1 — Daily load (Wh/day)**:
-List every load: watts × hours/day = Wh. Sum all items.
+**Step 1  -  Daily load (Wh/day)**:
+List every load: watts x hours/day = Wh. Sum all items.
 
-**Step 2 — Account for losses**:
-Divide total by 0.90 (inverter) × 0.85 (lead-acid battery) × 0.95 (system).
+**Step 2  -  Account for losses**:
+Divide total by 0.90 (inverter) x 0.85 (lead-acid battery) x 0.95 (system).
 
-**Step 3 — Peak sun hours (PSH)**:
+**Step 3  -  Peak sun hours (PSH)**:
 Use winter PSH for off-grid (worst case). Find at pvwatts.nrel.gov.
 - Pacific NW winter: 2.0 PSH. Arizona winter: 5.5 PSH.
 
-**Step 4 — Array size**:
+**Step 4  -  Array size**:
 ```
-Array (W) = Daily Wh ÷ PSH ÷ 0.80 derating
+Array (W) = Daily Wh / PSH / 0.80 derating
 ```
 Add 20-30% buffer for cloudy days.
 
-**Step 5 — System voltage**:
+**Step 5  -  System voltage**:
 - 12V: small systems <1000W, RVs.
 - 24V: homes <3000W.
 - 48V: large homes >3000W, long wire runs.
@@ -73,11 +73,11 @@ Higher voltage = smaller wire = less cost.
 ## Mounting & Angle
 
 **Tilt angle**: Use latitude as fixed tilt (year-round).
-- Add 15° for winter optimization in snow climates.
-- Minimum 10° tilt on any "flat" mount — prevents debris/water pooling.
+- Add 15 deg for winter optimization in snow climates.
+- Minimum 10 deg tilt on any "flat" mount  -  prevents debris/water pooling.
 
 **Direction**: Face true south (N. Hemisphere). Not magnetic south.
-- Acceptable: ±15° from true south (<5% production loss).
+- Acceptable: +/-15 deg from true south (<5% production loss).
 
 **Roof vs ground**:
 - Roof: space-efficient, harder to clean. Min 6" clearance for airflow.
@@ -89,7 +89,7 @@ Higher voltage = smaller wire = less cost.
 
 **DC voltage hazards**:
 - 12V: low risk. 24V: moderate at high current. 48V+: LETHAL.
-- DC has no zero-crossing — arc won't self-extinguish. Use DC-rated breakers only.
+- DC has no zero-crossing  -  arc won't self-extinguish. Use DC-rated breakers only.
 
 **Required equipment**:
 - DC disconnect switch (lockout/tagout capable) between array and charge controller.
@@ -107,15 +107,15 @@ Higher voltage = smaller wire = less cost.
 
 ## Common Errors
 
-**AC breakers on DC circuits**: AC breakers need zero-crossing to extinguish arc. DC has none → fire hazard. Use DC-rated only.
+**AC breakers on DC circuits**: AC breakers need zero-crossing to extinguish arc. DC has none -> fire hazard. Use DC-rated only.
 
 **Undersizing for winter**: Design for worst-case PSH. Add 30% buffer.
 
-**Flat mounting (0° tilt)**: Debris accumulates, 20-30% production loss, water pooling.
+**Flat mounting (0 deg tilt)**: Debris accumulates, 20-30% production loss, water pooling.
 
-**Mixing panel types in same string**: Current limited to weakest panel → hotspots → fire risk. Use identical panels per string.
+**Mixing panel types in same string**: Current limited to weakest panel -> hotspots -> fire risk. Use identical panels per string.
 
-**No snow load consideration**: Check local psf requirements. Tilt >35° in snow regions so panels self-clear.
+**No snow load consideration**: Check local psf requirements. Tilt >35 deg in snow regions so panels self-clear.
 
 ---
 

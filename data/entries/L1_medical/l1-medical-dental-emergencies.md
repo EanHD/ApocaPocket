@@ -24,7 +24,7 @@ steps:
 warnings:
 - Dental infections can spread to throat/brain and become life-threatening.
 - Field extraction carries high risk of jaw fracture and hemorrhage.
-- Never place aspirin directly on gums — causes chemical burns.
+- Never place aspirin directly on gums  -  causes chemical burns.
 related_entries:
 - l1-medical-basic-pharmacology
 - l1-medical-infection-prevention
@@ -51,4 +51,4 @@ Managing dental emergencies including toothache, lost fillings, and knocked-out 
 ## Warnings
 - Dental infections can spread to throat/brain and become life-threatening.
 - Field extraction carries high risk of jaw fracture and hemorrhage.
-- Never place aspirin directly on gums — causes chemical burns.
+- Never place aspirin directly on gums  -  causes chemical burns.

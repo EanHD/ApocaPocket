@@ -71,7 +71,7 @@ audit_status: verified
 - Dried berries last months in dry bag
 - Mash and dry as fruit leather sheet
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Baneberry (Actaea rubra): red cluster
 - Nightshade (Solanum): clusters, hairy

@@ -73,7 +73,7 @@ audit_status: verified
 - Some protein and minerals
 - Energy-dense survival food
 
-## Lookalikes — DANGER
+## Lookalikes  -  DANGER
 
 - Poison hemlock (Conium maculatum)
 - Water hemlock (Cicuta douglasii)

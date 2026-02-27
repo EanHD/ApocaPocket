@@ -48,6 +48,6 @@ Emergency vitamin C source available year-round in conifer forests. Fresh pine n
 4. Strain and drink. Add sweetener if available.
 
 ## Warnings
-- AVOID yew (Taxus), Norfolk Island pine, and Ponderosa pine — toxic.
+- AVOID yew (Taxus), Norfolk Island pine, and Ponderosa pine  -  toxic.
 - Pregnant women should avoid pine needle tea (potential abortifacient).
-- Some cypress-family trees look similar — confirm true Pinus by fascicle bundles.
+- Some cypress-family trees look similar  -  confirm true Pinus by fascicle bundles.

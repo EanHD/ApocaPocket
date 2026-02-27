@@ -16,7 +16,7 @@ region_relevance:
 - north-america
 confidence: high
 difficulty: beginner
-summary: Abundant fall nut crop from oak trees. All species edible after tannin leaching. White oak group has less tannin. One oak produces hundreds of pounds annually — a major survival staple.
+summary: Abundant fall nut crop from oak trees. All species edible after tannin leaching. White oak group has less tannin. One oak produces hundreds of pounds annually  -  a major survival staple.
 warnings:
 - Unleached acorns are very bitter; tannins cause nausea and kidney stress.
 - Red oak acorns require significantly more leaching than white oak.
@@ -44,7 +44,7 @@ offline_assets:
 - All oaks produce edible acorns after leaching
 
 ## Acorn Varieties
-- White oak (Q. alba): large, warty cap, low tannin — BEST
+- White oak (Q. alba): large, warty cap, low tannin  -  BEST
 - Bur oak (Q. macrocarpa): very large, fringed cap, sweet
 - Northern red oak (Q. rubra): large, flat cap, very bitter
 - Pin oak (Q. palustris): small, round, bitter (red group)

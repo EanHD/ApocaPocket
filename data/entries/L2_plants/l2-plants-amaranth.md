@@ -50,5 +50,5 @@ Dual-purpose plant providing both nutritious greens and protein-rich grain. Thri
 5. Boil greens briefly to reduce oxalates.
 
 ## Warnings
-- High oxalate content — cook before eating in quantity.
+- High oxalate content  -  cook before eating in quantity.
 - Pigweed species can accumulate nitrates from fertilized soil.

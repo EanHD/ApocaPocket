@@ -21,18 +21,18 @@ sources:
 ## Start CPR When
 
 - Child unresponsive AND not breathing (gasping counts as not breathing)
-- Do not wait — start CPR immediately
+- Do not wait  -  start CPR immediately
 - Unwitnessed arrest: 2 minutes CPR first, then call 911
 - Witnessed arrest or child over 8 years: call 911 first, then CPR
-- Pediatric arrest is usually respiratory — rescue breaths matter here
+- Pediatric arrest is usually respiratory  -  rescue breaths matter here
 
 ## Infant CPR (<1 yr)
 
-- Hard flat surface — head neutral position, not tilted back
+- Hard flat surface  -  head neutral position, not tilted back
 - 2 fingers on center of chest just below nipple line
 - Compress 1.5 inches (4cm) deep at 100-120 per minute
 - 30 compressions then cover BOTH mouth AND nose, give 2 breaths
-- Each breath 1 second — just enough to see small chest rise
+- Each breath 1 second  -  just enough to see small chest rise
 - Two rescuers: both thumbs encircling chest, 15:2 ratio
 - Pulse check location: brachial artery inside upper arm
 
@@ -56,16 +56,16 @@ sources:
 ## AED on Kids
 
 - Under age 8 or under 55 lbs: use pediatric pads if available
-- No pediatric pads available: use adult pads — survival over theory
+- No pediatric pads available: use adult pads  -  survival over theory
 - Infant: one pad on chest (front), one pad on back
 - Child: upper right chest and lower left side (standard placement)
-- Pads must not touch each other — use front-back if too close
+- Pads must not touch each other  -  use front-back if too close
 - Resume CPR immediately after each shock without pause
 
 ## When to Stop/Continue
 
 - Continue until: signs of life, EMS takes over, scene unsafe
-- Do NOT stop for rib fractures — common and acceptable
+- Do NOT stop for rib fractures  -  common and acceptable
 - Vomiting: turn head, clear mouth, continue CPR
 - Cold water (hypothermia): continue until patient is warm AND unresponsive
 - Recovery: place on side, monitor breathing continuously

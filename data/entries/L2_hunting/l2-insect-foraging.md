@@ -50,6 +50,6 @@ Insects are the most abundant and accessible animal protein source. Crickets, gr
 5. General rule: avoid brightly colored insects (warning coloration), hairy caterpillars, and strong-smelling bugs.
 
 ## Warnings
-- ALWAYS cook insects — raw insects may carry parasites.
+- ALWAYS cook insects  -  raw insects may carry parasites.
 - Avoid brightly colored, hairy, or pungent species.
 - People with shellfish allergies may react to insects (similar chitin proteins).
